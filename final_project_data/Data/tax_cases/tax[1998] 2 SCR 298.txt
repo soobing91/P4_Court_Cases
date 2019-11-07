@@ -1,0 +1,1557 @@
+Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298  Continental Bank Leasing Corporation                                            Appellant  v.  Her Majesty The Queen                                                                   Respondent  and  The Canadian Bankers’ Association                                                Intervener  Indexed as:  Continental Bank Leasing Corp. v.
+Canada  File No.:  25532.  1998:  January 26; 1998:  September 3.   on appeal from the federal court of appeal  Income tax -- Depreciable assets -- Recapture of
+capital cost allowance -- Rollover of assets into partnership -- Bank
+subsidiary entering into partnership and transferring assets to it pursuant to
+rollover provision -- Bank Act  prohibiting banks from participating in
+partnerships -- Provincial partnerships legislation providing for dissolution
+of partnership upon happening of event making it unlawful for business of firm
+to be carried on or for members of firm to carry it on in partnership --
+Whether partnership rendered invalid -- If so, whether subsidiary liable for
+recapture of capital cost allowance -- Income Tax Act, R.S.C. 1952, c. 148,
+ss. 13, 97(2) -- Bank Act, R.S.C., 1985, c. B-1, s. 174(2) --
+Partnerships Act, R.S.O. 1980, c. 370, s. 34.  In 1986, Continental Bank of Canada (the “Bank”),
+which had decided to wind up its affairs, invited offers for the purchase of
+the shares or assets of its wholly owned subsidiary, Continental Bank Leasing
+Corp. (“Leasing”).  Central Capital Leasing (“Central”), which had concerns
+about the creditworthiness of several of the leases and certain contingent tax
+liabilities of Leasing, proposed a transaction whereby Leasing would form a
+partnership with several Central subsidiaries to carry on the same business as
+Leasing, transfer its assets other than the excluded leases to the partnership
+using an election under s. 97(2) of the Income Tax Act, a rollover
+provision, distribute its partnership interest to the Bank at its cost base as
+part of its winding-up, and then have the Bank sell its interest to Central or
+its subsidiaries.  A master agreement was signed setting out the various
+steps to be executed by the parties.  The partnership was formed on December
+24, 1986; all partners, except Leasing, gave representations and warranties
+that they were and would remain duly registered and qualified to carry on the
+business of the partnership.  On December 27, Leasing and the Bank signed an
+indenture providing for the transfer of Leasing’s partnership interest to the
+Bank.  On December 29, 1986, the Bank sold the interest in the partnership to
+subsidiaries of Central.  Leasing filed its income tax return for 1987 based on
+these transfers.  The Minister of National Revenue reassessed Leasing on the
+basis that the partnership transaction was invalid and that the true nature of
+the transaction was a disposition by Leasing of its leasing assets to Central,
+making the s. 97(2) election invalid and giving rise to recaptured capital
+cost allowance in the hands of Leasing.  Under s. 174(2) of the Bank
+Act , a bank may not, directly or indirectly, participate in a partnership
+in Canada. Section 34 of the Ontario Partnerships Act provides that a
+partnership is “dissolved by the happening of any event that makes it unlawful
+for the business of the firm to be carried on or for the members of the firm to
+carry it on in partnership”.  The Tax Court of Canada allowed Leasing’s appeal
+of the reassessment.  The Federal Court of Appeal reversed that decision.  Held (L’Heureux-Dubé
+and Bastarache JJ. dissenting):  The appeal should be allowed.  Per Gonthier, Cory,
+McLachlin, Iacobucci and Major JJ.:  While the other aspects of Bastarache J.’s
+reasons were agreed with, s. 34 of the Ontario Partnerships Act did
+not render the partnership between Leasing and its partners void.  The business
+of a partnership is not rendered illegal merely because an investor holds
+shares in a corporate partner in the partnership when the law says it should
+not.  The partnership must be distinguished from those who may invest in or support
+the partners that make it up.  Prior to December 27, 1986, the Bank was not a
+partner.  It merely held shares in one of the partners, Leasing, which was a
+separate and legally distinct corporation.   Section 174  of the Bank Act 
+accordingly did not make it unlawful for the partnership to carry on its
+business, or for Leasing to be a partner, prior to December 27.  The
+partnership was not dissolved under s. 34 of the Partnerships Act
+simply because the Bank should not have held shares in one of the partners. 
+Nor can Leasing’s participation in the partnership be considered unlawful
+within the meaning of s. 34 of the Partnerships Act by reason of
+the public policy component of the common law doctrine of illegality.  A
+finding that Leasing’s participation should be void or unenforceable for public
+policy reasons does not necessarily mean that its participation was illegal or
+unlawful in the traditional sense of either term.  Moreover, public policy
+requires that breaches of the Bank Act  should not lead to the
+invalidation of contracts and other transactions.  More importantly,
+s. 20(1)  of the Bank Act , which stipulates that no act of a bank is
+invalid by reason only of a contravention of that Act, supports the view that
+Parliament never intended breaches of the Bank Act  to render bank
+transactions null and void.  Since the partnership was valid between December
+24 and December 27, the election under s. 97(2) of the Income Tax Act was
+also valid.  Per L’Heureux-Dubé and
+Bastarache JJ. (dissenting):  In cases such as this, where the parties have
+entered into a formal written agreement to govern their relationship and hold
+themselves out as partners, the courts should determine whether the agreement
+contains the type of provisions typically found in a partnership agreement,
+whether the agreement was acted upon and whether it actually governed the
+affairs of the parties.  On the face of the agreements entered into, the
+parties created a valid partnership within the meaning of s. 2 of the Partnerships
+Act, which provides that partnership is the relation that subsists between
+persons carrying on a business in common with a view to profit.  Moreover, the
+parties acted upon the agreements and the agreements governed their affairs. 
+While it is true that between December 24 and December 27, 1986, no meetings
+were held, no new transactions were entered into by the parties and no
+decisions were made, there was no termination of Leasing’s contracts with its
+customers when Leasing’s business and assets were transferred to the
+partnership and the contracts continued during this period.  The fact that no
+new business was created during the period of Leasing’s and the Bank’s
+involvement in the partnership does not negate the effect of the existing
+business that was continued during this time.  As well, the business that was
+carried on was carried on by the partners in common.   Leasing and the Bank
+held themselves out as partners, and conducted themselves as partners for the
+duration of their memberships in the partnership.  The business was also
+carried on with a view to profit.  The partnership agreement provided for the
+distribution of the profits from the leasing business being operated by the
+partnership and the partnership continued to carry on the business operated for
+profit by Leasing. While the Bank contravened s. 174(2) (i) of
+the Bank Act  by entering into a partnership, the prohibition in that
+provision does not make partnerships ultra vires the Bank.  Under
+s. 18(1) of the Act, a bank has the “capacity and . . . the rights, powers
+and privileges of a natural person”.  Section 20(1)  states that “[n]o act of a
+bank, including any transfer of property to or by a bank, is invalid by reason
+only that the act or transfer is contrary to this Act”.  While s. 20(1) is
+not a complete bar to the application of the doctrine of illegality in the
+appropriate case, the doctrine does not apply in the present circumstances. 
+Section 20(1)  is not in conflict with s. 34 of the Ontario Partnerships
+Act, however, which has the effect of dissolving the unlawfully formed
+partnership ab initio.  Payment of the penalties set out in
+s. 174(16)  of the Bank Act  does not render lawful what the Bank
+Act  prohibits.  Any indirect participation by a bank, through a subsidiary
+company, for example, makes the carrying on of business in the partnership
+“unlawful” within the meaning of s. 34 of the Partnerships Act. 
+Leasing’s participation in the partnership can also be considered “unlawful” by
+reason of the public policy component of the common law doctrine of
+illegality.  While it may not be strictly contrary to the Bank Act  for
+Leasing to enter into a partnership, in all of the circumstances it is contrary
+to public policy to allow the parties to benefit from their deliberate breach
+of the Act’s prohibitions.  The collapse of the partnership scheme vis-à-vis
+Leasing does not change the fact that Leasing’s assets were transferred to
+Central’s subsidiaries on December 24, 1986.  Because these assets were not
+transferred to a partnership pursuant to s. 97(2) of the Income Tax Act,
+Leasing cannot take advantage of that rollover provision and is therefore
+liable for the recapture of capital cost allowance on its depreciable assets
+pursuant to s. 13 of the Income Tax Act.  Cases Cited  By McLachlin J.  Referred to:  Salomon v. A. Salomon and Co., [1897] A.C. 22.  By Bastarache J. (dissenting)  Continental Bank of Canada v. Canada, [1998] 2 S.C.R. 358; Stubart Investments Ltd. v. The Queen,
+[1984] 1 S.C.R. 536; Orion Finance Ltd. v. Crown Financial Management Ltd.,
+[1996] 2 B.C.L.C. 78; Mahon v. Minister of National Revenue, 91 D.T.C.
+878; Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336; Canada v.
+Antosko, [1994] 2 S.C.R. 312; Ashbury Railway Carriage and Iron Co. v.
+Riche (1875), L.R. 7 H.L. 653; Communities Economic Development Fund v.
+Canadian Pickles Corp., [1991] 3 S.C.R. 388; Cope v. Rowlands
+(1836), 2 M. & W. 149, 150 E.R. 707; Sidmay Ltd. v. Wehttam Investments
+Ltd. (1967), 61 D.L.R. (2d) 358, aff’d on other grounds, [1968] S.C.R. 828;
+Royal Bank of Canada v. Grobman (1977), 18 O.R. (2d) 636; Still v.
+Minister of National Revenue (1997), 221 N.R. 127; Neider v. Carda of
+Peace River District Ltd., [1972] S.C.R. 678; Menard v. Genereux
+(1982), 39 O.R. (2d) 55; Holman v. Johnson (1775), 1 Cowp. 341, 98 E.R.
+1120; Hudgell Yeates & Co. v. Watson, [1978] 2 All E.R. 363.  Statutes and Regulations Cited  Bank Act, R.S.C., 1985, c. B-1, ss. 18(1), 20(1), 174(2)(i),
+(16), 246.  Canada Business Corporations
+Act , S.C. 1974-75-76, c. 33, ss. 15(1), 16(3).  Income Tax Act, R.S.C. 1952, c. 148 [am. 1970-71-72, c. 63], ss. 13 [am.
+1976-77, c. 4, s. 3; am. 1980-81-82-83, c. 48. s. 5], 56(4), 85(1)
+[am. 1974-75-76, c. 26, s. 48; am. 1980-81-82-83, c. 48, s. 45; am.
+1985, c. 45, s. 41], 88(1) [am. 1974-75-76, c. 26, s. 52; am. 1979, c. 5,
+s. 29; am. 1980-81-82-83, c. 48, s. 48], 97(1), (2) [am. 1974-75-76,
+c. 26, s. 61; am. 1980-81-82-83, c. 140, s. 58; am. 1985, c. 45,
+s. 49].  Partnerships Act, R.S.O. 1980, c. 370, ss. 1(1)(a) “business”, 2, 15,
+34.  Authors Cited  Black’s
+Law Dictionary, 6th ed.  St. Paul, Minn.:  West
+Publishing Co., 1990, “unlawful”.  Cheshire, Fifoot and Furmston’s
+Law of Contract, 13th ed.  London:  Butterworths,
+1996.  Contracts:  Cases and
+Commentaries, 5th ed.  Edited by Christine Boyle
+and David R. Percy.  Scarborough, Ont.:  Carswell, 1994.  Crawford and Falconbridge,
+Banking and Bills of Exchange:  A Treatise on
+the Law of Banks, Banking, Bills of Exchange and the Payment System in Canada,
+vol. 1, 8th ed.  Toronto:  Canada Law Book, 1986.  Fridman, G. H. L.  The Law of
+Contract in Canada, 3rd ed.  Scarborough, Ont.:  Carswell, 1994.  Lindley & Banks on
+Partnership, 17th ed.  London:  Sweet &
+Maxwell, 1995.  Manzer, Alison R.  A Practical
+Guide to Canadian Partnership Law.  Aurora, Ont.:  Canada Law Book, 1994
+(loose-leaf updated October 1997, release No. 3).  Manzer, Alison R.  The Bank Act 
+Annotated.  Toronto:  Butterworths, 1993.  Ogilvie, M. H.  Canadian
+Banking Law.  Scarborough, Ont.:  Carswell, 1991.  Treitel, G. H.  The Law of
+Contract, 9th ed.  London:  Sweet & Maxwell, 1995.  Wegenast, F. W.  The Law of
+Canadian Companies.  Toronto:  Carswell, 1979.  APPEAL from a judgment of the Federal Court of Appeal,
+[1996] 3 F.C. 713, 199 N.R. 9, 25 B.L.R. (2d) 149, 96 D.T.C. 6355, [1997] 1
+C.T.C. 13, [1996] F.C.J. No. 710 (QL), allowing the Crown’s appeal from a
+decision of the Tax Court of Canada, [1995] 1 C.T.C. 2135, 94 D.T.C. 1858,
+[1994] T.C.J. No. 585 (QL), allowing the taxpayer’s appeal from a
+reassessment.  Appeal allowed, L’Heureux-Dubé and Bastarache JJ. dissenting.  H. Lorne Morphy and Kent
+E. Thomson, for the appellant.  Larry R. Olsson, Q.C.,
+and S. Patricia Lee, for the respondent.  Harry Underwood and Ira
+Nishisato, for the intervener.  //Bastarache J.//  The reasons of L’Heureux-Dubé and Bastarache JJ. were
+delivered by  Bastarache J. (dissenting) --  I.  Introduction  1                                  
+This appeal and a related appeal (Continental Bank of Canada v.
+Canada, [1998] 2 S.C.R. 358) concern events arising out of the winding-up
+of Continental Bank of Canada (the “Bank”) and its subsidiary, Continental Bank
+Leasing Corporation (“Leasing”).  The broad issue is the validity of a
+transaction by which Central Capital Leasing (“Central”) ultimately became the
+owner of leasing assets formerly held by the Bank and Leasing.  The transaction
+involved the formation of a partnership into which Leasing transferred its
+leasing assets in return for a 99 percent interest in a partnership.  Leasing
+transferred that partnership interest to the Bank, which subsequently sold it
+to Central’s subsidiaries.  These transactions ultimately permitted Leasing to
+file an election pursuant to s. 97(2) of the Income Tax Act, R.S.C.
+1952, c. 148, as amended; this election was rejected by the Minister of
+National Revenue.  II.  Factual
+Background  2                                  
+The Bank was incorporated by an Act of Parliament in 1977 and commenced
+operations in 1979.  In October 1981, the Bank amalgamated with IAC Limited
+(“IAC”) and became the successor corporation to IAC.  Prior to the
+amalgamation, IAC carried on a sales finance and leasing business which
+involved, among other things, the purchase of depreciable assets by IAC,
+including heavy equipment and aircraft, which were then leased for a term of
+years to corporations that required the use of the assets in their businesses. 
+In 1981, Leasing was incorporated as a subsidiary of the Bank pursuant to amendments
+to the Bank Act  in 1980 which permitted chartered banks to carry on
+leasing businesses through wholly owned subsidiaries.  In 1986, the Bank, no
+longer being viable, made a decision to wind up its affairs.  On  October 31,
+1986, the Bank entered into an asset purchase agreement with Lloyds Bank plc of
+London (“Lloyds”) whereby Lloyds agreed to purchase all of the Bank’s assets
+except the shares of Leasing, the remaining leases still held directly by the
+Bank and its international loan portfolio.  The Bank invited offers for the
+purchase of either the assets of Leasing or its shares.  3                                  
+Pursuant to an agreement accepted by the Bank on October 15, 1986,
+Central agreed to purchase the shares of Leasing from the Bank.  The October
+15th agreement was made on the understanding that any leasing assets held
+directly by the Bank would be transferred to Leasing prior to the completion of
+the sale of the shares of Leasing.  The October 15th agreement was conditional
+on certain due diligence to be conducted by Central.  4                                  
+On November 1, 1986, the Bank transferred the leasing assets held directly
+by it to Leasing, in contemplation of the share sale.  The share sale
+transaction, however, was never completed.  After conducting due diligence in
+respect of the October 15th agreement, Central expressed concern with regard to
+certain tax liabilities of Leasing and  the creditworthiness of seven lessees. 
+Given that the Bank was in the process of winding-up, it was not prepared to
+assume the contingent tax liabilities and the parties were at an impasse.  5                                  
+In December 1986, Central proposed an alternative transaction which was
+structured to replicate the economic consequences of the October 15th
+agreement, but would exclude the seven leases about which Central had expressed
+concern and would avoid the contingent tax liabilities.  This transaction is the
+one giving rise to this appeal.  In essence, Central proposed that Leasing form
+a partnership with several Central subsidiaries to carry on the same business
+as Leasing, transfer its assets into the partnership using an election under s.
+97(2) of the Income Tax Act, distribute its partnership interest
+to the Bank at its cost base pursuant to s. 88 of the Income Tax Act,
+and then have the Bank sell its interest to Central or its subsidiaries.  6                                  
+The transaction was governed by the provisions of a Master Agreement
+that was signed on December 23, 1986 by the Bank, Leasing, Central, Central
+Capital Management Inc. (“CCMI”), 693396 Ontario Limited (“693396”), 693397
+Ontario Limited (“693397”) and 153587 Canada Limited (“153587”).  CCMI, 693396
+and 693397 were wholly owned subsidiaries of Central.  153587 was a shelf
+company.  The Master Agreement set out the following steps that were executed
+by the parties:  (a)               On
+December 23, 1986, Leasing acquired certain additional leasing assets that were
+to be included at the request of Central in the agreement. (b)               On
+December 24, 1986, Leasing and 153587 amalgamated and continued as one
+corporation under the name Continental Bank Leasing Corporation (“Leasing”). 
+The Bank was the sole shareholder of the corporation.  This created a new year
+end for Leasing on December 23, 1986.  (c)               On
+December 24, 1986, Leasing formed a partnership, known as Central Capital
+Leasing (the “Partnership”), with 693396 and CCMI.  Leasing contributed its
+leasing business to the Partnership in return for a 99 percent interest in the
+Partnership, and filed an election pursuant to s. 97(2) of the Income Tax
+Act.  693396 and CCMI each contributed $656,929 to the Partnership and each
+received one-half of a 1 percent interest.  Under the Partnership Agreement,
+693396 and CCMI gave representations and warranties that they were and would
+remain duly registered and qualified to carry on the business of the
+Partnership and enable it to own or lease property, that they could fulfill
+their partnership obligations without violating the terms of their constating
+documents or other agreements, and that their forming the Partnership would not
+result in the breach of any law or agreement.  Leasing declined to give such
+representations.  (d)               The
+first fiscal period for the Partnership ended on December 27, 1986.  (e)               On
+December 27, 1986, as part of its winding-up, Leasing and the Bank signed an
+indenture providing for the transfer of Leasing’s 99 percent partnership
+interest to the Bank pursuant to s. 88 of the Income Tax Act.  (f)                On
+December 29, 1986, the Bank purchased secured notes and subordinated
+convertible debentures of Central for a total amount of $130,071,985.  This
+amount was credited to Central on the books of the Bank.  (g)               On
+December 29, 1986, the Bank sold the interest in the Partnership to 693396 and
+693397 for a total purchase price of $130,071,985. Pursuant to the Partnership
+Interest Purchase Agreement and Assignment Agreement, 693396 purchased 1/11 of
+the partnership interest and 693397 purchased 10/11 of the partnership
+interest.  The agreements were signed on December 24, 1986 and were effective
+December 29, 1986.  7                                  
+On February 4, 1987, 693397 sent a cheque to Leasing from the
+Partnership in the amount of $130,726 in respect of Leasing’s net earnings as
+the 99 percent partner of Central Leasing for the fiscal year December 24 to
+27, 1986.  8                                  
+Leasing filed its income tax return for 1987 on the basis that pursuant
+to s. 97(2) of the Income Tax Act, it transferred all of its leasing
+assets, with the exception of the seven excluded leases, to the Partnership on
+December 24, 1986 in return for its interest in the Partnership and that it
+transferred its interest in the Partnership to the Bank as part of its
+winding-up pursuant to s. 88(1) of the Income Tax Act.  9                                  
+On October 12, 1989, the Minister of National Revenue issued a Notice of
+Reassessment for the 1987 taxation year.  Revenue Canada reassessed Leasing on
+the basis that the partnership transaction was invalid and that the true nature
+of the transaction was a disposition by Leasing of its leasing assets to
+Central, making the s. 97(2) election invalid and giving rise to recaptured
+capital cost allowance in the hands of Leasing.  III.  Relevant
+Statutory Provisions  10                              
+The following statutory provisions are relevant to this appeal:  Bank Act, R.S.C., 1985, c. B-1  18.  (1)  A bank has the capacity and,
+subject to this Act, the rights, powers and privileges of a natural person.  20.  (1)  No act of a bank, including any
+transfer of property to or by a bank, is invalid by reason only that the act or
+transfer is contrary to this Act.  174.  . . .  (2)  Except as authorized by or under this Act and
+in accordance with such terms and conditions, if any, as are prescribed by the
+regulations, a bank shall not, directly or indirectly,                                                                     . . .  (i)  acquire or hold an interest in Canada in, or otherwise invest
+or participate in Canada in, a partnership or limited partnership;                                                                     . . .  (16)  A bank that contravenes any of paragraphs
+(2)(a), (c), (f), (h), (i) or (j) is
+guilty of an offence and liable on summary conviction to a fine not exceeding
+five hundred dollars in respect of each contravention.  Partnerships Act, R.S.O. 1980, c. 370  2.  Partnership is the relation that
+subsists between persons carrying on a business in common with a view to
+profit. . . .  34.  A partnership is in every case
+dissolved by the happening of any event that makes it unlawful for the business
+of the firm to be carried on or for the members of the firm to carry it on in
+partnership.  Income Tax Act, R.S.C. 1952, c. 148, as amended  85.  (1)  Where a taxpayer has after May 6,
+1974 disposed of any of his property that was a capital property (other than
+real property, an interest therein or an option in respect thereof, owned by a
+non-resident person), a Canadian resource property, a foreign resource
+property, an eligible capital property or an inventory (other than real
+property) to a taxable Canadian corporation for consideration that includes
+shares of the capital stock of the corporation, if the taxpayer and the
+corporation have jointly so elected in prescribed form and within the time
+referred to in subsection (6), the following rules apply:  (a)  the amount that the taxpayer and the corporation have
+agreed upon in their election in respect of the property shall be deemed to be
+the taxpayer’s proceeds of disposition of the property and the corporation’s
+cost of the property;  88.  (1)  Where a taxable Canadian
+corporation (in this subsection referred to as the “subsidiary”) has been wound
+up after May 6, 1974 and not less than 90% of the issued shares of each class
+of the capital stock of the subsidiary were, immediately before the winding-up,
+owned by another taxable Canadian corporation (in this subsection referred to
+as the “parent”) and all of the shares of the subsidiary that were not owned by
+the parent immediately before the winding-up were owned at that time by persons
+with whom the parent was dealing at arm’s length, notwithstanding any other
+provision of this Act, the following rules apply:  (a)  . . . each property of the subsidiary that
+was distributed to the parent on the winding-up shall be deemed to have been
+disposed of by the subsidiary for proceeds equal to,                                                                     . . .  (iii)  in the case of any other property, the cost amount to the
+subsidiary of the property immediately before the winding-up;  .
+. .  (f)  where property that was depreciable property of a
+prescribed class of the subsidiary has been distributed to the parent on the
+winding-up and the capital cost to the subsidiary of the property exceeds the
+amount deemed by paragraph (a) to be the subsidiary’s proceeds of
+disposition thereof, for the purposes of sections 13 and 20 and any regulations
+made under paragraph 20(1)(a),  (i)  notwithstanding paragraph (c) the capital cost to the
+parent of the property shall be deemed to be the amount that was the capital
+cost thereof to the subsidiary, and  (ii)  the excess shall be deemed to have been allowed to the parent in
+respect of the property under regulations made under paragraph 20(1)(a)
+in computing income for taxation years before the acquisition by the parent of
+the property.  97.  (1)  Where at any time after 1971 a
+partnership has acquired property from a taxpayer who was, immediately after
+that time, a member of the partnership, the partnership shall be deemed to have
+acquired the property at an amount equal to its fair market value at that time
+and the taxpayer shall be deemed to have disposed of the property for proceeds
+equal to that fair market value.  (2)  Notwithstanding any other provision of this
+Act, other than subsection 85(5.1), where at any time after November 12, 1981 a
+taxpayer has disposed of any capital property, a Canadian resource property, a
+foreign resource property, an eligible capital property or an inventory to a
+partnership that immediately after that time was a Canadian partnership of
+which the taxpayer was a member, if the taxpayer and all the other members of
+the partnership have jointly so elected in prescribed form and within the time
+referred to in subsection 96(4), the following rules apply:  (a)  the provisions of paragraphs 85(1)(a) to (f)
+apply to the disposition as if  (i)  the reference therein to “corporation's cost” were read as a
+reference to “partnership’s cost”,  (ii)  the references therein to “other than any shares of the capital
+stock of the corporation or a right to receive any such shares” and to “other
+than shares of the capital stock of the corporation or a right to receive any
+such shares” were read as references to “other than an interest in the
+partnership”,  (iii)  the references therein to “shareholder of the corporation” were
+read as references to “member of the partnership”,  (iv)  the references therein to “the corporation” were read as references
+to “all the other members of the partnership”, and  (v)  the references therein to “to the corporation” were read as
+references to “to the partnership”;  (b)  in computing, at any time after the disposition, the
+adjusted cost base to the taxpayer of his interest in the partnership
+immediately after the disposition,  (i)  there shall be added the amount, if any, by which the taxpayer’s
+proceeds of disposition of the property exceed the fair market value, at the
+time of the disposition, of the consideration (other than an interest in the
+partnership) received by the taxpayer for the property, and  (ii)  there shall be deducted the amount, if any, by which the fair
+market value, at the time of the disposition, of the consideration (other than
+an interest in the partnership) received by the taxpayer for the property so
+disposed of by him exceeds the fair market value of the property at the time of
+the disposition; and  (c)  where the property so disposed of by the taxpayer to the
+partnership is taxable Canadian property of the taxpayer, the interest in the
+partnership received by him as consideration therefor shall be deemed to be
+taxable Canadian property of the taxpayer.  IV.  Judicial
+History  Tax Court
+of Canada, [1995] 1 C.T.C. 2135  11                              
+Bowman J.T.C.C. allowed Leasing’s appeal of the reassessment. Dealing
+first with illegality under s. 174(2) (i) of the Bank Act ,  Bowman
+J.T.C.C. recognized that Leasing’s entering into the Partnership was a breach
+of the Bank Act , given that this resulted in indirect participation of
+the Bank in a partnership.  Bowman J.T.C.C. held, however, that the breach of
+the Bank Act  was not sufficient to invalidate the scheme because the Bank
+Act  provides a penalty for the breach and because s. 20(1)  preserves the
+validity of the impugned act.   13                              
+Bowman J.T.C.C. held that the requirement to consider “substance over
+form” in income tax law does not mean that the legal effect of a transaction is
+irrelevant, nor does it mean that one is entitled to treat substance as
+synonymous with economic effect.  He held that he could not ignore the form of
+the legally binding relations in this case because the essential nature of a
+transaction cannot be altered for income tax purposes by nomenclature. Bowman
+J.T.C.C. concluded that the ultimate purpose of the transactions did not
+warrant a disregard of the legal relations created by the scheme; therefore,
+the parties had formed a valid partnership.  14                              
+With respect to the sale of the partnership interest in the final step
+of the scheme, Bowman J.T.C.C. held that the Bank had not traded its
+partnership interest in the same way that a speculator or trader would trade
+land or securities.  He held that the Bank’s partnership interest had been a
+capital asset and that any characterization of the disposition of the
+partnership interest had to consider the context in which the transaction had
+occurred.  The reasons for disposing of the partnership interest, in the
+context of a composite transaction forming an integral part of the winding up
+of Leasing, were sufficient to dispel any inference that the Bank had been
+engaged in a profit-making scheme.  He noted that when subsidiaries are wound
+up, their assets are often transferred at cost to their parents to be
+immediately resold.  He also noted that under s. 85 of the Income Tax Act,
+assets that are not inventory may be rolled into a corporation at their cost
+amount and immediately resold by the corporation at a profit without becoming
+inventory, because of the rapidity of the resale.  Bowman J. rejected the
+Crown's argument that the Bank's gain on the sale of its partnership interest
+was income from an adventure in the nature of trade.  15                              
+Bowman J. rejected the Crown's argument that the transactions violated
+the object and spirit of s. 97(2) of the Income Tax Act.  He held that
+the words of a statute are of primary importance when determining the statute's
+“object and spirit”, but that any interpretation of a provision inconsistent
+with the obvious purpose of the provision should be avoided.  He held that s.
+97(2) is intended to defer tax by permitting an asset transfer without
+triggering an immediate tax result when the transfer is to a partnership.  He
+held that the premise underlying s. 97(2) is that a taxpayer's real economic
+position is not enhanced because the assets are merely being held in a
+different vehicle.  He held that a taxpayer does not contravene s. 97(2) by taking
+advantage of it.  Federal
+Court of Appeal, [1996] 3 F.C. 713  16                              
+The Court of Appeal rendered two separate judgments.  The judgment
+relevant to this appeal is that dealing with the liability of Leasing for the
+recapture of the capital cost allowance.  In this judgment, Linden J.A. for the
+court concluded that no valid partnership had been created or, if one had been
+created, that it was void or ultra vires the Bank.  Linden J.A. held
+that Leasing had sold its assets to Central and had recaptured capital cost
+allowance; therefore, it had to pay tax on the recapture.  17                              
+Linden J.A. agreed that the transaction had not been a sham because no
+element of deceit had been involved and because the scheme had formed legally
+binding relationships.  However, he held that to achieve the desired tax
+results the substance of the tax transaction must be considered, the
+partnership scheme must be real, and its form must not be fanciful.  Linden
+J.A. reviewed the evidence and held that the parties had not intended to carry
+on business with a view to profit; therefore, s. 97(2) could not be relied upon
+by the parties.  18                              
+Linden J.A. held that any involvement by the Bank in a partnership
+through Leasing would have been legally invalid, void and illegal because it
+would have contravened s. 174(2) (i) of the Bank Act , which
+prohibits banks from indirectly participating in partnerships through
+subsidiaries.  He also held that s. 34 of the Partnerships Act would
+have dissolved any partnership that might have been established because a
+violation of s. 174(2) (i) of the Bank Act  would be illegal and
+criminal within the meaning of s. 34.  He also held that a partnership was ultra
+vires the Bank.  He rejected arguments that ss. 18(1)  and 20(1)  of the Bank
+Act  offset the ultra vires doctrine.  He held that the parties had
+been advised by counsel that signing the Partnership Agreement was a violation
+of the Bank Act , that flagrant violations of the Bank Act  will
+not be ignored and that this is not a circumstance for which the Court of Appeal
+should grant relief under s. 20(1) .  He held the Court of Appeal was obliged to
+apply the doctrine of ultra vires and to view the scheme as invalid.  V.  Issues  19                              
+The following issues must be addressed to determine this appeal.  1.    Was Leasing a member of a valid partnership
+with the subsidiaries of Central in December 1986 within the meaning of s. 2 of
+the Partnerships Act?  2.    If Leasing was a member of a valid
+partnership within the meaning of s. 2 of the Partnerships Act, was the
+partnership rendered invalid by s. 174(2) (i) of the Bank Act , by
+s. 34 of the Partnerships Act, or by the common law doctrines of
+illegality or ultra vires?  3.    If the partnership was invalid, was Leasing
+liable for recapture under s. 13 of the Income Tax Act as the person
+that disposed of its depreciable assets to the Central subsidiary?     VI.  Analysis  1.                Was Leasing a member of a
+valid partnership with the subsidiaries of Central in December 1986 within the
+meaning of s. 2 of the Partnerships Act?  20                              
+In order to answer this question, it is necessary to consider the
+various legal requirements for the proper characterization of the transactions
+entered into by Leasing.  The sham doctrine will not be applied unless there is
+an element of deceit in the way a transaction was either constructed or
+conducted.  This requirement was outlined by Estey J. as follows in Stubart
+Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, at pp. 545-46:  A sham transaction:  This expression comes to us from decisions in the
+United Kingdom, and it has been generally taken to mean (but not without
+ambiguity) a transaction conducted with an element of deceit so as to create an
+illusion calculated to lead the tax collector away from the taxpayer or the
+true nature of the transaction; or, simple deception whereby the taxpayer
+creates a facade of reality quite different from the disguised reality.  Both the trial
+judge and the Court of Appeal correctly held that the transactions entered into
+by the parties did not amount to a sham and the sham issue was not argued in
+this Court.  However, the Court of Appeal, after holding that the transaction
+did not amount to a sham, stated that the present case is an example of a
+transaction “[w]here legal reality is found to be lacking” (p. 726).  The Court
+of Appeal found that the trial judge erred in law by relying exclusively on
+documents and forms and did not give proper consideration to the reality of the
+situation.  21                              
+After it has been found that the sham doctrine does not apply, it is
+necessary to examine the documents outlining the transaction to determine
+whether the parties have satisfied the requirements of creating the legal
+entity that it sought  to create.  The proper approach is that outlined in Orion
+Finance Ltd. v. Crown Financial Management Ltd., [1996] 2 B.C.L.C. 78
+(C.A.), at p. 84:  The first task is to determine whether the documents are a sham
+intended to mask the true agreement between the parties.  If so, the court must
+disregard the deceptive language by which the parties have attempted to conceal
+the true nature of the transaction into which they have entered and must
+attempt by extrinsic evidence to discover what the real transaction was.  There
+is no suggestion in the present case that any of the documents was a sham.  Nor
+is it suggested that the parties departed from what they had agreed in the
+documents, so that they should be treated as having by their conduct replaced
+it by some other agreement.  Once the documents are accepted as genuinely
+representing the transaction into which the parties have entered, its proper
+legal categorisation is a matter of construction of the documents.  This does
+not mean that the terms which the parties have adopted are necessarily
+determinative.  The substance of the parties’ agreement must be found in the
+language they have used; but the categorisation of a document is determined by
+the legal effect which it is intended to have, and if when properly construed
+the effect of the document as a whole is inconsistent with the terminology
+which the parties have used, then their ill-chosen language must yield to the
+substance.  22                              
+Section 2 of the Partnerships Act defines partnership as “the
+relation that subsists between persons carrying on a business in common with a
+view to profit”.  This wording, which is common to the majority of partnership
+statutes in the common law world, discloses three essential ingredients:  (1) a
+business, (2) carried on in common, (3) with a view to profit.  I will examine
+each of the ingredients in turn.  23                              
+The existence of a partnership is dependent on the facts and
+circumstances of each particular case.  It is also determined by what the
+parties actually intended.  As stated in Lindley & Banks on Partnership
+(17th ed. 1995), at p. 73:  “in determining the existence of a
+partnership . . . regard must be paid to the true contract
+and intention of the parties as appearing from the whole facts of the case”.  24                              
+The Partnerships Act does not set out the criteria for
+determining when a partnership exists.  But since most of the case law dealing
+with partnerships results from disputes where one of the parties claims that a
+partnership does not exist, a number of criteria that indicate the existence of
+a partnership have been judicially recognized.  The indicia of a partnership
+include the contribution by the parties of money, property, effort, knowledge,
+skill or other assets to a common undertaking, a joint property interest in the
+subject-matter of the adventure, the sharing of profits and losses, a mutual
+right of control or management of the enterprise, the filing of income tax
+returns as a partnership and joint bank accounts.  (See A. R. Manzer, A
+Practical Guide to Canadian Partnership Law (1994 (loose-leaf)), at pp. 2-4
+et seq. and the cases cited therein.)  25                              
+In cases such as this, where the parties have entered into a formal
+written agreement to govern their relationship and hold themselves out as
+partners, the courts should determine whether the agreement contains the type
+of provisions typically found in a partnership agreement, whether the agreement
+was acted upon and whether it actually governed the affairs of the parties (Mahon
+v. Minister of National Revenue, 91 D.T.C. 878 (T.C.C.)).  On the face of
+the agreements entered into by the parties, I have found that the parties
+created a valid partnership within the meaning of s. 2 of the Partnerships
+Act.  I have also found that the parties acted upon the agreements and that
+the agreements governed their affairs.  26                              
+It should be noted that Leasing is the company whose tax liability is
+the subject of this appeal.  In determining the proper effect to be given to
+the Partnership, the concern is whether Leasing was a partner in a valid
+partnership between December 24, 1986 and December 26, 1986.  The main dispute
+between the parties concerns whether Leasing intended to carry on business in
+common with Central’s subsidiaries with a view to profit.  In order for Leasing
+to take advantage of the rollover provisions in s. 97(2) of the Income Tax
+Act, it had to be a valid member of a partnership when it transferred its
+assets.  The dispute does not surround the validity of the partnership with respect
+to Central’s subsidiaries who entered the Partnership on December 24, 1986 and
+continued to operate that Partnership long after Leasing and the Bank were no
+longer members.  27                              
+The Partnership Agreement contains most of the standard provisions that
+appear in partnership agreements.  The agreement provides for the carrying on
+of “leasing services and such other businesses as the Managing Partner may from
+time to time determine” (Art. 2.01); it also provides for the distribution of
+income or loss to “those Persons who are Partners on the last day of the fiscal
+year of the Partnership” (Art. 5.09) and sets out the liability of the partners
+(Art. 3.02).  The agreement further provides for the Management of the
+Partnership (Art. IV), Accounts and Allocations (Art. V), Dissolution (Art.
+VIII) and other provisions common to partnership agreements.  It is not
+surprising that the Partnership contains all of the provisions required to form
+a valid partnership.  The parties intended to set up a partnership that would comply
+with s. 2 of the Partnerships Act and they succeeded.  (a)  Was There a Business?  28                              
+By s. 1(1)(a) of the Partnerships Act, “business” includes
+“every trade, occupation and profession”.  There is no doubt that equipment
+leasing constitutes a business within the meaning of the Partnerships Act. 
+The activities carried on by Leasing that were subsequently transferred to the
+Partnership included sales financing and leasing, which involved, among other
+things, the purchase of depreciable assets including heavy equipment and
+aircraft, which were then leased for a term to corporations that required the
+use of the assets in their business.  (b)  Was the Business Carried On in Common?  29                              
+If a partnership is to exist, it must be shown that two or more people
+carried on the business.  It is also fundamental that the business is carried
+on in common (Lindley & Banks on Partnership, supra, at pp.
+9-10).  The respondent argues that no active business activity was conducted
+between December 24 and December 29, the period in which Leasing and
+subsequently the Bank were members of the Partnership.  Therefore, according to
+the respondent, the Partnership did not carry on business within the meaning of
+s. 2 of the Partnerships Act.  Further, s. A.9(a) of the Master
+Agreement set out that new transactions were prohibited between December 24 and
+December 29 without unanimous consent.  Moreover, the three days over the 1986
+Christmas holiday that were chosen for the purported involvement of Leasing in
+the Partnership ensured that no business would be conducted.   Where machinery is rented out, the essential core operations may at
+times be limited to accepting rental revenue and assuming the business risk and
+other obligations.  At any time during that period, any client could demand the
+execution of any of the contractual obligations, such as fixing an engine, for
+example.  Where, because a rental business is fortunate enough to experience no
+mechanical breakdowns or accidents during a period of time, it “passively”
+accepts rental revenue and assumes business risk and obligations, it does not
+necessarily follow that it is not carrying on a business during that period. 
+Holding otherwise would imply that rental businesses are “intermittent”, that
+is, that they carry on a business only when something goes wrong in the
+operations.  Such a proposition is unacceptable.  31                              
+In the present instance, it is true that between December 24 and
+December 27, 1986, no meetings were held, no new transactions were entered into
+by the parties and no decisions were made.  However, that is not determinative
+of the fact that no business was carried on by the Partnership.  Prior to its
+entering the Partnership, Leasing carried on business.  This business and its
+assets were transferred to the Partnership on December 24, 1986.  There was no
+termination of Leasing’s contracts with its customers and the contracts
+continued during the period of December 24 to December 27.  32                              
+Evidence that the business previously carried on by Leasing was carried
+on by the Partnership is contained in a letter dated December 24, 1986 from Air
+Canada, one of the Bank’s customers.  In the letter, Air Canada acknowledges
+that “[Leasing] intends to sell and assign its interest in the Purchase
+Agreements, the Aircraft and the Leases to an Ontario
+partnership . . .”.  Air Canada consented to the “sale and
+assignment of the Purchase Agreements, the Aircraft and the Leases” from the
+Bank to Leasing and consented “to the sale and assignment of the Purchase
+Agreements, the Aircraft and the Leases by [Leasing] to the Partnership”.  33                              
+The fact that no new business was created during the period of Leasing 
+and the Bank’s involvement in the Partnership does not negate the effect of the
+existing business that was continued during this time.  The existence of a
+valid partnership does not depend on the creation of a new business.  It is
+common that partnerships are formed when two parties agree to carry on the
+existing business of one of them, while the other contributes capital.  34                              
+In addition, I am satisfied that the business that was carried on was
+carried on by the partners in common.  Under the Partnership Agreement, the
+Partners “delegate to the Managing Partner full power and authority to manage,
+control, administer and operate the business and affairs of the Partnership and
+to represent and enter into transactions which bind the Partnership” (Art.
+4.01).  The fact that the management of the Partnership was given to the
+Managing Partner does not mandate a conclusion that the business was not
+carried on in common.  Nor does the fact that Central, acting alone, was
+negotiating transactions relating to the lease portfolios prior to December 29,
+1986.  The respondent argues that the exclusion of Leasing and the Bank from
+any of those activities negates any claim that the Central entities and the
+Continental entities were actually carrying on business in common during that
+period.  As Lindley & Banks on Partnership, supra, point out,
+at p. 9, one or more parties may in fact run the business on behalf of
+themselves and the others without jeopardizing the legal status of the
+arrangement.  35                              
+If any of the negotiations that Central was involved in had resulted in
+a decision by Central’s subsidiaries who were members of the Partnership during
+the relevant period to follow through with the transaction, under the
+Partnership Agreement, the Partnership would have been bound by these
+agreements.  By entering the Partnership Agreement, Leasing and the Bank
+recognized that any partner had the authority to bind the firm.  36                              
+It is also relevant that during the brief term that Leasing and the Bank
+were parties to the Partnership Agreement, they held themselves out as
+partners. Various supporting documents, including correspondence with third
+parties, tax returns, financial statements and assignments of leases effected
+during this period, are consistent with the carrying on of a business in
+common.  While this alone would not have the effect of validating the
+Partnership, because holding out affects liability as against third parties and
+not the essential validity of the arrangement (s. 15, Partnerships Act),
+it is nonetheless evidence of the parties’ intention to carry on business in
+common under the Partnership.  37                              
+Bowman J.T.C.C. was correct in emphasizing that the members of the
+Partnership could not hold themselves out to third parties as not being
+partners.  In the Partnership Agreement, art. 3.02 sets out the liability of
+the partners.  It provides in part:  “[s]ubject to Article XI, the Partners
+shall, as between themselves, be liable for the obligations, liabilities and
+losses of the Partnership in the same proportion as their respective
+Interests.”  The Partnership was involved in the leasing of aircraft.  If,
+during the period in which Leasing and the Bank were members of the
+Partnership, liability of the lessor was engaged because of an event involving
+a leased aircraft, Leasing and the Bank could not have denied that they were
+members of the Partnership and, according to art. 3.02, would have been liable
+for 99 percent of the loss incurred by the lessee.  38                              
+The Bank and Leasing conducted themselves as partners for the duration
+of their memberships in the Partnership.  Throughout that period, they were
+subject to all of the rights and obligations of partners and carried on the
+business of leasing in common with the other partners.  There is no evidence to
+show that the leasing business carried on as defined in Hickman, supra,
+was not carried on by Leasing and the Central subsidiaries.  (c)  Was the Business Carried On in Common with a View to Profit?  39                              
+The Court of Appeal held that the parties intended to conduct a sale of
+assets through a device they chose to call a partnership.  This intention did
+not include a view to profit and in fact “the idea to share profits was an
+afterthought when the parties originally put the deal together” (p. 731).  This
+characterization by the Court of Appeal ignores the fact that the Partnership
+Agreement provided for the distribution of the profits from the leasing
+business being operated by the Partnership and that the Partnership continued
+to carry on the business operated for profit by Leasing.  There is no evidence
+of any expectation other than that profits would continue to be generated
+during the predetermined term of Leasing’s involvement in the Partnership.  The
+Court of Appeal also relied heavily on the fact that Leasing was not legally
+entitled to a share of the profits of the first fiscal year because its
+partnership interest had already been transferred to the Bank by the time the
+year end was triggered on December 27, 1986.  This, however, is irrelevant to
+the determination of the issue.  40                              
+To determine whether the business was carried on with a view to profit,
+it is necessary to look to the provisions of the Partnership Agreement
+governing the distribution of profits.  5.06  Allocation of Net Income or Loss.  The net income or loss
+for each fiscal year of the Partnership shall be allocated to the current
+accounts of the Partners in proportion to their respective average capital
+accounts for the period for which the allocation is made.  5.09  Allocation of Income and Loss for Tax Purposes.  The
+income or loss of the Partnership for the whole of a fiscal year for the
+purposes of the Income Tax Act shall be allocated to those Persons who
+are Partners on the last day of the fiscal year of the Partnership in the proportions
+set out in section 5.06.  The income or loss of the Partnership which is
+allocated to those Partners shall be allocated among those Partners as of the
+time and in the proportions set out in this article.  41                              
+These provisions clearly contemplate the distribution of profits in
+accordance with a partner’s interest in the Partnership.  Profit was
+accumulated by the Partnership during the period of Leasing’s membership in
+that partnership and that profit was distributed.  Leasing received a cheque
+dated February 4, 1987 for $130,726 that was described in a financial statement
+dated January 11, 1988 as a 99 percent share of partnership income for the
+period December 24 to December 27, 1986.  Because Leasing had already
+transferred its partnership interest to the Bank by December 27, 1986, it was
+not entitled to receive the partnership income under the Partnership Agreement
+as it was no longer a partner at year end.  This however, does not change the
+fact that a generation of profit and profit sharing was contemplated and
+effected under the Partnership Agreement.  Whether the entitlement belonged to
+Leasing or to the Bank at the end of the year is of no consequence.  The
+important consideration is that the 99 percent partnership interest owned initially
+by Leasing and then the Bank carried with it a right to share in the profits of
+business carried on by the Partnership.  42                              
+It is not disputed that the ultimate objective of the series of
+transactions  entered into by the parties and in particular the Partnership was
+to duplicate the tax consequences of the original share transaction with
+Central.  The Bank’s main intention and by extension, Leasing’s main intention
+was to get rid of its leasing assets for the purpose of winding up.  As Bowman
+J.T.C.C. held, at p. 2151:  One thing is clear.  Notwithstanding the pious assertions of a number
+of witnesses that they intended to enter into a partnership with the other
+parties, [the Bank’s] and [Leasing’s] intention was patently not to go into the
+leasing business in partnership with [Central]. . . .  The whole
+object of the exercise was precisely the opposite — to get out of
+that business.  The partnership was merely a means to that end.  43                              
+Simply because the parties had the overriding intention of creating a
+partnership for one purpose does not, however, negate the fact that
+profit-making and profit-sharing was an ancillary purpose.  This is sufficient
+to satisfy the definition in s. 2 of the Partnerships Act in the
+circumstances of this case.  At pp. 10-11, Lindley & Banks on
+Partnership makes the following observation:  . . . if a partnership is formed with some other
+predominant motive [other than the acquisition of profit], e.g., tax
+avoidance, but there is also a real, albeit ancillary, profit element, it may
+be permissible to infer that the business is being carried on “with a view of
+profit.”  If, however, it could be shown that the sole reason for the creation
+of a partnership was to give a particular partner the “benefit” of, say, a tax
+loss, when there was no contemplation in the parties’ minds that a
+profit . . . would be derived from carrying on the relevant
+business, the partnership could not in any real sense be said to have been
+formed “with a view of profit.”  44                              
+This is not a case where the disentitlement of one partner to a share of
+the profits was agreed to by the parties; nor is it a case where no profits
+were anticipated during the term of a partner’s involvement.  During the period
+in which Leasing and the Bank were partners in the business, the Partnership
+earned a profit from its leasing operations and that profit was distributed at
+year end.  45                              
+The respondent argues that intending to constitute a valid partnership is
+not the same thing as intending to carry on business in common with a view to
+profit.  I agree.  The parties in the present case, however, set up a valid
+partnership within the meaning of s. 2 of the Partnerships Act.  They
+had the intention to and did carry on business in common with a view to
+profit.  This conclusion is not based simply on the parties’ subjective
+statements as to intention.  It is based on the objective evidence derived from
+the Partnership Agreement entered into by the parties.  As Millett L.J. held in
+Orion Finance, supra, at p. 85:  The question is not what the transaction is but whether it is in truth
+what it purports to be.  Unless the documents taken as a whole compel a
+different conclusion, the transaction which they embody should be categorised
+in conformity with the intention which the parties have expressed in them. 46                              
+I do not see anything in the documentation that is inconsistent with the
+intention of the parties to create a partnership within the meaning of the Partnerships
+Act.  (d)  Duration of the Partnership  47                              
+In the present case, the Partnership Agreement provided for a fixed term
+of membership for Leasing and the Bank in the Partnership.  It also provided
+that the Partnership would continue indefinitely after Leasing and the Bank
+were no longer members (Article XI, Initial Transactions).  There is no
+authority for the proposition that a valid partnership cannot be formed for
+fixed or relatively short and predetermined periods, nor is there authority for
+the proposition that a person cannot be a member of a partnership for a single
+transaction.  The respondent recognized that there is no set minimum period of
+time required for a partnership to exist and accepted that a partnership may be
+formed for a predetermined period.  The respondent argues, however, that a
+partnership, being a relationship that “subsists” and that pertains to the
+“carrying on” of a business in common with others, has a temporal quality.  In
+the present case, the respondent argues, no business was carried on between
+December 24, 1986 and December 26, 1986, the period that Leasing was a member
+of the Partnership.  48                              
+The duration of Leasing’s membership in the Partnership is not relevant 
+in this case.  I found above that business was carried on in common with a view
+to profit through the leasing activities of the Partnership between December 24
+and December 27.  This satisfies the definition of partnership under the Partnerships
+Act.  It is not necessary for Leasing to show that it carried on business
+over a long period of time in the Partnership.  The Partnerships Act
+does not limit the ability of a person to enter into a partnership for a single
+transaction.  As long as the parties do not create what amounts to an empty
+shell that does not in fact carry on business, the fact that the partnership
+was created for a single transaction is of no consequence.  49                              
+Section 85(1) of the Income Tax Act is a rollover provision for
+corporations similar to the provision for partnerships contained in s. 97(2). 
+Corporations are frequently created for the single purpose of deferring tax
+liability by using s. 85(1) of the Income Tax Act.  As long as the
+corporation is validly formed, there is no requirement that the taxpayer
+demonstrate that the corporation was formed for anything other than the single
+purpose of deferring tax liability.  Similarly, as long as the definition in s.
+2 of the Partnerships Act is satisfied, a person is permitted to create
+a partnership for the purpose of using s. 97(2) of the Income Tax Act. 
+It is recognized that the definition of a partnership requires that business
+actually be carried on and that there is no such requirement for a corporation.
+However, that  does not detract from the principle that a person should be
+permitted to create a partnership for a single transaction.  50                              
+The Court of Appeal held, in effect, that because the ultimate objective
+of the Bank in proceeding with the partnership transaction was to effect a sale
+of its leasing business to Central, neither Leasing nor the Bank could have had
+the requisite intention to form a valid partnership.  The result of this
+reasoning is that unless the only motive underlying the formation of a
+partnership is to carry on business in common with a view to profit, a valid
+partnership cannot be formed.  The underlying premise of this reasoning is also
+that a transaction that is motivated by the securing of tax benefits is not a
+valid transaction.  This reasoning cannot be supported.  51                              
+A taxpayer who fully complies with the provisions of the Income Tax
+Act ought not to be denied the benefit of such provisions simply because
+the transaction was motivated for tax planning purposes.  In Stubart
+Investments, supra, this Court unanimously rejected the “business
+purpose test” and affirmed the proposition that it is permissible for a
+taxpayer to take advantage of the terms of the Income Tax Act by
+structuring a transaction that is solely motivated by the desire to minimize taxation. 
+Similarly, in Canada v. Antosko, [1994] 2 S.C.R. 312, Iacobucci J., for
+a unanimous Court, found, at p. 328:  In this appeal, despite conceding that these
+factual elements are present, the respondent is asking the Court to examine and
+evaluate the transaction in and of itself, and to conclude that the transaction
+is somehow outside the scope of the section in issue.  In the absence of
+evidence that the transaction was a sham or an abuse of the provisions of the
+Act, it is not the role of the court to determine whether the transaction in
+question is one which renders the taxpayer deserving of a deduction.  If the
+terms of the section are met, the taxpayer may rely on it, and it is the option
+of Parliament specifically to preclude further reliance in such situations.  Iacobucci J.
+went on to say, at p. 330:  This transaction was obviously not a sham.  The
+terms of the section were met in a manner that was not artificial.  Where the
+words of the section are not ambiguous, it is not for this Court to find that
+the appellants should be disentitled to a deduction because they do not deserve
+a “windfall”, as the respondent contends.  In the absence of a situation of
+ambiguity, such that the Court must look to the results of a transaction to
+assist in ascertaining the intent of Parliament, a normative assessment of the
+consequences of the application of a given provision is within the ambit of the
+legislature, not the courts.  52                              
+Having found that the transaction was not a sham, the Court of Appeal
+should not have found that the parties lacked the requisite intention to form a
+valid partnership simply because the transaction was motivated by a resulting
+tax benefit.  The Court of Appeal proceeded on the basis that the predominance
+of fiscal motives or the absence of a concurrent business purpose justifies or
+compels the court to disregard the legal form of the transaction which the
+parties intended.  53                              
+The legal and commercial reality in the present case is that Leasing
+intended to and did enter into a partnership with Central within the meaning of
+s. 2 of the Partnerships Act.  The Court of Appeal erred by ignoring the
+substance of a legally effective transaction.  2.                If Leasing was a member of a
+valid partnership within the meaning of s. 2 of the Partnerships Act, was the
+partnership rendered invalid by s. 174(2) (i) of the Bank Act , by s. 34 of the
+Partnerships Act, or by the common law doctrines of illegality or ultra vires?  54                              
+Section 174(2) (i) of the Bank Act  states that a bank
+“shall not, directly or indirectly . . . acquire or hold an
+interest in Canada in, or otherwise invest or participate in Canada in, a
+partnership”.  There is no dispute that the entry into a partnership
+constitutes a breach by the Bank of s. 174(2) (i) of the Bank Act . 
+The Bank therefore contravened the Bank Act  by indirectly investing or
+participating in a partnership.  The dispute concerns the effect of ss. 18(1) 
+and 20(1)  of the Bank Act , the applicability of the ultra vires
+doctrine, the effect of the doctrine of illegality and the effect of s. 34 of
+the Partnerships Act.  (a)  Ultra Vires  55                              
+The ultra vires doctrine was developed by the courts in the
+mid-19th century to restrict the legal capacity of corporations created under
+the Companies Act and its successor statutes.  The doctrine provided
+that a corporation had the legal capacity to perform only those acts authorized
+by its articles.  Any acts not authorized by the articles were void for want of
+legal capacity (Ashbury Railway Carriage and Iron Co. v. Riche (1875),
+L.R. 7 H.L. 653).  56                              
+The doctrine was meant to limit the scope of activities of a corporation
+in order to protect the interests of its creditors and shareholders.  It came
+to be recognized that the doctrine produced inconvenience and occasional
+hardship for the public who were expected to take notice of all limitations on
+the corporation’s capacity as revealed through public documents.  The doctrine
+was characterized by Iacobucci J. in Communities Economic Development Fund
+v. Canadian Pickles Corp., [1991] 3 S.C.R. 388, at p. 406, as “a protection
+to no one and a trap for the unwary”.  57                              
+In 1974, the Canada Business Corporations Act , S.C. 1974-75-76,
+c. 33 (“CBCA”), abolished the ultra vires doctrine in the context
+of Canadian corporations by attributing to corporations the capacity of a
+natural person.  Section 15(1) of the CBCA provided that “[a] corporation has
+the capacity and, subject to this Act, the rights, powers and privileges of a
+natural person”.  The CBCA also provides at s. 16(3)  that “[n]o act of a
+corporation, including any transfer of property to or by a corporation, is
+invalid by reason only that the act or transfer is contrary to its articles or
+this Act”.  58                              
+In 1980, the Bank Act  was amended to provide, in s. 18(1) , that
+“[a] bank has the capacity and, subject to this Act, the rights, powers and
+privileges of a natural person”.  Section 20(1)  states that “[n]o act of a
+bank, including any transfer of property to or by a bank, is invalid by reason
+only that the act or transfer is contrary to this Act”.  These amendments
+parallel the amendments to corporations Acts and their aim is also to abolish
+the ultra vires doctrine.  As a result of s. 18(1) , banks were given the
+legal capacity to perform any act, even if it would constitute an offence under
+the Bank Act .  M. H. Ogilvie, Canadian Banking Law (1991),
+states, at p. 35:  When a bank engages in any conduct — including the
+transfer of property to or by a bank — which is contrary to the Bank
+Act , the conduct is not invalid, rather merely contrary to the Act.  At
+common law, when a company had been found to have engaged in an ultra vires
+transaction, the legal effect was to render that transaction void and
+unenforceable.  Since 1980, that is no longer the case in relation to
+transactions with banking corporations.  Legal rights and duties created in
+transactions prohibited to banks by the Act and conferred on third parties are
+valid and no longer subject to disturbance by judicial avoidance of the
+original prohibited transaction.  Rather, the bank is subject to the penalties
+set out in the Bank Act , and probably also those existing in the general
+law, for engaging in prohibited actions.  59                              
+Crawford and Falconbridge, Banking and Bills of Exchange (8th ed.
+1986), vol. 1, states a similar principle, at p. 94:  It will be noted that the Bank Act  bestows
+on the banks the capacity of a natural person, without limitation or
+qualification.  The reference to the other provisions of the Act qualifies only
+the rights, powers and privileges of the banks.  In other words, the banks now
+have the legal capacity to perform any act, even though it may constitute an
+offence under the Bank Act  or some other law.  Like man, in Milton’s
+view, they have been created capable of standing, but free to fall.  A good
+illustration of this is provided by sub-s. 174(2) , which prohibits the banks
+from engaging in the activities therein described.  A violation of one of those
+prohibitions by a bank would not result in the transaction involved being
+void — or even necessarily
+voidable. . . .  It would, however, subject the bank,
+and possibly also the directors, to the penalties set out in sub-ss. 174(17)  to
+(20)  and sub-s. 54(2)  respectively.  60                              
+The doctrine of ultra vires has been abolished with respect to
+banks.  Banks now have the capacity of a natural person.  The Court of Appeal
+came to the wrong conclusion in this regard because it misapplied the Canadian
+Pickles case by relying on it to hold that the ultra vires doctrine
+is not abolished, but merely curtailed by s. 18(1)  of the Bank Act .  The
+Court of Appeal erred by failing to recognize the distinction between the
+statutory provisions in Canadian Pickles and the relevant provisions of
+the Bank Act .  61                              
+In Canadian Pickles, this Court held that the doctrine of ultra
+vires has been abolished for corporations incorporated under most business
+corporations legislation.  The Court held, however, that the doctrine was still
+alive with respect to the Communities Economic Development Fund of Manitoba. 
+The Court stated that the doctrine continues to apply to corporations created
+by special Act for public purposes.  At pp. 406-7, Iacobucci J. held:  However, in spite of the general trend towards
+abolition of the doctrine of ultra vires, the limited aspects of the
+doctrine, as seen from the above review, may be present with respect to
+corporations created by special act for public purposes.  Not only is there a
+long line of cases supporting the principle, but one may argue that this
+protects the public interest because a company created for a specific purpose
+by an act of a legislature ought not to have the power to do things not in
+furtherance of that purpose.  Of course, it is open to the legislature to rebut
+this presumption because, for example, the legislature may provide for other
+remedies short of invalidity for acts contrary to the statute.  62                              
+Banks are not analogous to the Economic Development Fund described in
+the Canadian Pickles case.  The Bank was not created by a special Act
+for public purposes.  It was incorporated under a general Act of Parliament to
+engage in the ordinary commercial business of banking.  Parliament has provided
+for other remedies short of invalidity for acts of banks that are contrary to
+the statute.  The Bank Act  contains penalties for breaches and, pursuant
+to s. 246 of the Act, the Inspector General of Banks is empowered to “take
+charge on the premises of the assets of the bank or any portion thereof, if the
+need should arise, for the purposes of satisfying himself that the provisions
+of this Act . . . are being duly observed”.  63                              
+The Bank, by virtue of its capacity, rights, powers and privileges, had
+the capacity to participate in a partnership.  The prohibition in s. 174(2) (i)
+of the Bank Act  does not make partnerships ultra vires the Bank. 
+The questions remain, however, whether the Bank’s participation in the
+Partnership is void on the basis of the doctrine of illegality or by virtue of
+s. 34 of the Partnerships Act.  (b)   The Doctrine of Illegality  64                              
+Under the doctrine of illegality, a contract prohibited by statute or
+for an illegal purpose will be declared void even if  it conforms to all other
+requirements of a valid transaction.  A classic case concerning statutory
+illegality is Cope v. Rowlands (1836), 2 M. & W. 149, 150 E.R. 707,
+where Parke B. held (at p. 710):  . . . where the contract which the plaintiff seeks to
+enforce, be it express or implied, is expressly or by implication forbidden by
+the common or statute law, no court will lend its assistance to give it
+effect.  It is equally clear that a contract is void if prohibited by a
+statute, though the statute inflicts a penalty only, because such a penalty
+implies a prohibition.  65                              
+It should follow, therefore, that the absolute prohibition of a contract
+by a statute renders the contract void and of no effect.  However, as G. H. L.
+Fridman points out in The Law of Contract in Canada (3rd ed. 1994), at
+p. 348:  It might be thought . . . that
+the doctrine was clear and uncomplicated, that whenever a statute prohibited a
+certain course of conduct, or required a particular course of conduct, the
+failure to observe which resulted in a penalty of some kind, a contract which
+infringed the statutory prohibition or requirement would be illegal and
+therefore void.  This situation is not as straightforward as that.
+. . . in some instances a statute while involving illegality, in
+the sense of prescribing penalties for certain conduct, will not have the
+effect of rendering void a contract entered into in breach of the statute.  66                              
+In fact, the rigidity of the doctrine of illegality first gave rise to
+exceptions  which dealt with the return of property transferred under an
+illegal contract  (Fridman, supra, at p. 424).  This development was
+nevertheless considered insufficient.  In Sidmay Ltd. v. Wehttam Investments
+Ltd. (1967), 61 D.L.R. (2d) 358 (Ont. C.A.), aff’d on other grounds, [1968]
+S.C.R. 828, Laskin J.A. (as he then was) held that the court must take into
+account the harmful effect on the parties for whose protection the law making
+the bargain illegal exists before deciding to enforce or rescind the bargain. 
+This approach was also adopted by Krever J. (as he then was) in Royal Bank
+of Canada v. Grobman (1977), 18 O.R. (2d) 636 (H.C.), at pp. 652-53.  67                              
+The doctrine of illegality was recently examined by the Federal Court of
+Appeal in Still v. Minister of National Revenue (1997), 221 N.R. 127. 
+Robertson J.A. noted at the outset that the doctrine of illegality is divided
+into two categories:  common law illegality and statutory illegality.  With
+regard to statutory illegality, he noted that the classic approach affirmed in Neider
+v. Carda of Peace River District Ltd., [1972] S.C.R. 678, had given rise to
+many avoidance techniques in the courts, particularly where the illegality
+resulted from the performance of the contract rather than its formation.  On
+the issue of formation, Robertson J.A. was prepared to expand the modern
+approach to illegality further, stating, at p. 139, that “a finding of
+illegality is dependent, not only on the purpose underlying the statutory
+prohibition, but also on the remedy being sought and the consequences which
+flow from a finding that a contract is unenforceable”.  68                              
+The Court of Appeal held that not all findings of invalidity are
+prohibited by s. 20(1)  of the Bank Act .  This approach is supported by
+Crawford and Falconbridge, supra, and Ogilvie, supra.  Crawford
+and Falconbridge state, at p. 97:  But it should be noted that s. 20 refers to invalidity “by reason only”
+of acts in contravention.  That leaves open the possibility that vestiges of
+the common law sanctions upon unlawful conduct might still apply.  For example,
+the modern approach of the courts could not be relied upon to validate or
+enforce an agreement consciously and deliberately entered into in violation of
+the Bank Act . . . .  69                              
+The appellant’s position is that s. 20(1)  of the Bank Act  has the
+effect of eliminating the continued application of the doctrine of illegality. 
+A construction of s. 20(1)  that completely ousts the Court’s jurisdiction to
+find an act of the bank invalid would impose a requirement that a court
+recognize all acts as valid, no matter how egregious the illegality.  The
+respondent argues that to find that no act done by a bank that is contrary to
+the Bank Act  is invalid is to render the prohibitions set out in s.
+174(2) of the Act meaningless.  In answer to this, the appellant submits that
+the proper effect to be given to the prohibitions in the Bank Act  is
+that the penalties set out in the Bank Act  amount to a mere licence fee
+for doing what the Bank Act  prohibits.  70                              
+The consequence of prohibiting certain transactions under the Bank
+Act   can be disastrous for third parties who may be unaware of the
+limitations on a bank’s rights.  The consequences are the same as those
+identified by courts and Law Reform Commissions which criticized the rigid
+application of a declaration of invalidity under the doctrine of illegality as
+it relates to statutory prohibitions.  I agree with the Court of Appeal,
+however, that s. 20(1)  on its face does not limit all findings of invalidity. 
+Section 20(1)  states that no act of a bank is invalid by reason only
+that the act is contrary to the Act.  This section serves, in particular, to
+relieve the hardship for unsuspecting third parties of the effects of a rigid
+application of the doctrine of illegality but does not eliminate the doctrine
+entirely.  A. R. Manzer, in an annotation to this section in The Bank Act 
+Annotated (1993), at p. 29, states:  This provision is for the benefit of third parties dealing with a bank
+by preventing actions of the bank from being declared null and void and
+consequently of no effect, only because they are contrary to the bank’s
+incorporating instrument or the Bank Act .  71                              
+There is no conflict between the doctrine of ultra vires and a
+finding that s. 20(1)  does not eliminate all findings of illegality.  The
+apparent conflict between the doctrine of illegality and the doctrine of ultra
+vires must be addressed by referring to the foundations of those
+doctrines.  It is not the capacity of the bank to enter into a partnership that
+is limited by a finding of invalidity.  Rather, it is the right of the bank to
+participate in certain activities that may be limited.  The distinction between
+capacity under the ultra vires doctrine and illegality was explained by
+F. W. Wegenast in The Law of Canadian Companies (1979), at pp. 136-37,
+where he stated:  It must be borne in mind also that the entire
+absence of the ultra vires rule would not mean that there were no
+limitations on the legal rights of a corporation.  Just as a natural person is
+capable of doing things that are unlawful, so the capacity of a corporation may
+be broader than its rights.  It has been said that “ultra vires and
+illegality represent totally different ideas,” although a prohibition may be in
+such form that it renders the prohibited act both illegal and ultra vires. 
+But an act which is ultra vires is not necessarily either malum in se
+or malum prohibitum.  On the other hand, although it may be true,
+generally speaking, that a corporate act expressly forbidden by statute is ultra
+vires, it is also clear that an act may be illegal without being ultra
+vires, and remedies are available to enforce the legal limitations of
+corporations without invoking the plea of ultra vires.  In many cases,
+indeed, it would be quite immaterial whether the question were raised as one of
+right or of capacity.  Thus in the case of a shareholder seeking an injunction
+to restrain the company from any particular act it would be a sufficient ground
+to say that the company had not the right to do the act, without saying
+that it was not capable.  The same could be said as regards action on behalf of
+the Crown by way of scire facias or otherwise.  [Emphasis in original.]  72                              
+Section 20(1) is a saving provision.  It is not a provision allowing a
+bank to do what it is prohibited from doing.  Since it is a saving provision,
+the same principles that guide the modern doctrine of illegality should guide a
+finding of invalidity under the Bank Act .  In the present case, a
+declaration that the bank’s participation in the Partnership is prohibited does
+not harm any third party.  The bank deliberately contravened the Bank Act 
+and it appears from the evidence that it did so with the knowledge of the other
+partners.  However, a finding of invalidity on the basis of illegality in the
+present case would deprive s. 20(1) of any effect.  The doctrine of illegality
+would be triggered by the prohibition set out in s. 174(2) (i) of the Bank
+Act .  To find that the Partnership is invalid on this basis alone amounts
+to a finding on invalidity by reason only of an act in contravention of
+the statute.  73                              
+It does not follow, however, as the appellant argued, that the
+prohibitions set out in the Bank Act  amount to a licensing scheme. 
+These are clear restrictions on the Bank’s right to enter into transactions. 
+Section 20(1) , in this context, precludes a finding of invalidity that is based
+only on a breach of the statute.  There are other remedies, in the Bank Act 
+in particular, to enforce the prohibitions set out in the Bank Act .  For
+example, pursuant to s. 246  of the Bank Act , the Inspector General of
+Banks is empowered to “take charge on the premises of the assets of the bank or
+any portion thereof, if the need should arise, for the purposes of satisfying
+himself that the provisions of this Act . . . are being duly
+observed”.  74                              
+Although I accept that s. 20(1)  is not a complete bar to the application
+of the doctrine of illegality in the appropriate case, I do not think that it
+applies in the present circumstances.  I will now examine the application of s.
+34 of the Partnerships Act on the validity of the partnership created on
+December 24, 1986.  (c)  The Partnerships Act  75                              
+The Court of Appeal held that s. 34 of the Partnerships Act
+expressly dissolved any partnership that may have been created in the present
+case because s. 174(2) (i) of the Bank Act  made it unlawful within
+the meaning of s. 34 for members of the firm to carry on the Partnership. 
+Section 34 provides:  34.  A partnership is in every case
+dissolved by the happening of any event that makes it unlawful for the business
+of the firm to be carried on or for the members of the firm to carry it on in
+partnership.  76                              
+The appellant argues that the Court of Appeal erred because the penalty
+imposed by s. 174(16)  of the Bank Act  represents what has been described
+as “the price of a licence for doing what the statute apparently forbids.” 
+Therefore, it does not compel the conclusion that either the Bank or Leasing
+was incapable of becoming a member of a valid partnership or that the
+Partnership was automatically dissolved after its formation on the basis of
+unlawfulness, pursuant to s. 34.  77                              
+Both the Court of Appeal and the appellant rely on Lindley &
+Banks on Partnership, supra, at p. 135, where it states:  . . . although a statute may appear to prohibit certain
+activities and impose a penalty for failure to observe its provisions, it does
+not follow that conduct which would attract the penalty is necessarily
+illegal.  If the statute can genuinely be classed as prohibitory, as will be
+the case if the penalty is imposed for the protection of the public, then such
+conduct will be illegal.  Per contra if, on a true construction of the
+statute, the penalty merely represents, as Lord Lindley put it, “the price of a
+licence for doing what the statute apparently forbids.”  78                              
+The penalty provision in the Bank Act  dealing with the
+participation in a Canadian partnership contrary to s. 174(2) (i) is
+contained in s. 174(16) .  It reads as follows:  174.  . . .  (16) A bank that contravenes any of paragraphs (2)(a),
+(c), (f), (h), (i) or (j) is guilty of an
+offence and liable on summary conviction to a fine not exceeding five hundred
+dollars in respect of each contravention.  79                              
+It is argued that s. 34 of the Partnerships Act and s. 20(1)  of
+the Bank Act  are in conflict because s. 20(1)  ensures that all acts done
+contrary to the Bank Act  are not invalid by reason only of a
+contravention of the statute.  The effect of s. 20(1) , it is argued, is that no
+acts done contrary to the Bank Act  are unlawful.  By paying the “licence
+fee” set out in s. 174(2)  of the Bank Act , a bank is permitted to enter
+into a partnership.  For s. 34 of the Partnerships Act to then render
+the participation of a bank in a partnership unlawful is contrary to the Bank
+Act  as it prohibits what the Bank Act  allows.  What is argued, in
+effect, is that the Bank Act , as a federal statute, must prevail over
+the Partnerships Act, which is a provincial statute.  80                              
+The wording of the penalty provision contained in s. 174(16)  makes it
+clear that the prohibitions contained in s. 174(2)  do not amount to a
+regulatory scheme providing that licence fees be paid for what the Bank Act 
+prohibits.  To interpret the section in this manner ignores the clear wording
+of the Bank Act .  Section 174(16)  labels a contravention of the Act an
+“offence” subject to “summary conviction” and sets out what amounts to a fine. 
+Moreover, even if the combination of ss. 18(1)  and 20(1)  serves to preserve the
+validity of the transaction that is prohibited by the Act, the action is no
+less “unlawful” within the meaning of s. 34 of the Partnerships Act
+because it is an action that is contrary to the clear wording of the Bank
+Act .  81                              
+As I do not accept that the penalties outlined in s. 174(16)  represent a
+licence fee for doing what the Bank Act  clearly prohibits in s. 174(2) ,
+I do not find that s. 20(1)  of the Bank Act  and s. 34 of the Partnerships
+Act are in conflict.  The effect of s. 34 of the Partnerships Act is
+clear:  the unlawfully formed partnership is dissolved ab initio.  The
+stipulation in s. 20(1)  of the Bank Act , that no act of a bank is invalid
+by reason only of a contravention of that Act, is of no consequence; the
+act is not invalid by reason only of the prohibition in s. 174(2) (i),
+but rather by reason of the effect of the contravention on the validity of the
+partnership under another statute, the Partnerships Act.  Payment of the
+penalties set out in s. 174(16)  of the Bank Act  does not render lawful
+what the Bank Act  prohibits.  82                              
+The respondent submits that s. 34 of the Partnerships Act should
+be construed to render invalid any partnership entered into by the Bank or its
+subsidiary.  It can be argued, however,  that the effect of dissolving the
+Partnership under s. 34 of the Partnerships Act, when Leasing became a
+partner, is to make Leasing subject to the prohibitions in the Bank Act . 
+If Leasing were subject to the prohibitions in the Bank Act , it would be
+unlawful for it, as a partner, to carry on the business of the Partnership and
+would therefore be contrary to s. 34 of the Partnerships Act.  The
+argument is that the Bank is subject to the prohibitions and penalties set out
+in the Bank Act , but that Leasing’s activities are not made unlawful
+because of the Bank’s breach of the statute.  To hold otherwise would amount to
+lifting the corporate veil to determine who are the investors who hold shares
+in a corporate partner and to determine if the investor has been involved in
+any unlawful activity.  83                              
+I do not accept that a finding that the Partnership is unlawful under s.
+34 necessitates a finding that Leasing is subject to the prohibitions in the Bank
+Act .  Section 34 of the Partnerships Act states that a partnership
+is dissolved upon the happening of an event that makes it unlawful “for the
+business of the firm to be carried on or for the members of the firm to
+carry it on in partnership” (emphasis added).  The prohibitions in the Bank
+Act  clearly make it unlawful for a bank to “indirectly” participate in a
+partnership.  Any indirect participation by a bank, i.e., participation through
+a subsidiary company,  makes the carrying on of business in the partnership
+“unlawful” within the meaning of s. 34 of the Partnerships Act.  84                              
+With regard to the second part of s. 34, under the reasoning that it
+cannot be unlawful for Leasing to be a member of the Partnership because it is
+not subject to the prohibitions of the Bank Act , the unlawful event must
+have occurred when the Bank, which is clearly subject to the Bank Act ,
+became a partner on December 27, 1986.  The Partnership would therefore have
+been dissolved on December 27, 1986.  I do not accept, however, that the
+“unlawful” event under s. 34 of the Partnerships Act occurred only when
+the Bank directly became involved in the Partnership on December 27, 1986.  In
+my view, Leasing’s participation in the Partnership on December 24, 1986 can
+still be considered “unlawful” within the meaning of s. 34 of the Partnerships
+Act by reason of the public policy component of the common law doctrine of
+illegality.  85                              
+The public policy component of the common law doctrine of illegality was
+not specifically pleaded in the present case; however, the respondent did plead
+that the Partnership was rendered invalid by s. 34 of the Partnerships Act
+because of the Bank’s or Leasing’s involvement in the Partnership. 
+Moreover, as Krever J. (as he then was) set out in Menard v. Genereux
+(1982), 39 O.R. (2d) 55 (H.C.), at p. 64:  It is, however, well established that whether or not they are pleaded,
+if facts are shown in the course of a trial which may render an agreement
+unenforceable by reason of illegality or public policy a court must take these
+facts into consideration and, depending on the circumstances, act upon them if
+necessary by refusing to lend its assistance to a party seeking to enforce his
+or her rights by relying on the agreement.  86                              
+I have discussed the doctrine of illegality as applied to contracts
+prohibited by statute.  The common law doctrine of illegality and its effect on
+the validity of a contract must also be considered with regard to acts contrary
+to public policy.  The development of the law in this area can be traced to Holman
+v. Johnson (1775), 1 Cowp. 341, 98 E.R. 1120, where Lord Mansfield stated,
+at p. 1121:  The principle of public policy is this;  ex dolo malo non oritur
+actio.  No Court will lend its aid to a man who founds his cause of action upon
+an immoral or an illegal act.  If, from the plaintiff’s own stating or
+otherwise, the cause of action appears to arise ex turpi causâ, or the
+transgression of a positive law of this country, there the Court says he has no
+right to be assisted.  It is upon that ground the Court goes; not for the sake
+of the defendant, but because they will not lend their aid to such a plaintiff.  87                              
+Since Holman, the courts have examined many transactions which
+involve what the courts considered to be immoral or illegal acts. The public
+policy in the present case is similar to the public policy recognized in the
+case law where the courts have refused to uphold a contract to commit a crime. 
+To enforce a contract of this type is to recognize that it is valid to agree to
+circumvent the law for economic gain.  As Cheshire, Fifoot and Furmston’s
+Law of Contract (13th ed. 1996), explains, at p. 375:  “An allied rule of
+public policy is that no person shall be allowed to benefit from his own
+crime.”  88                              
+While it may not be strictly contrary to the Bank Act  for Leasing
+to enter into a partnership, the parties to the agreements are, in effect,
+asking that they be permitted to benefit from a deliberate breach of the
+provisions of the Bank Act .  In this case, it is clear that, by virtue
+of s. 174  of the Bank Act , the Bank is prohibited from directly or indirectly
+participating in a partnership.  The parties to the Master Agreement and the
+Partnership Agreement were aware of this prohibition, but proceeded to enter
+into the Partnership with this knowledge.  It is worth reiterating that Leasing
+declined to give the representations and warranties regarding qualification to
+carry on the business of the Partnership that had been requested of all
+proposed members.  89                              
+The Bank negotiated the terms of the Master Agreement and set up a
+transaction that it hoped would allow it to circumvent the terms of the Bank
+Act  and avoid the consequences of the dissolution section in s. 34 of the Partnerships
+Act.  To find that the Partnership is dissolved when the Bank directly
+becomes involved on December 27, 1986 but not when Leasing, acting for the
+Bank, became involved in the Partnership on December 24, 1986 is to give effect
+to a transaction that offends public policy.  To sanction the participation of
+Leasing in the Partnership is to sanction the agreement to circumvent the
+provisions and penalties of the Bank Act  and the Partnerships Act.  90                              
+Is the finding that the transaction offends public policy sufficient to
+label the transaction illegal?  As noted earlier, Still, supra,
+sets out the modern approach to this area of the law.  At p. 138, Robertson
+J.A. explains the differences between the classical model of illegality and the
+modern approach.  He states that the modern approach to illegality recognizes
+that a contract will not be considered void ab initio simply because it
+is prohibited.  Under the modern approach, the contract can be declared
+illegal, and relief may be granted as an exception, or the contract can be held
+not to be illegal, and therefore enforceable.  Enforceability of a contract
+depends upon an assessment of the purpose and objects of the prohibition, in
+the context of the case.  91                              
+Similarly, C. Boyle and D. R. Percy, eds., in Contracts:  Cases
+and Commentaries (5th ed. 1994), state, at p. 719:  One way of conceptualizing this area might be to focus on the instances
+where public or communitarian concerns override the contracting parties’
+interests in ordering their private affairs as they choose. . . . 
+This approach is well-expressed in the early case of Maddox v. Fuller
+(1937), 173 So. 12 at 16:  “The true test . . . is whether the
+public interest is injuriously affected in such substantial manner that private
+rights and interests should yield to those of the public.”  92                              
+Boyle and Percy go on to state that “[o]n the other hand, it is possible
+to see the enforcement of certain contracts as reflecting public policy
+concerns just as much as the non-enforcement of other contracts”.  The proper
+question therefore, in my view, is whether it is in the interests of public
+policy to recognize the validity of the Partnership or whether it is in the
+interests of public policy to refuse to give effect to the transaction.  In all
+of the circumstances, I conclude that it is contrary to public policy to allow
+the parties to the transaction to benefit from their deliberate breach of the
+prohibitions set out in the Bank Act .  No third party will be harmed by
+the refusal to give effect to the transaction.  All of the parties to the
+Master Agreement and the Partnership Agreement were aware that they were
+assisting the Bank in breaching the statute.  The only hardship that may result
+from a finding that the formation of the Partnership on December 24, 1986 is
+illegal at common law on the grounds of public policy is that Leasing will not
+benefit from the deferred tax payment under s. 97(2) of the Income Tax Act.  93                              
+Even though I have found that Leasing’s participation in the Partnership
+is illegal on the ground of public policy, it is not necessary in this case to
+consider the effect of a finding of illegality at common law and the possible
+remedies set out in G. H. Treitel, The Law of Contract (9th ed. 1995),
+at pp. 438-66; Cheshire, Fifoot and Furmston’s Law of Contract, supra,
+at pp. 385-406.  The result of a finding that Leasing’s participation in the
+Partnership is contrary to public policy is that it is “unlawful” within the
+meaning of s. 34 of the Partnerships Act and that the Partnership is
+dissolved.  94                              
+In closing on this issue, I wish to add that a finding that the Bank was
+prohibited from participating in the Partnership, directly or indirectly,
+therefore rendering the transaction invalid, does not render invalid the
+participation of the other parties in the Partnership.  The other two
+subsidiaries of Central (693396 and CCMI) were valid participants in the
+Partnership and in my view created a valid partnership at law between
+themselves on December 24, 1986.  After Leasing and subsequently the Bank are
+removed from the Partnership, it continued as a valid entity.  This proposition
+is supported by Hudgell Yeates & Co. v. Watson, [1978] 2 All E.R.
+363 (C.A.).  In that case, a partnership was dissolved by operation of s. 34 of
+the Partnership Act 1890, the same provision as that contained in the
+Ontario Partnerships Act, because one member of a law firm’s practising
+certificate lapsed without the knowledge of the other partners.  The
+partnership, however, was reconstituted as a partnership between the remaining
+partners.  3.                Was Leasing liable for
+recapture under s. 13 of the Income Tax Act as the person that disposed of its
+depreciable assets to the Central subsidiary?  95                              
+Having found that Leasing was not a member of a valid partnership and could
+not take advantage of s. 97(2) of the Income Tax Act, I must determine
+whether Leasing is liable for recapture of capital cost allowance as the vendor
+of the leasing assets. Since the transaction entered into by the parties did
+not involve the transfer of a partnership interest, it follows that what was
+transferred from the Continental group to the Central group was leasing
+assets.  Leasing claims that a finding that the property that was transferred
+to Central was leasing assets, rather than an interest in a partnership, does
+not make Leasing the vendor of those assets and, therefore, liable for the
+recapture of capital cost allowance.  The Court of Appeal, after finding that
+no valid partnership existed, did not make an express finding that Leasing sold
+the leasing assets to Central.  It simply attributed the recapture to Leasing
+and upheld the Crown’s reassessment.  Bowman J.T.C.C. did not make a finding on
+this issue because once he found that a valid partnership had been formed, it
+was not necessary to determine who would have disposed of the assets if no
+partnership had been formed.  96                              
+Leasing argues that it was the Bank that disposed of the leasing assets 
+and on that basis, it is not liable for the recapture of capital cost
+allowance.  Leasing stressed that the original transaction with Central was to
+be a sale of the shares in Leasing and that the Bank would have been the
+vendor, given that it was the sole shareholder in the company.  While this may
+be true, I do not think that it follows that the Bank was the vendor of the
+leasing assets.  97                              
+Having found that the substance of the transaction was a sale of assets,
+the conveyance of those assets occurred when Leasing signed the Master
+Agreement on December 23, 1986. The s. 97(2) election showed all three of the
+Central subsidiaries as transferees under the conveyance of assets, not just
+the two subsidiaries that signed the December 24, 1986 Partnership Agreement. 
+The three Central subsidiaries appeared to have a bona fide intention to
+carry on business in common with each other and there was no legal prohibition
+to prevent them from forming a partnership between themselves under the name
+Central Capital Leasing.  The failure of Leasing ever to be a member of a valid
+partnership with any of them did not prevent the assets from being acquired by
+the Central subsidiaries and being held by them under the name Central Capital
+Leasing.  Once the partnership scheme is collapsed vis-à-vis Leasing,
+what is left is a sale of Leasing’s assets to Central’s subsidiaries on
+December 24, 1986.  98                              
+Leasing argues that the sale of the assets effectively took place on
+December 29, 1986, two days after the purported transfer of the 99 percent
+partnership interest from Leasing to the Bank.  In other words, it is argued
+that the transfer from Leasing to the Bank on December 27, 1986 would in
+reality have been a transfer of the leasing assets if the partnership was
+invalid and would have made the Bank the owner of the assets on the date they
+were transferred to Central.  99                              
+Section 13 of the Income Tax Act imposes the tax liability for
+recapture of capital cost allowance on the person who owned depreciable assets
+and disposed of those assets.  The only person that can be liable for the
+recapture is Leasing because, as owner of the assets on December 24, 1986,
+Leasing transferred those assets to what it hoped to be a valid partnership. 
+The Bank was not a party to the transfer.  100                          
+What the appellant seeks to do is to characterize the Bank as having
+acquired Leasing’s assets when the 99 percent partnership interest was
+transferred to it on December 27, 1986.  This would make the Bank the vendor of
+the assets which disposed of them to Central on December 29, 1986.  To adopt
+this approach would require the invalid partnership interest that was
+transferred to the Bank by Leasing to be converted to a transfer of assets. 
+This approach is flawed because, by December 29, 1986, Leasing was no longer
+the owner of the assets.  The fact that the Partnership was not a valid one vis-à-vis
+Leasing and that consequently the s. 97(2) rollover was ineffective does not
+negate the consequence that the assets were transferred on December 24, 1986.  101                          
+The proceeds of the sale of the assets were paid to the Bank on December
+29, 1986 in the form of notes and debentures from Central.  This, however, does
+not change the fact that Leasing was the vendor of those assets on December 24,
+1986 and was entitled to the proceeds of the disposition.  Income tax
+principles require that taxpayers be taxed on amounts that are receivable.  The
+transfer of the “partnership interest” from Leasing to the Bank could arguably
+be characterized as a transfer of  the proceeds that Leasing was to receive
+from the sale of its assets to Central subsidiaries.  However, even
+characterized in this way, Leasing is liable for the recapture of capital cost
+allowance as the vendor of the assets.  Subsection 56(4) of the Income Tax
+Act requires that where a taxpayer transfers rights to income that should
+have been included as income for the taxation year because the amount would
+have been receivable in that year, the taxpayer will be taxed on that income.  VII.  Conclusion  102                          
+Although the parties in this case set up a valid partnership within the
+meaning of s. 2 of the Partnerships Act, the participation of Leasing in
+that partnership was void by virtue of s. 34 of the Partnerships Act. 
+The collapse of the partnership scheme vis-à-vis Leasing, however, does
+not change the fact that Leasing’s assets were transferred to Central’s
+subsidiaries on December 24, 1986.  Because these assets were not transferred
+to a partnership pursuant to s. 97(2) of the Income Tax Act, Leasing
+cannot take advantage of that provision and is therefore liable for the
+recapture of  capital cost allowance on its depreciable assets pursuant to s.
+13 of the Income Tax Act.  I would dismiss the appeal with costs.  //McLachlin
+J.//  The judgment of Gonthier, Cory, McLachlin, Iacobucci and Major JJ. was
+delivered by  103                          
+McLachlin J. -- My
+colleague Justice Bastarache concludes that the Continental Bank Leasing
+Corporation (“Leasing”) cannot take advantage of s. 97(2) of the Income Tax
+Act, R.S.C. 1952, c. 148, as amended, because its participation in the
+partnership was void by virtue of the Partnerships Act, R.S.O. 1980, c.
+370.  While I agree with all other aspects of his reasons, I
+respectfully differ on this point and consequently on the disposition of this
+appeal.  104                          
+The partnership in question was formed between Leasing and two wholly
+owned subsidiaries of Central Capital Leasing, 693396 Ontario Limited
+(“693396") and Central Capital Management Inc. (“CCMI”), on December 24,
+1986.  The trial judge found that it was a real and binding partnership.  The
+partners would not have been able to tell a third party that they were not
+partners.  On this basis, he found the arrangements set up to reduce tax were
+valid and held that Leasing was entitled to take advantage of s. 97(2) of the Income
+Tax Act.  105                          
+The respondent on appeal argued that the partnership was not valid by
+reason of the combined operation of s. 174(2) of the Bank Act, R.S.C.,
+1985, c. B-1, and s. 34 of the Ontario Partnerships Act.  The Bank
+Act  states:  174. . . . (2)  Except as authorized by or under this Act and
+in accordance with such terms and conditions, if any, as are prescribed by the
+regulations, a bank shall not, directly or indirectly,  .
+. .  (i) acquire or hold an interest in Canada in, or otherwise
+invest or participate in Canada in, a partnership or  limited partnership. . .
+.  The Partnerships
+Act states:  34.  A partnership is in every case
+dissolved by the happening of any event that makes it unlawful for the business
+of the firm to be carried on or for the members of the firm to carry it on in
+partnership.  106                          
+The reasoning underlying the respondent’s argument appears to be as
+follows:  1.    Section 174 of the federal Bank Act 
+prohibits the Continental Bank of Canada (the “Bank”) from acquiring or holding
+an interest, or otherwise investing or participating in, a partnership or
+limited partnership in Canada.  2.    The Bank violated this provision when its
+wholly owned subsidiary, Leasing, entered into a partnership with 693396 and
+CCMI.  3.    Section 34 of the Ontario Partnerships
+Act provides that a partnership is “dissolved” by the happening of any
+event that makes it unlawful for the business of the firm to be carried on or
+for the members of the firm to carry it on in partnership.  4.    The partnership formed initially by Leasing
+and the two other corporations was dissolved under s. 34 because of the
+operation of s.  174  of the Bank Act  either (a) because s. 174  made the
+partnership’s business unlawful; or (b) because s. 174  made it unlawful for the
+members of the firm to carry it on in partnership.  5.    This effect prevails despite s. 20(1)  of the
+Bank Act , which provides that “[n]o act of a bank, including any
+transfer of property to or by a bank, is invalid by reason only that the act or
+transfer is contrary to this Act”.  107                          
+In my view, steps 4 and 5 of the argument are not made out.  108                          
+The first question is whether s. 34 of the Partnerships Act is
+attracted because the Bank’s investment in a partner (Leasing) makes it
+unlawful for the business of the partnership to be carried on.  If an investor
+holds shares in a corporate partner in a partnership when the law says it
+should not, is the business of the partnership thereby rendered illegal?  I
+think not.  The partnership must be distinguished from those who may invest in
+or support the partners that make it up.  The investors are behind the scenes. 
+They do not incur liability for partnership obligations.  The law looks only to
+the partners to satisfy any liability that the partnership may incur.  An
+investor may supply money to a partner which the partner then uses to carry on
+lawful business.  The fact that the law says that the investor should not have
+supplied the money does not render the partnership business unlawful.  109                          
+This is precisely the situation in the case at bar.  Prior to
+December 27, 1986, the Bank was not a partner.  It merely held shares in one of
+the partners, Leasing, which was a separate and legally distinct corporation. 
+The Bank Act  says that the Bank should not have held shares in Leasing
+if Leasing was a partner in a partnership.  But this does not render illegal
+the business that Leasing carried on in the partnership.  Leasing was a
+distinct and separate entity from the Bank, as was the partnership it entered
+into.  The fallacy in the argument of the respondent is that it treats the Bank
+as if it were a partner in the partnership.  But, prior to December 27th,  it
+was not a partner.  Leasing was the partner.  And Leasing did not violate s.
+174  of the Bank Act .  Indeed, Leasing could not violate s. 174  of the Bank
+Act , because it was not a bank.  110                          
+The next question is whether s. 34 of the Partnerships Act is
+attracted because s. 174  of the Bank Act  made it unlawful for Leasing to
+be a partner in the firm.  The same point disposes of this question.  Leasing
+was a separate corporation from the Bank.  It had its own identity.  It was not
+a bank.  So s. 174 does not touch it.  There is nothing in s. 174  of the Bank
+Act  that made it unlawful for Leasing to be a member of the partnership.  111                          
+If these observations are correct, then, prior to December 27th,  s. 174 
+did not make it unlawful for the partnership to carry on its business, or for
+Leasing to be a partner.  It made it unlawful for the Bank to invest in
+Leasing, but that is an entirely different thing.  It does not affect the
+legality of the partnership’s business or of Leasing’s participation in the
+partnership.  112                          
+It follows that the partnership was not dissolved under s. 34 of the Partnerships
+Act because the Bank should not have held shares in one of the partners. 
+To suggest that partnerships could be dissolved simply because a
+behind-the-scenes investor or supporter of one of the partners was legally
+prohibited from investing in the partnership is to assert a proposition novel
+to the law.  In determining who may be partners and what the lawful business of
+the partnership is, the law looks to the partnership and the partners, not
+those who invest or hold shares in the partners.  Where the partner is a
+corporation, as here, the general rule that the law does not pierce the
+corporate veil reinforces this conclusion:  Salomon v. A. Salomon and Co.,
+[1897] A.C. 22 (H.L.).   Were it otherwise, one would never know whether a
+partnership is valid without investigating all those who may own shares or
+financially support the partners.  This would make it difficult if not
+impossible to do business with partnerships with any sense of security.  In the
+case at bar, the consequence of holding the partnership void is to defeat a
+transaction aimed at minimizing tax.  However, in other cases it might affect
+innocent third parties relying on the partnership.  113                          
+A further consequence of holding that an unlawful investment voids a
+partnership entered into by an investee is that the legal status of
+partnerships would vary with the shareholders in corporate partners.  If a bank
+holds shares in a corporate partner, the partnership would be void.  But if the
+bank sells those shares to a non-bank (and who is to know?) is the partnership
+reconstituted?  The only sensible rule is what I apprehend to be the legal rule
+-- that the validity of a partnership depends on its members, not on who may
+hold shares in them.  114                          
+This brings me to Bastarache J.’s argument that Leasing’s participation
+in the partnership on December 24, 1986 can be considered unlawful within the
+meaning of s. 34 of the Partnerships Act by reason of the public policy
+component of the common law doctrine of illegality.  This argument posits that,
+despite the fact that Leasing’s participation in the partnership does not
+contravene the provisions of the Bank Act , it should be considered
+illegal for public policy reasons, namely because “[t]o sanction the
+participation of Leasing in the Partnership is to sanction the agreement to
+circumvent the provisions and penalties of the Bank Act  and the Partnerships
+Act” (para. 89).  In essence, Bastarache J. equates his conclusion that
+Leasing’s participation in the partnership is “illegal” under the doctrine of
+illegality with a finding that that participation is also “unlawful” under s.
+34 of the Partnerships Act.  In my view, the equation is not warranted.  115                          
+I will not repeat the historical foundations for the doctrine of
+illegality, which have been ably summarized by my colleague, Bastarache J.  I
+simply note that   the meaning of the term “illegal” within the context of the
+doctrine of illegality does not always mean “unlawful” in the traditional sense
+of being “contrary to, prohibited, or unauthorized by law” (Black’s Law
+Dictionary (6th ed. 1990)).  The need to exercise caution in the use of the
+term “illegal” in this area was underlined by C. Boyle and D. R. Percy, eds.,
+in Contracts: Cases and Commentaries (5th ed. 1994), at p. 721:    A word of warning is necessary with respect to
+terminology.  It will be evident already that the expressions “illegal” and
+“contrary to public policy” are used somewhat loosely and interchangeably.  The
+approach of the British Columbia Law Reform Commission may be helpful.  After
+recognizing that the word “illegal” is not always entirely appropriate,
+the Commission stated in its Report on Illegal Transactions (1983), at
+2:  The term “illegal” is used as a convenient shorthand expression,
+signifying that the transaction so designated is one which a court will decline
+to enforce on the ground that it infringes some public policy, or the terms or
+object of an enactment.  [Emphasis added.]   116                          
+The fact that the court determines that a contract is void or
+unenforceable for public policy reasons under the doctrine of illegality does
+not render either the contract itself or the subject of the contract unlawful. 
+As noted by G. H. Treitel in The Law of Contract (9th ed. 1995), at p.
+399: “Such contracts are often called ‘illegal.’  It is sometimes said that
+they are only ‘void’ or ‘unenforceable’; but these statements only emphasise
+that no specific legal wrong is involved.  So long as this point is
+borne in mind, no harm is done by using the traditional terminology in which
+these contracts are ‘illegal.’”  (Emphasis added.)  117                          
+It follows that a finding that Leasing’s participation in the
+partnership should be void or unenforceable for public policy reasons under the
+doctrine of illegality does not necessarily mean that its participation
+was illegal or unlawful in the traditional sense of either term.  As a result,
+s. 34 of the Partnerships Act is not attracted.  118                          
+This is sufficient to dispose of the argument that s. 34 of the Ontario Partnerships
+Act rendered the partnership between Leasing and its partners void.
+However, the question remains whether Leasing’s participation in the
+partnership should be deemed unenforceable as a result of the application of
+public policy principles under the doctrine of illegality, quite apart from s.
+34 of the Partnerships Act.  In my opinion, this question must be
+determined in the negative.  Contrary to my colleague, I find that public
+policy requires that breaches of the Bank Act  should not lead to
+the invalidation of contracts and other transactions.  There is a good reason
+for this; to unravel commercial transactions on the basis that a corporate
+actor breached a statute is to introduce uncertainty into the affairs of individuals
+and businesses. This is especially true where the transactions at issue involve
+a subsidiary of the corporate actor.  119                          
+More importantly, s. 20(1)  of the Bank Act  clearly states that
+“[n]o act of a bank . . . is invalid by reason only that the act or transfer is
+contrary to this Act”. Section 20(1)  thus supports the view that Parliament
+never intended breaches of the Bank Act  to render bank transactions,
+including investments in other corporations, like Leasing,  null and void.  
+This supports the argument that Parliament intended to create an offence
+punishable by fines, not to invalidate otherwise lawful transactions and that
+the doctrine of illegality should have no application in the case at bar.  120                          
+I conclude that the partnership between Leasing, 693396 and CCMI was
+valid between December 24th and December 27th.  It follows that the election
+under s. 97(2) of the Income Tax Act was also valid.  It is not
+necessary, for the purposes of this first appeal, to consider the transfer of
+Leasing’s partnership interest to the Bank.  That transfer and the subsequent
+transfer of the Bank’s partnership  interest to 693396 and 693397 Ontario Ltd. 
+are the subjects of the second appeal.  I would allow this appeal with costs
+and refer the assessment back to the Minister of National Revenue for
+reconsideration and reassessment in accordance with these reasons.  Appeal allowed with costs, L’Heureux-Dubé
+and Bastarache JJ. dissenting.  Solicitors for the appellant:  Tory Tory Des Lauriers
+& Binnington, Toronto.  Solicitor for the respondent:  George Thomson, Toronto. Solicitors for the intervener:  McCarthy Tétrault, Toronto.    

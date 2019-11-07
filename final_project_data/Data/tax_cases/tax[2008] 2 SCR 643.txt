@@ -1,0 +1,732 @@
+                                                   SUPREME
+COURT OF CANADA   Citation: Redeemer
+  Foundation v. Canada (National Revenue), [2008] 2 S.C.R. 643, 2008 SCC
+  46  Date:  20080731 Docket:  31753  Between: Redeemer
+Foundation Appellant and Minister of
+National Revenue Respondent  Coram: McLachlin C.J. and Binnie, LeBel, Deschamps, Fish,
+Charron and Rothstein JJ.   Reasons for
+  Judgment: (paras. 1 to 29)  Reasons
+  Dissenting in Part: (paras. 30 to 58)   McLachlin C.J. and LeBel J. (Fish and Charron JJ.
+  concurring)  Rothstein J. (Binnie and
+  Deschamps JJ. concurring)  ______________________________ Redeemer Foundation v. Canada (National Revenue), [2008] 2
+S.C.R. 643, 2008 SCC 46  Redeemer Foundation                                                                                                        Appellant  v.  Minister of National Revenue                                                                                        Respondent  Indexed as:  Redeemer Foundation v. Canada
+(National Revenue)  Neutral citation:  2008 SCC 46.  File No.:  31753.  2008:  February 28; 2008:  July 31.  Present:  McLachlin C.J. and Binnie, LeBel,
+Deschamps, Fish, Charron and Rothstein JJ.  on appeal from the federal court of appeal  Taxation — Income tax — Administration and
+enforcement — Minister of National Revenue’s power to inspect, audit and
+examine taxpayers’ records — Whether Minister must obtain judicial
+authorization during course of legitimate audit of registered charity before
+asking charity to provide information that identifies its donors — Income Tax
+Act, R.S.C. 1985, c. 1 (5th Supp .), ss. 230(2) (a), 231.1(1) .   The appellant Foundation, a registered charity, operates
+a forgivable loan program that finances the education of students at an
+affiliated college.  The Canada Revenue Agency (“CRA”) was concerned that some
+donations to the program were not valid charitable donations because the
+donors’ contributions were made solely to finance the education of their own
+children.  CRA served the Foundation with a requirement to record the identity
+of each donor and the name of the student who received credit for each
+donation.  In a subsequent audit, CRA requested the donor information, which
+the Foundation provided.  CRA advised the Foundation that there might be
+grounds to revoke its charitable status and to reassess its donors.  Notices of
+reassessment were sent to some donors.  The Foundation applied for judicial
+review of the CRA’s request for donor information.  The reviewing judge
+declared that the request was improper without prior judicial authorization,
+the donor information should be returned, and the Minister of National Revenue
+should be prevented from acting upon the information to reassess donors.  The
+Federal Court of Appeal set aside the reviewing judge’s order and dismissed the
+application for judicial review.  Held (Binnie, Deschamps
+and Rothstein JJ. dissenting in part):  The appeal should be
+dismissed.  Per McLachlin C.J.
+and LeBel, Fish and Charron JJ.:  The Minister was entitled to the donor
+information through the combined effect of ss. 230(2) (a) and 231.1 
+of the Income Tax Act , and the Minister was not required to obtain
+judicial authorization before requesting the information.  The Minister has a
+broad power under s. 231.1  to inspect, audit and examine taxpayers’ records
+and any information that is or should be in the taxpayer’s books.  The
+Foundation was required to collect the donor information pursuant to its record
+keeping obligations under s. 230(2) (a) because the information was
+necessary for determining whether to revoke its registration as a charity. 
+Section 231.2  still serves a useful purpose if s. 231.1  is read as
+authorizing the Minister to obtain information on unnamed third parties during
+the audit of a taxpayer without judicial authorization, since s. 231.2 
+addresses circumstances where the Minister needs information about one or more
+taxpayers outside the context of a formal audit.  [1] [12-13] [15]   The Federal Court does not have the jurisdiction to
+order the Minister to vacate tax assessments.  Taxpayers should challenge
+evidence used for a reassessment before the Tax Court of Canada.  [28]    The Federal Court did not have
+jurisdiction to vacate the donors’ tax assessments.  Any issues as to the
+admissibility of evidence in respect of assessments should be made at the Tax
+Court of Canada.  [58]  Cases Cited  By McLachlin C.J. and
+LeBel J.  Referred
+to:  R. v. McKinlay
+Transport Ltd., [1990] 1 S.C.R. 627.  By Rothstein J. (dissenting in
+part)  Canada Trustco Mortgage Co. v.
+Canada, [2005] 2 S.C.R. 601,
+2005 SCC 54; Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1 S.C.R. 27.  Statutes and Regulations Cited   Income Tax
+Act, R.S.C. 1985, c. 1
+(5th Supp .), ss. 152(8) , 169(1) , 230 , 231.1 , 231.2 , 248(1) .  Authors Cited  Canada. 
+Ministry of National Revenue.  Audit Directorate.  Requirement Guidelines. 
+Ottawa:  Ministry of National Revenue, July 20, 1995.  APPEAL from a judgment of the
+Federal Court of Appeal (Richard C.J. and Sharlow and
+Pelletier JJ.A.), [2007] 3 F.C.R. 40, 354 N.R. 147, [2007] 1 C.T.C. 280,
+2006 D.T.C. 6712, [2006] F.C.J. No. 1492 (QL), 2006 CarswellNat 4821, 2006
+FCA 325, reversing a decision of Hughes J., [2006] 1 F.C.R. 416, 281 F.T.R.
+143, [2006] 1 C.T.C. 7, 2005 D.T.C. 5617, [2005] F.C.J. No. 1678 (QL),
+2005 CarswellNat 3280, 2005 FC 1361, granting an application for judicial
+review of a decision of the Canada Revenue Agency to request third party donor
+information and documentation from the appellant.  Appeal dismissed, Binnie,
+Deschamps and Rothstein JJ. dissenting in part.  Jacqueline L. King, Robert B. Hayhoe and
+Gerald Chipeur, for the appellant.  Gordon Bourgard and Christine Mohr, for
+the respondent.  The judgment of McLachlin C.J. and
+LeBel, Fish and Charron JJ. was delivered by  [1]    
+The Chief Justice and LeBel J. —
+The issue in this appeal is whether the Minister was required under
+s. 231.2(2)  of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .),
+to obtain judicial authorization before asking the Redeemer Foundation
+(“Foundation”), a registered charity, for information about the identity of its
+donors in the course of a legitimate audit of the Foundation.  In our view, he
+was not required to do so.  The Minister was entitled to information about the
+identity of the donors through the combined effect of s. 230(2) (a)
+and s. 231.1 .  (The relevant provisions are reproduced in the Appendix.) 
+Moreover, the Minister requested that information for a legitimate purpose — to
+investigate the validity of the Forgivable Loan Program (“FLP”) operated by the
+Foundation.  For these reasons, we would dismiss the appeal and affirm the
+judgment of the Federal Court of Appeal.  I.      Facts  [2]    
+The Foundation is affiliated with Redeemer University College. The
+Foundation operates the FLP as a means of financing the education of students
+at the College. In October 1998, the Canada Revenue Agency (“CRA”) audited both
+the Foundation and the College in respect of the 1997 taxation year. The audit
+raised concerns regarding the Foundation’s compliance with the Income Tax
+Act . A central concern of the CRA was that many of the contributions to the
+FLP might not have been valid charitable donations because they were made by
+parents of students attending the College with the expectation that the money
+would be used to finance their child’s education. The CRA cautioned that it
+would consider disallowing deductions to parents on their individual income tax
+returns. Ultimately, however, the CRA determined that it required additional
+information to fully understand the transactions under investigation.  [3]    
+In particular, the CRA expressed its concern that the Foundation had
+been unable to provide completed transmittal forms which recorded the identity
+of each donor and the name of the student who was to receive credit for the
+donation. It resumed its audit of the Foundation in 2001 for the 1998, 1999 and
+2000 taxation years. Again, the Foundation could not produce completed
+transmittal forms and advised the CRA that the forms had not been preserved for
+those years. In response, the CRA served the Foundation with a requirement
+under s. 230(3)  of the Income Tax Act  asking it to maintain proper
+records, including the transmittal forms. The CRA decided to wait until the
+transmittal forms were available before pursuing its investigation into the
+links between donors and students.  [4]    
+The CRA began a further audit in 2003 in regard to the 2001 and 2002
+taxation years. In the course of that audit, the CRA’s representative made an
+oral request of the Foundation’s Executive Director for certain information,
+including a list of donors. The Foundation complied with this request. Upon its
+review of all of the information, the CRA advised the Foundation of its view
+that a valid charitable donation arrangement did not exist and that there might
+be grounds for revoking the Foundation’s charitable status as a result. Several
+meetings subsequently took place between the CRA and representatives for both
+the Foundation and the donors to discuss the implications of the CRA’s position
+on the charitable status of the Foundation and reassessment implications for
+the donors. In addition, the CRA contacted certain donors to advise them of its
+intention to disallow deductions for their donations to the Foundation and to
+request additional information. Notices of reassessment were eventually sent to
+some of these donors.  [5]    
+During a follow-up meeting with the Foundation in June 2004, the CRA
+requested the donor lists for the 2002 and 2003 taxation years. The Foundation
+refused to provide the information, upon the advice that it would be improper to
+do so without the CRA having first obtained an order from the Federal Court
+pursuant to ss. 231.2(2)  and 231.2(3)  of the Income Tax Act .  Section
+231.2(2) of the Act states:  The Minister shall not impose on any person (in this section referred
+to as a “third party”) a requirement under subsection (1) to provide
+information or any document relating to one or more unnamed persons unless the
+Minister first obtains the authorization of a judge under subsection (3).   [6]    
+In September 2005, the Foundation brought an application for judicial
+review of the CRA’s 2003 request, with which the Foundation had complied by
+providing the CRA with the 2001 and 2002 donor lists and related information.
+The Foundation sought a declaration that the 2003 request was improper, that
+the information be returned and that the CRA be prevented from acting upon the
+information, such as by reassessing the donors identified by the information.  II.     Judgments Below  A.     Federal Court, [2006] 1 F.C.R. 416,
+2005 FC 1361  [7]    
+Hughes J. allowed the Foundation’s application for judicial review and
+ordered that any reassessments based on the information obtained as a result of
+the 2003 request be set aside. Hughes J. held that ss. 231.2(2)  and 231.2(3) 
+were “intended to protect third parties from having information relating to
+their activities obtained from other persons audited by the Minister, who then
+will use it for taxation purposes” (para. 14).  [8]    
+Given that there was evidence that the CRA had used the information
+obtained from the Foundation to contact donors in respect of reassessment, in
+his view, the 2003 request fell within the scope of conduct covered by ss.
+231.2(2)  and 231.2(3) . He therefore held that the CRA’s request for and use of
+the information without prior judicial authorization was wrong.  [9]    
+Hughes J. held that the Federal Court had the power to restrain the
+Minister from acting upon improperly obtained information by virtue of s.
+18.1(3) (b) of the Federal Courts Act, R.S.C. 1985, c. F-7 , which
+includes the power to “set aside . . ., prohibit or restrain, a decision, order
+[or] act”. In his view, the word “decision” was “broad enough to include acts
+consequent upon the initial illegal act” (para. 22). It was on this basis that
+he set aside the reassessments.  B.     Federal
+Court of Appeal, [2007] 3 F.C.R. 40, 2006 FCA 325  [10] Pelletier
+J.A., writing for a unanimous court, allowed the Minister’s appeal, set aside
+the order of the Federal Court and dismissed the application for judicial
+review. Pelletier J.A. looked to other provisions of the Income Tax Act  to
+inform his interpretation of s. 231.2(2) . In particular, he relied on s.
+230(1) , which requires taxpayers to keep records that will enable the Minister
+to determine taxes payable under the Act. In addition, he considered s. 230(2) ,
+which identifies information that is specifically required to be kept by
+charities, and held that the information at issue was covered by this
+provision. When combined with the Minister’s general audit powers under s.
+231.1(1) , Pelletier J.A. surmised that these provisions provided sufficient
+authority for the CRA’s 2003 request. As he explained:  If the auditor is entitled to obtain information by means of his own
+examination of the Foundation’s books and records, I can think of no principle
+which would require him to obtain a court order before asking for the
+Foundation’s assistance in obtaining the very same information. [para. 37]  [11] Pelletier
+J.A. rejected the CRA’s use of the information to reassess the Foundation’s
+donors as a valid concern. In his view, given the reciprocity of tax treatment
+between a charity and its donors, the CRA had a valid interest in reviewing the
+tax returns of the Foundation’s donors based on its audit of the Foundation and
+its conclusion that many donations were not eligible for deduction.  III.     Statutory Interpretation  [12] The
+case before us, first and foremost, is one of statutory construction.  The main
+section at issue is s. 231.1(1) which gives the Minister a broad power to
+inspect, audit and examine taxpayers’ records.  This is the section that the
+Minister and the Federal Court of Appeal relied on as authorizing the Minister
+to obtain without judicial authorization the names of donors to the Foundation:  231.1 (1) An authorized person may, at all reasonable times,
+for any purpose related to the administration or enforcement of this Act,  (a)    inspect, audit or examine the books and records of a
+taxpayer and any document of the taxpayer or of any other person that relates
+or may relate to the information that is or should be in the books or records
+of the taxpayer or to any amount payable by the taxpayer under this
+Act, . . .  [13] On its
+face, this section covers the situation at bar.  It authorizes the Minister to
+examine “information that is or should be” in the Foundation’s books.  The
+information at issue regarding third party taxpayers who had contributed to the
+Foundation was either in the Foundation’s books, or “should” have been in its
+books pursuant to the broad record-keeping requirements created by s. 230(2) :  230. . . .  (2)   Every registered charity and registered Canadian amateur
+athletic association shall keep records and books of account at an address in
+Canada recorded with the Minister or designated by the Minister containing  (a)   information
+in such form as will enable the Minister to determine whether there are any
+grounds for the revocation of its registration under this Act;  (b)   a
+duplicate of each receipt containing prescribed information for a donation
+received by it; and  (c)   other information in such form as will enable the Minister
+to verify the donations to it for which a deduction or tax credit is available
+under this Act.  The Minister led
+unchallenged evidence to the effect that the information it sought identifying
+the donors was necessary for determining whether the Foundation was issuing
+receipts not in accordance with the Act and, therefore, whether there were
+grounds to revoke its registration.  It would seem to follow that by the
+combined effect of ss. 230(2)(a) and 231.1 of the Act, the Minister
+was entitled to information on those donors within the hands or power of the
+Foundation.  [14] The
+first argument of the appellant is that the principles of statutory
+construction require the Court to read s. 231.1(1) as not permitting access to
+any third party records without judicial authorization.  It was raised that s.
+231.2 would serve no purpose if s. 231.1 were read as authorizing the Minister
+to obtain information on unnamed persons (i.e. the contributors or “third
+parties” in this case).  Therefore, s. 231.1(1) cannot be read as applying
+to information about unnamed persons, and a warrant is required before
+examining information about donors to the Foundation.  [15] Statutory
+provisions must be interpreted in a textual, contextual and purposive way, and
+all sections of a related group of provisions should be given coherent meaning
+if possible.  But, we do not accept the argument that s. 231.2 serves no
+purpose if s. 231.1 is read as authorizing the Minister to obtain information
+on unnamed third parties during the audit of a taxpayer. The Minister may well
+need to obtain information about one or more taxpayers outside the context of a
+formal audit. Section 231.2 responds to this need, subject to a requirement for
+judicial authorization if the Minister is seeking information relating to
+unnamed persons from a third party record holder.  It follows that the argument
+that s. 231.1(1) should be read down to avoid redundancy fails.  IV.     The Purpose of Requesting the Donor List  [16] Another
+argument raised in support of the appeal is that judicial authorization was
+required because one of the purposes the CRA was pursuing in obtaining the
+donor list was to reassess the Foundation’s donors.  In our opinion, however,
+the facts of this case confirm that the CRA needed the list to investigate its
+suspicions regarding the legitimacy of the FLP. The reassessment of the
+Foundation’s donors is just a logical consequence of the CRA’s suspicion that
+the FLP was not a valid charitable program.  [17] Upon
+concluding its audit in 2003 regarding the 2001 and 2002 taxation years, the
+CRA informed the Foundation of its findings as follows:  In our review
+of the Transmittal Forms, a list of donors and the list of                             students
+receiving the forgivable loans, we found that in the majority of cases the
+students solicited funds for the FLP from their own parents. The students then
+received 90% of the parents’ gifts under the FLP to pay for their tuition and
+related costs. The parents receive a charitable donation receipt for income tax
+purposes for 100% of the gift amount and their child-student receives a tuition
+receipt for the applicable portion of their loan . . . .  For the reasons listed above, there may be grounds to revoke the
+organization’s status as a registered charity. [Emphasis added; C.A. reasons,
+at para. 9.]  The above
+quotation confirms that the CRA reviewed the donor list, along with the
+transmittal forms and a list of students benefiting from the FLP, in order to
+assess the validity of the Foundation’s status as a registered charity. The CRA
+used the donor list to shed light on the links between donors and students,
+which were the very subject of its investigation of the Foundation and of the
+validity of the Foundation’s charitable status. Regardless of whether the donor
+list was used by the CRA in pursuing its audits of the donors themselves, the
+CRA clearly had a valid purpose in requesting and using the information to
+complete its audit of the Foundation.  [18] The
+position of the appellant would require the CRA to obtain judicial
+authorization whenever it has as even one of its purposes the reassessment of
+unnamed persons.  This approach would compel the CRA to obtain judicial
+authorization to access the records of practically any charity it chooses to
+audit. When a charity is audited, we presume that it will generally be to
+review the validity of the organization’s charitable status and/or the
+legitimacy of the donations it receives. Such a review will always entail a
+possibility, depending on the outcome of the initial investigation, that the donors
+will be investigated and, ultimately, reassessed.  It is therefore unclear
+under what circumstances the CRA would be able to audit a charity without
+having to obtain judicial authorization to review information pertaining to the
+charity’s donors. We find it hard to imagine how this test would be workable in
+practice other than by requiring the CRA to obtain judicial authorization every
+time it audits a charity.  [19] In
+addition to audits of charities, this approach would potentially require
+judicial authorization in a variety of other circumstances. Given the
+reciprocal nature of many tax arrangements, where a suspicion arises that one
+taxpayer is not complying with the Act, there may often be a corresponding
+suspicion that there are others who are not complying in regard to the same
+transactions. Presumably, the CRA may, in auditing the first taxpayer, obtain
+information pertaining to other taxpayers, and it may reassess those other
+taxpayers as a result. Judicial authorization would therefore be required.  [20] Returning
+to the issue of charities, we share the concerns of the Federal Court of Appeal
+regarding the ability of the CRA to review the records that charities are
+legally required to maintain. Section 230(2) , as mentioned, requires registered
+charities to keep certain records. Section 230(2) (c) specifically
+requires a registered charity to keep records containing  other
+information in such form as will enable the Minister to verify the donations
+to it for which a deduction or tax credit is available under this Act.  Under s. 230(3),
+where adequate records have not been kept, the Minister may require a charity
+to keep such records, as was done in this case. The donor list was used, in
+conjunction with the records the Foundation was specifically ordered to keep by
+the CRA, to assess the validity of the FLP.  In our opinion, the donor list was
+clearly the type of record the Foundation was required to keep pursuant to s.
+230(2) . In the words of Pelletier J.A.: “The maintenance of books and records
+would not assist in monitoring compliance with the Act if the Minister was not
+able to consult those books and records” (para. 31).  It would be illogical to
+require a charity to keep records to enable the CRA to verify the legitimacy of
+its donations, but then require the CRA to obtain judicial authorization in
+order to review those records. Judicial authorization would not serve any
+useful purpose in such circumstances.  [21] In the
+instant case, another difficulty resulted from the fact that it was apparently
+necessary to identify the donors in order to assess the validity of the charity
+itself.  The CRA suspected that the FLP was not a valid charitable program
+because of the relationship between the donors and the beneficiaries (the
+students).  This suspicion could not be confirmed without obtaining records
+indicating the identities both of the donors and of those benefiting from their
+donations.  [22] The s.
+231.2(2)  requirement should not apply to situations in which the requested
+information is required in order to verify the compliance of the taxpayer being
+audited. Regardless of whether or not there is a possibility or a probability
+that the audit will lead to the investigation of other unnamed taxpayers, the
+CRA should be able to obtain information it would otherwise have the ability to
+see in the course of an audit. The argument was made that if, during an audit,
+the records of the taxpayer record the identity of the other party to a
+transaction and the CRA requires nothing further, there is no need to resort to
+s. 231.2(2) . However, it must be kept in mind that, in the instant case, the
+Foundation had not been keeping proper records. The illogical implication is
+that merely because the charity was not keeping proper records, the CRA is
+required to obtain judicial authorization even though those records, which
+would have included the very information the CRA is seeking, are ones that the
+CRA would ordinarily be able to review during an audit.  V.     The Appellant’s Policy Argument  [23] Another
+argument relied on by the appellant and accepted by Justice Rothstein is that
+reading s. 231.1(1) as conferring the right to obtain information about third
+parties in the course of an audit may lead to misuse of the audit power. 
+Instead of seeking judicial authorization to obtain information about unnamed
+persons from a third party record holder, the Minister would simply audit the
+record holder.  [24] As mentioned
+above, s. 231.1(1) is broadly worded.  It allows access to “information that is
+or should be in the books or records of the taxpayer”.  It thus gives
+access to information about third parties that is required to be kept by the
+taxpayer, as well as information that may not be required to be kept but
+happens to be in the taxpayer’s records.  [25] It is
+true that the broad wording of s. 231.1(1) provides a powerful tool that may
+reveal a great deal of information about transactions between the taxpayer
+under audit and third parties.  However, this is business information. 
+Taxpayers have a very low expectation of privacy in their business records
+relevant to the determination of their tax liability: R. v. McKinlay
+Transport Ltd., [1990] 1 S.C.R. 627.  [26] The
+third party information at issue is directly tied to the operation of the
+Foundation and its status as a charity, receiving donations from third parties
+for which tax benefits are sought. The information was obtained by the Minister
+as part of a bona fide audit of the Foundation.  A person who
+contributes to a charity can reasonably expect that if the charity is audited,
+the donor’s contribution may be examined.  Such a review will always raise the
+possibility that the donors will be investigated and ultimately reassessed.  [27] There
+remains a concern that the CRA may attempt to investigate unnamed taxpayers
+under the “guise” of an audit.  Use of the word “guise” implies that the
+taxpayer being audited is not really suspected of non-compliance and that the
+unnamed persons are the real targets. However, if an organization’s charitable
+program is not valid, then both the charity and any of its donors who
+claim tax credits are non-compliant. The CRA has a valid interest in
+investigating both.  The same would be true of any other relationship involving
+reciprocal tax treatment.  In our view, the risk seems minimal that the CRA
+would use its authority to audit a taxpayer who is not personally suspected of
+non-compliance merely to investigate other unnamed taxpayers for
+non-compliance.  VI.  Remedy  [28] Given
+our conclusion that the CRA was not required to obtain judicial authorization
+in requesting and obtaining the donor list and related information, it is,
+strictly speaking, unnecessary to consider the issue of remedy for the purpose
+of disposing of this appeal. However, we feel that some comment is warranted on
+the Federal Court order granted by the applications judge, which vacated the
+reassessments of any donor who was identified to the CRA only by means of the
+information obtained as a result of the 2003 request.  We agree with Rothstein
+J. that the Federal Court does not have the jurisdiction to order the Minister
+of National Revenue to vacate tax assessments. Where a taxpayer has concerns
+regarding certain evidence being used against him for the purposes of
+reassessment, the proper venue to challenge its admissibility is the Tax Court
+of Canada.  [29] For
+these reasons, we would dismiss the appeal with costs.  The reasons of Binnie, Deschamps and Rothstein JJ. were delivered by [30] Rothstein J. (dissenting in part) — I
+have read the reasons of the Chief Justice and LeBel J. but I am unable to
+concur.  In my respectful view, s. 231.2(2)  of the Income Tax Act,
+R.S.C. 1985, c.  1 (5th Supp .), was intended to provide some restraint on the
+broad unilateral authority of the Canada Revenue Agency (“CRA”).  The relevant
+provisions of the Act should be read in a manner that gives meaning to that
+section.  I would allow the appeal.  The relevant provisions of the Act have
+been reproduced in the reasons of the majority.  [31] There
+is no doubt that broad power has been conferred on the CRA in respect of its
+audit of taxpayers.  (Under s. 248(1) of the Income Tax Act , the
+definition of  “taxpayer” includes “any person whether or not liable to pay
+tax” and this includes charitable organizations such as the Redeemer Foundation
+(“Foundation”).)  Under s. 231.1(1), an authorized person may, for any
+purpose related to the administration and enforcement of the Income Tax Act ,
+inspect, audit or examine books and records of a taxpayer.  The CRA may require
+any documents of the taxpayer and any other person that may relate to
+information that is or should be in the books and records of the taxpayer.  [32] Under
+s. 230(1), every person carrying on business and every person required to pay
+tax shall keep records and books of account in such form and containing such
+information as will enable the taxes payable to be determined.  [33] The
+requirement on charities to keep records and books is specifically dealt with
+under s. 230(2) .  Every registered charity is required to keep records and
+books containing information that will enable the CRA to determine if there are
+any grounds for revocation of the charity’s registration, a duplicate of each
+receipt for a donation containing prescribed information and other information
+as will enable the CRA to verify the donation for which deductions or tax
+credits are available.  [34] Under
+s. 230(3), where adequate records and books have not been kept, the CRA may
+require that the books and records shall be kept as specified by it.  [35] Read
+in isolation, these provisions might be interpreted as empowering the CRA, in
+addition to conducting an audit of a taxpayer at any reasonable time, to
+require such information to be kept as would enable the CRA to obtain the names
+of unnamed  persons.  However, these provisions must be interpreted having
+regard to other relevant provisions of the Act.  In Canada Trustco Mortgage
+Co. v. Canada, [2005] 2 S.C.R. 601, 2005 SCC 54, at para. 10, the Chief
+Justice and Major J. stated:  The interpretation of a statutory provision must be made according to a
+textual, contextual and purposive analysis to find a meaning that is
+harmonious with the Act as a whole. [Emphasis added.]  [36] Here
+the other relevant provision is s. 231.2.  Under s. 231.2(1),  the Minister
+may . . . for any purpose related to the administration or enforcement of this
+Act, . . . require that any person provide . . .  (a)
+any information or additional information . . . or  (b) any document.  Section 231.2(1)
+must be interpreted as providing the CRA with additional power to what it is
+given under ss. 230 and 231.1.  If it did not provide additional power, it
+would be unnecessary.  Parliament does not intend to enact pointless
+legislation.  As stated in Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1
+S.C.R. 27, at para. 27,  a label of absurdity can be attached to interpretations which defeat the
+purpose of a statute or render some aspect of it pointless or
+futile . . . .  [37] The
+CRA’s audit and inspection powers under ss. 230 and 231.1 cannot be as wide as
+the majority asserts because such interpretation would ignore and give no
+meaning to s. 231.2.  However, the additional power given to the CRA under s.
+231.2(1), although very broad, is not itself unlimited.  It is made subject to
+s. 231.2(2)  which provides that the CRA shall not under s. 231.2(1) impose a
+requirement for information or documents relating to unnamed persons unless it
+first obtains judicial authorization.  [38] Under
+the majority’s interpretation and that of the Court of Appeal, the CRA could
+always avoid s. 231.2(2)  by requesting information pertaining to unnamed
+persons in the exercise of its audit power of the taxpayer it was asking to
+provide that information.  That would leave to the discretion of the CRA
+whether it wished to proceed by way of audit or judicial authorization to
+obtain information or documents relating to unnamed persons.  That would render
+s. 231.2(2) , a taxpayer protection provision, at best, a feeble requirement
+and, at worst, totally ineffective.  [39] At
+para.  15, the majority states that the argument that s. 231.1(1) should be
+read down to avoid redundancy fails.  With respect, the notion of reading down
+is misplaced.  What is required is to interpret provisions of the Act that bear
+upon each other to be coherent when read together.  The question here is
+whether, in the exercise of its authority to audit, the CRA may avoid s.
+231.2(2) .  The majority’s approach would eliminate the need for s. 231.2(2) 
+entirely whenever the CRA is auditing a taxpayer.  Nothing in the Act suggests
+such a restricted application of s. 231.2(2) .  [40] I
+think the difference between ss. 230 and 231.1 on the one hand and s. 231.2 on
+the other is that under ss. 230 and 231.1, the focus is on the taxpayer’s
+compliance with the Act and the ability of the CRA to ensure that under a
+self-reporting system, it may seek and obtain information that will enable it
+to ensure such compliance or determine non-compliance by the taxpayer.  Under
+s. 231.2, the information and documents sought by the CRA, with a judge’s
+authorization when necessary and otherwise without it, may be seen as enhancing
+the CRA’s audit power of the  taxpayer, but  may also be for other purposes
+such as dealing with non-payment and obtaining information about unnamed
+persons.  [41] Where
+the CRA seeks information or documents for a purpose other than compliance by
+the taxpayer with the Act that may be determined through audit, it is acting
+outside ss. 230 and 231.1.  If what the CRA seeks pertains to unnamed persons,
+judicial authorization is required.  [42] As a
+result of the audit of the Foundation and Redeemer University College for the
+1997 fiscal year, which apparently raised concerns for the CRA, letters were
+written on July 10, 2000 to donors to the Foundation proposing to reassess and
+disallow credits for donations associated with the Forgivable Loan Program
+(“FLP”) for students of the College.  It would thus appear that as early as
+July 2000, if not before, it was the CRA’s intent to reassess donors associated
+with the FLP.  During subsequent audits, books and records were required under
+s. 230(3), and information and documents were requested to enable the CRA to
+reassess donors for subsequent years.  [43] In my
+opinion, once the CRA wished to obtain the names of and information about
+unnamed persons, it was required to first obtain judicial authorization under
+s. 231.2(2) .  It could not avoid the necessity of obtaining that
+authorization by issuing a requirement under s. 230(3).  Further, I agree with
+Hughes J., the applications judge, that the necessity of judicial authorization
+could not be avoided by making a verbal or informal request for the information
+([2006] 1 F.C.R. 416, 2005 FC 1361).  [44]  Whether
+information and documents were required for the sole purpose of  obtaining
+information about unnamed persons, or the dual purpose of auditing the
+Foundation and obtaining information about the unnamed persons, the CRA was
+obligated to comply with s. 231.2(2) .  [45] The
+CRA argues that the Foundation was required to maintain the information it
+sought for purposes of its audit.  It says it would be unreasonable and
+impractical to require the CRA to have to obtain judicial authorization just
+because there may be a chance that unnamed persons may be disclosed in the
+information of the taxpayer it is auditing.  It says it audits or examines
+close to 400,000 returns in a year.  Since it is entitled to the information
+for purposes of the audit, no useful purpose would be served by requiring it to
+obtain judicial authorization for information pertaining to unnamed persons.  [46] I
+agree that it would be unreasonable and impractical to require the CRA to
+obtain judicial authorization just because there may be a  possibility that 
+the names of persons other than the taxpayer may be disclosed in the
+information of the taxpayer it is auditing. But that is not this case.  In this
+case, the CRA had decided in July 2000 or earlier that it intended to reassess 
+donors, but needed more information before it could do so.  This is not a case
+where the information needed to reassess donors was entirely within the records
+when the CRA’s purpose was solely the audit of the Foundation.  When the CRA
+forms the intention to ask for information pertaining to or identifying unnamed
+persons to verify their compliance with the Act, judicial authorization must be
+obtained.  [47] I
+accept that the CRA audits and inspects almost 400,000 returns each year, but
+its own practices indicate that obtaining judicial authorization should not be
+unduly burdensome.  The CRA has issued “Requirement Guidelines” which outline
+steps to be taken to obtain information during an audit when information
+considered necessary by the CRA is not voluntarily forthcoming.  The Guidelines
+segment when a requirement under s. 231.2(1) may be issued and when a
+requirement under s. 231.2(2) , judicial authorization, is necessary.  [48] At
+para. 20, the Chief Justice and LeBel J. state that “[i]t would be illogical to
+require a charity to keep records to enable the CRA to verify the legitimacy of
+its donations, but then require the CRA to obtain judicial authorization in
+order to review those records.”  I do not say that if a taxpayer is required to
+maintain records, that the CRA cannot see those records without judicial
+authorization.  The distinction I do make is in circumstances in which the CRA
+has formed the intent to obtain information pertaining to compliance of specific
+but unnamed persons and requires the charity to maintain books and records or
+requests the charity to provide information so that the CRA can obtain the
+information and names of the unnamed persons.  In such cases, it must obtain
+judicial authorization.  [49] The
+majority also says that s. 231.2(2)  should not apply in situations where the
+information requested is required to verify compliance by the audited taxpayer
+when that taxpayer has not been keeping “proper records”.  They say that the
+illogical implication is that the CRA must obtain judicial authorization merely
+because the taxpayer did not maintain proper records.  Here the Foundation had
+not been asked to keep transmittal records until November 1999.  At the same
+time, the CRA stated that it would “disallo[w] the deductions to parents on
+their individual income tax returns if the Charity fails to cease this
+practice” (participation in the FLP).  There is no indication, other than the
+CRA’s specific request that the Foundation maintain transmittal forms in 1999,
+that transmittal forms were “proper records” that the Foundation or any other
+charity was required to keep under s. 230(2) .  Once the CRA decided that it
+would reassess donors participating in the FLP, the request for transmittal
+forms was a request for information about unnamed persons pertaining to their
+compliance with the Act.  The letter request for transmittal forms in 1999
+could not be used to bypass s. 231.2(2) .  [50] The
+Guidelines state:  When the
+Minister is seeking to require information from any person relating to one or
+more unknown parties, the Minister must obtain prior judicial authorization
+under subsection 231.2(3) of the ITA . . . .  (Ministry of National Revenue, Requirement Guidelines, July 20,
+1995, at p. 5)  There is no
+indication that the requirement to obtain judicial authorization when the CRA
+is seeking information pertaining to unnamed persons is not applicable during
+the course of an audit.  [51] The
+CRA says that inconsistent administrative practice is not a determinative
+factor in statutory interpretation.  I agree.  However, the Guidelines include
+the circumstances when judicial authorization is necessary without in any way
+indicating that the procedure should be avoided if possible for practicality
+reasons or that it is unnecessary when an audit is being conducted.  Indeed,
+the application is made ex parte, and pursuant to s. 231.2(3) , all that
+need be demonstrated is that the person or group is ascertainable and that the
+purpose of the application is to verify compliance by the person or group with
+any duty or obligation under the Act.  I infer that recourse to judicial
+authorization when necessary should not be unduly burdensome.  [52] The
+CRA says that its power under s. 231.2(1) is permissive and that the
+restriction on that permissive power in s. 231.2(2)  does not transform the
+permissive power into a mandatory obligation.  However, as I have indicated,
+where the CRA seeks information pertaining to unnamed persons for the purpose
+of verifying their compliance with the Act, it cannot obtain that information
+under its authority to audit another  taxpayer.  It is open to the CRA to
+resort to s. 231.2.  If it does so, it is under s. 231.2(2)  when it seeks
+information about unnamed persons.  [53] The
+Federal Court of Appeal was of the opinion that because there is a reciprocity
+in the tax treatment of most transactions, the CRA may use the information
+obtained from one taxpayer to ensure compliance by the other party to the
+transaction.  The Court of Appeal stated:  The Minister
+has every interest in confirming that the amount claimed as a  business expense
+by the buyer is the amount recorded as revenue by the seller.  In the case of
+registered charities, the same reciprocity applies.  If the Minister determines
+that donations received are not eligible for deduction, then he has an interest
+in reviewing the returns of those to whom a receipt has been issued in respect
+of those donations.  This ability to subject both parties to a transaction to
+equivalent tax treatment is a fundamental aspect of the verification process.  ([2007] 3
+F.C.R. 40, 2006 FCA 325, at para.  41)   [54] I
+agree that there is reciprocity of tax treatment of many commercial and
+charitable transactions and that the CRA may have an interest in seeing how
+both the taxpayer and the other party to a transaction have recognized it for
+tax purposes.  If, during an audit, the records of the taxpayer record the
+identity of the other party to a transaction and the CRA requires nothing
+further, there is no need to resort to s. 231.2(2) .  But that is not an
+argument that justifies bypassing the requirements of s. 231.2(2)  which would
+be the case if every time a taxpayer was audited, the CRA had unfettered
+licence to obtain information pertaining to unnamed persons.  [55] In
+their reasons, my colleagues deal with the policy arguments surrounding the
+interpretation of the Act.  They state in para. 25 that individuals have a very
+low expectation of privacy in their business and tax records and that it is
+indeed the case that s. 231.1 may reveal a great deal of information about
+audited taxpayers and unnamed persons.  However, this case is one of statutory
+interpretation.  I agree that individuals and entities may have a low
+expectation of privacy in their business and tax records, but in my view, it is
+still necessary to interpret the Act in a manner that gives coherent meaning to
+the relevant provisions as read together.  [56] The
+Chief Justice and LeBel J. say the CRA is entitled, without resort to
+s. 231.2(2) , to request information that ought to be in the records of a
+taxpayer according to the Act.  However, as stated, the relevant sections of
+the Act are extremely broad.  Because the authority of the CRA under the Act is
+so broad, it should be required to follow the procedures provided in the Act
+rigorously.  Section 231.2(2)  was intended to provide some minimal restraint on
+those broad powers, and in my respectful view, in the course of an audit of a
+taxpayer, when the CRA forms the intention to obtain information pertaining to
+unnamed persons, judicial authorization under s. 231.2(2)  is required.  [57] I
+would allow the appeal with costs and restore the decision of the applications
+judge with one exception.  Paragraph 4 of the application judge’s order of
+October 4, 2005, reads:  The Respondent shall vacate all reassessments and proposals to reassess
+in respect of any donor where identity was made known to the Respondent only by
+means of the information illegally obtained;  [58] The
+CRA submits that the Federal Court does not have the jurisdiction to order the
+Minister of National Revenue to vacate tax assessments.  I agree.  Section
+152(8)  of the Income Tax Act  deems an assessment to be valid unless
+varied or vacated on objection to the CRA or on appeal to the Tax Court of
+Canada.  Section 169(1)  of the Income Tax Act , providing for an appeal
+to the Tax Court, is the mechanism available to taxpayers who wish to have
+their assessments vacated.  Pursuant to s. 18.5  of the Federal Courts Act,
+R.S.C. 1985, c. F-7 ,  [the power of the Federal Court on judicial review is not applicable
+where] an Act of Parliament expressly provides for an appeal to . . . the Tax
+Court of Canada . . . .  The applications
+judge did not have jurisdiction to vacate the tax assessments of the donors in
+this case.  As the CRA quite properly conceded, any issues as to the
+admissibility of evidence in respect of assessments can be made at the Tax
+Court.                                                                       APPENDIX Income Tax
+Act, R.S.C. 1985, c. 1 (5th Supp .)   230. (1) [Records and books] Every person carrying on business
+and every person who is required, by or pursuant to this Act, to pay or collect
+taxes or other amounts shall keep records and books of account (including an
+annual inventory kept in prescribed manner) at the person’s place of business
+or residence in Canada or at such other place as may be designated by the
+Minister, in such form and containing such information as will enable the taxes
+payable under this Act or the taxes or other amounts that should have been
+deducted, withheld or collected to be determined.  (2) [Idem] Every registered charity and registered Canadian amateur
+athletic association shall keep records and books of account at an address in
+Canada recorded with the Minister or designated by the Minister containing  (a)
+information in such form as will enable the Minister to determine whether there
+are any grounds for the revocation of its registration under this Act;  (b) a
+duplicate of each receipt containing prescribed information for a donation
+received by it; and  (c)
+other information in such form as will enable the Minister to verify the
+donations to it for which a deduction or tax credit is available under this
+Act.  (2.1) [Idem, lawyers] For greater certainty, the records and books of
+account required by subsection (1) to be kept by a person carrying on business
+as a lawyer (within the meaning assigned by subsection 232(1)) whether by means
+of a partnership or otherwise, include all accounting records of the lawyer,
+including supporting vouchers and cheques.  (3) [Minister’s requirement to keep records, etc.] Where a person has
+failed to keep adequate records and books of account for the purposes of this
+Act, the Minister may require the person to keep such records and books of
+account as the Minister may specify and that person shall thereafter keep
+records and books of account as so required.  (4) [Limitation period for keeping records, etc.] Every person
+required by this section to keep records and books of account shall retain  (a)
+the records and books of account referred to in this section in respect of
+which a period is prescribed, together with every account and voucher necessary
+to verify the information contained therein, for such period as is prescribed;
+and  (b)
+all other records and books of account referred to in this section, together
+with every account and voucher necessary to verify the information contained
+therein, until the expiration of six years from the end of the last taxation
+year to which the records and books of account relate.  (4.1) [Electronic records] Every person required by this section to
+keep records who does so electronically shall retain them in an electronically
+readable format for the retention period referred to in subsection (4).  (4.2) [Exemptions] The Minister may, on such terms and conditions as
+are acceptable to the Minister, exempt a person or a class of persons from the
+requirement in subsection (4.1).  (5) [Exception where no return filed] Where, in respect of any
+taxation year, a person referred to in subsection (1) has not filed a return
+with the Minister as and when required by section 150, that person shall retain
+every record and book of account that is required by this section to be kept
+and that relates to that taxation year, together with every account and voucher
+necessary to verify the information contained therein, until the expiration of
+six years from the day the return for that taxation year is filed.  (6) [Exception where objection or appeal] Where a person required by
+this section to keep records and books of account serves a notice of objection
+or where that person is a party to an appeal to the Tax Court of Canada under
+this Act, that person shall retain every record, book of account, account and
+voucher necessary for dealing with the objection or appeal until, in the case
+of the serving of a notice of objection, the time provided by section 169 to
+appeal has elapsed or, in the case of an appeal, until the appeal is disposed
+of and any further appeal in respect thereof is disposed of or the time for
+filing any such further appeal has expired.  (7) [Exception where demand by Minister] Where the Minister is of the
+opinion that it is necessary for the administration of this Act, the Minister
+may, by registered letter or by a demand served personally, require any person
+required by this section to keep records and books of account to retain those
+records and books of account, together with every account and voucher necessary
+to verify the information contained therein, for such period as is specified in
+the letter or demand.  (8) [Permission for earlier disposal] A person required by this
+section to keep records and books of account may dispose of the records and
+books of account referred to in this section, together with every account and
+voucher necessary to verify the information contained therein, before the
+expiration of the period in respect of which those records and books of account
+are required to be kept if written permission for their disposal is given by
+the Minister.  231.1 (1) [Inspections] An authorized person may, at all
+reasonable times, for any purpose related to the administration or enforcement
+of this Act,  (a)
+inspect, audit or examine the books and records of a taxpayer and any document
+of the taxpayer or of any other person that relates or may relate to the
+information that is or should be in the books or records of the taxpayer or to
+any amount payable by the taxpayer under this Act, and  (b)
+examine property in an inventory of a taxpayer and any property or process of,
+or matter relating to, the taxpayer or any other person, an examination of
+which may assist the authorized person in determining the accuracy of the
+inventory of the taxpayer or in ascertaining the information that is or should
+be in the books or records of the taxpayer or any amount payable by the
+taxpayer under this Act,  and for those
+purposes the authorized person may  (c)
+subject to subsection (2), enter into any premises or place where any business
+is carried on, any property is kept, anything is done in connection with any
+business or any books or records are or should be kept, and  (d)
+require the owner or manager of the property or business and any other person
+on the premises or place to give the authorized person all reasonable
+assistance and to answer all proper questions relating to the administration or
+enforcement of this Act and, for that purpose, require the owner or manager to
+attend at the premises or place with the authorized person.   (3) [Application] Where, on ex parte application by the
+Minister, a judge is satisfied by information on oath that      (e)
+make such other order as is appropriate in the circumstances to carry out the
+purposes of this Act,   231.2 (1) [Requirement to provide documents or information]
+Notwithstanding any other provision of this Act, the Minister may, subject to
+subsection (2), for any purpose related to the administration or enforcement of
+this Act,  including the collection of any amount payable under this Act by any
+person, by notice served personally or by registered or certified mail, require
+that any person provide, within such reasonable time as is stipulated in the
+notice,  (a)
+any information or additional information, including a return of income or a
+supplementary return; or  (b)
+any document.  (2) [Unnamed persons] The Minister shall not impose on any person (in
+this section referred to as a “third party”) a requirement under subsection (1)
+to provide information or any document relating to one or more unnamed persons
+unless the Minister first obtains the authorization of a judge under subsection
+(3).  (3) [Judicial authorization] On ex parte application by the
+Minister, a judge may, subject to such conditions as the judge considers
+appropriate, authorize the Minister to impose on a third party a requirement
+under subsection (1) relating to an unnamed person or more than one unnamed person
+(in this section referred to as the “group”) where the judge is satisfied by
+information on oath that  (a)
+the person or group is ascertainable; and  (b)
+the requirement is made to verify compliance by the person or persons in the
+group with any duty or obligation under this Act.  (c)
+and (d) [repealed S.C. 1996, c. 21, s. 58(1)]  (4) [Service of authorization] Where an authorization is granted under
+subsection (3), it shall be served together with the notice referred to in
+subsection (1).  (5) [Review of authorization] Where an authorization is granted under
+subsection (3), a third party on whom a notice is served under subsection (1)
+may, within 15 days after the service of the notice, apply to the judge who
+granted the authorization or, where the judge is unable to act, to another
+judge of the same court for a review of the authorization.  (6) [Powers on review] On hearing an application
+under subsection (5), a judge may cancel the authorization previously granted
+if the judge is not then satisfied that the conditions in paragraphs (3)(a)
+and (b) have been met and the judge may confirm or vary the
+authorization if the judge is satisfied that those conditions have been met.  Appeal dismissed with costs, Binnie,
+Deschamps and Rothstein JJ. dissenting in
+part.  Solicitors for the appellant:  Miller Thomson, Toronto.  Solicitor for the respondent:  Attorney General of Canada,
+Ottawa.   

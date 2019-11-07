@@ -1,0 +1,1225 @@
+ Her Majesty The Queen                                                                   Appellant  v.  Province of Alberta Treasury Branches                                           Respondent  and between  Her Majesty The Queen                                                                   Appellant  v.  Province of Alberta Treasury Branches                                           Respondent  and between  Her Majesty The Queen                                                                   Appellant  v.    File No.:  24056.  1995:  October 12;
+1996:  April 25.  Present:  La Forest,
+Cory, McLachlin, Iacobucci and Major JJ.  on appeal from the court of appeal for
+alberta                       The first case
+involved in these appeals arose from a loan made by the respondent Alberta
+Treasury Branches to a hotel operator which was secured in part by a general
+assignment of book debts ("GABD").  The hotel operator was in arrears
+to the Minister of National Revenue ("MNR") for unremitted GST, plus
+interest and penalties.  The MNR served requirements to pay under
+s. 317(3)  of the Excise Tax Act  ("ETA ") on all
+possible debtors of the hotel operator.  That section provides for a form of
+garnishment which enables the MNR in certain circumstances to intercept monies
+owed to a tax debtor.  It applies to a "secured creditor", defined as
+"a person who has a security interest in the property of another
+person".  After the hotel operator made an assignment under the Bankruptcy
+Act, the trustee estimated the realization of the assets of the estate
+would leave a shortfall to Alberta Treasury Branches.  The Court of Queen's
+Bench, in an application to determine priorities, held that the MNR had
+priority by virtue of the provisions of the ETA .  In the second case, an
+excavation company borrowed money from Alberta Treasury Branches and granted it
+a GABD.  After the company completed certain contract work, the client held
+holdback funds which were claimed by various creditors of the company,
+including the MNR, to whom the company was indebted for unremitted employee
+source deductions, interest and penalties.  The MNR served two requirements to
+pay on the client, under s. 224(1.2) of the Income Tax Act ("ITA"),
+which provides for a garnishment remedy identical to the one provided for in
+the ETA .  On an application to determine priority to the monies in
+question, the master decided that Alberta Treasury Branches had priority
+through its GABD.  This decision was upheld on appeal.  In the third case, a
+drilling company borrowed money from the respondent bank which was secured in
+part by a GABD.  The company owed the MNR unremitted GST, interest and
+penalties.  The MNR served requirements to pay under s. 317(3)  ETA 
+on the company's trade debtors.  Another of its creditors successfully filed a
+petition under the Bankruptcy Act to have the company declared a
+bankrupt.  In an application to determine priority, the Court of Queen's Bench
+held that the MNR had priority under the provisions of the ETA .  In all
+three cases the Court of Appeal held that the lending institution had priority
+over the MNR.                     Held (Iacobucci and Major JJ.
+dissenting):  The appeals should be allowed.                     Per La Forest, Cory and
+McLachlin JJ.:  The definition of "security interest" is broad
+enough to include a GABD, and the wording of s. 224(1.2) ITA and
+s. 317(3)  ETA  is sufficiently clear and unequivocal to allow a
+transfer of property in the garnished funds to the MNR and to grant him a
+priority in circumstances where the balance of the section applies.  Moreover,
+an assignee of a GABD is a "secured creditor" within the meaning of
+s. 224(1.3) ITA or s. 317(3)  ETA  because the assignee
+holds a security interest "in the property of another person".  Each
+assignment of book debts made in these cases provides that it is to be a
+"continuing collateral security".  Further, all the assignments limit
+liability to the extent of the outstanding indebtedness.  Thus, if the loan
+secured by the GABD was repaid, the lending institution would have no further
+interest in the assignment.  Since the assignment by its terms can be redeemed
+by payment of the debt, it should not be construed as an absolute assignment. 
+Neither the lending institutions nor the debtor companies by their actions gave
+any indication that the institutions were the owners of the book debts.  The
+lending institutions made no efforts whatsoever to realize upon the book debts
+or in any way to act as "owners" of them until the debtor companies
+were obviously in severe financial difficulty if not bankrupt.  Both the
+wording of the documents and the actions of the parties indicate that they
+regarded the assignment to be given as collateral security for the
+indebtedness.  So long as the possibility of redemption exists, the GABD
+remains as collateral security.                     When there is
+neither any doubt as to the meaning of the legislation nor any ambiguity in its
+application to the facts, then the statutory provision must be applied
+regardless of its object or purpose.  However, the very history of this case
+with the clear differences of opinion expressed as between the trial judges and
+the Court of Appeal indicates that for able and experienced legal minds,
+neither the meaning of the legislation nor its application to the facts is
+clear.  Even if the ambiguity were not apparent, it is significant that in
+order to determine the clear and plain meaning of the statute it is always
+appropriate to consider the scheme of the Act, the object of the Act and the
+intention of Parliament.  The Parliamentary intent was to confirm the
+overriding right of the MNR to collect by garnishment the taxes collected which
+ought to have been remitted by the debtor company to the MNR.  These amounts so
+collected could be said to belong not to the collecting debtor entities but to
+the government.  In those circumstances the priority granted to the MNR to
+recover such funds cannot possibly be said to be expropriation without
+compensation.                     The same instrument
+cannot be both a "security interest" and an "absolute
+assignment".  If an instrument is an absolute assignment, then since it is
+complete and perfect in itself, there cannot be a residual right remaining with
+the debtor to recover the assets.  Pursuant to the instruments presented in
+this case the borrower retains the right to redeem the book debts once the debt
+is paid off.  This right of redemption irrefutably demonstrates that the
+assignment is something less than absolute.  A GABD represents a security
+interest with the legal title being with the lender and the equitable title
+remaining with the borrower.  This conclusion is supported by s. 63 of the
+Alberta Personal Property Security Act, which stipulates the basis upon
+which the right of redemption in personal property, including book debts, will
+be terminated.  To conclude that a GABD results in a change of ownership as a
+result of its absolute nature rather than constituting collateral security for
+a debt will have serious implications.  It could result in a change in the 
+ordering of priorities provided by the Bankruptcy and Insolvency Act ,
+the Companies’ Creditors Arrangement Act  and the Canada Business
+Corporations Act .  Further, it could constitute the means by which an
+unscrupulous debtor company, knowingly or unknowingly abetted by a creditor
+company, could so order its affairs that many other bona fide creditors
+could be adversely affected.                     Per Major J. (dissenting):  A
+GABD falls within the definition of "security interest" in
+s. 224(1.3) ITA.  The phrase an "assignment . . . of
+any kind whatever" is broad enough to encompass the absolute assignments
+of book debts which are at issue in these appeals.  The lending institutions,
+however, do not fall within the definition of "secured creditor"
+because they do not hold a security interest "in the property of another
+person".  An assignment passes title and therefore property in the book
+debts is held by the lending institution and not by the tax debtor.  The
+assignments in each of the three cases involved here all contain language which
+makes it clear that they are immediate and absolute.  The fact that the GABD is
+referred to as "continuing collateral security" in the instruments
+does not make the GABD anything less than absolute.  While the tax debtor
+retains an equity of redemption upon an assignment of its book debts, here the
+value of the loans secured by the book debts far exceeds the value of the debts
+themselves and there is thus no value in the equity of redemption.  Further, an
+absolute assignment of book debts makes those book debts the property of the
+assignee, and they remain the property of the assignee until the assignor
+actually exercises his equitable right to redeem.  In determining whether the
+book debts, once assigned, are the "property" of the assignor or of
+the assignee, the court must interpret the word in its plain and ordinary sense. 
+The plain and ordinary meaning of "property" is legal title and not a
+contingent future equitable right to reacquire property which one does not
+presently hold.  In the circumstances of these appeals, a strict reading of the
+taxation statute is appropriate.  In the absence of clear and unequivocal
+language, there is a presumption that proprietary rights are not to be taken
+away without provision being made for compensation.  In the context of these
+appeals, the interpretation urged by the MNR would have the effect of
+expropriating property to which the lender is legally entitled under its
+security agreement with the tax debtor.  The plain and ordinary meaning of the
+statutory words simply does not bear the strained interpretation of property
+that, absent the security interest, is the property of another person.  In
+addition to offending the principle that extra words should not be read into a
+section unless absolutely necessary, this proposed reading attempts to read in
+wording which can be expressly found in another part of the same section.  If
+there is an ambiguity in the meaning of the word "property", then the
+specific effect of this section warrants a strict resolution of any ambiguity
+in favour of the respondent lending institutions.                     Per Iacobucci J. (dissenting): 
+While the general principles of statutory interpretation outlined by
+Cory J. were agreed with, the general assignments of book debts in this
+case were tantamount to an absolute transfer of property, as found by
+Major J.  Cases Cited  By Cory J.   By Major J. (dissenting)   Statutes and
+Regulations Cited        Authors Cited  Black's Law Dictionary, 6th ed.  St. Paul, Minn.:  West
+Publishing Co., 1990.  Burgess,
+Robert.  Corporate Finance Law, 2nd ed.  London:  Sweet & Maxwell,
+1992.  Halsbury's
+Laws of England, vol.
+32, 4th ed.  London:  Butterworths, 1980.  Pearce, Robert A. 
+"Fixed Charges over Book Debts", [1987] J. Bus. L. 18.                     APPEALS from a
+judgment of the Alberta Court of Appeal (1994), 16 Alta. L.R. (3d) 1, 149 A.R.
+34, 63 W.A.C. 34, [1994] 4 W.W.R. 685, 24 C.B.R. (3d) 257, 94 D.T.C. 6650,
+[1995] 1 C.T.C. 75, reversing decisions of Forsyth J. (1992), 5 Alta. L.R. (3d)
+141, 134 A.R. 124, [1993] 1 W.W.R. 639, 15 C.B.R. (3d) 143, and MacLeod J. and
+affirming a decision of Hunt J. (1993), 9 Alta. L.R. (3d) 349, 139 A.R. 295,
+[1993] 5 W.W.R. 756, [1994] 1 C.T.C. 108, 5 P.P.S.A.C. (2d) 117, concerning
+priorities.  Appeals allowed, Iacobucci and Major JJ. dissenting.                     Edward R. Sojonky, Q.C., and Michael J. Lema,
+for the appellant.                     Written submissions
+only by J. Gary Greenan and Scott Watson, for the respondent
+Province of Alberta Treasury Branches.                      The
+judgment of La Forest, Cory and McLachlin JJ. was delivered by   II.                The facts giving rise to these
+appeals and the decisions of the court below have been ably set out in the
+reasons of Justice Major.  III.               Both the ITA and the ETA 
+provide for the collection of funds due to the federal government by way of
+income tax deductions from the wages of employees and for the remission of
+monies owing for the Goods and Services Tax (GST).  The sections under review
+provide for the recovery of monies owing from those who are responsible for the
+collection and remission of income tax deductions and GST collections by way of
+garnishment.  This system of collection and remission of income tax is
+exceedingly important.  For example, in 1987 some 87 per cent of all personal
+income tax was collected through employer’s deduction and remission.  IV.              In the cases under consideration,
+the company responsible for collection and remission of income tax and GST
+borrowed money from a lending institution.  To secure their indebtedness the
+debtor companies made a general assignment of book debts (GABD) to the lending
+institution.  If the submissions of the appellant prevail then the Government
+of Canada will recover the monies which ought to be paid to it by way of
+employees’ income tax or GST.  If the respondents are correct in their
+position, then the lending institutions will retain the funds which have come
+into their possession as a result of the GABD.  Thus the decision in this case
+will have a very real significance for both the federal government and lending
+institutions.  V.                In essence, s. 224(1.2) provides
+a form of garnishment enabling the federal government to intercept monies owed
+to tax debtors.  It is not available for the collection of income tax
+generally, but is limited to the recovery of funds owing by a person or company
+which has withheld monies from another person, usually an employee, for income
+tax purposes pursuant to s. 153 ITA and has failed to remit the
+withheld amounts to the federal government.  A similar garnishment remedy is
+provided by s. 317(3)  ETA .  It is applicable in circumstances where
+a company or an individual has failed to remit GST which was collected as
+required by the provisions of the ETA .  VI.              Major J. has concluded that
+the Alberta Court of Appeal was correct in finding that an assignee of a GABD
+is not a “secured creditor”within the meaning of s. 224(1.3) ITA or
+s. 317(3)  ETA  because the assignee does not hold a security
+interest “in the property of another person”.  Rather, the assignee is the
+owner of those book debts.  With respect I cannot agree with that conclusion. 
+However I am in complete agreement with these conclusions:  1.The
+definition of “security interest” is broad enough to include a general
+assignment of book debts even where that assignment is absolute.  2.The
+wording of s. 224(1.2) ITA as amended in 1990 is sufficiently
+clear  and non-equivocal to allow a transfer of property in the garnished funds
+to the Minister of National Revenue (MNR) and to grant him a priority in
+circumstances where the balance of the section applies.  The Provisions of the
+GABD Made in These Cases  VII.             It would be helpful first to consider
+the assignment of book debts made  in these cases in order to ascertain the
+apparent intentions of the parties.  The two assignments in which the Treasury
+Branch was the lender provide:                     THE
+PRESENT assignment and transfer shall be a continuing collateral security
+to Treasury Branches for the payment of all and every present and future
+indebtedness and liability of the undersigned to Treasury Branches.
+. . . [Emphasis added.]  To a similar effect, the Toronto
+Dominion assignment reads in part:  PROVIDED
+and it is hereby distinctly understood and agreed that these presents are and
+shall be a continuing collateral security to the Bank for the general
+balance due at any time by the Assignor to the Bank. . . .  PROVIDED
+ALWAYS and it is hereby distinctly agreed that these presents are and shall be continuing
+and collateral security to the present and any future indebtedness of the
+Assignor to the Bank. . . .  [Emphasis added.]  VIII.            Further, all the assignments limit
+liability to the extent of the outstanding indebtedness.  Thus, if the loan
+secured by the GABD was repaid the Bank or Treasury Branch would have no
+further interest in the assignment.  The documents themselves refer to the
+assignment as being a continuing collateral security for the payment of the
+indebtedness.  The clear intention of the parties is that the assignment is
+given as security for the payment  of a debt and upon payment of the debt the
+GABD is to be of no force or effect.  That is to say the lending institution
+could not, after payment of the debt, make use of the GABD to realise upon any
+of the book debts of the assignor.  In my view since the assignment by its
+terms can be redeemed by payment of the debt it cannot or at least should not
+be construed as an absolute assignment.  IX.              Neither the lending institutions
+nor the debtor companies by their actions gave any indication that the
+respondents were the owners of the book debts.  This is demonstrated by the
+fact that the lending institutions made no efforts whatsoever to realise upon
+the book debts or in any way to act as “owners” of them until the debtor
+companies were obviously in severe financial difficulty if not bankrupt.  Only then
+did the lending institutions seek to realise upon their security.  Both the
+wording of the documents and the actions of the parties indicate that they
+regarded the assignment to be given as collateral security for the
+indebtedness.  In commercial affairs, it is well known that a GABD is indeed a
+means of granting collateral security for a debt.  In my view, so long as the
+possibility of redemption exists, the GABD remains as collateral security.  X.                In light of this customary
+commercial understanding of a GABD, it may be helpful to review the legislation
+to determine if, by its wording, it renders a GABD something other than
+collateral security for a debt and makes the assignee the owner of the book
+debts.  Pertinent Provisions
+of the ITA and the ETA  and Their History  XI.              As Major J. pointed out, prior
+to 1987 the provisions of the garnishment remedy in the ITA
+(s. 224(1)) were almost unanimously interpreted by the courts in such a
+way that a demand made under the section was ineffective to attach any of the
+assigned debts.  The courts held that by the assignment the tax debtor had
+transferred all its interest in the accounts to the assignee with the result
+that there was nothing left for the Minister of National Revenue (MNR) to
+attach by garnishment.  XII.             In an attempt to address these
+decisions, Parliament amended the ITA in 1987 by adding two new
+subsections.  They provided that the MNR could garnish funds owed by a tax debtor
+to a “secured creditor” and defined the terms “secured creditor” and “security
+interest”.  As Major J. observed, there was a divergence of opinion in the
+provincial courts of appeal as to whether the 1987 amendments permitted the MNR
+to effectively garnish funds in the hands of an assignee of a GABD.  XIII.            In order to further clarify the
+situation and resolve the differences of opinion in the appellate courts,
+Parliament again amended the ITA with the apparent aim of granting
+priority to the MNR.  It may be helpful to set out s. 224(1.2) ITA
+as it now appears following the 1990 amendment:                     224. . . .                     (1.2)  Notwithstanding
+any other provision of this Act, the Bankruptcy Act, any other enactment
+of Canada, any enactment of a province or any law, where the Minister has
+knowledge or suspects that a particular person is or will become, within 90
+days, liable to make a payment  (a)  to
+another person (in this subsection referred to as the “tax debtor”) who is
+liable to pay an amount assessed under subsection 227(10.1) or a similar
+provision, or  (b)  to
+a secured creditor who has a right to receive the payment that, but for a
+security interest in favour of the secured creditor, would be payable to the
+tax debtor,  the
+Minister may, by registered letter or by a letter served personally, require
+the particular person to pay forthwith, where the moneys are immediately
+payable, and in any other case, as and when the moneys become payable, the
+moneys otherwise payable to the tax debtor or the secured creditor in whole or
+in part to the Receiver General on account of the tax debtor’s liability under
+subsection 227(10.1) or a similar provision, and on receipt of that letter
+by the particular person, the amount of those moneys that is required by that
+letter to be paid to the Receiver General shall, notwithstanding any security
+interest in those moneys, become the property of Her Majesty and shall be paid
+to the Receiver General in priority to any such security interest. 
+[Emphasis added.]                     (1.3)
+In subsection (1.2),   “security
+interest” means any interest in property that secures payment or performance of
+an obligation and includes an interest created by or arising out of a
+debenture, mortgage, hypothec, lien, pledge, charge, deemed or actual trust,
+assignment or encumbrance of any kind whatever, however or whenever arising,
+created, deemed to arise or otherwise provided for;   C.  Principles of Interpretation                     The
+central question on this appeal of whether the appellant is entitled to take
+advantage of the inventory valuation method in s. 10 of the Act involves a
+careful examination of the wording of the provisions of the Act and a
+consideration of the proper interpretation of these sections in the light of
+the basic structure of the Canadian taxation scheme which is established in the
+Income Tax Act.                     In
+interpreting sections of the Income Tax Act, the correct approach, as
+set out by Estey J. in Stubart Investments Ltd. v. The Queen, [1984] 1
+S.C.R. 536, is to apply the plain meaning rule.  Estey J. at p. 578 relied
+on the following passage from E. A. Driedger, Construction of Statutes
+(2nd ed. 1983), at p. 87:                     Today
+there is only one principle or approach, namely, the words of an Act are to be
+read in their entire context and in their grammatical and ordinary sense
+harmoniously with the scheme of the Act, the object of the Act, and the
+intention of Parliament.   While
+it is true that the courts must view discrete sections of the Income Tax Act
+in light of the other provisions of the Act and of the purpose of the legislation,
+and that they must analyze a given transaction in the context of economic and
+commercial reality, such techniques cannot alter the result where the words of
+the statute are clear and plain and where the legal and practical effect of the
+transaction is undisputed: Mattabi Mines Ltd. v. Ontario (Minister of
+Revenue), [1988] 2 S.C.R. 175, at p. 194; see also Symes v. Canada,
+[1993] 4 S.C.R. 695.   It
+would introduce intolerable uncertainty into the Income Tax Act if clear
+language in a detailed provision of the Act were to be qualified by unexpressed
+exceptions derived from a court’s view of the object and purpose of the
+provision. . . .  (The Antosko case) is simply a recognition
+that “object and purpose” can play only a limited role in the interpretation of
+a statute that is as precise and detailed as the Income Tax Act.  When a
+provision is couched in specific language that admits of no doubt or ambiguity
+in its application to the facts, then the provision must be applied regardless
+of its object and purpose.  Only when the statutory language admits of some
+doubt or ambiguity in its application to the facts is it useful to resort to
+the object and purpose of the provision.  XV.             Thus, when there is neither any
+doubt as to the meaning of the legislation nor any ambiguity in its application
+to the facts then the statutory provision must be applied regardless of its
+object or purpose.  I recognize that agile legal minds could probably find an
+ambiguity in as simple a request as “close the door please” and most certainly
+in even the shortest and clearest of the ten commandments.  However, the very
+history of this case with the clear differences of opinion expressed as between
+the trial judges and the Court of Appeal of Alberta  indicates that for able
+and experienced legal minds, neither the meaning of the legislation nor its
+application to the facts is clear.  It would therefore seem to be appropriate
+to consider the object and purpose of the legislation.  Even if the ambiguity
+were not apparent, it is significant that in order to determine the clear and
+plain meaning of the statute it is always appropriate to consider the “scheme
+of the Act, the object of the Act, and the intention of Parliament”.  What then
+was Parliament’s intention in enacting the 1990 legislation?  The Purpose of the
+Legislation  XVI.            There can be no doubt of the
+importance of levying taxation.  The ITA entrusts to employers the duty
+of deducting income tax from the wages of employees and remitting it on their
+behalf.  Similarly the ETA  imposes on those who provide goods and
+services to others the duty to collect and remit the GST which is payable.  In
+essence, companies collect taxes which they hold in trust for the government.                      To
+determine the dominant characteristic of the legislation, it is important to
+know the governmental policy behind the section.  The tax debtor’s bank is in
+the best position to know its customer and to structure its business
+arrangements accordingly.  Revenue Canada, on the other hand, does not have the
+same opportunity to become acquainted with the affairs of the tax debtor or its
+creditors.  It must therefore rely solely on the provisions of the legislation
+to mandate the employer to remit the employee income tax deductions as required
+by the [Income Tax] Act, and to establish its collectability in the event of
+default.                                                                     . . .                                                                        . . .                     In
+my opinion it was intended by Parliament that anyone who, in the ordinary
+course of business, made credit arrangements with a tax debtor involving
+assignments of accounts receivable, did so subject to the overriding right of
+the Crown to satisfy the primary obligations of the tax debtor to collect and
+remit taxes withheld from its employees.  The words of the statute can mean
+nothing less.  The section is cast in the broadest of possible terms precisely
+because it was meant to interfere with and interrupt payments under such
+assignments and divert them to meet this statutory obligation.  I do not know
+what other words Parliament could use to make its overriding intention and
+claim more clear.  XVIII.         These statements can be applied even
+more forcefully to the 1990 amendments.  The Parliamentary intent was to
+confirm the overriding right of the MNR to collect by garnishment the taxes
+collected which ought to have been remitted by the debtor company to the MNR.  What is the Nature of
+a General Assignment of Book Debts?  XIX.            Like Major J., I am of the view that
+a GABD is a form of security for a loan which is always subject to the right of
+the debtor to redeem.  It will be remembered that s. 224(1.3) defines the
+“security interest” in these words:  “security
+interest” means any interest in property that secures payment or performance of
+an obligation and includes an interest created by or arising out of a
+debenture, mortgage, hypothec, lien, pledge, charge, deemed or actual trust,
+assignment or encumbrance of any kind whatever, however or whenever arising,
+created, deemed to arise or otherwise provided for;  This definition encompasses the
+general assignments of book debts which are at issue in these appeals. 
+However, I cannot agree with Major J.’s conclusion that the creditors are not
+secured creditors.  I find it difficult, indeed impossible, to conclude that
+the same document can be both a security interest and an absolute assignment.  The
+same document cannot, simultaneously, embrace two such conflicting concepts.  XX.             Basically, security is something
+which is given to ensure the repayment of a loan.  Black’s Law Dictionary
+(6th ed. 1990), at p. 1357, gives a clear definition of a “security
+interest” in these terms:                     The
+term “security interest” means any interest in property acquired by contract
+for the purpose of securing payment or performance of an obligation or
+indemnifying against loss or liability.  A security interest exists at any
+time, (A) if, at such time, the property is in existence and the interest has
+become protected under local law against a subsequent judgment lien arising out
+of an unsecured obligation, and (B) to the extent that, at such time, the
+holder has parted with money or money’s worth.  XXI.            This definition is consistent with
+that set out in the ITA.  It is in sharp contrast to the definition of
+the word “absolute” set out in the same source at p. 9 in these terms:  Complete;
+perfect; final, without any condition or incumbrance; as an absolute bond (simplex
+obligatio) in distinction from a conditional bond.  Unconditional; complete
+and perfect in itself; without relation to or dependence on other things or
+persons.  XXII.          These definitions are, in my view,
+correct.  If that is the case, then it can be seen that the same instrument
+cannot be both a “security interest” and an “absolute assignment”.  If an
+instrument is an absolute assignment, then since it is complete and
+perfect in itself, there cannot be a residual right remaining with the
+debtor to recover the assets.  By definition, a complete and perfect assignment
+cannot recognize the concept of an equity of redemption.  An absolute
+assignment cannot function as a means of “securing” the payment of a debt since
+there would be no basis for the debtor to recover that which has been
+absolutely assigned.  An absolute assignment is irrevocable.  To say that the
+same instrument can operate both as an absolute assignment and as a
+security interest is to simultaneously put forward two incompatible positions. 
+The two conflicting concepts cannot live together in the same document.  Cases Which Have
+Considered the Nature of a General Assignment of Book Debts   XXIV.         In Thermo King Corp. v. Provincial
+Bank of Canada (1981), 34 O.R. (2d) 369 (C.A.), leave to appeal refused,
+[1982] 1 S.C.R. xi, Wilson J.A. (as she then was) held, for a unanimous court,
+that a GABD is a security document.  In that case she was required to consider
+an instrument which was very similar if not identical to those presented in
+these appeals.  At p. 381 she concluded:  While
+these provisions appear on their face to constitute the assignor a trustee for
+the bank of any payments it receives from its customers and to permit the bank
+to appropriate them at will, whether or not any debt is then due to the bank
+by the assignor, this seems to be quite incompatible with the nature of the
+instrument as a collateral security.  [Emphasis in original.]  Similarly, in Bonavista (Town) v.
+Atlantic Technologists Ltd. (1994), 117 Nfld. & P.E.I.R. 19, Osborn J.
+considered a GABD.  He wrote (at p. 24):                     One
+may ask, if the assignment is absolute to the point of ownership, why does it
+specifically give to the Bank the power to collect or dispose of the debts. 
+Are not such powers incidents of ownership?  Similarly, if the assignment is
+absolute, what remaining rights reside in the customer that may be
+“extinguished” if the Bank buys the accounts at a sale?                     In
+my view, the assignment contemplates that it will operate as a security
+interest.  It vests in the Bank title to the debts owed to Atlantic, but such
+vesting is for the purpose of security; it is not to transfer ownership, as
+that term is commonly understood . . . .  The Bank is a “secured
+creditor”.  The nature of the interest held by the Bank, even if considered to
+be an absolute assignment, cannot be divorced from the circumstances in which
+it arose.  The commercial reality is that the Bank held a security interest in
+the property of Atlantic.  Atlantic transferred its receivable to the Bank to
+secure payment of money Atlantic owed to the Bank.  Once Atlantic paid off the
+Bank, it was entitled, not to a reassignment of the debt, but, by the wording
+of the assignment, “to the cancellation hereof”.  The Bank was a secured
+creditor holding a security interest.  [Emphasis added.]  XXV.          I agree with the reasoning expressed in
+these cases.  As well, I would note that the Newfoundland Court of Appeal in Bank
+of Montreal v. Baird (1979), 33 C.B.R. (N.S.) 256, leave to appeal refused,
+[1980] 1 S.C.R. v, dealt with a GABD as a security interest.  Further, the New
+Brunswick Court of Appeal in R.V. Demmings & Co. v. Caldwell
+Construction Co. (1955), 4 D.L.R. (2d) 465, found that a bank holding a
+GABD was a secured creditor, subject to an equity of redemption in the assignor
+company.   XXVII.        In R. in Right of B.C. v. F.B.D.B.
+(1987), 17 B.C.L.R. (2d) 273, McLachlin J.A. (as she then was), on behalf of
+the majority of the Court of Appeal, considered the manner in which courts have
+dealt with such instruments and in so doing, reached the following conclusions
+at p. 303:                     Generally
+speaking, the authorities draw a clear distinction between fixed and floating
+charges, recognizing nothing between and taking the view that any charge which
+permits dealing in the ordinary course of business must be regarded as
+floating. . . .   The
+generally accepted view . . . is that such a charge should be
+regarded as floating rather than fixed because it involves no final and
+irrevocable appropriation of property to the creditor.   . . .
+this theory was soon rejected by the English courts, as is seen from the
+comments of Lord Buckley in Evans v. Rival Granite Quarries Ltd., [1910]
+2 K.B. 979 at 999 (C.A.):                     A
+floating security is not a future security; it is a present security, which
+presently affects all the assets of the company expressed to be included in
+it.  On the other hand, it is not a specific security; the holder cannot
+affirm that the assets are specifically mortgaged to him.  The assets are
+mortgaged in such a way that the mortgagor can deal with them without the
+concurrence of the mortgagee.  A floating security is not a specific
+mortgage of the assets, plus a licence to the mortgagor to dispose of them in
+the course of his business, but is a floating mortgage applying to every item
+comprised in the security, but not specifically affecting any item until
+some event occurs or some act on the part of the mortgagee is done which causes
+it to crystallize into a fixed security.  [Emphasis added by McLachlin J.A.]  XXIX.         In determining whether a particular
+charge over book debts is fixed or floating, McLachlin J.A. referred (at
+p. 307) to R. A. Pearce in “Fixed Charges over Book Debts”, [1987] J.
+Bus. L. 18, at p. 29:  . . . 
+the essential characteristic for deciding whether a charge of book debts is
+fixed or floating is whether the book debts can be disposed of free from the
+charge; if they can, the charge is a floating charge, otherwise it is a fixed
+charge.                                                                     . . .                     Modern
+authorities have accepted the either-or approach to fixed and floating charges
+upon which the courts settled in the late 19th and early 20th centuries.  For
+example, they accept the conclusion that a fixed charge on book debts is
+inconsistent with the assignor having the freedom to deal with proceeds in the
+course of his business: see Siebe Gorman & Co. v. Barclays Bank Ltd.,
+[1979] 2 Lloyd’s Rep. 143 (Ch. D.); Re Armagh Shoes Ltd., [1982]
+N.I. 59 (Ch. D.); Re Keenan Bros. Ltd. (1985), 5 I.L.R.M. 641 (S.C.). 
+In Great Lakes Petroleum Co. v. Border Cities Oil Ltd., [1934] O.R. 244,
+[1934] 2 D.L.R. 743 (C.A.), an assignment of book accounts which permitted the
+debtor to continue to “collect, get in, and deal with said debts, accounts,
+claims, moneys, and choses in action in the ordinary course of the business”
+was held to be a floating charge.  The same result obtained in R. v. Lega
+Fabricating Ltd. (1980), 22 B.C.L.R. 145 (S.C.).  She indicated that the sole exception
+to this rule appeared to be the case of Evans Coleman and Evans Ltd. v. R.A.
+Nelson Construction Ltd. (1958), 27 W.W.R. 38 (B.C.C.A.), cited by Major J.
+in his reasons.  Significantly she went on to observe at p. 307:                     Why
+did the courts reject the concept of a fixed charge with a licence to deal?  In
+doing so, they undeniably limited the freedom of debtor and creditor to
+contract as they might choose in an age when freedom of contract was
+paramount.  The answer, it may be suggested, lies in the effects which
+recognition of such a concept would have upon the rights of third parties and
+general commercial activity, as well as the perceived injustice of allowing the
+debtor to trade freely while remaining immune from the normal incidents of
+legal process.  As Fletcher-Moulton L.J. put it in Evans v. Rival Granite
+Quarries Ltd., supra (p. 995):  The
+results of such a contention are astonishing; it means that by giving such a
+debenture a company retains the full right of trading with untied hands and at
+the same time obtains immunity from the operation of all processes of law.  I
+should be slow to come to the conclusion that such an anomaly was recognized by
+the law.  Nor do I think that it is.  A consideration of the effect of floating
+charges and of the fact that the freedom of the company to carry on its
+business is not based on special words creating that freedom, but on the nature
+of the charge itself, leads me to the conclusion that the right of the company
+to carry on its business as it wills pending the enforcement of the security
+must mean that it may carry it on in accordance with law, including a liability
+to the processes of the law if it does not pay its debts.  Finally, at p. 309, McLachlin
+J.A. concluded:  In
+general, the courts have been unwilling to characterize charges which permit
+the debtor to deal with his property in the ordinary course of business as
+fixed charges with licenses to sell.  Rather, the courts have characterized
+such charges as floating, with the result that they give the chargeholder no
+priority over third parties prior to crystallization. . . .  In
+short, the answer to the question of whether the courts have recognized a fixed
+charge subject to a licence to sell in the ordinary course of business is no
+. . . .  The Significance of
+the Equity of Redemption  XXX.          For the resolution of these appeals, it
+is essential that there be a clear recognition of the fundamental difference
+between an absolute and a conditional assignment of book debts.  In an absolute
+assignment, all interests are transferred and no property remains in the hands
+of the assignor.  It is, simply, a sale of the book debts of the company.  This
+is the basis of the business of factoring.  Factoring is described in R.
+Burgess, Corporate Finance Law (2nd ed. 1992), at p. 100, in this
+manner:  “Factoring
+is a legal relationship between a financial institution (the factor) and a
+business concern (the client) selling goods or providing services to trade
+customers (the customers) whereby the factor purchases the client’s book debts
+either with or without recourse to the client and administers the client’s
+sales ledger.”                     From
+this definition it is apparent that factoring arrangements involve:  (1)  the
+purchase of the client’s book debts;  (2)the
+taking over and administration of the client’s sales ledger and credit control
+functions; and  (3)the
+provision to the client of finance which will be a specified percentage of the
+nominal value of the debts.  The author goes on (at p. 101) to
+consider the requirements for an assignment of book debts under English law and
+observes that to be effective the assignment must be absolute.  The text
+defines “absolute”, in these terms:                     The
+ordinary legal meaning of “absolute” is unconditional, so, for an assignment to
+be absolute, it must not be conditional in any way; specifically, it must not
+purport to be by way of charge only.  XXXI.         A factoring of accounts receivable is
+based upon an absolute assignment of them.  It is in effect a sale by a company
+of its accounts receivable at a discounted value to the factoring company for
+immediate consideration.  In my view, s. 224 ITA does protect those
+engaged in the factoring business and those lending institutions that have
+succeeded in perfecting their security interest prior to any intervention by
+the MNR.  However, I cannot accept the submission that Parliament, by this
+section, intended to create an interest which was both conditional as a
+security interest and at the same time unconditional as an absolute
+assignment.  There cannot have been an intent to combine such incompatible
+concepts.  XXXII.        Clearly a GABD does not meet the standard
+required for a factoring arrangement which requires  an absolute transfer of
+the proprietary interest of the assignor in the book debts.  Pursuant to the
+instruments presented in this case the borrower retains the right to redeem the
+book debts once the debt is paid off.  This right of redemption irrefutably demonstrates
+that the assignment is something less than absolute.  XXXIII.      I agree with the MNR that what the actual
+equity of the borrower in the book debts may be from time to time is irrelevant
+for the purpose of determining the legal effect of the equity of redemption. 
+It would be absurd if a company were to fluctuate between having title and not
+having title to their book debts based on their ratio of debt to assets.  This
+is particularly true of a company engaged in a seasonal business.  Yet if a
+GABD is treated as an absolute assignment, this can be the only result, as the
+bank is limited to recovering the amount of the loan.  Since the bank could not
+recover any book debts if the company had a surplus in their account, the book
+debts would belong to the company.  When there was a deficit, some or all of
+the book debts would belong to the bank.  Such a fluctuating state of affairs
+is inconsistent with the certainty required in commercial matters.  I believe
+that the correct view is that a GABD represents a security interest with the
+legal title being with the lender and the equitable title remaining with the
+borrower.  This is supported both by the jurisprudence and by the wording of
+the section.    Based
+on the reasoning of Houlden J. in Re Broydon Printers, supra, as
+approved by Lamer J. in Federal Business Development Bank, supra,
+the right of redemption of the book debts, in my view, comes within the
+definition of “property” in the Bankruptcy Act.  As such, the reasoning
+of Lamer J. in Federal Business Development Bank would apply and the
+book debts would constitute “property of the bankrupt” for purposes of
+subsection 107(1) of the Bankruptcy Act.  In summary, an assignment cannot be
+both absolute and yet leave an equity of redemption in the form of the right to
+redeem with the assignor.  The retention of an equity of redemption is consistent
+with a security interest and not with an absolute assignment.  A GABD
+simply cannot constitute an absolute transfer of property.    Summary  XXXVIII.    In Friesen, supra, it was held
+that the words of the Income Tax Act should be given their plain and
+ordinary meaning in accordance with the structure and purpose of the Act.  It
+is clear that in enacting the sections of the ITA and ETA  under
+consideration Parliament was attempting to ensure the priority of the claim of
+the MNR over that of other creditors.  The primary task of collecting and
+remitting taxes and contributions under both Acts rests with those who are
+employers and those who sell goods and services.  These amounts so collected
+could be said to belong not to the collecting debtor entities but to the
+government.  In a sense the funds collected but not remitted might be
+considered to be held in a form of trust since the entities that have collected
+these funds are not in any circumstances entitled to retain them.  Rather, they
+must remit the funds.  In those circumstances the priority granted to the MNR
+to recover such funds cannot possibly be said to be expropriation without
+compensation.  XXXIX.      In an effort to ensure the recovery of
+these amounts collected for the MNR, Parliament has endeavoured to ensure the
+priority of the claims of the MNR to these funds over other creditors.  The
+majority of the courts that have considered this issue since the 1990 amendment
+have concluded that Parliament has succeeded in achieving this aim:  see: TransGas
+Ltd. v. Mid-Plains Contractors Ltd. (1993), 101 D.L.R. (4th) 238 (Sask.
+C.A.), aff’d [1994] 3 S.C.R. 753; Berg v. Parker Pacific Equipment Sales,
+[1991] 1 C.T.C. 442 (B.C.S.C.); Lundrigans Ltd. (Receivership) v. Bank of
+Montreal (1993), 110 Nfld. & P.E.I.R. 91 (Nfld. T.D.); Bonavista
+(Town) v. Atlantic Technologists Ltd., supra, as well as two of the
+trial decisions in this case on appeal.  XL.             I am in agreement with Major J. that
+a GABD is a security interest and as well that “secured creditor” excludes
+those individuals who own property absolutely.  However I cannot agree that a
+GABD constitutes an absolute assignment so that the assignee becomes the owner
+of the book debts.  The two concepts in the same instrument are incompatible
+and an impossible contradiction.  Quite simply, a GABD cannot be an absolute
+assignment since by its very nature it is a security interest.  XLI.            In drafting the language of the
+sections it must be assumed that Parliament sought carefully to achieve its
+purpose, and that it did not intend to create an absurdity or a redundancy.  My
+position can be summarized in this manner:  (i)                The
+definitions of a “security interest” and a “secured creditor” cannot be
+contradictory.  Parliament cannot have intended to create definitions which
+overlap and contradict each other with the result that the same instrument can,
+at the same time, be both a “security interest” and not a “security
+interest”.  This is not to say that all assignments are “security interests”. 
+Rather it is simply that an instrument, once having been defined as a “security
+interest”, cannot also be an absolute assignment.  By definition, an absolute
+assignment cannot be a “security interest”.  (ii)               GABDs
+are “security interests” and not absolute assignments because they:  (a)  meet
+the definition of “security interests” as set out in s. 224(1.3) ITA;  (b)  are
+defined as collateral security on their face;  (c)  are
+treated as security for a loan on the part of the parties involved;  (d)  have
+been defined by this Court as including an equity of redemption, and thus
+provide a property interest for the borrower.  As a result they cannot be
+absolute;  (e)  cannot
+be simultaneously a security interest and an absolute assignment;  (f)  to
+recognize GABDs as absolute assignments would frustrate the purpose of several
+other statutes.  (iii)  “secured
+creditor” is meant to exclude absolute owners.  By definition, one cannot be a
+secured creditor and at the same time an owner of the security.  An absolute
+assignee would be an owner of the book debts as is, for example, a factor. 
+Parliament by this section has excluded those financial institutions engaged in
+factoring from the operation of the section, together with those financial
+institutions who have perfected their security interest by assuming ownership. 
+There is no intention manifested by the 1990 amendment to accord any priority
+to holders of GABDs.  Disposition                      The following are the reasons
+delivered by  I.                 Iacobucci J.
+(dissenting) -- While I agree with the general principles of statutory
+interpretation outlined by my colleague Justice Cory, I agree with Justice
+Major that the general assignments of book debts in this case were tantamount
+to an absolute transfer of property.  Accordingly, I would dispose of the
+appeals in the manner proposed by Major J.                     The following are the reasons
+delivered by                     Major
+J. (dissenting) --  I.                 Introduction  II.                These
+are appeals from a decision of the Court of Appeal of Alberta involving three
+cases.  In all cases Her Majesty in Right of Canada as represented by the
+Minister of National Revenue (the "MNR") is a party.  Alberta
+Treasury Branches is a party in two of the cases and the Toronto-Dominion Bank
+is the other party.  Each appeal involves a priorities contest between the
+MNR's garnishee summons, and a general assignment of book debts
+("GABD") to the lending institutions.  III.               Section
+224(1.2) of the Income Tax Act, S.C. 1970-71-72, c. 63, as amended in
+1990, S.C. 1990, c. 34, s. 1, provides a form of garnishment which enables the
+MNR in certain circumstances to intercept monies owed to tax debtors.  This
+form of garnishment is not available for the collection of income tax debts
+generally.  It is limited to the collection of amounts owing by a person who
+has withheld, or should have withheld, monies from another under s. 153 of the Income
+Tax Act and who has failed to remit the withheld amounts.  An identical
+garnishment remedy, provided by the Excise Tax Act, R.S.C. 1985, c.
+E-15, s. 317(3) , applies where a person has failed to remit GST which was, or
+ought to have been, collected from other persons.  IV.              The
+issue in these appeals is whether the sections apply to give the MNR a priority
+over creditors who have received an absolute assignment of book debts from the
+tax debtor.  The resolution of the appeals turns on the definition of
+"secured creditor", which requires the holding of a security interest
+in the "property of another person".  V.                In
+my opinion, the sections do not grant the MNR a priority over a creditor who
+holds an assignment of book debts.  As a matter of law, such a creditor owns
+the book debts in question and thus cannot be said to have a security interest
+in the property of another person.  VI.              This
+result is dictated by the common law as well as basic principles of the
+interpretation of the Income Tax Act.  The wording of the sections is
+simply not sufficiently clear and unambiguous to authorize the expropriation,
+without compensation, of a proprietary interest from the innocent holder of the
+assignment of the book debts.  II.                Facts  VII.             The
+first case arose in 1987 from a loan made by the respondent, Alberta Treasury
+Branches, to Country Inns Inc., an Alberta hotel operator.  The borrowed money
+was secured in part by a general assignment of book debts. Country Inns Inc.
+was in arrears to the appellant MNR for $33,312.67 in unremitted GST, plus
+interest and penalties.  Zurich Canada owed Country Inns Inc. $15,000 while
+Zurich Insurance Company was alleged to owe $95,000.  VIII.            In
+June 1992, the MNR served requirements to pay under s. 317(3)  of the Excise
+Tax Act  on Zurich Canada and Zurich Insurance Company, and all other
+possible debtors.  After Country Inns Inc. made an assignment under the Bankruptcy
+Act, R.S.C., 1985, c. B-3 , the trustee estimated the realization of the
+assets of the estate would leave a shortfall to the respondent Alberta Treasury
+Branches, which was owed in excess of $6,000,000.  Forsyth J. of the Court of
+Queen's Bench, in an application to determine priorities, held that the MNR had
+priority by virtue of the provisions of the Excise Tax Act :  (1992), 5
+Alta. L.R. (3d) 141.  IX.              In
+the second case, Pigott Project Management Ltd. contracted with Land-Rock
+Resources Ltd. for excavation work on the Old Man River Dam spillway.  In 1989,
+Land-Rock borrowed monies from the respondent Alberta Treasury Branches and
+granted it a general assignment of book debts.  After Land-Rock completed the
+contract work, Pigott held $161,821.77 in contract holdback funds.  These funds
+were claimed by various creditors of Land-Rock, including the appellant MNR, to
+whom Land-Rock was indebted for unremitted employee source deductions,
+interests and penalties.  X.                In
+1991, the MNR served two requirements to pay on Pigott, under s. 224(1.2) of
+the Income Tax Act, for almost $600,000.  On an application to determine
+priority to the monies in question, Master Waller of the Court of Queen's Bench
+decided the respondent Alberta Treasury Branches had priority through its
+general assignment of book debts.  An appeal to Hunt J. was dismissed:  (1993),
+9 Alta. L.R. (3d) 349.  XI.              In
+the third case, Bodor Drilling Ltd. operated a drilling company which borrowed
+monies from the respondent Toronto-Dominion Bank.  The borrowed money was
+secured in part by a general assignment of book debts.  Bodor owed the
+appellant MNR $83,325.19, in unremitted GST, interest and penalties.  XII.             In
+March 1992, the MNR served requirements to pay under s. 317(3)  of the Excise
+Tax Act  on the trade debtors of Bodor.  Another of Bodor's creditors
+successfully filed a petition under the Bankruptcy Act to have Bodor
+declared a bankrupt.  Bodor was indebted to the respondent Toronto-Dominion
+Bank in the amount of $266,331.12.  In an application to determine priority,
+MacLeod J. of the Court of Queen's Bench held that the MNR had priority under
+the provisions of the Excise Tax Act .  XIII.            All
+three cases were appealed to the Alberta Court of Appeal.  It held that in each
+case the lending institution had priority over the MNR:  (1994), 16 Alta. L.R.
+(3d) 1.  III.               Analysis  XIV.            Before
+1987, the primary garnishment remedy in the Income Tax Act was provided
+by s. 224(1), which stated:                     224. (1)  Where the Minister has knowledge or
+suspects that a person is or will be, within 90 days, liable to make a payment
+to another person who is liable to make a payment under this Act (in this
+section referred to as the "tax debtor"), he may, by registered
+letter or by a letter served personally, require that person to pay forthwith
+... the moneys otherwise payable to the tax debtor in whole or in part to the
+Receiver General on account of the tax debtor's liability under this Act.  XV.             Where
+a tax debtor had assigned its debts to another party as part of a security
+arrangement, courts were virtually unanimous in finding that a demand under s.
+224(1) was ineffective to attach any of the assigned debts.  The courts held
+that, by the assignment, the tax debtor had transferred its interest in its
+accounts to the assignee, leaving nothing for the MNR's garnishment to attach. 
+See: Royal Bank of Canada v. R. (1984), 52 C.B.R. (N.S.) 198 (F.C.T.D.),
+at pp. 210-13, aff'd (1986), 60 C.B.R. (N.S.) 125 (F.C.A.).  XVI.            Parliament
+amended the Income Tax Act in 1987 (S.C. 1987, c. 46, s. 66) and added
+two additional subsections (ss. 224(1.2) and (1.3)).  Sections 317(3)  and (4) 
+were also added to the Excise Tax Act .  For the purposes of the issue
+raised in these appeals the wording of the sections in the Excise Tax Act  is
+identical to that of the Income Tax Act.  For the sake of convenience I
+will refer to the sections of the Income Tax Act.  XVII.          Section
+224(1.2) provided that the MNR could garnish funds owed to a tax debtor or to a
+"secured creditor".  Section 224(1.3) provided, inter alia,
+definitions of "secured creditor" and a "security
+interest":                     224.
+...                     (1.2)
+Notwithstanding any other provision of this Act, the Bankruptcy Act, any
+other enactment of Canada, any enactment of a province or any law, where the
+Minister has knowledge or suspects that a particular person is or will become,
+within 90 days, liable to make a payment  (a) to
+another person who is liable to pay an amount assessed under subsection
+227(10.1) or a similar provision, or to a legal representative of that other
+person (each of whom is in this subsection referred to as the "tax
+debtor"), or  (b) to
+a secured creditor who has a right to receive the payment that, but for a
+security interest in favour of the secured creditor, would be payable to the
+tax debtor,  the Minister
+may, by registered letter or by a letter served personally, require the particular
+person to pay forthwith, where the moneys are immediately payable, and in any
+other case, as and when the moneys become payable, the moneys otherwise payable
+to the tax debtor or the secured creditor in whole in or in part to the
+Receiver General on account of the tax debtor's liability under subsection
+227(10.1) or a similar provision.                            (1.3) In subsection
+(1.2),  "secured
+creditor" means a person who has a security interest in the property of
+another person or who acts for or on behalf of that person with respect to the
+security interest and includes a trustee appointed under a trust deed relating
+to a security interest, a receiver or receiver-manager appointed by a secured
+creditor or by a court on the application of a secured creditor, a sequestrator,
+or any other person performing a similar function;  "security
+interest" means any interest in property that secures payment or
+performance of an obligation and includes an interest created by or arising out
+of a debenture, mortgage, hypothec, lien, pledge, charge, deemed or actual
+trust, assignment or encumbrance of any kind whatever, however or whenever
+arising, created, deemed to arise or otherwise provided for;  XVIII.         The
+operation of the 1987 version of s. 224(1.2) as against the holder of a GABD
+was considered by courts in Alberta, British Columbia, Saskatchewan, Manitoba
+and Nova Scotia.  XIX.            In
+Alberta, in Lloyds Bank of Canada v. International Warranty Co. (1989),
+64 Alta. L.R. (2d) 340 (Q.B.), rev'd (1989), 68 Alta. L.R. (2d) 356 (C.A.),
+McDonald J. held that the new definition of "security interest" was
+broad enough to include monies which were equitably assigned by a tax debtor to
+a bank (at pp. 352-53):  ...the
+definition of "security interest" is so broad as to include moneys
+which have been equitably assigned by the tax debtor to, for example, a bank. 
+The ownership by the bank of the funds that are the subject of the assignment
+constitutes an "interest in property".  That interest in property is
+one which "secures payment" of the "obligation" of the tax
+debtor.... The provision of such security is the very purpose of the assignment
+of book debts.  Moreover, the bank's interest is one "created by or
+arising out of [an] assignment...of any kind whatever, however or whenever
+arising..."  As a result, he held that the MNR obtained
+priority to the garnished funds over the claim of Lloyds Bank as the assignee
+of the book debts.  XX.             The
+Alberta Court of Appeal reversed the trial decision in Lloyds Bank but
+on other grounds.  Relying on its decisions in Re Lamarre; University of
+Calgary v. Morrison, [1978] 2 W.W.R. 465, and Attorney General of Canada
+v. Royal Bank of Canada, [1979] 1 W.W.R. 479, the Court of Appeal held that
+the provisions of s. 224(1.2) provided at most for a form of extra-judicial
+attachment which could bring the funds into the custody of the MNR.  The court
+held that the section fell short of effecting a transfer of property in the
+funds or establishing the priority of the MNR's claim.  It concluded (at p.
+362) that "[s]omething further is required to accomplish either
+purpose".  XXI.            The
+decision of the Alberta Court of Appeal in Lloyds Bank was followed by
+the Manitoba Court of Appeal in Pembina on the Red Development Corp. v.
+Triman Industries Ltd., [1991] 6 W.W.R. 481, and the British Columbia Court
+of Appeal in Concorde International Travel Inc. v. T.I. Travel Services (B.C.)
+Inc. (1990), 72 D.L.R. (4th) 405.  In the B.C. decision, Hinkson J.A.
+referred to the decision of the Alberta Court of Appeal in Lloyds Bank
+and stated at p. 409:                     In
+my opinion, s. 224 styled as it is "Garnishment" deals in s-ss. (1)
+and (1.2) with the mechanics of garnishment.  The Minister in serving a demand
+pursuant to that section must be proceeding upon the basis that he asserts a
+tax debtor's liability to him.  That justified garnishing the funds in the
+hands of a creditor of the tax debtor.  But, I am unable to see in that
+section any provision that would have the effect of transferring the property
+in the funds to the Minister or establishing a priority of Revenue Canada's
+claim.  That was the point dealt with by the Alberta Court of Appeal.  [Emphasis
+added.]  XXII.          To
+the opposite effect are decisions by courts in Saskatchewan and Nova Scotia:  Royal
+Bank of Canada v. Saskatchewan Power Corp., [1991] 1 W.W.R. 1 (Sask. C.A.),
+aff'g [1990] 2 W.W.R. 655 (Sask. Q.B.) and Touche Ross Ltd. v. M.N.R.
+(1990), 71 D.L.R. (4th) 648 (N.S.S.C.T.D.).  XXIII.         Apparently
+in order to deal with the competing lines of authority as to whether s.
+224(1.2) was sufficient to grant a priority to the MNR, Parliament amended the
+section in 1990 by adding the following to the end of the section:  ...and on
+receipt of that letter [i.e. the garnishment summons] by the particular person,
+the amount of those moneys that is required by that letter, to be paid to the
+Receiver General shall, notwithstanding any security interest in those moneys,
+become the property of Her Majesty and shall be paid to the Receiver General in
+priority to any such security interest.  XXIV.         This
+1990 amendment was made to both the Income Tax Act and the relevant
+provisions of the Excise Tax Act .  The three trial decisions in the
+cases at issue in these appeals are principally concerned with the issue of
+whether this amendment constituted the "something further" which Lloyds
+Bank had held was necessary to transfer the property interest in the funds
+to the MNR or to grant a priority to the MNR.  XXV.          Two
+judges of the Court of Queen's bench held that the 1990 amendments did
+constitute the "something further" and that as a result the MNR
+gained priority over the book debts to the lending institutions in question. 
+Forsyth J. based his decision expressly on the wording of the 1990 amendment
+and held that it was sufficiently explicit.  In addition to the 1990
+amendments, MacLeod J. placed reliance on the finding of McDonald J. in Lloyds
+Bank that a GABD falls within the definition of a security interest in s.
+224(1.3).  XXVI.         In
+the third case, the Master in Chambers held that the 1990 amendments were still
+not sufficiently broadly worded to allow Revenue Canada to attach monies in
+which the tax debtor has no interest by virtue of an absolute assignment.  Hunt
+J. on appeal agreed with his conclusion.  She relied on a perceived ambiguity
+in the definition of security interest, stating at pp. 360-61:                     I
+am of the view, moreover, that it is not clear whether the modifying provisions
+at the end of the definition of "security interest" (the words
+"of any kind whatever, however or whenever arising, created, deemed to
+arise or otherwise provided for") are meant to apply to each of the
+enumerated types of interests or instruments  (debenture, mortgage, assignment,
+etc.) or whether these words are meant only to modify the term
+"encumbrance".  McDonald, J. [in Lloyds Bank, supra]
+assumed the former to be the case, but in my view the meaning is not without
+doubt.  There is a third way of reading the modifying words at the end, namely
+that the words "of any kind whatever" describe
+"encumbrance", with the balance of the words applying to each of the
+listed types of interests.  The words "of any kind whatever" might
+also be taken to apply to assignments and encumbrances.  Were this
+provision more clear, it would be easier to conclude that Parliament meant to
+include all types of assignments, including unconditional assignments,
+in the definition.  This would make it plainer that, indeed, Parliament
+intended Revenue Canada's claim to take priority over the property of someone
+other than the tax debtor, such as an assignee of the tax debtor's book debts. 
+[Emphasis in original.]  XXVII.        I
+agree with Forsyth J. that the 1990 amendments to the Income Tax Act and
+the Excise Tax Act  were sufficient to provide the "something
+further" which the Alberta Court of Appeal thought to be necessary in Lloyds
+Bank.  As Côté J.A. in the decision of the Court of Appeal in this case
+stated about the amendment to s. 224(1.2), at p. 6:  ...the
+amendments to that subsection say that service transfers the debt to Her
+Majesty, and that it shall be paid to Her Majesty notwithstanding the security
+interest, and in priority to the security interest.  Where those amendments
+apply, in my view they reverse our Lloyds Bank decision and give the
+M.N.R. priority over earlier mortgages and assignments.  I cannot confine them
+to floating or conditional assignments and must disagree with one of the
+Justices appealed from.  XXVIII.      I
+also agree with MacLeod J. that McDonald J. at trial in Lloyds Bank was
+correct to hold that a GABD falls within the definition of security interest in
+s. 224(1.3).  That section defines "security interest" as including:  ... any
+interest in property that secures payment or performance of an obligation and
+includes an interest created by or arising out of ... [an] assignment ... of
+any kind whatever, however or whenever arising ....  XXIX.         With
+respect, I do not accept the conclusion of Hunt J. that the definition of
+"security interest" is ambiguous and that the phrase "of any
+kind whatever" should be read to modify only "encumbrance" which
+is the last type of security listed.  When the definition is read in its plain
+and ordinary sense, it is clear that the broad phrase "of any kind
+whatever" is intended to cover all of the listed types of security
+including an assignment.  The phrase "a[n] assignment ... of any kind
+whatever" is broad enough to encompass the absolute assignments of book
+debts which are at issue in these appeals.  XXX.          The
+finding that a GABD is a security interest for the purposes of the Income
+Tax Act or the Excise Tax Act  is also consistent with the manner in
+which the assignments are dealt with in the contracts which create the
+assignments.  For instance, the instrument which creates the assignment of book
+debts from Land-Rock Resources Ltd. to Alberta Treasury Branches provides, inter
+alia:                     THE
+PRESENT assignment and transfer shall be a continuing collateral security
+to Treasury Branches for the payment of all and every present and future
+indebtedness and liability of the undersigned to Treasury Branches and any
+ultimate unpaid balance thereof with interest. [Emphasis added.]  XXXI.         My
+conclusions that the GABDs at issue in these appeals fall within the statutory
+definition of a security interest and that the 1990 amendment is effective,
+when it applies, to give the MNR a priority over earlier mortgages and
+assignments, do not, however, lead inevitably to the conclusion that the MNR
+has priority over the lending institutions to the debts at issue in these
+appeals.  XXXII.        A
+new argument was raised before the Alberta Court of Appeal and this Court to
+the effect that even if an unconditional GABD is a security interest, the
+lending institutions do not fall within the definition of "secured
+creditor" in s. 224(1.3) of the Income Tax Act.  Côté J.A. held at
+pp. 7-8:  The M.N.R. must
+believe or suspect that the intended recipient of the letter is liable, or will
+soon become liable to make a payment under para. (a) or para. (b)
+of the operative subs. (1.2).  No one suggests that para. (a) applies
+here, given the general assignments of book debts and other assignments.  So
+the effective precondition in these cases is para. (b).  It says:                     (b)
+to a secured creditor who has a right to receive the payment that, but for [a]
+security interest in favour of the secured creditor, would be payable to
+the tax debtor. (emphasis added)  Subsection
+(1.3) defines "security interest", and that definition appears to be
+satisfied in the present cases.  But subs. (1.3) also defines "secured
+creditor"....  I will restate that definition slightly using square
+brackets:  ... a
+[certain] person who has a security interest in the property of another
+person or who acts for or on behalf of that person with respect to the
+security interest and includes... (emphasis added)                     In
+each of these three appeals, there was a general assignment of book debts which
+purported immediately to transfer title to the Bank or Treasury Branch. 
+Doubtless it was done to secure a loan, but legal title was thereafter in the
+transferee, the Bank or Treasury Branch.  Therefore, the Bank or Treasury
+Branch is not a "secured creditor" under this definition, because it
+does not have any interest "in the property of another person".  The
+Bank or Treasury Branch itself is the owner.  The tax debtor, both sides agree,
+would have to be the "other person".  But he has no title.  So one
+cannot say that the book debts (receivables) assigned are "the property
+of" the tax debtor.  XXXIII.      I
+agree.  The wording of s. 224(1.2) clearly requires not only that there is a
+security interest, but also that the payment be made either to the tax debtor
+or to a secured creditor.  Here, because of the assignments, the payments are
+made to the lending institutions and the question is whether these lending
+institutions meet the definition of "secured creditor" as defined in
+the statutes.  XXXIV.      The
+definition of secured creditor is a "person who has a security interest in
+the property of another", that other being the tax debtor.  The critical
+issue is whether, after an assignment, the lending institutions have a security
+interest in the property of the tax debtor.  In my view, they do not.  An
+assignment passes title and therefore property in the book debts is held by the
+lending institution and not by the tax debtor.  XXXV.       It
+is well-established law that a GABD, such as the ones at issue in these
+appeals, has the effect of transferring all right, title and ownership in and
+to the property assigned so that it can no longer be considered the property of
+the assignor.  See: Evans Coleman and Evans Ltd. v. R.A. Nelson Construction
+Ltd. (1958), 27 W.W.R. 38 (B.C.C.A.), at p. 42; Lettner v. Pioneer Truck
+Equipment Ltd. (1964), 47 W.W.R. 343 (Man. C.A.), at pp. 348-49; Royal
+Bank of Canada v. Attorney General of Canada (1977), 25 C.B.R. (N.S.) 233
+(Alta. S.C.T.D.), at pp. 236 and 241, aff'd [1979] 1 W.W.R. 479; Royal Bank
+of Canada v. R., supra, at pp. 206 and 212; Toronto-Dominion Bank
+v. Minister of National Revenue (1990), 39 F.T.R. 102, at p. 105.  XXXVI.      In
+Evans Coleman and Evans Ltd. v. R.A. Nelson Construction Ltd., the
+plaintiff attempted to garnish funds owing to the defendant which were held by
+a bank.  A second bank held a GABD executed by the defendant.  The British
+Columbia Court of Appeal concluded that the  GABD passed property in the book
+debts absolutely, and that the defendant no longer had an interest that could
+be garnisheed.  XXXVII.     In
+Royal Bank of Canada v. R., Muldoon J. of the Federal Court Trial
+Division came to a similar conclusion which was unanimously confirmed by the
+Federal Court of Appeal.  Under the terms of the assignment, the assignor Miles
+contracted to act as a trustee for the funds assigned by him to the Royal Bank
+under a GABD.  The MNR argued that an assignee can have no greater claim on the
+garnished money than the assignor.  Muldoon J. rejected this argument and held
+at p. 212:                     With
+respect, that contention misses the point.  To equate the respective rights of
+the assignee and the assignor in and upon the book debts is to overlook the
+very nature and effect of the assignment, for the assignee owns the book debts
+and the assignor does not.  To those who have not searched in the personal
+property security register, the assignor, of course, might still appear to be
+an ordinary trade creditor, but having assigned the book debts, the assignor,
+Miles, was in reality a trustee of them for the assignee, the plaintiff bank. 
+Here, the Crown has received that which belonged to the bank.  XXXVIII.    In
+Lettner v. Pioneer Truck Equipment Ltd., Guy J.A. of the Manitoba Court
+of Appeal commented upon the nature and effect a GABD as follows at pp. 348-49:                     As
+between Pioneer Truck and the bank, Pioneer Truck knows that its accounts
+receivable or book debts belong to the bank.  In equity it cannot be heard to
+say that it owns these book debts.                                                                     .
+. .  The fact that
+banking practice in Canada permits the extension of credit to going concerns,
+and permits the borrowers (by licence, as it were) to collect some accounts to
+pay wages and current creditors, does not destroy the absolute and specific
+quality of the legal assignment to the bank.  XXXIX.      In
+Toronto-Dominion Bank v. Minister of National Revenue, Jerome A.C.J. of
+the Federal Court Trial Division conducted a thorough review of the
+authorities, including those discussed above, and concluded at p. 105:                     In
+light of the preceding authorities, and particularly in light of the Federal
+Court of Appeal's decision in Royal Bank of Canada v. The Queen, which
+is entirely binding on this Court, I must conclude that the general assignment
+of book debts granted April 26, 1983, by J.K. Campbell and Associates Limited
+to the Toronto-Dominion Bank constituted an absolute transfer of all property
+and interest previously held by J.K. Campbell in its accounts or other book
+debts, present or future.  Accordingly, after April 26, 1983, the
+Toronto-Dominion Bank had full legal and equitable title in all accounts that
+were owing or that would become owing by debtors of J.K. Campbell unless such
+right was otherwise expropriated by competent and valid legislation.  XL.             In
+addition to establishing that an absolute assignment of book debts transfers
+property in the debts to the assignee, the cases discussed above also stand for
+the simple and obvious proposition that the true nature of an assignment can
+only be determined by examining the particular wording of the instrument which
+creates the assignment.  XLI.            The
+assignments in each of the three cases which are involved in these appeals all
+contain language which makes it clear that they are immediate and absolute. 
+Typical is the assignment from Land-Rock Resources to Alberta Treasury
+Branches, which provides:                     THE
+UNDERSIGNED Land-Rock Resources Ltd. for valuable consideration HEREBY ASSIGNS
+AND TRANSFERS to Province of Alberta Treasury Branches (herein called
+"Treasury Branches") all debts, demands and choses in action now due
+or hereafter to become due, together with all judgments and securities for the
+said debts, demands and choses in action, and all other rights and benefits in
+respect thereof which now are or may hereafter become vested in the
+undersigned.  XLII.           It
+was noted in Royal Bank of Canada v. R., at p. 202, that there may be a
+distinction between an absolute assignment and one that provides that, in the
+event of default and the non-remedy of the default, the bank may without
+further notice deal with the book debts.  Such wording appears to be less than
+an absolute assignment and creates for the lending institution a charge on the
+book debts which does not crystallize into property in the debts until there
+has been an unremedied default.  XLIII.          While
+it does not fall to be decided in this case, it seems likely that such an
+assignment does not transfer property to the lending institution and thus, at
+least prior to default on the part of the assignor, the lending institution
+would be a secured creditor under s. 224(1.3).  This type of conditional
+wording is not present in any of the instruments at issue in these appeals, all
+of which are unconditional and absolute.  XLIV.         Moreover,
+at least one of the instruments provides that the assignor is a trustee for the
+book debts held by the lending institution.  In Royal Bank of Canada v. R.,
+Muldoon J. held that the fact that the assignor is in the position of a trustee
+is a further indication that the assignment passes property to the assignee. 
+The assignment from Bodor to the Toronto-Dominion Bank provides:  IT IS HEREBY
+DECLARED AND AGREED that all money received by the Assignor in payment of any
+debts, demands and choses in action...shall be received and held by the
+Assignor in trust for the Bank.  XLV.           It
+should be noted that the fact that the GABD is referred to as "continuing
+collateral security" in two of the instruments does not make the GABD
+anything less than absolute.  In both Evans Coleman and Lettner,
+the GABDs contained language that the general assignment of book debts would be
+continuing collateral security and in each case the courts held that such
+language did not affect the absoluteness of the assignment.  XLVI.         At
+the Alberta Court of Appeal, the MNR took the position that even if legal title
+was transferred to the assignee by the GABD, the assignor tax debtor retained
+an equitable interest in the nature of an equity of redemption which was
+sufficient for the book debts to remain the "property" of the tax
+debtor.  XLVII.        Côté
+J.A. responded to this argument by stating that while in theory the tax debtor
+held an equity of redemption, this equity could not be exercised in practice
+except by application to a court of equity.  Such an application would only be
+granted by a court of equity where the value of the book debts exceeded the
+value of the loans which they secured.  He concluded that in cases like the
+three on appeal, where the value of the loans exceeded the value of the book
+debts, there is no real equity of redemption.  He also held that the only
+property of the tax debtor was the equity of redemption and that the MNR did
+not claim that interest.  XLVIII.       I
+agree with Côté J.A. that the tax debtor retains an equity of redemption upon
+an assignment of its book debts.  Halsbury's Laws of England (4th
+ed. 1980), vol. 32, at para. 401, defines a mortgage as "a disposition of
+property as security for a debt" which "may be effected ... by an
+assignment of a chose in action" such as a book debt.  At para. 407 Halsbury's
+also states that:  Incident to
+every mortgage is the right of the mortgagor to redeem, a right which is called
+his equity of redemption.... This right arises from the transaction being
+considered as a mere loan of money secured by a pledge of the estate.  Thus prima facie an assignor of book debts
+retains an equitable right to redeem his assignment of the book debts once the
+debt obligation which is secured by the book debts has been completely
+discharged by the assignor.  XLIX.         I
+also agree with Côté J.A. that in the context of these appeals the fact that
+the tax debtors in theory hold an equity of redemption in their book debts is
+of purely academic interest since, on the facts, the value of the loans secured
+by the book debts far exceeds the value of the debts themselves.  Thus there is
+no value in the equity of redemption held by the tax debtors.  While the equity
+of redemption theoretically exists, for practical purposes it is incapable of
+any realization.  L.                The
+appellant MNR argues, however, that Côté J.A. erred by focusing his attention
+on whether the value of the loans exceeds the value of the book debts.  The MNR
+points out that if the relative value of the loan and the security is the only
+relevant factor then a tax debtor who operates his business with the assistance
+of a revolving line of credit secured by an assignment of book debts (which is
+a common business arrangement) would fluctuate between being and not being a
+secured creditor on an almost daily basis depending on the relative value of
+the collectibles and the line of credit of the business.  LI.               I
+share the MNR's concern that the relative value of the loan and the book debts
+is not the sole determining factor as to whether the assignor's equity of
+redemption makes the book debts his "property".  LII.              As
+a matter of law, an absolute assignment of book debts makes those book debts
+the property of the assignee.  Those book debts remain the property of the
+assignee until the assignor actually exercises his equitable right to redeem. 
+It is a necessary precondition to the exercise of the equity of redemption that
+the loans secured by the assignment be paid off in full, along with any accrued
+interest and costs.  LIII.            With
+respect, however, while it is a necessary precondition that the value of the
+security exceed the value of the loan in order to exercise the right of
+redemption, the fulfilment of this precondition is not sufficient to return the
+book debts to the property of the assignor.  The assignor must also choose to
+exercise the right of redemption which will mean a termination of the loan
+arrangement with the lending institution.  LIV.            At
+base, the equity of redemption is no more than a recognition that the
+assignment of debts to the creditor, while immediate and absolute, is for a
+limited purpose.  In equity, the creditor cannot unjustly enrich itself by
+realizing on more security than the value of the loan which is secured.  At any
+given time the value of the security may exceed the value of the loan, but upon
+termination of the lending relationship, the assignor of the security is
+entitled, in equity, to an accounting.  LV.             In
+determining whether the book debts, once assigned, are the "property"
+of the assignor or of the assignee, the Court must choose between two competing
+definitions of "property".  One definition is the immediate legal
+title to what had been assigned and the other is a potential interest
+enforceable only in equity to reacquire property which has been assigned to
+another, contingent upon successfully fulfilling the terms of the loan
+agreement.  LVI.            In
+Friesen v. Canada, [1995] 3 S.C.R. 103, it was held that the words of
+the Income Tax Act are to be read in their plain and ordinary sense. 
+The plain and ordinary meaning of "property" is legal title and not a
+contingent future equitable right to reacquire property which one does not
+presently hold.  The very term "equity of redemption"
+highlights the fact that property is not presently held by the assignor, but
+rather there is a limited right to reacquire property at a future date.     LVII.        The
+central thrust of the MNR's submissions in this Court is contained in para. 45
+of his factum, where he states that where title to property is transferred, the
+phrase "property of another person" must be read to mean
+"property that, absent the security interest, is the property of
+the person giving the security".  LVIII.          This
+proposition is contrary to the traditional Canadian jurisprudence that the
+words of a taxing statute are to read strictly for their plain and ordinary
+meaning and that only if there is a true ambiguity is the intention of
+Parliament to be considered.  LIX.            In
+the circumstances of these appeals, a strict reading of the taxation statute is
+appropriate.  As pointed out by Hunt J. at p. 361, these appeals raise not only
+the traditional tax interpretation principle of resolution of ambiguity in
+favour of the taxpayer: Johns-Manville Canada Inc. v. The Queen, [1985]
+2 S.C.R. 46, at p. 72.  They also raise the well-known principle that, in the
+absence of clear and unequivocal language, there is a presumption that
+proprietary rights are not to be taken away without provision being made for
+compensation.  LX.             In
+the context of these appeals, the interpretation of s. 224 urged by the MNR
+would have the effect of expropriating property to which the lender is legally
+entitled under its security agreement with the tax debtor.  The taxes which
+would be garnished and withheld from the lending institution are not taxes owed
+by the lender but rather taxes owed by its debtor.  LXI.            The
+lending institutions are innocent third parties whose proprietary rights would
+be expropriated by the provisions of s. 224 and accordingly those provisions
+must be read strictly to determine whether the expropriatory language is clear
+and unequivocal.  LXII.           However,
+it is not necessary to resort to strict interpretation to resolve these
+appeals.  In this case the plain and ordinary meaning of the phrase
+"property of another person" is property now held by another person. 
+This interpretation makes sense of the words without reading anything into the
+statute and respects the well-established principle of interpretation that
+statutes are to be read as though presently speaking.  LXIII.          One
+of the cardinal principles of the plain and ordinary meaning approach is that
+nothing be read into a section unless no sense can be made of that section
+without the addition of the extra words.  The plain and ordinary meaning of the
+statutory words simply does not bear the strained interpretation urged by the
+MNR of "property that, absent the security interest, is the
+property of the person giving the security".  LXIV.         In
+addition to offending the principle that extra words should not be read into a
+section unless absolutely necessary, this proposed reading attempts to read in
+wording which can be expressly found in another part of the same section. 
+Section 224(1.2)(b) applies to "a secured creditor who has a right
+to receive the payment that, but for a security interest in favour of the
+secured creditor, would be payable to the tax debtor".  The emphasized
+words in s. 224(1.2)(b) are identical in effect to the words which the
+MNR seeks to introduce into the definition of secured creditor.  LXV.           The
+use of a particular phrase in other parts of the Income Tax Act
+militates against reading that same phrase into a section of the Act where it
+is not found.  This is particularly so where the phrase is found in the very
+same section as the disputed wording, and the section in question has been the
+subject of amendments twice within the last decade.  LXVI.         If
+Parliament had intended that s. 224(1.2) should cover all persons who hold a
+security interest, it could have defined "secured creditor" as any
+person who holds a security interest without the deliberately limiting words
+"in the property of another person".  Alternatively, it could have
+expressly provided "property that but for a security interest in favour
+of the secured creditor would be the property of another person", thus
+echoing the phrasing found in the rest of the section.  LXVII.        In
+spite of two recent amendments to this section, Parliament chose not to define
+secured creditor in the manner urged by the appellant MNR.  To read into the
+section the words suggested by the MNR would be an unwarranted judicial
+usurpation of the legislative function.  The only conclusion which can be drawn
+from the plain and ordinary meaning of the words which do appear in the Act is
+that Parliament did not intend to bring creditors who actually owned the title
+to the security interest within the purview of the section.  LXVIII.       It
+is my conclusion that these appeals can be resolved without resort to any
+special principles of interpretation tailored to the expropriatory nature of
+this particular provision.  LXIX.         If
+I am mistaken in this conclusion, and there is an ambiguity in the meaning of
+the word "property" then I would hold that the specific effect of
+this section warrants a strict resolution of any ambiguity in favour of the
+respondents.  Such an interpretation requires that "property" be read
+to mean present legal title in preference to a future contingent equitable
+right to reacquire property not currently held.  It also requires that words
+expressly found in another part of the same section not be read without cause
+into the definition of secured creditor.  LXX.           In
+summary, these appeals should be resolved as follows:  1.The
+definition of "security interest" is broad enough to include a
+general assignment of book debts even where that assignment is absolute.  2.The wording
+of s. 224(1.2), as amended in 1990, is sufficiently clear and unequivocal to
+allow a transfer of property in the garnished funds to the MNR and to grant him
+a priority in circumstances where the rest of that section applies.  3.An assignee
+of an absolute assignment of book debts is not a "secured creditor"
+within the meaning of s. 224(1.3) because he does not hold a security interest
+"in the property of another person".  4.Therefore, s.
+224(1.2) of the Income Tax Act and s. 317(3)  of the Excise Tax Act 
+are not effective to grant the appellant MNR an interest in or priority over
+debts owed to the assignee of a GABD.  IV.              Disposition  LXXI.         All
+three appeals should be dismissed with costs to the respondents.                     Appeals allowed with costs, Iacobucci
+and Major JJ. dissenting.                     Solicitor for the
+appellant:  The Deputy Attorney General of Canada, Ottawa.                     Solicitors for the respondent
+Province of Alberta Treasury Branches:  Bruni Greenan Klym, Calgary;  Parlee
+McLaws, Calgary.   

@@ -1,0 +1,781 @@
+  v.  Her Majesty The Queen                                                                   Respondent   Neutral citation:  2000 SCC 36.  File No.:  26601.  1999:  November 10; 2000:  July 20.   on appeal from the federal court of appeal    Held (Gonthier, McLachlin and Binnie JJ. dissenting):  The appeal should
+be dismissed.    Here, the appellant is not entitled to claim the two
+manufacturing and processing tax incentives.  For the taxation years in issue,
+the plant was used primarily in the manufacturing or processing of goods
+supplied through contracts for work and materials, not through sale.  Property
+in the asphalt was transferred to the appellant’s customers as a fixture to
+real property.  Per Gonthier, McLachlin
+and Binnie JJ. (dissenting):  The appellant is entitled to claim the two
+manufacturing and processing tax incentives at issue.  This appeal does not
+turn on the percentages of asphalt sold under different types of contract, but
+on the fact that the asphalt plant produced a manufactured product in a
+saleable condition.  The evidence is that about 25 percent of the product was
+appropriated by the taxpayer and sold as is to customers.  It disposed of the
+balance of the asphalt under various paving contracts for work and materials. 
+None of the asphalt was retained by the taxpayer.  It is common ground that if
+the taxpayer had sold to its paving customers the asphalt in one contract and
+the installation of it in another, it would be entitled to the deduction.  The customer’s objective was to obtain an asphalt driveway, and the
+services provided by the taxpayer were incidental to realization of that
+objective.  The price was paid, and the customer became the owner of the
+asphalt in his driveway.  The taxpayer and its customers were likely oblivious
+to the fact that, in the eye of the law, title to the steaming stretch of
+asphalt passed by accession.  It is important in a self-assessment tax system
+to promote an interpretation of provisions, where possible, that is
+comprehensible to the taxpayers themselves.  Neither the appellant nor the
+customers were likely to understand the distinction between accession and sale.    Cases Cited  By Major J.   By Binnie J. (dissenting)   Statutes and Regulations Cited    Sale of Goods Act, 1893 (U.K.), 56 & 57 Vict., ch. 71.  Authors Cited  Arnold, Brian J.  “Statutory
+Interpretation:  Some Thoughts on Plain Meaning”, in Report of Proceedings
+of the Fiftieth Tax Conference.  Toronto:  Canadian Tax Foundation, 1999,
+6:1.  Benjamin’s Sale of Goods.  Edited by A. G. Guest.  London:  Sweet & Maxwell, 1974.  Bowman, Stephen W. 
+“Interpretation of Tax Legislation:  The Evolution of Purposive Analysis”
+(1995), 43 Can. Tax J. 1167.   Canada.  House of Commons
+Debates, vol. II, 1st Sess., 29th Parl.,
+February 19, 1973, p. 1428.  Canada.  House of Commons
+Debates, vol. III, 4th Sess., 28th Parl., May 8, 1972,
+p. 2002.  Canada.  House of Commons
+Debates, vol. V, 1st Sess., 29th Parl., June 13, 1973, p. 4725.  Canada.  House of Commons
+Debates, vol. VII, 1st Sess., 30th Parl., June 23, 1975,
+p. 7028.  Driedger, Elmer A.  Construction
+of Statutes, 2nd ed.  Toronto:  Butterworths, 1983.  Driedger on the Construction of
+Statutes, 3rd ed. by Ruth Sullivan.  Toronto: 
+Butterworths, 1994.  Duff, David G.  “Interpreting the
+Income Tax Act – Part 1:  Interpretive Doctrines” (1999), 47 Can. Tax J.
+464.  Duff, David G.  “Interpreting the
+Income Tax Act – Part 2:  Toward a Pragmatic Approach” (1999), 47 Can. Tax
+J. 741.  Fulcher, J. E. (Ted).  “The Income
+Tax Act:  The Rules of Interpretation and Tax Avoidance.  Purpose vs. Plain
+Meaning:  Which, When and Why?” (1995), 74 Can. Bar Rev. 563.  Hogg, Peter W., and
+Joanne E. Magee.  Principles of Canadian Income Tax Law. 
+Scarborough:  Carswell, 1995.  Hogg, Peter W., Joanne E. Magee,
+and Ted Cook.  Principles of Canadian Income Tax Law, 3rd ed. 
+Scarborough:  Carswell, 1999.  Kernochan, John M.  “Statutory
+Interpretation: An Outline of Method” (1976), 3 Dalhousie L.J. 333.  Sharlow, Karen.  “The
+Interpretation of Tax Legislation and the Rule of Law – Rejoinder – J.E. (Ted)
+Fulcher – (1995), 74 Can. Bar Rev. 563” (1996), 75 Can. Bar Rev. 151.     Willis, John.  “Statute
+Interpretation in a Nutshell” (1938), 16 Can. Bar Rev. 1.  APPEAL from a judgment of the Federal Court of Appeal
+(1998), 232 N.R. 381, 98 D.T.C. 6203, [1998] F.C.J. No. 234 (QL)
+dismissing the taxpayer’s appeal from a decision of the Tax Court of Canada,
+[1996] 2 C.T.C. 2426, 97 D.T.C. 506, [1996] T.C.J. No. 281 (QL).  Appeal
+dismissed, Gonthier, McLachlin and Binnie JJ. dissenting.  Philip Anisman and Robert
+B. MacLellan, for the appellant.   The judgment of L’Heureux-Dubé, Iacobucci, Major and
+Bastarache JJ. was delivered by      1                                  
+MAJOR J. — This appeal concerns the appellant’s
+ability to claim two manufacturing and processing tax incentives in respect of
+its 1988, 1989 and 1990 taxation years based upon the capital cost of an
+asphalt plant it constructed in 1988.  The availability of both incentives, an
+accelerated capital cost allowance and an investment tax credit, turns upon
+whether using the plant to produce asphalt to be supplied in connection with
+paving services constitutes use primarily for the purpose of manufacturing or
+processing goods for sale.  I.  Factual Background  2                                  
+The appellant, Will-Kare Paving & Contracting Limited (“Will-Kare”),
+paves driveways, parking lots and small public roadways for commercial and
+residential customers.  3                                  
+Until 1988, Will-Kare purchased all its asphalt from competitors, making
+it vulnerable in terms of price and availability.  That year, Will-Kare
+constructed its own asphalt plant to remove its reliance upon third-party
+suppliers.  As additional motivation, it anticipated that owning its own plant
+would allow it to bid on larger contracts.  Finally, while Will-Kare’s previous
+asphalt consumption did not justify construction of its own plant, it was
+confident that third-party sales of excess production would make the plant
+economically feasible.  4                                  
+After acquiring the plant, Will-Kare’s sales and revenues from paving
+contracts increased as expected.  For the taxation years in question,
+approximately 75 percent of Will-Kare’s asphalt output was utilized in its own
+paving business and approximately 25 percent of its output was sold to third
+parties.  5                                  
+In the taxation years 1988, 1989 and 1990, Will-Kare included the plant
+and additions to it in Class 39 of Schedule II of the Income Tax Regulations,
+C.R.C. 1978, c. 945 (“Regulations”), claiming that the plant was property used
+primarily in the manufacturing and processing of goods for sale.  As such,
+Will-Kare claimed an accelerated capital cost allowance under s. 20(1)(a)
+of the Income Tax Act, S.C. 1970-71-72, c. 63 (“Act”).  Will-Kare also
+claimed the s. 127(5) investment tax credit on the basis that the plant was
+“qualified property” within the meaning of s. 127(9) of the Act.  Finally,
+Will-Kare claimed the s. 125.1(1) manufacturing and processing profits deduction
+for its 1988 and 1989 taxation years with respect to the whole of its income in
+accordance with s. 5201 of the Regulations, the so-called “Small Manufacturers’
+Rule”.  6                                  
+The Minister of National Revenue reassessed Will-Kare, reclassifying the
+plant as Class 8 property for capital cost allowance purposes and denying the
+investment tax credit, in both cases on the basis that the plant was not being
+used primarily for the manufacturing or processing of goods for sale.  As a
+consequence of the reassessment, Will-Kare’s active business income was raised
+above $200,000, necessitating that the manufacturing and processing profits
+deduction be calculated based upon the general pro-rata formula set out in s.
+5200 of the Regulations rather than applying the deduction to Will-Kare’s
+entire income in accordance with s. 5201 of the Regulations.  7                                  
+Will-Kare’s appeals to both the Tax Court of Canada and the Federal
+Court of Appeal were dismissed.  II. Relevant
+Statutory Provisions  8                                  
+For ease of reference, the following statutory provisions are set out.  Income Tax
+Act, S.C. 1970-71-72, c. 63 (now R.S.C., 1985, c. 1 (5th Supp .))  20.  (1) Notwithstanding paragraphs 18(1)(a),
+(b) and (h), in computing a taxpayer’s income for a taxation year
+from a business or property, there may be deducted such of the following
+amounts as are wholly applicable to that source or such part of the following
+amounts as may reasonably be regarded as applicable thereto:  (a) such part of the capital cost to the taxpayer of property,
+or such amount in respect of the capital cost to the taxpayer of property, if
+any, as is allowed by regulation;  127. . . .  (5) There may be deducted from the tax otherwise
+payable by a taxpayer under this Part for a taxation year an amount not
+exceeding the least of  (a) his annual investment tax credit limit
+for the year,  (b) the aggregate of  (i) his investment tax credit at the end of the year in respect of
+property acquired, or an expenditure made, before the end of the year,                                                                     .
+. .   (9) In this section and section 127.1,  ...  “investment tax credit” of a taxpayer at the end of a taxation year
+means the amount, if any, by which the aggregate of  (a) the aggregate of all amounts each of which is the specified
+percentage of  (i) the capital cost to him of a qualified property . . .  ...  “qualified property” of a taxpayer means property . . . that is                                                                     .
+. .  (b) prescribed machinery and equipment acquired by the taxpayer
+after June 23, 1975,  that has not been used, or acquired for use or lease, for any purpose
+whatever before it was acquired by the taxpayer and that is  (c) to be used by him in Canada primarily for the purpose of  (i) manufacturing or processing goods for sale or lease, . . .  .
+. .  “specified percentage” means  (a) in respect of a qualified property ...  (iii) acquired primarily for use in the Province of Newfoundland,
+Prince Edward Island, Nova Scotia or New Brunswick or the Gaspé Peninsula,     (A) after November 16, 1978 and before 1989, 20%, and     (B) after 1988, 15%, . . .   Income Tax
+Regulations, C.R.C. 1978, c. 945  4600. ...   (2)  Property is prescribed machinery and equipment
+for the purposes of the definition “qualified property” in subsection 127(9) of
+the Act if it is depreciable property of the taxpayer . . . that is  .
+. .  (k) a property included in any of Classes 21, 24, 27, 29, 34, 39
+and 40 in Schedule II.                                                                      .
+. .   Schedule II  .
+. .   CLASS
+8  (20
+per cent)  Property not included in Class 2, 7, 9, 11 or 30 that is  (a) a structure that is manufacturing or processing machinery or
+equipment; .
+. .  CLASS
+29   Property that would otherwise be included in another class in this
+Schedule  (a) that is property manufactured by the taxpayer, the
+manufacture of which was completed by him after May 8, 1972, or other property
+acquired by the taxpayer after May 8, 1972,  (i) to be used directly or indirectly by him in Canada primarily in the
+manufacturing or processing of goods for sale or lease, ...                                                                     ...  (b) that is  (i) property that, but for this class, would be included in Class 8,
+...                               ...  and  (c) that is property acquired by the taxpayer  (i) before 1988, or  (ii) before 1990 (A) pursuant to an obligation in writing entered into by the taxpayer
+before June 18, 1987,  (B) that was under construction by or on behalf of the taxpayer on June
+18, 1987, or  (C) that is machinery or equipment that is a fixed and integral part of
+a building, structure, plant facility or other property that was under
+construction by or on behalf of the taxpayer on June 18, 1987.                                                                      ...  CLASS
+39  Property acquired after 1987 that is not included
+in Class 29, but that would otherwise be included in that class if that class
+were read without reference to subparagraphs (b)(iii) and (v) and
+paragraph (c) thereof.  III. Judicial
+History  A. Tax
+Court of Canada, 97 D.T.C. 506  9                                  
+Sarchuk T.C.C.J., in dismissing Will-Kare’s appeal, viewed its
+entitlement to both the investment tax credit and the Class 39 accelerated
+capital cost allowance as depending upon whether the asphalt plant was acquired
+primarily for the purpose of manufacturing or processing goods for sale or lease. 
+Adopting the reasoning in Canada v. Hawboldt Hydraulics (Canada) Inc.
+(Trustee of), [1995] 1 F.C. 830 (C.A.), Sarchuk T.C.C.J. concluded that use
+of the plant to produce asphalt for use in Will-Kare’s own paving business did
+not constitute the manufacture of goods for sale, but rather for use in
+contracts for work and materials.  10                              
+Sarchuk T.C.C.J. also dismissed Will-Kare’s argument that because
+potential third-party sales of asphalt were of equal importance in its decision
+to acquire the plant, the manufacturing of goods for sale was one of the
+plant’s prospective primary uses.  As third-party sales never represented more
+than 25 percent of total sales, Sarchuk T.C.C.J. concluded that the plant’s
+primary use could not be the manufacture of goods for sale.  B. Federal
+Court of Appeal, 98 D.T.C. 6203  11                              
+Strayer J.A. dismissed the appeal and concluded that Sarchuk T.C.C.J.
+correctly characterized the asphalt plant as not being acquired primarily for
+the manufacturing of goods for sale, but for the production of asphalt for use
+in Will-Kare’s own paving business.  Strayer J.A. also agreed that the phrase
+“goods for sale” be given the same meaning it would be given by the law of sale
+of goods to exclude contracts for work and materials.  Therefore, Will-Kare had
+not acquired the plant primarily for the purpose of manufacturing or processing
+goods for sale.  IV. Issue  12                              
+Does the capital cost of Will-Kare’s asphalt plant qualify for the
+investment tax credit provided for by s. 127(5) of the Act and the accelerated
+capital cost allowance provided for by Class 39 of Schedule II of the
+Regulations and s. 20(1)(a) of the Act?  V. Analysis  13                              
+Will-Kare’s ability to claim both the s. 127(5) investment tax credit
+and the Class 39 accelerated capital cost allowance depends on an
+interpretation of a statutory requirement common to both incentives.  14                              
+It was not disputed that Will-Kare was entitled to depreciate its
+asphalt plant for tax purposes by claiming a capital cost allowance in accordance
+with s. 20(1)(a) of the Act.  What is disputed, however, is into which
+of the asset pools enumerated in Schedule II of the Regulations Will-Kare’s
+plant was to be placed.  15                              
+Will-Kare clearly prefers that its plant be characterized as Class 39 property
+and, as such, be depreciated at an accelerated rate vis-à-vis the
+plant’s alternate characterization as Class 8 property.  Schedule II of the
+Regulations defines Class 39 property essentially as Class 29 property acquired
+after 1987.  Therefore, for the plant to qualify as Class 39 property,
+Will-Kare must have acquired it “to be used directly or indirectly . . . in
+Canada primarily in the manufacturing or processing of goods for sale or
+lease”.  16                              
+Will-Kare’s ability to claim the s. 127(5) investment tax credit is
+contingent upon the plant being characterized as “qualified property” within
+the meaning of s. 127(9) of the Act, generally defined as prescribed machinery
+and equipment to be used by the taxpayer in Canada primarily for the purpose of
+manufacturing or processing goods for sale or lease.  Pursuant to s. 4600(2)(k)
+of the Regulations, property is prescribed machinery and equipment if it is
+property included in, inter alia, Class 39 of Schedule II.  17                              
+Therefore, for Will-Kare to receive the benefit of the above incentives,
+it must establish that it acquired the asphalt plant primarily for the purpose
+of manufacturing or processing goods for sale or lease.  18                              
+Submissions were made concerning a third incentive, the s. 125.1
+manufacturing and processing profits tax credit.  The availability of this
+incentive was not raised in the courts below and is not an issue in this
+appeal.  Manufacturing
+or Processing Goods for Sale  19                              
+Canadian jurisprudence to this point has adopted two divergent interpretations
+of the activities that constitute manufacturing and processing goods for sale. 
+Without canvassing these authorities exhaustively, it may be helpful to outline
+briefly those cases which delineate these two distinct approaches.  20                              
+One point of view is expressed in Crown Tire Service Ltd. v. The
+Queen,  [1984] 2 F.C. 219 (T.D.), where the court imports common law and
+provincial sale of goods law distinctions in defining the scope of the
+manufacturing and processing incentives’ application.  Only capital property
+used to manufacture or process goods to be furnished through contracts purely
+for the sale of such goods qualifies.  Property used to manufacture or process
+goods to be supplied in connection with the provision of a service, namely
+through a contract for work and materials, is not viewed as being used directly
+or indirectly in Canada primarily in the manufacturing or processing of goods for
+sale, and as such, does not qualify for either the accelerated capital cost
+allowance or the investment tax credit.  21                              
+The Crown Tire case related to whether the application of treads
+manufactured by the taxpayer to tires brought in by customers for repair
+constituted the manufacture or processing of goods for sale.  Strayer J. (later
+J.A.) disallowed the taxpayer’s claim to the s. 125.1 manufacturing and
+processing profits deduction as the manufactured tread was supplied through a
+contract for work and materials, a characterization based upon the method
+through which property transferred to the buyer.  See p. 223:  In Benjamin’s Sale of Goods (London, 1974),
+in considering the distinction between a contract of sale of goods and a
+contract for work and materials, it is stated:  Where work is to be done on the land of the employer or on a chattel
+belonging to him, which involves the use or affixing of materials belonging to
+the person employed, the contract will ordinarily be one for work and
+materials, the property in the latter passing to the employer by accession and
+not under any contract of sale. ...  I believe that the situation here fits within the
+general principle as stated in Benjamin.  With respect to the retreading
+of tires owned by customers, it appears to me that the customers retain
+ownership throughout the process.  22                              
+A second line of authority departs from the point of view in Crown
+Tire and declines to apply statutory and common law sale of goods rules in
+delineating that capital property to which the manufacturing and processing
+incentives apply.  Rather, these cases advocate a literal construction of
+“sale” such that the provision of a service incidental to the supply of a manufactured
+or processed good does not preclude receiving the benefit of the incentives. 
+Any transfer of property for consideration would suffice.  See Halliburton
+Services Ltd. v. The Queen, 85 D.T.C. 5336 (F.C.T.D.), aff’d 90 D.T.C. 6320
+(F.C.A.), and The Queen v. Nowsco Well Service Ltd., 90 D.T.C. 6312
+(F.C.A.).  23                              
+Halliburton and Nowsco considered the form of contract
+entered into between the taxpayer and customer to be irrelevant.  In both cases
+the Federal Court of Appeal quoted with approval language from Reed J.’s
+decision in Halliburton at the Trial Division that appears to suggest an
+alternative test based upon the source of the taxpayer’s profit.  As stated by
+Reed J., at p. 5338:  . . . I do not find any requirement that the contract which gives rise
+to the taxpayer’s profit must be of a particular nature, eg: one for the sale
+of goods and not one of a more extensive nature involving work and labour as
+well as the goods or material supplied.  In my view it is the source of the
+profit, (arising out of processing) that is important . . . not the nature of
+the taxpayer’s contract with its customers.  24                              
+Rolls-Royce (Canada) Ltd. v. The Queen, 93 D.T.C. 5031 (F.C.A.),
+attempted to reconcile these diverging lines of authority by restricting Crown
+Tire’s reasoning to circumstances that do not evidence the manufacture of a
+discrete and identifiable good prior or contemporaneous to the provision of a
+service.  As stated by MacGuigan J.A. at p. 5034:  The crucial distinction between Crown Tire
+and Halliburton seems to me to be . . . that the processing in Crown
+Tire “did not involve the creation of a good antecedent to its use in the
+provision of a service”. . . . The rubber strip in Crown Tire was not on
+the evidence manufactured or processed by the taxpayer, whereas the cement in Halliburton
+was made by the taxpayer, indeed was custom-made according to very exact
+specifications.  25                              
+In Hawboldt Hydraulics, supra, the respondent taxpayer
+relied upon the Rolls-Royce interpretation of Crown Tire to claim
+a Class 29 accelerated capital cost allowance and s. 127(5) investment tax
+credit with respect to property used to manufacture parts for use in repair
+services.  Rejecting the taxpayer’s claim, the court reverted to the original Crown
+Tire approach.  Isaac C.J. wrote at p. 847:  We are invited by the modern rule of statutory interpretation to give
+those words their ordinary meaning.  But we are dealing with a commercial
+statute and in commerce the words have a meaning that is well understood. ... Strayer
+J. was right, in my respectful view, to say in Crown Tire, at page 225
+that:  ... one must assume that Parliament in speaking of “goods for sale or
+lease” had reference to the general law of sale or lease to give greater
+precision to this phrase in particular cases.  26                              
+In this appeal, Will-Kare admits that asphalt supplied in connection
+with its paving services is provided pursuant to a contract for work and
+materials.  Nevertheless, Will-Kare requests that we adopt the Halliburton
+and Nowsco ordinary meaning interpretation such that the manufacturing
+of goods for sale includes all manufactured goods supplied to a customer for
+consideration, regardless of whether paving services are provided in connection
+with that supply.  To the contrary, the respondent asserts that, as noted in Crown
+Tire and Hawboldt Hydraulics, use of the term sale in the
+manufacturing and processing incentives necessarily imports common law and
+statutory sale of goods concepts.  27                              
+Both parties make extensive reference to Hansard as support for their
+respective interpretations of Parliament’s intent in utilizing the words “goods
+for sale” in connection with the manufacturing and processing incentives.  I do
+not propose to review this legislative material as I generally agree with the
+characterization ascribed to it by Isaac C.J. in Hawboldt Hydraulics, supra,
+at pp. 846-47:  ... it is clear from the total context of the legislation, including
+the passages from the House of Commons Debates to which I have referred,
+that Parliament’s objective in enacting the legislation was encouragement of
+increased production of manufactured and processed goods to be placed on the
+domestic and international markets in competition with foreign manufacturers. 
+That that is the activity which Parliament sought to encourage is, to my mind,
+plain from the Debates.  It is equally plain that Parliament intended to
+benefit manufacturers and processors who engaged in those activities.  In other
+words, the relevant statutory provisions were designed to give Canadian
+manufacturers and processors an advantage over their foreign competitors in the
+domestic and foreign markets.  It is also clear that Parliament had in mind
+specific target groups and specific target activities.  The legislation was not
+intended to benefit every manufacturing activity or every manufacturer.  The
+language of the statute is clear that the activity to be benefited was the
+manufacture of goods for sale or lease ... .  28                              
+From the legislative material accompanying the manufacturing and
+processing incentives, it is clear that Parliament’s objective was to encourage
+the manufacturing and processing sector’s ability to address foreign
+competition in the domestic and international markets and foster increased
+employment in that sector of the Canadian economy.  Furthermore, it is clear
+that Parliament did not wish to define exhaustively the scope of manufacturing
+or processing, words which do not have distinct legal meanings, but left it to
+the courts to interpret this language according to common commercial use.  The
+language in Hansard is not helpful as to the meaning which Parliament intended
+to subscribe to the words “for sale or lease”.  It neither dictates, nor
+precludes, the application of common law sale of goods distinctions.  29                              
+Notwithstanding this absence of direction, the concepts of a sale or a
+lease have settled legal definitions.  As noted in Crown Tire and
+Hawboldt Hydraulics,  Parliament was cognizant of these meanings and the
+implication of using such language.  It follows that the availability of the
+manufacturing and processing incentives at issue must be restricted to property
+utilized in the supply of goods for sale and not extended to property primarily
+utilized in the supply of goods through contracts for work and materials.  30                              
+It is perhaps true, as Will-Kare submitted and as noted in Halliburton,
+supra, at p. 5338, that the use of sale of goods law distinctions
+sometimes yields the anomalous result that the provision of services in
+connection with manufactured and processed goods will disqualify property that
+would, but for the services, qualify for the incentives.  Nevertheless, it
+remains that in drafting the manufacturing processing incentives to include
+reference to sale or lease, Parliament has chosen to use language that imports
+relatively fine private law distinctions.  Indeed, the Act is replete with such
+distinctions.  Absent express direction that an interpretation other than that
+ascribed by settled commercial law be applied, it would be inappropriate to do
+so.  31                              
+To apply a “plain meaning” interpretation of the concept of a sale in
+the case at bar would assume that the Act operates in a vacuum, oblivious to
+the legal characterization of the broader commercial relationships it affects. 
+It is not a commercial code in addition to a taxation statute.  Previous
+jurisprudence of this Court has assumed that reference must be given to the
+broader commercial law to give meaning to words that, outside of the Act,
+are well-defined.  See Continental Bank Leasing Corp. v. Canada, [1998]
+2 S.C.R. 298.  See also P. W. Hogg, J. E. Magee and T. Cook, Principles of
+Canadian Income Tax Law (3rd ed. 1999), at p. 2, where the authors note:  The Income Tax Act relies implicitly on the general
+law, especially the law of contract and property. ... Whether a person is an
+employee, independent contractor, partner, agent, beneficiary of a trust or
+shareholder of a corporation will usually have an effect on tax liability and
+will turn on concepts contained in the general law, usually provincial law.  32                              
+Referring to the broader context of private commercial law in
+ascertaining the meaning to be ascribed to language used in the Act is also
+consistent with the modern purposive principle of statutory interpretation.  As
+cited in E. A. Driedger, Construction of Statutes (2nd ed. 1983), at p.
+87:  Today there is only one principle or approach,
+namely, the words of an Act are to be read in their entire context and in their
+grammatical and ordinary sense harmoniously with the scheme of the Act, the
+object of the Act, and the intention of Parliament.  See Rizzo
+& Rizzo Shoes Ltd. (Re), [1998] 1 S.C.R. 27, at para. 21.  The modern
+approach to statutory interpretation has been applied by this Court to the
+interpretation of tax legislation.  See 65302 British Columbia Ltd. v.
+Canada, [1999] 3 S.C.R. 804, at para. 5, per Bastarache J., and at
+para. 50, per Iacobucci J.; Stubart Investments Ltd. v. The Queen,
+[1984] 1 S.C.R. 536, at p. 578. 33                              
+The technical nature of the Act does not lend itself to broadening the
+principle of plain meaning to embrace popular meaning.  The word sale has an
+established and accepted legal meaning.  34                              
+Will-Kare’s submissions essentially advocate the application of an
+economic realities test to the interpretation of what constitutes a sale for
+the purpose of the manufacturing and processing incentives.  However, as noted
+above, in the absence of express legislative direction to the contrary, I view
+the incentives’ reference to the concepts of sale and lease as importing
+private law distinctions.  As such, the provisions at issue are clear and
+unambiguous and reference to economic realities is not warranted.  See Shell
+Canada Ltd. v. Canada, [1999] 3 S.C.R. 622, at para. 40.  35                              
+It would be open to Parliament to provide for a broadened definition of
+sale for the purpose of applying the incentives with clear language to that
+effect.  Given, however, the provisions merely refer to sale, it cannot be
+concluded that a definition other than that which follows from common law and
+sale of goods legislation was envisioned.  36                              
+For the taxation years in issue, approximately 75 percent of the asphalt
+produced by the Will-Kare’s plant was supplied in connection with Will-Kare’s
+paving services.  Thus the plant was used primarily in the manufacturing or
+processing of goods supplied through contracts for work and materials, not
+through sale.  Property in the asphalt transferred to Will-Kare’s customers as
+a fixture to real property.  37                              
+The principles enunciated in Crown Tire and Hawboldt
+Hydraulics, to the extent they dictate reference to a common law and
+statutory definition of sale, offer a guide preferable to the broader
+interpretation of sale described in Halliburton and Nowsco.  38                              
+Therefore I would dismiss the appeal with costs throughout.  The reasons of
+Gonthier, McLachlin and Binnie JJ. were delivered by  39                              
+Binnie J. (dissenting) — The fundamental issue in this case is the
+interpretation of everyday words used by Parliament in the context of a tax
+regime based on self-assessment.  In 1997, the last year for which precise
+statistics are available, 20,453,540 tax returns were filed with Revenue
+Canada.  Most taxpayers are not (and likely have no desire to be) learned in
+the law.  When confronted as here with the phrase “primarily
+in the manufacturing or processing of goods for sale or lease”
+under s. 127(9) of the Income Tax Act, S.C. 1970-71-72, c. 63 (“Act”), he or she is entitled, in my
+opinion, to the benefit of the plain meaning of an everyday word like “sale”.  The taxpayer was denied that
+benefit by the Minister in this case.  The millions of taxpayers who are not
+lawyers cannot be expected to reach for Benjamin’s Sale of Goods to
+research the difference between a contract for the sale of goods and a contract
+for work and materials and to apply these distinctions in the assessment of
+their own income tax liability.  I would therefore allow the appeal.  40                              
+The taxpayer appellant, who was originally in the paving business,
+expanded his operation to include the manufacture of asphalt, and thereafter
+claimed an accelerated capital cost allowance under s. 20(1)(a) of
+the Act.  (The appellant also seeks an investment tax credit pursuant to
+s. 127(5) of the Act.)  Entitlement to the accelerated capital cost
+allowance (“fast tax write-off”)
+turns on the taxpayer’s ability to demonstrate that its investment in the
+asphalt plant was made to acquire property  to be used
+directly or indirectly by him in Canada primarily in the manufacturing or
+processing of goods for sale or lease [emphasis added]   within the meaning of s. 20(1)(a)
+of the Act and Classes 39 and 29 in Schedule II of the Income Tax
+Regulations, C.R.C. 1978, c. 945.  Entitlement to the investment tax credit
+turns on similar wording in s. 127(9)(c)(i).  41                              
+The asphalt plant produced a manufactured product in a saleable
+condition.  The asphalt came fully into existence prior to any paving services
+being rendered, obviously.  The evidence is that about 25 percent of the
+product was appropriated by the taxpayer and sold as is to customers.  It
+disposed of the balance of the asphalt under various paving contracts for work
+and materials.  None of the asphalt was retained by the taxpayer.  The Minister
+denied the fast tax write-off because, while the asphalt plant produced a
+saleable product, the taxpayer chose to dispose of it primarily under contracts
+for work and materials rather than under contracts of sale within the meaning
+of the Sale of Goods Act, 1893 (U.K.), 56 & 57 Vict., c. 71, and
+various derivative provincial statutes.  42                              
+It is common ground that if the taxpayer had sold to its paving
+customers the asphalt in one contract and the installation of it in another, it
+would be entitled to the deduction.  43                              
+In this case, the Tax Court of Canada and the Federal Court of Appeal
+upheld the Minister’s decision based on an interpretation developed by
+Strayer J. in Crown Tire Service Ltd. v. The Queen, [1984] 2 F.C.
+219 (T.D.), where he said at p. 225:  While the distinctions employed here may seem somewhat technical and
+remote from revenue law, one must assume that Parliament in speaking of “goods for sale or lease” had
+reference to the general law of sale or lease to give greater precision to this
+phrase in particular cases.   44                              
+As applied to the facts of this case, however, the asphalt at the
+plant door was in fact “for sale”. 
+The Minister’s interpretation requires that the statutory text be supplemented
+with additional words so that, as extended, it would read “goods
+to be disposed of under contracts for sale or lease”. 
+I agree in this respect with the approach of Reed J. speaking
+of a comparable provision of the Act in Halliburton Services Ltd. v. The
+Queen, 85 D.T.C. 5336 (F.C.T.D.), at p. 5338, aff’d 90 D.T.C. 6320
+(F.C.A.):  It seems to me to be quite clear that what was intended was a tax
+deduction with respect to profit arising out of the manufacturing and
+processing of goods, not a requirement that the goods had to be sold in a
+particular fashion.   45                              
+Considerable argument was addressed to us and in the courts below about
+the percentage of asphalt that was disposed of under contracts of work and
+materials as opposed to contracts of sale.  This debate was precipitated by the
+word “primarily” in the
+definition.  In my view, the taxpayer’s case, if it is to succeed, does not
+turn on these percentages, but on the proposition that all of the asphalt
+produced at the plant was for sale and asphalt disposed of under a contract for
+work and materials was a “sale”
+of the manufactured asphalt within the plain meaning of the Act.  Contracts for Work and Material  46                              
+The appellant’s standard form customer contract was “for furnishing all
+labour, materials and equipment required for the performance” of the work.  In
+the sample contract provided in the appellant’s record, the handwritten
+notation undertook to “excavate unsuitable material, supply necessary gravel,
+grade, compact and pave with 2½" of asphalt”.  The global price for the
+job is then stipulated.  The evidence was that about half of the contract price
+was for materials, of which about half was for asphalt.  These percentages are
+not significant because the tax benefit relates not to a percentage of the
+paving contract price but to the $433,535 wholly spent to acquire the asphalt
+plant.  47                              
+I note at the outset that this case differs from the “repair cases” such
+as Rolls-Royce (Canada) Ltd. v. The Queen, 93 D.T.C. 5031 (F.C.A.),
+application for leave to appeal to the Supreme Court of Canada refused, [1993]
+2 S.C.R. x, where it was held that the overhauling of aircraft engines
+constituted “manufacturing or processing” but not “for sale” because the
+engines in issue were throughout owned by customers of the taxpayer.  Crown
+Tire, supra, is to the same effect.  No such issue arises here.  In
+the beginning, the taxpayer owned the asphalt.  At the end, the customer did. 
+The only issue on this appeal is whether the asphalt as manufactured was for
+sale.  48                              
+La Forest J. pointed out in H. W. Liebig & Co. v. Leading
+Investments Ltd., [1986] 1 S.C.R. 70, at p. 83, that “the primary meaning
+of sale is the transfer of property to another for a price”.  Referring to the
+definition in the Oxford English Dictionary of “sale” as “[t]he action or an act of
+selling or making over to another for a price; the exchange of a commodity for
+money or other valuable consideration”, La Forest J.
+said of the word “sale”, in the
+admittedly different context of a real estate purchase agreement, “I do not think the technical meaning that lawyers may attach
+to a word for certain purposes should be substituted for the ordinary meaning
+of that word in everyday speech unless there is evidence that the parties
+intended to use it in that special or technical sense”
+(p. 84).  In my view, ordinary words in the Act like “for
+sale” should also be interpreted in light of “the ordinary meaning of the word in everyday speech”.  Here, the supply of asphalt was specified, although the
+price was not allocated in the contract as between work and materials.  The
+customer’s objective was to obtain an asphalt driveway, and the services
+provided by the taxpayer were incidental to realization of that objective.  The
+price was paid, and the customer became the owner of the asphalt in his
+driveway.  The taxpayer and its customers were likely oblivious to the fact
+(relied on by the Minister) that, in the eye of the law, title to the steaming
+stretch of asphalt passed by accession.  49                              
+This Court has frequently endorsed the “plain
+meaning” rule of interpretation in relation to the
+Act.  A recent instance is Shell Canada Ltd. v. Canada, [1999] 3 S.C.R.
+622, per McLachlin J., as she then was, for the Court, at para. 40:  Where the
+provision at issue is clear and unambiguous, its terms must simply be applied.
+...   For this proposition, McLachlin
+J. cited Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298,
+at para. 51, per Bastarache J.; Tennant v. M.N.R., [1996] 1
+S.C.R. 305, at para. 16, per Iacobucci J.; Friesen v. Canada,
+[1995] 3 S.C.R. 103, at para. 11, per Major J.; Alberta (Treasury
+Branches) v. M.N.R., [1996] 1 S.C.R. 963, at para. 15, per Cory J. 50                              
+This is not to say that the “plain meaning” is to be applied by a court oblivious to the context.  In Stubart
+Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, at p. 578,
+Estey J. emphasized that “[c]ourts today apply to
+this statute [the Income Tax Act] the plain meaning rule, but in a
+substantive sense”, which he elaborated by reference to
+the oft-quoted passage from E. A. Driedger, Construction of Statutes
+(2nd ed. 1983), at p. 87 (which Driedger styled “the
+modern rule”):  Today there is only one principle or approach, namely, the words of an
+Act are to be read in their entire context and in their grammatical and
+ordinary sense harmoniously with the scheme of the Act, the object of the Act,
+and the intention of Parliament.   51                              
+“[W]ords, like people, take their colour from
+their surroundings”, observed Professor J. Willis at p.
+6 in “Statute Interpretation in a Nutshell” (1938), 16 Can. Bar Rev. 1, the classic article
+cited by Estey J. at p. 577 of Stubart Investments, supra.  More
+recently, Professor J. M. Kernochan has made a similar point:  “The precise words which are in issue in relation to the
+facts must be weighed in the light of successive circles of context” (“Statutory Interpretation: An Outline
+of Method” (1976), 3 Dalhousie L.J. 333, at
+pp. 348-49).  The Stubart Investments principles were further
+addressed by Cory J. in Alberta (Treasury Branches) v. M.N.R., supra,
+at para. 15:  Even if the
+ambiguity were not apparent, it is significant that in order to determine the
+clear and plain meaning of the statute it is always appropriate to consider the
+“scheme of the Act, the object of the Act, and the
+intention of Parliament”.   52                              
+In Québec (Communauté urbaine) v. Corp. Notre-Dame
+de Bon-Secours, [1994] 3 S.C.R. 3, Gonthier J., for the Court, cited
+and applied the Stubart Investments principles and, at p. 17, adopted
+the following statement as summarizing his conclusion on the issue of ambiguity
+in the legislative text:  There has been
+one distinct change [after Stubart], however, in the resolution of
+ambiguities.  In the past, resort was often made to the maxims that an
+ambiguity in a taxing provision is resolved in the taxpayer’s favour and that
+an ambiguity in an exempting provision is resolved in the Crown’s favour.  Now
+an ambiguity is usually resolved openly by reference to legislative intent. 
+[Emphasis added by Gonthier J.]   The emphasis on purposive
+interpretation in Notre-Dame de Bon-Secours, supra, is occasionally
+portrayed as somewhat out of step with the modern plain meaning rule:  see,
+e.g., B. J. Arnold, “Statutory Interpretation:  Some
+Thoughts on Plain Meaning”, in Report of Proceedings
+of the Fiftieth Tax Conference (1999), 6:1, at p. 6:20, but I don’t
+think this observation is correct.  The Notre-Dame de Bon-Secours judgment was directed
+against excessive resort to “predetermined presumptions” and advocated greater
+focus on the actual “legislative provision in question” (p. 20).  The Court
+held that where, after going through the Stubart Investments analysis, a
+court concludes that the words themselves do not disclose a “plain meaning”,
+other interpretive tools must necessarily gain in influence, including “the
+context of the statute, its objective and the legislative intent” (p. 20).  Far
+from downplaying the “plain meaning”, Gonthier J., at p. 21, was at pains to
+explore the statutory text, finally concluding at p. 27 that:  If the legislature had intended that the tax exemption of a
+reception centre should be subject to the existence of a permit issued by the
+proper authority, it would have said so expressly as it did for day-care
+centres.  The same textual argument can be drawn from s. 204(15)....   53                              
+The first rule identified in the Notre-Dame de Bon-Secours
+summary at p. 20 is that “[t]he interpretation of
+tax legislation should follow the ordinary rules of interpretation”.  The “ordinary rules” include the modern plain meaning rule, as noted by J. E.
+Fulcher, a tax counsel with the Department of Justice, in “The
+Income Tax Act:  The Rules of Interpretation and Tax Avoidance.  Purpose vs.
+Plain Meaning:  Which, When and Why?” (1995), 74 Can.
+Bar Rev. 563.  Commenting at p. 578 on the later case of Canada v.
+Antosko, [1994] 2 S.C.R. 312, he says:  [T]he case
+never gets beyond the first rule in Bon-Secours.  The ordinary rule of
+interpretation here is that unambiguous provisions are to be interpreted as
+written, and while finding ambiguity is a subjective undertaking, why come to
+the Finance Department’s aid when the provision is drafted with such blinding
+certainty?   54                              
+The primary rule of statutory interpretation is to ascertain the
+intention of Parliament.  Where the meaning of the words used is plain and no
+ambiguity arises from context, then the words offer the best indicator of
+Parliament’s intent:  R. v. McIntosh, [1995] 1 S.C.R. 686, at p. 697, per
+Lamer C.J., and at p. 712, per McLachlin J., dissenting.  No doubt the
+statement that words have a “plain meaning” is itself a conclusion based on a contextual analysis. 
+However, once the tools of interpretation have been deployed and the issue
+considered from the different perspectives identified by Professor Driedger, if
+the result of that exercise is the conclusion that the meaning of the words
+used by Parliament is plain, then effect must be given to them.  The Stubart
+Investments gloss on “plain meaning” was thus reaffirmed by Major J. in Friesen, supra,
+at para. 10.  He said that, if, after examining the context and purpose of the
+tax provision, the Court nevertheless concludes that “a
+provision is couched in specific language that admits of no doubt or ambiguity
+in its application to the facts, then the provision must be applied regardless
+of its object and purpose”: Friesen, supra,
+at para. 11, quoting P. W. Hogg and J. E. Magee, Principles
+of Canadian Income Tax Law (1995), at p. 454.  55                              
+The strength of the “plain meaning” rule is its recognition that it is the words of the
+provision themselves that constitute the vehicle used by Parliament to convey
+its intent to the people who are trying to assess their rights and tax
+liabilities under the Act.  As the Court said in Antosko, supra,
+at pp. 326-27:  While it is
+true that the courts must view discrete sections of the Income Tax Act
+in light of the other provisions of the Act and of the purpose of the
+legislation, and that they must analyze a given transaction in the context of
+economic and commercial reality, such techniques cannot alter the result where
+the words of the statute are clear and plain and where the legal and practical
+effect of the transaction is undisputed. . . .   56                              
+Even less attractive, I think, is the attempt in the present case to
+narrow the words “sale or lease”
+by reference to technical legal distinctions among various types of disposal
+contracts which are totally extraneous to the Act and are not easily accessible
+to the self-assessing taxpayer.  Apart from everything else, such imported
+technical distinctions may frustrate not only the plain meaning, but the
+legislative purpose of the tax provision.  Where (as here) Parliament has
+spoken in language that continues to speak plainly despite “successive
+circles of context”, I think the taxpayer is entitled
+to the benefit voted by Parliament.  It is the Minister (or the Minister’s
+colleague, the Minister of Finance) who recommended the particular wording to
+Parliament, and it is the Minister or his colleague who may recommend
+amendments to the Act if it is thought desirable to narrow the tax benefit.  Commentary
+by the Tax Bar  57                              
+The “plain meaning”
+approach as defined in Stubart Investments, supra, has been much
+discussed in the recent tax literature, including S. W. Bowman, “Interpretation of Tax Legislation:  The Evolution of
+Purposive Analysis” (1995), 43 Can. Tax J. 1167;
+Fulcher, supra; K. Sharlow, “The Interpretation
+of Tax Legislation and the Rule of Law – Rejoinder”
+(1996), 75 Can. Bar Rev. 151; R. Taylor, “The
+Interpretation of Fiscal Statutes:  The ‘Plain Meaning’ Approach in Recent
+Supreme Court of Canada Decisions”, in Report of
+Proceedings of the Forty-Eighth Tax Conference (1997), 64:1; Arnold, supra. 
+More recently still, the “plain meaning” rule has been discussed in detail and criticized by
+Professor D. G. Duff in two articles titled “Interpreting
+the Income Tax Act” (1999), 47 Can. Tax J. 464
+and 741.  At p. 770, Professor Duff says that by over-simplifying the
+interpretive task, the plain meaning rule in its pure form (i.e., before Estey
+J. married the “plain meaning”
+rule to Driedger’s “modern rule”
+in Stubart Investments, supra)  obscures the
+process of statutory interpretation, artificially limits its scope, produces
+decisions contrary to legislative intentions and statutory purposes, permits
+substantial judicial discretion, and places an unreasonable burden on
+legislative drafters.   Whatever might have been said
+about the original “plain meaning”
+rule, I do not think that the modern plain meaning rule spelled out in Stubart
+Investments is fairly subject to these criticisms.  58                              
+To take Professor Duff’s points in reverse order, I do not think it
+unreasonable to require the legislative drafter to make it plain (if such be
+the intent) that the product must not only be manufactured for sale, but must
+be disposed of under a specific type of contract, e.g., excluding contracts for
+work and materials.  It would be a simple matter to signal to the taxpayer in
+ordinary language that if he or she supplies services along with the
+manufactured product, the fast write-off and the investment tax credit will be
+forfeited.  59                              
+Secondly, adoption of the plain meaning in this case reduces rather than
+enlarges judicial discretion.  The Court respects the very words Parliament has
+used, and operates on the assumption that Parliament meant what it said:  Friesen,
+supra, at para. 53.  It does not complicate the Act with ideas borrowed
+from the Sale of Goods Act, 1893.  60                              
+Thirdly, a review of the related text in the Act and the legislative
+history confirms the fact that the “plain meaning” accords with Parliament’s intent expressed by the
+responsible Minister and senior officials, a type of evidence the Court has
+ruled admissible as part of the interpretive exercise:  Symes v. Canada,
+[1993] 4 S.C.R. 695, at pp. 749-50; Thibaudeau v. Canada, [1995] 2
+S.C.R. 627, at para. 173; Friesen, supra, at para. 63.  While the
+criticism may occasionally be made that “[j]udges have
+considerable freedom in formulating their descriptions of legislative purpose” (R. Sullivan, Driedger on the Construction of
+Statutes (3rd ed. 1994), at p. 60), the fact is that in this case there is
+a wealth of authoritative guidance on point.  61                              
+On May 8, 1972, the Minister of Finance, the Honourable John
+Turner, introduced to the House of Commons a tax amendment to
+permit machinery and equipment required for manufacturing operations to be
+written off within two years (“the fast write-off”) to provide “a substantial
+incentive for the establishment in Canada of new manufacturing enterprises and
+the expansion of existing enterprises by increasing the return that can
+ultimately be realized on capital investment” (House of Commons Debates,
+vol. III, 4th Sess., 28th Parl., at p. 2002).  A major emphasis was on creating
+jobs.  Asphalt plants create jobs irrespective of the form of the asphalt
+disposal contract.  62                              
+The Minister of Finance returned to the theme of encouraging investment
+in manufacturing facilities in his budget address of February 19, 1973 (House
+of Commons Debates, vol. II, 1st Sess., 29th Parl., at p. 1428), and in the
+post-budget debate on June 13, 1973, when he pointed out that “increasing the
+after-tax rate of return on investment, these measures will help to achieve
+these national objectives by encouraging the establishment in many parts of the
+country of new manufacturing and processing industries and of supporting
+service industries” (House of Commons Debates, vol. V, 1st Sess., 29th
+Parl., at p. 4725).  Whatever else may be said of the taxpayer’s activities in
+this case, it acquired a new manufacturing plant and it worked the plant in
+conjunction with its paving service business.  63                              
+On June 23, 1975, the Finance Minister returned to the same theme,
+explaining that “I am therefore proposing to introduce an investment tax credit
+as a temporary extra incentive for investment in a wide range of new productive
+facilities” (House of Commons Debates, vol. VII, 1st Sess., 30th Parl.,
+at p. 7028).  64                              
+In the same year, he explained to the Canadian Tax Foundation that:  We want the
+application of the policy to be clear as well.  Grey areas in tax
+administration are no more popular with governments than with taxpayers.  To apply the reduced rate, a taxpayer must be able to answer two
+questions:  Am I carrying
+on a manufacturing or processing activity?  If I am, how
+much of my business income is subject to the reduced rate?  (“Banquet
+Address”, in Report of Proceedings of the Twenty-Fourth Tax Conference
+(1973), 278, at p. 281.)   65                              
+In the following year, R. D. Weil, C.A., of the Technical
+Interpretations Division of the Department of National Revenue, further
+explained the tax changes in an address to the Canadian Tax Foundation and gave
+an example which is apposite in the present appeal:  Where a
+company enters into a supply and erect contract, the off-site
+manufacturing of building products is not considered to be construction,
+whereas the activities of erecting and installing these products in place at
+the construction site are considered to be construction.  Where a building
+product such as ready-mix concrete or asphalt is manufactured or
+processed off site and then is installed at the place of construction by
+the same company, some concern may exist that there is no sale of the
+concrete or asphalt.  In these and similar circumstances, the product is
+considered to be sold at the time the completed structure is sold and therefore
+such activities will qualify.  [Italics in original; underlining added.]  (“Manufacturing
+and Processing Tax Incentives”, in Report of Proceedings of the Twenty-Fifth
+Tax Conference (1974), 124, at p. 127.)   66                              
+Administrative policy and interpretation are not determinative but are
+entitled to weight and can be an important factor in case of doubt about the
+meaning of legislation: Harel v. Deputy Minister of Revenue of Quebec,
+[1978] 1 S.C.R. 851, at p. 859, per de Grandpré J.; Nowegijick v. The
+Queen, [1983] 1 S.C.R. 29, at p. 37, per Dickson J. 
+Bulletin No. IT-145 issued by the Department of National Revenue on February 5,
+1974, incorporated Mr. Weil’s interpretation as follows:  9.    Where a
+building product such as ready-mix concrete or asphalt is manufactured
+or processed off site and then is installed at the place of construction by
+the same corporation, some concern may exist that there is no sale of the
+concrete or asphalt.  In these and similar circumstances, the product is
+considered to be sold at the time the completed structure is sold and
+therefore such activities will qualify.  [Emphasis added.]   67                              
+These comments seem directed to construction projects which are a traditional
+heartland of work and materials contracts, and, I think, undermine the
+Minister’s narrow interpretation urged here.  68                              
+Moreover, this legislative history makes it clear that the distinction
+drawn from the niceties of contract law adopted by the Minister and the courts
+below to defeat the taxpayer’s claim is unrelated to the purpose of the
+deductions.  By basing the availability of the tax incentives on the
+distinction between a contract for the sale of goods and a contract for work
+and materials, the Minister applies doctrines developed in a non-tax context
+aimed at the totally different (and irrelevant) law governing the rights and
+obligations of buyers and sellers.  There are, no doubt, provisions in the Income
+Tax Act which require for their proper understanding resort to commercial
+law or accounting practice, but the provisions at issue in the present appeal
+are not among them.  69                              
+Notre-Dame de Bon-Secours, supra, at p. 18, recognized
+that, while at one time tax legislation was arguably limited to raising funds
+to cover government expenses, “[i]n our time it has been recognized that such
+legislation serves other purposes and functions as a tool of economic and social
+policy.  . . .  Both are legitimate purposes which equally embody the
+legislative intent and it is thus hard to see why one should take precedence
+over the other.”  In my view, the legislative purpose here is to give positive
+encouragement to manufacturing and processing plants.  This corroborates and
+reinforces the “plain meaning” of the Act.  70                              
+While the plain meaning principle to some extent limits the scope of the
+interpretive exercise, it does not do so “artificially”.  It arrives at the
+intent of Parliament by the most direct route, namely by giving effect to the
+words Parliament has used where Parliament has made its meaning plain.  While
+there is little danger that the Act will ever become user-friendly or self-explanatory,
+it is of particular importance in a self-assessment tax system to promote an
+interpretation of provisions, where possible, that is comprehensible to the
+taxpayers themselves.  Disposition  71                              
+I would therefore allow the appeal and remit the matter to the Minister
+to be dealt with in accordance with these reasons.  Appeal
+dismissed with costs, Gonthier,
+McLachlin and Binnie JJ. dissenting.  Solicitors
+for the appellant:  Philip Anisman, Toronto; Burchell MacDougall,
+Truro, Nova Scotia.  Solicitor
+for the respondent:  The Department of Justice, Halifax.   

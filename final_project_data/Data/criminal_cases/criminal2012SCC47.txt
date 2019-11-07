@@ -1,0 +1,1035 @@
+  SUPREME
+COURT OF CANADA  Citation:
+  R. v. Mabior, 2012 SCC 47,
+  [2012] 2 S.C.R. 584 Date:
+  20121005 Docket:
+  33976  Between: Her
+Majesty The Queen Appellant and Clato
+Lual Mabior Respondent -
+and - Canadian
+HIV/AIDS Legal Network, HIV & AIDS Legal Clinic Ontario, Coalition des
+organismes communautaires québécois de lutte contre le sida, Positive Living
+Society of British Columbia, Canadian AIDS Society, Toronto People With AIDS
+Foundation, Black Coalition for AIDS Prevention, Canadian Aboriginal AIDS
+Network, British Columbia Civil Liberties Association, Criminal Lawyers’
+Association of Ontario, Association des avocats de la défense de Montréal and Institut
+national de santé publique du Québec Interveners    Coram: McLachlin C.J. and LeBel, Deschamps, Fish, Abella, Rothstein,
+Cromwell, Moldaver and Karakatsanis JJ.  Reasons for
+  Judgment: (paras. 1 to 110) McLachlin C.J. (LeBel, Deschamps, Fish, Abella, Rothstein,
+  Cromwell, Moldaver and Karakatsanis JJ. concurring)     R. v. Mabior, 2012 SCC
+47, [2012] 2 S.C.R. 584  Her Majesty The
+Queen                                                                                  Appellant v. Clato Lual
+Mabior                                                                                        Respondent and Canadian HIV/AIDS Legal Network, HIV & AIDS Legal Clinic Ontario,
+Coalition des organismes communautaires québécois de lutte contre le sida,
+Positive Living Society of British Columbia, Canadian AIDS Society, Toronto
+People With AIDS Foundation, Black Coalition for AIDS Prevention,
+Canadian Aboriginal AIDS Network, British Columbia Civil Liberties
+Association, Criminal Lawyers’ Association of
+Ontario, Association des avocats de la défense de
+Montréal and Institut
+national de santé publique du Québec                                           Interveners Indexed as:  R. v. Mabior 2012 SCC 47 File No.:  33976. 2012:  February 8; 2012:  October 5. Present:  McLachlin C.J. and LeBel, Deschamps, Fish, Abella,
+Rothstein, Cromwell, Moldaver and Karakatsanis JJ. on appeal from the court of appeal for manitoba                     Held:
+ The appeal should be allowed in part and the convictions in respect of the
+complaints by S.H., D.C.S. and D.H. should be restored.  The appeal should be dismissed
+in respect of the complaint by K.G.                     The
+Cuerrier requirement of “significant risk of serious bodily harm” should
+be read as requiring disclosure of HIV status if there is a realistic
+possibility of transmission of HIV.  This view is supported by the common law
+and statutory history of fraud vitiating consent to sexual relations, and is in
+line with Charter values of autonomy and equality that respect the
+interest of a person to choose whether to consent to sex with a particular person
+or not.  It also gives adequate weight to the nature of the harm involved in
+HIV transmission, and avoids setting the bar for criminal conviction too high
+or too low.  If there is no realistic possibility of transmission of HIV,
+failure to disclose that one has HIV will not constitute fraud vitiating
+consent to sexual relations under s. 265(3) (c).                     The
+evidence adduced in this case leads to the conclusion that, as a general
+matter, a realistic possibility of transmission of HIV is negated if: 
+(i) the accused’s viral load at the time of sexual relations was low and
+(ii) condom protection was used.  This general proposition does not
+preclude the common law from adapting to future advances in treatment and to
+circumstances where risk factors other than those considered in this case are
+at play. Cases Cited Statutes and Regulations Cited Canadian Charter of Rights and Freedoms,
+s. 7 . Crimes Act 1958 (Vic.), ss. 22, 23. Crimes Act 1961 (N.Z.), 1961, No. 43,
+ss. 145, 188(2). Criminal Code, 1892, S.C. 1892, c. 29,
+ss. 259(b), 266. Criminal Code Act (N.T.), ss. 174C,
+174D. Criminal Law Consolidation Act 1935 (S.A.),
+s. 29. Offences against the Person Act, 1861
+(U.K.), 24 & 25 Vict., c. 100, ss. 18, 20. Authors Cited Bingham, Tom.  The Rule of Law.  London: 
+Allen Lane, 2010. Burris, Scott, et al. “Do Criminal Laws Influence HIV Risk
+Behavior?  An Empirical Trial” (2007), 39 Ariz. St. L.J. 467. Leigh, L. H.  “Two cases on consent in rape” (2007), 5 Arch. News
+6. Wainberg, Mark A.  “Criminalizing HIV transmission may be a
+mistake” (2009), 180 C.M.A.J. 688.                     APPEAL
+from a judgment of the Manitoba Court of Appeal (Steel, MacInnes and Beard
+JJ.A.), 2010 MBCA 93, 258 Man. R. (2d) 166, 261 C.C.C. (3d) 520, 79 C.R. (6th)
+1, [2011] 2 W.W.R. 211, [2010] M.J. No. 308 (QL), 2010 CarswellMan 587, setting
+aside convictions for aggravated sexual assault entered by McKelvey J.,
+2008 MBQB 201, 230 Man. R. (2d) 184, [2008] M.J. No. 277 (QL), 2008
+CarswellMan 406.  Appeal allowed in part.                     Elizabeth Thomson
+and Ami Kotler, for the appellant.                     Amanda Sansregret
+and Corey La Berge, for the respondent.                     Jonathan Shime, Corie
+Langdon, Richard Elliott and Ryan Peck, for the interveners the
+Canadian HIV/AIDS Legal Network, the HIV & AIDS Legal Clinic Ontario,
+Coalition des organismes communautaires québécois de lutte contre le sida, the
+Positive Living Society of British Columbia, the Canadian AIDS Society, the
+Toronto People With AIDS Foundation, the Black Coalition for AIDS Prevention
+and the Canadian Aboriginal AIDS Network.                     Michael A. Feder and Angela M. Juba, for the intervener the British
+Columbia Civil Liberties Association.                     P. Andras Schreck and Candice Suter, for the intervener the Criminal Lawyers’
+Association of Ontario.                     François Dadour, for the intervener Association des avocats de la défense de
+Montréal.                     Lucie Joncas and
+François Côté, for the intervener Institut national de santé publique du
+Québec.                      The judgment of the Court was delivered
+by                      The Chief Justice — I.       Overview [1]                             
+This case raises the issue of whether an
+HIV-positive person who engages in sexual relations without disclosing his
+condition commits aggravated sexual assault. [2]                             
+Sex without consent is sexual assault under s.
+265  of the Criminal Code, R.S.C. 1985, c. C-46 .  R. v. Cuerrier,
+[1998] 2 S.C.R. 371, establishes that failure to advise a partner of one’s HIV
+status may constitute fraud vitiating consent.  Because HIV poses a risk of
+serious bodily harm, the operative offence is one of aggravated sexual assault,
+attracting a maximum sentence of life imprisonment: Cuerrier, at para.
+95; ss. 265 , 268  and 273  Cr. C. [3]                             
+While Cuerrier laid down the basic
+requirements for the offence, the precise circumstances when failure to
+disclose HIV status vitiates consent and converts sexual activity into a
+criminal act remain unclear.  The parties ask this Court for clarification. [4]                             
+I conclude that a person may be found guilty of
+aggravated sexual assault under s. 273  of the Criminal Code  if he fails
+to disclose HIV-positive status before intercourse and there is a realistic
+possibility that HIV will be transmitted.  If the HIV-positive person has a low
+viral count as a result of treatment and there is condom protection, the
+threshold of a realistic possibility of transmission is not met, on the
+evidence before us. II.     Background [5]                             
+The respondent, Mr. Mabior, lived in Winnipeg. 
+His house was a party place.  People came in and out, including a variety of
+young women.  Alcohol and drugs were freely dispensed.  From time to time, Mr.
+Mabior had sex with women who came to his house, including the nine
+complainants in this case. [6]                             
+Mr. Mabior did not tell the complainants that he
+was HIV-positive before having sex with them; indeed, he told one of them that
+he had no STDs.  On some occasions, he wore condoms, on others he did not. 
+Sometimes the condoms broke or were removed, and in some cases, the precise
+nature of the protections taken is unclear.  Eight of the nine complainants
+testified that they would not have consented to sex with Mr. Mabior had they
+known he was HIV-positive.  None of the complainants contracted HIV. [7]                             
+Mr. Mabior was charged with nine counts of
+aggravated sexual assault (and other related offences), based on his failure to
+disclose to the complainants that he was HIV-positive.  In defence, Mr. Mabior
+called evidence that he was under treatment, and that he was not infectious or
+presented only a low risk of infection at the relevant times. [8]                             
+The trial judge convicted Mr. Mabior of six
+counts of aggravated sexual assault (2008 MBQB 201, 230 Man. R. (2d) 184).  She
+acquitted him on the other three, on the basis that sexual intercourse using a
+condom when viral loads are undetectable does not place a sexual partner at
+“significant risk of serious bodily harm”, as required by Cuerrier. [9]                             
+Mr. Mabior appealed from these six convictions;
+the Crown did not appeal from the three acquittals.  The Manitoba Court of
+Appeal varied the trial judge’s decision, holding that either low viral
+loads or condom use could negate significant risk (2010 MBCA 93, 258
+Man. R. (2d) 166).  This reduced to two the counts on which Mr. Mabior could be
+convicted, and the Court of Appeal entered acquittals on the four remaining
+counts.  The Crown appeals these acquittals.  Mr. Mabior has not cross-appealed
+against the two convictions upheld by the Court of Appeal. III.    The Legislation [10]                         
+Sections 265  and 273  of the Criminal Code  provide:                            265. (1)  A person commits an assault when                            (a)     without
+the consent of another person, he applies force intentionally to that
+other person, directly or indirectly; . . .                            (2)     This
+section applies to all forms of assault, including
+sexual assault . . . and aggravated sexual assault.                            (3)     For
+the purposes of this section, no consent is obtained where the complainant
+submits or does not resist by reason of . . .                            (c)     fraud; .
+. .                            273. (1)  Every one commits an aggravated sexual assault who, in committing a sexual assault,
+wounds, maims, disfigures or endangers the life of the complainant.                            (2)     Every
+person who commits an aggravated sexual assault is guilty of an indictable
+offence and liable . . .                            (b)     in any other case, to imprisonment
+for life. IV.    The Issues [11]                         
+The issues are as follows: A.          What
+is the correct interpretation of “fraud” vitiating consent to sexual activity
+in s. 265(3) (c) of the Criminal Code ?             (1)        Problems
+with the existing interpretation of “fraud” vitiating consent:                         (a)     Uncertainty;                         (b)     Breadth.             (2)        Guides
+to interpretation:                         (a)     The
+purposes of the criminal law;                         (b)     The
+common law and statutory history of fraud vitiating consent to sexual
+relations;                         (c)     Charter 
+values;                         (d)    The
+experience of other common law jurisdictions.             (3)        Finding
+a solution:                         (a)     The
+active misrepresentation approach;                         (b)     The
+absolute disclosure approach;                         (c)     A
+case-by-case fact-based approach;                         (d)    Judicial
+notice;                         (e)     Relationship-based
+distinctions;                         (f)     The
+reasonable partner approach;                         (g)     An
+evolving common law approach.             (4)        Realistic
+possibility of HIV transmission. V.     Discussion A.     What is the Correct Interpretation of “Fraud” Vitiating
+Consent to Sexual Activity in Section 265(3) (c) of the Criminal Code ?          (1)      Problems With the
+Existing Interpretation of “Fraud” Vitiating Consent [12]                         
+This Court considered “fraud” under s. 265(3) (c) 14 years
+ago in Cuerrier.  The majority test in Cuerrier may
+be stated in different ways, but boils down to two elements: (1) a dishonest
+act (either falsehoods or failure to disclose HIV status); and (2) deprivation
+(denying the complainant knowledge which would have caused her to refuse sexual
+relations that exposed her to a significant risk of serious bodily harm). [13]                         
+We are invited to revisit the Cuerrier test by
+the parties and by the Manitoba Court of Appeal in this case and the Quebec
+Court of Appeal in the companion case of R. v. D.C., 2012 SCC 48, [2012]
+2 S.C.R. 626.  Two main criticisms of the Cuerrier test are advanced:
+first, that it is uncertain, failing to draw a clear line between criminal and
+non-criminal conduct (uncertainty), and second, that it either overextends the
+criminal law or confines it too closely — the problem of breadth. [14]                         
+I turn first to the criticism that the Cuerrier test is
+uncertain. It is a fundamental requirement of the rule of law
+that a person should be able to predict whether a particular act constitutes a
+crime at the time he commits the act.  The rule of law requires that laws
+provide in advance what can and cannot be done:  Lord Bingham, The Rule of
+Law (2010).  Condemning people for conduct that they could not have
+reasonably known was criminal is Kafkaesque and anathema to our notions of
+justice.  After-the-fact condemnation violates the concept of liberty in s. 7 
+of the Canadian Charter of Rights and Freedoms  and has no place in the
+Canadian legal system. [15]                         
+The Cuerrier test gives rise to two
+uncertainties — what constitutes “significant risk” and what constitutes
+“serious bodily harm”?  These terms are broad and different people can and do
+read them in different ways. [16]                         
+About “significant risk”, some people say that
+virtually any risk of serious bodily harm is significant.  Others argue that to
+be significant, the risk must rise to a higher level.  These debates centre on
+statistical percentages.  Is a 1% risk “significant”?  Or should it be 10% or
+51% or, indeed, .01%?  How is a prosecutor to know or a judge decide?  And if
+prosecutors, defence counsel and judges debate the point, how — one may ask —
+is the ordinary Canadian citizen to know?  This uncertainty is compounded by
+the fact that a host of variables may affect the actual risk of infection. [17]                         
+Debate has also surrounded the requirement that
+the risk be one of “serious bodily harm”.  Some sexually transmitted diseases (“STDs”)
+involve little beyond treatable temporary discomfort.  Yet even that
+discomfort, while it persists, may be serious from the perspective of the
+victim.  Other STDs, like HIV, are extremely serious, involving permanent and
+life-altering symptoms, and in some cases death.  Between these two extremes
+lie many other STDs, some more debilitating than others.  Which are
+sufficiently serious to attract the sanction of the criminal law?  Cuerrier offers
+no clear answer. [18]                         
+The uncertainty inherent in the concepts of
+significant risk and serious bodily harm is compounded by the fact that they
+are interrelated.  The more serious the nature of the harm, the lower the probability
+of transmission need be to amount to a significant risk of serious bodily harm,
+it is argued.  So it is not simply a matter of percentage of risk and
+seriousness of the potential disease.  It is a matter of the two as they relate
+to each other. [19]                         
+What emerges is a complex calculus that makes it
+impossible, in many cases, to predict in advance whether a particular act is
+criminal under s. 265(3) (c) or not. The second major criticism of Cuerrier
+relates to the scope of the conduct it catches. The danger of an overbroad
+interpretation is the criminalization of conduct that does not present the
+level of moral culpability and potential harm to others appropriate to the
+ultimate sanction of the criminal law.  A criminal conviction and imprisonment,
+with the attendant stigma that attaches, is the most serious sanction the law
+can impose on a person, and is generally reserved for conduct that is highly
+culpable — conduct that is viewed as harmful to society, reprehensible and
+unacceptable.  It requires both a culpable act — actus reus — and a
+guilty mind — mens rea — the parameters of which should be clearly
+delineated by the law.          (2)      Guides to
+Interpretation [20]                         
+As for all issues of statutory interpretation,
+the basic question is what Parliament intended. That intention is discovered by
+looking at the words of the provision, informed by its history, context and
+purpose. [21]                         
+The words of s. 265(3) (c) do not on their
+face reveal much about how Parliament intended “fraud” to be interpreted.  The
+concept was taken by Parliament from the common law. [22]                         
+The interpretation of “fraud” vitiating consent
+to sexual relations is informed by four considerations: (a) the purposes of the
+criminal law; (b) the common law and statutory history of the concept; (c) Charter 
+values, particularly equality, autonomy, liberty, privacy and human
+dignity; and (d) the experience of other common law jurisdictions.  I will
+consider each in turn.                  (a)      The Purposes of
+the Criminal Law [23]                         
+The interpretation of fraud vitiating consent to
+sexual relations should further the purposes of the criminal law, notably
+identifying, deterring and punishing criminal conduct, defined by a wrongful
+act and guilty mind. Morality infuses the criminal law.  But the law
+does not seek to criminalize all immorality.  The principal objective of the
+criminal law is the public identification of wrongdoing qua wrongdoing
+which violates public order and is so blameworthy that it deserves penal
+sanction: Proprietary Articles Trade Association v. Attorney-General for
+Canada, [1931] A.C. 310 (P.C.); Reference re Validity of Section 5(a) of
+the Dairy Industry Act, [1949] S.C.R. 1, aff’d [1951] A.C. 179 (P.C.); Lord’s
+Day Alliance of Canada v. Attorney General of British Columbia, [1959]
+S.C.R. 497; The Queen v. Sault Ste. Marie, [1978] 2 S.C.R. 1299; Boggs
+v. The Queen, [1981] 1 S.C.R. 49; Skoke-Graham v. The Queen, [1985]
+1 S.C.R. 106. [24]                         
+The law draws a sharp distinction between civil
+wrongdoing and criminal wrongdoing.  Criminal conduct requires both a wrongful
+act and a guilty mind.  It requires “a significant fault element”: R. v. Roy,
+2012 SCC 26, [2012] 2 S.C.R. 60, at para. 32.  As Charron J. stated for
+the majority of this Court in R. v. Beatty, 2008 SCC 5, [2008] 1 S.C.R.
+49, at para. 34:                     If
+every departure from the civil norm is to be criminalized, regardless of the
+degree, we risk casting the net too widely and branding as criminals persons
+who are in reality not morally blameworthy.  Such an approach risks violating
+the principle of fundamental justice that the morally innocent not be deprived
+of liberty. The potential consequences of a
+conviction for aggravated sexual assault — up to life imprisonment — underline
+the importance of insisting on moral blameworthiness in the interpretation of
+s. 265(3) (c) of the Criminal Code .                     (b)      The Common Law and Statutory History
+of Fraud Vitiating Consent to Sexual Relations [25]                         
+The common law history of fraud vitiating
+consent to sexual relations reveals three periods.  The early cases support the
+view that failure to disclose to a partner the fact that one has a serious
+sexually transmitted disease could constitute fraud vitiating consent to sexual
+relations, resulting in convictions for rape or assault.  This was reversed in The
+Queen v. Clarence (1888), 22 Q.B.D. 23 (Cr. Cas. Res.), which held that
+fraud was confined to deception as to the sexual nature of the act or as to the
+identity of the male sexual partner.  In the post-Charter  era, a return
+to a broader view of fraud vitiating consent is appropriate. [26]                         
+The first recorded cases to look at the problem
+before us took a generous approach to consent to sexual intercourse — one that
+accepted that sexual partners (always women in those days) were entitled to
+refuse sexual intercourse and should not be tricked into it by deceit.  The
+courts adopted a flexible approach to “fraud” vitiating consent to sexual
+relations.  Without attempting to define the term, they showed themselves
+willing to extend the term to fundamental aspects of sexual intercourse. [27]                         
+For example, in R. v. Flattery (1877), 13
+Cox C.C. 388 (C.C.A.), a conviction of rape was upheld for a man operating a
+booth at a fair who had obtained sex from a girl of 19 on the pretext of
+medical treatment.  It was held that the victim’s consent to physical contact
+with the accused was vitiated by his fraud, because she had only consented to a
+surgical operation, and not to a sexual act. [28]                         
+Similarly, early common law cases accepted that
+impersonation of the spouse — falsely pretending to be the victim’s husband —
+could constitute fraud vitiating consent.  In R. v. Dee (1884), 15 Cox
+C.C. 579 (Cr. Cas. Res. Ir.), O’Brien J. left no doubt on this issue:                     That
+brings us back to the question which in law is the crime of rape.  The crime is
+the invasion of a woman’s person without her consent, and I see no real
+difference between the want of consent and the act being against her will,
+which is the language of the indictment, though the distinction is taken by
+Lord Campbell, or between the negation of consent and positive dissent. 
+Whether the act of consent be the result of overpowering force, or of fear, or
+of incapacity, or of natural condition, or of deception, it is still want of
+consent, and the consent must be, not consent to the act, but to the act of the
+particular person — not in the abstract, but in the concrete . . . . [p. 598] [29]                         
+In R. v. Bennett (1866), 4 F. & F.
+1105, 176 E.R. 925 (West. Cir.), similar reasoning was applied to hold that
+concealment of venereal disease amounted to fraud vitiating consent:                     An
+assault is within the rule that fraud vitiates consent, and therefore, if the
+prisoner, knowing that he had a foul disease, induced his niece to sleep with
+him, intending to possess her, and infected her, she being ignorant of his
+condition, any consent, which she may have given, would be vitiated, and the
+prisoner would be guilty of an indecent assault. [p. 925] [30]                         
+Again in R. v. Sinclair (1867), 13 Cox
+C.C. 28, the Central Criminal Court found fraud vitiating consent for
+non-disclosure of gonorrhœa,
+stating that if the complainant “would not have consented if she had known the
+fact, then her consent is vitiated by the deceit practised upon her, and the
+prisoner would be guilty of an assault” (p. 29). [31]                         
+These cases evinced a generous approach to the
+issue of consent and when deceit might vitiate it, an approach that respected
+the right of the women involved to choose whether to have intercourse or not. 
+However, this jurisprudence was shortly to be set aside, in a series of cases
+which culminated in Clarence.  To read these cases is to enter a
+world foreign to modern sensitivities — the world of Victorian morality. [32]                         
+The case that announced the change was Hegarty
+v. Shine (1878), 14 Cox C.C. 124 (H.C.J. Ir. (Q.B.D.)), a civil case
+involving an action for assault.  Mr. Shine, the master of the house, had sexual
+relations with his domestic servant over a period of two years.  She became
+pregnant and had a child.  Both she and the child were infected with syphilis. 
+The court dismissed the action against Mr. Shine on the basis of ex turpi
+causa non oritur actio — the plaintiff was the victim of her own
+immoral act, which the law could not condone.  On the matter of fraud, the
+majority stated that the doctrine of fraud was confined to mistake as to
+whether the act was sexual or not: “In the case before us the defendant
+actively consented to the very thing, that is to say, sexual intercourse, with
+full knowledge and experience of the nature of the act” (p. 130).  The appeal
+court ((1878), 14 Cox C.C. 145) confirmed that only deceit as to the nature of
+the act could vitiate consent.  The court emphasized the pitiable condition of
+the victim, but concluded the law could not assist her. [33]                         
+The point of no return for the earlier, more
+open view of fraud was reached in Clarence.  That case confirmed that
+fraud could vitiate consent to sexual relations only if the complainant was
+deceived as to the sexual nature of the act or as to the identity of the
+man.  The facts were simple.  The couple were married.  The husband did not
+tell his wife he had gonorrhœa
+and infected her.  The husband was charged with assault and unlawful infliction
+of bodily harm. [34]                         
+The fact that 13 judges sat suggests the case
+was viewed as important. The court divided nine to four, and the husband was
+acquitted.  The majority held that fraud in the context of sexual relations had
+been interpreted too broadly by the earlier cases, and that it was necessary to
+limit its application to situations where the complainant was deceived as to
+the sexual nature of the act or as to the identity of the man.  This produced a
+rule that was to prevail for almost 100 years that fraud could not vitiate
+consent to sexual intercourse unless it went to the “sexual nature of the act”
+or to the identity of the sexual partner. [35]                         
+The opinion of Stephen J. encapsulates the view
+of the majority in Clarence.   Stephen J. found that the offence of
+unlawful infliction of bodily harm could not apply to the case.  While the act
+posed by the husband was indeed unlawful — infecting one’s wife was forbidden
+by the law relating to marriage since it constituted cruelty and could be
+evidence of adultery —, it could not be said that it
+constituted infliction of bodily harm.  Indeed, the words “infliction of bodily
+harm” were construed as requiring a physical assault.  Stephen J. found that
+infecting a person with a disease did not constitute such an assault. [36]                         
+Stephen J. went on to consider the question of
+obtaining sexual relations by fraud.  He expressed the view that the only fraud
+capable of vitiating consent to sexual relations was fraud as to the nature of
+the act of intercourse, or as to the identity of the sexual partner.  If the
+victim knew the act was sexual, and was not deceived as to the identity of her
+partner, she could not complain that she had been deceived and her “consent”
+fraudulently obtained.  Stephen J. commented briefly that neither Bennett nor
+Sinclair could be relied upon as precedent. [37]                         
+The reasons of Pollock B., also in the majority,
+added that sexual acts done by a husband to his wife cannot be unlawful (pp.
+63-64).  The husband possessed conjugal rights over his wife to which she had
+consented by marrying him.  Once married, the wife had no right to refuse her
+husband’s demands.  Since sexual acts between spouses were lawful, Pollock B.
+reasoned, all such acts done by a husband — including those characterized by
+cruelty — must be lawful. [38]                         
+The Clarence test was accepted throughout
+the common law world and prevailed until recent times.  The strictness with
+which it was applied is illustrated by a 1957 decision of the Australian High
+Court, Papadimitropoulos v. The Queen (1957), 98 C.L.R. 249.  The
+accused had induced the complainant to have sexual intercourse by duping her
+into believing that they were legally married. He was acquitted of the charge
+of rape.  The court summed up the law as follows:                     To
+say that in having intercourse with him she supposed that she was concerned in
+a perfectly moral act is not to say that the intercourse was without her
+consent.  To return to the central point; rape is carnal knowledge of a woman
+without her consent: carnal knowledge is the physical fact of penetration; it
+is the consent to that which is in question; such a consent demands a
+perception as to what is about to take place, as to the identity of the man and
+the character of what he is doing.  But once the consent is comprehending
+and actual the inducing causes cannot destroy its reality and leave the man
+guilty of rape. [Emphasis added; p. 261.] [39]                         
+The views of the majority in Clarence were
+reflected in the first Canadian Criminal Code in 1892 (S.C. 1892, c. 29). 
+Parliament defined fraud for purposes of rape and indecent assault narrowly, by
+restricting it to “false and fraudulent representations as to the nature and
+quality of the act”: ss. 259(b) and 266.  The Code thus
+incorporated the concerns of the majority in Clarence.  The deceitful
+act was limited to “false and fraudulent representations” by opposition to
+simple concealment, and the subject of the fraud was limited to the “nature and
+quality of the act”.  As a consequence, Canadian courts accepted Clarence as
+settled law and continued to hold that only active fraud as to the
+nature of the act, i.e. fraud as to its sexual character, or as to the identity
+of one’s sexual partner constituted fraud vitiating consent to sexual
+intercourse: see, e.g., R. v. Harms (1943), 81 C.C.C. 4 (Sask. C.A.);
+Bolduc v. The Queen, [1967] S.C.R. 677. [40]                         
+In 1983, Parliament amended the Criminal Code  to create the
+present s. 265(3) (c): S.C. 1980-81-82-83, c. 125, s. 19.  This
+amendment was part of a major overhaul of the law of sexual offences which
+aimed, inter alia, at protecting the integrity of the person and
+eliminating sexual discrimination in the criminal law.  The new provision
+referred simply to “fraud”, dropping the qualifying phrases “false and
+fraudulent representations” and “nature and quality of the act”.  Arguably,
+this change evidenced Parliament’s intent that “fraud” should be read more
+broadly than it had been in the past.  However, courts continued to apply a
+restrictive interpretation to the term: see R. v. Petrozzi (1987), 35
+C.C.C. (3d) 528 (B.C.C.A.); R. v. Lee (1991), 3 O.R. (3d) 726 (Gen. Div.); R. v. Ssenyonga (1993), 81 C.C.C. (3d) 257 (Ont.
+Ct. (Gen. Div.)). [41]                         
+Occasionally, a more generous approach surfaced as to when fraud could
+vitiate consent to sexual relations.  For instance, American caselaw was more
+inclined to convict the accused of assault or rape on facts similar to those in
+Clarence: State v. Marcks, 41 S.W. 973 (Miss. 1897), at p. 973,
+and 43 S.W. 1095 (1898), at pp. 1097-98; State v. Lankford, 102 A. 63
+(Del. Ct. Gen. Sess. 1917), at p. 64; United States v. Johnson, 27 M.J.
+798 (A.F.C.M.R. 1988), at p. 804; United States v. Dumford, 28 M.J. 836
+(A.F.C.M.R. 1989), at p. 839.  And in Canada, in R. v. Maurantonio,
+[1968] 1 O.R. 145 (C.A.), Hartt J. (ad hoc) held that “the words ‘nature
+and quality of the act’ . . . should not be so narrowly construed as to include
+only the physical action but rather must be interpreted to encompass those
+concomitant circumstances which give meaning to the particular physical
+activity in question” (p. 153).  But these were minority voices. [42]                         
+There are not many cases on the books, to be sure.  One understands why
+when one considers the practical implications of the Clarence test.  The
+cases where a woman consents to sex but thinks it is not sex or that it
+is sex with a different man are necessarily rare.  Submitting to a medical
+examination only to discover it is a sexual encounter might be such a case; the
+complainant does not consent to the sexual act but to a medical procedure. 
+Under Clarence and its progeny, if the woman consented to the sexual act
+with the given man, no matter what the deceit, the man could not be convicted
+for his act.  It is not surprising that the legal lexicon contains few cases
+dealing with fraud vitiating consent.  The stark fact was that in all but rare
+cases fraud could not vitiate consent. [43]                         
+Canadian common law on fraud vitiating consent to sexual relations
+has now entered a third, post-Clarence era.  Charter  values of
+equality, autonomy, liberty, privacy and human dignity require full recognition
+of the right to consent or  to withhold consent to sexual relations.  Fraud
+under s. 265(3) (c) must be interpreted with these values in mind.  The Clarence
+line of jurisprudence, which confined fraud to the question of whether the
+complainant knew the act was sexual or not, is no longer appropriate in the
+Canadian context.  To hold that a complainant consents to the risk of an
+undisclosed serious disease because he or she knew the act was sexual affronts
+contemporary sensibilities and contemporary constitutional values.                  (c)      Charter Values [44]                         
+Courts must interpret legislation harmoniously with the
+constitutional norms enshrined in the Charter : R. v. Sharpe, 2001
+SCC 2, [2001] 1 S.C.R. 45, at para. 33; Application under s. 83.28 of the
+Criminal Code (Re), 2004 SCC 42, [2004] 2 S.C.R. 248, at para. 35.  Charter 
+values are always relevant to the interpretation of a disputed provision of
+the Criminal Code . [45]                         
+The Charter  values of equality, autonomy,
+liberty, privacy and human dignity are particularly relevant to the
+interpretation of fraud vitiating consent to sexual relations.  The formerly
+narrow view of consent has been replaced by a view that respects each sexual
+partner as an autonomous, equal and free person.  Our modern understanding of sexual assault is based on
+the preservation of the right to refuse sexual intercourse: sexual assault is
+wrong because it denies the victim’s dignity as a human being.  Fraud in
+s. 265(3) (c) of the Criminal Code  must be interpreted in
+light of these values. [46]                         
+As we have already seen, prior
+to the adoption of the Charter  in
+1982 and the reform of sexual offences in 1983, courts took a restrictive view
+of how lack of consent to sexual relations could be established and how consent
+could be negated by fraud.  Rules of evidence and procedure, like the ancient
+rule that non-consent must be supported by evidence of a “hue and cry” in the
+neighbourhood immediately after the alleged sexual assault, or the willingness
+of judges to infer consent from dress or prior sexual experience, systemically
+biased the trial process in favour of finding consent. In like fashion, the
+jurisprudence, post-Clarence, took a narrow view of fraud capable of
+vitiating consent, holding that it went only to the sexual nature of the act,
+and that it did not apply to married women, who were bound to submit to their
+husbands in all circumstances. [47]                         
+Post-Charter Canadian law has
+repudiated this crabbed view of consent and fraud.  Amendments to the Criminal
+Code  have removed the evidentiary burdens and presumptions that once made
+proof of lack of consent difficult.  Courts have held that judges may not infer
+consent from the way the complainant was dressed or the fact that she may have
+flirted: R. v. Ewanchuk, [1999] 1 S.C.R. 330.  And in 1998, Cuerrier
+signaled a return to a generous interpretation of fraud capable of vitiating
+consent. [48]                         
+In keeping with the Charter 
+values of equality and autonomy, we now see sexual assault not only as a crime
+associated with emotional and physical harm to the victim, but as the wrongful
+exploitation of another human being.  To engage in sexual acts without the
+consent of another person is to treat him or her as an object and negate his or
+her human dignity. Although the Charter  is not directly engaged, the
+values that animate it must be taken into account in interpreting s. 265(3) (c)
+of the Criminal Code .                     (d)      The Experience of Other Common Law
+Jurisdictions [49]                         
+The parties and a number of interveners have relied on
+the approach of foreign legal systems to support their positions. [50]                         
+A survey of comparative law shows that common law jurisdictions
+criminalize the actual sexual transmission of HIV, when the HIV-positive
+person is aware of his or her serologic status and when the partner does not
+give informed consent to the risk of infection.  Several jurisdictions treat
+transmission of HIV following non-disclosure as offences involving bodily harm,
+rather than as sexual offences. Such transmission has been prosecuted on the
+following legal grounds: in England, for reckless infliction of bodily injury,
+under s. 20 of The Offences against the Person Act, 1861, 24 & 25
+Vict., c. 100; in the Australian state of Victoria, for “[c]onduct endangering
+life” (s. 22 of the Crimes Act 1958 (Vic.)); and in New Zealand, for, inter
+alia, “reckless disregard for the safety of others” that “causes grievous
+bodily harm” (s. 188(2) of the Crimes Act 1961, No. 43).  See I. Grant,
+“The Prosecution of Non-disclosure of HIV in Canada: Time to Rethink Cuerrier”
+(2011), 5 M.J.L.H. 7, at pp. 31-41. [51]                         
+However, deception that exposes a partner to a risk of transmission
+— but that does not ultimately result in transmission — is not criminalized in
+many jurisdictions. In England, exposing one’s partner to HIV without advising
+of HIV status does not vitiate consent.  Fraud vitiates consent only if it goes
+to “the nature or purpose of the relevant act”, which excludes deception as to
+HIV status: R. v. B., [2006] EWCA Crim 2945, [2007] 1 W.L.R. 1567, at
+para. 12. Theoretically, s. 18 of The Offences against the Person Act, 1861,
+which criminalizes intentional infliction of harm, could be used in England to
+punish non-disclosure of HIV-positive status as a form of attempted
+intentional infliction of harm. However, the high evidentiary burden “of
+proving that someone actually intended to transmit HIV through sex (as opposed
+to intending to have unprotected sex)” places a prohibitive onus on the Crown
+(Grant, at p. 32). [52]                         
+In Australia, six of the nine jurisdictions do not criminalize exposure
+absent transmission. Of the three jurisdictions that criminalize exposure to a
+risk of transmission (Crimes Act 1958 (Vic.), ss. 22 and 23; Criminal
+Law Consolidation Act 1935 (S.A.), s. 29; Criminal Code Act (N.T.),
+ss. 174C and 174D), two (Victoria and the Northern Territory) apply lesser
+criminal offences for cases where no actual transmission resulted from
+exposure. [53]                         
+In New Zealand, liability hinges, inter alia, on whether
+transmission occurs. Absent transmission, the failure to disclose HIV-positive
+status prior to sexual relations attracts the lesser offence of criminal
+nuisance (s. 145 of the Crimes Act 1961; R. v. Mwai, [1995]
+3 N.Z.L.R. 149 (C.A.)). [54]                         
+Professor Grant summarizes the contrast between the Canadian approach
+and the approach taken by England, Australia and New Zealand as follows:                     In
+Canada, the same charge of aggravated (sexual) assault is typically used
+regardless of the nature of the deception, whether the virus is transmitted, or
+whether there is an isolated incident of non-disclosure or an ongoing course of
+non-disclosure. . . . In all other jurisdictions [canvassed in this study], the
+offence is characterized as the infliction of bodily harm, and not as
+non-consensual sexual contact. [p. 42] [55]                         
+In sum, while the experience of other
+jurisdictions is not conclusive, it sounds a note of caution against extending
+the criminal law beyond its appropriate reach in this complex and emerging area
+of the law.          (3)      Finding a Solution [56]                         
+We have discussed the need for a clear and
+appropriately tailored test for fraud vitiating consent in s. 265(3) (c)
+of the Criminal Code , in the context of failure to disclose
+HIV-positive status.  With a view to meeting that need, we have canvassed four
+guides to construing the provision — the proper ambit of the criminal law, the
+common law and statutory background of the concept of fraud, Charter  values
+and the approach to non-disclosure of HIV status adopted in other countries. 
+This brings us to the nub of the question before us — when, precisely, should
+non-disclosure of HIV status amount to fraud vitiating consent under
+s. 265(3) (c)? [57]                         
+The four interpretational considerations suggest
+that the Cuerrier test is valid from the perspective of principle and
+impact.  The Cuerrier test, to recap, requires proof of two elements:
+(1) a dishonest act; and (2) deprivation. It defines the first element broadly
+in terms of either misrepresentation or non-disclosure of HIV, and the second
+element equally broadly in terms of whether the act poses a “significant risk
+of serious bodily harm”. [58]                         
+While it may be difficult to apply, the Cuerrier
+approach is in principle valid.  It carves out an appropriate area for the
+criminal law — one restricted
+to “significant risk of serious bodily harm”.  It reflects the Charter  values
+of autonomy, liberty and equality, and the evolution of the common law,
+appropriately excluding the Clarence line of authority.  The test’s
+approach to consent accepts the wisdom of the common law that not every
+deception that leads to sexual intercourse should be criminalized, while still
+according consent meaningful scope.  While Cuerrier takes the criminal
+law further than courts in other common law jurisdictions have, it can be
+argued other courts have not gone far enough: see L. H. Leigh, “Two cases on
+consent in rape” (2007), 5 Arch. News 6. [59]                         
+Some interveners challenge the use of the criminal
+law in the case of HIV on the ground that it may deter people from seeking
+treatment or disclosing their condition, thereby increasing the health risk to
+the carrier and those he has sex with.  On the record before us, I cannot
+accept this argument.  The only “evidence” was studies presented by interveners
+suggesting that criminalization “probably” acts as a deterrent to HIV testing:
+see, e.g., M. A. Wainberg, “Criminalizing HIV transmission may be a mistake”
+(2009), 180 C.M.A.J. 688.  Other studies suggest little difference in
+reporting rates in states that criminalized and did not criminalize behaviour: 
+S. Burris, et al., “Do Criminal Laws Influence HIV Risk Behavior?  An Empirical
+Trial” (2007), 39 Ariz. St. L.J. 467, at p. 501.  The conclusions in
+these studies are tentative, and the studies were not placed in evidence and
+not tested by cross-examination.  They fail to provide an adequate basis to
+justify judicial reversal of the accepted place of the criminal law in this
+domain. [60]                         
+It follows that Cuerrier should not be
+jettisoned.  The problems of uncertainty and appropriate reach that have
+emerged in its application should be addressed, but to the extent possible
+within the general framework of Cuerrier. This brings us to the
+suggestions for dealing with the problems of uncertainty and overbreadth that
+have arisen in applying Cuerrier.                  (a)      The Active
+Misrepresentation Approach [61]                         
+It is argued that one way to correct the
+uncertainty and reach problems in Cuerrier’s application is to narrow
+the concept of dishonest act to active deception — a clear misrepresentation or
+a lie in response to a clear question. [62]                         
+This approach would go a long way to remedying
+the problem of uncertainty.  A person would know that unless they made a
+positive misrepresentation or lied in response to a clear question, they would
+not be committing a crime.  And it would also remedy the perceived problem of
+overbreadth; the narrower definition of fraud would prevent those who may
+inadvertently or negligently fail to disclose HIV status from being
+criminalized. [63]                         
+This approach has some support.  My concurring
+reasons in Cuerrier defined fraud as arising when “the person represents
+that he or she is disease-free” (para. 72, Gonthier J. concurring).  This
+“active deception” approach has been viewed favourably by some: see Leigh, at
+p. 7. [64]                         
+The approach, however, also suffers from
+difficulties. The first is that it may be difficult to distinguish between
+active deception and passive deception by non-disclosure.  Everything depends
+on the circumstances. This approach’s sensitivity to context blurs the line
+between criminal and non-criminal conduct. Conversations leading up to
+sexual acts are not always models of clarity.  People tend not to use precise
+language.  Gestures may supplant language.  For example, is the shake of the
+head in response to a partner’s question about HIV a positive representation
+that one does not have HIV?    Moreover, there may be circumstances where the
+partner may reasonably infer absence of disease from prior conversations or
+circumstances.  To be sure, trial judges can untangle complicated fact
+situations and decide if there has been a positive misrepresentation. But the
+fact remains that this marker may not fully or fairly capture the deception
+that underlies a particular fraud, and may be a difficult test to apply in
+practice. [65]                         
+Second, there is arguably no principled
+distinction between active deception and passive deception. Should the trusting
+wife who does not ask a direct question as to HIV status of her partner be
+placed in a worse position than the casual date who does?  The point from the
+complainant’s perspective is that in either case she would not have given her
+consent had the deception not occurred.  Fraud is fraud, whether induced by
+blatant lies or sly deceit.                     (b)      The
+Absolute Disclosure Approach [66]                         
+The Crown submits that all HIV-positive people
+should be required to disclose the fact to all sexual partners in all cases. 
+This amounts to removing the “significant risk of serious bodily harm”
+requirement from the second element of the Cuerrier test. [67]                         
+This approach provides a clear test, solving the
+problem of uncertainty.  However, its solution to the problem of breadth is
+less convincing.  This approach arguably casts the net of criminal culpability
+too widely.  People who act responsibly and whose conduct causes no harm and
+indeed may pose no risk of harm, could find themselves criminalized and
+imprisoned for lengthy periods.  Moreover, this approach seems to expand fraud
+vitiating consent in s. 265(3) (c) further than necessary, by defining it
+as simple dishonesty and effectively eliminating the deprivation element of
+fraud.  Finally, this absolute approach is arguably unfair and stigmatizing to
+people with HIV, an already vulnerable group.  Provided people so afflicted act
+responsibly and pose no risk of harm to others, they should not be put to the
+choice of disclosing their disease or facing criminalization.                  (c)      A
+Case-by-Case Fact-based Approach [68]                         
+The respondent argues that the Cuerrier “significant risk of
+serious bodily harm” test remains a workable test, but seeks to clarify it by
+emphasizing that it is simply a statement of what the evidence must establish
+to support a finding of fraud under s. 265(3) (c).  A “significant risk
+of serious bodily harm” must be established by medical evidence in each case. 
+The question is whether at the time of the sexual act in question, the
+particular act posed a significant risk of transmitting HIV.  This typically
+requires the Crown to call expert evidence as to the accused’s viral count at
+the time of the offence as well as risks associated with any condom protection
+used.  The trial judge must be satisfied that the evidence establishes beyond a
+reasonable doubt that the accused’s conduct at the moment of the offence posed
+a significant risk of serious bodily harm.  Any doubt must be resolved in
+favour of the accused. [69]                         
+While respectful of the rights of accused persons, this approach does
+not remedy the problems of uncertainty and reach that make Cuerrier
+difficult to apply.  The process would be onerous. In every case, medical
+experts would have to be called.  Lengthy examination and cross-examination
+would have to take place.  Trial judges would have to spend long hours assessing
+the evidence to determine if it establishes a “significant risk of serious
+bodily harm” at the time of the alleged offence.  Finally, the risk of
+conflicting judgments could render the process unfair from a systemic
+standpoint.  The court of appeal, while accepting the trial judge’s conclusions
+on the evidence, might take a different view on the mixed question of fact and
+law of whether the risk was “significant”.  Years may pass in legal
+no-man’s-land with no one knowing whether the accused is guilty or not guilty. 
+Enormous costs, both for the prosecution and the defence, would be run up. 
+This case illustrates all these problems.                     (d)      Judicial
+Notice of the Effect of Condom Use [70]                         
+To mitigate the uncertainties of the fact-based Cuerrier
+test, the respondent suggests that courts can take judicial notice of the fact
+that condom use always negates a significant risk of serious bodily harm. [71]                         
+Before a judge can take judicial notice of a fact, the fact must be
+shown to be so “notorious” or in modern parlance, “accepted”, that no
+reasonable person would dispute it: R. v. Find, 2001 SCC 32, [2001] 1
+S.C.R. 863, at para. 48; R. v. Spence, 2005 SCC 71, [2005] 3 S.C.R. 458,
+at para. 53.  Yet the record here is replete with debate about whether use
+of a condom alone negates significant risk of serious bodily harm, and the
+controversy is exacerbated by the rapidly changing state of the science and by
+the fact-specific nature of risk.  Judicial notice is not available here and
+cannot form the basis for formulating general propositions relating to the
+factual issue of risk, in the absence of indisputable consensus.                     (e)      Relationship-based
+Distinctions [72]                         
+Another way of narrowing the Cuerrier “significant risk of
+serious bodily harm” approach to fraud under s. 265(3) (c) is to confine
+it to special relationships.  It has been suggested in the commercial context
+that failure to disclose may amount to fraud when parties have a relationship
+of trust, quasi-trust or confidence:  B. L. Nightingale, The Law of Fraud
+and Related Offences (loose-leaf).  The distinction could conceivably be
+extended to relationships where one party is vulnerable, like the young often
+intoxicated women who had sex with Mr. Mabior in this case.  This approach
+assumes that sexual partners who do not ask about STDs bear a risk of exposing
+themselves to HIV, unless a relationship of trust exists between them. [73]                         
+The law of fraud in commercial situations provides some support for this
+approach. Originally, the common law and courts of equity did not regard mere
+silence, standing on its own without some other form of conduct which induced a
+false belief in another, as being fraudulent: Twining v. Morrice (1788),
+2 Bro. C.C. 326, 29 E.R. 182; Conolly v. Parsons (1797), 3 Ves. 625n
+(Ch.); Walters v. Morgan (1861), 3 De G. F. & J. 718, 45 E.R. 1056. 
+However, over time, equity recognized specific circumstances warranting a
+positive duty to disclose material facts, including a relationship of trust,
+quasi-trust or confidence. [74]                         
+Against this approach, it can be argued that it narrows “fraud” under
+s. 265(3) (c) too much.  Is there a good reason for compelling
+disclosure to one’s wife but not to a casual date?  Where the concern is the
+contraction of a life-altering disease, the answer is no. [75]                         
+Historically, fraud capable of vitiating consent to sexual intercourse
+has   not followed the patterns of commercial fraud.  The special context of
+sexual fraud raises unique concerns.  This has generally resulted in a narrower
+approach to fraud, marked by its own peculiar considerations.  The relationship
+between the parties in a particular case has tended not to figure among them. 
+The closest the law has come to a relationship-based approach are the
+suggestions in Victorian times that wives and prostitutes — for different
+reasons relating to the mores of the time — could never assert fraud vitiating
+consent to sexual intercourse: see Clarence.  Such ideas strike the
+modern ear, attuned to equality, as offensive.                     (f)       The
+Reasonable Partner Approach [76]                         
+Yet another possibility is to define “fraud” under s. 265(3) (c)
+as what a reasonable and informed person in the position of the HIV-positive
+person’s potential partner would expect.  The test would be objective, but
+based on the circumstances of the particular case, including the type of relationship
+the parties had. [77]                         
+This approach has the advantage of taking into account the expectations
+of the parties as they existed on the facts of the case.  In this sense, it is
+fairer than a test that is based on a general norm presumed to apply in all
+cases.  An HIV-positive person may be expected to understand the expectations
+of his partner in the particular circumstances at hand, and act accordingly. [78]                         
+This approach also recognizes that allocation of responsibility for
+protecting against transmission of sexual diseases may vary with relationships
+and with the passage of time.  One of the historic difficulties in formulating
+a test for fraud vitiating consent to sexual relations has been the variation
+in social norms and expectations over time.  In Victorian times, husbands were
+held to be incapable of committing fraud vitiating consent, since wives had no
+right to refuse consent to sexual intercourse with their husbands.  In more
+recent times, some argue that expectations have shifted from the view that an
+infected person bears all the responsibility for the sexual health of both
+partners, to the view that each party is responsible for his or her own sexual
+health.  A contextually grounded reasonableness approach would avoid these
+problems by tailoring the result to the relationship from which the criminal
+charge arises. [79]                         
+Again, however, the approach can be criticized.  The most telling
+criticism is that it does not lay down a clear test for fraud, leaving people
+uncertain as to where the line lies between criminal conduct and non-criminal
+conduct.  Unless the partners have themselves established the lines, the
+HIV-positive person is left to infer from the nature of the relationship what
+his potential partner, acting reasonably, would expect. [80]                         
+This leads to a second criticism — overreach of the criminal law, and
+its correlative, unfairness to the accused.  In the heat and anticipation of
+the sexual moment, assessments of what a reasonable partner would expect may be
+mistaken.  Is the person then to be criminalized and sent to prison for perhaps
+years, for what is at its base the result of misjudgment?  Such may be the
+consequence of the reasonable partner expectation test.                  (g)      An Evolving
+Common Law Approach [81]                         
+This leaves the option of building greater
+certainty into the Cuerrier test by indicating when the significant risk
+test is met in terms of principle and concrete situations.  Such an approach is
+consistent with the incremental role of common law courts in adapting the
+contours of an offence to the requirements of justice and practical
+application. [82]                         
+The question, building on Cuerrier, is: 
+when do sexual relations with an HIV-positive person pose a “significant risk
+of serious bodily harm”?  In answering this question, the facts as found by the
+trial judge should be accepted, absent palpable and overriding error.  Whether
+those facts establish a “significant risk of serious bodily harm” is a question
+of law: see C.A., at para. 37.  The terms “serious bodily harm” mean “any hurt
+or injury, whether physical or psychological, that interferes in a substantial
+way with the integrity, health or well-being of a victim”:  R. v. McCraw,
+[1991] 3 S.C.R. 72, at p. 88.  Of course, actual transmission of HIV
+constitutes serious bodily harm. [84]                         
+In my view, a “significant risk of serious
+bodily harm” connotes a position between the extremes of no risk (the trial
+judge’s test) and “high risk” (the Court of Appeal’s test).  Where there is a realistic
+possibility of transmission of HIV, a significant risk of serious bodily
+harm is established, and the deprivation element of the Cuerrier test is
+met.   This approach is supported by the following considerations. [85]                         
+First, “significant risk of serious bodily harm”
+cannot mean any risk, however small.  That would come down to adopting the
+absolute disclosure approach, with its numerous shortcomings, and would
+effectively read the word “significant” out of the Cuerrier test. [86]                         
+Second, a standard of “high” risk does not give
+adequate weight to the nature of the harm involved in HIV transmission.
+“Significant risk” in Cuerrier is informed both by the risk of
+contraction of HIV and the seriousness of the disease if contracted.  These
+factors vary inversely.  The more serious the nature of the harm, the lower the
+probability of transmission need be to amount to a “significant risk of serious
+bodily harm”. [87]                         
+Third, as discussed earlier in considering
+guides to interpretation, a standard of realistic possibility of transmission
+of HIV avoids setting the bar for criminal conviction too high or too low. A
+standard of any risk, however small, would arguably set the threshold for
+criminal conduct too low. On the other hand, to limit s. 265(3) (c) to
+cases where the risk is “high” might condone irresponsible, reprehensible
+conduct. [88]                         
+Fourth, the common law and statutory history of
+fraud vitiating consent to sexual relations supports viewing “significant risk
+of serious bodily harm” as requiring a realistic possibility of transmission of
+HIV.  This history suggests that only serious deceptions with serious
+consequences are capable of vitiating consent to sexual relations. 
+Interpreting “significant risk of serious bodily harm” in Cuerrier as
+extending to any risk of transmission would be inconsistent with this.  A
+realistic possibility of transmission arguably strikes the right balance for a
+disease with the life-altering consequences of HIV. [89]                         
+Fifth, the values of autonomy and equality
+enshrined in the Charter  support an approach to fraud vitiating consent
+that respects the interest of a person to choose whether to consent to sex with
+a particular person or not. The law must strike a balance between this interest
+and the need to confine the criminal law to conduct associated with serious
+wrongs and serious harms.  Drawing the line between criminal and non-criminal
+misconduct at a realistic possibility of transmission arguably strikes an
+appropriate balance between the complainant’s interest in autonomy and equality
+and the need to prevent over-extension of criminal sanctions. [90]                         
+Finally, interpreting “significant risk of
+serious bodily harm” as entailing a realistic possibility of transmission of
+HIV is supported by a number of cases.  Apart from the trial reasons in this case,
+we have been referred to no case holding that “significant” means any risk,
+however small. To be sure, not many cases have considered the point. But the
+few that have are worth noting. In R. v. Jones, 2002 NBQB 340, [2002]
+N.B.J. No. 375 (QL), the court held that a risk of transmission of hepatitis C
+between 1.0 and 2.5% was “so low that it cannot be described as significant”
+(para. 33).  And in R. v. J.A.T., 2010 BCSC 766 (CanLII), the trial
+judge stated that “[a] significant risk means a risk that is of a magnitude
+great enough to be considered important” (para. 56). [91]                         
+These considerations lead me to conclude that
+the Cuerrier requirement of “significant risk of serious bodily harm”
+should be read as requiring disclosure of HIV status if there is a realistic
+possibility of transmission of HIV. If there is no realistic possibility of
+transmission of HIV, failure to disclose that one has HIV will not constitute
+fraud vitiating consent to sexual relations under s. 265(3) (c). [92]                         
+The test of realistic possibility of
+transmission proposed in these reasons is specific to HIV.  As discussed above,
+“significant risk” depends both on the degree of the harm and risk of
+transmission.  These two factors vary inversely.  A treatable sexually
+transmitted disease that does not seriously alter a person’s life or
+life-expectancy might well not rise to the level of constituting “serious
+bodily harm”, and would also fail to meet the requirement of endangerment of
+life for aggravated sexual assault under s. 273(1) .  Where the line should be
+drawn with respect to diseases other than HIV is not before us.  It is enough
+to note that HIV is indisputably serious and life-endangering. Although it can
+be controlled by medication, HIV remains an incurable chronic infection that,
+if untreated, can result in death.  As such, the failure to advise a
+sexual partner of one’s HIV status may lead to a conviction for aggravated
+sexual assault under s. 273(1)  of the Criminal Code .  (This said, it may
+be that with further medical advances, the death rate may decline to the point
+where the risk of death is virtually eliminated, reducing the offence to sexual
+assault simpliciter under s. 271(1)  of the Criminal Code . 
+Similarly, the day may come when researchers will find a cure for HIV, with the
+possible effect that HIV will cease to cause “serious bodily harm” and the
+failure to disclose will no longer fall under the category of fraud vitiating
+consent for the purposes of sexual assault.)          (4)      Realistic Possibility
+of HIV Transmission [93]                         
+A review of the case law pertaining to fraud
+vitiating consent to sexual relations leads to the following general principle
+of law: the Cuerrier requirement of a “significant risk of serious
+bodily harm” entails a realistic possibility of transmission of HIV.
+This applies to all cases where fraud vitiating consent to sexual relations is
+alleged on the basis of the non-disclosure of HIV-positive status. [94]                         
+This leaves the question of when there is a
+realistic possibility of transmission of HIV. The evidence adduced here
+satisfies me that, as a general matter, a realistic possibility of transmission
+of HIV is negated if (i) the accused’s viral load at the time of sexual
+relations was low, and (ii) condom protection was used. [95]                         
+The conclusion that low viral count coupled with
+condom use precludes a realistic possibility of transmission of HIV, and hence
+does not constitute a “significant risk of serious bodily harm” on the Cuerrier
+test, flows from the evidence in this case. This general proposition does
+not preclude the common law from adapting to future advances in treatment and
+to circumstances where risk factors other than those considered in this case
+are at play. [96]                         
+In this case, the evidence accepted by the trial
+judge was that Mr. Mabior had intercourse by vaginal penetration with the four
+complainants, during which he ejaculated.  The accused underwent antiretroviral
+treatment on a regular basis, but he only wore condoms occasionally.  Mr.
+Mabior’s medical record also shows that he had been successfully treated for
+gonorrhœa and had no sexually
+transmitted infections at the time of intercourse with the four complainants
+other than HIV.  Based on this evidence, three factors were relevant to risk:
+baseline risk for vaginal intercourse when the male partner is HIV-positive;
+reduction in risk with condom use; and antiretroviral therapy.  I will consider
+each in turn. [97]                         
+As the Court of Appeal noted, baseline risk of
+HIV transmission per act of vaginal intercourse with an infected male partner
+(i.e. the risk of transmission based on the male ejaculating, without a condom,
+having a normal unreduced viral load) varies from study to study. Dr. Smith’s
+written report put the risk at 0.05% (1 in 2000) to 0.26% (1 in 384) (p. 4). 
+Ms. McDonald, a public health nurse, testified about the Manitoba Health
+post-exposure protocol, which puts risk per act at 0.1% (1 in 1000).  A
+systemic review and meta-analysis of 43 publications comprising 25 different
+study populations, put the risk in high-income countries at 0.08% per sexual act
+(1 in 1250):  M.-C. Boily, et al., “Heterosexual risk of HIV-1 infection per
+sexual act:  systematic review and meta-analysis of observational studies”
+(2009), 9 Lancet Infect. Dis. 118. [98]                         
+It is undisputed that HIV does not pass through
+good quality male or female latex condoms.  However, condom use is not
+fail-safe, due to the possibility of condom failure and human error.  Dr. Smith
+testified that consistent condom protection reduces the risk of HIV
+transmission by 80%, relying on the widely accepted Cochrane review: S. C.
+Weller and K. Davis-Beaty, “Condom effectiveness in reducing heterosexual HIV
+transmission” (2002), 1 Cochrane Database Syst. Rev. CD003255.  It was
+pointed out that the 80% reduction in the transmission risk refers to
+consistent condom use:  the reduction may be larger for consistent and
+correct condom use, but this has not been verified empirically. [99]                         
+The Court of Appeal, in applying a “high risk”
+approach, held that condom use reduces the risk of HIV transmission “below the
+level of significance” (para. 87).  However, in my view, the evidence does not
+establish that condom protection alone precludes a realistic possibility
+of transmission, the standard proposed here.  According to the expert evidence,
+the risk might still fall above the “negligible” threshold: Dr. Smith’s report,
+at p. 6. [100]                     
+This brings us to the final factor,
+antiretroviral therapy.  As noted by the Court of Appeal, the transmissibility
+of HIV is proportional to the viral load, i.e. the quantity of HIV copies in
+the blood.  The viral load of an untreated HIV patient ranges from 10,000
+copies to a few million copies per millilitre.  When a patient undergoes
+antiretroviral treatment, the viral load shrinks rapidly to less than 1,500
+copies per millilitre (low viral load), and can even be brought down to less
+than 50 copies per millilitre (undetectable viral load) over a longer period of
+time.  This appears to be scientifically accepted at this point, on the evidence
+in this case. [102]                     
+In reaching this conclusion, I use low viral
+load, rather than undetectable viral load, as one of the factors for
+determining risk. This avoids the evidentiary difficulties associated with
+establishing an undetectable viral load.  Dr. Smith presented evidence
+that various factors such as common infections and treatment issues may lead to
+fluctuations in a person’s viral load.  So-called “spikes” or “blips” bring the
+viral load of a person treated with antiretrovirals above the detectable
+level.  Furthermore, detectability depends on the accuracy of ever-developing
+technology: a viral load that assays do not detect today, might very well be
+detectable by future assays.  Finally, it must be observed that Dr. Smith did
+not accept, and presented as controversial, the 2008 announcement by the Swiss
+Federal Commission for HIV/AIDS that an HIV-positive person with an
+undetectable viral load is not sexually infectious (p. 5).  As he noted, this
+statement is subject to important qualifications, based only on a review of
+scientific literature, and requires corroborating research. [103]                     
+This leads to the conclusion that on the
+evidence before us, the combined effect of condom use and low viral load
+precludes a realistic possibility of transmission of HIV.  In these
+circumstances, the Cuerrier requirement of significant risk of serious
+bodily harm is not met.  There is no deprivation within the meaning of
+Cuerrier and failure to disclose HIV status will not constitute fraud
+vitiating consent under s. 265(3) (c) of the Criminal Code .          (5)      Summary [104]                     
+To summarize, to obtain a conviction under ss.
+265(3) (c) and 273 , the Crown must show that the complainant’s consent to
+sexual intercourse was vitiated by the accused’s fraud as to his HIV status. 
+Failure to disclose (the dishonest act) amounts to fraud where the
+complainant would not have consented had he or she known the accused was
+HIV-positive, and where sexual contact poses a significant risk of or causes actual
+serious bodily harm (deprivation).  A significant risk of serious bodily
+harm is established by a realistic possibility of transmission of HIV.  On the
+evidence before us, a realistic possibility of transmission is negated by
+evidence that the accused’s viral load was low at the time of intercourse and
+that condom protection was used.  However, the general proposition that a low
+viral load combined with condom use negates a realistic possibility of
+transmission of HIV does not preclude the common law from adapting to future
+advances in treatment and to circumstances where risk factors other than those
+considered in the present case are at play. [105]                     
+The usual rules of evidence and proof apply. 
+The Crown bears the burden of establishing the elements of the offence — a
+dishonest act and deprivation — beyond a reasonable doubt.  Where the Crown has
+made a prima facie case of deception and deprivation as described in
+these reasons, a tactical burden may fall on the accused to raise a reasonable
+doubt, by calling evidence that he had a low viral load at the time and that
+condom protection was used. B.     Application [106]                     
+With respect to the four counts before us, the
+complainants all consented to sexual intercourse with the accused.  Each of the
+complainants testified that they would not have had sex with the accused had
+they known that he was HIV-positive.  The only issue is whether their consent
+was vitiated because he did not tell them that he had HIV. [107]                     
+The trial judge found the accused guilty of
+aggravated sexual assault on the four counts where it was established that his
+viral load was not undetectable or no condom was used.  The Court of Appeal set
+aside the convictions on the basis that either an undetectable viral
+load or condom protection would suffice. [108]                     
+As set out above, at this point in the
+development of the common law, a clear test can be laid down.  The absence of a
+realistic possibility of HIV transmission precludes a finding of fraud
+vitiating consent under s. 265(3) (c) of the Criminal Code .
+ In the case at hand, no realistic possibility of transmission was
+established when the accused had a low viral load and wore a condom.  It
+follows that the appeal should be allowed insofar as the decision of the Court
+of Appeal conflicts with this conclusion. [109]                     
+The accused had a low viral load at the time of
+intercourse with each of S.H., D.C.S. and D.H., but did not use a condom.
+Consequently, the trial judge’s convictions on these counts should be
+maintained. This leaves K.G. The trial judge convicted on the ground that, although
+the accused used a condom at the time of the encounter, his viral load “was not
+suppressed” (para. 128). As discussed, the combination of a low viral load — as opposed to an undetectable viral
+load — and of condom use
+negates a realistic possibility of transmission, on the evidence in this case.
+The record shows that the accused’s viral load was low at the time of sexual
+relations with K.G. When combined with condom protection, this low viral load
+did not expose K.G. to a significant risk of serious bodily harm.  The trial
+judge’s conviction on this count must be reversed. [110]                     
+ I would allow the appeal in part and restore
+the convictions in respect of the complaints by S.H., D.C.S. and D.H. I would
+dismiss the appeal in respect of the complaint by K.G.                     Appeal allowed in part.                     Solicitor
+for the appellant:  Attorney General of Manitoba, Winnipeg.                     Solicitor
+for the respondent:  Legal Aid Manitoba, Winnipeg.                     Solicitors
+for the interveners the Canadian HIV/AIDS Legal Network, the HIV & AIDS
+Legal Clinic Ontario, Coalition des organismes communautaires québécois de
+lutte contre le sida, the Positive Living Society of British Columbia, the
+Canadian AIDS Society, the Toronto People With AIDS Foundation, the Black
+Coalition for AIDS Prevention and the Canadian Aboriginal AIDS Network:  Cooper
+& Sandler, Toronto.                     Solicitors
+for the intervener the British Columbia Civil Liberties Association:  McCarthy
+Tétrault, Vancouver.                     Solicitors
+for the intervener the Criminal Lawyers’ Association of Ontario:  Schreck
+Presser, Toronto.                     Solicitors for the intervener Association des avocats de la défense
+de Montréal:  Poupart, Dadour, Touma et Associés, Montréal.                     Solicitors for the
+intervener Institut national de santé publique du Québec:  Desrosiers,
+Joncas, Massicotte, Montréal.   

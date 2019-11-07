@@ -1,0 +1,482 @@
+Ikea Ltd. v. Canada, [1998] 1 S.C.R.
+196  Ikea Limited                                                                                       Appellant  v.  Her Majesty The Queen                                                                   Respondent  Indexed as:  Ikea Ltd. v. Canada  File No.:  25674.  1997:  December 2; 1998:  February 12.  Present:  Gonthier, Cory, Iacobucci, Major and
+Bastarache JJ.  on appeal from the federal court of appeal   In an agreement dated six days after the original
+lease, Ikea became entitled to receive a tenant inducement payment (“TIP”) from
+its landlord. The agreement clearly and unequivocally stipulated that this
+payment was to induce Ikea to lease the premises and that no obligation was
+placed upon Ikea to use the money for any particular purpose.  The payment was
+to be made to Ikea within seven days of its taking possession of and commencing
+business operations in the premises.  Ikea did not include the entire TIP in its income
+for the 1986 year for the purposes of its financial statements and instead
+amortized it over the period of the lease.  It also offset a portion of the
+TIP against the cost of fixtures for the leased premises which were
+reflected as capital assets and which would have been depreciated over
+approximately the same time period used to amortize the balance of the
+TIP.  In filing its tax return for 1986, however, Ikea neither reduced the
+cost of fixtures by the offset portion of the TIP nor included any portion
+of the TIP in its income, owing to its belief that, for tax purposes, the
+payment constituted a capital receipt rather than taxable revenue.  In
+reassessing Ikea, the Minister required that the TIP be included in income
+entirely in the 1986 taxation year.  On appeal by Ikea, the Tax Court of Canada
+agreed with the Minister that the TIP represented income and not a capital
+receipt, and also that the amount was required to be included in income wholly
+in the year of receipt.  This decision was affirmed by a unanimous judgment of
+the Federal Court of Appeal.  Two issues arose on this appeal:  whether
+the TIP was to be treated for tax purposes as revenue or as a capital
+receipt, and if revenue, whether it should have been included in income entirely
+in the year received or amortized over the period of the lease of which it was
+the catalyst.  Held:  The appeal should be dismissed.  A payment made as a reimbursement for the cost of
+capital property is to be treated as a capital receipt for tax purposes and one
+made as a reimbursement for an expense or reimbursement of a loss on revenue
+account is to be treated as income.  Thus, had the payment been made by Ikea
+for the purpose of acquiring the lease, a capital asset, it would have been a capital
+payment.  However, two simultaneous acquisitions by the same party (the lease
+and the cash payment) need not be characterized in the same way for tax
+purposes simply because they are related to the same transaction.  Indeed, the
+desirability of an accurate picture of income inherently outweighs the possible
+inconvenience of an asymmetrical result in the occasional case.   The TIP was taxable in the year received.  The
+“realization principle”, which holds that an amount may have the quality of
+income even though it is not actually received by the taxpayer but only
+“realized” in accordance with the accrual method of accounting, is well
+established in the jurisprudence.  Amounts received or realized free of
+conditions or restrictions upon their use are therefore taxable in the year
+realized, subject to any contrary provision of the Act or other rule of law. 
+Here, the taxpayer’s right to the TIP accrued immediately upon the assumption
+of its contractual obligations, and thus could not properly be said to relate
+to future expenditures.  In such a case, unless otherwise specified by the
+inducement agreement and in the absence of statutory or case law authority to
+the contrary, the realization approach gives a more accurate picture of the
+taxpayer’s income.  Cases Cited  Considered:  The
+Queen v. Foothills Pipe Lines (Yukon) Ltd., 90 D.T.C. 6607; St.
+John Dry Dock & Shipbuilding Co. v. M.N.R., [1944] Ex. C.R. 186;
+IBM Canada Ltd. v. M.N.R., 93 D.T.C. 1266; French Shoes Ltd.
+v. The Queen, 86 D.T.C. 6359;  referred to:  Canderel Ltd.
+v. Canada, [1998] 1 S.C.R. 147; Toronto College Park Ltd. v. Canada,
+[1998] 1 S.C.R. 183; Neonex International Ltd. v. The Queen, 78
+D.T.C. 6339; Oxford Shopping Centres Ltd. v. The Queen, 79 D.T.C.
+5458; Associated Investors of Canada Ltd. v. M.N.R., 67 D.T.C. 5096; Symes
+v. Canada, [1993] 4 S.C.R. 695; Corporation of Birmingham v.
+Barnes, [1935] A.C. 292; The Queen v. Canadian Pacific Ltd., 77
+D.T.C. 5383; Consumers’ Gas Co. v. The Queen, 82 D.T.C. 6300; London
+and Thames Haven Oil Wharves, Ltd. v. Attwooll, [1967] 2 All
+E.R. 124; Woodward Stores Ltd. v. The Queen, 91 D.T.C. 5090; Suzy
+Creamcheese (Canada) Ltd. v. The Queen, 92 D.T.C. 6291; Kenneth
+B. S. Robertson Ltd. v. M.N.R. (1944), 2 D.T.C. 655; Westfair
+Foods Ltd. v. Canada, [1991] 1 C.T.C. 146; Charles Brown &
+Co. v. Commissioners of Inland Revenue (1930), 12 T.C. 1256; Lincolnshire
+Sugar Co. v. Smart, [1937] A.C. 697; Schwartz v. Canada,
+[1996] 1 S.C.R. 254; Nesbitt Thomson Inc. v. M.N.R., 91 D.T.C.
+1113; M.N.R. v. Benaby Realties Ltd., [1968] S.C.R. 12.  Statutes and Regulations Cited  Income Tax Act, R.S.C., 1985, c. 1 (5th Supp .), s. 12(1) (x).  Income Tax Act , S.C. 1970-71-72, c. 63,
+s. 9(1).  APPEAL from a judgment of the Federal Court of Appeal,
+96 D.T.C. 6526, [1996] 3 C.T.C. 307, [1996] F.C.J. No. 1243 (QL), dismissing an
+appeal from a judgment of Bowman J.T.C.C., 94 D.T.C. 1112, [1994] 1 C.T.C.
+2140, [1993] T.C.J. No. 874 (QL).  Appeal dismissed.  Warren J. A. Mitchell, Q.C.,
+and Karen Sharlow, for the appellant.  Roger Taylor and Sandra
+Phillips, for the respondent.  The judgment of the Court was delivered by  1                                  
+Iacobucci J. -- This
+appeal was heard along with Canderel Ltd. v. Canada, [1998] 1 S.C.R.
+147, and Toronto College Park Ltd. v. Canada, [1998] 1 S.C.R. 183,
+reasons for which are being released simultaneously herewith, but raises in
+essence the opposite question of that raised in those cases.  Whereas in Canderel
+and Toronto College Park this Court was called upon to determine the
+appropriate manner in which a taxpayer may deduct a tenant inducement payment
+(“TIP”) from business income, the instant case requires a determination of how
+(prior to the enactment of s. 12(1) (x) of the Income Tax Act,
+R.S.C., 1985, c. 1 (5th Supp .)) the same type of payment was to be treated
+in the hands of the recipient.  Was the TIP to be dealt with as revenue or as a
+capital receipt, and if revenue, was it to be included in income entirely in
+the year received or could it properly be amortized over the period of the
+lease to which it related?  I.  Facts  2                                  
+The appellant, Ikea Limited (“Ikea”), is a furniture retailer which
+carries on its business through retail outlets which it owns or leases
+throughout Canada.  In 1985, Ikea entered into a 10-year lease of premises at
+the West Edmonton Mall (the “Mall”), with an option to extend the lease for a
+further 10 years.  The lease provided for a base rent, payable in monthly
+instalments, plus a percentage rent based on sales.  In an agreement dated six
+days after the original lease, Ikea became entitled to receive a TIP of
+$2,650,000 from the Mall.  The agreement was clear and unequivocal in
+stipulating that the purpose of this payment was to induce Ikea to lease the
+premises, and no obligation was placed upon Ikea to use the money for any
+particular purpose, such as, for example, applying it against the cost of
+inventory or fixtures.  The payment was to be made to Ikea within seven days of
+its taking possession of and commencing business operations in the premises.  3                                  
+Ikea tendered expert accounting evidence stating that it was proper
+treatment, in accordance with generally accepted accounting principles
+(“GAAP”), not to include the entire TIP in its income for the 1986 year and
+instead to amortize it over the period of the lease.  Further, this evidence
+indicated that it was also in accordance with GAAP for Ikea to offset a portion
+of the TIP, an amount totalling $825,189, against the cost of fixtures for the
+leased premises, provided only that, had the cost of the fixtures been
+reflected as capital assets, they would have been depreciated over approximately
+the same time period used to amortize the balance of the TIP.  In fact, this
+was precisely the accounting treatment accorded to the payment by Ikea for the
+purposes of its financial statements.  This evidence was uncontradicted by the
+Minister of National Revenue (the “Minister”), who simply took the position
+that the appropriate accounting treatment was irrelevant to the issue of the
+computation of income for tax purposes.  4                                  
+Philip Boname, an expert called on behalf of the Minister, expressed the
+opinion, based on his general knowledge of the commercial real estate market in
+Edmonton at the time of the lease, that the TIP received by Ikea resulted in an
+increase in the amount of rent that it agreed to pay to the Mall.  His
+experience suggested to him that there was a direct correlation between the use
+of TIPs and the ability of a landlord to realize higher rents.  5                                  
+In contrast to the treatment accorded the TIPs in its financial
+statements, in filing its tax return for 1986, Ikea did not reduce the cost of
+fixtures by the $825,189 portion of the TIP, nor did it include any portion of
+the TIP in its income.  This treatment reflected its opinion that, for tax
+purposes, the payment constituted a capital receipt rather than taxable
+revenue.  In reassessing Ikea, the Minister required that the TIP be included
+in income entirely in the 1986 taxation year.  On appeal by Ikea, the Tax Court
+of Canada agreed with the Minister that the TIP represented income and not a
+capital receipt, and also that the amount was required to be included in income
+wholly in the year of receipt.  This decision was affirmed by a unanimous
+judgment of the Federal Court of Appeal.  II.  Relevant Statutory Provisions  6                                  
+Income Tax Act , S.C. 1970-71-72, c. 63 (now R.S.C., 1985, c. 1
+(5th Supp .))  9. (1)   Subject to this Part, a taxpayer's
+income for a taxation year from a business or property is his profit therefrom
+for the year.  III.  Judicial History  1.                 Tax Court of Canada (Bowman J.), 94 D.T.C.
+1112  7                                  
+Bowman J. began by stating at p. 1115 that the “accounting treatment
+does not affect the determination whether the receipt was on revenue or capital
+account.  That determination is one of law based upon a consideration of all of
+the facts”.  After commenting briefly on the differences between income tax and
+financial accounting, he observed that the rationale for the accounting
+treatment of the $825,189 might have been that since it represented the cost of
+fixtures, it was not inappropriate to offset it against that cost, “thereby
+achieving an effective amortization over the term of the lease by reducing the
+basis against which annual depreciation would be deducted”.  However, he found
+no legal or factual basis for such treatment for income tax purposes.  8                                  
+Moreover, Bowman J. could find no basis whatsoever for the amortization
+of the balance of the TIP over the term of the lease.  Beginning with the
+proposition that, even for accounting purposes, expenditures are to be
+attributed to the period that they benefit and revenues are either to be
+allocated to the period in which they are earned or applied as a reduction of
+expenses for the period to which they relate, he observed that the tenant
+inducement agreement specified that the purpose of the TIP was strictly to
+induce Ikea to enter into the lease and carry on business in the premises.  The
+question, then, was when the payment was actually earned.  One possibility was
+that it was earned when the consideration flowed from Ikea to the Mall, that
+is, when Ikea commenced business at the Mall.  In fact, the agreement
+stipulated that the right to the TIP became absolute seven days after this
+event.  If it was completely earned in this way, however, then in the view of
+Bowman J., this analysis did not support the amortization of the payment over
+the term of the lease.  Such treatment could only be rationalized either by
+deeming the consideration flowing from Ikea to consist not only of the signing
+of the lease and the fulfilment thereof, but also of its continuing obligation
+to carry on its business in the premises during the term of the lease, or by
+regarding the TIP as a reduction of the rent payable over the term of the
+lease.  However, neither of these hypotheses supported Ikea’s treatment of the
+TIP as capital.  Both supported its treatment as revenue.  9                                  
+Bowman J. considered in some detail the role of accountants and GAAP in
+the court’s determination of income tax matters.  He viewed such evidence as
+potentially useful in indicating the underlying commercial and economic reality
+that the transaction represents, free of tax considerations, but viewed
+accounting evidence as only of “marginal assistance” in tax cases.  He relied
+on several cases, including Neonex International Ltd. v. The Queen, 78
+D.T.C. 6339 (F.C.A.), Oxford Shopping Centres Ltd. v. The Queen, 79
+D.T.C. 5458 (F.C.T.D.), and Associated Investors of Canada Ltd. v. M.N.R.,
+67 D.T.C. 5096 (Ex. Ct.), in support of the proposition that the accounting
+treatment of revenues and expenses is not determinative and that the true
+question is one of law, having regard to “ordinary commercial principles”. 
+Relying on the decision of this Court in Symes v. Canada, [1993] 4
+S.C.R. 695, he found at p. 1117 that “GAAP is not relevant in determining
+whether a receipt or expense is on revenue or capital account . . .
+[or] whether an item of revenue is to be recognized in the year of receipt or
+in a later year”, and concluded at p. 1118 that while GAAP may have “an
+extremely circumscribed subordinate function” within ordinary commercial
+principles, “[i]t cannot supersede those principles”.  10                              
+Turning to the first substantive question, whether the TIP was on
+revenue account or on capital account, Bowman J. first noted a number of
+relevant facts.  Ikea was not in the business of entering leases, and although
+the leasing of property was obviously an essential part of its business, the leases
+were nonetheless capital assets in its hands.  The leasing of premises by Ikea
+was not of such frequency that lease negotiations could be regarded as a
+“recurrent or ordinary phenomenon” in its business.  Ikea had requested the TIP
+as part of the overall economic package surrounding the lease, and had
+acknowledged at trial that the terms and conditions of its leases affected its
+profits on an ongoing basis.  However, the base rent agreed to was suggested
+early in the lease negotiations and never changed.  On this basis, Bowman J.
+concluded that the TIP resulted in an increase in the aggregate value of the
+rent which Ikea agreed to pay, based on the direct correlation between the use
+of such payments and the ability of a landlord to realize higher rents.  In his
+view, this conformed to “obvious commercial common sense”.  Bowman J. was also
+of the opinion that the other evidence, including that given by an officer of
+Ikea, confirmed that the TIP was “inextricably bound up with the rent that was
+to be paid and the economic return that the parties expected from the
+commercial relationship between them”.   12                              
+In the view of Bowman J., relying on London and Thames Haven Oil
+Wharves, Ltd. v. Attwooll, [1967] 2 All E.R. 124 (C.A.), the crucial matter
+to be determined, as a general rule and irrespective of whether the receipt
+reimbursed a “loss” or an “expenditure”, is the nature of the expense that the
+payment is designed to reimburse.  If the reimbursement is of a capital loss or
+a capital expenditure, then the receipt will be on capital account: Woodward
+Stores Ltd. v. The Queen, 91 D.T.C. 5090 (F.C.T.D.), and Suzy
+Creamcheese (Canada) Ltd. v. The Queen, 92 D.T.C. 6291  (F.C.T.D.). 
+From the cited case law, he concluded that while in the absence of a statutory
+provision to the contrary, a payment made to a taxpayer to reimburse the taxpayer
+for the cost of capital property does not reduce the capital cost of the
+property for tax purposes, such a payment is nonetheless a capital receipt and
+is not to be included in income under the Act.  On the other hand, a payment
+made as a reimbursement to  the taxpayer for an expense that is on revenue
+account, or as a reduction of such an expense, is an income receipt and must
+therefore be included in income.  13                              
+In applying the law to the facts of this case, Bowman J. observed that
+under the tenant inducement agreement, Ikea was not obliged to apply the TIP to
+any expense in particular.  Aside from the accounting treatment of the expense,
+which was seen as irrelevant, nothing in the evidence could support the
+conclusion that the payment was made to reimburse a capital expenditure or
+capital loss.  Indeed, there was no other linkage whatsoever between the
+payment and any capital outlay.  Bowman J. held that there was no reason to
+extend the principle in Birmingham v. Barnes, supra, to allow the
+accounting treatment of a receipt to affect its characterization as revenue or
+capital.  He concluded that it would have been arbitrary to treat the payment
+as capital for tax purposes merely because it may not have been inappropriate
+for accounting purposes to attribute a portion of it to the cost of fixed
+assets.  This, he found at p. 1124, would have constituted “an abdication to
+the professional judgment of accountants of the court’s obligation to determine
+what is essentially a question of law”.   15                              
+Turning to the second question, the timing of recognition of the
+receipt, Bowman J. again found that the accounting treatment of the TIP was not
+determinative.  He could find no basis in the Act for a reserve in respect of
+this type of income, and observed at p. 1125 that, as a rule, “amounts become
+taxable as income in the year of receipt provided the amounts received exhibit
+the nature and quality of income at that time”: The Queen v. Foothills Pipe
+Lines (Yukon) Ltd., 90 D.T.C. 6607 (F.C.A.), at p. 6612.  Put another way,
+the question was whether Ikea’s right to the receipt became absolute, with no
+restriction as to its disposition, use or enjoyment, in the year in question: Kenneth
+B. S. Robertson Ltd. v. M.N.R. (1944), 2 D.T.C. 655 (Ex. Ct.).  In the view
+of Bowman J., this condition was clearly satisfied, and thus, the income was
+taxable in 1986.  Accordingly, he dismissed Ikea’s appeal of the reassessment
+on both counts.  2.  Federal Court of Appeal (Reasons of Robertson J.A., for
+the court), 96 D.T.C. 6526   IV.  Issues  17                              
+Two issues are raised on this appeal.  The first is whether the TIP
+received by Ikea was to be treated for tax purposes as revenue or as a capital
+receipt.  If it was properly to be considered revenue, the next task is to
+determine when it was to be included in income: entirely in the year received
+or amortized over the period of the lease of which it was the catalyst.  V.  Analysis  18                              
+By way of preliminary comment, I should like to acknowledge the great
+assistance provided by the lucid and comprehensive reasons of Bowman J.  As
+shall become clear, I agree substantially with his reasons on both of the
+issues raised in this appeal.  However, because this appeal was heard together
+with those in Canderel and Toronto College Park, and particularly
+because of the importance of the issue of timing to the outcome of those appeals,
+I feel obliged to make some brief observations of my own.  1.  Legislative change since 1986  19                              
+At the outset, I would note that since the dispute which precipitated
+this case arose, the Income Tax Act  has been amended to include a
+specific provision dealing with the issues raised on this appeal.  The relevant
+portions of R.S.C., 1985, c. 1 (5th Supp .),  s. 12(1) (x) read:  12. (1)  There shall be included
+in computing the income of a taxpayer for a taxation year as income from a
+business or property such of the following amounts as are applicable:                                                                     . . .  (x)  any amount (other than a prescribed amount) received
+by the taxpayer in the year, in the course of earning income from a business or
+property, from  (i)    a person who pays the amount (in this paragraph referred to as
+“the payer”) in the course of earning income from a business or property or in
+order to achieve a benefit or advantage for the payer. . . .                                                                     . . .  where the amount can reasonably be considered to have been received  (iii)  as an inducement, whether as a grant, subsidy, forgivable loan,
+deduction from tax, allowance or any other form of inducement, or  (iv)  as a reimbursement, contribution or allowance or as assistance
+. . . in respect of the cost of property or in respect of an outlay
+or expense  to the extent that the amount  (v)  was not otherwise included in computing the taxpayer’s
+income, or deducted in computing, for the purposes of this Act, any balance of
+undeducted outlays, expenses or other amounts, for the year or a preceding
+taxation year. . . .  20                              
+It is evident that the TIP paid to Ikea in the instant case would fall
+squarely within this section, which would render the payment income to Ikea and
+taxable entirely in the year received.  However, because the section was not in
+force in 1986, when the payment in question was received, the matter remains to
+be determined for the purposes of this appeal in accordance with the law as it
+existed then.  The new provision, obviously, has no effect on the outcome of
+the instant case.  2.  Capital or income?  21                              
+Ikea argued that the TIP was a capital receipt and not income, and
+therefore should not have been included in income at all.  This argument was
+premised primarily on an attempted analogy between this receipt and an amount
+received upon the acquisition or disposition of a capital asset, which is
+clearly a capital receipt:  Woodward Stores, supra; Westfair
+Foods Ltd. v. Canada, [1991] 1 C.T.C. 146 (F.C.T.D.).  As the argument
+goes, the character of the receipt is properly to be determined by the
+character of the asset to which it relates, and because the lease that gave
+rise to the TIP in this case was characterized by the trial judge as a capital
+asset in Ikea’s hands, the TIP itself must therefore be considered a capital
+receipt.  However, no specific authority was advanced in support of this
+interpretation, and for my part, I am unable to see any legal basis for the
+analogy.   [income] subsidies come into the hands of the recipient in the
+course of trade or business operations or because of them and, being
+operational revenues, may properly be described as income subsidies subject to
+tax.  The situation in the present case is quite different.  The appellant
+was not entitled to receive nor did it receive the subsidy in the course of its
+trade or business operations or because of them.  The subsidy was not a trade
+or business receipt or revenue or an item of trade or business profit or gain. 
+There was no guarantee of trade or business profits or earnings nor was the
+subsidy given to supplement or increase the operational revenues of the
+appellant.  Indeed, the subsidy payments had nothing to do with the trade or
+business operations of the appellant at all.  [Emphasis added.]  In my view,
+this passage is most instructive in setting out useful criteria for the
+classification of “unusual” receipts as income or capital.  23                              
+The case law cited by Bowman J., beginning with Birmingham v. Barnes,
+supra, and continuing through IBM Canada Ltd. v. M.N.R., 93
+D.T.C. 1266 (T.C.C.), reaffirms this proposition.  Where a payment is made to a
+taxpayer as a reimbursement for the cost of capital property, it is to be
+treated as a capital receipt for tax purposes.  On the other hand, a payment
+that is made as a reimbursement for an expense on revenue account is to be
+treated as income.  In fact, even the case law cited by Ikea in support of its
+contention that the TIP was a capital receipt in the end commends the opposite
+conclusion, given the above analysis.  In Woodward Stores, supra,
+at p. 5091, the payment in question, while clearly a TIP, was earmarked
+specifically as a “fixturing allowance”.  It was advanced for the express
+purpose of reimbursing a capital expense, and therefore constituted a capital
+receipt.  Similarly, in Westfair Foods, supra, the payments made
+to the taxpayer were characterized by the court as capital receipts only
+because they were compensation for the premature termination of leases and
+therefore related to the disposition of a capital asset.  These cases are both
+entirely consistent with the law as stated by Bowman J. and provide no specific
+assistance to Ikea’s argument.  24                              
+That the lease of the premises here in question was to Ikea a capital
+asset was not disputed, and I believe this proposition is correct in law.  It
+follows that if the payment in question had been made by Ikea for the purpose
+of acquiring the lease, it would have been a capital payment, and this too is
+undisputed.  To my mind, however, there is a significant difference between a
+payment made by the lessee for the purpose of acquiring a lease and one
+received by the lessee as an inducement to lease.  Whereas a capital asset is
+surely paid for by a capital expenditure, and disposed of in consideration of a
+capital receipt, I see no reason why two simultaneous acquisitions by the same
+party, that is, the lease and the cash payment, must be characterized in the same
+way for tax purposes simply because they are related to the same transaction. 
+Obviously, the TIP was not paid as consideration for the disposition of a
+capital asset; quite the opposite, in fact.  The symmetry contended for by
+Ikea, though perhaps convenient, is not necessarily the rule in tax law.  25                              
+The question which must be asked in this case is whether, on the facts,
+the TIP was received by Ikea as reimbursement of an expenditure, or replacement
+of a loss, which was on capital or on income account.  Bowman J. found that the
+payment could not be linked to any capital expenditure or purpose.  Instead, in
+his words at p. 1125:  The negotiation of the lease and the payment of rent are, however,
+necessary incidents of the conduct of the appellant’s business, and in
+determining the cost to the appellant of carrying on its business in the West
+Edmonton Mall it is impossible to imagine how such a payment could be ignored. 
+. . . It is true, as Reed, J. observed in Westfair Foods Limited,
+that not every receipt that is related to a business is necessarily
+income from that business.  She was, however, dealing with a receipt
+that, albeit related to the business, was nonetheless one that arose from a
+disposition of a capital asset of that business. Here we are concerned with
+a receipt that, although it does not arise from the sale of the goods or
+services in which the company deals, is directly and inextricably bound up with
+the economics of the operation.  It impinges immediately upon the costs that
+must be satisfied out of the appellant’s trading operations. [Italics in
+original; underlining added.]    27                              
+Ikea submitted that Bowman J. premised his conclusion on the improper
+assumption that simply because the receipt was not capital, it was therefore
+income.  Certainly, it is possible that a given receipt might constitute
+neither capital nor income for the purposes of the Act; if it is not received
+from a “source” of income, as that term has been judicially defined, an amount
+may not be taxable at all: see, for example, Schwartz v. Canada, [1996]
+1 S.C.R. 254.  Each receipt must be considered individually in order to
+ascertain its true character, and it would certainly be improper to classify a
+receipt as income automatically upon the determination that it is not capital.     31                              
+In IBM Canada, supra, Mogan J. discussed  the purpose of
+TIPs in the following terms (at p. 1274):  Taken at face value, the underlying purpose for the
+payments was to induce the Appellant to sign the seven leases.  But that face
+value purpose is too simplistic because each lease brings into existence both
+rights and obligations.  In the circumstances of this case, I find that the
+primary consideration granted by the Appellant for the lease inducement
+payments was the Appellant’s acceptance of its obligations under the various
+leases to pay rent during the terms of those leases.  Those obligations were on
+revenue account. . . . I find that the inducement payments flowing from
+the various landlords to the Appellant are just as much revenue payments as the
+periodic rental payments flowing from the Appellant to its landlords. 
+[Emphasis added.]  See also French
+Shoes, supra, as a further example of the characterization of this
+type of expense as being on revenue account.  32                              
+I can see no basis at all on which to distinguish IBM Canada from
+the present case.  Therefore, I am of the opinion that this argument must also
+fail.  33                              
+In my view, Bowman J. was entirely correct in finding that the TIP
+received by Ikea was on revenue account and should have been included in income
+for tax purposes.  The payment was clearly received as part of ordinary
+business operations and was, in fact, inextricably linked to such operations. 
+On the evidence, no question of linkage to a capital purpose can seriously be
+entertained.  Had Ikea wished, it could have requested that the TIP be advanced
+expressly for the specific purpose of fixturing, or to defray some other
+capital cost.  It did not do so, however, and the payment was in fact made free
+of any conditions for or stipulations as to its use.  Therefore, whether the
+TIP represented a reduction in rent or a payment in consideration of Ikea’s
+assumption of its various obligations under the lease, it clearly cannot be
+treated as a capital receipt and should have been included in Ikea’s income. 
+The question that remains, however, is in which taxation year should this
+inclusion have taken place.  3.  Timing
+of recognition  34                              
+To my mind, the timing analysis in the present case is considerably less
+complicated than in either Canderel or Toronto College Park,
+which involved the deduction of  TIPs from the income of the payer, not their
+inclusion in the income of the recipient.  In the present case, the
+jurisprudence clearly points to the conclusion that the TIP was taxable in the
+hands of Ikea in the year in which it was received.  In M.N.R. v. Benaby
+Realties Ltd., [1968] S.C.R. 12, Judson J. considered the timing of
+recognition of certain proceeds of expropriation.  He concluded, at p. 16,
+that the Act “requires that profits be taken into account or assessed in the
+year in which the amount is ascertained”.  35                              
+Similarly, in Foothills Pipe Lines, supra, at
+p. 6612, Urie J.A. provided the following concise summary of the law:  A considerable body of jurisprudence has developed
+certain principles applicable in determining whether or not sums of money
+received by a taxpayer are to be considered as income in the tax period when
+received or are to be recorded as a liability or in some other way.
+. . .  It is useful then to recall that, as a matter of
+law, amounts become taxable as income in the year of receipt provided the
+amounts received exhibit the nature and quality of income at that time. 
+[Emphasis added.]  36                              
+In using the term “quality of income”, Urie J.A. referred at p. 6612 to Kenneth
+B. S. Robertson Ltd., supra, at pp. 661, where Thorson
+J. enunciated the following test as to whether an amount received by a
+taxpayer has this quality:  Is his right to it absolute and under no restriction, contractual or
+otherwise, as to its disposition, use or enjoyment?  37                              
+The combined effect of these passages is to confirm what in the law of
+income tax has become known as the “realization principle”, given that an
+amount may have the quality of income even though it is not actually received
+by the taxpayer, but only “realized” in accordance with the accrual method of
+accounting.  The ultimate effect of this principle is clear: amounts received
+or realized by a taxpayer, free of conditions or restrictions upon their use,
+are taxable in the year realized, subject to any contrary provision of the Act
+or other rule of law.  The TIP received by Ikea in the present case fits this
+description perfectly.  The tenant inducement agreement made it clear that the
+sole condition precedent to receipt of the payment was the assumption of Ikea’s
+obligations under the lease agreement, and further stipulated that the payment
+was to be made within seven days of Ikea’s commencing business in the premises,
+pursuant to the lease.  Thus, Ikea’s right to the payment became absolute at
+that time.  There were no further strings attached such as to postpone actual
+realization or receipt into a subsequent taxation year, and the payment was
+received in full by Ikea in 1986.  Therefore, I conclude that the entire amount
+was taxable in that year.  38                              
+I cannot accept Ikea’s argument that the case law relied upon by the
+courts below is not relevant to this case.  Ikea notes that Robertson
+was decided not under the present Income Tax Act  but under its
+predecessor, the Income War Tax Act, R.S.C. 1927, c. 97.  That
+statute made taxable all income received in a year and did not permit
+computation of profit on the accrual basis, which is now the only acceptable
+method in most cases.  Therefore, it is argued, the “matching principle” of
+accounting, the application of which was held to be mandatory by the Federal
+Court of Appeal in both Canderel and Toronto College Park, was
+not then relevant and the computation of profit was a completely different
+matter.   40                              
+This situation is quite different from that canvassed in Canderel,
+where the issue was when a TIP is to be deducted from the income of the payer,
+rather than included in the income of the payee.  There, in a proper fact
+situation (though not in Canderel or Toronto College Park), it
+could well be argued that the payment relates directly to specific items of
+revenue to be realized in subsequent taxation years, and that a more accurate
+picture of income is thus to be obtained via matching.  But I fail to see how a
+TIP to which the payee’s right accrues immediately upon the assumption of its
+obligations under a contract can properly be said to relate to future
+expenditures.  The consideration for the TIP is not the future payment of rent,
+but rather, the immediate assumption of the contractual obligations.  In such a
+case, unless otherwise specified by the inducement agreement, then, and in the
+absence of statutory or case law authority to the contrary, the realization
+approach commends itself as that which will give a more accurate picture of the
+taxpayer’s income.  41                              
+Before concluding, one final matter bears mentioning.  Even if this
+approach is prone to lead to asymmetry in some future case, where a TIP might
+be amortizable by the payer over the term of the lease but should properly be
+included in income immediately by the payee, such is perhaps an inevitable
+consequence of the attempt to obtain an accurate picture of each taxpayer’s
+income.  It should be of no real concern to the law, however.  Each case must
+necessarily turn on its individual facts, and on the particular situation of
+each individual taxpayer.  The desirability of an accurate picture of income,
+in my view, inherently outweighs the possible inconvenience of an asymmetrical
+result in the occasional case.  In this regard, I am in agreement with
+Robertson J.A. in the court below.  VI.  Disposition  42                              
+For the foregoing reasons, I would dismiss the appeal with costs.  Appeal dismissed with costs. Solicitors for the appellant:  Thorsteinssons, Vancouver.  Solicitor for the respondent:  The Attorney General of
+Canada, Ottawa.    

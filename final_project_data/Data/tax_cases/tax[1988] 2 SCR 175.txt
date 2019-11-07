@@ -1,0 +1,442 @@
+ mattabi mines ltd. v.
+ont. (min. of revenue), [1988] 2 S.C.R. 175  Mattabi Mines
+Limited                                                                     Appellant  v.  The Minister of
+Revenue (Ontario)                                                  Respondent  indexed as: mattabi mines ltd. v. ontario (minister of revenue)    File No.: 18871.  1988: February 1;
+1988: October 20.    on appeal from the court of appeal for ontario                       Held: The appeal should
+be dismissed.                       The
+retroactive abolition of the tax exemption by the province could not per se
+constitute a reason for interpreting the Regulation so as to compel the
+respondent to accept the amendment. It was irrelevant to the issue of interpretation.
+The province's repeal of the tax exemption in no way changed the law applicable
+to the filing of amended returns and the question of whether, on the true
+interpretation of the provincial legislation, the respondent was obliged to
+accept them.                      Appellant
+contended also that the payment of $50 in capital tax in 1971, included by
+mistake in exploration and development expenses for 1972, constituted an error
+sufficiently egregious that it be required to alter its 1972 return by making
+this payment a deductible loss in 1972 pursuant to s. 60(1)(c) of the
+Act. Again, there was no statutory provision that required the respondent to
+accede to this request. The error was a minor one accepted by the respondent
+and the time for amending returns without authority was long past.                     Finally,
+appellant was not entitled to reopen its 1974 return to deduct additional
+capital cost allowance given the disallowance of the investment tax credit.
+There was no statutory provision by which the respondent was required to accept
+this amendment.  Cases Cited   Statutes and
+Regulations Cited  Corporations Tax Act, 1972, S.O. 1972, c.
+143, ss. 1(1)(48), 12, 22(1)(a), 25, 60(1)(c), 75(2)(a),
+99(7)(b), 106(1), (4), (5)(b), 157(1), 159.     Regulation made under The Corporations Tax Act, 1972, O. Reg. 350/73,
+s. 301(1).  Authors Cited                       APPEAL
+from a judgment of the Ontario Court of Appeal, [1984] C.T.C. 566, 3 O.A.C. 69,
+setting aside a judgment of Keith J., [1982] C.T.C. 382. Appeal dismissed.                     Murray
+A. Mogan, Q.C., and John R. Sproat, for the appellant.                     Gerald
+W. Sholtack and Augustine J. Arrigo, for the respondent.                     The
+judgment of the Court was delivered by   I The Facts     Although this credit
+was normally only available for the fiscal year in which the machinery and
+equipment was "acquired and used", s. 106(4) permitted it to be
+carried forward if the taxpayer had incurred a "net loss" in previous
+taxation years. Section 106(5)(b) of the Act defined "net
+loss":   4.                       Along
+with its 1974 return claiming the tax credit ($736,962) Mattabi also filed an
+amended return for the fiscal year ending December 31, 1971. This amended
+return claimed a loss of $100 for 1971 by adding a capital cost allowance claim
+of that amount to the previously reported income of "nil". Given that
+Mattabi's reported taxable income for the fiscal year 1972 was also
+"nil", it claimed a "net loss" of $100 for all fiscal years
+ending between April 26, 1971 and April 1, 1973 which brought it within the
+terms of the s. 106 carry forward provisions. The Minister refused to accept
+the amended return and consequently disallowed the claim for a tax credit. The
+Minister also refused to accept two further amendments to the 1971 and 1972
+returns which would also have created a "net loss" for Mattabi.
+Mattabi successfully appealed the Minister's decision on the capital cost
+allowance to the Supreme Court of Ontario, [1982] C.T.C. 382, but the Court of
+Appeal for Ontario allowed an appeal from that decision by the Minister: [1984]
+C.T.C. 566.  II The
+Judgments Below  (a) Supreme
+Court of Ontario   The practice of this Court has always been to permit amendments to
+pleadings that are required to form the foundation of a just judgment of the
+Court, at any stage of the proceedings, even extending to the end of a trial.
+On occasion it may be necessary to refuse an application to amend at a late
+time; on other occasions, it may be right and proper in the discretion of the
+judge, to impose terms on the applicant. The essential point however, is that
+no application for leave to amend a pleading is to be rejected on the sole
+ground that it is made at a late time in the proceedings. In any event, while
+the decisions of members of the Tax Appeal Board are always entitled to the
+greatest respect and in many cases have persuasive force, they are not binding
+on this Court.                      When the Province belatedly took action, the
+appellant ... knew that its mining income for 1974 would be subject to
+provincial tax ... instead of being totally exempt for 1974 and the first 7
+months of 1975, but it could hardly have expected to be deprived at the same
+time of the benefit of the incentive tax deduction contained in section 106 of
+the Statute.                                                                      ...                       Thus in the case before me, there is a long standing
+departmental practice of the federal authorities, to permit and accept amended
+corporate income tax returns, to claim a revision of capital cost allowance in
+accordance with the Interpretation Bulletins I have quoted.                     I am firmly of the opinion that the federal
+authorities having accepted such an amendment for the appellant's 1971 fiscal
+year, the respondent was obliged by the applicable Ontario regulations to do
+likewise.                     That this amendment caused the appellant to qualify
+for an investment tax credit in 1974, provides no basis in law or logic for the
+respondent to refuse to accept such amendment.  8.                       Thereafter,
+without addressing the interpretation of the section, Keith J. found that
+Mattabi had incurred a "net loss" for purposes of s. 106(5)(b)
+and could claim the tax credit. Although he did not need to do so, Keith J.
+noted briefly that he would not have permitted Mattabi's alternative claim to
+create a net loss in 1972 by altering its characterization of certain interest
+expenditures from capital expense to interest expense. He made no comment on
+Mattabi's further alternative claim to the same end which was based on a $50
+capital tax payment in 1971 allegedly erroneously recorded as part of
+exploration and development expenses. Because of his decision on the tax
+credit, Keith J. also did not discuss the merits of the alternative general
+claim for relief based on a reopening of the 1974 tax return.  (b) Ontario
+Court of Appeal  9.                       The
+Court of Appeal (Brooke, Weatherston and Robins JJ.A.) took a rather different
+approach to the issues before them. Robins J.A., for the Court, began by noting
+that it was irrelevant whether or not Mattabi could amend its 1971 return.
+Since in his view it did not affect the result, he was prepared to accept that
+it could do so, although he disagreed with Keith J. that the retroactive nature
+of the abolition was significant (at p. 570):  That section was repealed by a valid enactment of the provincial legislature.
+Its repeal in no way affects the law applicable to the filing of amended tax
+returns and is irrelevant to a determination of whether the Minister is obliged
+to accept an amended return.  10.                     Robins
+J.A. concentrated on the interpretation of s. 106(5)(b), the definition
+of "net loss". He noted the Company's argument that income exempt
+from tax was not to be included in the calculation of whether such a loss had
+occurred but rejected it. In his view the definition of "net loss"
+did not exclude income exempt from tax from the calculations. He noted that the
+section "speaks of "incomes" in the plural". In addition
+the tax credit provision itself, s. 106(1), required that the machinery be used
+"for the purpose of earning income", which the Company claimed was
+the case here. Robins J.A. thought the Company's position inconsistent and
+untenable (at p. 571):                       Either way, the Company cannot succeed.  Robins J.A. found
+support for this interpretation in the policy of the Act and in principles of
+statutory interpretation. The result he had reached (at p. 572):   11.                     This
+conclusion meant also that, even if permitted, the alternative attempts to
+create a net loss would not do so. Robins J.A. therefore did not discuss them.
+He did, however, specifically reject the Company's alternative claim for relief
+based on amendments to the 1974 return. He said at p. 572:   III The
+Interpretation of s. 106  12.                     Leaving
+aside for the moment questions relating to the specific grounds on which
+Mattabi claims that it can create a "net loss" for the qualifying
+period, the threshold issue in this appeal concerns the interpretation of s.
+106. In particular, it is necessary to decide the meaning of "for the
+purpose of earning income" in s. 106(1) and "incomes" in s.
+106(5)(b). The requirements for claiming the tax credit set out in s.
+106(1) are that, inter alia, the machinery and equipment must be used
+"for the purpose of earning income". What does this phrase mean? The
+Court of Appeal held that "income" must mean taxable income under
+Division B of the Act, not tax exempt income. In other words, there must be a
+direct connection between expenditures eligible for the investment tax credit
+and the earning of taxable income.    (a)               an outlay or expense
+except to the extent that it was made or incurred by the corporation for the
+purpose of gaining or producing income from the business or property;                     18. (1) In computing the income
+of a taxpayer from a business or property no deduction shall be made in respect
+of  (a) an outlay or expense except to the extent that it was
+made or incurred by the taxpayer for the purpose of gaining or producing income
+from the business or property;                      It is not necessary that the outlay or expense
+should have resulted in income. In Consolidated Textiles Limited v. M.N.R.,
+[1947] Ex. C.R. 77 at 81; [1947] C.T.C. 63, I expressed the opinion that it was
+not a condition of the deductibility of a disbursement or expense that it
+should result in any particular income or that any income should be traceable
+to it and that it was never necessary to show a causal connection between an
+expenditure and a receipt. And I referred to Vallambrosa Rubber Co. v. C.I.R.
+(1910), 47 S.C.L.R. 488 as authority for saying that an item of expenditure
+may be deductible in the year in which it is made although no profit results
+from it in such year and to C.I.R. v. The Falkirk Iron Co. Ltd. (1933),
+17 T.C. 625, as authority for saying that it may be deductible even if it is
+not productive of any profit at all . . . .                     The essential limitation in the exception expressed
+in Section 12(1)(a) is that the outlay or expense should have been made by the
+taxpayer "for the purpose" of gaining or producing income "from
+the business". It is the purpose of the outlay or expense that is
+emphasized but the purpose must be that of gaining or producing income
+"from the business" in which the taxpayer is engaged. If these
+conditions are met the fact that there may be no resulting income does not
+prevent the deductibility of the amount of the outlay or expense. Thus, in a
+case under the Income Tax Act  if an outlay or expense is made or
+incurred by a taxpayer in accordance with the principles of commercial trading
+or accepted business practice and it is made or incurred for the purpose of gaining
+or producing income from his business its amount is deductible for income tax
+purposes. [Emphasis added.]  Similar views were
+expressed by this Court in Premium Iron Ores Ltd. v. Minister of National
+Revenue, [1966] S.C.R. 685. A majority of the Court found that the
+limitation in the federal Act permitted the taxpayer to deduct legal expenses
+incurred in successfully resisting a tax demand by the United States Internal
+Revenue Service. In separate opinions, Martland, Abbott and Hall JJ., all noted
+that the current s. 18(1)(a), which dates from 1948, liberalized claims
+for deductible expenses. The previous provision, s. 6(a) of the Income
+War Tax Act, R.S.C. 1927, c. 97, had read:                     6. In computing the amount of the profits
+or gains to be assessed, a deduction shall not be allowed in respect of  (a) disbursements or expenses not wholly, exclusively
+and necessarily laid out or expended for the purpose of earning the income;
+[Emphasis added by Martland J.]  In addition, the old
+Act had defined "income" as "the annual net profit or
+gain . . . ." According to Martland J. "the
+present wording of para. (a)...was intended to broaden the definition of
+deductible expenses...[a]s now worded, [it] permits the deduction of any
+expense made for the purpose of producing income from a property or
+business" (p. 702). He then went on to take a broad approach to the
+meaning of "purpose" (at p. 703):                     Clearly these expenses were not made solely for the
+purpose of earning income in the year in which they were incurred. They did not
+directly result in the earning of income at all. But they were made with a view
+to protecting the income earning capacity of the
+company . . . .  Hall J. adopted a
+similarly broad view of income when used in the phrase "gaining or
+producing income". He said at p. 711:  The limitation, spelled out in s. 12(1)(a), does not, in
+referring to `producing income from the property or business of a taxpayer',
+limit the words quoted solely to the taxation year in which the deduction is
+being claimed. It is a clear indication to me that the income thus referred to
+may be the income of the taxation year under review or of a succeeding year.                     A company such as the appellant exists to make a
+profit. All its operations are directed to that end. The operations must be
+viewed as one whole and not segregated into revenue producing as distinct from
+revenue retaining functions, otherwise a condition of chaos would obtain.    2. The Department's views may be helpful in the interpretation of
+certain phrases used in the opening words of subsection 18(1) and in paragraph
+18(1)(a), but it should be remembered that these phrases must also be
+considered in relation to the wording of the paragraph as a whole.                                                                      ...    As I have indicated,
+this Bulletin is in accord with the interpretation the courts have put on
+phrases such as "gaining or producing income" and "earning
+income". I conclude that Mattabi meets the qualifying provisions in s.
+106(1) of the Act.  16.                     My
+conclusion to this point only assists Mattabi to qualify for the tax credit in
+the year in which the expenditures were made, i.e., 1971. But the Company was
+exempt from tax in that year and thus for the credit to be of any practical use
+the Company must be able to carry it forward. The conditions under which that
+may be done are set out in s. 106(2) to (4):                     (2) For the purposes of this section, where the
+machinery and equipment in respect of which the provisions of subsection 1
+would otherwise apply, is not used by the corporation in the fiscal year in
+which it is acquired, such machinery and equipment shall be deemed to have been
+acquired and used by the corporation in the fiscal year in which it is first
+used.                     (3) Any amount which may be deducted under
+subsection 1 may be deducted in subsequent fiscal years to the extent that the
+deduction allowed under subsection 1 exceeds the tax otherwise payable by the
+corporation in the previous fiscal years and, except as herein provided, no
+deduction shall be allowed in any fiscal year of the corporation ending after
+the 31st day of March, 1973, except that with respect to the first fiscal year
+of the corporation ending after the 31st day of March, 1973, the amount which
+may be deducted from the tax otherwise payable for that fiscal year shall not
+exceed that portion of the tax otherwise payable for that fiscal year that the
+number of days in that fiscal year prior to the 1st day of April, 1973, bears
+to 365.                     (4) Notwithstanding subsection 3, where a
+corporation has a net loss, any amount which may be deducted under subsection 1
+may be deducted in subsequent fiscal years to the extent that the deduction
+allowed under subsection 1 exceeds the tax otherwise payable by the corporation
+in the previous fiscal years and, except as herein provided, no deduction shall
+be allowed in any fiscal year of the corporation ending after the 31st day of
+March, 1974 . . . .  The crucial phrase
+here is "net loss", which is defined in s. 106(5)(b):                     (5) In this section,                                                                      ...    18.                     Income
+is dealt with in Part II of the Act which covers ss. 8 to 122 and therefore
+includes s. 106. Division B of Part II entitled "Computation of
+Income" begins with the formula for determining the income of a
+corporation in any fiscal year (s. 12). The section begins:                     12. The income of a corporation for a
+fiscal year for purposes of this Part is its income for the year
+determined by the following rules...[Emphasis added.]  "This Part"
+is, as noted above, Part II and includes s. 106. The rules laid out in s. 12
+are followed by a large number of sections dealing with what must be included,
+what may be deducted, and so on. Subdivision F of Division B headed "Amounts
+Not Included in Computing Income" contains s. 75(2)(a):   19.                     Two
+possible ways of interpreting the relationship between s. 75(2)(a) and
+s. 106 were advanced by the parties. The Company's argument was simply that the
+plain meaning of the Act resulted in Mattabi having no income for the purposes
+of Part II (including s. 106) during this period. The Minister implicitly
+accepted that this correctly represented the plain meaning but urged this Court
+to hold that the carry forward provisions "could not have been intended to
+apply to corporations which earned large incomes but which were exempted under
+other provisions of the Act from paying taxes on those incomes during the
+qualifying period". To qualify, he submitted, a taxpayer must have incurred
+a "true net loss". The Minister supported this interpretation by
+noting that the credit was designed to provide an incentive to purchase
+equipment and that such incentive would only be effective in the case of a
+company that actually paid tax. Therefore, it could not in his submission have
+been intended to apply in the present case.  20.                     The
+Minister, in effect, asks the Court to find, in the absence of a separate
+definition for the section, that "income" has a different meaning in
+s. 106 from its meaning "for the purposes of" Part II of the Act in
+which the section appears. Robins J.A. in the Court of Appeal seems to have
+accepted this submission. He concludes that "income" in s. 106 is, in
+effect, a synonym for profit. Accordingly, it does not matter whether the
+profit is tax exempt or not. The difficulty with this position, as I see it, is
+that a taxing statute is a highly technical piece of legislation which requires
+an interpretation that will ensure certainty for the taxpayer. Many of the
+words used carry a very specific and technical meaning because they identify
+the fundamental concepts underpinning the legislation. "Income" is
+one of those fundamental concepts.    3.                Moreover, the formal validity of the transaction
+may also be insufficient where:                                                                      ...  (c) `the object and spirit' of the allowance or benefit provision
+is defeated by the procedures blatantly adopted by the taxpayer to synthesize a
+loss, delay or other tax saving device, although these actions may not attain
+the heights of `artificiality' in s. 137. This may be illustrated where the
+taxpayer, in order to qualify for an `allowance' or a `benefit', takes steps
+which the terms of the allowance provisions of the Act may, when taken in
+isolation and read narrowly, be stretched to support. However, when the
+allowance provision is read in the context of the whole statute, and with the
+`object and spirit' and purpose of the allowance provision in mind, the
+accounting result produced by the taxpayer's actions would not, by itself, avail
+him of the benefit of the allowance.    23.                     The
+submission of the Minister is that a reading of the whole statute according to
+its plain meaning can defeat a narrow, technical interpretation of a particular
+provision. However, in the present case consideration of the whole statute reveals,
+if anything, support for the Company's position. "Income" is a
+defined term in Part II of the Act and the failure to define income differently
+for purposes of s. 106 which is contained in Part II has to be treated as
+significant. Interpretation according to the "object and spirit" of
+the legislation cannot, in my view, overcome a clear statutory definition. This
+is not a case in which the Court has a choice of the interpretations it may put
+upon the language used by the legislature. The legislature has specifically
+addressed the subject. I would therefore conclude that in assessing whether
+Mattabi had a "net loss" one must start with the finding that for
+purposes of s. 106(5)(b) its "incomes" were "nil".   IV Revision of
+the 1971 Return   9. Where a taxpayer requests a revision of capital cost allowance
+claimed in a year which was assessable to a "nil" income tax (because
+of a loss in that year, the application of a loss of another year, or the fact
+that income was exempt from tax in that year), such requests will be allowed
+only if there is no resulting change in the tax assessed for the year or any
+other year of the taxpayer for which the time has expired for filing a notice
+of objection. [Emphasis added.]  Mattabi had submitted
+such a revision for 1971 to the federal government in 1975 along with its 1974
+return and the federal government accepted it. We were referred to Ontario
+Regulation 350/73, s. 301(1), which states:                           allowances
+in respect of capital cost   26.                     Combining
+the federal Interpretation Bulletin (to which the provincial government admits
+that it adheres) and the provincial Regulation, the appellant submitted that it
+was entitled by the Bulletin to revise the capital cost allowance in 1971 if it
+met the necessary conditions and that it was required by the Regulation to
+submit a similar revision to the Ontario government. The appellant further
+submitted that the Regulation requires Ontario to accept the revision when the
+federal authorities have done so. This latter submission is strongly resisted
+by the Minister.                       Once again, I am not saying that the
+administrative interpretation could contradict a clear legislative text; but in
+a situation such as I have just outlined, this interpretation has real weight
+and, in case of doubt about the meaning of the legislation, becomes an
+important factor. [Emphasis added.]  28.                     Harel
+was affirmed recently in Nowegijick v. The Queen, [1983] 1 S.C.R.
+29. Dickson J., as he then was, stated at p. 37:                     Administrative policy and interpretation are not
+determinative but are entitled to weight and can be an "important
+factor" in case of doubt about the meaning of legislation: per de
+Grandpré J., Harel v. Deputy Minister of Revenue of Quebec....    ...if the interpretation of a taxation statute is unclear, and one
+reasonable interpretation leads to a deduction to the credit of a taxpayer and
+the other leaves the taxpayer with no relief from clearly bona fide expenditures
+in the course of his business activities, the general rules of interpretation
+of taxing statutes would direct the tribunal to the former interpretation.  Later in his judgment
+at p. 72 he referred to:  ...another basic concept in tax law that where the taxing statute is
+not explicit, reasonable uncertainty or factual ambiguity resulting from lack
+of explicitness in the statute should be resolved in favour of the taxpayer.  Although Estey J. was
+referring to ambiguity within a single statute, I believe these principles are
+not inappropriate to a case like the present in which the ambiguity stems from
+the interplay of a provincial Regulation and federal administrative practice.  31.                     They
+do not, however, assist the appellant here. Mattabi can hardly claim to have
+had "no relief from clearly bona fide expenditures". It had
+relief in the form of a total exemption from taxation during the qualifying
+period. It was in fact enjoying a complete tax holiday. I see no reason
+therefore to interpret the provincial Regulation as imposing an obligation on
+the Ontario authorities to accept the appellant's revised return when there is
+nothing in the Act, the Regulation or any provincial Interpretation Bulletin to
+support it. While the federal authorities accepted the revision pursuant to
+their own practice, there was no reason for them not to do so since the
+amendment was made to the federal return solely for the purpose of making the
+same amendment provincially. We do not know whether or not the federal
+authorities would have so readily accepted it had it been attended by the same
+consequences under the federal legislation as under the provincial.  32.                     It
+is my view, moreover, that the retroactive abolition of the tax holiday by the
+province cannot per se constitute a reason for interpreting the
+Regulation so as to compel the authorities to accept the amendment. The fact
+that the tax holiday in the case of the province was abolished retroactively,
+thereby depriving the appellant of the opportunity to make out its return in
+the manner most advantageous to it, obviously influenced the trial judge. I
+agree, however, with Robins J.A. in the Court of Appeal for the reasons he
+gives that it is irrelevant to the issue of interpretation. The Province's
+repeal of the tax holiday in no way changes the law applicable to the filing of
+amended returns and the question whether on the true interpretation of the
+provincial legislation the Minister is obliged to accept them. It goes without
+saying, of course, that it may be very relevant to the decision the Minister
+makes in the exercise of his discretion whether to accept them or not.  33.                     I
+would conclude, for the reasons I have indicated, that this Court cannot compel
+the Ontario government to accept the appellant's revision to its 1971 tax
+return. It may do so if it wishes but it remains, in my opinion, a matter
+within the scope of the Minister's discretion.  V Mattabi's
+Alternative Claims  34.                     These
+claims are threefold: the first two represent alternate methods of creating a
+net loss in the 1971 and 1972 taxation years so as to claim the investment tax
+credit; the third is a claim that the 1974 return be reopened so that the
+Company can readjust its deductions in light of its failure to be allowed that
+credit. I will deal with each of them in turn.  (a) Capitalization
+of Interest Expense    37.                     I
+find no merit in this argument. Keith J. had this to say on it at p. 393:                     I am of the opinion that the Minister is entitled to
+waive strict compliance with the Statute and treat the appellant's reporting of
+the item in its financial statements and corporations tax return for 1972 as an
+election.  I would agree. The
+Company made its choice of how to characterize the interest payments in 1972.
+The choice may not have turned out to be the best one but that fact plus a
+technical oversight cannot be used to demand what is effectively a reopening
+and revision of the 1972 return long after the time for assessment, objection
+and appeal has passed. There is, of course, no statutory provision to permit
+such a reopening. I would reject this ground of appeal.  (b) 1972
+Capital Tax Payment  38.                     I
+find even less merit in this claim. In 1971 the appellant paid $50 in capital
+tax under Part III of the Act. This was erroneously included in exploration and
+development expenses for 1972. Again, the appellant asks this Court to hold
+that this error, accepted or overlooked by both taxing authorities, was
+sufficiently egregious that it be required to alter its 1972 return by making
+this $50 payment a deductible loss in 1972 pursuant to s. 60(1)(c) of
+the Act. Precisely the same considerations lead me to reject this argument. The
+appellant can cite no authority that requires the government to accede to this
+request. The error was a minor one accepted by the government and the time for
+amending returns without authority is long past. I have no doubt that, if the
+government were attempting at this stage to alter these returns, the Company
+would be strenuously arguing an estoppel based on the intervening years and the
+earlier acceptance of the returns by the authorities. I find no merit in this
+claim.  (c) The 1974
+Return  39.                     The
+appellant's final claim is an alternative pleading to all of its other
+contentions. If, for one reason or another, it is denied the 1974 investment
+tax credit, then it asks the Court:  ...is the Appellant entitled to deduct in computing its income for 1974
+additional capital cost allowance (greater than the amount of capital cost
+allowance deducted in the Appellant's 1974 tax return) up to the maximum amount
+permitted by the Ontario Act and its regulations?  In support of this
+claim Mattabi points out that it did not claim the maximum capital cost
+allowance in 1974 because it assumed it would receive the tax credit and did
+not wish to reduce the tax against which the credit would be applied. It puts
+its claim for relief this way:                     In preparing a tax return under the Ontario Act,
+each corporate taxpayer must, of necessity, make a number of assumptions as to
+how certain amounts are to be calculated, characterized, claimed and
+apportioned. Some of these assumptions will suggest or dictate other
+calculations or claims that must, or should reasonably, be made. Thus, in this
+case the Appellant, assuming that it was entitled to a substantial investment
+tax credit for 1974, did not deduct all of the capital cost allowance which was
+available in 1974 because to do so would have reduced the Appellant's income,
+taxable income and resulting tax against which the investment tax credit was to
+be applied. Conversely, the only prudent decision for the Appellant, if it was
+not entitled to the investment tax credit for 1974, was to deduct such amount
+of capital cost allowance as would minimize its tax liability for 1974.                     There is no opportunity, in preparing a tax return,
+for the taxpayer to claim in the alternative. Thus, an honest and prudent
+taxpayer, such as the Appellant, may file a tax return making certain legal or
+factual assumptions, only to find later that those assumptions are not well
+founded in law or in fact.  40.                     It
+should be noted that the issue of capital cost allowances in 1974 was not the
+subject of any objection by the Company prior to trial. It arose for the first
+time in the form of an amendment to the pleadings at trial, and, indeed, a
+large part of Keith J.'s reasons is concerned with whether such an amendment
+could be allowed. The view that I take of this matter makes it unnecessary to
+go into this question. I will assume that the amendment to the pleadings can be
+made, but I do not think the appellant can succeed in its amended claim.  41.                     The
+hurdle that the Company must overcome on this issue is, as with the other
+claims, that it cannot cite any statutory provision by which the government is
+required to accept this amendment. Indeed, these provisions militate against
+the claim because Ontario Regulation 350/73, cited above, requires that the
+same capital cost allowance be claimed in the provincial return as is claimed
+in the federal return. The Company would therefore have to attempt a revision
+of its 1974 federal return which I do not think it is entitled to do at this
+stage.   43.                     I
+am not suggesting here that the Minister could not, if he wished, allow changes
+to the 1974 return provided he conformed to the requirements of Ontario
+Regulation 350/73. The issue before this Court is whether he can be compelled
+to do so. The only cases cited to us by the appellant go to the issue of
+whether the amendment could be added to the pleadings at trial and I have
+already noted that I am prepared to assume, without deciding, that it can. But
+accepting the amendment is not the same as allowing the claim and on the
+principal point I would agree with Robins J.A. in the Court of Appeal (at p.
+572):  Neither the applicable statutory provisions or the case law to which we
+were referred lend support, in my view, to the contention that the Company,
+having failed in that course, is now entitled to compel the Minister to
+permit it to adopt an approach to its 1974 tax accounting wholly unrelated to
+the matters in issue in its appeal from the Minister's reassessment. [Emphasis
+added.]  VI Disposition  44.              For
+all the foregoing reasons I would dismiss the appeal with costs.                     Appeal
+dismissed with costs.                     Solicitors
+for the appellant: Miller, Thomson, Sedgewick, Lewis & Healy, Toronto.                     Solicitor
+for the respondent: The Minister of Revenue (Ontario), Toronto.      * Estey and Le Dain
+JJ. took no part in the judgment.  

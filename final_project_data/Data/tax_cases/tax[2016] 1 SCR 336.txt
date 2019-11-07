@@ -1,0 +1,869 @@
+SCC Case Information: 35892   SUPREME
+COURT OF CANADA  Citation: Canada (Attorney General) v. Chambre des notaires du
+  Québec, 2016 SCC 20, [2016] 1 S.C.R. 336 Appeal
+  heard: November 3, 2015 Judgment
+  rendered: June 3, 2016 Docket: 35892  Between: Attorney
+General of Canada and Canada Revenue Agency Appellants  and  Chambre
+des notaires du Québec and Barreau du Québec Respondents  - and -  Advocates’
+Society, Canadian Bar Association, Federation
+of Law Societies of Canada and Criminal
+Lawyers’ Association Interveners  Official English Translation  Coram: McLachlin C.J. and Abella, Cromwell, Moldaver, Karakatsanis,
+Wagner and Gascon JJ.  Joint Reasons
+  for Judgment: (paras. 1 to 96) Wagner and Gascon JJ. (McLachlin C.J. and
+  Abella, Cromwell, Moldaver and Karakatsanis JJ. concurring)    Canada
+(Attorney General)
+v. Chambre des notaires du
+Québec, 2016 SCC 20, [2016] 1 S.C.R. 336 Attorney General of Canada and Canada Revenue Agency                                                                             Appellants v. Chambre des notaires du Québec and Barreau du Québec                                                                                    Respondents and Advocates’ Society, Canadian Bar Association, Federation of Law Societies of Canada
+and Criminal Lawyers’ Association                                                                   Interveners Indexed as: Canada (Attorney
+General) v. Chambre des
+notaires du Québec 2016 SCC 20 File No.: 35892. 2015: November 3; 2016: June 3. Present: McLachlin C.J. and Abella, Cromwell, Moldaver,
+Karakatsanis, Wagner and Gascon JJ. on appeal from the court of appeal for quebec                     Some
+notaries practising law in Quebec received requirements to provide documents or
+information from the Minister of National Revenue under s. 231.2 of the ITA.
+The purpose of these requirements was to obtain information or documents
+relating to clients of the notaries for tax collection or audit purposes. Some
+of the notaries who received such requirements contacted the Chambre des
+notaires du Québec (« Chambre ») to raise concerns about their clients’ right
+to professional secrecy. The Chambre instituted a declaratory action against
+the Attorney General of Canada and the Canada Revenue Agency (“CRA”) for the
+purpose of having ss. 231.2 and 231.7 of the ITA and the exception
+for the accounting records of notaries and lawyers set out in the definition of
+“solicitor-client privilege” in s. 232(1)  declared to be unconstitutional
+and of no force or effect with respect to notaries. The Barreau du Québec («
+Barreau ») joined in the proceedings as an intervener for the purpose of having
+any declaration made by the courts concerning the legislative provisions in
+question apply equally to its members.                     The
+Superior Court and the Court of Appeal ruled in favour of the Chambre and the
+Barreau. The Court of Appeal found that, pursuant to s. 52  of the Constitution
+Act, 1982, ss. 231.2(1)  and 231.7  and the accounting records exception
+set out in s. 232(1)  are unconstitutional and of no force or effect with
+respect to Quebec notaries and lawyers for all information and documents
+protected by professional secrecy.                     Held: The
+appeal should be dismissed.                     Section 8 
+of the Charter  protects against unreasonable searches and seizures.
+There are two questions that must be answered to determine whether a government
+action was contrary to s. 8 : whether the government action intruded upon
+an individual’s reasonable expectation of privacy, in which case it constituted
+a seizure within the meaning of s. 8 , and whether the seizure was an
+unreasonable intrusion on that right to privacy.                     The
+first of these questions is not problematic, as the Court has already established
+that a requirement constitutes a seizure within the meaning of s. 8 . The
+seizure in this case involves information or documents that may be protected by
+the professional secrecy of notaries or lawyers. Professional secrecy must
+remain as close to absolute as possible, and it is generally seen as a
+fundamental and substantive rule of law. In this respect, professional secrecy
+has a deep significance regardless of the nature of the legal advice being
+sought or the context in which it is sought. For the purposes of the analysis
+under s. 8  of the Charter , the civil and administrative context of
+the requirement scheme does not diminish the taxpayer’s expectation of privacy
+for information that is protected by professional secrecy. A client of a notary
+or a lawyer has a reasonable expectation of privacy for information and
+documents that are in the possession of the notary or lawyer and in respect of
+which a requirement is issued.                     In
+answering the second question, the courts must balance the interests at stake,
+namely an individual’s privacy interest on the one hand and the state’s
+interest in carrying out a search or seizure on the other. Where the interest
+at stake is the professional secrecy of legal advisers, which is a principle of
+fundamental justice and a legal principle of supreme importance, the usual
+balancing exercise under s. 8  will not be particularly helpful. Stringent
+standards must be adopted to protect professional secrecy. This means that any
+legislative provision that interferes with professional secrecy more than is
+absolutely necessary will be labelled unreasonable.                     In
+this case there are several defects that cause a requirement sent to a notary
+or lawyer concerning information that is protected by professional secrecy to
+be unreasonable and contrary to s. 8 , namely that the client is given no
+notice of the requirement, that an inappropriate burden is placed solely on the
+notary or lawyer concerned, that compelling disclosure of the information being
+sought is not absolutely necessary and that no measures have been taken to help
+mitigate the impairment of professional secrecy. The requirement scheme serves
+legitimate purposes, namely the collection of amounts owed to the CRA and tax
+audits, but the existence of an important purpose cannot justify sidestepping
+the protection afforded by s. 8  of the Charter . The constitutional
+defects in the requirement scheme are all the more unacceptable given that they
+could easily be mitigated and remedied by way of measures that are compatible
+with the state’s obligations relating to the protection of professional
+secrecy. Currently, therefore, the impairment permitted by the requirement
+scheme set out in ss. 231.2(1) and 231.7 of the ITA is not
+consistent with the principle of minimization.                     The exception whose effect is to exclude the accounting
+records of notaries and lawyers from the protection of professional secrecy and
+which is set out in s. 232(1) of the ITA also infringes the rights
+guaranteed by s. 8  of the Charter . To determine whether an abrogation
+of professional secrecy in the context of a seizure is constitutional, a court
+must consider what characterizes professional secrecy as a substantive right.
+Thus, a legislative provision cannot, by abrogating professional secrecy,
+authorize the state to gain access to information that is normally protected,
+where the abrogation is not absolutely necessary to achieve the purposes of the
+legislation. Limits on professional secrecy must take into account the duty
+recognized by the Court to minimize impairments, and the exceptions must be
+precisely defined. In this case, the exception is broad and undefined, as it
+permits the seizure of any accounting record of a notary or a lawyer, and is
+therefore problematic from the standpoint of the absolute necessity test.
+Moreover, for all practical purposes, the exception removes from the court’s
+jurisdiction the determination of whether accounting records in respect of
+which a requirement has been issued are privileged. In sum, in the absence of
+absolute necessity and given that there is no possibility of judicial review to
+ensure that professional secrecy is protected, the accounting records exception
+allows the unreasonable seizure of information found in the accounting records
+of notaries or lawyers. Cases Cited                     Distinguished:
+Thomson Newspapers Ltd. v. Canada (Director of Investigation and Research,
+Restrictive Trade Practices Commission), [1990] 1 S.C.R. 425; applied:
+Lavallee, Rackel & Heintz v. Canada (Attorney General), 2002 SCC 61,
+[2002] 3 S.C.R. 209; Canada (Attorney General) v. Federation of Law
+Societies of Canada, 2015 SCC 7, [2015] 1 S.C.R. 401; referred to: Maranda
+v. Richer, 2003 SCC 67, [2003] 3 S.C.R. 193; R. v. Edwards, [1996] 1
+S.C.R. 128; R. v. McKinlay Transport Ltd., [1990] 1 S.C.R. 627; Solosky
+v. The Queen, [1980] 1 S.C.R. 821; Descôteaux v. Mierzwinski, [1982]
+1 S.C.R. 860; Smith v. Jones, [1999] 1 S.C.R. 455; Canada (Privacy
+Commissioner) v. Blood Tribe Department of Health, 2008 SCC 44, [2008] 2
+S.C.R. 574; R. v. McClure, 2001 SCC 14, [2001] 1 S.C.R. 445; R. v.
+National Post, 2010 SCC 16, [2010] 1 S.C.R. 477; R. v. Brown, 2002
+SCC 32, [2002] 2 S.C.R. 185; Goodis v. Ontario (Ministry of Correctional
+Services), 2006 SCC 31, [2006] 2 S.C.R. 32; Foster Wheeler Power Co. v.
+Société intermunicipale de gestion et d’élimination des déchets (SIGED) inc.,
+2004 SCC 18, [2004] 1 S.C.R. 456; Hunter v. Southam Inc., [1984] 2
+S.C.R. 145; R. v. Cunningham, 2010 SCC 10, [2010] 1 S.C.R. 331; Canada
+(National Revenue) v. Thompson, 2016 SCC 21, [2016] 1 S.C.R. 381; Organic
+Research Inc. v. Minister of National Revenue (1990), 111 A.R. 336; Pritchard
+v. Ontario (Human Rights Commission), 2004 SCC 31, [2004] 1 S.C.R. 809; R.
+v. Dunbar (1982), 68 C.C.C. (2d) 13; A. (L.L.) v. B. (A.), [1995] 4
+S.C.R. 536; R. v. Seaboyer, [1991] 2 S.C.R. 577; Carter v. Canada
+(Attorney General), 2015 SCC 5, [2015] 1 S.C.R. 331. Statutes and Regulations Cited Act to amend the Income Tax Act, S.C.
+1956, c. 39, s. 28. Canadian Charter of Rights and Freedoms,
+ss. 1 , 7 , 8 . Constitution Act, 1982, s. 52 . Income Tax Act, R.S.C. 1952,
+c. 148. Income Tax Act, R.S.C. 1985, c. 1
+(5th Supp .), ss. 230  to 232 , 231.1 , 231.2 , 231.7 , 232(1)  “solicitor-client
+privilege”, (2)(a), 238. Authors Cited Lederman, Sidney N., Alan W. Bryant and Michelle K. Fuerst. The
+Law of Evidence in Canada, 4th ed. Markham, Ont.: LexisNexis, 2014. Wigmore, John Henry. Evidence in Trials at Common Law,
+vol. 8., revised by John T. McNaughton. Boston: Little, Brown, 1961.                     Marc Ribeiro, Christopher Rupar and Chantal
+Comtois, for the appellants.                     Raymond Doray and Loïc Berdnikoff, for the respondent Chambre des notaires du Québec.                     Giuseppe Battista, for the respondent Barreau du Québec.                     Pierre Bienvenu and Andres Garin, for the intervener the
+Advocates’ Society.                     Mahmud Jamal, Alexandre Fallon and W. David Rankin, for the intervener the
+Canadian Bar Association.                     John B.
+Laskin and Yael Bienenstock, for the intervener the
+Federation of Law Societies of Canada.                     Brian Gover, Justin Safayeni and Carlo Di Carlo, for the intervener the
+Criminal Lawyers’ Association.                     English version of the
+judgment of the Court delivered by                     Wagner
+and Gascon JJ. — I.             
+Overview [1]                             
+In this appeal, the Attorney General of Canada
+(“AGC”) and the Canada Revenue Agency (“CRA”), on the one hand, and the Chambre
+des notaires du Québec (“Chambre”) and the Barreau du Québec (“Barreau”), on
+the other, disagree about the requirement procedure set out in the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .) (“ITA ”). This procedure enables the tax authorities to
+require any person to provide information or documents for any purpose related
+to the administration of the ITA . [2]                             
+The Chambre and the Barreau submit that, when a
+“requirement to provide documents or information” is sent to a notary or a
+lawyer, there is a risk that the information or documents being sought will,
+unbeknownst to the legal adviser’s client, reveal particulars that are
+protected by the professional secrecy of notaries and lawyers, otherwise known
+as solicitor-client privilege. To this extent, it is argued, the relevant
+provisions of the ITA  infringe the rights guaranteed by ss. 7  and 8 
+of the Canadian Charter of Rights and Freedoms  (“Charter ”), and
+the infringement cannot be justified under s. 1 . [4]                             
+The Superior Court and the Court of Appeal ruled
+in favour of the Chambre and the Barreau. The Court of Appeal found that,
+pursuant to s. 52  of the Constitution Act, 1982, ss. 231.2(1)  and
+231.7  and the accounting records exception are unconstitutional and of no force
+or effect with respect to Quebec notaries and lawyers for all information and
+documents protected by professional secrecy. We are in substantial agreement
+and would dismiss the appeal. [5]                             
+The Court has held in the past that professional
+secrecy is a principle of fundamental justice within the meaning of s. 7  (Lavallee,
+Rackel & Heintz v. Canada (Attorney General), 2002 SCC 61, [2002] 3 S.C.R.
+209, at para. 49). It is also a civil right of supreme importance in the
+Canadian justice system. Professional secrecy must thus remain as close to
+absolute as possible, and the courts must adopt stringent standards to protect
+it. [6]                             
+A requirement under the ITA  constitutes a
+seizure within the meaning of s. 8  of the Charter . The seizures
+made in this case are unreasonable and are contrary to that section, because
+the requirement scheme and the exception for accounting records do not provide
+adequate protection for the professional secrecy of notaries and lawyers. The
+procedure set out in the ITA  does not require that the client, who is
+the holder of the privilege, be informed of the requirement or of any
+proceeding brought by the CRA to obtain an order to provide information or
+documents. The procedure also places the entire burden of protecting the
+privilege on the notary or lawyer. Finally, the AGC and the CRA have not
+established that it is absolutely necessary here to impair professional
+secrecy. Because the impugned provisions do not minimally impair the right to
+professional secrecy, they also cannot be saved under s. 1 . In light of
+this conclusion, a separate analysis under s. 7  of the Charter  will
+not be necessary. II.          
+Background A.          
+Requirement Scheme of the ITA [7]                             
+Three provisions of the ITA  relating to
+the requirement scheme are central to this appeal. They are set out in
+full in the appendix. [8]                             
+The first of these provisions, s. 231.2(1),
+authorizes the Minister of National Revenue (“Minister”), by notice served
+personally or by registered or certified mail, to require a person to provide
+information or documents concerning a taxpayer within a reasonable time
+stipulated in the notice. This section therefore allows the CRA, for and on
+behalf of the Minister, to send a notary or lawyer a requirement concerning a
+client. But in most cases, the client in question has no knowledge of the
+requirement. The CRA generally sends the notice to the notary or lawyer without
+sending a copy to the client, that is, to the taxpayer about whom information
+is being sought. Moreover, the requirement is issued without judicial
+intervention. [11]                         
+This definition was added to the Income Tax
+Act, R.S.C. 1952, c. 148, in 1956 (c. 39, s. 28). At the time, professional
+secrecy had not yet attained the status it is given today. As for the
+“accounting record of a lawyer” exception, it was added to the definition in
+1965 (c. 18, s. 26), although the term “accounting record” is not defined in
+the ITA . The definition and the exception have remained unchanged since
+they were first enacted. The third paragraph of s. 232(1)  provides that,
+for the purposes of s. 232 , the term “lawyer” includes both notaries and
+advocates in Quebec. [12]                         
+It should be added that the ITA ’s
+requirement scheme provides for sanctions up to and including imprisonment for
+persons who have failed to comply with any of ss. 230  to 232 
+(s. 238(1)  of the ITA , also reproduced in the appendix). However, a
+notary or lawyer who is prosecuted for failure to comply with a requirement can
+raise professional secrecy as a defence and must be acquitted if the judge is
+satisfied that the notary or lawyer had reasonable grounds to believe that
+solicitor-client privilege applied to the information or document being sought
+(s. 232(2) (a) of the ITA ). B.           
+Source of the Dispute [14]                         
+Some of the notaries who received such
+requirements contacted the Chambre to raise concerns about their clients’ right
+to professional secrecy. The Chambre tried unsuccessfully to negotiate a
+compromise with the CRA on what should be done when requirements are issued to
+notaries. The failure of the negotiation led the Chambre to institute a
+declaratory action against the AGC and the CRA in the Superior Court for the
+purpose of having ss. 231.2  and 231.7  of the ITA  and the accounting
+records exception declared to be unconstitutional and of no force or effect
+with respect to notaries. The Chambre argued, inter alia, that
+those provisions authorized unreasonable seizures contrary to the Charter 
+because they did not include adequate protection for professional secrecy. In
+its action, the Chambre also requested that a series of documents regularly
+held or prepared by its members in their practice be declared to be prima facie
+privileged. [15]                         
+The Barreau, whose members are lawyers
+practising in Quebec to whom similar requirements could be issued for
+information and documents relating to their clients, joined in the proceedings as
+an intervener for the purpose of having any declaration made by the courts
+concerning the legislative provisions in question apply equally to its members. III.       
+Judicial History A.          
+Quebec Superior Court, 2010
+QCCS 4215, [2010] R.J.Q. 2069 [17]                         
+In his reasons, Blanchard J. noted at the
+outset that there was no need for a lengthy discussion of the distinction
+between notaries and lawyers. Both are legal advisers. As such, they have the
+same duty and obligation to respect their clients’ right to professional
+secrecy. After reviewing this Court’s decisions on the professional secrecy of
+notaries and lawyers, Blanchard J. concluded that, in this case, there was
+no reason to draw a distinction based on whether the seizure in question
+occurred in a civil or a criminal context. He added that the distinction
+advanced by the CRA between “facts” and “communications” was not justified. In
+his view, the relationship between a legal professional and a client
+presupposes that all actions, documents and information resulting from that
+relationship are prima facie privileged. He also expressed the view
+that exceptions to professional secrecy should be made very rarely and only as
+a last resort. [18]                         
+Concerning the impugned provisions of the ITA ,
+Blanchard J. observed that the procedure established by Parliament does
+not provide a way for clients who hold the right to professional secrecy to
+know that their right is in jeopardy or to ensure that it is protected: only
+the person against whom an order is sought has to be given notice of a summary
+application made by the Minister to a judge. In the context of this case, that
+person is the notary. The fact that a judge can order a person to provide documents
+does not ensure that the holder of the right to professional secrecy is given a
+reasonable opportunity to raise an objection in order to maintain the
+confidentiality of privileged information. Blanchard J. concluded that
+ss. 231.2  and 231.7  result in an unreasonable search and seizure contrary
+to s. 8  of the Charter . [19]                         
+As to the accounting records exception,
+Blanchard J. found that it also had to be declared to be of no force or
+effect under the Constitution. In his view, the CRA should always have to apply
+directly to a superior court judge when seeking to obtain privileged
+information. B.           
+Quebec Court of Appeal, 2014 QCCA 552 [20]                         
+The Court of Appeal unanimously allowed the
+appeal, but solely to make a minor change to para. 125 of the trial judge’s
+judgment and to strike out paras. 126-27 thereof. The primary purpose of
+the changes was to make it clear that where s. 231.2  of the ITA  was
+concerned, only subs. (1) was to be declared to be of no force or effect
+with respect to a requirement sent to a taxpayer’s notary or lawyer. In
+addition, the changes limited the scope of the declaration of
+unconstitutionality to the accounting records exception set out in
+s. 232(1)  of the ITA . The paragraphs of the judgment that were
+struck out concerned the list of documents that Blanchard J. had
+recognized as being prima facie protected by professional secrecy.
+Bich J.A., who wrote the Court of Appeal’s reasons, found that it was
+risky to establish in advance a presumption as to what documents or classes of
+documents were privileged. [22]                         
+As to the requirement scheme provided for in
+ss. 231.2(1)  and 231.7  of the ITA , Bich J.A. found that,
+insofar as it concerns notaries and lawyers, it infringes s. 8  of the Charter 
+because of one principal, fatal feature: the potential breach of the
+professional secrecy of legal advisers without the knowledge or consent of the
+client in respect of whom a requirement is issued. For this reason,
+Bich J.A. was of the opinion that the provisions lead to an unreasonable
+seizure and that the impairment is not minimal, given that it does not meet the
+constitutional requirements for the seizure of documents that could be
+protected by professional secrecy. Nor, in her view, was the requirement scheme
+consistent with the principle of minimization enunciated in Maranda v. Richer, 2003 SCC 67,
+[2003] 3 S.C.R. 193, according to which a seizure may be carried out at
+the office of a legal adviser only where there are no
+reasonable alternative measures for obtaining the information being sought. She
+added that a seizure cannot be justified by mere convenience. IV.       
+Issues [24]                         
+The Chief Justice stated the following
+constitutional questions for the purposes of the appeal: 2.                 
+If so, is the infringement a reasonable limit
+prescribed by law that can be demonstrably justified in a free and democratic
+society under s. 1  of the Canadian Charter of Rights and Freedoms ? 4.                 
+If so, is the infringement a reasonable limit
+prescribed by law that can be demonstrably justified in a free and democratic
+society under s. 1  of the Canadian Charter of Rights and Freedoms ? [25]                         
+As can be seen from these questions, the
+constitutional validity of the relevant provisions of the ITA  is at
+issue under both s. 7  and s. 8  of the Charter . In Lavallee,
+at para. 34, and in Canada (Attorney General) v. Federation of Law
+Societies of Canada, 2015 SCC 7, [2015] 1 S.C.R. 401 (“FLS”), at
+para. 33, the Court stated that there is no need to undertake a s. 7 
+analysis where a s. 8  analysis leads to the conclusion that the impugned
+provisions are unconstitutional. [26]                         
+Since that is in fact the conclusion we reach in
+the instant case, it will suffice for us to begin by outlining the framework
+for the s. 8  analysis and then to discuss the constitutional defects
+identified by the courts below in the requirement scheme as a whole and more
+particularly in the accounting records exception. Because the scope of the
+professional secrecy of legal advisers is central to this case, it will be
+necessary for us to discuss it in our analysis, as the Superior Court and the
+Court of Appeal did in their respective reasons. V.          
+Analysis A.          
+Section 8 and Professional Secrecy (1)          
+Reasonable Expectation of Privacy [29]                         
+From this perspective, Blanchard J. was
+right to note that [translation]
+“[t]he fundamental importance of the right to professional secrecy of lawyers
+is a cornerstone not only of our judicial system but, more broadly, of our
+legal system” (para. 86). [30]                         
+In this respect, professional secrecy has a deep
+significance regardless of the nature of the legal advice being sought or the
+context in which it is sought (Smith, at para. 46). We therefore
+conclude, contrary to the argument of the AGC and the CRA, that for the
+purposes of the analysis under s. 8  of the Charter , the civil and
+administrative context of the requirement scheme does not diminish the taxpayer’s
+expectation of privacy for information that is protected by professional
+secrecy. [31]                         
+It is true that this Court stated in Thomson
+Newspapers Ltd. v. Canada (Director of Investigation and Research, Restrictive
+Trade Practices Commission), [1990] 1 S.C.R. 425, that it might be
+appropriate to find that there is a lower expectation of privacy in an
+administrative context and therefore to apply a “less strenuous and more
+flexible” standard of reasonableness in determining whether a seizure is
+constitutional (pp. 506-7). To justify its reasoning in that case, the Court
+stated that “there can only be a relatively low expectation of privacy in
+respect of premises or documents that are used or produced in the course of
+activities which, though lawful, are subject to state regulation as a matter of
+course” (p. 507). In such cases, the routine performance of the activities
+in question often involves the inspection by agents of the state of premises or
+documents that would otherwise be considered private. Since the state is
+therefore expected to have access to information for regulatory purposes, it
+would make no sense to find that, on the one hand, the disclosure of such
+information is normal but that, on the other, the expectation of privacy
+associated with the information is extremely high. [34]                         
+We recognize that, in that case,
+Cromwell J. rejected the AGC’s contention that the impugned scheme had to
+be characterized as merely an administrative law regulatory compliance scheme.
+Cromwell J. stated that the purposes of the scheme were instead to deter
+criminal offences and to facilitate the investigation and prosecution of
+serious offences. He noted that the scheme had “a predominantly criminal
+law character and [that] its regulatory aspects serve[d] criminal law purposes”
+(FLS, at para. 37). However, this takes nothing away from the clear
+and unequivocal remarks quoted above, which, in our view, apply to this
+appeal. The protection afforded to professional secrecy in the context of
+a s. 8  analysis is invariably high regardless of whether the seizure has
+occurred in a criminal or an administrative context. [35]                         
+In our view, therefore, it is well established
+that a client of a notary or a lawyer has a reasonable expectation of privacy
+for information and documents that are in the possession of the notary or
+lawyer and in respect of which a requirement is issued. Indeed, the Court wrote
+in Lavallee that “[a] client has a reasonable expectation of privacy in
+all documents in the possession of his or her lawyer, which constitute
+information that the lawyer is ethically required to keep confidential”
+(para. 35). (2)          
+Unreasonable Intrusion on the Right to Privacy [39]                         
+Thus, where professional secrecy is in issue,
+what matters is not the context in which a privileged document or privileged
+information could be disclosed to the state, but rather the fact that the
+document or information in question is privileged. It is important that a
+client consulting a legal adviser feel confident that there is little danger
+that information or documents shared by the client will be disclosed in the
+future regardless of whether the consultation takes place in the context of an
+administrative, penal or criminal investigation: “The lawyer’s obligation of
+confidentiality is necessary to preserve the fundamental relationship of trust
+between lawyers and clients” (Foster Wheeler, at para. 34). B.           
+Constitutional Defects in the Requirement Scheme [44]                         
+The Superior Court and the Court of Appeal
+identified several defects that cause a requirement sent to a notary or lawyer
+concerning information that is protected by professional secrecy to be
+unreasonable and contrary to s. 8 . We agree with that conclusion. The
+defects in question are that the client is given no notice of the requirement,
+that an inappropriate burden is placed solely on the notary or lawyer
+concerned, that compelling disclosure of the information being sought is not
+absolutely necessary and that no measures have been taken to help mitigate the
+impairment of professional secrecy. In the end, the AGC and the CRA have not
+made any persuasive arguments that can overcome these defects identified by the
+courts below. (1)         
+Absence of Notice to the Client [46]                         
+Nothing in the ITA  obliges CRA officials
+to send a requirement to anyone other than the person from whom they are
+seeking information or documents. There is therefore no obligation to give
+notice to the client of a notary or lawyer to whom a requirement is issued, not
+even where the information or documents being sought will help facilitate
+collection from or an audit of that client. In fact, according to the evidence
+in the record of the Superior Court, the vast majority of the requirements sent
+to Quebec notaries were not served on their clients, thus indiscriminately
+putting the clients at risk of losing the protection of professional secrecy to
+which they are entitled in respect of privileged information that might be
+found in “accounting records” prepared by their legal advisers. [47]                         
+At the hearing, the AGC and the CRA argued that
+it is the government’s usual practice to always contact a notary or lawyer
+rather than his or her client. The government’s expectation is that the notary
+or lawyer will act in a manner consistent with his or her ethical obligations
+and will therefore notify the client and ensure that the client’s right to
+professional secrecy is protected. We find this argument unpersuasive for two
+reasons. [48]                         
+First, as Arbour J. noted in Lavallee,
+a notary or a lawyer is not the alter ego of his or her client. Legal
+advisers and their clients may sometimes have conflicting interests. The
+professional relationship between the notary or lawyer and the client may even
+have been terminated before the requirement is sent. In any event, the right to
+claim professional secrecy does not belong to the legal adviser. The
+constitutionality of a seizure cannot rest on the unverifiable expectation that
+a legal adviser will always act diligently and solely in the client’s interests
+when faced with a seizure by the state (Lavallee, at para. 40; FLS,
+at para. 49). [49]                         
+Second, although it is true that for practical
+reasons it can sometimes be necessary for third parties to contact an
+individual’s legal adviser rather than contacting the individual directly, that
+is not the case here. Notaries to whom requirements are sent must instead be
+considered third parties who are in possession of information and
+documents relevant to collection from or an audit of the taxpayer, that is, the
+client. The notaries in question are placed in a situation similar to that of
+banks holding financial information or companies doing business with the
+taxpayer that have kept information relevant to a particular transaction. A
+requirement sent to a taxpayer’s legal adviser cannot be regarded as a
+communication similar to the communication that takes place in the course of
+litigation, for example. The argument of the AGC and the CRA that it is normal
+not to contact the clients of notaries or lawyers where requirements are issued
+is unfounded. [50]                         
+Apart from this argument, which we reject, the
+AGC and the CRA have made no submission to explain why it would not be possible
+to notify a client that a requirement has been sent to his or her legal
+adviser. In cases in which a requirement is sent by email, it is certainly
+possible and, more importantly, easy for the letter sent to the notary or
+lawyer to be copied to the client. Indeed, the evidence in this case shows that
+there were some rare occasions on which CRA officials did notify the clients of
+notaries to whom they had sent requirements. If it was possible to do this in
+some cases, we find it difficult to understand why the CRA was not required to
+do so in all cases. [51]                         
+In any event, as Bich J.A. correctly
+pointed out, the occasional service of requirements on clients in addition to
+notaries and lawyers does not amount to a true notification system. Because the
+ITA  does not make it mandatory to notify the clients of legal advisers
+that a requirement has been sent, such service remains optional even where it
+is effected voluntarily. The constitutionality of the requirement scheme cannot
+be based on a presumption that the state will always behave honourably. The
+absence of any formal obligation to notify the clients in respect of whom
+requirements are sent to notaries and lawyers is therefore a critical
+constitutional defect, as the Court indicated in both Lavallee and FLS. [52]                         
+We wish to be clear, however, that in our
+opinion, the fact that the CRA need not seek judicial authorization before
+sending a requirement does not constitute a constitutional defect in the
+current scheme. Although the Court asserted in FLS that “the
+judicial pre-authorization requirement is, in itself, an important protection
+against improper search and seizure of privileged material”,
+it did not rule out “the possibility that Parliament could devise a
+constitutionally compliant inspection regime without a judicial
+pre-authorization requirement” (para. 56). In the instant
+case, if the client is given notice of the requirement, the risk of privileged
+information being disclosed without his or her consent when the requirement is
+sent would be greatly reduced. (2)         
+Burden Imposed on Legal Advisers [53]                         
+The absence of notice to clients whose
+information and documents are sought by means of a requirement brings to light
+another significant defect in the scheme having regard to information protected
+by professional secrecy that is in the possession of a notary or a lawyer. This
+defect has to do with the role that notaries and lawyers are expected to play
+in safeguarding their clients’ right to professional secrecy and the fact that
+they ultimately bear alone the burden of safeguarding that right when a requirement
+is issued. [55]                         
+However, as we mentioned above, there may be
+many reasons why lawyers or, in the case at bar, notaries might fail to claim
+protection for their clients’ right to professional secrecy in court. Since the
+legal adviser is not the alter ego of the client, he or she will
+not necessarily always make the same choices the client would (Lavallee,
+at paras. 39-40). There may be situations in which a notary or a lawyer is
+simply negligent and forgets to verify whether any of the information requested
+by the Minister is protected by professional secrecy. There may be other
+situations in which a notary or a lawyer forgets to notify a client that a
+requirement has been received before complying with it. Aside from a case of
+simple negligence that takes the form of a failure to notify a client, it is
+also possible for a notary or a lawyer to honestly but wrongly believe that the
+information sought by the Minister is not protected by professional secrecy and
+can therefore be disclosed. In addition, a requirement could be issued to a
+notary or a lawyer who, although no longer the client’s legal adviser, still
+has documents concerning the client. [56]                         
+Finally, the possibility of being prosecuted
+(under s. 238  of the ITA ) for failing to provide the CRA with the
+information it seeks could influence the choice made by a notary or a lawyer to
+comply or not to comply with a requirement. The threat of prosecution in fact
+creates a conflict of interests between legal advisers and their clients,
+pitting the duty of confidentiality owed by legal advisers to their clients
+against their statutory duty of disclosure to the tax authorities (Lavallee,
+at para. 40). In this regard, it is, contrary to the AGC’s argument,
+irrelevant that none of the notaries who received requirements have so far been
+prosecuted for refusing to provide the information or documents being sought.
+The mere possibility of being so prosecuted under the ITA  places those
+legal advisers in an intolerable situation. For the purposes of determining
+whether the seizure is unreasonable within the meaning of s. 8  and
+analyzing the scheme’s constitutional defects in relation to notaries and
+lawyers and the protected information they have in their possession, this is
+sufficient. [57]                         
+Because the client is not given notice of the
+requirement, the notary or lawyer can take any of the possible courses of action
+discussed above without the client’s knowledge and without a court being asked
+to determine whether professional secrecy applies to the particular situation.
+This is all the more problematic given that, regardless of the reason why a
+notary or a lawyer fails to notify his or her client that a requirement has
+been received, there is no way for a court to remedy that failure after the
+fact. If a legal adviser provides the CRA with the information or documents it
+seeks, the ITA  gives the client no opportunity to remedy the improper
+disclosure. The client cannot go to court following the disclosure in order to
+withdraw certain privileged information or documents from the CRA. Once
+professional secrecy is lost, there is no way to recover it. This confirms that
+the requirement scheme is unreasonable, since it increases the risk of improper
+disclosure of confidential information protected by professional secrecy. (3)         
+Disclosure Is Not Absolutely Necessary [59]                         
+We agree that the problem in this case is not as
+acute as in Lavallee or FLS, which involved physical searches of
+law offices. The mere service of a requirement to disclose certain information
+or documents is not on the same scale. Nevertheless, we find that it is not
+absolutely necessary here to rely on notaries or lawyers rather than on
+alternative sources in order to obtain the information or documents being
+sought. For example, where the Minister seeks information about specific
+transactions in which the client took part, the information would be available
+from alternative sources, such as financial institutions, that do not have as
+onerous an obligation to safeguard its confidentiality. In this regard, there
+is no evidence that the Minister even tried, albeit unsuccessfully, to obtain
+the information in question by alternative means before issuing a requirement to a legal adviser. [60]                         
+No one disputes the fact that the requirement
+scheme serves legitimate purposes, namely the collection of amounts owed to the
+CRA and tax audits. Nor does anyone dispute the fact that it is important to
+prevent firms of notaries or lawyers from becoming tax havens. However, such
+firms must not be turned into archives for the tax authorities either (FLS,
+at para. 75). The fact that the requirement scheme has an important
+purpose does not mean that it can be used to sidestep the protection afforded
+by s. 8  of the Charter . The authorities’ failure to even attempt to
+obtain the information or documents they seek from alternative sources
+indicates that the manner in which the seizure is conducted is unreasonable, as
+it does not minimally impair the right to professional secrecy. [61]                         
+If the client were given notice of the
+requirement and afforded an opportunity to independently safeguard his or her
+right to professional secrecy before the information was disclosed, the fact
+that the requirement is not sent as a last resort would not be fatal to the
+scheme. The risk of information protected by professional secrecy being
+revealed would then be minimized by the fact that the client would have an
+opportunity to challenge its disclosure. That is not the case here, however,
+and this further problem adds to the ones already identified. (4)         
+Possibility of Mitigating the Scheme’s Defects [62]                         
+Finally, these constitutional defects in the ITA ’s
+requirement scheme are all the more unacceptable given that they could easily
+be mitigated and remedied by way of measures that are compatible with the state’s
+obligations relating to the protection of professional secrecy. [64]                         
+Revenu Québec thus agreed, inter alia,
+as regards formal demands for information sent to notaries under s. 39 of
+the AMR or s. 57.1 of the AFPS, to comply with a directive
+issued on May 3, 2005 by the Direction générale de la législation et des
+enquêtes (now the Direction générale de la législation, des enquêtes et du
+registraire des entreprises) (“directive”). Revenu Québec also agreed to take
+into account the other limits imposed by the transaction, recognizing for
+example that, prima facie, certain documents are protected by
+professional secrecy and cannot be the subject of a formal demand. [65]                         
+The directive concerns the minimization of state
+impairments of the professional secrecy of lawyers and notaries. It states
+that, before issuing a formal demand, Revenu Québec must try to obtain the
+documents or information from various public records or by requesting them from
+the taxpayer, another party to a contract, a financial institution, an
+accountant or other third parties that have prepared the documents. If
+Revenu Québec determines that only a lawyer or a notary has the documents or
+information it is seeking, the Minister of Revenue may then ask the taxpayer
+for permission to obtain the documents or information from the taxpayer’s legal
+adviser by way of a consent in writing to release the adviser from professional
+secrecy. The directive further provides that Revenu Québec can consider sending
+a formal demand to a lawyer or a notary only if the other steps are
+unsuccessful and there is no other way to obtain the information or documents. [66]                         
+The directive also states that, where Revenu
+Québec is of the opinion that professional secrecy does not apply to the
+information or documents being sought, a judgment may be obtained from the
+Court of Québec or the Superior Court, as provided for in the particular
+statute. Where the Minister of Revenue indicates that it is absolutely
+necessary to obtain the information for the purposes of administering the AMR
+or the AFPS, the judge must determine whether the Minister is entitled
+to have access to the information or documents in question. [67]                         
+The transaction further provides that any formal
+demand issued to a notary by Revenu Québec must specify the information or
+documents covered by the demand. It must explain why Revenu Québec is of the
+opinion that the information or documents in question are not protected by
+professional secrecy, and it must ask the notary to find out whether the client
+agrees to waive professional secrecy. Finally, Revenu Québec agrees not to
+include any statement to the effect that a notary who fails to comply with a
+formal demand could face prosecution that could result in a fine or a term of
+imprisonment. Revenu Québec also agrees not to prosecute a notary who invokes
+professional secrecy in good faith. [68]                         
+The agreement between the Chambre and the Quebec
+authorities is helpful to our analysis, since it shows that there are ways to
+minimize the risk that a requirement scheme will impair professional secrecy.
+In its current form, the ITA ’s requirement scheme is problematic insofar
+as it is applied to a notary or a lawyer. It will be for Parliament, if it so
+chooses, to adopt measures specifying how the CRA can obtain information or
+documents from a taxpayer’s legal adviser without jeopardizing professional
+secrecy. Currently, in our view, the impairment permitted by the requirement
+scheme set out in ss. 231.2(1)  and 231.7  of the ITA  is not
+consistent with the principle of minimization (Maranda, at paras.
+14-20). C.           
+Constitutional Defects in the Exception in
+Section 232(1)  of the ITA [69]                         
+The Court of Appeal held that the accounting
+records exception also infringes the rights guaranteed by s. 8  of the Charter .
+We agree with this conclusion, too. (1)          
+Accounting Records and Protected Information [72]                         
+It is well established that the accounting
+records of notaries and lawyers are inherently capable of containing
+information that is protected by professional secrecy. In Descôteaux,
+the Court quoted the following passage from John Henry Wigmore (Evidence in
+Trials at Common Law (McNaughton rev. 1961), vol. 8, § 2292): “Where legal advice of any kind is sought from a professional
+legal adviser in his capacity as such, the communications relating to that purpose,
+made in confidence by the client, are at his instance permanently protected
+from disclosure . . .” (pp. 872-73). In Foster Wheeler, the Court
+observed that “[i]t would be inaccurate to reduce the content of the obligation
+of confidentiality to opinions, advice or counsel given by lawyers to their
+clients” (para. 38). In Maranda, noting the importance of the
+information that can be extracted from particulars as seemingly neutral as the
+amount of the fees paid by a client, the Court concluded that “the fact
+consisting of the amount of the fees must be regarded, in itself, as
+information that is . . . protected” (para. 33). The Court
+thus acknowledged that, even where accounting information includes no
+description of work, it may in itself, if disclosed, reveal confidential and
+privileged information. [73]                         
+Whether a document or the information it
+contains is privileged depends not on the type of document it is but, rather,
+on its content and on what it might reveal about the relationship and
+communications between a client and his or her notary or lawyer. If lawyers’
+fees can reveal privileged information, it is difficult to see why this could
+not also be the case for accounting records. Such records will not always
+contain privileged information, of course, but the fact remains that they may
+contain some, so their disclosure could involve a breach of professional
+secrecy. This is sufficient for the purposes of our analysis. [76]                         
+Moreover, this lack of precision of the
+expression “accounting record of a lawyer” in terms of the documents
+practitioners must keep, the format they must be kept in and the level of
+detail they must contain creates a risk that different legal advisers will
+include different information in their accounting records. The risk that a
+client’s privileged information might be exposed as a result of the exception
+may therefore vary greatly. (2)          
+Constitutional Analysis [78]                         
+In our view, for the exception at issue in this
+case, the answer must be yes. The exception is broad and undefined, as it
+permits the seizure of any accounting record of a notary or a lawyer. As a
+result of s. 231.7  of the ITA , the effect of the exception is stark.
+Once a court finds that a document is an accounting record, it must order that
+the document be disclosed regardless of whether it would be considered
+privileged in the absence of the exception. In other words, for all practical
+purposes, the exception removes from the court’s jurisdiction the determination
+of whether accounting records in respect of which a requirement has been issued
+are privileged. [79]                         
+At the hearing in this Court, the AGC and the
+CRA, no doubt aware of this problem, argued for the first time that judges
+nonetheless have some “residual discretion” in such cases. They argued that a
+judge considering a ministerial application for disclosure can exercise this
+“discretion” to exclude privileged documents from the seizure of accounting records
+of a notary or a lawyer. We reject this argument. It conflicts with the actual
+wording of the accounting records exception and with the meaning of
+s. 231.7 . Neither of those provisions mentions such a “residual
+discretion”. The definition of “solicitor-client privilege” in s. 232(1) 
+results, rather, in a complete abrogation of professional secrecy in respect of
+one class of documents, namely the accounting records of notaries and lawyers. [80]                         
+To determine whether an abrogation of
+professional secrecy in the context of a seizure is constitutional, a court
+must consider what characterizes professional secrecy as a substantive right.
+More specifically, the third factor of the substantive rule from Descôteaux
+is of decisive importance in such a case. According to Lamer J., when
+a law authorizes someone to do something that might interfere with the right to
+confidentiality that results from professional secrecy, “the decision to do so
+and the choice of means of exercising that authority should be determined with
+a view to not interfering with it except to the extent absolutely necessary
+in order to achieve the ends sought by the enabling legislation”
+(p. 875 (emphasis added)). [81]                         
+Thus, a legislative provision cannot, by
+abrogating professional secrecy, authorize the state to gain access to
+information that is normally protected, where the abrogation is not absolutely
+necessary to achieve the purposes of the legislation. If the provision does so,
+the seizure will be unreasonable and contrary to s. 8  of the Charter .
+This rule prevents the state from giving itself, with a clear intention to
+create a statutory exception to professional secrecy, the authority to gain
+untrammelled access to documents that are normally privileged even though the
+state’s operations are facilitated only minimally by access to the information. [82]                         
+This is consistent with the emphasis frequently
+placed by the Court on ensuring that professional secrecy always remains as
+close to absolute as possible (McClure, at para. 35). Limits on
+professional secrecy must take into account the duty recognized by the Court to
+minimize impairments (Maranda, at para. 14; Goodis, at
+para. 24). This Court’s decisions have narrowly circumscribed the
+situations in which and the reasons for which professional secrecy may be set
+aside without the client’s consent. In every case, professional secrecy will be
+set aside only if the court is of the view that it is absolutely necessary to
+do so, and only for a very specific purpose. Even then, the exceptions must be
+precisely defined. [85]                         
+It is true that in the companion case, Thompson,
+the Minister argues that, when a requirement is sent to a lawyer whose own tax
+liability is the subject of an assessment, access to clients’ names may be
+necessary in order for the amounts owed by the lawyer to be collected and for
+the Minister to fulfil the Minister’s duties under the ITA .
+Nevertheless, we note that, in the absence of a definition of “accounting
+record of a lawyer” in the ITA , it is impossible to distinguish an
+accounting record that contains only a client’s name and the amount the client
+owes the lawyer from one that contains much more information about the nature
+of the activities a lawyer has engaged in for a client under a mandate for
+professional services. When the Minister requests access to a lawyer’s
+accounting records by means of a requirement, all such records must be
+disclosed, even if they contain information that will not help the CRA collect
+the amounts it is owed. [86]                         
+In closing, we would add that a conclusion that
+the exception is valid could have unfortunate consequences that transcend this
+appeal. The ITA sets only a vague limit on what the CRA can do in
+requesting access to information by means of a requirement: the information
+must be necessary “for any purpose related to the administration or enforcement
+of this Act” (s. 231.2(1) ). There appear to be no restrictions on sharing
+the information with government agencies and other public players as long as
+the CRA does so for a purpose related to the administration or enforcement of
+the ITA . D.          
+Section 1  Analysis [88]                         
+Section 1  of the Charter  “guarantees
+the rights and freedoms set out in [the Charter ]”. It provides that this
+guarantee is “subject only to such reasonable limits prescribed by law as can
+be demonstrably justified in a free and democratic society”. [89]                         
+In order to justify the infringement of rights
+guaranteed by s. 8  of the Charter , the appellants must show that
+the impugned provisions of the ITA  have a pressing and substantial
+objective and that the means chosen are proportional to that objective. A law
+is proportionate if (1) the means adopted are rationally connected to the
+objective; (2) it is minimally impairing of the rights in question; and
+(3) there is proportionality between the deleterious and salutary effects
+of the law (Carter v. Canada (Attorney General), 2015 SCC 5, [2015]
+1 S.C.R. 331, at para. 94). In Lavallee, the Court wrote that “if,
+as here, the violation of s. 8  is found to consist of an unjustifiable
+impairment of the privacy interest protected by that section, everything else
+aside, it is difficult to conceive that the infringement could survive the minimal
+impairment part of the Oakes test” (para. 46). [90]                         
+In the instant case, it is clear that the ITA 
+has a pressing and substantial objective, namely the collection of taxes.
+Moreover, there is a logical and direct connection between the collection of
+taxes and the requirement scheme. Requirements enable the CRA to obtain
+information about taxpayers so that it can ensure that the information they
+have provided it is accurate. [91]                         
+However, the requirement scheme in relation to
+notaries and lawyers fails at the minimal impairment stage of the justification
+analysis. For the reasons given above, the statutory provisions in question —
+ss. 231.2(1)  and 231.7  and the accounting records exception set out in
+s. 232(1)  of the ITA  — do not minimally impair the right to
+professional secrecy. As a result, they cannot be saved under s. 1 . VI.       
+Remedy and Conclusion [92]                         
+We conclude that the requirement scheme in the ITA 
+infringes s. 8  of the Charter  and must be declared to be
+unconstitutional insofar as it applies to notaries and lawyers in Quebec. The
+appropriate remedy in this case will be to “read down” the statutory provisions
+at issue, as the Court did in FLS, so as to exclude notaries and lawyers
+from the scope of their operation (para. 63). Since the Court has already
+found that the requirement scheme is generally constitutional insofar as
+requirements are sent to taxpayers (McKinlay Transport), it is neither
+necessary nor appropriate to find that the entire scheme is invalid. We
+consider it more appropriate simply to prohibit its being applied to notaries
+and lawyers in their capacity as legal advisers. [93]                         
+We would therefore declare s. 231.2(1)  of
+the ITA , which authorizes the Minister to send requirements, and s.
+231.7  of the ITA , which authorizes the Minister to apply to a court to
+follow up on a requirement, to be unconstitutional, and inapplicable to
+notaries and lawyers in their capacity as legal advisers. [95]                         
+Finally, in our view, it is not appropriate to
+establish a list of documents that are prima facie protected by
+professional secrecy. Whether a document is protected by professional secrecy
+depends not on the type of document it is but, rather, on its content and on
+what it might reveal about the relationship of and communications between a
+client and his or her legal adviser. [96]                         
+The appeal is therefore dismissed with costs.
+The constitutional questions set out in para. 24 of our reasons are
+answered as follows: 1.                 
+No answer is required. 2.                 
+No answer is required. 4.                 
+No. APPENDIX   Income Tax Act, R.S.C. 1985, c. 1 (5th
+Supp .) Requirement to provide documents or information  231.2 (1) Notwithstanding any other
+provision of this Act, the Minister may, subject to subsection (2), for any
+purpose related to the administration or enforcement of this Act (including the
+collection of any amount payable under this Act by any person), of a listed
+international agreement or, for greater certainty, of a tax treaty with another
+country, by notice served personally or by registered or certified mail,
+require that any person provide, within such reasonable time as is stipulated
+in the notice,  (a) any information or additional
+information, including a return of income or a supplementary return; or  (b) any document.  Unnamed persons  (2) The Minister shall not impose on any
+person (in this section referred to as a “third party”) a requirement under
+subsection 231.2(1)  to provide information or any document relating to one or
+more unnamed persons unless the Minister first obtains the authorization of a
+judge under subsection 231.2(3).  Judicial authorization  (3) A judge of the Federal Court may, on
+application by the Minister and subject to any conditions that the judge
+considers appropriate, authorize the Minister to impose on a third party a
+requirement under subsection (1) relating to an unnamed person or more than one
+unnamed person (in this section referred to as the “group”) if the judge is
+satisfied by information on oath that  (a) the person or group is
+ascertainable; and  (b) the requirement is made to verify
+compliance by the person or persons in the group with any duty or obligation
+under this Act.  (c) and (d) [Repealed, 1996, c. 21,
+s. 58(1)]  (4) to (6) [Repealed, 2013, c. 33,
+s. 21]  Compliance
+order  231.7 (1) On summary application by the
+Minister, a judge may, notwithstanding subsection 238(2), order a person to
+provide any access, assistance, information or document sought by the Minister
+under section 231.1  or 231.2  if the judge is satisfied that  (a) the person was required under
+section 231.1  or 231.2  to provide the access, assistance, information or
+document and did not do so; and  (b) in the case of information or a
+document, the information or document is not protected from disclosure by
+solicitor-client privilege (within the meaning of subsection 232(1) ).  Notice required  (2) An application under subsection (1)
+must not be heard before the end of five clear days from the day the notice of
+application is served on the person against whom the order is sought.  Judge may impose conditions  (3) A judge making an order under
+subsection (1) may impose any conditions in respect of the order that the judge
+considers appropriate.  Contempt of court  (4) If a person fails or refuses to
+comply with an order, a judge may find the person in contempt of court and the
+person is subject to the processes and the punishments of the court to which
+the judge is appointed.  Appeal  (5) An order by a judge under subsection
+(1) may be appealed to a court having appellate jurisdiction over decisions of
+the court to which the judge is appointed. An appeal does not suspend the
+execution of the order unless it is so ordered by a judge of the court to which
+the appeal is made.  Definitions  232 (1) In this section,      solicitor-client privilege means the
+right, if any, that a person has in a superior court in the province where the
+matter arises to refuse to disclose an oral or documentary communication on the
+ground that the communication is one passing between the person and the person’s
+lawyer in professional confidence, except that for the purposes of this section
+an accounting record of a lawyer, including any supporting voucher or cheque,
+shall be deemed not to be such a communication.  Offences and punishment  238 (1) Every person who has failed to
+file or make a return as and when required by or under this Act or a regulation
+or who has failed to comply with subsection 116(3), 127(3.1) or (3.2), 147.1(7)
+or 153(1), any of sections 230 to 232, 244.7 and 267 or a regulation made under
+subsection 147.1(18) or with an order made under subsection (2) is guilty of an
+offence and, in addition to any penalty otherwise provided, is liable on
+summary conviction to  (a) a fine of not less than $1,000 and
+not more than $25,000; or  (b) both the fine described in paragraph
+238(1) (a) and imprisonment for a term not exceeding 12 months.                      Appeal
+dismissed with costs.                     Solicitor
+for the appellants: Attorney General of Canada, Ottawa and Montréal.                     Solicitors for the respondent Chambre des notaires du
+Québec: Lavery, de Billy, Montréal.                     Solicitors for the respondent Barreau du Québec: Shadley
+Battista Costom, Montréal.                     Solicitors
+for the intervener the Advocates’ Society: Norton Rose Fulbright Canada,
+Montréal.                     Solicitors
+for the intervener the Canadian Bar Association: Osler, Hoskin &
+Harcourt, Montréal.                     Solicitors
+for the intervener the Federation of Law Societies of Canada: Torys,
+Toronto.                     Solicitors for the
+intervener the Criminal Lawyers’ Association: Stockwoods, Toronto.   

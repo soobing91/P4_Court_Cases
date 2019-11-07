@@ -1,0 +1,1420 @@
+  SUPREME
+COURT OF CANADA  Citation: R. v. Youvarajah, 2013 SCC 41, [2013] 2 S.C.R. 720 Date: 20130725 Docket: 34732  Between: Yousanthan
+Youvarajah Appellant and Her
+Majesty The Queen Respondent -
+and - Criminal
+Lawyers’ Association Intervener  Coram: McLachlin C.J. and Fish, Abella, Rothstein, Cromwell,
+Karakatsanis and Wagner JJ.  Reasons
+  for Judgment: (paras. 1 to 72)  Dissenting
+  Reasons: (paras. 73 to 153): Karakatsanis J. (McLachlin C.J. and Fish,
+  Abella and Cromwell JJ. concurring)  Wagner J. (Rothstein J. concurring)     R. v. Youvarajah, 2013 SCC 41, [2013] 2 S.C.R. 720 Yousanthan Youvarajah                                                                                Appellant v. Her Majesty The Queen                                                                              Respondent and Criminal Lawyers’ Association                                                                    Intervener Indexed as:  R. v. Youvarajah 2013 SCC 41 File No.:  34732. 2013:  February 20; 2013: July 25. Present:  McLachlin C.J. and Fish, Abella, Rothstein, Cromwell,
+Karakatsanis and Wagner JJ. on appeal from the court of appeal for ontario                     Criminal
+law — Evidence — Admissibility — Hearsay — Murder trial — Co-accused witness recanting previous statement implicating accused in murder — Trial judge
+finding prior inconsistent statement not meeting threshold reliability test —
+Whether prior inconsistent statement was sufficiently reliable to be considered
+by jury for truth of its contents.                     The
+accused, Y, and D.S., the co-accused shooter, were charged with first degree
+murder after a failed drug deal.  D.S. was tried separately as a young
+offender.  He pleaded guilty to second degree murder.  As
+part of his plea agreement, D.S. signed a written Agreed Statement of Facts
+(ASF) drafted by Crown counsel, with input from defence counsel.  The ASF directly
+implicated Y in the murder.  At the time of his plea, D.S. acknowledged the
+accuracy of the ASF.  The ASF was neither videotaped nor preceded by sworn oath
+or affirmation.                     During
+Y’s trial, the Crown asked D.S. to adopt the ASF.  D.S. testified that he could
+not remember signing the document, but acknowledged that it bore his
+signature.  D.S. further denied the facts in the ASF implicating Y.  In
+response to D.S.’s denials, the Crown sought to adduce the ASF for the truth of
+its contents.  Following a voir dire, the trial judge found insufficient
+means for the jury to assess the reliability of the ASF as a prior inconsistent
+statement and ruled the signed ASF did not meet the threshold reliability
+required for it to be admissible as evidence for the truth of its contents.  When
+D.S. asserted solicitor-client privilege, the ability to cross-examine was
+curtailed and the trial judge found the opportunity for an effective
+cross-examination at trial was to a large extent illusory.  The trial judge granted
+the defence’s application for a directed order acquitting Y.  The Court of
+Appeal allowed the appeal, set aside the acquittal and ordered a new trial.                     Held
+(Rothstein and Wagner JJ. dissenting):  The appeal should be allowed and
+the acquittal restored.                     Per McLachlin C.J.
+and Fish, Abella, Cromwell and Karakatsanis JJ.:  A prior inconsistent
+statement of a non-accused witness may be admitted for the truth of its
+contents if the following reliability indicia are met:  (1) the statement
+is made under oath or solemn affirmation after a warning as to possible
+sanctions if the person is untruthful; (2) the statement is videotaped or
+recorded in its entirety; and (3) the opposing party has a full
+opportunity to cross-examine the witness on the statement.  The prior inconsistent
+statement’s threshold reliability may also be established by:  (1) the
+presence of adequate substitutes for testing truth and accuracy (procedural
+reliability); and (2) sufficient circumstantial guarantees of reliability
+or an inherent trustworthiness (substantive reliability).  A trial judge is well-placed
+to assess the hearsay dangers in a particular case and the effectiveness of any
+safeguards to assist in overcoming them.  Thus, absent an error in principle,
+the trial judge’s determination of threshold reliability is entitled to
+deference.                     In
+this case, the trial judge did not err in finding that there were insufficient
+safeguards to establish threshold reliability to admit the ASF as evidence for
+the truth of its contents.  Only a full and complete opportunity to cross-examine
+would have provided a genuine basis on which to assess the reliability of D.S.’s
+statements.  D.S.’s invocation of solicitor-client privilege, however, curtailed
+significantly the cross-examination available to assess the threshold
+reliability of the prior inconsistent statement.  The Crown could not have
+probed the conversations between D.S. and his counsel about legal advice in
+connection with his decision to plead guilty or to accept the ASF.  The trial
+judge may have overstated the scope of solicitor-client privilege and its
+consequences for the cross-examination of D.S.; however, any overstatement would
+not have had a material impact on the conclusion that cross-examination was
+not, in this case, a sufficient means to satisfy threshold reliability.                     The
+Crown cannot ask for a new trial on the basis that the prosecution should have
+been conducted differently.  The trial judge did not preclude the Crown from
+conducting a more probing cross-examination of the witness or from calling
+other witnesses about the creation of the ASF.  The trial judge made no
+comments suggesting that there should be no further cross-examination of the
+witness on the voir dire.  The judge was not asked for a ruling on this
+issue.  Had Crown counsel wished to call further evidence, he could have sought
+direction.  Since this was the same Crown counsel who had prosecuted D.S. at
+his separate youth trial, and who negotiated the plea bargain and drafted the ASF,
+he knew what D.S. or his lawyers could say about those matters, outside the
+scope of solicitor-client privilege.                     The
+trial judge did not err in finding that the circumstances surrounding the making
+of the prior inconsistent statement did not provide sufficient guarantees of
+substantive reliability.  The circumstantial guarantees of trustworthiness
+asserted by the Crown — the thorough process in creating the ASF, the involvement
+of counsel, and the solemnity of the guilty plea proceeding — do not establish
+threshold reliability for the statements from which D.S. recanted, which served
+to minimize his involvement in the murder and shift responsibility to Y.  In
+the circumstances of this case, the formality of the process and the
+involvement of counsel only provide comfort in respect of D.S.’s statements
+admitting his own culpability for the murder.  The administration of justice
+would not be enhanced in permitting admissions made by a co-accused in his own
+interest, as part of a plea bargain for a conviction of a lesser crime and
+favourable sentence, to be used against a co-accused, in circumstances where
+the reliability of the statements cannot be adequately tested.                     Per Rothstein and Wagner JJ.
+(dissenting):  Threshold reliability should be generously interpreted in the
+admissibility inquiry.  As a general rule, if a statement is accepted for its
+truth by the courts, and used to balance the liberty interests of the accused
+with societal considerations such as deterrence and retribution, then that
+statement provides a level of implicit reliability that warrants consideration
+in the admissibility inquiry in a subsequent third-party trial.  That is not to
+say that a statement’s use and judicial acceptance at a prior proceeding is
+sufficient in and of itself to meet the reliability requirement of the
+principled approach.  Rather, it is merely a factor that must be considered in
+the admissibility inquiry, a factor that goes towards meeting the threshold
+reliability standard.  Each case will have to be examined on its particular
+circumstances when determining threshold reliability, but consideration should
+certainly be given to the general acceptance of and reliance on statements read
+in as part of a guilty plea.  Limits on cross-examination should not be applied
+rigidly and absolutely where solicitor-client privilege is asserted.  Rather,
+issues of privilege should be addressed as they arise on cross-examination. 
+This way, relevant information that may not be prohibited by the assertion of
+privilege may still be elicited, furthering the underlying truth-seeking
+function of the proceedings.                     The
+question of admissibility in this case must be redetermined in a new trial where
+threshold reliability can be properly assessed.  The trial judge erred in his
+determination that the ASF did not meet the standard of threshold reliability. 
+He failed to adequately assess the available indicia of reliability and
+erroneously found the opportunity to cross-examine D.S. to be illusory.  That
+is not to say that the circumstances in this case provide sufficient evidence
+to conclusively determine that the ASF should be admitted.  Rather, the
+admissibility inquiry was incomplete and did not provide a proper basis for the
+trial judge to exclude the relevant evidence.  The opportunity to cross-examine
+D.S. was not entirely closed and the trial judge misapprehended the scope and
+impact of solicitor-client privilege on the opportunity for cross-examination. 
+Had the trial judge permitted the cross-examination to proceed and addressed
+issues involving solicitor-client privilege as they arose, information
+sufficient to meet the threshold reliability standard may have been brought
+forward.  D.S. was available for cross-examination, he recalled having made
+many of the statements within the ASF, he did not dispute understanding the key
+facts in the ASF which he subsequently denied at Y’s trial, and he recalled the
+ASF being read in at his guilty plea proceeding.                     Other
+factors were available in this case that could have satisfied the trial judge that
+the circumstances surrounding the drafting and reading in of the ASF provided
+assurances of reliability equivalent to an oath and presence.  If these indicia
+had been considered and cross-examination had been permitted, it is possible
+that threshold reliability would have been met.  Perhaps the most persuasive
+indicia of reliability are the nature of the statement and how it was
+constructed.  The ASF tendered as evidence in D.S.’s guilty plea proceeding
+provides just such a record.  Having been reduced to writing, signed not only by
+D.S. but by both Crown and defence counsel, and having been read in to the
+record in the context of D.S.’s guilty plea, the source of the document cannot
+be disputed.  This was not a statement that was unilaterally drafted and forced
+upon D.S. to adopt.  Rather, the drafting of the ASF was a collaborative effort
+where there is evidence that at least one crucial component to the Crown’s case
+against Y was supplied by defence counsel — namely the statement that Y
+supplied D.S. with the gun.  Moreover, D.S. had the opportunity to review the
+ASF with his counsel prior to signing it and adopting it.  This is an important
+aspect as it refutes any negative inferences that could be drawn against the
+ASF on the grounds that it was not captured in D.S.’s own words or that D.S.
+did not understand its contents.  Perhaps most importantly, D.S. testified that
+he understood the three crucial components of the ASF, namely that Y gave D.S.
+the gun, Y told D.S. to shoot the victim, and demanded that D.S. return the
+gun.  Without more persuasive evidence to the contrary, this essentially
+forecloses any argument that D.S. lacked understanding of the ASF’s contents.  Looking
+beyond the construction of the ASF, the context of the proceedings under which
+it was read in to court and the contents of the ASF itself provide additional
+indicia supporting threshold reliability. Cases Cited By Karakatsanis J.             Referred
+to:  R. v. B. (K.G.), [1993] 1 S.C.R. 740; R. v. Conway
+(1997), 36 O.R. (3d) 579; R. v. Khelawon, 2006 SCC 57, [2006] 2 S.C.R.
+787; R. v. Khan, [1990] 2 S.C.R. 531; R. v. Smith, [1992] 2
+S.C.R. 915; R. v. U. (F.J.), [1995] 3 S.C.R. 764; R. v. Blackman,
+2008 SCC 37, [2008] 2 S.C.R. 298; R. v. Hawkins, [1996] 3 S.C.R. 1043; R.
+v. Devine, 2008 SCC 36, [2008] 2 S.C.R. 283; R. v. Couture, 2007 SCC
+28, [2007] 2 S.C.R. 517; R. v. Graveline, 2006 SCC 16, [2006] 1 S.C.R.
+609; R. v. Briscoe, 2010 SCC 13, [2010] 1 S.C.R. 411; R. v. Khela,
+2009 SCC 4, [2009] 1 S.C.R. 104; R. v. Brooks, 2000 SCC 11, [2000] 1
+S.C.R. 237. By Wagner J. (dissenting)                     R.
+v. B. (K.G.), [1993] 1 S.C.R. 740; R. v. Conway (1997), 36 O.R. (3d)
+579; R. v. Khelawon, 2006 SCC 57, [2006] 2 S.C.R. 787; R. v. U.
+(F.J.), [1995] 3 S.C.R. 764; R. v. Couture, 2007 SCC 28, [2007] 2
+S.C.R. 517; R. v. Trieu (2005), 195 C.C.C. (3d) 373; R. v. Blackman,
+2008 SCC 37, [2008] 2 S.C.R. 298; R. v. Hawkins, [1996] 3 S.C.R. 1043; R.
+v. Tran, 2010 ONCA 471, 103 O.R. (3d) 131; R. v. D.P., 2010 ONCA
+563, 268 O.A.C. 118; R. v. McGee, 2009 CanLII 60789; R. v. McClure,
+2001 SCC 14, [2001] 1 S.C.R. 445; R. v. S.G.T., 2010 SCC 20, [2010] 1
+S.C.R. 688. Authors Cited Paciocco, David M., and Lee Stuesser.  The Law of Evidence,
+6th ed.  Toronto:  Irwin Law, 2011. Proulx, Michel, and David Layton.  Ethics and Canadian Criminal Law. 
+Toronto:  Irwin Law, 2001. Wigmore, John Henry.  Evidence in Trials at Common Law, vol. 8. 
+Revised by John T. McNaughton.  Boston, Mass.:  Little, Brown, 1961.             APPEAL
+from a judgment of the Ontario Court of Appeal (Winkler C.J.O. and Moldaver and
+Simmons JJ.A.), 2011 ONCA 654, 107 O.R. (3d) 401, 284 O.A.C. 300,
+278 C.C.C. (3d) 102, 90 C.R. (6th) 184, [2011] O.J. No. 4610 (QL), 2011
+CarswellOnt 11167, setting aside the accused’s acquittal entered by Flynn J.
+on March 17, 2010, and ordering a new trial.  Appeal allowed and
+acquittal restored, Rothstein and Wagner JJ. dissenting.                     Philip R. Campbell and Jonathan Dawe, for the appellant.                     James K. Stewart and Nadia Thomas, for the respondent.                     Marie Henein and Matthew
+Gourlay, for the intervener.                      The judgment of McLachlin
+C.J. and Fish, Abella, Cromwell and Karakatsanis JJ. was delivered by                     Karakatsanis J. — I.    Introduction [1]                             
+The issue in this appeal
+is whether a co-accused’s prior inconsistent statement, implicating the
+appellant in a murder, was sufficiently reliable to be considered by a jury for
+the truth of its contents. [2]                             
+The Crown’s theory was
+that the appellant planned the murder and provided the murder weapon to the co-accused
+shooter.  The shooter, in a separate proceeding in youth court, pleaded guilty
+to second degree murder.  In doing so, he adopted a written Agreed Statement of
+Facts (ASF) in which he shifted responsibility for planning the murder and for
+obtaining the murder weapon to the appellant. [3]                             
+As a witness in the appellant’s murder trial,
+the shooter resiled from those facts inculpating the appellant and refused to
+adopt the prior statement.  The Crown’s case against the appellant collapsed
+when the trial judge found that the ASF did not meet the threshold reliability
+required to be admitted for the truth of its contents. [4]                             
+The question before us
+is whether the trial judge erred in finding that the ASF did not meet threshold
+reliability to be put before the jury. [5]                             
+The Court of Appeal concluded that the trial
+judge erred.  However, for the reasons that follow, I would allow the appeal
+and reinstate the acquittal. II.     Background [6]                             
+Yousanthan Youvarajah, the appellant, and D.S.,
+a minor, were charged with first degree murder after a failed drug deal.  On
+the Crown’s theory, Youvarajah planned the murder and provided the murder
+weapon for D.S. to shoot the victim. [7]                             
+D.S. was tried separately as a young offender.  He pleaded guilty to second degree murder and
+was sentenced as a youth.  As part of his plea agreement, D.S. signed the ASF
+drafted by Crown counsel, with input from defence counsel.  In it, D.S.
+directly implicated the appellant in the murder:  the appellant gave D.S. the
+handgun that was used in the shooting; he ordered D.S. to shoot the victim; and
+he demanded the return of the handgun after the shooting. [8]                             
+At the time of his plea,
+D.S. acknowledged the accuracy of the ASF.  At the appellant’s trial, he
+testified that he did not understand the words “acknowledged” or “accurate” as
+used by his counsel at the guilty plea proceedings. [9]                             
+The ASF was neither
+videotaped nor preceded by sworn oath or affirmation.  D.S. was told that, for
+endorsing the agreed statement, no further statement regarding the murder would
+be required from him.  During his testimony at the appellant’s trial, he said
+that was one of the reasons that motivated him to plead guilty. [10]                         
+During examination-in-chief,
+the Crown asked D.S. to adopt the ASF.  D.S. testified that he could not
+remember signing the document, but acknowledged that it bore his signature. 
+D.S. further denied the facts in the statement implicating the appellant. 
+Instead, D.S. testified that the gun was his own; he shot the victim because of
+the way he was talking; and he threw the gun into the river after the shooting. [11]                         
+In response to D.S.’s denials, the Crown sought
+to adduce the ASF for the truth of its contents.  The trial judge rejected the
+Crown’s application.  At the close of the Crown’s case, the trial judge granted
+the defence’s application for a directed order acquitting the appellant. III.    Decisions Below [12]                         
+Following a voir dire, Flynn J. ruled
+that the signed ASF — hearsay evidence by virtue of being an out-of-court
+statement adduced for the truth of its contents — did not meet the threshold
+reliability required for it to be admissible as evidence.  None of the
+safeguards identified in this Court’s decision in R. v. B. (K.G.),
+[1993] 1 S.C.R. 740 (K.G.B.), for reducing the dangers associated with
+hearsay had been undertaken.  The statement was not videotaped; there had been
+no recital of an oath or affirmation; and the transcript of the guilty plea
+proceedings was not a suitable substitute to assess D.S.’s demeanour and
+credibility at the time the statement was made.  Furthermore, the statement had
+been drafted by counsel; it was not offered spontaneously and was not in D.S.’s
+own words. [13]                         
+Referring to R. v. Conway (1997), 36 O.R.
+(3d) 579 (C.A.), Flynn J. noted that the opportunity for an effective
+cross-examination at trial would be “to a large extent illusory” where the
+declarant experiences significant memory lapses or where he recants (A.R., vol.
+I, at p. 61).  D.S.’s refusal to waive solicitor-client privilege precluded
+questions to D.S. or his counsel about how D.S. came to implicate the appellant
+(A.R., vol. I, at p. 59). [14]                         
+ Flynn J. found insufficient means for the jury
+to assess the reliability of the ASF as a prior inconsistent statement and held
+that it was not admissible as evidence for the truth of its contents. [15]                         
+The Ontario Court of
+Appeal concluded that the trial judge erred in his understanding of the scope
+of solicitor-client privilege.  Solicitor-client privilege would not have
+precluded all questioning of D.S. or his counsel regarding the ASF or his
+choice to implicate the appellant.  The Court of Appeal also held that the
+trial judge further erred in strictly focussing on the K.G.B.
+requirements for establishing reliability and in failing to consider other
+factors, such as the solemnity of the occasion upon which D.S. adopted the ASF
+and the involvement of counsel in preparing it. [16]                         
+Satisfied that without such errors the trial
+judge might have admitted the ASF into evidence, the Ontario Court of Appeal
+allowed the appeal, set aside the acquittal, and ordered a new trial. IV.    Issues [17]                         
+The question in this
+appeal is whether the trial judge erred in finding that there were insufficient
+safeguards to establish threshold reliability to admit the ASF as evidence and,
+if he did, whether the error had a material bearing on the result.  Answering
+this question requires the consideration of two issues: (a)        Did the trial judge err in finding that cross-examination
+did not provide a sufficient basis for the jury to assess the truthfulness of
+the prior inconsistent statement? (b)        Did the trial judge err in finding that the circumstances
+surrounding the making of the prior inconsistent statement did not provide
+sufficient guarantees of substantive reliability? V.     Legal Principles A.     Hearsay and Threshold Reliability [18]                         
+Hearsay evidence — an out-of-court statement
+tendered for the truth of its contents — is presumptively inadmissible.  This
+is because the dangers associated with hearsay evidence may undermine the
+truth-seeking function of a trial or its fairness.  These dangers typically
+include an inability to test and assess a declarant’s perception, memory,
+narration, or sincerity:  R. v. Khelawon, 2006 SCC 57, [2006] 2 S.C.R.
+787, at para. 2. [19]                         
+The law has conventionally favoured the evidence
+of witnesses who give evidence in court because they can be observed, under
+oath or affirmation, and their credibility and reliability can be tested
+by cross-examination.  These elements help the trier of fact assess the
+credibility of the declarant or witness, the reliability of the evidence, and
+the degree of probative force it carries.  When these elements are absent, as
+is the case with a statement made outside of the court, it is more difficult
+for the trier of fact to make these assessments. [20]                         
+Over time, however, the
+law has recognized that in certain circumstances, it may be safe to rely on
+out-of-court statements for the truth of their contents.  Exceptions to the
+hearsay rule developed for statements carrying certain guarantees of inherent
+trustworthiness, often because of the circumstances in which they were made
+(for example, dying declarations and declarations that are adverse in
+interest). [21]                         
+In addition to the
+traditional exceptions, however, this Court developed a principled approach
+that permits trial judges to admit hearsay evidence if it meets the twin
+threshold requirements of necessity and reliability.  This is a flexible
+case-by-case examination.  See especially R. v. Khan, [1990] 2 S.C.R.
+531; R. v. Smith, [1992] 2 S.C.R. 915; K.G.B.; R. v. U. (F.J.),
+[1995] 3 S.C.R. 764; and R. v. Blackman, 2008 SCC 37, [2008] 2 S.C.R.
+298, at para. 38.  With the increased flexibility provided by the principled approach,
+however, the gatekeeper function of the trial judge becomes more complex and
+nuanced. [22]                         
+Where a witness recants from a prior statement,
+necessity is established: Khelawon, at para. 78.  The focus in this case
+is on whether the prior inconsistent statement meets threshold reliability. [23]                         
+The trial judge, as the evidentiary gatekeeper,
+assesses the threshold reliability of the hearsay statement.  The
+decision as to the ultimate reliability of the statement is left to the
+trier of fact:  Khelawon, at para. 2. Even if the necessity and
+reliability of the hearsay evidence are proven, the trial judge maintains
+discretion to exclude the evidence where the “prejudicial effect is out of
+proportion to its probative value”:  Khelawon, at para. 3. [24]                         
+Why not simply let the trier of fact determine
+both threshold and ultimate reliability?  Professors D. M. Paciocco and L.
+Stuesser provide the following explanation, with which I agree: In considering “reliability”,
+a distinction is made between “threshold” and “ultimate” reliability.  This
+distinction reflects the important difference between admission and reliance. 
+Threshold reliability is for the trial judge and concerns the admissibility of
+the statement.  The trial judge acts as a gatekeeper whose function “is limited
+to determining whether the particular hearsay statement exhibits sufficient indicia
+of reliability so as to afford the trier of fact a satisfactory basis for
+evaluating the truth of the statement.”  So long as it can be assessed and
+accepted by a reasonable trier of fact, then the evidence should be admitted. 
+Once admitted, the jury remains the ultimate arbiter of what to do with the
+evidence and deciding whether or not the statement is true.  (The Law of Evidence (6th ed. 2011), at pp. 122-23)  See R.
+v. Hawkins, [1996] 3 S.C.R. 1043, at para. 75; and Khelawon, at
+paras. 50-52. [25]                         
+Threshold reliability serves an important
+function.  Rules of evidence and principles governing the admissibility of
+evidence exist in the first place because experience teaches that certain types
+of evidence can be presumptively unreliable (or prejudicial) and can undermine
+the truth-seeking function of a trial.  Rules of admissibility of evidence
+address trial fairness and provide predictability.  They also provide the means
+to maintain control over the scope of criminal trials to keep them manageable
+and focussed on probative and relevant evidence. B.     Admissibility of Prior Inconsistent Statements [26]                         
+Historically, an out-of-court prior inconsistent
+statement of a non-accused witness was admissible only to impeach the
+credibility of the witness.  A prior inconsistent statement — hearsay evidence
+— was not admissible for the truth of its contents unless the witness adopted
+the prior statement in court.  Otherwise, the jury was limited to rejecting the
+viva voce evidence of the recanting witness; the jury could not
+substitute the contents of the out-of-court statement. [27]                         
+This traditional rule
+excluding prior inconsistent statements was altered in K.G.B. to conform
+with the evolving principled approach to hearsay.  On an exceptional basis, a
+prior inconsistent statement is admissible for the truth of its contents,
+provided the threshold criteria of necessity and reliability are established. [28]                         
+In K.G.B., at p. 787, Lamer C.J. stated that the focus of the
+reliability inquiry, when dealing with prior inconsistent statements, “is on
+the comparative reliability of the prior statement and the testimony offered at
+trial, and so additional indicia and guarantees of reliability . . . must be
+secured in order to bring the prior statement to a comparable standard of
+reliability before such statements are admitted as substantive evidence”. [29]                         
+Accordingly, Lamer C.J.
+held, at pp. 795-96, that a prior inconsistent statement of a non-accused
+witness may be admitted for the truth of its contents if the so-called K.G.B.
+reliability indicia are met:  (1) the statement is made under oath or solemn
+affirmation after a warning as to possible sanctions if the person is
+untruthful; (2) the statement is videotaped or recorded in its entirety; and
+(3) the opposing party has a full opportunity to cross-examine the witness on
+the statement.  Such K.G.B. statements have become prevalent, especially
+in murder investigations. [30]                         
+However, the K.G.B. indicia are not the
+only means of establishing threshold reliability.  The prior inconsistent
+statement’s threshold reliability may be established by:  (1) the presence of
+adequate substitutes for testing truth and accuracy (procedural reliability);
+and (2) sufficient circumstantial guarantees of reliability or an inherent
+trustworthiness (substantive reliability):  Khelawon, at paras. 61-63.
+These two principal ways of showing threshold reliability are not mutually
+exclusive:  R. v. Devine, 2008 SCC 36, [2008] 2 S.C.R. 283, at para. 22. [31]                         
+The admissibility of
+hearsay evidence, such as the prior inconsistent statement in this case, is a
+question of law.  Of course, the factual findings that go into that
+determination are entitled to deference and are not challenged in this case. 
+As well, a trial judge is well placed to assess the hearsay dangers in a
+particular case and the effectiveness of any safeguards to assist in overcoming
+them.  Thus, absent an error in principle, the trial judge’s determination of threshold
+reliability is entitled to deference:  R. v. Couture, 2007 SCC 28,
+[2007] 2 S.C.R. 517, at para. 81. [32]                         
+To obtain a new trial
+following an acquittal, the Crown must show that the trial judge erred and that
+this error “might reasonably be thought . . . to have had a material bearing on
+the acquittal”:  R. v. Graveline, 2006 SCC 16, [2006] 1 S.C.R. 609, at
+para. 14.  The Crown is not required to establish “that the verdict would
+necessarily have been different”:  Graveline, at para. 14.  This is
+still, however, a “heavy onus” for the Crown:  R. v. Briscoe, 2010 SCC
+13, [2010] 1 S.C.R. 411, at para. 26. VI.     Application [33]                         
+ In light of the trial
+judge’s obligation to act as evidentiary gatekeeper, I turn first to the
+specific hearsay dangers posed by the prior inconsistent statement in this case
+as noted by the trial judge.  In the context of the plea bargain, D.S. had a
+strong incentive to minimize his role in the crime and to shift responsibility
+to the appellant, a co-accused, in order to obtain a favourable outcome.  There
+was no opportunity to observe the demeanour of D.S. or his own choice of words,
+as the ASF was drafted by counsel and was not spontaneous.  When D.S. asserted
+solicitor-client privilege, the ability to cross-examine was curtailed. [34]                         
+The trial judge therefore considered whether
+cross-examination of D.S. at the appellant’s trial would provide an adequate
+procedural basis to permit the jury to assess the veracity of the prior
+statement and whether there were other circumstances that provided circumstantial
+assurances of trustworthiness. A.     Procedural Substitutes:  The Opportunity to Cross-Examine
+the Recanting Witness [35]                         
+The most important
+factor supporting the admissibility of a prior inconsistent statement of a
+non-accused witness for the truth of its contents is the availability of the
+non-accused witness for cross-examination.  In Couture, Charron J. held
+that “the availability of the declarant for cross-examination goes a
+long way to satisfying the requirement for adequate substitutes” for testing
+the evidence (at para. 92) and that “the opportunity to cross-examine is the
+most powerful factor favouring admissibility” (para. 95). [36]                         
+In assessing the means by which a jury could
+rationally evaluate the truthfulness and accuracy of the statement, the trial
+judge correctly noted the importance of cross-examination.  He stated that it
+was an important means for the jury to determine whether a previous statement
+from a witness was ultimately reliable.  However, referring to Conway,
+the trial judge noted that the opportunity for an effective cross-examination
+of D.S. at the appellant’s trial would be “to a large extent illusory” due to
+D.S.’s memory lapses with respect to the ASF and his invocation of
+solicitor-client privilege. [37]                         
+With respect to
+solicitor-client privilege, the trial judge concluded: Solicitor/client privilege precluded
+questions to or from [D.S.] or indeed of his counsel about how it came to be
+that this confession from [D.S.] as the shooter and his implication of the
+accused as the person who provided him with the gun and directed him to do the
+shooting was made on the day of his guilty plea almost two years after his
+arrest when he had never confessed or implicated Yousanthan Youvarajah in all
+that time. [A.R., vol. I, at p. 59] [38]                         
+The respondent agrees
+with the Ontario Court of Appeal that the trial judge erred in overstating the
+scope of solicitor-client privilege and failed to recognize that there would be
+significant areas of cross-examination open to counsel at trial.  The Court of
+Appeal found that the trial judge erred in relying on Conway to conclude
+that cross-examination of D.S. would be “to a large extent illusory”.  As a result,
+the court concluded that the trial judge may have admitted the ASF if he had
+appreciated the broader scope of cross-examination available to test its
+reliability. [39]                         
+The Court of Appeal
+concluded that both counsel and the trial judge appeared “to have been of the
+mistaken view” that solicitor-client privilege would preclude certain questions
+being asked of D.S. with respect to the ASF (2011 ONCA 654, 107 O.R. (3d) 401,
+at para. 93).  Further, at para. 95, the Court of Appeal cited the trial
+judge’s statement that “no legal witnesses that have [ever] spoken to [D.S.]”
+should be called (A.R., vol. II, at p. 132). B.  Solicitor-Client Privilege [40]                         
+On a strict reading of the passage quoted above,
+I agree that the trial judge overstated the scope of solicitor-client
+privilege.  It would have been more accurate for the trial judge to say that it
+precluded many questions about his decision to accept the plea bargain
+and his reasons for implicating the appellant. Simmons J.A., for the unanimous
+panel of the Court of Appeal, outlined a number of areas of questioning that
+remained available to the Crown (see para. 84). [41]                         
+However, for the reasons that follow, on my
+reading of the reasons and the voir dire record, I am not persuaded that
+the trial judge erred in concluding that cross-examination was “to a large
+extent illusory” and insufficient to overcome the hearsay dangers in this
+particular case.  Further, I do not agree that the trial judge precluded the
+Crown from conducting a more probing cross-examination of the witness or from
+calling other witnesses about the creation of the ASF.  Finally, I am not
+persuaded that any overstatement of the scope of solicitor-client privilege
+would have had a material impact on the conclusion that cross-examination was
+not, in this case, a sufficient means to satisfy threshold reliability. [42]                         
+Once D.S. confirmed that
+he would not waive solicitor-client privilege, the Crown chose to circumscribe
+its cross-examination and had no further questions of the witness.  The trial
+judge made no comments suggesting that there should be no further
+cross-examination of the witness on the voir dire. [43]                         
+The following exchange
+between Crown counsel and the trial judge occurred after independent counsel
+confirmed that D.S. would not waive solicitor-client privilege (A.R., vol. II, at
+p. 132): [CROWN COUNSEL]:  And I don’t
+anticipate even now given the comments of [D.S.’s independent counsel] Mr.
+Marentette I don’t anticipate needing to call further witnesses. THE COURT:  Well, no legal
+witnesses that have ever spoken to this man anyway. [CROWN COUNSEL]:  Right. THE COURT:  Right.  I mean
+we’re going to take Mr. Marentette’s word as the final word on that. [CROWN COUNSEL]:  Right. [44]                         
+This exchange between
+the trial judge and Crown counsel must be read in context.  It does not amount
+to a direction or a ruling not to call other witnesses.  The trial judge merely
+affirmed Crown counsel’s statement that he would not be calling any “legal
+witnesses that have ever spoken to” the witness (emphasis added).  The
+judge was not asked for a ruling.  Had Crown counsel wished to call further
+evidence, he could have sought direction.  The judge would no doubt have sought
+submissions and considered the extent of the restrictions imposed by
+solicitor-client privilege before making a ruling. [45]                         
+Since this was the same
+Crown who had prosecuted D.S. at his separate youth trial, and who negotiated
+the plea bargain and drafted the ASF, he knew what D.S. or his lawyers could
+say about those matters, outside the scope of solicitor-client privilege. 
+Thus, I reject the submission that the trial judge curtailed the scope of
+evidence on the voir dire. [46]                         
+I conclude that the voir dire unfolded as
+it did primarily due to the Crown’s prosecutorial decisions.  Crown counsel was
+not precluded by the trial judge from calling further witnesses or from posing
+further questions to D.S.  The Crown cannot ask for a new trial on the basis
+that the prosecution should have been conducted differently. [47]                         
+Further, it should not be inferred from this
+exchange that the trial judge did not correctly understand the scope of
+solicitor-client privilege when he made his ruling on the voir dire. 
+Trial judges are presumed to know the law.  Further, given the context of this
+informal exchange, I am not persuaded that it provides a basis to conclude that
+the trial judge did not understand the scope of solicitor-client privilege.  He
+was neither stating a legal principle nor making a ruling. [48]                         
+Finally, notwithstanding
+the aspects of cross-examination that would have remained available, the
+reality is that solicitor-client privilege would curtail significantly the
+cross-examination available to assess the threshold reliability of the prior
+inconsistent statement.  The Crown could not have probed the conversations
+between D.S. and his counsel about legal advice in connection with his decision
+to plead guilty or to accept the ASF. [49]                         
+Simply put, D.S. recanted the portions of the ASF that implicated the
+appellant and replaced them with assertions that exonerated the appellant. 
+Cross-examination of D.S. did not elicit an explanation for his about-face from
+the assertions that tied the appellant to the murder.  This Court stated in
+U. (F.J.), at para. 46, that if the witness “provides an explanation for
+changing his or her story, the trier of fact will be able to assess both
+versions of the story, as well as the explanation”.  Paciocco and Stuesser
+similarly state that “[a] testing of the witness’s recantation is only possible
+when the witness admits making the earlier statement and provides a story
+for his or her recantation” (p. 131 (emphasis added)).  See also Khelawon,
+at para. 76. [50]                         
+In this case, solicitor-client privilege would
+hinder the fact finder’s opportunity to fully explore any explanation offered. 
+The jurisprudence emphasizes the presence of a “full opportunity to
+cross-examine the witness [at trial] respecting the statement”:  K.G.B.,
+at p. 796 (emphasis added).  In Devine, Charron J. held: It is
+important to note that the availability of the declarant to be cross-examined
+will not necessarily tip the scales in favour of admissibility.  In order for
+this factor to weigh in favour of admission, there must be a “full opportunity
+to cross-examine the witness” at trial (K.G.B., at p. 796). [para. 26] [51]                         
+The trial judge referred
+to Conway, a case in which the witness could not recall making the prior
+statement and in which cross-examination therefore would not assist in
+determining which version was true.  Unlike Conway, two versions of the
+events were before the trial judge in this case that could have been the
+subject of cross-examination (i.e., the ASF and D.S.’s testimony at the
+appellant’s trial). [52]                         
+The trial judge noted in this case that there
+were significant memory lapses in addition to D.S.’s recantation and direct
+contradiction.  I am not satisfied that a fair reading of the trial judge’s
+reasons suggests that he misunderstood the law.  While he quoted from Conway,
+and the circumstances in that case were somewhat dissimilar, the words he
+quoted were apt. [53]                         
+As noted above,
+solicitor-client privilege would have significantly limited the effectiveness
+of the cross-examination.  Thus, even if the trial judge had erred in
+overstating the scope of solicitor-client privilege or the analogy to Conway,
+I am not persuaded that it would have materially affected the outcome in these
+circumstances. [54]                         
+Given the nature of the
+hearsay dangers in this particular case, the trial judge did not err in
+concluding that nothing short of full cross-examination could overcome them. 
+Here, the cross-examination at trial would be significantly limited by the
+claim of solicitor-client privilege.  The statement was not videotaped.  There
+had been no oath or affirmation when the statement was made.  The transcript of
+the guilty plea proceedings established the words of the prior statements but
+was not a suitable substitute to assess D.S.’s demeanour and credibility at the
+time the statement was made.  Lastly, the ASF was not spontaneous and was not
+in D.S.’s own words.  Under the circumstances, I cannot conclude that the trial
+judge erred in finding that there were inadequate substitutes to test and
+assess the truth of the evidence. C.     Inherent Trustworthiness:  The Circumstances Surrounding
+the Preparation and Presentation of the ASF [55]                         
+If the circumstances in
+which the out-of-court statement came about do not give rise to a concern over
+whether the statement is true or not, the statement possesses an inherent
+trustworthiness or substantive reliability. [56]                         
+The Ontario Court of Appeal concluded that the
+trial judge erred in failing to consider whether the circumstances surrounding
+the preparation and presentation of the ASF provided an inherent
+trustworthiness to establish threshold reliability. [57]                         
+In my view, the circumstantial guarantees of trustworthiness asserted by the respondent — the
+thorough process in creating the ASF, the involvement of counsel, and the
+solemnity of the guilty plea proceeding — do not establish threshold
+reliability for the statements from which D.S. recanted, which served to
+minimize his involvement in the murder and shift responsibility to the
+appellant.  In the circumstances of this case, the formality of the process and
+the involvement of counsel only provide comfort in respect of D.S.’s statements
+admitting his own culpability for the murder. [58]                         
+D.S.’s guilty plea was,
+indeed, a solemn occasion.  The ASF was drafted by the Crown and defence
+counsel.  It was signed and acknowledged in open court by both D.S. and his
+defence counsel at the time D.S. pleaded guilty to second degree murder.  D.S.
+was represented by counsel when he endorsed the ASF and it formed the basis
+upon which the judge entered a conviction for second degree murder and
+fashioned his sentence. [59]                         
+To the extent that the ASF incriminated D.S.,
+was against his interests, and admitted his own culpability in court, these
+circumstances provide a compelling inference that those statements were in fact
+reliable in establishing D.S.’s criminal conduct.  However, the underlying
+rationale for the admissibility of admissions as against the party making them
+falls away when they are sought to be used against a third party. [60]                         
+Here, the portions of the ASF that the Crown
+sought to rely upon at the appellant’s trial are statements that shifted
+responsibility for the murder from D.S., the shooter, to his co-accused, the
+appellant.  They were elements that would support a plea to the lesser offence
+of second degree murder as well as support a more advantageous sentence. [61]                         
+Furthermore, the
+involvement of defence counsel provides no meaningful check on the danger of an
+accused acknowledging false allegations against a third party in order to
+obtain a favourable plea bargain.  Counsel have an ethical duty to not
+knowingly mislead the court.  However, it does not require them to verify or
+investigate the truth of information they present; and the duty is triggered
+only where counsel has information leading to the “irresistible conclusion”
+that something is false.  See M. Proulx and D. Layton, Ethics and Canadian
+Criminal Law (2001), at pp. 40-47 and 460. [62]                         
+The suggestion that the solemnity of the
+occasion or the involvement of counsel increases the inherent trustworthiness
+of the statement does not resonate to the extent that it incriminates a third
+party — in this case a co-accused.  Criminal law is generally and rightfully
+suspicious of allegations made by a person against an accomplice.  It has long
+been recognized that evidence of one accomplice against another may be
+motivated by self-interest and that it is dangerous to rely on such evidence
+absent other evidence which tends to confirm it.  The fact that such statements
+are contained in an ASF does not provide any reassurance of reliability.  Indeed,
+statements by a co-accused or accomplice are recognized as inherently
+unreliable. [63]                         
+Vetrovec warnings issued by trial judges, for example, provide jurors with direction
+to consider “all of the factors that might impair [the] credibility [of the
+testimony of co-accused or accomplices]”:  R. v. Khela, 2009 SCC 4,
+[2009] 1 S.C.R. 104, at para. 31.  Triers of fact, under such conditions, are
+able to determine whether the “evidence properly weighed [overcomes] its
+suspicious roots”: R. v. Brooks, 2000 SCC 11, [2000] 1 S.C.R. 237, at
+para. 69. [64]                         
+The administration of justice would not be
+enhanced in permitting admissions made by a co-accused in his own interest, as
+part of a plea bargain for a conviction of a lesser crime and favourable
+sentence, to be used against a co-accused, in circumstances where the
+reliability of the statements cannot be adequately tested. [65]                         
+In this case, the trial judge was alive to the circumstances surrounding the preparation and
+presentation of the ASF.  He described the circumstances in some detail,
+including those that weighed in favour of and against reliability.  He
+considered whether the solemnity of D.S.’s guilty plea proceeding demonstrated
+the trustworthiness of the ASF.  He appreciated that defence counsel assisted
+Crown counsel in the drafting of the statement and that, according to testimony
+during the voir dire, the information about the source of the gun came
+from the defence.  He also noted the evidence from D.S. that he did not
+understand all of the words in the ASF and that the assurance he would not have
+to give any further statement to the police was one of the reasons he agreed to
+the plea bargain. [66]                         
+The trial judge identified D.S.’s incentive to minimize his own involvement in order to obtain
+a youth sentence for second degree murder.  Indeed, D.S. testified that he
+agreed to facts outside of his knowledge or which he knew to be wrong in order
+to secure his plea bargain. In the context of this plea bargain, D.S. was
+motivated to minimize his own conduct and maximize that of the co-accused. [67]                         
+In the circumstances of this case, I cannot
+conclude that the trial judge erred by failing to consider whether the
+solemnity of the occasion or the involvement of counsel provided circumstantial
+guarantees of substantive reliability. VII.  Summary and Conclusion [68]                         
+The trial judge may have
+overstated the scope of solicitor-client privilege and its consequences for the
+cross-examination of D.S.  However, I am not persuaded that the Crown has
+satisfied its burden to show that any errors would have materially affected the
+conclusion reached by the trial judge. [69]                         
+The circumstances
+identified by the trial judge raise significant concerns about the threshold
+reliability of the portions of the ASF upon which the Crown sought to rely at
+the appellant’s trial, all of which minimized D.S.’s involvement in the murder.
+ D.S. endorsed the ASF as part of a plea bargain for second degree murder and a
+sentence in youth court. In these circumstances, there was motivation to shift
+responsibility to his co-accused.  D.S. was also assured that he would not have
+to make any further statements to police and he testified at the appellant’s
+trial that this was one of the reasons that he had accepted the plea
+agreement.   D.S. further testified that he agreed to some facts in the ASF
+that he said he did not or could not know and that he did not understand
+everything that he read before agreeing to the statement’s contents.  Those
+portions of the ASF that shifted responsibility for the murder to the appellant
+are inherently unreliable. [70]                         
+Further, the trial judge identified the following factors that made it difficult to
+assess the veracity of the prior inconsistent statement.  The statement was not
+videotaped or taken under oath.  There was no opportunity to assess D.S.’s
+demeanour or rely upon any spontaneous choice of words.  The police and Crown
+counsel chose not to videotape, under oath, as is routinely available,
+especially in homicide cases. [71]                         
+In light of these
+difficulties, only a full and complete opportunity to cross-examine would have
+provided a genuine basis on which to assess the reliability of D.S.’s
+statements.  His invocation of solicitor-client privilege, however, would
+preclude a full opportunity to cross-examine him. [72]                         
+The trial judge did not
+err in finding that the jury would not have the tools to assess or test the
+truthfulness of the exculpatory portions of the ASF.  I would allow the appeal and restore the acquittal.                      The
+reasons of Rothstein and Wagner JJ. were delivered by                     Wagner J. (dissenting) — I.       Background [73]                         
+At its core, this case deals with the
+admissibility of hearsay statements under the principled approach to hearsay
+rooted in necessity and reliability.  The hearsay evidence in question is a
+prior statement which was inconsistent with the testimony of a witness (also
+the co-accused) at the trial of the accused.  The prior inconsistent statement
+was an Agreed Statement of Facts (“ASF”) which was read in as part of the
+guilty plea of the co-accused who was being tried separately as a youth. [74]                         
+While there is a great deal of case law that has
+dealt with prior inconsistent statements under the principled approach, there
+are two wrinkles which make its application to this case unique.  First, unlike
+the police and out-of-court statements that are dealt with in much of the
+existing jurisprudence, the ASF at issue was accepted by the courts as part of
+a guilty plea and sentencing relating to the co-accused’s participation in the
+crime in question.  Second, the analysis under the principled approach was
+fraught with procedural errors stemming from the conduct of the trial judge as
+well as both Crown and defence counsel.  With these two differences in mind and
+for the reasons that follow, I believe that the question of admissibility must
+be redetermined in a new trial. II.     Background [75]                         
+The appellant, Yousanthan Youvarajah, stands
+accused of the first degree murder of Andrew Freake who was shot and killed
+during a drug deal that went wrong on October 11, 2007.  While Youvarajah did
+not pull the trigger, the Crown contends that the appellant orchestrated the
+shooting of Freake as retribution for being short-changed during two earlier
+sales of cocaine. [76]                         
+The events leading to
+the fatal shooting were initiated when Youvarajah called Freake to arrange for
+the purchase of one and a half pounds of marijuana.  After a series of delays,
+including an initial meeting in an apartment building and two changes of venue
+for the exchange due to excessive crowds, the parties met in Clyde Park to
+complete the transaction.  Freake, who was accompanied by two friends, followed
+the appellant into the park. [77]                         
+Youvarajah was accompanied by a young person,
+D.S., and two other acquaintances, Abhishaik Shinde and Raibeen Mohammad.  They
+went to the meeting place in an SUV driven by Shinde.  D.S. sat in the front
+passenger seat with the appellant sitting directly behind him.  Mohammad sat in
+the back seat behind Shinde. [78]                         
+Once inside the park,
+Shinde drove the SUV onto a grassy area and Freake stopped in a nearby parking
+lot.  Freake and one of his acquaintances approached the SUV by foot carrying
+three bags of marijuana.  Two bags of marijuana were passed into the car to be
+tested.  When Freake refused to pass the third bag, D.S. pulled out a handgun
+and shot Freake in the chest. [79]                         
+Within days of the
+shooting, both D.S. and Youvarajah were arrested and charged with first degree
+murder.  The charges against D.S. related to his role as the shooter while
+charges against Youvarajah were for planning and orchestrating the shooting.
+Since D.S. was a youth, his trial proceeded separately.  He pleaded guilty to
+second degree murder with the consent of the Crown.  As part of his guilty plea
+proceeding, an ASF which was signed by D.S., his two trial counsel, and the
+Crown, was read in and filed. [80]                         
+In the ASF, D.S. claimed that the appellant (1)
+gave D.S. the handgun used in the shooting; (2) told D.S. to shoot Freake at
+some point during the drug deal; and (3) demanded that D.S. return the handgun
+to him after the shooting.  These three elements of the ASF were crucial components
+of the Crown’s case against Youvarajah. [81]                         
+At the appellant’s trial,
+D.S. was called to testify about Youvarajah’s alleged involvement in planning
+the shooting.  While D.S. confirmed that he was the shooter, his testimony
+regarding the appellant’s involvement contradicted portions of the ASF, namely
+the three elements previously outlined.  Once on the stand, D.S. claimed that
+(1) he obtained the handgun from a prior break and enter; (2) he did not shoot
+Freake on Youvarajah’s instructions but rather because Freake was being
+disrespectful; and (3) he threw the murder weapon into a river after the
+shooting. [82]                         
+In light of D.S.’s testimony, the Crown applied to have the ASF admitted for the truth of its
+contents.  The trial judge dismissed the Crown’s application, finding that the
+ASF did not meet the standard of threshold reliability that is necessary for
+evidence to be admitted under the principled approach to hearsay evidence. 
+Without the relevant evidence implicating the accused, the trial judge granted Youvarajah’s
+application for a directed verdict of acquittal. [83]                         
+In reaching his conclusions, the trial judge focused on the three indicia of reliability
+outlined in R. v. B. (K.G.), [1993] 1 S.C.R. 740 (“B. (K.G.)”). 
+After noting that D.S. did not take an oath, he found that the jury would not
+have the opportunity to assess the witness’ demeanour since the guilty plea was
+not videotaped.  Accordingly, the trial judge’s reliability analysis hinged on
+the opportunity of cross-examining D.S. [84]                         
+During the trial proceedings, defence counsel suggested that the examination of D.S. regarding
+the ASF could be restricted by solicitor-client privilege.  D.S. was granted
+the opportunity to obtain independent legal advice.  After consulting with
+independent counsel, Mr. Marentette, D.S. informed the court that he would not
+waive solicitor-client privilege in any way.  In light of D.S.’s assertion of
+solicitor-client privilege, the trial judge found that the opportunity to
+cross-examine D.S. about the ASF was illusory. [85]                         
+In his reasons, the trial judge also noted that the ASF lacked additional indicia of
+reliability beyond the three markers laid out in B. (K.G.).  Namely, the
+ASF was not spontaneous, it was not crafted in D.S.’s own words, and the
+circumstances of the ASF allowed the court to infer a motive to lie in order to
+secure a lesser sentence as part of the guilty plea.  The trial judge further
+noted that D.S. was never warned of the potential penal consequences of later
+recanting. [86]                         
+The Crown appealed the decision to the Ontario Court of Appeal where the acquittal was set aside
+and a new trial ordered.  In her reasons, Simmons J.A. addressed three issues. 
+First, she held that the trial judge erred in finding that the opportunity to
+cross-examine D.S. was illusory.  Specifically, Simmons J.A. found that the
+trial judge “put his stamp of approval” on the position of both defence and
+Crown counsel that a cross-examination of D.S. or D.S.’s counsel about the
+circumstances giving rise to the ASF was precluded due to D.S.’s assertion of
+privilege (2011 ONCA 654, 107 O.R. (3d) 401, at para. 95).  Simmons J.A. also
+distinguished the instant case from R. v. Conway (1997), 36 O.R. (3d)
+579, where the Ontario Court of Appeal found the possibility of cross-examining
+a recanting witness to be illusory since he could not recall the prior
+statement.  Simmons J.A. found that D.S. could recall portions of the ASF and,
+in fact, the three elements crucial to the Crown’s case against Youvarajah. [87]                         
+Second, Simmons J.A. found that the trial judge
+erred by unduly focusing on the B. (K.G.) recommended safeguards while
+failing to consider other factors relevant to the reliability analysis.  She
+found that the lack of “presence” at the time of the prior statement, such as
+in the form of a video, was irrelevant due to D.S.’s minimal involvement in the
+proceeding and that the solemn circumstances of D.S.’s guilty plea added to the
+reliability of the statement.  Simmons J.A. also held that it could be inferred
+that D.S. was warned about the penal consequences of recanting since
+experienced defence counsel was involved in the preparation and presentation of
+the ASF. [88]                         
+Third, Simmons J.A. briefly addressed the issue
+of inherent motive for D.S. to lie in the ASF.  She found that this was an
+issue for the trial judge to address at the new trial if the other indicia
+considered were not sufficient to meet the standard of threshold reliability. III.  Issues [89]                         
+The issue before this
+Court is simply whether the ASF was sufficiently reliable to be admitted into
+evidence for the truth of its contents under the principled approach to hearsay
+based on necessity and reliability.  Since necessity is not at issue, the focus
+of the analysis that follows will be on the reliability of the ASF.  The
+reliability analysis raises a series of sub-issues on the facts before this
+Court: 1.         Did the trial judge err in
+holding that the opportunity to cross-examine D.S. was illusory as a result of
+his invoking solicitor-client privilege?  2.         Did the nature of the ASF and the
+circumstances under which it was prepared and presented provide sufficient
+indicia of reliability? IV.    Analysis A.     Overview of Admissibility of Prior Inconsistent Statements
+Under the Principled Approach [90]                         
+The principled approach to the admissibility of
+hearsay evidence was adopted by this Court in B. (K.G.). Prior to B.
+(K.G.), the use of prior inconsistent statements, or any form of hearsay
+evidence, was restricted to impeaching witness credibility.  This restriction
+was to ensure that untested and unreliable evidence that could lead to an
+unfair verdict was excluded and that litigants were provided with the
+opportunity to confront witnesses who were adverse to their position. [91]                         
+In certain circumstances,
+hearsay evidence presents minimal dangers to trial fairness.  In those
+situations, its exclusion would be more detrimental to the fact-finding
+function of the court than its admission.  By endorsing the principled approach
+in B. (K.G.), this Court sought to strike a better balance between trial
+fairness and the truth-seeking function of the judicial process.  Under the
+principled approach, hearsay statements remain presumptively inadmissible, but
+may be admitted where necessity and reliability are sufficiently demonstrated. [92]                         
+Necessity arises from the fact that important
+evidence leading to the truth would otherwise be lost when a witness recants. 
+This aspect of the principled approach requires no further analysis on these
+facts. [93]                         
+The reliability requirement is aimed at identifying cases where the dangers of hearsay evidence
+may be overcome.  Indeed, in R. v. Khelawon, 2006 SCC 57, [2006] 2
+S.C.R. 787, at paras. 62-63, Charron J. indicated that the reliability
+requirement will generally be met either (1) by showing that there is no real
+concern about a statement’s truth owing to the circumstances in which it arose;
+or (2) by showing that there is no real danger that the statement is made in
+hearsay form since, in the circumstances, its reliability can be sufficiently
+tested by means other than contemporaneous cross-examination and presence. 
+These categories are not mutually exclusive and merely provide guidance in
+identifying the factors to be considered in an admissibility inquiry. [94]                         
+In B. (K.G.), this Court addressed the presence of adequate substitutes for traditional
+safeguards relied upon to test hearsay evidence. The admissibility question in B.
+(K.G.) dealt with the prior inconsistent statements made by the accused’s
+friends in which they told police that he was responsible for stabbing and
+killing the victim.  The three friends recanted at trial and the Crown sought
+to have their prior statements admitted for their truth.  While a new trial was
+ordered to determine the admissibility of the prior inconsistent statements,
+this Court outlined the principled approach to be used in the analysis. [95]                         
+Lamer C.J. indicated that sufficient
+circumstantial guarantees of reliability could be found where three indicia
+were satisfied: if (1) the statement was made under oath, solemn affirmation or
+solemn declaration following an explicit warning as to the criminal
+consequences of making false statements; (2) the entire statement was
+videotaped; and (3) the opposing party has an opportunity to cross-examine the
+witness at trial. [96]                         
+Importantly, Lamer C.J. left the door open for
+alternative indicia of reliability, stating, at p. 796: Alternatively, other circumstantial
+guarantees of reliability may suffice to render such statements substantively
+admissible, provided that the judge is satisfied that the circumstances provide
+adequate assurances of reliability in place of those which the hearsay rule
+traditionally requires. [97]                         
+Indeed, subsequent cases
+have found hearsay evidence to be admissible even when all three of the indicia
+from B. (K.G.) are not present.  R. v. U. (F.J.), [1995] 3 S.C.R.
+764, was such a case.  In that case, the accused was arrested for reported
+sexual activity with his 13-year-old daughter.  During separate police
+interviews, both the accused and his daughter provided matching and specific
+details of the same sexual activities and occurrences, including having had
+intercourse the previous night.  The issue on appeal was whether the trial
+judge erred in allowing the jury to compare the accused’s unadopted statement with
+his daughter’s unadopted prior inconsistent statement.  Despite the absence of
+an oath and videotaped statement, this Court found that the reliability
+threshold was met.  In addition to the ability to cross-examine the accused,
+the Court found reliability in the “strikingly similar” statements provided by
+the accused and his daughter. [98]                         
+In Khelawon, this Court further clarified
+that B. (K.G.) was never intended to create categorical exceptions. 
+Rather, admissibility was to be determined using the principled approach on a
+case-by-case basis, allowing the indicia of oath, presence (or video), and
+cross-examination to provide guidance in the reliability assessment as opposed
+to rigid requirements. [99]                         
+Regardless of the circumstances of a particular case and the indicia that may be available for the
+reliability analysis, it is crucial not to lose sight of the truth-seeking
+function of an admissibility inquiry under the principled approach.  In the
+instance of a prior inconsistent statement, the purpose of the admissibility
+inquiry is not to make an absolute determination of the reliability of the
+hearsay statement as compared with the subsequent testimony.  Rather, the
+inquiry is intended to ensure that the statement is sufficiently reliable in
+order for the trier of fact to assign the appropriate weight to the evidence.
+As Charron J. states in Khelawon, the “general exclusionary rule is a
+recognition of the difficulty for a trier of fact to assess what weight, if
+any, is to be given to a statement made by a person who has not been seen or
+heard, and who has not been subject to the test of cross-examination” (para.
+35). [100]                     
+This principle is articulated in B. (K.G.) where this Court draws the distinction between
+threshold reliability and ultimate reliability, stating: The ultimate reliability of the
+statement and the weight to be attached to it remain, as with all evidence,
+determinations for the trier of fact.  What the reliability component of the
+principled approach to hearsay exceptions addresses is a threshold of reliability,
+rather than ultimate or certain reliability. [p. 787] [101]                     
+As Charron J. stresses
+in Khelawon, at paras. 92-93, this distinction does not mean that
+relevant factors should be categorized in terms of threshold and ultimate
+reliability.  Rather, a more functional approach should be adopted by which the
+context will determine whether certain factors go to threshold reliability. 
+The focus of the inquiry should be on the dangers of hearsay evidence and the
+circumstances relied upon to overcome those dangers.  However, “it is crucial
+to the integrity of the fact-finding process that the question of ultimate
+reliability not be pre-determined on the admissibility voir dire” (para.
+93). [102]                     
+Given the truth-seeking function of the judicial
+process, I am of the view that threshold reliability should be generously
+interpreted in the admissibility inquiry.  Trial fairness and protection
+against the dangers of hearsay are not sacrificed where the trier of fact is
+ultimately able to make reasonable determinations of the weight to be accorded
+to evidence before the court.  The reliability inquiry does not need to ensure
+absolute reliability.  Rather, the circumstances surrounding the hearsay
+evidence must provide a sufficient basis for the trier of fact to assess and
+assign the appropriate weight and eventually determine ultimate reliability. B.     Application to the Case at Hand [103]                     
+As the following
+analysis will disclose, the trial judge erred in his determination that the ASF
+did not meet the standard of threshold reliability.  That is not to say that
+the circumstances in this case provide sufficient evidence to conclusively
+determine that the ASF should be admitted. Rather, the admissibility inquiry
+was incomplete and did not provide a proper basis for the trial judge to exclude
+the relevant evidence.  As articulated by the Ontario Court of Appeal, the
+issue of admissibility should be addressed at a new trial where threshold
+reliability can be properly assessed.                     (1)     The Nature of the
+Hearsay Evidence in Question [104]                     
+Not all out-of-court statements are created
+equal.  Indeed, this idea is captured by the principle from Khelawon that
+hearsay evidence will generally be admissible under the principled approach
+where there is either inherent reliability or circumstances that allow
+reliability to be tested by the trier of fact.   While much of this analysis
+hinges on the factors that can reduce the dangers of hearsay, the nature of the
+hearsay statement before this Court cannot be ignored. [105]                     
+Much of the jurisprudence pertaining to the admission of prior inconsistent statements deals
+with statements made to police (see Khelawon; B. (K.G.); U.
+(F.J.); R. v. Couture, 2007 SCC 28, [2007] 2 S.C.R. 517; R. v.
+Trieu (2005), 195 C.C.C. (3d) 373 (Ont. C.A.)) and to a lesser degree with
+out-of-court conversations (see R. v. Blackman, 2008 SCC 37, [2008] 2
+S.C.R. 298) or statements made at preliminary hearings for the trial where
+admissibility is in question (see R. v. Hawkins, [1996] 3 S.C.R. 1043). [106]                     
+The hearsay statement at issue in this case is
+an ASF which was drafted with the contribution and approval of Crown counsel,
+defence counsel and the accused.  More importantly, it was accepted by a court
+in the sentencing of a youth for the very serious crime of second degree
+murder. While the ASF and guilty plea proceedings did not include an explicit
+indication by the Crown that it consented to a lesser charge against D.S.
+because of his anticipated subsequent cooperation in proceedings against
+Youvarajah, it is certainly implicit in the nature of the plea agreement and
+the facts therein.  Accordingly, the ASF was used in some capacity to reduce
+the sentence of D.S. for a very serious crime. [107]                     
+The characteristics of
+the ASF in this case are somewhat unique when compared to other statements in
+previous case law. Statements to police and out-of-court conversations are not
+generally admitted as evidence in proceedings that may limit another
+individual’s freedom through sentencing, or that impact on society’s interest
+in deterrence, rehabilitation and retribution, not to mention public protection
+from dangerous offenders. [108]                     
+An ASF presented in
+court carries an inherent level of reliability that the judicial system accepts
+and, in fact, implicitly relies upon in the workings of the administration of
+justice.  It follows that not allowing an ASF to be admitted for its truth in a
+subsequent hearing, to be weighed and evaluated by the trier of fact, is
+problematic when viewed through the wider lens of the repute of the system of
+administration of justice.  What does it say about the administration of
+justice if the courts accept the reliability of a statement to convict an
+individual and to vary the length of his sentence for a crime as serious as
+murder, but are unwilling to place that same statement before the trier of fact
+in another proceeding to be weighed and considered against a recantation of
+that statement? [109]                     
+As a general rule, if a
+statement is accepted for its truth by the courts, and used to balance the
+liberty interests of the accused with societal considerations such as
+deterrence and retribution, then that statement provides a level of implicit
+reliability that warrants consideration in the admissibility inquiry in a
+subsequent third-party trial.  That is not to say that a statement’s use and
+judicial acceptance at a prior proceeding is sufficient in and of itself to
+meet the reliability requirement of the principled approach.  Rather, it is
+merely a factor that must be considered in the admissibility inquiry, a factor
+that goes towards meeting the threshold reliability standard. [110]                     
+Certainly, there are
+potential dangers that could arise with the use of such statements at
+subsequent trials.  Indeed, these concerns are captured in a line of Ontario
+cases that has suggested that care should be taken when considering the
+admissibility of a statement for its truth under the principled approach when
+it is read in at a witness’s earlier guilty plea (see R. v. Tran, 2010
+ONCA 471, 103 O.R. (3d) 131; R. v. D.P., 2010 ONCA 563, 268 O.A.C. 118;
+and R. v. McGee, 2009 CanLII 60789 (Ont. S.C.J.)).  There is a whole
+host of reasons for which an accused could provide untruthful information in
+the context of a guilty plea, including a reduced sentence, expediency of
+multiple proceedings, retribution against the target of a subsequent trial
+through cooperative testimony, or even the lack of understanding of the meaning
+of the statement or of the charges laid against the individual. [111]                     
+However, these potential
+dangers do not apply in every case and the resulting blanket assertions of
+unreliability do not take account of the nuanced approach that should take
+stock of factors that may add to or detract from the reliability inquiry in the
+particular context of the statement in question.  While these cases correctly
+highlight some of the reliability concerns with this type of statement, they do
+not address some of the potential indicia of reliability that may be found in
+certain circumstances.  It requires little imagination to envision circumstances
+where making a statement against friends, family, or professional acquaintances
+could be socially or even physically detrimental to a recanting witness. These
+social or physical ramifications against the interests of the witness provide
+an indication of reliability that may be weighed against any motive to lie. But
+these are considerations that must be borne out by the evidence and by the
+unique circumstances of each case and may not even be necessary to explore in
+depth at this stage of the analysis.  Certainly, motive need not be considered
+if reliability can be established by other means.  Nevertheless, motive is
+something that can provide context to the threshold reliability analysis. [112]                     
+ I also do not accept
+the argument that only the essential elements of the crime detailed in the ASF
+are accepted for their truth by the courts in a guilty plea.  The implication
+of this proposition is that the courts are willing to accept a statement that
+is only partially true so long as it provides the judiciary with the necessary
+elements to convict an individual. Beyond the obvious concerns of threatening
+individuals’ liberty or reducing sentencing based on documents that are deemed
+to be at least partially unreliable or untrue, this creates an arbitrary
+distinction about which aspects of a guilty plea are accepted for their truth. [113]                     
+Certainly an argument
+could be made that the reliability of a guilty plea rests on the admission
+against the interests of the accused. However, as I have stated above, what
+constitutes a statement against the interests of the accused may vary from case
+to case depending on the circumstances.  Indeed, an individual may place his
+safety or even his life in jeopardy by implicating himself in a serious crime. 
+This factor should be considered on the circumstances of each case.  A rigid
+rule finding that all third-party guilty pleas are unreliable is potentially
+detrimental to the truth-finding function of the judicial process. [114]                     
+Further, accepting that only the essential
+elements of a guilty plea need to be accepted for their truth ignores the interrelated nature of a guilty plea and sentencing. 
+Factors that do not form part of the essential elements of a crime may
+nonetheless prove to be pertinent when considering mitigating or aggravating
+factors in sentencing.  This is particularly true where the trial judge is
+presented with a joint submission by the Crown and the accused concerning
+sentencing and must determine whether the recommendation is appropriate within
+the entire context of the crime in question. [115]                     
+Looking at the case before this Court, the three
+crucial facts from the ASF which the Crown relies on
+are certainly not essential elements of D.S.’s crime.  The source of the gun,
+D.S.’s reasons for shooting Freake, and the manner in which the gun was
+disposed of do not form part of the actus reus or mens rea
+relating to D.S.’s crime.  Nonetheless, these factors are relevant to motive
+and the degree of planning and deliberation, all of which are properly
+considered during sentencing. Allowing a judge to consider these factors in
+sentencing, while finding that they are not sufficiently reliable to even be
+weighed by the trier of fact in another case, allows for an inconsistent
+application of the reliability of evidence and brings the administration of
+justice into question. [116]                     
+In summary, when dealing
+with threshold reliability, the fact that courts accept the statements read in
+on a guilty plea when considering convictions and sentencing is a factor that points to the reliability of the prior
+inconsistent statement, even when such statement implicates a third party.  It
+would not be prudent to make blanket conclusions about the dangers associated
+with this sort of statement, nor about its inherent reliability.  Each case
+will have to be examined on its particular circumstances when determining
+threshold reliability, but consideration should certainly be given to the
+general acceptance of and reliance on statements read in as part of a guilty
+plea. [117]                     
+While the nature of the statement in question
+warrants consideration, it is still necessary in the instant case to determine
+whether the ASF meets the requirements of necessity and reliability under the
+principled approach.  Since necessity is not at issue, the balance of my
+analysis will explore whether the threshold of reliability is met.                     (2)      Reliability  [118]                     
+The essential question before this Court is
+whether the trial judge erred in finding that the ASF was not sufficiently
+reliable to be admitted for its truth.  For the reasons that follow, I agree
+with the conclusion of the Ontario Court of Appeal that the trial judge failed
+to adequately assess the available indicia of reliability and erroneously found
+the opportunity to cross-examine D.S. to be illusory.  While the ASF may in
+fact prove to be too unreliable to be admitted, the trial judge’s analysis was
+insufficient to permit him to come to that conclusion.  As highlighted by
+Charron J. in Khelawon, the most important contextual factor in the
+reliability inquiry is the availability of the declarant for cross-examination. 
+Accordingly, my analysis will begin there.                     (a)      Cross-Examination  [119]                     
+The opportunity to cross-examine the declarant
+in relation to his prior inconsistent statement warrants strong consideration
+in a reliability analysis.  While the concerns of hearsay evidence still exist
+even where the declarant is available at trial, cross-examination can go a long
+way towards alleviating those concerns.  As Lamer C.J. noted in B. (K.G.),
+“the focus of the inquiry in the case of prior inconsistent statements is on
+the comparative reliability of the prior statement and the testimony offered at
+trial” (p. 787).  The availability of cross-examination allows the opposing
+party to test the current version and simultaneously address the declarant’s
+initial statement.  As Charron J. states in Khelawon, at para. 41:          Hence, although the underlying
+rationale for the general exclusionary rule may not be as obvious when the
+declarant is available to testify, it is the same — the difficulty of testing
+the reliability of the out-of-court statement.  The difficulty of assessing W’s
+out-of-court statement is the reason why it falls within the definition of
+hearsay and is subject to the general exclusionary rule.  As one may readily
+appreciate, however, the degree of difficulty may be substantially alleviated
+in cases where the declarant is available for cross-examination on the earlier
+statement, particularly where an accurate record of the statement can be
+tendered in evidence.  I will come back to that point later.  My point here
+is simply to explain why, by definition, hearsay extends to out-of-court
+statements tendered for their truth even when the declarant is before the
+court. [Emphasis added.] [120]                     
+The issue before this
+Court is whether D.S.’s assertion of solicitor-client privilege led to the
+opportunity for cross-examination becoming so illusory that it could not be
+used to establish reliability.  For the reasons that follow, I agree with the
+Ontario Court of Appeal’s finding that the trial judge erred in finding the
+opportunity for cross-examination to be illusory. [121]                     
+The first error committed by the trial judge was to overextend the breadth of
+solicitor-client privilege and its impact on the ability to cross-examine D.S. 
+The trial judge found that solicitor-client privilege precluded questioning
+D.S. and his former counsel about the circumstances of the guilty plea, the
+drafting of the ASF, and D.S.’s implication of Youvarajah as the person who
+provided him the gun and directed him to do the shooting.  While I am loath to
+provide a road map for the Crown to follow at a new trial, the Ontario Court of
+Appeal was correct in finding that the opportunity to cross-examine D.S. was
+not entirely closed and that the trial judge misapprehended the scope and
+impact of solicitor-client privilege on the opportunity for cross-examination. [122]                     
+Solicitor-client privilege is intended to prohibit the disclosure of any form of communication
+made in confidence between a lawyer and his client for the legitimate purpose
+of obtaining lawful professional advice or assistance, unless the privilege is
+waived by the client or a recognized exception to the privilege applies.  This
+definition is captured succinctly by J. H. Wigmore in Evidence in Trials at
+Common Law (McNaughton rev. 1961), vol. 8, at p. 554, and adopted by this
+Court in R. v. McClure, 2001 SCC 14, [2001] 1 S.C.R. 445, at para. 36:                     Where
+legal advice of any kind is sought from a professional legal adviser in his
+capacity as such, the communications relating to that purpose, made in
+confidence by the client, are at his instance permanently protected from disclosure
+by himself or by the legal adviser, except the protection be waived. [123]                     
+This definition does not
+encompass all communications between a lawyer and his client.  More importantly
+to the admissibility inquiry in this case, solicitor-client privilege does not
+foreclose cross-examining D.S. in relation to a number of areas concerning the
+ASF.  Specifically, the Ontario Court of Appeal identified six areas about
+which D.S. could have been cross-examined, had the trial judge not
+misunderstood the scope of solicitor-client privilege: (1)               D.S.’s understanding of the ASF;  (2)               D.S.’s understanding of any conditions that were
+attached to the plea deal;  (3)               D.S.’s understanding of the consequences of
+misleading the police, the court and the Crown;  (4)               D.S.’s motive for making what he now asserts were
+false statements;  (5)               D.S.’s instructions to counsel regarding
+communications to the court and the Crown; and  (6)               D.S.’s knowledge of the Crown’s theory at the time
+he provided counsel with instructions. [124]                     
+Admittedly, these six areas of potentially
+permissible lines of questioning could eventually be curtailed by issues of solicitor-client privilege.  However, that is an issue
+for the trial judge to address as those possible issues arise.  In any event,
+there is certainly the possibility of cross-examination in relation to these
+six areas.  Indeed, both defence counsel and Crown counsel cross-examined D.S.
+on some of these very issues, eliciting information that could have been
+relevant in the reliability assessment. [125]                     
+The Crown elicited
+evidence from D.S. regarding his understanding of the ASF.  Specifically, D.S.
+acknowledged that at his guilty plea he agreed that “Yousanthan Youvarajah gave
+[D.S.] a loaded small black handgun” and that he understood what that meant. 
+Further, the Crown read the following statement to D.S. from the ASF:  “When he
+was given the gun, [D.S.] was told by Yousanthan Youvarajah to shoot Mr. Freake
+sometime during the course of the drug rip off” (A.R., vol. V, at pp. 62-63).
+During the Crown’s cross-examination, D.S. admitted that he remembered the
+statement being read at his guilty plea and that he agreed to those facts
+through his counsel. [126]                     
+Similarly, defence
+counsel was able to elicit substantial information regarding the motive behind
+D.S.’s guilty plea and the ASF.  Specifically, during defence counsel’s
+cross-examination, D.S. conceded that a factor in his decision to plead guilty
+was his impression that he would not have to provide further statements.  He
+also agreed to defence counsel’s assertion that D.S. signed an ASF that he knew
+contained false information to “get to the end game that day which was pleading
+to second degree murder” (A.R., vol. III, at p. 92).  Defence counsel was also
+able to elicit D.S.’s assertions that he had never implicated Youvarajah in the
+killing until his guilty plea on September 17, 2009. [127]                     
+These examples are merely illustrative of the
+information that was potentially available on cross-examination without
+breaching D.S.’s asserted solicitor-client privilege.  Had the trial judge
+permitted the cross-examination to proceed and addressed issues involving
+solicitor-client privilege as they arose, information sufficient to meet the
+threshold reliability standard may have been brought forward. [128]                     
+The appellant claims
+that any cross-examination on the six aforementioned areas would either skirt
+the critical issues or be entirely blocked by solicitor-client privilege.  I
+cannot agree with this position.  The appellant’s position presupposes that
+D.S.’s recantation arose from direct or indirect communications with counsel. 
+While this is certainly possible, and maybe even likely, an admissibility
+inquiry should not rest on assumptions.  Further, and as I have already alluded
+to, limits on cross-examination should not be applied rigidly and absolutely
+where solicitor-client privilege is asserted.  Rather, issues of privilege
+should be addressed as they arise on cross-examination.  This way, relevant
+information that may not be prohibited by the assertion of privilege may still
+be elicited, furthering the underlying truth-seeking function of the
+proceedings. [129]                     
+While the issue is not
+before this Court, it bears mentioning that this approach is not an invitation
+for counsel to attempt to skirt privilege by inducing the waiver of privilege
+by an unsuspecting witness who has clearly asserted solicitor-client
+privilege.  Solicitor-client privilege is a fundamental principle of the
+Canadian legal system.  Any conduct that unscrupulously attempts to erode
+solicitor-client privilege should not be encouraged.  While solicitor-client
+privilege is not absolute and circumstances may arise where it will be
+subordinated, duping a witness into waiving privilege is never an acceptable
+practice. [130]                     
+Given that there were
+several subjects about which D.S. could have been cross-examined and that this
+could have potentially assisted in establishing reliability, the trial judge
+erred in determining that cross-examination was effectively foreclosed by the
+claim of solicitor-client privilege. [131]                     
+The appellant argues that the mistaken view of
+the scope of solicitor-client privilege rested solely on the shoulders of Crown
+counsel and that the trial judge cannot be held accountable for the tactical
+decisions made by counsel.  I cannot agree with this argument, given the facts
+before this Court.  Crown counsel certainly misunderstood the implications of
+D.S.’s asserted privilege, but the transcripts provide clear indication that
+the mistake was shared.  Indeed, defence counsel was the first to state that
+any cross-examination was meaningfully foreclosed once D.S. asserted privilege,
+a position that, coincidentally or not, was advantageous to the accused’s
+case.  Crown counsel seemingly concurred by indicating that he did not
+anticipate calling further witnesses after the privilege was asserted.  The
+trial judge did not correct these erroneous assumptions.  Rather, as Simmons
+J.A. correctly notes, “the trial judge put his stamp of approval on this
+approach — and effectively prevented the Crown from reconsidering calling
+D.S.’s counsel” (para. 95).  This is evident from the following exchange: [CROWN COUNSEL]:  And I don’t
+anticipate even now given the comments of Mr. Marentette I don’t anticipate
+needing to call further witnesses.  THE COURT:  Well, no legal
+witnesses that have ever spoken to this man anyway.  [CROWN COUNSEL]:  Right.  THE COURT:  Right.  I mean,
+we’re going to take Mr. Marentette’s word as the final word on that.  [CROWN COUNSEL]:  Right. [A.R.,
+vol. II, at p. 132] [132]                     
+The trial judge’s
+misapprehensions were also evident when he stated: “Well, you bump into the
+solicitor/client . . . privilege every which way here” (A.R., vol. III, at p. 1). 
+Perhaps most telling was the following excerpt from the trial judge’s reasons
+where he summarized the impact of solicitor-client privilege without having
+heard any argument on the matter: Solicitor/client privilege precluded
+questions to or from [D.S.] or indeed of his counsel about how it came to be
+that this confession from [D.S.] as the shooter and his implication of the
+accused as the person who provided him with the gun and directed him to do the
+shooting was made on the day of his guilty plea almost two years after his arrest
+when he had never confessed or implicated Yousanthan Youvarajah in all that
+time. [A.R., vol. I, at p. 59] [133]                     
+The appellant is correct
+in asserting that a judge must remain an impartial arbiter and refrain from
+intervening where parties do not properly raise evidentiary issues (see R.
+v. S.G.T., 2010 SCC 20, [2010] 1 S.C.R. 688, at para. 36).  However, it
+cannot be said that the trial judge in the present case remained impartial by
+weighing in with a clear expression of prohibition.  The appellant’s argument would
+be more compelling had the trial judge remained silent on the matter and merely
+allowed Crown counsel to proceed, but this was clearly not the case.  At the
+very least, the trial judge’s remarks improperly influenced the conduct of
+counsel. [134]                     
+While the appellant did
+not present the argument before this Court that the instant case was analogous
+to the situation in Conway, a brief discussion of that case is
+warranted to support the conclusion that the opportunity to cross-examine D.S.
+was not illusory. [135]                     
+In Conway, two men were charged with the
+second degree murder of an elderly disabled man while committing a robbery. 
+They pleaded not guilty to murder charges but guilty to the lesser charge of
+manslaughter on the grounds that they did not have the requisite mens rea,
+having ingested intoxicating substances prior to committing the offence.  One
+witness provided a written statement to the police denying knowledge of the
+killing and provided a subsequent written statement implicating the accused. 
+This statement had none of the indicia of reliability outlined in B. (K.G.). 
+At trial, the witness could not recall providing either written statement to
+police.  In finding the second written statement inadmissible for its truth,
+Labrosse J.A. found that the opportunity to cross-examine a witness who
+recanted and denied all recollection of the prior inconsistent statement was
+illusory. [136]                     
+The important distinction to be made between that matter and the present one is that two
+versions of the witness’s story could not be said to be before the trier of
+fact.  The evidence given by the witness amounted to a declaration of “I don’t
+remember” (p. 589).  As Labrosse J.A. stresses, the value of cross-examining a
+recanting witness lies in assessing the comparative reliability of the two
+versions.  Where both versions cannot be tested by the trier of fact, this
+cannot be accomplished. [137]                     
+In the instant case, the potential
+cross-examination of D.S. as to his statements does not suffer from the same
+deficiency as that encountered in Conway.  Simmons J.A. correctly states
+that while D.S. initially claimed not to recall signing the ASF, he later
+confirmed that he remembered a number of events set out within the document. 
+Indeed, Simmons J.A. astutely points out, at para. 74, that the trial judge
+acknowledged this very fact when he stated:  “When cross-examined by the Crown,
+[D.S.] admitted making many of the statements in the [ASF] and conceded that many
+of those statements were true” (A.R., vol. I, at pp. 49-50). [138]                     
+So while it is possible
+for a recanting witness’s cross-examination to prove too illusory to ground a
+reliability analysis, this may not be the situation in the present case.  D.S.
+was available for cross-examination, he recalled having made many of the
+statements within the ASF, he did not dispute understanding the key facts in
+the ASF which he subsequently denied at Youvarajah’s trial, and he recalled the
+ASF being read in at his guilty plea proceeding.  As a result, Simmons J.A.
+correctly summarized that the trial judge erred by failing to assess “whether
+it could properly be said that two versions of the events were before the
+court; and whether the extent of D.S.’s recollection would afford sufficient
+scope to assist the jury in assessing which, if either, version was true”
+(para. 79). [139]                     
+Accordingly, the trial
+judge erred in precluding a cross-examination which possibly could have gone
+towards establishing the threshold reliability of the ASF.  Given the
+importance of cross-examination in the admissibility inquiry, this error is
+sufficient in and of itself to order a new trial.  However, in the interest of
+completeness and of providing guidance for the new trial, I will briefly
+address the errors of the trial judge with regard to other indicia of
+reliability.                     (b)      Other
+Indicia of Reliability [140]                     
+The two other indicia of
+reliability detailed in B. (K.G.), namely a statement made under oath
+and captured by video, were not present in the context of the ASF in this
+matter.  However, the inquiry does not end there.  A reliability analysis is
+not restricted to the three indicia detailed in B. (K.G.).  In fact, as
+stated by Lamer C.J. in B. (K.G.) itself, “other circumstantial
+guarantees of reliability may suffice to render such statements substantively
+admissible” (p. 796).  This was clearly understood by the Ontario Court of
+Appeal in this case where Simmons J.A. stated that “the focus of the threshold
+reliability inquiry can change depending on the circumstances of the case”
+(para. 123). I also agree with the Ontario Court of Appeal’s finding that other
+factors were available in this case that could have satisfied the trial judge
+that the circumstances surrounding the drafting and reading in of the ASF
+provided assurances of reliability equivalent to an oath and presence, in the
+form of video.  If these indicia had been considered and cross-examination had
+been permitted, it is possible that threshold reliability would have been
+met. [141]                     
+In the instant case, perhaps the most persuasive
+indicia of reliability are the nature of the statement and how it was
+constructed.  As quoted above, in Khelawon, at para. 41, Charron J.
+indicated that where the declarant is available for cross-examination, an
+accurate record of the statement can do much to alleviate the dangers of
+hearsay. [142]                     
+The ASF tendered as evidence in D.S.’s guilty
+plea proceeding provides just such a record.  Having been reduced to writing,
+signed not only by D.S. but by both Crown and defence counsel, and having been
+read in to the record in the context of D.S.’s guilty plea, the source of the
+document cannot be disputed. [143]                     
+The nature of how the ASF was constructed
+further supports its reliability.  This was not a statement that was unilaterally drafted and forced upon D.S. to adopt. 
+Rather, the drafting of the ASF was a collaborative effort where there is
+evidence that at least one crucial component to the Crown’s case against
+Youvarajah was supplied by defence counsel — namely the statement that
+Youvarajah supplied D.S. with the gun. [144]                     
+Moreover, D.S. had the
+opportunity to review the ASF with his counsel prior to signing it and adopting
+it.  This is an important aspect as it refutes any negative inferences that
+could be drawn against the ASF on the grounds that it was not captured in
+D.S.’s own words or that D.S. did not understand its contents. [145]                     
+The appellant correctly argues that a lawyer’s
+ethical obligation not to knowingly present false statements to the court does
+not ensure the truth of the contents of the ASF.  However, it does provide some
+assurances that D.S. was advised of the consequences of providing a false
+statement.  Before entering a guilty plea, counsel has an ethical obligation
+under rules of professional conduct to ensure that the client (1) is
+voluntarily admitting the elements of the offence; and (2) understands the
+implications and possible consequences of a guilty plea, particularly with
+regards to the authority and discretion of the court.  In the absence of
+evidence to the contrary in the instant case, it is not unreasonable to assume
+that counsel would have advised D.S. about the contents of the ASF, the
+potential consequences of implicating the appellant, and the potential penal
+consequences of subsequently recanting.  This assumption is also supported on
+the record by D.S.’s admission that he understood that the basis of his guilty
+plea was the ASF. [146]                     
+Perhaps most importantly, D.S. testified that he
+understood the three crucial components of the ASF, namely that the appellant gave D.S. the gun, told him to shoot Freake, and
+demanded that D.S. return the gun.  Without more persuasive evidence to the
+contrary, this essentially forecloses any argument that D.S. lacked
+understanding of the ASF’s contents. [147]                     
+Looking beyond the construction of the ASF, the
+context of the proceedings under which it was read in to court and the contents
+of the ASF itself provide additional indicia supporting threshold reliability. 
+As the Ontario Court of Appeal stated, “the solemnity of the occasion on which
+the [ASF] was presented” was a feature that favoured threshold reliability
+(para. 137).  It certainly would have been ideal for the ASF to have been
+adopted under oath or solemn affirmation, but the nature of the guilty plea can
+help fill that gap when considered with the other indicia of reliability before
+the court. [148]                     
+The Ontario Court of Appeal also correctly
+rejected the trial judge’s assertion that the lack of spontaneity of the statement and the fact that it was not in D.S.’s own words
+detracted from the reliability of the ASF.  While spontaneity can be an
+indication of reliability, its absence does not necessarily detract from it. 
+With regards to an ASF prepared in the context of a guilty plea, reliability is
+not found through spontaneity but through the carefully crafted language which
+is subsequently adopted by the declarant after careful consideration with his
+counsel. [149]                     
+Finally, the Ontario
+Court of Appeal concluded that the lack of “presence” when the ASF was read
+in at the guilty plea, for example by way of video, was of no
+consequence since D.S.’s only contribution was to reply “yes” in response to
+two separate questions by counsel (para. 128).  I respectfully disagree with
+this assessment.  It is not appropriate to dismiss presence as indicia of
+reliability merely because of the declarant’s limited level of involvement or
+because of the brevity of his statement.  Had there been video presence, D.S.’s
+demeanour could have been assessed throughout the reading in of the ASF as well
+as in his answers to the two questions posed to him.  Even if one were to focus
+solely on D.S.’s two short responses, such presence could provide invaluable
+insight into D.S.’s demeanour and ultimately into the veracity of the
+statement. [150]                     
+While I cannot agree with the Ontario Court of
+Appeal’s assessment on the issue of presence, I do not think that lack of
+presence is detrimental to potentially establishing reliability.  If the
+cross-examination is found sufficiently meaningful and other indicia support
+the reliability of the ASF, presence may be superfluous.  As I have detailed
+above, the reliability indicia from B. (K.G.) are not rigid and the
+absence of one factor can be overcome if other factors are sufficient in
+establishing threshold reliability.  It is not necessary for me to draw any
+firm conclusion in this regard in the instant matter, and this is a question
+best left for a new trial where all of the factors can be assessed in concert. V.      Conclusion [151]                     
+While there are certainly concerns with admitting evidence from a guilty plea
+proceeding at the trial of a third party, I find it unpalatable to apply a
+blanket prohibition at the admissibility inquiry stage.  A proper admissibility
+inquiry is only intended to determine whether the prior inconsistent statement
+has sufficient markers of reliability to allow the trier of fact to reasonably
+assess the appropriate weight it should be given.  This is a contextual
+question that will change with the particular circumstances of each case. [152]                     
+Based on my analysis
+above, I do not think that a proper analysis was conducted in this case —
+particularly in relation to the opportunity for cross-examination and the
+consideration of other potential indicia of reliability.  Accordingly, the
+decision of the Ontario Court of Appeal should be upheld and a new trial
+ordered.  Reliability may be properly assessed at the new trial and the
+evidence may be appropriately admitted or excluded upon consideration of all
+the relevant factors. [153]                     
+For these reasons, I would dismiss the appeal.                     Appeal
+allowed, Rothstein and
+Wagner JJ. dissenting.                     Solicitors
+for the appellant:  Lockyer Campbell Posner, Toronto; Dawe &
+Dineen, Toronto.                     Solicitor
+for the respondent:  Attorney General of Ontario, Toronto.                     Solicitors for the intervener:  Henein
+Hutchison, Toronto.   

@@ -1,0 +1,712 @@
+                                                   SUPREME
+COURT OF CANADA   Citation:  Placer Dome Canada
+  Ltd. v. Ontario (Minister of Finance), [2006] 1 S.C.R. 715, 2006 SCC
+  20  Date:  20060525 Docket:  30580  Between: Ontario
+(Minister of Finance) Appellant and Placer
+Dome Canada Limited Respondent  Coram:
+Bastarache, Binnie, LeBel, Deschamps, Fish, Abella and Charron JJ.   Reasons for
+  Judgment: (paras. 1 to 53)  LeBel J. (Bastarache, Binnie, Deschamps, Fish, Abella and
+  Charron JJ. concurring)    ______________________________ Placer Dome Canada Ltd. v. Ontario (Minister of Finance),
+[2006] 1 S.C.R. 715, 2006 SCC 20  Ontario (Minister of Finance)                                                                          Appellant  v.  Placer Dome Canada Limited                                                                       Respondent  Indexed as:  Placer Dome Canada Ltd. v. Ontario
+(Minister of Finance)  Neutral citation:  2006 SCC 20.  File No.:  30580.  2005:  November 17; 2006:  May 25.  Present:  Bastarache, Binnie, LeBel, Deschamps, Fish,
+Abella and Charron JJ.  on appeal from the court of appeal for ontario  Taxation — Mining
+tax — Hedging — Whether definition of “hedging” in mining
+tax legislation restricted to transactions that result in delivery of output of
+mine — Mining Tax Act, R.S.O. 1990, c. M.15, s. 1(1)
+“hedging”.  Statutes — Interpretation — Taxation
+legislation — Administrative practices — Presumption
+against tautology — Meaning of definition of “hedging” in mining tax
+legislation — Mining Tax Act, R.S.O. 1990, c. M.15, s. 1(1)
+“hedging”.  In late 1993, PDC entered into an agreement with
+its parent company, PDI, whereby PDI was designated PDC’s exclusive agent for
+the purpose of conducting hedging activity.  In 1995 and 1996,
+pursuant to that agreement, PDI carried out hedging transactions on PDC’s
+behalf in order to protect the PDI Group from fluctuations in the spot price of
+gold.  On or shortly after entering into those transactions, PDI allocated them
+to PDC.  The total net gains that PDC realized from those transactions were
+$6,423,000 in 1995 and $11,440,000 in 1996.  At the time, the
+Minister of Finance’s own administrative practice excluded financial
+transactions from the statutory definition of “hedging” unless those
+transactions resulted in the delivery of output from an Ontario mine. 
+Consistent with this practice, PDC excluded the gains from its computation of
+profits under the Ontario Mining Tax Act because no gold had been
+delivered pursuant to those transactions.  By the time PDC was reassessed
+in 2000, the policy had changed.  Under the new policy, transactions
+constitute hedging so long as they are entered into prior to the delivery of
+output and to the extent that the volume of the transactions does not exceed
+the productive capacity of the Ontario mine.  The Minister thus sought to
+include the gains in PDC’s profits for the tax years in question.  PDC
+unsuccessfully appealed this reassessment before the Superior Court of
+Justice.  The trial judge found that the transactions at issue fell within the
+statutory definition of hedging because there was a nexus or “some link”
+between the output of the mines and the financial transactions.  A majority of
+the Court of Appeal set aside the decision and allowed PDC’s appeal, concluding
+that the definition of hedging was restricted to contracts that were settled by
+physical delivery of gold from an Ontario mine. Held:  The
+appeal should be allowed.    The broader interpretation of “hedging” is consistent
+with the context of the statutory definition.  In addition to “the fixing of a
+price . . . by means of a forward sale”, the definition of
+“hedging” refers to “the fixing of a price . . . by means
+of . . . a futures contract on a recognized commodity exchange”,
+“the purchase or sale forward of a foreign currency related directly to the
+proceeds of the output of a mine” and “does not include speculative currency
+hedging”.  It is significant that futures contracts are seldom settled by
+physical delivery.  Similarly, a sale or purchase forward of foreign currency
+is a separate transaction from the sale of an underlying commodity and would
+not itself be settled by physical delivery of the commodity.  [47]  In light of the scheme and context of the Mining
+Tax Act, the statutory definition of “hedging” must refer to something more
+than transactions that are settled by delivery of output.  The “some link” test
+applied by the trial judge is an appropriate response to the gap left in the
+Act by the failure to express more clearly what constitutes the “fixing of a
+price” for output of a mine.  [49]  The shift in the Minister’s administrative practice is
+reflective of the ambiguity that inheres in the statute itself and cannot be
+relied upon as an interpretive tool except to support the view that the
+statutory definition falls short of being clear, precise and unambiguous. 
+Although administrative practice can be an “important factor” in case of doubt
+about the meaning of legislation, it is not determinative.  In a case such as
+the present one where a statutory provision admits of more than one possible
+meaning, the Minister, having decided that its former interpretation was
+incorrect, is not precluded from changing its practice.  [40]  Cases Cited   Statutes and Regulations Cited  Constitution Act, 1867, s. 53 .  Corporations Tax Act, R.S.O. 1990, c. C.40, s. 80(18).  Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .), s. 152(8) .  Mining Tax Act, R.S.O. 1990, c. M.15, ss. 1(1) “hedging”,
+“proceeds”, 3(1), (5), 8(7).  Mining Tax Act, 1972, S.O. 1972, c. 140, s. 3(3).  Mining Tax Amendment Act, 1987, S.O. 1987, c. 11, ss. 1(4)(cb), 1(7)(j).  Regulation Made Under the
+Mining Tax Act, 1972, O. Reg. 126/75,
+ss. 1(f), 4(1).  Authors Cited  Grottenthaler, Margaret E.,
+and Philip J. Henderson.  The Law of Financial Derivatives in
+Canada.  Toronto: Carswell, 2003 (loose-leaf updated December 2005,
+release 2).  Hogg, Peter W.,
+Joanne E. Magee and Jinyan Li.  Principles of Canadian Income
+Tax Law, 5th ed.  Toronto: Carswell, 2005.  Kraus, Brent W.  “The
+Use and Regulation of Derivative Financial Products in Canada” (1999), 9 W.R.L.S.I. 31.  Krishna, Vern.  The
+Fundamentals of Canadian Income Tax, 8th ed. 
+Toronto:  Carswell, 2004.  Smithson, Charles W.  “A
+Building Block Approach to Financial Engineering:  An Introduction to
+Forwards, Futures, Swaps and Options” (1997), 1017 PLI/Corp 9.  Sullivan, Ruth.  Driedger
+on the Construction of Statutes, 3rd ed.
+Toronto:  Butterworths, 1994.  APPEAL from a judgment of the Ontario Court of Appeal
+(Gillese, Armstrong and Blair JJ.A.) (2004), 190 O.A.C. 157,
+[2004] O.J. No. 3554 (QL), setting aside a decision of Cullity J.
+(2002), 61 O.R. (3d) 628, [2002] O.J. No. 3690 (QL).  Appeal
+allowed.  Anita C. Veiga and Leslie M. McIntosh, for the appellant.  Al Meghji, Mahmud Jamal
+and Jacqueline Code, for the respondent.  The judgment of the Court was delivered by  LeBel J. —  I.  Introduction  1                                  
+The issue at the core of this appeal concerns the proper interpretation
+of “hedging” in s. 1(1) of the Mining Tax Act, R.S.O. 1990, c. M.15, in
+order to determine the scope of the tax base under the Act.  Hedging, as it is
+commonly understood, refers to transactions that offset financial risk inherent
+in other transactions, such as price risk or foreign exchange risk.  In the
+present case, the Court is called upon to determine whether the definition of
+“hedging” in the Mining Tax Act is informed by, or is narrower than, the
+commonly understood meaning of the term.  Specifically, the Court must decide
+whether the statutory definition is restricted to transactions that result in
+the physical delivery of the output of an Ontario mine or includes profits
+derived from “hedging” programs in respect of mining operations.  2                                  
+Until 1998, the Minister of Finance’s own administrative practice
+excluded financial transactions from the statutory definition of “hedging”
+unless those transactions resulted in the delivery of output from an Ontario
+mine.  In 1995 and 1996, Placer Dome Canada Limited (“PDC”) realized gains of
+$6,423,000 and $11,440,000, respectively, from certain financial transactions. 
+Consistent with the Minister’s administrative practice prevailing at the time,
+it excluded those gains from its computation of profits under the Mining Tax
+Act because no gold had been delivered pursuant to those transactions.  By
+the time PDC was reassessed in 2000, the Minister’s policy had changed.  Under
+the new policy, transactions constitute “hedging” so long as they are entered
+into prior to the delivery of output and to the extent that the volume of the
+transactions does not exceed the productive capacity of the Ontario mine.  This
+would mean that certain non-speculative transactions which fix the ultimate
+price of mine output would fall within the statutory definition of “hedging”,
+even if such transactions did not result in the physical delivery of output. 
+Thus, the Minister sought to include the gains in PDC’s profits for the tax
+years in question.  PDC appealed this reassessment.  Although PDC was
+unsuccessful before Cullity J. of the Ontario Superior Court of Justice, a
+majority of the Court of Appeal for Ontario allowed PDC’s appeal.  3                                  
+I conclude that the definition of “hedging” in the Mining Tax Act
+extends to transactions that do not result in the physical delivery of output
+from an Ontario mine.  This interpretation avoids the redundancy that results,
+on PDC’s interpretation, between the statutory definitions of “hedging” and
+“proceeds” of mining operations.  Moreover, it ensures that resources are taxed
+at their “locked in” value or their “realized price”.  II.  Background  4                                  
+PDC is a wholly owned subsidiary of Placer Dome International (“PDI”). 
+PDI has approximately 50 direct and indirect subsidiaries around the world and,
+together with those subsidiaries, is engaged in the international exploration,
+production and sale of gold.  In 1995 and 1996, PDC, or a predecessor prior to
+an amalgamation, operated three mines in Ontario: the Campbell Red Lake
+underground mine, the Detour Lake mine and the Dome mine.  It also operated the
+Sigma gold mine in Quebec and the Endako molybdenum mine in British Columbia,
+and owned all the shares of a corporation that operated the Kiena gold mine in
+Quebec.  5                                  
+It is not disputed by the parties that all the gold produced by PDC in
+1995 and 1996 was sold to bullion dealers at, or approximately at, the spot
+market price and that none of the gold produced was the subject of a forward
+sale or a futures contract.  At issue in the present case is a series of
+transactions entered into by PDI on PDC’s behalf as part of a comprehensive
+program designed to manage the risk associated with fluctuations in the spot
+price of gold.  Those transactions included forward contracts, spot deferred
+contracts, fixed interest floating lease rate contracts, put options and call
+options.  It is common ground that none of these transactions were settled by
+physical delivery of gold from any of PDC’s Ontario mines.  6                                  
+On December 21, 1993, PDC entered into an agency agreement with PDI
+whereby PDI was designated PDC’s exclusive agent for the purpose of conducting
+hedging activity.  In 1995 and 1996, pursuant to that agreement, PDI carried
+out hedging transactions on PDC’s behalf in order to protect the PDI Group from
+fluctuations in the spot price of gold.  Under the terms of the agreement, PDI
+took instruction from PDC as to the amounts of precious metals to be hedged,
+but was otherwise free to conduct hedging activity on PDC’s behalf at its
+discretion.  On or shortly after entering into these transactions, PDI
+allocated them to PDC.  In its internal bookkeeping and financial statements
+and in computing its income from gold production for the purpose of claiming a
+resource allowance in its corporate tax returns, PDC, in turn, allocated the
+transactions among its Canadian mines on the basis of proportionate production
+from each mine.  The gold that was so allocated was less than the actual
+production from the mines.  The total net gains that PDC realized from these
+transactions were $6,423,000 in 1995 and $11,440,000 in 1996.  III.  Legislative Framework and Application of the Law  7                                  
+The present appeal concerns only a very specific and limited part of the
+taxation regime of the mining industry in Canada.  Over the years, this
+industry has seen the rise and fall of a number of rules and policies designed
+to address its particular needs and difficulties.  Many of them will be found,
+for example, in the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .), more
+particularly in provisions about the deductibility of Crown royalties or mining
+taxes and, for a long time, about depletion allowances.  8                                  
+Under s. 3(1) of the Mining Tax Act, mine operators pay tax based
+on profit.  Profit is defined in s. 3(5) as proceeds less allowable deductions,
+and “proceeds” is defined in s. 1(1) as follows:   Thus, this definition includes three components: (a) total
+consideration from the output of the mine; (b) all consideration from hedging;
+and (c) all consideration from future or forward sales of the output of the
+mine.  9                                  
+“Hedging” is defined in s. 1(1) as follows:  “hedging” means the fixing of a
+price for output of a mine before delivery  by means of a forward sale or a
+futures contract on a recognized commodity exchange, or the purchase or sale
+forward of a foreign currency related directly to the proceeds of the output of
+a mine, but does not include speculative currency hedging except to the extent
+that the hedging transaction determines the final price and proceeds for the
+output;  10                              
+It is well established that in resolving doubt about the meaning of a
+tax provision, the administrative practice and interpretation adopted by the
+Minister, while not determinative, are important factors to be weighed: see Harel
+v. Deputy Minister of Revenue of Quebec, [1978] 1 S.C.R. 851, at p. 859,  per
+de Grandpré J.; Will-Kare Paving & Contracting Ltd. v. Canada,
+[2000] 1 S.C.R. 915, 2000 SCC 36, at para. 66, per Binnie J.
+(dissenting, but not on this point).  Prior to 1998, the Minister took the
+position that a hedging transaction only fell within the statutory definition
+if it was settled by physical delivery of the mining operator’s output.  In
+October 1998, the Minister’s policy changed.  Under the new policy,
+transactions that did not result in physical delivery would be caught by the
+statutory definition so long as they were entered into prior to the delivery of
+output and to the extent that the quantities of the commodity hedged did not
+exceed the operator’s output for the taxation year in question.  11                              
+There is no dispute that at the time PDC filed its mining tax returns
+for the years in question, it did so in conformity with the administrative
+practice prevailing at the time.  However, by the time that PDC’s returns were
+reassessed in 2000, the policy had changed.  While PDC emphasizes that its
+returns were consistent with the Minister’s own practice at the time they were
+filed and argues that the former policy is entitled to substantial weight in
+interpreting the Mining Tax Act, the Minister submits that it is not
+estopped from changing its practice having decided that its original
+interpretation was incorrect.  12                              
+The Minister argues that PDC’s interpretation and, indeed, its own
+interpretation under the former administrative practice, result in a
+substantial redundancy between the statutory definitions of “hedging” and
+“proceeds”.  In the Minister’s view, “hedging” encompasses transactions that do
+not culminate in delivery of output so long as there is a sufficient nexus
+between the output of the mine and the hedging contract.  13                              
+PDC responds that the definition of “hedging” in the Mining Tax Act
+is limited to transactions that result in the physical delivery of the output
+of an Ontario mine.  Any redundancy in the Mining Tax Act, it submits,
+cannot displace the clear words of that provision.  IV.  Judicial History  A.  Superior Court of Justice (2002), 61 O.R. (3d) 628 14                              
+Cullity J. dismissed PDC’s appeal from the confirmation of the
+assessments by the Minister.  He relied in part on the principles outlined in Echo
+Bay Mines Ltd. v. Canada, [1992] 3 F.C. 707 (T.D.), about the general
+purpose, characteristics and methods of hedging and held that those principles
+should inform the meaning of the definition of “hedging” in the Mining Tax
+Act.  In his view, the terms of the statutory definition make it clear that
+there must be a nexus, or “some link”, between the output of a mine and the
+financial transaction, but restricting that definition to transactions that
+culminate in the delivery of the output of the mine would introduce a
+significant redundancy into the Act.  Specifically, if hedging “by means of a
+forward sale” were restricted to sales that are settled by delivery of output,
+then that part of the statutory definition would be deprived of any meaning
+that is not already covered by the inclusion in the definition of “proceeds” of
+the “total consideration . . . from the output of the mine”.  15                              
+The trial judge stated that whether or not there is a sufficient link
+between a hedging transaction and output is a question of fact.  In light of a
+number of factors, including: (a) the underlying purpose of the transactions;
+(b) the existence and terms of the agency agreement between PDI and PDC; (c)
+the allocation of the transactions to PDC pursuant to that agreement; and (d)
+PDC’s treatment of the gains and losses for the purpose of its internal
+accounting and corporate tax returns, Cullity J. concluded that the
+transactions were related to the output of PDC’s mines.  He observed that any
+other conclusion would not have been reasonable or realistic in the
+circumstances.  B.  Court of Appeal for Ontario (2004), 190 O.A.C. 157  16                              
+Writing for the majority, Armstrong J.A. allowed PDC’s appeal.  In his
+view, the definition of “hedging” in the Mining Tax Act was clear,
+unambiguous and precise, and was restricted to contracts that were settled by
+physical delivery of gold from an Ontario mine.  Applying this interpretation,
+two findings of fact made by the trial judge were determinative:  (a) all gold
+produced by PDC’s Ontario mines was sold to bullion dealers at approximately
+the spot market price; and (b) none of the gold was the subject of a forward
+sales contract.  In light of those facts, Armstrong J.A. found it impossible to
+conclude that the transactions could be said to fix the price for output of the
+Ontario mines.  The principles articulated in Echo Bay Mines were
+inapplicable as that case involved the interpretation of a different statute,
+one in which no statutory definition for hedging was provided.  Moreover, in
+applying expert evidence adduced in Echo Bay Mines to fill a perceived
+deficiency in the record before him, Armstrong J.A. considered that Cullity J.
+had run afoul of the rule against judicial innovation articulated by this Court
+in Ludco Enterprises Ltd. v. Canada, [2001] 2 S.C.R. 1082, 2001 SCC 62,
+at para. 38.  17                              
+Armstrong J.A. concluded that there was no fatal redundancy in the Act
+because there could be future sales or forward sales contracts relating to the
+output of the mine that are not caught by the definition of “hedging” in the
+Act, “either because they do not take place on a recognized commodity exchange
+or for some other reason” (para. 40).  In the alternative, he held that any
+such redundancy could not displace the plain meaning of the provisions at issue. 
+He was reinforced in his conclusion by the observation that, while
+consideration is inherently a gross concept, gains and losses from hedging
+transactions are necessarily computed as net values.  Including a net amount
+within the computation of consideration would distort fundamental concepts of
+accounting.  He also opined that the Minister’s administrative practice was
+entitled to be given some weight based on the principles articulated in Harel
+and Will-Kare Paving.  He noted that the burden for proving that the
+Mining Tax Act imposes a tax on net gains from the transactions rests
+with the Minister, relying on Gonthier J.’s statement in Québec (Communauté
+urbaine) v. Corp. Notre-Dame de Bon-Secours, [1994] 3 S.C.R. 3, for that
+purpose.  If mistaken in the view that the statutory definition of “hedging”
+was unambiguous, Armstrong J.A. would have resolved any reasonable doubt in
+favour of the taxpayer in accordance with the residual presumption.  18                              
+Gillese J.A. would have dismissed PDC’s appeal.  In her view, the
+statutory definition is ambiguous in that it admits of two reasonable
+interpretations.  The “narrow” interpretation, which was reflected in the
+Minister’s former administrative practice, restricts “hedging” to contracts,
+the subject matter of which is the output of a mine.  The “broad”
+interpretation, reflected in the Minister’s new administrative practice (and
+the Minister’s position in the present case), encompasses contracts which have
+as their subject matter something other than the output of a mine, but which
+can nevertheless be said to fix the price for the output of a mine.  In her
+view, the narrow interpretation results in a serious redundancy between the
+second and third elements of the statutory definition of “proceeds”, that is,
+“hedging” and “forward sales of the output of the mine”, respectively.  She
+concluded that the broad interpretation is preferable and that the statutory
+definition refers to contracts with a subject matter other than the output of a
+mine so long as those contracts are:  (a) formed prior to delivery of output;
+(b) on a recognized commodity exchange; and (c) the means by which the price
+for the output of an Ontario mine is fixed.  19                              
+In addressing the subsidiary arguments, Gillese J.A. concluded that the
+Minister was not estopped from changing his administrative practice and, if
+anything, the change in administrative practice supported the view that the
+statutory definition is ambiguous.  She noted that hedging is necessarily a net
+concept and that, as a result, “consideration from hedging” has to be a net
+concept in the circumstances.  On the question of whether options could
+properly be considered forward sales contracts, she noted that the characterization
+by the trial judge of the transactions is a mixed question of law and fact and,
+as such, is entitled to some deference.  V.  Analysis  A.  The Issue  20                              
+As I have noted, the central issue in this case concerns the computation
+of profits for the purpose of the Mining Tax Act.  Specifically, the
+issue is whether the statutory definition of “hedging” encompasses financial
+transactions that are not settled by physical delivery of the output of an
+Ontario mine.  I will first address the principles of statutory interpretation
+applicable to taxation statutes.  Next, I will briefly review the nature and
+mechanisms of hedging, as that term is used under generally accepted accounting
+principles (“GAAP”).  Finally, I will turn to an analysis of the statutory
+provision at issue in this appeal.  B.  Interpretation of Tax Statutes  (1)  General Principles  21                              
+In Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536,
+this Court rejected the strict approach to the construction of taxation
+statutes and held that the modern approach applies to taxation statutes no less
+than it does to other statutes.  That is, “the words of an Act are to be read in
+their entire context and in their grammatical and ordinary sense harmoniously
+with the scheme of the Act, the object of the Act, and the intention of
+Parliament” (p. 578): see 65302 British Columbia Ltd. v. Canada, [1999]
+3 S.C.R. 804, at para. 50.  However, because of the degree of precision and
+detail characteristic of many tax provisions, a greater emphasis has often been
+placed on textual interpretation where taxation statutes are concerned: Canada
+Trustco Mortgage Co. v. Canada, [2005] 2 S.C.R. 601, 2005 SCC 54, at para.
+11.  Taxpayers are entitled to rely on the clear meaning of taxation provisions
+in structuring their affairs.  Where the words of a statute are precise and
+unequivocal, those words will play a dominant role in the interpretive process.  22                              
+On the other hand, where the words of a statute give rise to more than
+one reasonable interpretation, the ordinary meaning of words will play a lesser
+role, and greater recourse to the context and purpose of the Act may be
+necessary: Canada Trustco, at para. 10.  Moreover, as McLachlin C.J.
+noted at para. 47, “[e]ven where the meaning of particular provisions may not
+appear to be ambiguous at first glance, statutory context and purpose may
+reveal or resolve latent ambiguities.”  The Chief Justice went on to explain
+that in order to resolve explicit and latent ambiguities in taxation
+legislation, “the courts must undertake a unified textual, contextual and
+purposive approach to statutory interpretation”.  23                              
+The interpretive approach is thus informed by the level of precision and
+clarity with which a taxing provision is drafted.  Where such a provision
+admits of no ambiguity in its meaning or in its application to the facts, it
+must simply be applied.  Reference to the purpose of the provision “cannot be
+used to create an unexpressed exception to clear language”: see P. W. Hogg, J.
+E. Magee and J. Li, Principles of Canadian Income Tax Law (5th ed.
+2005), at p. 569; Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622. 
+Where, as in this case, the provision admits of more than one reasonable
+interpretation, greater emphasis must be placed on the context, scheme and
+purpose of the Act.  Thus, legislative purpose may not be used to supplant
+clear statutory language, but to arrive at the most plausible interpretation of
+an ambiguous statutory provision.  24                              
+Although there is a residual presumption in favour of the taxpayer, it
+is residual only and applies in the exceptional case where application of the
+ordinary principles of interpretation does not resolve the issue: Notre-Dame
+de Bon-Secours, at p. 19.  Any doubt about the meaning of a taxation
+statute must be reasonable, and no recourse to the presumption lies unless the
+usual rules of interpretation have been applied, to no avail, in an attempt to
+discern the meaning of the provision at issue.  In my view, the residual
+presumption does not assist PDC in the present case because the ambiguity in
+the Mining Tax Act can be resolved through the application of the
+ordinary principles of statutory interpretation.  I will say more on this
+below.  (2) The Burden of Proof  25                              
+The parties disagree on who bears the burden of proof in this case.  The
+burden of proof under the Mining Tax Act is set out in s. 8(7).  That
+section referentially incorporates s. 80(18) of the Corporations Tax Act,
+R.S.O. 1990, c. C.40, which provides that  [a]n assessment, subject to being varied or vacated on
+an objection or appeal and subject to a reassessment, shall be deemed to be
+valid and binding despite any error, defect or omission therein or in any
+proceeding under this Act relating thereto.  Thus, the taxpayer bears the burden of establishing that the factual
+findings upon which the Minister based the assessment are wrong.  This is the
+same burden that applies under the Income Tax Act, s. 152(8) : see V.
+Krishna, The Fundamentals of Canadian Income Tax (8th ed. 2004), at p.
+35; Johnston v. M.N.R., [1948] S.C.R. 486.  26                              
+PDC and the majority of the Court of Appeal, cite Notre-Dame de
+Bon-Secours for the proposition that the party claiming the benefit of a
+legislative provision has the burden of showing that he or she is entitled to
+rely on it.  Specifically, at p. 15, Gonthier J. held:  The burden of proof thus rests with the tax department
+in the case of a provision imposing a tax obligation and with the taxpayer in
+the case of a provision creating a tax exemption.  Gonthier J.’s statement in Notre-Dame de Bon-Secours was
+obiter dicta, made in the context of explaining the traditional rule
+that tax legislation must be strictly construed.  His point was simply that the
+residual presumption in favour of the taxpayer, which follows from the strict
+construction rule, was distinct from the concept of burden of proof.  The
+burden of proof was not at issue in the case before him, and Gonthier J.’s
+comment was made in passing, without reference to the leading case law
+establishing the burden of proof in tax cases.  The fundamental rules on the
+allocation of evidentiary burden in this matter remain valid.  I cannot accept
+that, with this statement, he intended to overrule an established body of
+jurisprudence.  The taxpayer bears the burden of displacing the Minister’s
+factual assumptions, but the concept of burden of proof is not applicable to the
+interpretation of a statute, which is necessarily a question of law: Johnston.  27                              
+Before moving on from this point, I wish to address the similar
+observation made in the context of explaining the analytical approach to the
+general anti-avoidance rule (“GAAR”) in Canada Trustco, at paras.
+64-65.  In that case, the Court noted that, as a practical matter, the taxpayer
+was not required to disprove that he or she had violated the object, spirit or
+purpose of the provision.  Rather, the Minister, who is in a better position
+than the taxpayer to make submissions as to the legislative intent behind
+particular taxation provisions, was obliged to identify the purpose of the
+provisions and to show how that purpose would be frustrated or defeated by the
+taxpayer’s arrangements.  28                              
+The statement in Canada Trustco is distinguishable in that it
+applies in cases where the taxpayer has complied with the letter of the law,
+and where the Minister seeks to rely on GAAR to nevertheless disallow the
+taxpayer’s claim on the basis that it is inconsistent with the object and
+spirit of the provision in question. It would be both impractical and unduly
+onerous to require a taxpayer whose transaction falls within the four corners
+of a tax provision to also disprove that he or she has violated the object,
+spirit or purpose of the provision.  The same line of reasoning does not apply
+in the present case where the meaning of the provision is ambiguous.  In a case
+such as the present one, the meaning of the relevant provision is a question of
+law, and there is no onus on either party in respect of it — the duty to
+ascertain the correct interpretation lies with the court.  C.  Hedging 29                              
+In order to give some context to the discussion of the statutory
+definition of “hedging”, I will begin with a brief overview of hedging, as it
+is commonly understood under GAAP.  The transactions at issue in the present
+case are financial derivatives.  Generally speaking, financial derivatives are
+contracts whose value is based on the value of an underlying asset, reference
+rate, or index.  As Professors Grottenthaler and Henderson explain, there are
+essentially two reasons for entering into such a contract — to speculate on the
+movement of the underlying asset, reference rate or index, or to hedge exposure
+to a particular financial risk such as the risk posed by volatility in the
+prices of commodities: see M. E. Grottenthaler and P. J. Henderson, The Law
+of Financial Derivatives in Canada (loose-leaf), at p. 1-8.  This
+distinction between speculation and hedging is an important one.  A transaction
+is a hedge where the party to it genuinely has assets or liabilities exposed to
+market fluctuations, while speculation is “the degree to which a hedger engages
+in derivatives transactions with a notional value in excess of its actual risk
+exposure”: see B. W. Kraus, “The Use and Regulation of Derivative Financial
+Products in Canada” (1999), 9 W.R.L.S.I. 31, at p. 38.  Because the gold
+that was allocated to the transactions at issue in the present case did not
+exceed the actual production from the respective mines, the transactions were
+not speculative in the ordinary sense of the term.  30                              
+The two basic types of derivative transactions are forward contracts and
+options:  see Grottenthaler and Henderson, at pp. 1-4 et seq.  A forward
+contract is a contract that obligates one party to buy, and another party to
+sell, a specified amount of a particular asset at a specified price, on a given
+date in the future.  The obligation contained in a forward contract is
+two-sided in that both parties are obligated to perform the contract.  By
+contrast, an option which grants the purchaser upon payment of a premium the
+right, but not the obligation, to purchase (“call option”) or sell (“put
+option”) an asset on a specified date is a one-sided obligation.  Nevertheless,
+they both function as hedging tools.  31                              
+Derivative transactions may be settled in a number of different ways:
+physical delivery of the underlying asset, cash settlement or offsetting
+contract.  Most derivative contracts, however, are not settled by physical
+delivery.  The most important point about settlement is that, at least for the
+purposes of GAAP, the way in which a derivative contract functions as a “hedge”
+is unaffected by the method by which the contract is settled.  32                              
+An example may be useful at this stage to better illustrate how hedging
+transactions work and to identify the distinction between hedging and
+speculation.  Assume that on January 1, 2006, the price of gold is $200/oz. 
+Company A is a gold producer and wishes to hedge its exposure to fluctuating
+gold prices.  On January 21, A enters into a forward sale contract for 100 oz.
+of gold at $200/oz.  If the price of gold falls, the value of the hedging
+contract increases.  Conversely, if the price of gold increases, the
+value of the contract decreases.  It is this characteristic that separates a
+hedge from a purely speculative transaction.  The producer who faces genuine
+exposure to price fluctuations effectively trades some of the opportunity for
+gains that would accompany increasing gold prices for security against
+decreasing gold prices.  This relationship is most visible where derivative
+transactions are cash settled (as they most commonly are).  If, on July 31, the
+price of gold has fallen to $100/oz., the contract may be cash settled by a
+payment of the difference between the strike price ($20,000) and the spot
+market price at the time of settlement ($10,000).  Thus, the counterparty to
+the forward sale contract would issue a cheque to A for $10,000.  The greater
+the margin by which the price of gold decreases, the greater the profit on the
+hedging contract.  33                              
+In Echo Bay Mines, the Trial Division of the Federal Court
+considered the principles of hedging under GAAP.  In that case, the taxpayer
+was a silver producer that had entered into forward sales contracts in order to
+protect itself against the risk of declining silver prices.  When the price of
+silver fell, the taxpayer realized gains on those contracts by closing them out
+or rolling them over.  None of the contracts resulted in the delivery of any
+silver. Nevertheless, the taxpayer treated those gains as “resource profits” on
+the basis that they were income from the production of minerals in Canada. 
+Doing so enabled the taxpayer to take advantage of the resource allowance, as
+provided for in s. 20(1) (v.l) of the Income Tax Act  and s.
+1204(1) of the Income Tax Regulations.  MacKay J. accepted that  under generally accepted accounting principles, a
+producer’s gain or loss from its execution of forward sales contracts may be
+considered a “hedge” and therefore matched against the production of the goods
+produced, if four conditions are met. . . .  1.      The item to be hedged
+exposes the enterprise to price (or interest rate) risk.  2.      The futures contract
+reduces that exposure and is designated as a hedge.  3.      The significant
+characteristics and expected terms of the anticipated transactions are
+identified.  4.      It is probable that the
+anticipated transaction will occur. [pp. 715-16]  He concluded at p. 733 that the price received for the silver
+produced was the sum of receipts from delivery of actual production and from
+the settlement of forward sales contracts.  34                              
+The decision in Echo Bay Mines illustrates the way in which
+financial transactions, though they may not be settled by physical delivery of
+the output of an Ontario mine, may nevertheless be said to “fix the price” for
+that output.  I agree with the following endorsement of the decision in Echo
+Bay Mines:  This conclusion is clearly a
+sensible one.  If the transactions had been physically settled then the gain or
+loss on the transactions would have been the actual revenue or loss from the
+sale of the silver and would have been on income account.  Treating the gain or
+loss on the forward contracts having the same economic result in any different
+way would have created an unjustified artificial distinction.  (Grottenthaler and Henderson, at pp. 11-8 and 11-9)  From the perspective of what constitutes hedging under GAAP, the
+distinction between cash-settled and delivery-settled contracts is arbitrary.  35                              
+Although I am mindful that Echo Bay Mines concerned a
+different statute, one in which “hedging” is not a defined term, I conclude
+that the general principles articulated in that case have some relevance here. 
+The central issue in Echo Bay Mines was whether gains and losses
+from hedging were sufficiently linked to the underlying transactions, namely
+the production and sale of silver, to constitute “resource profits” within the
+meaning of the Regulations under the Income Tax Act .  In essence, the
+court in Echo Bay Mines was grappling with the same question that
+is raised in the present case:  Can synthetic derivative transactions be said
+to “fix the price” for the underlying commodity even where those transactions
+do not result in the delivery of the underlying commodity?  D.  The Inclusion of Hedging Profits  36                              
+The parties agree that the transactions at issue in the present case
+constitute “hedging” in the ordinary sense of the term.  However,
+notwithstanding that it is common in the industry vernacular to speak of
+“realized price” as the aggregate of proceeds from spot sales and gains and
+losses from hedging, PDC argued before this Court that the price for the output
+of an Ontario mine could only be “fixed”, for the purpose of the Mining Tax
+Act, by a transaction that culminated in the physical delivery of that
+output.  I turn, then, to a consideration of the meaning of the statutory
+definition of “hedging”.  37                              
+The definition of “hedging” first appeared in 1975 in the Regulation to
+the Mining Tax Act, 1972, S.O. 1972, c. 140: O. Reg. 126/75, s. 1(f). 
+At that time, profit was calculated under s. 3(3) of the Act using:  (a) the
+amount of gross receipts from the output of the mine during the taxation year;
+(b) where the output was not sold but was treated by or for the producer of the
+mine, the amount of the actual market value of the output at the pit’s mouth;
+or (c) where there was no means for determining the actual value at the pit’s
+mouth in (b), the amount at which the mine assessor appraised the output.  The
+method by which the assessor was to appraise output under (c) was set out in s.
+4(1) of the Regulation.  It was only in this last context that the definition
+of “hedging” came into play.  In 1987, the definition of “hedging” was
+introduced into the Act itself and incorporated into the definition of
+“proceeds”: Mining Tax Amendment Act, 1987, S.O. 1987, c. 11, ss.
+1(4)(cb) and 1(7)(j).  38                              
+PDC raised several arguments, based on the statutory and constitutional
+limits on the power of the Lieutenant Governor in Council at the time, about
+the meaning of “hedging” when it was first introduced in the Regulation. 
+Specifically, PDC argues that no power had been vested in the Lieutenant
+Governor in Council to make regulations imposing a new tax or expanding the
+existing tax base, and that any such attempt would have been contrary to s. 53 
+of the Constitution Act, 1867 , which requires that bills imposing any
+tax originate in the House of Commons.  Both of these arguments depend for
+their validity on the proposition that the 1975 Regulation created a new tax or
+expanded the tax base.  I am not satisfied that the 1975 Regulation can be so
+construed — it did not alter the primary definition of “gross receipts” in the
+Act, but merely clarified the method by which a subsidiary, discretionary
+amount was to be assessed.  This does not, in my view, constitute a change of
+the radical nature that PDC suggests.  39                              
+In any event, whatever the precise effect of the 1975 Regulation, which
+need not be decided in this case, it is clear that the decision to incorporate
+the definition of “hedging” into the Act itself in 1987 signified a change in
+the statutory framework for the computation of profit.  Hedging gains were no
+longer included in income only where it was otherwise impossible to ascertain
+the market value of the output of a mine before processing.  The Act now
+includes them in every case as an integral component of the statutory
+definition of “proceeds”.  No constitutional or other impediment in 1987
+prevented the enactment of such a provision, with respect to either of the
+proposed definitions.  Since the definitions of “hedging” and “proceeds” remain
+unchanged in the present Act, the task at hand is to set out the precise nature
+and scope of the 1987 amendments.  Although both parties rely on Hansard
+evidence related to the movement of the hedging provision from the Regulation
+to the Act, I find that evidence to be ambiguous and of little assistance in
+this case.  Accordingly, any analysis of the 1987 amendments must be grounded
+in an examination of the scheme and context of the revised Act.  40                              
+At the outset, I note that I do not find the arguments based on the
+Minister’s administrative practice to be helpful in the present case.  The fact
+is that there are two administrative practices — one corresponding to each of
+the proposed interpretations.  The shift in the Minister’s practice is reflective
+of the ambiguity that inheres in the statute itself and cannot be relied upon
+as an interpretive tool except to support the view that the statutory
+definition falls short of being clear, precise and unambiguous.  Although
+administrative practice can be an “important factor” in case of doubt about the
+meaning of legislation, it is not determinative: Nowegijick v. The Queen,
+[1983] 1 S.C.R. 29, at p. 37.  In a case such as the present one where a
+statutory provision admits of more than one possible meaning, the Minister,
+having decided that its former interpretation was incorrect, is not precluded
+from changing its practice.  41                              
+PDC argues that the Minister’s change in administrative practice is
+arbitrary and unfair, noting that in the same month the Minister argued for the
+application of the new administrative policy before Cullity J. in the present
+case, and for the application of the former administrative policy in Inco
+Ltd. v. Ontario (Minister of Finance), [2002] O.J. No. 3150 (QL) (S.C.J.). 
+Inco had incurred substantial losses on its hedging activities in its taxation
+years 1988 to 1990 and sought to deduct those losses based on the decision in Echo
+Bay Mines.  The critical distinction between the present case and Inco,
+however, is that the statutory limitation period for reassessment in Inco
+expired while the old administrative policy was still in place.  Whenever the
+Minister changes its administrative practice, it is inevitable that different
+taxpayers will have been taxed differently under the same provision depending
+on whether they were assessed prior to, or after, the change in policy.  The
+line between taxpayers who fall on either side of the administrative policy
+must be drawn somewhere, and doing so on the basis of whether a taxpayer’s taxation
+year is open or closed under the statute is a principled and practical
+approach.  42                              
+As I noted above, “proceeds” is defined in s. 1(1) of the Mining Tax
+Act in terms of three components: (a) consideration received from the
+output of a mine; (b) consideration from hedging; and (c) consideration from
+future sales or forward sales of the output of the mine.  43                              
+“Hedging” is also defined in terms of a number of elements.  Although
+only one of those elements is at issue in the present appeal, it is worth
+parsing the full definition in order to better appreciate the context and
+scheme within which the disputed phrase is placed.  Specifically, “hedging”
+means:  (a) the fixing of a price for output of a mine before
+delivery by means of  (i) a forward sale or  (ii) a futures contract on a recognized commodity
+exchange;  (b) the purchase or sale forward of a foreign currency
+related directly to the proceeds of the output of a mine; and  (c) speculative currency hedging, to the extent that the
+hedging transaction determines the final price and proceeds for the output.  Only “the fixing of a price for output of a mine before delivery by
+means of a forward sale” is at issue in the present appeal.  I note at this
+stage that my parsing of the definition of “hedging” differs from both the
+majority and dissenting reasons of the Court of Appeal.  Both Armstrong and
+Gillese JJ.A. suggested that forward sales and futures contracts, as the terms
+are used in the definition of “hedging”, must take place on a recognized
+commodity exchange.  However, such a view does not accord with the ordinary
+usage of these terms.  Forward sales are by definition “over-the-counter”
+products, while futures contracts are by definition exchange-traded.  Indeed,
+futures contracts are simply an exchange-traded form of forward sales
+contracts: C. W. Smithson, “A Building Block Approach to Financial Engineering:
+An Introduction to Forwards, Futures, Swaps and Options” (1997), 1017 PLI/Corp
+9.  The significance of this point is that “forward sales” within the meaning
+of the definition of “hedging” cannot be distinguished from “forward sales” in
+the third element of the definition of “proceeds” on the basis that the former
+take place on a recognized commodity exchange while the latter do not.  I will
+say more on this point below.  44                              
+The difficulty that arises in coming to a plausible interpretation of
+this provision is that the Act does not specify what it means to “fix the
+price” for output of a mine by means of a forward sale.  At first blush, it
+might seem that fixing a price is simply setting the price that will be paid
+upon delivery of the output.  Indeed, this is the interpretation advocated for
+by PDC (the narrow interpretation).  If that were so, however, the legislature
+would not have needed this element in the statutory definition of “hedging”  as
+the price received upon delivery of the output would clearly fall within “[all]
+consideration that is received . . . from the output of the mine”, the first
+component of the definition of “proceeds”, and within “all consideration
+received . . . from . . . future sales or forward sales of the output of the
+mine”, the third component.  45                              
+Under the presumption against tautology, “[e]very word in a statute is
+presumed to make sense and to have a specific role to play in advancing the
+legislative purpose”:  see R. Sullivan, Driedger on the Construction of
+Statutes (3rd ed. 1994), at p. 159.  To the extent that it is possible to
+do so, courts should avoid adopting interpretations that render any portion of
+a statute meaningless or redundant: Hill v. William Hill (Park Lane) Ld.,
+[1949] A.C. 530 (H.L.), at p. 546, per Viscount Simon.  46                              
+Although the presumption is rebuttable where it can be shown that the
+words do serve a function, or that the words were added for greater certainty,
+I do not think that either of those arguments can succeed in the present case. 
+Here, a definition was introduced into the Mining Tax Act for a term
+that appears only once in the Act, outside its definitional section.  Moreover,
+the value of a forward sale contract that is settled by delivery of output is
+for all intents and purposes just the price received for the output.  There is
+no doubt that this amount would be caught by the definition of proceeds, and
+there would have been no need for the legislature to include this element in a
+statutory definition of “hedging”.  In the circumstances, the presumption
+against tautology carries considerable weight.  47                              
+It follows that “the fixing of a price for output of a mine” cannot be
+restricted to transactions that are settled by delivery of output.  This is, in
+my opinion, consistent with the context of the statutory definition.  In
+addition to “the fixing of a price . . . by means of a forward sale”, the
+definition of “hedging” refers to “the fixing of a price . . . by means of . .
+. a futures contract on a recognized commodity exchange”, “the purchase or sale
+forward of a foreign currency related directly to the proceeds of the output of
+a mine”, and “does not include speculative currency hedging”.  It is
+significant that futures contracts are seldom settled by physical delivery. 
+Similarly, a sale or purchase forward of foreign currency is a separate
+transaction from the sale of an underlying commodity and would not itself be
+settled by physical delivery of the commodity.  In short, the other elements in
+the statutory definition of “hedging” are consistent with the broader
+interpretation.  48                              
+PDC relies on the fact that the Minister successfully applied the
+“hedging” provision of the Mining Tax Act to impose and collect tax from
+mining companies under the former administrative policy as evidence that the
+narrow interpretation of “hedging” does not introduce redundancy into the Mining
+Tax Act.  This argument is unpersuasive.  Redundancy does not necessarily
+prevent the consistent or successful application of a statutory provision. 
+Rather, an interpretation that gives rise to a redundancy simply fails to give
+full effect to all of the elements in the statutory provision.   50                              
+Before this Court, PDC argued that the interpretation urged by the
+Minister would introduce intolerable uncertainty into the Mining Tax Act. 
+Without a bright line for distinguishing hedging transactions for the purpose
+of the Mining Tax Act, such as a delivery requirement, taxpayers would
+be unable to effectively predict their tax situations and to order their
+affairs intelligently.  This argument is not compelling.  The fact that the
+taxpayer can and does, presumably on a principled basis, determine whether
+hedging profits relate directly to the output of a mine, for the purpose of
+claiming the resource allowance under the Income Tax Act  and the Ontario
+Corporations Tax Act belies PDC’s predictability argument.  I note, in this
+vein, that PDC used the same financial information that it submitted with its
+tax return under the Mining Tax Act to claim that its hedging gains
+qualified as “resource profits” so as to entitle it to the resource allowance
+under the Corporations Tax Act.  51                              
+The statutory provisions at issue in this case are far from flawless. 
+Although the broad interpretation that I have adopted substantially resolves
+the redundancy problem, it gives rise to some unexpected consequences of its
+own.  That being said, I do not find that any of these consequences is serious
+enough to outweigh the substantial redundancy that results on the narrow
+interpretation of “hedging”.  Although, as PDC has pointed out, “consideration”
+is generally a gross concept, in the context of the definition of “proceeds”,
+“all consideration from hedging” must necessarily refer to a net concept.  Any
+distortion to the ordinary commercial use of “consideration” is inherent in the
+Mining Tax Act itself.  Similarly, although forward sales and options
+are distinguished from one another in terms of the particular way in which each
+is used to hedge price risk, both are used in much the same way to “fix the
+price” for output.  PDC’s argument about the serious distortion implicit in
+treating options as a subset of forward sales is belied by the PDC’s own Annual
+Reports for the tax years in question.  Those reports provide that “[t]he
+Corporation employs forward sales contracts including spot deferred
+contracts and options to hedge prices for anticipated gold sales” (emphasis
+added).  52                              
+The Mining Tax Act defines “hedging” as the fixing of a price for
+the output of a mine before delivery by means of, inter alia, a forward
+sale.  Options, as Cullity J. noted, are simply contingent forward sales, and
+they fix the price for output in much the same way that forward contracts do. 
+To attach substantially different tax consequences, within the context of a
+provision that taxes “proceeds from hedging” to two forms of transactions that
+serve the same function as hedging tools would be an absurd result that
+the legislature could not have intended.  Thus, I am unable to conclude that
+any of the subsidiary arguments raised by PDC outweigh the substantial
+redundancy that results from its proposed interpretation.  VI.  Disposition  53                              
+For these reasons, I would allow the appeal with costs throughout.  Appeal allowed with costs.  Solicitor for the appellant:  Attorney
+General of Ontario, Toronto.  Solicitors for the respondent:  Osler,
+Hoskin & Harcourt, Toronto.   

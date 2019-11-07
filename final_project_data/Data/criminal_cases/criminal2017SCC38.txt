@@ -1,0 +1,400 @@
+SCC Case Information: 37372   SUPREME
+COURT OF CANADA  Citation: R. v. George, 2017 SCC 38, [2017] 1 S.C.R. 1021 Appeal
+  heard and Judgment rendered: April 28, 2017 Reasons
+  delivered: July 7, 2017 Docket: 37372  Between: Barbara
+George Appellant  and  Her
+Majesty The Queen Respondent     Coram: Abella, Moldaver, Karakatsanis, Gascon, and Côté JJ.  Reasons
+  for Judgment: (paras. 1 to 29) Gascon J. (Abella, Moldaver, Karakatsanis
+  and Côté concurring)    R. v. George, 2017 SCC 38, [2017] 1 S.C.R. 1021 Barbara George                                                                                              Appellant v. Her Majesty The Queen                                                                              Respondent Indexed as: R. v. George 2017 SCC 38 File No.: 37372. Hearing and
+judgment: April 28, 2017. Reasons delivered: July 7, 2017. Present: Abella, Moldaver, Karakatsanis, Gascon and Côté JJ. on appeal from the court of appeal for saskatchewan                     Criminal
+law — Defences — Mistake of age — Appeals — Jurisdiction of Court of Appeal —
+Verdict of acquittal — Accused charged with sexual offences against youth — Availability
+of mistake of age defence limited by requirement that accused took all reasonable steps to ascertain complainant’s age — Whether trial judge made legal errors in reasonable steps analysis — If so, whether errors were sufficiently
+material to justify appellate intervention — Criminal Code, R.S.C. 1985, c. C-46,
+s. 150.1(4) .                     When
+G was 35 years old, she had sex with C.D., a male youth who was
+approximately 14 and a half. At the time, she presumed that C.D. was around 17.
+G was charged with the offences of sexual interference and sexual assault. Her
+only available defence was mistake of age. Section 150.1(4)  of the Criminal
+Code  limits the availability of the mistake of age defence by requiring
+that the accused took all reasonable steps to ascertain
+the age of the complainant. The trial judge acquitted G
+of both offences based on a reasonable doubt about whether the Crown proved
+that she had failed to take all reasonable steps to determine C.D.’s age. The
+majority of the Court of Appeal allowed an appeal, quashed the acquittals and
+ordered a new trial.                     Held:
+The appeal should be allowed and the acquittals restored.                     Crown
+appeals against acquittals in proceedings by indictment are limited to
+questions of law alone. The trial judgment concerned indictable offences and
+contained no errors of law. As a result, the Court of Appeal lacked
+jurisdiction to interfere.                     Whether
+an error is legal generally turns on its character, not its severity. The
+majority of the Court of Appeal erred by translating strong opposition to the
+trial judge’s factual inferences into supposed legal errors. The trial judge
+did not rely on C.D.’s level of sexual experience as revealed by the sexual
+encounter itself. Rather, the trial judge considered information known to G
+before sexual contact, such as how C.D. came to her bedroom uninvited and spoke
+with her for several hours about various topics, many reflecting maturity,
+others suggestive in nature. No legal error arises from this. This was a
+reference to C.D.’s conduct in the hours before the sexual contact, a factor
+reasonably informing G’s perception of C.D.’s age before sexual contact. The
+trial judge also did not err by considering evidence that did not precede the
+sexual encounter. Reasonable steps must precede the sexual activity but
+requiring that the evidence to prove reasonable steps must also precede the
+sexual activity conflates the fact to be proven with the evidence that may be
+used to prove it. When determining the relevance of evidence, both its purpose
+and its timing must be considered. Evidence properly informing the credibility
+or reliability of any witness, even if that evidence arose after the sexual
+activity in question, may be considered by the trial judge. Similarly, evidence
+demonstrating the reasonableness of the accused person’s perception of the
+complainant’s age before sexual contact is relevant, even if that evidence
+happens to arise after the sexual activity or was not known to the accused
+before the sexual activity.                     Even
+if the trial judge had made legal errors, they would not have justified the
+intervention of the Court of Appeal. The threshold of materiality required to
+justify appellate intervention in a Crown appeal from an acquittal is an error
+about which there is a reasonable degree of certainty of its materiality. That
+threshold is not met in this case. There was no reasonable degree of certainty
+that the alleged errors were material to the trial judge’s verdict. Cases Cited                     Referred
+to: R. v. Duran, 2013 ONCA 343, 3 C.R. (7th) 274; R. v. P. (L.T.)
+(1997), 113 C.C.C. (3d) 42; R. v. K. (R.A.) (1996), 106 C.C.C. (3d) 93; R.
+v. Tannas, 2015 SKCA 61, 21 C.R. (7th) 166; R.
+v. Gashikanyi, 2015 ABCA 1, 588 A.R. 386; R. v. Dragos, 2012 ONCA
+538, 111 O.R. (3d) 481; R. v. Osborne (1992), 17 C.R. (4th) 350; R.
+v. J.M.H., 2011 SCC 45, [2011] 3 S.C.R. 197; R. v. Graveline, 2006 SCC 16, [2006] 1
+S.C.R. 609; R. v. Morrisey
+(1995), 97 C.C.C. (3d) 193; R. v. Mastel, 2011 SKCA 16, 84 C.R. (6th) 405; R. v. Morin, [1988] 2 S.C.R. 345. Statutes and Regulations Cited Authors Cited Benedet, Janine. Annotation to R. v. Mastel (2011), 84 C.R.
+(6th) 405. Benedet,
+Janine. Comment on R. v. Tannas (2015), 21 C.R. (7th) 166. Manning, Mewett & Sankoff: Criminal Law,
+5th ed., by Morris Manning and Peter Sankoff. Markham, Ont.: LexisNexis, 2015. Vandervort, Lucinda. “‘Too Young to Sell Me Sex?!’ Mens Rea,
+Mistake of Fact, Reckless Exploitation, and the Underage Sex Worker” (2012), 58
+Crim. L.Q. 355.                     APPEAL
+from a judgment of the Saskatchewan Court of Appeal (Richards C.J. and
+Jackson and Whitmore JJ.A.), 2016 SKCA 155, 344 C.C.C. (3d) 543, [2016]
+S.J. No. 637 (QL), 2016 CarswellSask 754 (WL Can.), setting aside the
+accused’s acquittals for sexual interference and sexual assault entered by
+Kovach J. and ordering a new trial. Appeal allowed.                     Ross Macnab and Thomas Hynes, for
+the appellant.                     Erin Bartsch, for the respondent.                     The
+judgment of the Court was delivered by  [1]                             
+Gascon J. — At the hearing, the Court allowed the
+appeal and restored Ms. George’s acquittals, with reasons to follow. These are
+those reasons. I.              
+Overview [2]                             
+Sexual crimes are disproportionately committed
+against vulnerable populations, including youth. The “reasonable steps” requirement
+in s. 150.1(4)  of the Criminal Code, R.S.C. 1985, c. C-46  — which
+requires an accused person who is five or more years older than a complainant
+who is 14 years of age or more but under the age of 16, to take “all reasonable steps to ascertain the age of the complainant” before
+sexual contact — seeks to protect young people from
+such crimes. It does so by placing the responsibility for preventing
+adult/youth sexual activity where it belongs: with adults. Parliament’s
+allocation of responsibility to adults is crucial for protecting young people
+from sexual crimes. However, through s. 676(1) (a) of the Criminal Code ,
+Parliament limits Crown appeals against acquittals in proceedings by indictment
+to “question[s] of law alone”. As a result, Parliament has accepted that an
+acquittal at trial on an indictable offence cannot be overturned unless an
+error of law was made. As the trial judgment below concerned indictable
+offences and contained no errors of law, Ms. George’s acquittals were sustained
+and her appeal was allowed. II.           
+Context [3]                             
+Ms. George had sex with an adolescent boy, C.D.
+When the sexual activity took place, Ms. George was 35 years old; C.D. was
+approximately 14 and a half. The sexual activity was found to be apparently
+consensual, meaning that both partners willingly participated. In fact, C.D.
+instigated the sexual encounter, despite Ms. George’s genuine protestations.
+Still, C.D. was incapable of legally consenting because of the combination of
+his young age and his age disparity with Ms. George. [4]                             
+The sexual activity happened after Ms. George’s
+son — who was 17 at the time — hosted a party at their apartment. Ms. George
+did not foresee sexual activity with C.D. For most of the party, she remained
+in her bedroom. However, after the party ended, C.D. came to the bedroom. They
+spoke for several hours about music, custody issues, C.D.’s relationships, and
+his difficulties meeting mature girlfriends. [5]                             
+Ultimately, C.D. initiated sexual contact. He
+asked Ms. George if it “would be weird” if he kissed her. Almost
+simultaneously, C.D. leaned forward to kiss Ms. George. She backed away, but
+C.D. again moved towards her, and she let him complete a brief kiss. C.D. then
+“immediately” moved on top of Ms. George, removed the blankets which were
+covering her body, lowered his pants, and moved her underwear to the side. She
+asked him what he was doing. She also asked him to stop several times. But he
+ignored these requests and persisted. In the end, Ms. George “simply let him
+finish”. She described the sexual encounter as “weird, awkward, and quick”.
+Despite these facts, there was “no dispute that, although reluctant at first,
+Ms. George was a willing participant”. Further, before the Court, neither party
+contested Ms. George’s consent to the sexual activity. [6]                             
+C.D. did not complain to any authorities about
+his sexual activity with Ms. George; he even proposed that they continue
+having sex once a week. Rather, the RCMP learned about Ms. George’s sexual
+activity with C.D. by happenstance. Ms. George applied to join the RCMP,
+and part of the screening process involved a questionnaire which asked if she
+had “ever engaged in sexual activity with someone who was under the age of 16”.
+At the time of the sexual activity, Ms. George had presumed that C.D. was
+around 17 because, in the several months she had known C.D., he looked that
+age, shaved, openly smoked cigarettes, easily bought cigarettes, and was a
+friend of her son (who was himself 17, typically socialized with older peers,
+and displayed less emotional maturity than C.D.). But the questionnaire
+prompted her to inquire as to C.D.’s exact age. When she learned that C.D. had
+actually been 14 and a half at the time of their sexual activity, she “felt
+panic”. She nevertheless submitted the questionnaire and admitted to the RCMP
+that she had engaged in sexual activity with a minor. Consequently, she was
+charged with two Criminal Code  offences: (1) sexual interference (s.
+151 ); and (2) sexual assault (s. 271 ). [7]                             
+For both offences, the Criminal Code  barred
+Ms. George from relying on C.D.’s consent as a defence, because C.D. was
+younger than 16 (s. 150.1(1) ) and Ms. George was more than five years his
+senior (s. 150.1(2.1) ). Accordingly, her only available defence — or, more
+accurately, her only available means of negating her criminal intent (mens
+rea) to have sex with a minor (H. C. Stewart, Sexual Offences in
+Canadian Law (loose-leaf), at p. 4-24) — was “mistake of age”, i.e.
+Ms. George believing that C.D. was at least 16. However, the Criminal Code 
+limits the availability of the mistake of age defence by requiring that “all
+reasonable steps” be taken to ascertain the complainant’s age: 150.1
+. . . Mistake
+of age (4) It is not a
+defence to a charge under section 151  or 152 , subsection 160(3)  or 173(2) , or
+section 271 , 272  or 273  that the accused believed that the complainant was 16
+years of age or more at the time the offence is alleged to have been committed
+unless the accused took all reasonable steps to ascertain the age of the
+complainant. [8]                             
+     At common law, “true crimes” — like those
+at issue here — would have a purely subjective fault element. However, through
+statutory intervention, Parliament has imported an objective element into the
+fault analysis to enhance protections for youth (Stewart, at pp. 4-23 and
+4-24). As a result, to convict an accused person who demonstrates an “air of
+reality” to the mistake of age defence, the Crown must prove, beyond a
+reasonable doubt, either that the accused person (1) did not honestly believe
+the complainant was at least 16 (the subjective element); or (2) did not take
+“all reasonable steps” to ascertain the complainant’s age (the objective
+element) (Stewart, at p. 4-24; M. Manning, Q.C., and P. Sankoff, Manning,
+Mewett & Sankoff: Criminal Law (5th ed. 2015), at p. 1113 (“Manning,
+Mewett & Sankoff”)). [9]                             
+Determining what raises a reasonable doubt in
+respect of the objective element is a highly contextual, fact-specific exercise
+(R. v. Duran, 2013 ONCA 343, 3 C.R. (7th) 274, at para. 52; R. v. P.
+(L.T.) (1997), 113 C.C.C. (3d) 42 (B.C.C.A.), at para. 20; R. v. K.
+(R.A.) (1996), 106 C.C.C. (3d) 93 (N.B.C.A.), at p. 96; Stewart, at p.
+4-25; A. Maleszyk, Crimes Against Children: Prosecution and Defence
+(loose-leaf), vol. 1, at p. 11-4). In some cases, it may be reasonable to ask a
+partner’s age. It would be an error, however, to insist that a reasonable
+person would ask a partner’s age in every case (see e.g. R. v. Tannas,
+2015 SKCA 61, 21 C.R. (7th) 166, at para. 27; R. v. Gashikanyi, 2015
+ABCA 1, 588 A.R. 386, at para. 17). Conversely, it would be an error to assert
+that a reasonable person would do no more than ask a partner’s age in every
+case, given the commonly recognized motivation for young people to misrepresent
+their age (R. v. Dragos, 2012 ONCA 538, 111 O.R. (3d) 481, at paras. 17,
+26, 45 and 51; L. Vandervort, “‘Too Young to Sell Me Sex?!’ Mens Rea,
+Mistake of Fact, Reckless Exploitation, and the Underage Sex Worker” (2012), 58
+Crim. L.Q. 355, at pp. 360 and 375; J. Benedet, Comment on R. v.
+Tannas (2015), 21 C.R. (7th) 166, at p. 168; Stewart, at p. 4-26.1). Such
+narrow approaches would contradict the open-ended language of the reasonable
+steps provision. That said, at least one general rule may be recognized: the
+more reasonable an accused’s perception of the complainant’s age, the fewer
+steps reasonably required of them. This follows inevitably from the phrasing of
+the provision (“all reasonable steps”) and reflects the jurisprudence (R.
+v. Osborne (1992), 17 C.R. (4th) 350 (Nfld. C.A.), at para. 64), and
+academic commentary (Manning, Mewett & Sankoff, at p. 1113). III.         
+Judicial History [10]                         
+At trial, Kovach J. acquitted Ms. George of both
+offences. He noted that the reasonable steps inquiry is contextual, and he
+considered various factors, including C.D.’s physical appearance, behaviour and
+activities, the age and appearance of C.D.’s social group, and the
+circumstances in which Ms. George had observed C.D. After a detailed review of
+these factors, Kovach J. ruled that there remained a reasonable doubt about
+whether the Crown proved that she had failed to take all reasonable steps to
+determine C.D.’s age. [11]                         
+The Court of Appeal’s judgment included majority
+and dissenting opinions. They were divided on two points: (1) whether Kovach J.
+had made any legal errors, a statutory requirement for Crown appeals from
+acquittals for indictable offences (Criminal Code, s. 676(1) (a); R.
+v. J.M.H., 2011 SCC 45, [2011] 3 S.C.R. 197, at para. 24); and (2) whether
+those errors were sufficiently material to the verdict, a jurisprudential
+requirement for such appeals (R. v. Graveline, 2006 SCC 16, [2006] 1
+S.C.R. 609, at para. 14). [12]                         
+Richards C.J.S., writing for the majority,
+allowed the appeal, quashed the acquittals and ordered a new trial (2016 SKCA
+155, 344 C.C.C. (3d) 543, at paras. 50-51). He held that Kovach J. had erred in
+law in two ways: (1) by considering evidence from during or after the sexual
+encounter in assessing the reasonableness of the steps taken by Ms. George
+before the encounter; and (2) by relying on questionable factual inferences
+regarding whether C.D. may have looked mature for his age at the time of the
+sexual activity (paras. 41-46). He also ruled that those legal errors were
+“central” to Kovach J.’s analysis, thus demonstrating their materiality to the
+verdict and justifying appellate intervention (paras. 48-49). [13]                         
+In contrast, Jackson J.A., dissenting, would
+have dismissed the appeal and upheld the acquittals (para. 100). In her view,
+Kovach J. had made no legal errors (para. 89). Specifically, the errors which
+Richards C.J.S. alleged to be legal related instead to disagreement over
+factual inferences drawn by the trial judge (paras. 77-80, 85-88 and 92). In
+the alternative, Jackson J.A. held that the errors which Richard C.J.S.
+identified, if legal, were insufficiently material to justify appellate
+intervention because she was not satisfied that the verdict would not
+“necessarily” have been the same without those errors (paras. 73, 94 and 99).
+At multiple points in her reasons, Jackson J.A. also felt it necessary to
+remark that this case lacked the hallmarks of sex crimes involving children,
+such as grooming and deliberate exploitation of vulnerability (paras. 65-67,
+96(d) to (f) and 97). IV.        
+Issues [14]                         
+This case raises two issues: (1) whether the
+trial judge made any legal errors in his reasonable steps analysis; and (2) if
+he did, whether those errors were sufficiently material to justify appellate
+intervention. V.           
+Analysis [15]                         
+A careful review of the trial judge’s reasons
+reveals no legal errors. As a result, the Court of Appeal lacked jurisdiction
+to interfere with the trial judgment. [16]                         
+I note, at the outset, that the trial judge
+correctly articulated the governing legal principles and cited multiple leading
+authorities. Of course, simply stating the correct legal test does not exhaust
+our inquiry and cannot insulate a trial judge from legal errors. But it
+helpfully orients our remaining analysis to whether the trial judge’s
+application of those principles reveals any legal errors. [17]                         
+Whether an error is “legal” generally turns on
+its character, not its severity (J.M.H., at paras. 24-39). In this case,
+the majority confused these two concepts; it translated its strong opposition
+to the trial judge’s factual inferences (severity) into supposed legal errors
+(character). Here, that was an improper approach, and it disregarded the
+restraint required by Parliament’s choice to limit Crown appeals from
+acquittals in proceedings by indictment to “question[s] of law alone” (Criminal
+Code, s. 676(1) (a)). [18]                         
+First of all, it goes without saying that an
+accused person cannot rely on the impugned sexual activity itself as a
+reasonable step in ascertaining the complainant’s age before the sexual
+activity. With this in mind, the majority claimed that the trial judge had
+improperly relied on “C.D.’s level of sexual experience as revealed by the
+sexual encounter itself” in determining whether Ms. George had taken all
+reasonable steps before the sexual activity (para. 47). However, this
+misconstrues the trial judge’s reasons when they are read as a whole and in
+context, as required (R. v. Morrisey (1995), 97 C.C.C. (3d) 193, at pp.
+203-4). The trial judge explained: The most compelling activity
+engaged in by [C.D.] suggestive of a level of maturity beyond his years, was
+the sexual encounter itself. Not the mere fact of sexual intercourse with a
+significantly older female partner, but, rather, the obvious level of comfort
+with which he approached the encounter . . . . [Emphasis added.]  (Trial
+Transcript, A.R., at p. 11) [19]                         
+Considered in conjunction with the trial judge’s
+unambiguous recognition that all reasonable steps must precede sexual contact,
+C.D.’s “obvious level of comfort” with how he “approached” the encounter must
+refer to how C.D. came to Ms. George’s bedroom uninvited and spoke with
+her for several hours about various topics, many reflecting maturity, and
+others suggestive in nature. All of this information was known to Ms. George
+before the sexual contact. According to the trial judge, this was one of many
+factors reasonably informing her perception of C.D.’s age before sexual
+contact. No legal error arises from this. [20]                         
+Admittedly, the trial judge considered other
+evidence that did not precede the sexual encounter. The majority considered
+this to be a further legal error. But it is not. As noted, Ms. George’s
+reasonable steps must precede her sexual activity with C.D.; the trial judge
+expressly recognized this. But it does not follow that the evidence she tenders
+must also precede her sexual activity with C.D. Such an interpretation
+conflates the fact to be proven with the evidence that may be used to prove it. [21]                         
+When determining the relevance of evidence in
+this context, both its purpose and its timing must be considered. Evidence demonstrating
+steps taken after the sexual activity to ascertain a complainant’s age — for
+example, the accused person checking the complainant’s photographic
+identification immediately after the sexual activity — is irrelevant to the
+reasonable steps inquiry. As a result, considering such evidence would amount
+to a legal error, as it reveals a “misapprehension of . . . legal principle” (J.M.H.,
+at para. 29). However, evidence properly informing the credibility or
+reliability of any witness, even if that evidence arose after the sexual
+activity in question, may be considered by the trial judge. Similarly, evidence
+demonstrating the reasonableness of the accused person’s perception of the
+complainant’s age before sexual contact is relevant to adjudicating the reasonableness
+of the steps taken by the accused person (Duran, at paras. 51-54), even
+if that evidence happens to arise after the sexual activity or was not known to
+the accused before the sexual activity (see e.g. Osborne, at para. 22(4)
+and (5)). [22]                         
+For example, consider a photograph of an
+underage complainant taken a week after impugned sexual activity, in which the
+complainant looks as old as 21. The adult charged with assaulting the
+complainant could not have relied on viewing the photograph itself as one of
+their reasonable steps, because it was taken after the sexual activity
+occurred. But that is not the purpose for which the photograph would be
+tendered as evidence. Rather, the photograph would be tendered as evidence for
+the purpose of proving the complainant’s physical appearance around the time of
+the sexual activity, which could, depending on the circumstances, be relevant
+to the reasonableness of the accused person’s perception of the complainant’s
+age. [23]                         
+The evidence arising after the sexual activity
+considered by the trial judge in this case, to which the majority objected (at
+para. 34), did not detract from and was consistent with Ms. George’s testimony
+as to how C.D. appeared to her and acted in her presence during the several
+months they knew each other before the sexual encounter. To that extent, it was
+admissible for the purpose of assessing her credibility at large, which
+included her testimony as to how the complainant appeared to her in the months
+preceding the sexual activity. [24]                         
+While one may disagree with the weight the trial
+judge gave this evidence, no legal error arises from mere disagreements over
+factual inferences or the weight of evidence (J.M.H., at para. 28).
+Indeed, many of the majority’s comments reveal that its discomfort with this
+evidence was not because it was irrelevant (which would have illustrated a
+misconception of principle, a legal issue: ibid., at para. 29), but
+because its relevance was marginal (a factual issue). The trier of fact is best
+situated to assign weight to evidence. In any event, if the Crown objects to
+inferences about a complainant’s physical appearance at a younger age, it is
+permitted to tender direct evidence of that physical appearance (for example, a
+photograph). The majority’s view that the trial judge could not draw such an
+inference because Ms. George had failed to tender evidence proving that C.D.’s
+appearance “had not changed” between ages 14 and 17 (para. 46) suggests that
+the trier of fact is prohibited from drawing factual inferences. To the
+contrary, factual inferences are a necessary means through which triers of fact
+consider all of the evidence (direct and indirect) before them. [25]                         
+Given the above, the Court of Appeal lacked
+jurisdiction to review the trial judge’s decision. On that basis, the Court
+allowed the appeal. That said, two final points arising from the dissent merit
+brief consideration. [26]                         
+First, the dissenting judge felt it necessary to
+comment on how this case lacks the hallmarks of sex crimes against children,
+including grooming and exploitation of vulnerability (paras. 65-67, 96(d) to
+(f) and 97). But no such hallmarks are required for the offences at issue. It
+is a criminal offence to sexually touch a child who is 14 years of age or more
+but younger than 16 when you are five or more years their senior, even if you
+honestly believe they are older than 16, unless you have taken “all reasonable
+steps” to ascertain their age; nothing more is required (Benedet, at p. 167).
+Indeed, to suggest that exploitation is a requirement for the offence belies
+(1) the scheme of the Criminal Code , which already prohibits sexual
+exploitation (s. 153 ) and sexual activity where “consent” is procured through
+abuse of trust, power or authority (s. 273.1(2) (c)); and (2) Parliament’s
+recognition that adult/youth sexual relationships are inherently exploitative.
+To the extent that the dissent was suggesting that such ancillary
+considerations are necessary in proving all sex crimes against children, I
+reject that proposition. To be clear, overt indicia of exploitation may
+diminish the credibility of an accused person’s purported mistaken belief in
+the complainant’s age, or the reasonableness of the steps taken by that accused
+person (see e.g. Dragos, at para. 52; R. v. Mastel, 2011 SKCA 16,
+84 C.R. (6th) 405, at para. 18; J. Benedet, Annotation to R. v. Mastel
+(2015), 84 C.R. (6th) 405, at p. 406), but they are not required for the
+offence itself to be made out. [27]                         
+Second, the dissent stated that, to overturn an
+acquittal, an appellate court must be satisfied that the verdict would “not
+necessarily have been the same” without the trial judge’s legal errors (paras.
+74 and 99, see also paras. 73 and 94). If the dissent was implying that an
+appellate court can overturn an acquittal where it is merely possible that the
+verdict would have changed, that is too low a threshold. This Court has used
+various phrasings to articulate the threshold of materiality required to
+justify appellate intervention in a Crown appeal from an acquittal. An
+“abstract or purely hypothetical possibility” of materiality is below the
+threshold (Graveline, at para. 14). An error that “would necessarily”
+have been material is above the threshold (ibid., at paras. 14-15; R.
+v. Morin, [1988] 2 S.C.R. 345, at p. 374). And an error about which there
+is a “reasonable degree of certainty” of its materiality is at the required
+threshold (Graveline, at paras. 14-15; Morin, at p. 374). [28]                         
+That threshold is not met here. The allegations
+of errors on the trial judge’s part that have arguable merit relate to two pieces
+of corroborative evidence. Further, that evidence was surrounded by alternate
+evidence — including C.D.’s physical appearance, behaviour and activities, the
+age and appearance of C.D.’s social group, and the circumstances in which Ms.
+George had observed C.D. — all of which supported the trial judge’s view that
+reasonable doubt remained in respect of whether the Crown had proven that Ms.
+George failed to meet the reasonable steps requirement. In my view, there was
+no reasonable degree of certainty that the trial judge’s controversial
+inferences were material to his verdict. It follows that, even if these
+inferences had amounted to legal errors, they would not have justified
+appellate intervention in any event. VI.        
+Conclusion [29]                         
+As explained in these reasons, the trial judge’s
+factual inferences did not amount to legal errors conferring appellate
+jurisdiction in this case. This is why, at the hearing, the Court allowed the
+appeal, and restored Ms. George’s acquittals.                     Appeal
+allowed.                     Solicitors for the
+appellant: Gerrand Rath Johnson, Regina.                     Solicitor for the
+respondent: Attorney General of Saskatchewan, Regina.  

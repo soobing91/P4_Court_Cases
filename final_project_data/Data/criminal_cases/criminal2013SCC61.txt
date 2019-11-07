@@ -1,0 +1,871 @@
+  SUPREME
+COURT OF CANADA  Citation:
+  R. v. Hay, 2013 SCC 61, [2013] 3 S.C.R. 694 Date:
+  20131108 Docket:
+  33536  Between: Leighton
+Hay Appellant and Her
+Majesty The Queen Respondent  Coram: McLachlin C.J. and LeBel, Fish, Abella, Rothstein, Cromwell
+and Wagner JJ.  Reasons for
+  Judgment: (paras. 1 to 78)  Concurring
+  Reasons: (paras. 79 to 102) Rothstein J. (McLachlin C.J. and LeBel, Abella, Cromwell
+  and Wagner JJ. concurring)  Fish J.   R. v. Hay, 2013 SCC 61, [2013] 3 S.C.R. 694 Leighton Hay                                                                                                   Appellant v. Her Majesty The Queen                                                                              Respondent Indexed as:  R. v. Hay 2013 SCC 61 File No.:  33536. 2013:  April 23; 2013:  November 8. Present: McLachlin C.J. and LeBel, Fish, Abella, Rothstein,
+Cromwell and Wagner JJ. on appeal from the court of appeal for ontario                     Criminal law — Charge to jury — Eyewitness
+evidence — Whether trial judge instructed jury that it could convict accused
+based on eyewitness evidence alone — If so, whether such an instruction would
+constitute an error.                     In
+the early morning of July 6, 2002, two men, one wearing a blue/green
+shirt, shot and killed C.M. in a Toronto nightclub.  E was seen leaving the
+club in a car registered to the appellant H’s mother, with whom H lived.  Multiple
+witnesses were able to confidently identify E as the shooter.  Given H’s
+connection to the residence and a database lookup that revealed he had a prior
+firearm conviction, the police considered him a suspect as well.  L.M., who
+witnessed the shooting, was shown a lineup which included one photo of H that
+was taken roughly two years earlier.  When asked about the identity of the
+shooter in the blue/green shirt, she selected H’s photo.  Three weeks after the
+shooting, L.M. participated in a second photo lineup which contained the photo
+of H taken on the day of his arrest.  L.M. did not select any photo from this
+sequence.  E and H were subsequently charged with the first degree murder of
+C.M. and the attempted murder of his brother.                     While
+the application for leave to appeal was pending before this Court, H filed a
+motion to compel the Crown to release hair clipping
+evidence for forensic testing.  H sought to forensically examine the hair
+clippings to determine from what part of the body the clippings came.  This
+Court allowed the motion.  H subsequently filed a motion to adduce the reports
+and testimony of experts who conducted the forensic examination.                     Held:
+ The appeal should be allowed, the motion to adduce fresh evidence should be
+granted and the matter should be remanded for retrial.                     Per Fish J.:  There is agreement that the appellant’s motion to adduce
+fresh evidence should be granted, that the appeal should be allowed and that a
+new trial should be ordered.  However, the trial judge made a fatal error by
+instructing the jury that it could convict the appellant on the evidence of L.M.
+alone.                     Crown
+counsel asked the judge to instruct the jury that they could convict the
+appellant on the evidence of one eyewitness alone.  Counsel made clear that he
+was referring specifically to the testimony of L.M.  In his closing address,
+Crown counsel proceeded on the understanding that the trial judge would charge
+the jury to that effect. At no point in his charge did the trial judge correct
+these assertions by the Crown.  Pursuant to the Crown’s closing argument, the
+jury would thus have assumed that it was entitled to convict the appellant
+based solely on L.M.’s eyewitness identification.  This misapprehension of the
+law was reinforced by the trial judge in his instructions to the jury.  Although
+the trial judge urged caution, he informed the jury in unmistakable terms that
+the testimony of one eyewitness could properly ground a conviction.  The jury
+would therefore have understood that this rule applied unless instructed
+otherwise for a particular witness.  No such instruction was ever given.  On
+the contrary, the trial judge explained that identification evidence is
+stronger if the accused was previously known to the witness.  This was
+indisputably a direct reference to L.M.’s evidence implicating the appellant.  The
+trial judge’s subsequent instructions regarding L.M.’s evidence further
+reinforced Crown counsel’s uncorrected statement to the jury that they could
+convict the appellant on her photo identification alone.  It is not possible in
+light of this record to conclude that the trial judge did not instruct the jury
+that it could convict the appellant on the evidence of L.M. alone. Cases Cited By Rothstein J.                     Applied:
+ Palmer v. The Queen, [1980] 1 S.C.R. 759; referred to:  R. v.
+Hay, 2010 SCC 54, [2010] 3 S.C.R. 206; R. v. Mezzo, [1986] 1 S.C.R.
+802; R. v. Turnbull, [1976] 3 All E.R. 549; R. v. Hibbert, 2002
+SCC 39, [2002] 2 S.C.R. 445; R. v. Canning, [1986] 1 S.C.R. 991; R.
+v. Nikolovski, [1996] 3 S.C.R. 1197; R. v. Arcuri, 2001 SCC 54,
+[2001] 2 S.C.R. 828; R. v. Reitsma, [1998] 1 S.C.R. 769, rev’g (1997),
+97 B.C.A.C. 303; R. v. Zurowski, 2004 SCC 72, [2004] 3 S.C.R. 509; United
+States of America v. Shephard, [1977] 2 S.C.R. 1067; R. v. Jaw, 2009
+SCC 42, [2009] 3 S.C.R. 26; R. v. Avetysan, 2000 SCC 56, [2000] 2 S.C.R.
+745; R. v. Candir, 2009 ONCA 915, 257 O.A.C. 119; R. v. Pickton,
+2010 SCC 32, [2010] 2 S.C.R. 198; R. v. G.D.B., 2000 SCC 22, [2000] 1
+S.C.R. 520; R. v. M. (P.S.) (1992), 77 C.C.C. (3d) 402; McMartin v.
+The Queen, [1964] S.C.R. 484; R. v. Stolar, [1988] 1 S.C.R. 480. Statutes and Regulations Cited                     APPEAL from a judgment of the Ontario Court of Appeal (Moldaver,
+Blair and MacFarland JJ.A.), 2009 ONCA 398, 249 O.A.C. 24, [2009] O.J. No. 1904
+(QL), 2009 CarswellOnt 2518, affirming the accused’s convictions for first degree
+murder and attempted murder entered by McCombs J.  Appeal allowed.                     James Lockyer, Philip
+Campbell and Joanne McLean, for the appellant.                     Susan L. Reid,
+for the respondent.                      The
+judgment of McLachlin C.J. and LeBel, Abella, Rothstein, Cromwell and Wagner
+JJ. was delivered by                     Rothstein J. — I.         
+Introduction [1]                             
+Leighton Hay was convicted of first degree
+murder and attempted murder for a shooting that took place in a Toronto
+nightclub.  He appeals his conviction on two grounds.  First, he argues that
+the trial judge erred by instructing the jury that he could be convicted based
+solely on the testimony of the one eyewitness who implicated him at trial. 
+Second, he has filed a motion in this Court to adduce fresh evidence, which, he
+says, warrants acquittal or a new trial. [2]                             
+I agree with the Court of Appeal that the trial
+judge did not err in instructing the jury.  The eyewitness testimony against
+Mr. Hay on its own could not have supported an inference of guilt beyond a
+reasonable doubt; however, the trial judge’s instruction, read as a whole, did
+not instruct the jury that it could convict Mr. Hay based solely on her
+testimony. [3]                             
+However, Mr. Hay’s motion to adduce fresh
+evidence should be granted.  He has asked this Court to consider evidence from
+two experts who have forensically examined hair clipping exhibits that the
+Crown relied on at trial to establish that Mr. Hay shaved his head after the
+shooting.  The evidence was used to explain the discrepancy between the
+eyewitness description of the shooter and Mr. Hay’s actual appearance at the
+time of arrest.  It was also adduced as evidence that Mr. Hay had attempted an
+after-the-fact change of his appearance.  The fresh evidence indicates that the
+hair clippings did not originate from Mr. Hay’s scalp.  In my view, Mr. Hay has
+satisfied the standard for adducing fresh evidence articulated in Palmer v.
+The Queen, [1980] 1 S.C.R. 759, at p. 775, and the appropriate remedy is a
+new trial. II.      
+Factual Background [4]                             
+In the early morning of July 6, 2002, two men
+shot and killed Collin Moore in a Toronto nightclub.  The men also shot at
+Collin’s brother, Roger Moore, who escaped with a graze to his forehead. [5]                             
+The evidence at trial established that Collin
+was hosting a monthly fundraising event at the nightclub.  Sometime after
+midnight, three or four men arrived at the club and refused to pay the entry
+fee.  Two of the intruders were Gary Eunick, who was seen wearing an orange
+vest, and his brother, both of whom were known by multiple witnesses at the
+club.  The intruders pushed their way into the lobby of the club.  When Collin
+and Roger intervened, a fight broke out in which beer bottles were broken and
+the glass door of the club was smashed. [6]                             
+Following the fight in the lobby, Collin and
+Roger retreated to the nightclub’s kitchen.  The intruders exited the club, at
+which point Mr. Eunick was seen fidgeting with a gun in the parking lot. 
+Minutes later, he and two of the other intruders, one wearing a blue/green
+shirt, returned to the nightclub.  Mr. Eunick was armed with a semi-automatic
+handgun and the man in the blue/green shirt carried a long barrel revolver. 
+Mr. Eunick and the man in the blue/green shirt entered the kitchen, where they
+shot Collin eight times, killing him.  They also shot at Roger, who was grazed
+by a bullet and only slightly wounded. [7]                             
+The owner of the nightclub saw Mr. Eunick
+leaving the club in a green Honda and recorded the licence plate number.  The
+car was registered to Lydia Hay, who resided at 6927 Chigwel Court, with her
+daughter Lisa Hay, who was Gary Eunick’s girlfriend, and her son Leighton Hay,
+the appellant.  The police arrived at the Chigwel residence within
+approximately half an hour of the shooting, where they found the green Honda in
+the driveway.  They surveilled the residence for approximately the next 10 hours. [8]                             
+While the police were surveilling the home, several
+witnesses from the nightclub were shown photo lineups at the police station. 
+Multiple witnesses were able to confidently identify Gary Eunick as the shooter
+in an orange vest with the semi-automatic gun.  Given Mr. Hay’s connection to
+the Chigwel residence and a database lookup that revealed he had a prior
+firearm conviction, the police considered him a suspect.  Leisa Maillard, an
+acquaintance of Collin Moore who was in the kitchen at the time the intruders
+entered to shoot him, was shown a lineup containing a photo of Mr. Hay.  When
+asked about the identity of the shooter in the blue/green shirt, she selected
+Mr. Hay’s photo.  The details of that selection are discussed in more detail
+later. [9]                             
+Neither party proffered evidence as to whether
+Mr. Hay’s photo was included in the lineups shown to witnesses other than Ms.
+Maillard. [10]                         
+At approximately noon, following the shooting,
+Lisa Hay, Mr. Hay’s sister, emerged from the Chigwel residence and appeared as
+though she was prepared to clean the green Honda.  At this point, the police
+moved in, secured the residence, and arrested Gary Eunick and Leighton Hay. 
+The men were subsequently charged with the first degree murder of Collin Moore
+and the attempted murder of Roger Moore. III.   
+Procedural History A.      
+Trial Proceedings [11]                         
+Mr. Eunick and Mr. Hay were tried together on
+both counts.  The Crown’s theory at trial was that Mr. Eunick and Mr. Hay were
+the two men who entered the kitchen and shot at the Moore brothers. [12]                         
+The identity of Mr. Eunick as one of the
+shooters was never in serious doubt.  Mr. Eunick was identified by multiple
+witnesses at the nightclub, including Collin Moore’s wife, who knew him, and
+the club owner, who named him during his initial 911 call that night.  The
+physical evidence connecting Mr. Eunick to the shooting was also overwhelming. 
+The Crown introduced evidence of a palm print and blood found on the front door
+of the nightclub that matched Mr. Eunick.  It also introduced evidence of
+several items found scattered around the Chigwel residence that implicated Mr.
+Eunick, including:  a shopping bag recovered from the back of the house
+containing the orange vest he wore at the club, which had Mr. Eunick’s blood
+and gunshot granules on it; a backpack containing a white T-shirt and blue
+jeans, which had Mr. Eunick’s blood and gunshot residue on them; shoes in Lisa
+Hay’s closet, which had glass shards in the treads from the broken door at the
+club; bullets found in a sock in a hamper at the entrance to Mr. Hay’s bedroom,
+one of which may have been cycled through (i.e. was at some point loaded in the
+chamber of the semi-automatic handgun fired by Mr. Eunick); and Mr. Eunick’s
+blood in the front passenger area of the Honda Civic. [14]                         
+The Crown’s case against Mr. Hay consisted of
+testimony from Ms. Maillard and four pieces of physical evidence: (1) the
+aforementioned bullets in a sock, which were found in a laundry hamper at the
+entrance of Mr. Hay’s bedroom; (2) a white T-shirt, which contained a particle
+of gunshot residue, found in the same hamper; (3) hair clippings found in a
+newspaper in the bathroom garbage; and (4) hair clippings found in an electric
+razor in Mr. Hay’s nightstand.  An understanding of the relevance of each piece
+of evidence and the overall strength of the Crown’s case is necessary to
+evaluate Mr. Hay’s arguments on appeal. (1)     
+Ms. Maillard’s Eyewitness Evidence [15]                         
+Ms. Maillard was the only eyewitness who
+implicated Mr. Hay as one of the shooters.  She testified that she was in the
+kitchen when the two shooters entered and that she focused her attention on the
+shooter who was wearing the blue/green plaid button-up shirt with a white
+T-shirt underneath and who carried a long barrel revolver.  She described him
+as having two-inch long “picky” dreadlocks: A.R., vol. II, at p. 832.  According
+to her testimony, she said to the shooter: “You don’t have to do this, you
+know.  If you guys want to fight, just fight.  He has a wife and kids” (p. 835). 
+At that point, the man turned to her, pointed his gun, and said, “Shut your
+blood clot before I kill you” (ibid.).  Ms. Maillard continued to
+focus on the man in the blue/green shirt, who moved further into the kitchen
+and began firing at the Moore brothers.  After the fourth shot, she left the
+kitchen and hid in the hallway. [16]                         
+As mentioned above, following the shooting, the
+police suspected that Mr. Hay might be the second shooter and included his
+picture in a photo lineup shown to Ms. Maillard.  The evidence at trial
+established that the lineup contained 12 photos, one photo of Mr. Hay that was
+taken roughly two years earlier and 11 photos depicting men with similar
+features. [17]                         
+ Detective Derek Young provided Ms. Maillard
+with a series of cautions before showing her the photo lineup.  In particular,
+he informed her that he would be showing her a page with 12 photos on it that
+may or may not include a photo of the suspect.  He informed her that she should
+go through each of the 12 photos before selecting anyone and that she should
+not rely heavily on facial features that might change.  He told her that if she
+was able to identify the shooter with 100 percent positivity, she should say
+so, and if not, she should provide a percentage on the likelihood that the
+person she has selected was the suspect. [18]                         
+Det. Young’s and Ms. Maillard’s testimony
+established that Ms. Maillard looked at each photo in the lineup and that when
+she reached the photo depicting Mr. Hay, she became shaken up.  She pointed at
+the photo and stated: “Out of all of these pictures this gentleman most fits
+the description of the gentlemen I saw shooting”: A.R., vol. III, at p. 999. 
+She stated to the investigating officer that in her belief, the photo of Mr.
+Hay depicted the shooter in the blue/green shirt and on “a percentage scale I
+would probably say maybe 80 percent” (pp. 979-80).  Det. Young then sought to
+clarify her statement with the following exchange: [Det. Young:]      Are you saying that this photograph depicts the
+likeness about 80 percent of the person?  . . .  [Ms. Maillard:]     That’s
+correct.  . . .  [Det. Young:]      That did
+the shooting?  . . .  [Ms. Maillard:]     That’s
+correct.  . . .  [Det. Young:]      But are you saying this is the person that did
+the shooting?  I have to have a yes or no.  . . .  [Ms. Maillard:]     No, the photograph is about 80 percent . . . of
+what depicts the likeness of the person that did the shooting.  . . .  [Det. Young:]      Okay.  . . .  [Ms. Maillard:]     I wish I could. [A.R., vol. III, at pp. 1014-16] [19]                         
+At trial, Ms. Maillard took the position that
+she did intend to identify Mr. Hay as the shooter in the blue/green shirt.  She
+explained her comment that the photo shared 80 percent of the likeness of the
+shooter as follows: I meant that
+the photograph being a photocopy, about not being able to pick up the facial
+hair, not being able to see, you know, knowing that it might not be a current
+photograph of him, noting that his hair might be different, taking into account
+all those factors that I was told and being — seeing someone get shot and
+knowing that this is something very important that I was doing, picking
+somebody, you know, out of a line-up that was responsible for a man dying, I
+was being cautious.  [A.R., vol. II, at pp. 856-57] [20]                         
+According to Ms. Maillard’s testimony, a day or
+two after the shooting, she called the police station “to find out whether or
+not [her] I.D. was pretty much the right person or not”: A.R., vol. II, at pp.
+893-94. [21]                         
+Three weeks after the shooting, Ms. Maillard
+participated in a second photo lineup, in which she was shown a number of
+photographs in sequence and asked if any matched the shooter in the blue/green
+shirt.  The photo sequence contained the photo of Mr. Hay taken on the day of
+his arrest, following the shooting.  However, Ms. Maillard did not select any
+photo from the sequence.  Ms. Maillard testified at trial that she just
+“flipped through” the photos and stated that the arrest photo did not have a
+gaunt face, as she had recalled the shooter at the club: A.R., vol. II, at p.
+895. [22]                         
+Finally, defence counsel elicited testimony from
+Ms. Maillard that at the preliminary inquiry, she repeatedly identified Mr.
+Eunick, not Mr. Hay, as the shooter in the blue/green shirt.  Ms. Maillard
+testified that she erroneously pointed out Mr. Eunick because she was nervous
+and scared, and because Mr. Hay had bulked up since the shooting. [23]                         
+Ms. Maillard was not asked at trial if she could
+make an in-court identification of Mr. Hay. (2)     
+Physical Evidence:  Bullets, White T-Shirt and
+Hair Clippings [24]                         
+As mentioned above, the Crown introduced the
+following physical evidence implicating Mr. Hay: (1) bullets found in a sock in
+a laundry hamper in his bedroom, one of which may have been cycled through the
+semi-automatic handgun fired by Mr. Eunick; (2) a white T-shirt in the same
+hamper with one granule of gunshot residue on it; (3) hair clippings from a
+newspaper in the garbage of the bathroom nearest to Mr. Hay’s bedroom; and (4)
+hair clippings in an electric razor found in Mr. Hay’s nightstand. [26]                         
+The white T-shirt was tied to the shooting by
+virtue of the eyewitness testimony that the shooter in the blue/green shirt was
+wearing a white T-shirt underneath and the fact that the T-shirt was found on
+the top of Mr. Hay’s laundry hamper with one speck of gunshot residue on it. 
+The Crown’s theory was that Mr. Hay put the bullets and his white T-shirt in
+the hamper upon returning home from the shooting. [27]                         
+The defence argued that Mr. Eunick, who had
+testified that he used the bathroom next to Mr. Hay’s bedroom upon returning
+from the club, placed the bullets in Mr. Hay’s hamper, which was located just
+inside the entrance to the bedroom.  In the process of doing so, Mr. Eunick
+contaminated the white T-shirt on the top of the hamper with a single granule
+of gunshot residue.  According to the defence, this was supported by the fact
+that there was no gunshot residue found on any of the other items in the
+hamper. [28]                         
+The other physical evidence introduced by the
+Crown was hair clippings obtained from two places: (1) a crumpled page of
+newspaper dated three weeks earlier found in the waste basket in the bathroom
+near Mr. Hay’s bedroom and (2) an electric razor found in the nightstand next
+to Mr. Hay’s bed.  The evidence established that the hairs in the newspaper and
+the razor were less than a centimeter long.  The hair was not submitted to a
+forensic expert for trial and no expert testified regarding the hair. [30]                         
+In addition to this physical evidence, the Crown
+also introduced a videotape of the Chigwel Court residence recorded after Mr.
+Eunick and Mr. Hay were arrested.  One scene in the video depicts a blue shirt
+draped on a bunk bed in a second bedroom in the home.  However, the record does
+not indicate that the Crown ever sought to seize the shirt, let alone submit it
+for testing or present it to one of the eyewitnesses to make the case that it
+was the blue/green shirt worn by the second shooter. (3)     
+Jury Verdict [31]                         
+Based on the evidence described above, the jury
+found Mr. Eunick and Mr. Hay guilty of first degree murder of Collin Moore and
+attempted murder of Roger Moore. B.      
+Ontario Court of Appeal, 2009 ONCA 398, 249 O.A.C. 24 [32]                         
+In the Court of Appeal, Mr. Hay challenged his
+conviction on the bases that the jury’s verdict was unreasonable and that the
+trial judge erred in instructing the jury on eyewitness identification. 
+Moldaver J.A., as he then was, wrote for a unanimous panel and dismissed the
+appeal. [33]                         
+The court held that the jury’s verdict was not
+unreasonable because, despite weaknesses in Ms. Maillard’s eyewitness
+testimony, there was other confirmatory evidence presented to the jury,
+including the bullets and shirt found in Mr. Hay’s hamper and the hair
+clippings, which allowed for the “powerful inference” that Mr. Hay shaved his
+head after the murder to disguise his appearance (para. 36).  The court
+acknowledged that the jury could have drawn multiple inferences from the
+evidence presented, but concluded that this confirmatory evidence “put this
+case over the unreasonable verdict threshold” (ibid.). [34]                         
+With respect to the trial judge’s instruction to
+the jury on eyewitness identification, Mr. Hay raised three arguments.  First,
+he argued that the trial judge erroneously instructed the jury that it could
+convict Mr. Hay on the evidence of Ms. Maillard alone.  The Court of Appeal
+disagreed.  In its view, the trial judge did not instruct the jury that it
+could convict on Ms. Maillard’s testimony alone.  Rather, the trial judge
+instructed the jury that it must look to confirmatory evidence. [35]                         
+Mr. Hay raised two other challenges regarding
+the trial judge’s instruction on eyewitness evidence and challenged the trial
+judge’s instruction on the planning and deliberation requirement for first degree
+murder.  These challenges were rejected by the Court of Appeal and have not
+been reargued before this Court. C.      
+Motion for an Order to Release Exhibits [36]                         
+While the application for leave to appeal was
+pending before this Court, Mr. Hay filed a motion to compel the Crown to
+release two pieces of evidence for forensic testing:  the hair clippings found
+in the crumpled newspaper and the hair clippings found in the electric razor. 
+Mr. Hay sought to forensically examine the hair clippings to determine from
+what part of the body the clippings came.  This Court allowed the motion; see R.
+v. Hay, 2010 SCC 54, [2010] 3 S.C.R. 206, at para. 10.  However, it
+deferred consideration of any motion to adduce fresh evidence to be considered
+with the appeal (para. 9). [37]                         
+On December 1, 2010, the parties submitted a
+proposed protocol for releasing the hair clippings and having them examined by
+the Centre of Forensic Sciences.  This Court ordered that the hairs be released
+and examined in accordance with that protocol.  Mr. Hay subsequently filed a
+motion under s. 683  of the Criminal Code, R.S.C. 1985, c. C-46 , to
+adduce the reports and testimony of experts who conducted the forensic
+examination. IV.       Issues [38]                         
+This appeal presents two issues: (1)        Whether the trial judge erred by instructing the jury
+that it could convict Mr. Hay based on Ms. Maillard’s eyewitness evidence
+alone. (2)        Whether Mr. Hay’s motion to adduce fresh evidence should
+be granted and if so, what is the appropriate remedy? V.      
+Analysis A.      
+Jury Charge Regarding Eyewitness Testimony [39]                         
+Mr. Hay argues that the trial judge erred by
+instructing the jury that it could convict him on Ms. Maillard’s eyewitness
+testimony alone.  Like the Court of Appeal, I am of the view that Mr. Hay’s
+argument should be rejected.  As I explain below, it would have been an error
+to instruct the jury that it could convict Mr. Hay based on Ms. Maillard’s
+testimony alone because it was too weak to establish Mr. Hay’s guilt beyond a
+reasonable doubt.  However, read as a whole, the trial judge’s jury charge did
+not instruct the jury that it could convict based on Ms. Maillard’s testimony
+alone.  Rather, it instructed the jury that it must look to confirmatory
+evidence.  It is not disputed that Ms. Maillard’s testimony in conjunction with
+the confirmatory evidence was sufficient to support the conclusion that Mr. Hay
+was guilty beyond a reasonable doubt and, thus, there was no error in the jury
+charge. (1)      Whether It Would Have Been an Error to Instruct the Jury That It
+Could Convict Mr. Hay Based on Ms. Maillard’s Testimony Alone [41]                         
+Although the duty to assess the credibility and
+weight of an eyewitness’ evidence sits with the jury and, in some
+circumstances, the testimony of one eyewitness will support a conviction, the
+jury should not be permitted to convict on the basis of eyewitness testimony
+that could not support an inference of guilt beyond a reasonable doubt.  In other
+words, a jury should not be instructed that it may convict based on eyewitness
+testimony alone where that testimony, even if believed, would necessarily leave
+reasonable doubt in the mind of a reasonable juror; see R. v. Arcuri,
+2001 SCC 54, [2001] 2 S.C.R. 828, at paras. 21-25; R. v. Reitsma, [1998]
+1 S.C.R. 769, rev’g (1997), 97 B.C.A.C. 303; R. v. Zurowski, 2004 SCC
+72, [2004] 3 S.C.R. 509; United States of America v. Shephard, [1977] 2
+S.C.R. 1067, at p. 1080.  Indeed, where the Crown’s case consists solely of
+eyewitness testimony that would necessarily leave reasonable doubt in the mind
+of a reasonable juror, the trial judge must direct an acquittal upon a motion
+for directed verdict (Arcuri, at para. 21). [42]                         
+In my view, it would have been unreasonable for
+the jury to convict Mr. Hay based solely on Ms. Maillard’s eyewitness
+testimony.  In addition to the usual frailties associated with eyewitness
+identification and photo lineups, the evidence at trial established several other
+problems with Ms. Maillard’s ability to identify Mr. Hay as the shooter.  As
+described above, Ms. Maillard’s initial selection of Mr. Hay from the photo
+lineup was accompanied by a statement that she was not identifying him as the
+shooter, but as someone who shared 80 percent of the likeness of the shooter. 
+Furthermore, within a couple of days of the shooting, Ms. Maillard called the
+police to confirm whether the person she had selected was “pretty much the
+right person or not”: A.R., vol. II, at pp. 893-94.  Also, the evidence
+established that three weeks after the shooting Ms. Maillard was not able to
+select Mr. Hay as the shooter based on his arrest photo taken the day of the
+crime and that, at the preliminary inquiry, Ms. Maillard repeatedly identified
+Mr. Eunick, not Mr. Hay, as the shooter in the blue/green shirt.  Each of these
+events raised some doubt as to Ms. Maillard’s ability to identify Mr. Hay as
+the second shooter. [43]                         
+To be sure, the Crown did adduce evidence to
+address some of the problems with Ms. Maillard’s testimony.  It elicited
+testimony from Ms. Maillard that, despite her statements to the contrary when
+she selected Mr. Hay’s photo on the morning of the shootings, she did
+intend to identify Mr. Hay as the shooter.  Furthermore, the Crown introduced
+hair clippings found in Mr. Hay’s bathroom and electric razor to explain that
+Ms. Maillard was unable to identify Mr. Hay based on his arrest photo because
+he had cut his hair. [45]                         
+For these reasons, in my view, it would have
+been an error for the trial judge to instruct the jury that it could convict
+Mr. Hay based solely on Ms. Maillard’s evidence.  Indeed, in this appeal, the
+Crown has not attempted to argue otherwise.  The Crown has instead argued that
+the trial judge made no error because he never instructed the jury that it
+could have convicted Mr. Hay based on Ms. Maillard’s testimony alone.  I turn
+to that argument next. (2)     
+Whether the Trial Judge Erred in Instructing the
+Jury [46]                         
+In my view, the Court of Appeal correctly held
+that the trial judge made no error in instructing the jury regarding Ms.
+Maillard’s eyewitness testimony. [47]                         
+When reviewing a jury charge, “[a]n appellate
+court must examine the alleged error in the context of the entire charge and of
+the trial as a whole”:  R. v. Jaw, 2009 SCC 42, [2009] 3 S.C.R. 26, at
+para. 32.  Where an impugned reference in a jury charge in isolation could be
+understood to be an incorrect statement of the law, an appeal court will not
+interfere if it is evident that, considering the charge as a whole, the jury
+would have been properly instructed: ibid., at paras. 3 and 24. [48]                         
+Furthermore, although appeal courts will
+interfere when a jury has not been adequately instructed, a trial judge must be
+afforded a certain degree of flexibility in instructing the jury; see R. v.
+Avetysan, 2000 SCC 56, [2000] 2 S.C.R. 745, at para. 9.  A trial judge is
+not required to use “any particular form of words” in instructing the jury
+regarding the frailties of eyewitness evidence and, rather, must be afforded
+considerable latitude in deciding how best to apprise the jurors about those
+frailties: Turnbull, at p. 552; R. v. Candir, 2009 ONCA 915,
+257 O.A.C. 119, at para. 110. [49]                         
+In the present case the trial judge made the
+following general remarks about the reliability of eyewitness evidence, prior
+to revisiting in detail the evidence against Mr. Eunick and Mr. Hay: There
+has been eyewitness testimony from a number of witnesses.  You must be very
+cautious about relying on eyewitness testimony to find either of the two
+accused persons guilty.  That caution is required because experience has taught
+us that all identification evidence suffers from an inherent frailty.  Human
+observations and recollections are notoriously unreliable in this area.  Indeed,
+many cases of miscarriage of justice have been due to mistaken identification
+by one or more responsible witnesses whose honesty was not challenged and who
+had ample opportunity for observation, but whose identifications subsequently
+proved to be erroneous.  You
+may have no doubt that a witness or witnesses are certain in their own minds
+that they observed and recognized the proper identifying characteristics, but a
+convincing witness, who is perfectly honest, may also be mistaken.  A person
+can be sure in his or her own mind about an identification and yet be
+mistaken.  In that context, you must bear in mind the distinction between
+credibility or truthfulness, as opposed to reliability or accuracy.  So
+I repeat, ladies and gentlemen, you must be very cautious about relying on
+eyewitness testimony alone to find either of the defendants guilty of any
+crime.  In the past, there have been miscarriages of justice. Persons have been
+wrongly convicted because eyewitnesses have made mistakes in identifying the
+persons whom they saw committing the crime.  As
+a result, you should look for confirmatory evidence to support the eyewitness
+identification evidence.  If you find other evidence to support the eyewitness
+identification evidence, you may decide that the frailties associated with a
+conviction based only on identification evidence has been discounted.  It will
+be up to you.  Mr. Hay contends that the
+last paragraph of this excerpt would have left the jury with the understanding
+that it could have convicted him based on Ms. Maillard’s testimony alone. [50]                         
+Taken in isolation, the statement that the jury
+was “entitled to convict on the evidence of even a single eyewitness” may
+appear to do that.  However, I agree with the Court of Appeal that such an
+interpretation of the trial judge’s instruction is belied when the full context
+of the jury charge is considered. [51]                         
+As the Court of Appeal observed, the impugned
+instruction was, as a general matter, a correct statement of the law.  As mentioned
+above, a jury may convict on the basis of a single eyewitness’ testimony,
+notwithstanding the frailties of eyewitness identifications, if the witness’
+testimony could support a finding of guilt beyond a reasonable doubt. [52]                         
+Furthermore, the impugned instruction was made
+in the context of general instructions that applied to both Mr. Hay and his
+co-defendant, Mr. Eunick.  With respect to Mr. Eunick, there were multiple
+witnesses whose testimony could have supported a finding of guilt beyond a
+reasonable doubt.  Witnesses Jennifer Moore and Hugh Robinson, for instance,
+were both able to recognize Mr. Eunick from their past dealings and identify
+him as one of the shooters during and immediately after the shooting. You must be
+very careful of the evidence of Ms Maillard because of the problems that I have
+pointed out.  You should look for other evidence confirming her
+identification. [Emphasis added; A.R., vol. V, at p. 2181.] In addition, the trial
+judge distinguished Ms. Maillard’s eyewitness account from the stronger
+eyewitness evidence against Mr. Eunick: [54]                         
+I agree with the Court of Appeal that “[i]n the
+face of those instructions, it is fanciful to think that the jury would have
+convicted Hay solely on the eye-witness testimony of Ms. Maillard” (para. 48). 
+Mr. Hay’s argument boils down to a contention that the trial judge was required
+to say words such as “you may not convict Mr. Hay based on Leisa Maillard’s
+testimony alone”.  However, the trial judge was not circumscribed to instruct
+the jury as to the sufficiency of Ms. Maillard’s testimony using those
+particular words.  He had a duty to “convey to the jury as trier of fact the
+relevant legal principles and how they apply to the evidence adduced at trial”,
+and he must be afforded some latitude in determining the best way to do so:  R.
+v. Pickton, 2010 SCC 32, [2010] 2 S.C.R. 198, at para. 61.  A reasonable
+juror instructed in the manner described above would not have interpreted the
+impugned statement as an instruction that the jury could render a conviction
+based solely on Ms. Maillard’s testimony; see Jaw, at para. 24. [55]                         
+The record establishes that the trial judge put
+great care into his jury charge and, in particular, into the instructions as to
+eyewitness evidence.  The trial judge, for instance, gave a mid-trial
+instruction to the jury regarding the frailties of eyewitness testimony
+immediately after Ms. Maillard testified, in which he reiterated the problems
+with her evidence.  At that time, he gave both parties an opportunity to object
+and make submissions requesting additional instructions, but neither counsel
+did so.  Furthermore, prior to instructing the jury at the end of the trial,
+the judge held a pre-charge hearing, in which he accepted submissions on the
+instructions relating to eyewitness testimony.  During that hearing, counsel
+for the Crown and both defendants were all asked to consider the paragraph Mr.
+Hay now impugns, and all counsel expressed satisfaction with its language. 
+Counsel for Mr. Hay made several submissions regarding the problems with Ms.
+Maillard’s identification, each of which the trial judge made note of and
+subsequently included in his instructions to the jury.  At no time during any
+of these hearings did any party express the view that the trial judge’s
+instruction would convey to the jury that it could convict based on Ms.
+Maillard’s testimony alone. [56]                         
+For these reasons, I am of the view that the
+trial judge did not err in instructing the jury and would dismiss this ground
+of appeal. B.      
+Motion to Adduce Fresh Evidence [57]                         
+As mentioned above, Mr. Hay has filed a motion
+to adduce expert evidence regarding the forensic testing of the hair clippings
+that the Crown introduced at trial.  Mr. Hay argues that the fresh evidence
+establishes that the hair clippings did not come from a shave of Mr. Hay’s
+scalp and that, as a result, acquittal or a new trial is warranted.  I explain
+below that the motion to adduce fresh evidence should be granted and a new trial
+should be ordered. (1)     
+The Fresh Evidence [58]                         
+Mr. Hay’s fresh evidence consists of affidavits
+and cross-examinations of two forensic experts, in which each expert provides
+an opinion as to the percentage of hairs in the newspaper and the razor that
+came from Mr. Hay’s scalp, as opposed to his face or trunk. [59]                         
+Johanne Almer, a scientist at the Centre of
+Forensic Sciences, examined the hairs introduced at trial.  In her initial
+report, she concluded, based on an examination of the diameter and shape of the
+individual hairs, that 68 percent of the hairs in the newspaper and 48 percent
+of the hairs in the razor were indicative of facial or trunk origin.  The
+remaining hairs could have been facial, trunk or scalp hair. [60]                         
+Scientist Richard Bisbing, a second expert,
+endorsed the methodology used by Ms. Almer.  After examining the hairs and Ms.
+Almer’s work, he concluded that “the samples from the two items are
+predominantly comprised of facial hairs” and that “[a]lthough the presence of
+some scalp hairs cannot be excluded, there is no indication of a large number
+of scalp hairs in either sample”: Application Record, vol. I, Tab D, at p. 3. [61]                         
+Mr. Bisbing recommended that a representative
+scalp hair be obtained from Mr. Hay to improve the accuracy of the testing.  The
+Crown consented.  After a representative scalp hair was obtained, Ms. Almer
+conducted further examination and produced a second report affirming her
+earlier conclusions.  She reported that if a particular outlier hair from Mr.
+Hay’s scalp sample was excluded from her calculations, she would conclude that
+at least 91 percent of the hairs from the newspaper and 70 percent of the hairs
+from the razor did not originate from Mr. Hay’s scalp.  Mr. Bisbing also
+conducted a second examination and agreed with Ms. Almer’s findings.  He
+concluded: It can now be stated with a reasonable
+degree of scientific certainty that the hairs from the clipper (Item 87) and
+from the newspaper (Item 88) are populations of facial (beard) hair. Neither
+sample contains a significant number of scalp (head) hairs to challenge this
+conclusion.  [Application Record, vol. I, Tab E, at p. 3] [62]                         
+The Crown also hired two experts: David Exline,
+a hair analyst, and Dr. Jeffrey Rosenthal, a professor of statistics.  Both
+experts conducted a paper review of Ms. Almer’s and Mr. Bisbing’s reports
+without personal examination of the hairs.  Much of the Crown experts’ analysis
+focused on whether it was proper to exclude a hair obtained from Mr. Hay’s
+scalp that Ms. Almer and Mr. Bisbing considered to be an outlier.  Both Mr.
+Exline and Dr. Rosenthal testified that they would have included the outlier
+hair.  However, both also testified that such inclusion would not have a
+significant impact on the results and they would thus have reached conclusions
+similar to Ms. Almer and Mr. Bisbing.  Consistent with Ms. Almer and Mr.
+Bisbing, Mr. Exline testified that although he could not say with absolute
+certainty that there were no scalp hairs among the hair clippings, there was,
+as a scientific matter, no evidence to support the proposition that the hair
+clippings represented a head shave. (2)     
+Whether the Motion to Adduce Fresh Evidence
+Should Be Granted [63]                         
+This Court considered the discretion of an
+appellate court to admit fresh evidence under s. 610 of the Criminal Code,
+R.S.C. 1970, c. C-34, the predecessor of s. 683 , in Palmer.  The
+overriding consideration upon a motion to adduce fresh evidence is “the
+interests of justice”: Criminal Code, s. 683 ; Palmer,
+at p. 775.  This requires consideration of the following principles: (1)   The evidence should generally not be admitted if, by due
+diligence, it could have been adduced at trial provided that this general
+principle will not be applied as strictly in a criminal case as in civil cases:
+see McMartin v. The Queen, [1964] S.C.R. 484.  (2)   The evidence must be relevant in the sense that it bears upon
+a decisive or potentially decisive issue in the trial.  (3)   The evidence must be credible in the sense that it is
+reasonably capable of belief, and  (4)   It must be such that if believed it could reasonably, when
+taken with the other evidence adduced at trial, be expected to have affected
+the result. [p. 775] Here, the Crown has
+conceded that the expert evidence Mr. Hay seeks to adduce is credible and thus
+satisfies the third factor.  As I explain below, the consideration of the
+remaining factors leads to the conclusion that the fresh evidence should be
+admitted. (a)      
+Due Diligence [64]                         
+The due diligence criterion exists to ensure
+finality and order — values essential to the integrity of the criminal process:
+R. v. G.D.B., 2000 SCC 22, [2000] 1 S.C.R. 520, at para. 19 (citing R.
+v. M. (P.S.) (1992), 77 C.C.C. (3d) 402 (Ont. C.A.), per Doherty
+J.A., at p. 411).  The due diligence requirement calls for an appellate court
+to consider the reason why the evidence was not presented at trial: G.D.B.,
+at para. 20.  However, this Court has recognized that “due diligence is not an
+essential requirement of the fresh evidence test, particularly in criminal
+cases” and that the “criterion must yield where its rigid application might
+lead to a miscarriage of justice” (para. 19).  Nonetheless, it is an important
+factor to be considered in the totality of the circumstances (ibid.). [65]                         
+Here, Mr. Hay submits that the fresh evidence
+was not adduced at trial because his trial counsel was unaware that it was
+feasible to perform forensic testing to determine whether hair clippings
+originate from an individual’s scalp or another part of the body.  Mr. Hay has
+submitted an affidavit from his trial counsel to that effect. [66]                         
+In his reasons granting the order to release the
+two exhibits for forensic testing, Cromwell J. inferred from the evidence
+before him that it simply did not occur to any of the experienced criminal
+lawyers that forensic testing of this nature was feasible: This sort of forensic testing was not
+conducted by the Crown in preparation for trial and was not requested on behalf
+of the defence until several months after the appeal to the Court of Appeal had
+been dismissed.  Defence counsel at trial indicates in his affidavit that he
+was unaware that forensic analysis could distinguish between scalp and facial
+hairs.  There is a letter in the record indicating that the applicant’s counsel
+on the appeal to the Court of Appeal was similarly unaware of the feasibility
+of such testing.  There is no evidence that the Crown was aware of this
+possibility.  Given that it appears that no one requested such testing and the
+potential importance of the result which might be obtained, I would infer that
+it simply did not occur to any of the experienced criminal lawyers involved
+that this testing was available.  [para. 8] The parties have not
+provided any reason why this conclusion should be reconsidered. [67]                         
+In general, mere lack of knowledge on the part
+of trial counsel without any indication that he inquired into the possibility
+of obtaining and presenting the evidence is a factor against admitting the
+evidence for the first time on appeal: McMartin, at pp. 490-91. 
+However, in view of the fact that this is a criminal case, involving charges of
+the most serious nature, I would not allow the evidence to be excluded solely
+on the basis of a lack of diligence. (b)     
+Whether the Evidence Bears on a Decisive or Potentially
+Decisive Issue [68]                         
+It cannot reasonably be disputed that Mr. Hay’s
+fresh evidence bears on a decisive issue.  As described above, the hair
+clippings from Mr. Hay’s waste basket and electric razor were used in two
+ways.  First, they were used to explain the discrepancy between the
+eyewitnesses’ description of the shooter as having dreadlocks and the short
+length of Mr. Hay’s hair at the time of his arrest.  This was also how the Crown
+explained Ms. Maillard’s inability to identify Mr. Hay based on his arrest
+photo.  Second, the hair clippings were used to implicate Mr. Hay by suggesting
+that he had cut his hair immediately after the shooting as evidence of an
+after-the-fact attempt to change his appearance. [69]                         
+The evidence was therefore directly relevant to
+whether Mr. Hay was in fact the shooter in the blue/green shirt. (c)      
+Whether the Evidence Could Reasonably Be
+Expected to Have Affected the Result [70]                         
+The fresh evidence that Mr. Hay seeks to adduce
+could reasonably be expected to have affected the jury’s verdict.  The import
+of the hair clippings is evident from comments made by the trial judge and
+Crown counsel, the jury charge and the Court of Appeal’s analysis, each of
+which I describe below. [71]                         
+Although the Crown has sought to downplay the
+significance of the hair evidence in this appeal, it relied heavily on the
+haircut evidence at trial.  In his closing address, for instance, Crown counsel
+painted the following picture for the jury: When
+they came home, they convened at the back of the house. Mr. Hay took off his
+shirt and they began to task divide. They took Eunick’s bloody clothes to wash
+them. At some point, an old piece of newspaper was laid out, and Leighton
+Hay's short, short dreads were shaved off, possibly by himself but more likely
+by Mr. Eunick because he knows how to cut hair. They were then dumped into the
+toilet. They were taken off, and only the small hairs that weighed the least
+stuck to that newspaper, and he crumpled it up and threw it in the garbage, and
+that’s where it was, right on top, the last thing put in. Everything else was
+flushed.  Mr.
+House makes something of the date of that newspaper. If I understood his
+submission, the last time Leighton Hay would have shaved was June 18th. But
+he keeps his hair shears for shaving in his night table. He shaved his head
+that night. He threw the short dreads down the toilet. He left just the small
+clippings in that piece of newspaper.  [72]                         
+Further, in comments made during the trial in
+the absence of the jury and witnesses, the trial judge recognized that if the
+Crown could establish that Mr. Hay shaved his head in the morning following the
+shootings, it would be “powerful evidence” of his “identity” as the shooter and
+that “he did it to alter his appearance”: A.R., vol. II, at p. 928. [73]                         
+The significance of the hair clippings was also
+reflected in the jury charge.  The trial judge instructed the jury that because
+Mr. Hay had a shaved head at the time of his arrest, the jury “must consider
+whether the evidence establishes that Leighton Hay shaved his head that night
+after he got home”: A.R., vol. V, at p. 2153 (emphasis added).  He
+instructed the jury that it must consider confirmatory evidence before relying
+on Ms. Maillard’s eyewitness testimony, given the frailties of eyewitness
+identifications and her inability to identify Mr. Hay at the second photo
+lineup and the preliminary inquiry.  He repeated multiple times that the
+Crown’s explanation for Ms. Maillard’s inability to identify Mr. Hay based on
+his arrest photo hinged on proving that Mr. Hay had cut his hair after the
+murder, for which the only evidence was the hair clippings. [74]                         
+The Court of Appeal too recognized that the hair
+clipping evidence was significant to the Crown’s case.  In concluding that the
+jury’s verdict was not unreasonable, the Court of Appeal explained that the
+hair clippings allowed for a “powerful inference” of guilt which was sufficient
+to “tip the scales and put this case over the unreasonable verdict threshold” (para.
+36).  Given the significance of the haircut to the Crown’s case, Mr. Hay’s
+fresh evidence indicating that the hair clippings did not come from a scalp
+shave could reasonably be expected to have affected the result. [75]                         
+For these reasons, I would grant Mr. Hay’s
+motion to adduce fresh evidence. (3)     
+The Appropriate Remedy [76]                         
+Having concluded that Mr. Hay’s motion to adduce
+fresh evidence should be granted, I turn to the appropriate remedy.  This Court
+has explained that where an appeal court is of the view that fresh evidence
+would be conclusive of the issues in the case, it should dispose of the matter
+accordingly: R. v. Stolar, [1988] 1 S.C.R. 480, at p. 492.  However,
+where the fresh evidence is not so decisive that it would allow an immediate
+disposition of the matter, but it nonetheless has sufficient probative force
+that, if accepted by the trier of fact, it might have altered the result of the
+trial, an appeal court should admit the evidence and direct a new trial: ibid.;
+Palmer, at pp. 776-77. [77]                         
+The appropriate remedy here is a new trial.  As
+I have explained above, the expert evidence indicating that the hair clippings
+did not result from a scalp shave could reasonably be expected to have affected
+the verdict.  However, it is not so decisive as to allow an immediate
+disposition in the form of an acquittal.  The Crown, in its submissions on the
+motion to adduce fresh evidence, has raised the possibility of certain
+limitations or gaps in the expert evidence adduced in this appeal.  The
+interests of justice require that the Court remit the matter for a new trial,
+in which the Crown would have the opportunity to adduce evidence challenging
+the reliability of the fresh evidence. VI.       Conclusion [78]                         
+For the foregoing reasons, Mr. Hay’s motion to
+adduce fresh evidence is granted and the appeal is allowed.  The matter is remanded
+for retrial.                     The following are the reasons
+delivered by                     Fish J. — I [79]                         
+Like Justice Rothstein, and for the reasons he
+has given, I would grant the appellant’s motion to adduce fresh evidence and
+order a new trial. [80]                         
+Our sole disagreement relates to the trial
+judge’s charge concerning the evidence of Leisa Maillard.  Justice Rothstein
+finds that the trial judge did not instruct the jury that it could convict the
+appellant, Leighton Hay, on the evidence of Ms. Maillard alone.  With respect,
+I believe that he did. [81]                         
+As we shall see, the trial judge and counsel
+evidently thought so too.  The jury can hardly have understood the judge’s
+charge differently. [82]                         
+This error is in my view fatal, though the
+judge’s charge was otherwise flawless and eminently fair.  And I think it right
+to add that the law in this regard is more certain now than it was at the time
+of trial. II [83]                         
+Leighton Hay stands convicted of first degree
+murder and attempted murder.  Leisa Maillard was the only eyewitness who
+implicated Mr. Hay in the fatal shooting of the victim.  In a photo lineup
+conducted by the police, Ms. Maillard said she was “about 80 percent” sure that
+Mr. Hay was the shooter, but could not answer that question “yes or no”.  She
+did not identify Mr. Hay in court.  Other significant frailties in her evidence
+are well set out in the reasons of Justice Rothstein (notably at paras. 15-23
+and, compendiously, at para. 42). [84]                         
+In his pre-charge submissions, Crown counsel
+nonetheless asked the judge to instruct the jury that they could convict Mr.
+Hay on the evidence of one eyewitness alone (A.R., vol. V, at pp. 2004, 2008
+and 2011).  Counsel made clear that he was referring specifically to the
+testimony of Ms. Maillard (pp. 2008 and 2014).  Indeed, he could hardly have
+been referring to anyone else: As mentioned earlier, no other eyewitness
+implicated Mr. Hay. [85]                         
+Quite properly, Crown counsel assured the trial
+judge that he “want[ed] to be able to fashion [his] closing address to the jury
+in a way that’s responsible and consistent with what you’re going to be
+telling them” (A.R., vol. V, at p. 2014; unless otherwise indicated,
+the emphasis throughout is mine).  The trial judge replied that he “[did not]
+have a problem” with the Crown’s request and indicated that he would charge the
+jury to that effect, though not necessarily in the wording proposed (pp. 2011
+and 2014). [86]                         
+In his closing address, Crown counsel proceeded
+on that understanding. This was apparent from the very outset: I suspect
+His Honour will also tell you, after considering the strength of eyewitness
+testimony you’re entitled to convict on it alone if it persuades you,
+beyond a reasonable doubt, that the person identified was the shooter.  [A.R.,
+vol. VI, at p. 111] [87]                         
+The Crown then emphasized to the jury that this
+principle applied to the testimony of Leisa Maillard: The
+lawyer [for Mr. Hay] has made much of the fact that [Ms. Maillard] said 80
+percent.  She explained to you what she meant.  80 percent is of the picture,
+because it may be an older picture. . . . If you accept her explanation —
+there’s no reason not to — you can convict on the photo lineup and [her]
+visceral reaction [to it] all alone.  If you’re troubled by it, then your
+troubles will be wiped away by the overwhelming confirmatory evidence in this
+case, which under Canadian law makes up for any frailties you might find in the
+photo lineup. [A.R., vol. VI, at p. 117]  And again:  You
+could, in this case, convict Leighton Hay on Leisa Maillard’s photo lineup . . . . [p. 119] [88]                         
+At no point in his charge did the able and
+experienced trial judge correct these assertions by the Crown.  This confirms
+to me, particularly in light of the pre-charge discussions, that they conformed
+to the judge’s own understanding of the law. [89]                         
+Pursuant to the Crown’s closing argument, the
+jury would thus have assumed that it was entitled to convict Mr. Hay based
+solely on Ms. Maillard’s eyewitness “identification”. [90]                         
+Unfortunately, this misapprehension of the law
+was soon to be reinforced by the trial judge in his own instructions to the
+jury. [91]                         
+Early in his charge, the trial judge made clear
+to the jury that “the main issue in this trial is the identity of the people
+who murdered Collin Moore” (A.R., vol. V, at p. 2144).  He then explained the
+dangers associated with reliance on eyewitness evidence to establish guilt. 
+Then, in some measure echoing Crown counsel’s prior submission, he instructed
+the jury as follows: . .
+. you should look for confirmatory evidence to support the eyewitness
+identification evidence.  If you find other evidence to support the eyewitness
+identification evidence, you may decide that the frailties associated with a
+conviction based only on identification evidence [have] been discounted.  It
+will be up to you.  But
+even if you find no confirmatory evidence — even
+though you are to exercise caution because of the frailties of eyewitness
+identification evidence — you are, nevertheless, entitled to convict on the
+evidence of even a single eyewitness if you accept that witness’
+identification and find that it proves guilt beyond a reasonable doubt. [A.R.,
+vol. V, at p. 2146] [92]                         
+Thus, although the trial judge urged caution, he
+informed the jury in unmistakable terms that the testimony of one eyewitness
+could properly ground a conviction.  The jury would therefore have understood
+that this rule applied unless instructed otherwise for a particular witness. 
+No such instruction was ever given. [93]                         
+More particularly, the trial judge never told
+the jury that his general instructions that I have just quoted did not apply to
+the testimony of Leisa Maillard.  On the contrary, soon afterward, he explained
+that identification evidence is stronger if the accused was previously known to
+the witness.  And he related this instruction specifically to “the
+evidence against Leighton Hay” (A.R., vol. V, at p. 2148).  This was
+indisputably a direct reference to Ms. Maillard’s evidence implicating Mr. Hay. [94]                         
+In any event, there could be no confusion
+regarding which defendant the trial judge was referring to when he instructed
+the jury that it was “entitled to convict on the evidence of even a single
+eyewitness” (A.R., vol. V, at p. 2146).  Several eyewitnesses identified Mr.
+Hay’s co-accused, Gary Eunick, as one of the shooters.  Only Mr. Hay was
+identified by “a single eyewitness” — Ms. Maillard (ibid.). 
+Accordingly, the only meaningful application of this general instruction was in
+regard to Ms. Maillard’s testimony. [95]                         
+The judge’s subsequent instructions regarding
+Ms. Maillard’s evidence, if anything, reinforced Crown counsel’s uncorrected
+statement to the jury that they could convict Mr. Hay on her photo
+identification alone — and reinforced as well the judge’s own instruction to
+the same effect (reproduced above at para. 91). [96]                         
+For example, in terms virtually identical to the
+judge’s general caution regarding eyewitness identification evidence, he later
+instructed the jury that it “should look for other evidence confirming
+her identification” (A.R., vol. V, at p. 2181).  Manifestly, the term “should”
+deprives this instruction of imperative force.  And, with respect, I am unable
+to find in this or any other passage that the trial judge “instructed the jury
+that it must look to confirmatory evidence” (my colleague’s reasons, at
+para. 39). [97]                         
+Finally, near the very end of his charge, the
+trial judge once again indicated to the jury that they could convict Mr. Hay on
+the evidence of Ms. Maillard alone.  Without any suggestion that this was wrong
+in law, the trial judge referred to Crown counsel’s submission that “just based
+on Leisa Maillard’s evidence alone you should be sure that the shooter
+was Leighton Hay” (A.R., vol. V, at p. 2245). [98]                         
+As mentioned at the outset and with the greatest
+of respect, I am unable in light of this record to conclude that the trial
+judge did not instruct the jury that it could convict Mr. Hay on the evidence
+of Ms. Maillard alone. III [99]                         
+The Court of Appeal held, at para. 48, that
+“[i]n the face of [the jury] instructions, it is fanciful to think that the
+jury would have convicted Hay solely on the eye-witness testimony of Ms.
+Maillard.”  My colleague Justice Rothstein agrees (para. 54). [100]                     
+Though patently speculative and certainly
+unverifiable, that may in fact be so.  In light of the trial judge’s effort to
+make clear to the jury that it should be cautious before convicting Mr. Hay
+based solely on Ms. Maillard’s identification, it does appear unlikely that the
+jury convicted Mr. Hay without any regard to the confirmatory evidence. 
+Whether that is the case, however, is a question that we are neither called
+upon nor entitled to resolve. [101]                     
+Rather, the issue that concerns us here is
+whether the trial judge erred in his instructions to the jury, and not with why
+the jury decided as it did — a matter beyond our ken. IV [102]                     
+As stated at the outset, I agree with Justice
+Rothstein that the appellant’s motion to adduce fresh evidence should be
+granted, that the appeal should be allowed and that a new trial should be
+ordered.                     Appeal
+allowed.                     Solicitors
+for the appellant:  Lockyer Campbell Posner, Toronto; Joanne McLean,
+Toronto.                     Solicitor for the
+respondent:  Attorney General of Ontario, Toronto.   

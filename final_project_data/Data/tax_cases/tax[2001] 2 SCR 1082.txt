@@ -1,0 +1,894 @@
+Ludco Enterprises Ltd. v. Canada,
+[2001] 2 S.C.R. 1082, 2001 SCC 62  Ludco Enterprises Ltd., Brian Ludmer, David Ludmer, and Cindy Ludmer                                                                                          Appellants  v.  Her Majesty The Queen                                                                               Respondent  Indexed as:  Ludco Enterprises Ltd. v. Canada  Neutral citation:  2001 SCC
+62.  File No.:  27320.  2001:  March 19; 2001:  September 28.  Present:  Gonthier, Iacobucci, Major, Bastarache, Binnie,
+Arbour and LeBel JJ.  on appeal from the federal court of appeal  Income tax – Deductions – Interest – Legal test for
+interest deductibility  – Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .),
+s. 20(1) (c)(i).  Income tax – Deductions – Interest – Taxpayers
+seeking deduction of interest paid on borrowed money used to purchase shares in
+foreign companies – Taxpayers receiving $600,000 in dividends and incurring $6
+million in interest costs during period shares held in foreign companies –
+Whether interest costs deductible – Whether money borrowed “used for the
+purpose of earning income” – Concepts of “purpose” and “income” – Income Tax
+Act, R.S.C. 1985, c. 1 (5th Supp .), s. 20(1) (c)(i).  Income tax – Deductions – Interest – Corporate
+taxpayer seeking deduction of interest paid on borrowed money used to purchase
+shares in foreign companies – Shares disposed of in rollover transaction –
+Whether taxpayer entitled to deduct interest costs incurred after rollover
+transaction – Whether taxpayer established link between original eligible use
+property and current eligible use property – Income Tax Act, R.S.C. 1985,
+c. 1 (5th Supp .), s. 20(1) (c)(i).  Costs – Special costs – Revenue Canada denying
+taxpayers’ interest deductions and aggressively pressing its case against
+taxpayers – Revenue Canada’s reassessment set aside –  Whether special costs
+should be awarded – Supreme Court Act, R.S.C. 1985, c. S-26, s. 47 .  Two foreign companies operated investment funds
+carefully structured to avoid the application of the Foreign Accrual Property
+Income (“FAPI”) rules and to provide other tax advantages to investors. Between
+September 1977 and June 1979,  L, the President and sole shareholder of the
+corporate appellant (“Ludco”), purchased shares in the foreign companies on
+behalf of Ludco and the individual appellants, investing approximately $7.5
+million using $6.5 million in borrowed funds.  In 1983, Ludco disposed of the
+shares in the foreign companies along with other assets to a wholly owned
+subsidiary of Ludco for their fair market value and in accordance with the
+rollover provisions in s. 85  of the Income Tax Act . It received
+both interest-earning and non-interest-earning assets as consideration.  In
+1985, when the FAPI rules eliminated the tax benefits of the type of off-shore
+investment in issue, the appellants disposed of their shares and earned capital
+gains of approximately $9.2 million. In the eight years the appellants held
+shares in the foreign companies, they received approximately $600,000 in dividends
+and incurred approximately $6 million in interest charges.  For the taxation
+years 1981 to 1985, the appellants deducted their interest costs against other
+reported income pursuant to s. 20(1) (c)(i) of the Income Tax Act . 
+They were reassessed and the deductions were disallowed.  The Minister of
+National Revenue took the position that the amount borrowed had not been “used
+for the purpose of earning income from a business or property” as stipulated in
+s. 20(1) (c)(i), but to defer taxes and convert income into capital
+gains.  The Tax Court of Canada, the Federal Court, Trial Division, and the
+majority of the Federal Court of Appeal all upheld the Minister’s
+reassessments.  Held:  The appeal
+should be allowed.  The interest costs were deductible under s. 20(1) (c)(i)
+of the Income Tax Act .  Per Gonthier,
+Iacobucci, Major, Bastarache, Binnie and Arbour JJ.:  Whether a taxpayer’s
+purpose in making an investment falls within the ambit of s. 20(1) (c)(i)
+of the Income Tax Act  is a question of mixed fact and law.  Determining
+and applying the proper test under s. 20  is a question of law.  In this
+case, since the trial judge did not apply the correct legal test to determine
+the appellants’ purpose, this Court may interfere with his finding in this
+regard.  The use of the borrowed money in this case complies
+with the  requirements expressed  in s. 20(1) (c)(i), including the
+requirement that the borrowed money be “used for the purpose of earning
+income”.  A determination of whether borrowed money has been put to an eligible
+use requires a characterization of the use of the borrowed funds and of the
+taxpayer’s purpose in using the funds.  Here, the borrowed funds were directly
+used to purchase shares in the foreign companies, so the focus of the inquiry
+is whether the taxpayers’ purpose in so using the funds was to earn income
+within the meaning of s. 20(1) (c)(i).  The requisite test to determine the purpose for
+interest deductibility under s. 20(1) (c)(i) is whether, considering
+all the circumstances, the taxpayer had a reasonable expectation of income at
+the time the investment was made.  When the modern rule of statutory
+interpretation is applied, only the reasonable expectation of income test is
+consistent with the wording of s. 20(1) (c)(i).  Although many
+courts have simply adopted the bona fide purpose test, it is not
+supported by the principles of statutory interpretation, especially as applied
+in our recent tax law jurisprudence.  Nor does the text of s. 20(1) (c)(i)
+indicate that the requisite purpose must be the exclusive, primary or dominant
+purpose, or that multiple purposes are to be somehow ranked in importance in
+order to determine the taxpayer’s “real” purpose.  Absent a sham, window
+dressing or other vitiating circumstances, a taxpayer’s ancillary purpose may
+be nonetheless a bona fide objective of his or her investment, equally
+capable of providing the requisite purpose for interest deductibility.  For the purposes of s. 20(1) (c)(i),
+“income”  refers to income subject to tax, not net income.  This definition of
+income is more consistent with the objective of the interest deductibility
+provision, which is to create an incentive to accumulate capital with the
+potential to produce income by allowing taxpayers to deduct interest costs
+associated with its acquisition.  Absent  vitiating circumstances, courts
+should not be concerned with the sufficiency of the income expected or
+received.  Although the income earned in this case was relatively nominal
+compared to the capital gains realized and interest deductions sought, an
+“economic realities” view of the investments is not appropriate as it would
+stray from the express terms of s. 20(1) (c)(i) and supplement the
+provision with extraneous policy concerns.  Here,  the requisite purpose was
+present.  Although earning income was not the principal factor that motivated 
+L to invest in the foreign companies, he anticipated the receipt of dividend
+income and the objective documentary evidence indicates that the appellants had
+a reasonable expectation of earning income.  Furthermore, dividend income was
+actually received.  The purchases of the shares were genuine investments and
+the amount of dividends actually paid cannot be characterized as window
+dressing or sham.  The disposition by Ludco of its shares in the foreign
+companies to its subsidiary in 1983 did not affect its ability to deduct the
+interest costs.  Ludco met the burden of establishing the necessary linkage
+between the original eligible use property and the current eligible use property. 
+Although Ludco initially received a mix of income-earning and
+non-income-earning assets as consideration for the shares in the foreign
+companies, the value of the income-earning assets exceeded the amount of the
+borrowed money. In these circumstances, the income-producing replacement
+property can be linked to the entire amount of the loan and it can be said that
+the interest charges were “wholly applicable” to the source of the income. 
+Consequently, the entire amount of the interest payment continued to be
+deductible after the rollover occurred.  This is not an appropriate case for an order for
+special costs pursuant to s. 47  of the Supreme Court Act .  Although
+the Crown aggressively pressed its case against the appellants, there is no
+substance to the appellants’ claims of abuse and misconduct.  Per LeBel
+J.:  Subject to comments made on the interpretation of tax statutes
+in the companion case of Singleton v. Canada, [2001] 2 S.C.R. 1046, 2001
+SCC 61, there is agreement with the disposition of this appeal. Cases Cited  By Iacobucci J.  Referred to:  Singleton
+v. Canada, [2001] 2 S.C.R. 1046, 2001 SCC 61; Bronfman
+Trust v. The Queen, [1987] 1 S.C.R. 32; Rizzo & Rizzo Shoes Ltd.
+(Re), [1998] 1 S.C.R. 27; Stubart Investments Ltd. v. The Queen,
+[1984] 1 S.C.R. 536; Symes v. Canada, [1993] 4 S.C.R. 695; Canada v.
+Antosko, [1994] 2 S.C.R. 312; Québec (Communauté urbaine) v. Corp.
+Notre-Dame de Bon-Secours, [1994] 3 S.C.R. 3; Friesen v. Canada,
+[1995] 3 S.C.R. 103; Schwartz v. Canada, [1996] 1 S.C.R. 254; Alberta
+(Treasury Branches) v. M.N.R., [1996] 1 S.C.R. 963; 65302 British
+Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804; Will-Kare Paving &
+Contracting Ltd. v. Canada, [2000] 1 S.C.R. 915, 2000 SCC 36; Royal Bank
+of Canada v. Sparrow Electric Corp., [1997] 1 S.C.R. 411; Canderel Ltd.
+v. Canada, [1998] 1 S.C.R. 147; Shell Canada Ltd. v. Canada, [1999]
+3 S.C.R. 622; Neuman v. M.N.R., [1998] 1 S.C.R. 770; Hickman Motors
+Ltd. v. Canada, [1997] 2 S.C.R. 336;  Duha Printers (Western) Ltd. v.
+Canada, [1998] 1 S.C.R. 795; Continental Bank Leasing Corp. v. Canada,
+[1998] 2 S.C.R. 298; Spire Freezers Ltd. v. Canada, [2001] 1 S.C.R. 391,
+2001 SCC 11; Backman v. Canada, [2001] 1 S.C.R. 367, 2001 SCC 10; Moldowan
+v. The Queen, [1978] 1 S.C.R. 480; Mark Resources Inc. v. The Queen,
+93 D.T.C. 1004; Tennant v. M.N.R., [1996] 1 S.C.R. 305.  By LeBel J.  Referred to:  Singleton v. Canada, [2001] 2 S.C.R.
+1046, 2001 SCC 61.  Statutes and Regulations Cited  Income
+Tax Act, R.S.C. 1985, c. 1 (5th Supp .), ss. 9 ,
+18(1) (b), 20(1) (c)(i), 85 , 96 .  Supreme Court Act, R.S.C. 1985, c. S-26, s. 47 .   Authors Cited  Driedger, Elmer A. Construction
+of Statutes, 2nd ed. Toronto: Butterworths, 1983.  Krishna, Vern. The Fundamentals
+of Canadian Income Tax, 6th ed. Scarborough, Ont.: Carswell, 2000.  APPEAL from a judgment of the Federal Court of Appeal
+(1999), 240 N.R. 70, 99 D.T.C. 5153, [1999] 3 C.T.C. 601, [1999] F.C.J. No. 402
+(QL), affirming a decision of the Federal Court, Trial Division (1997), 139
+F.T.R. 241, 98 D.T.C. 6045, [1997] F.C.J. No. 1707 (QL), affirming a decision
+of the Tax Court of Canada, 93 D.T.C. 1351, [1993] 2 C.T.C. 2494, [1993] T.C.J.
+No. 1 (QL), dismissing the plaintiffs’ appeal from the reassessment made under
+the Income Tax Act  for the 1981-1985 taxation years.  Appeal allowed.  Guy Du Pont,
+François Barette and Robert Raizenne, for the appellants.  Pierre Cossette and
+Sophie-Lyne Lefebvre, for the respondent.  The judgment of Gonthier, Iacobucci, Major,
+Bastarache, Binnie and Arbour JJ. was delivered by  Iacobucci J. –  I.  Introduction  1                                  
+In this appeal, we are asked to decide whether interest charges incurred
+with respect to money the appellants borrowed to purchase shares in two foreign
+companies are deductible from their income from other sources pursuant to s.
+20(1) (c)(i) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .).  2                                  
+The appeal was heard at the same time as Singleton v. Canada,
+[2001] 2 S.C.R. 1046, 2001 SCC 61, reasons in which are being released
+concurrently herewith.  The main issue in both cases is the same:  whether the
+money borrowed by the taxpayers was “used for the purpose of earning income
+from a business or property” within the meaning of s. 20(1) (c)(i) of the
+Income Tax Act .  However, the resolution of this issue requires a
+characterization of both the “use” of borrowed funds and the “purpose” of the
+use (see Bronfman Trust v. The Queen, [1987] 1 S.C.R. 32, at p. 46), and
+it is at this point that the inquiry in the two appeals diverges.  In Singleton,
+the Court is asked to characterize the “use” of the borrowed funds, whereas in
+the present appeal we are primarily concerned with the proper characterization
+of the taxpayer’s “purpose” in using the borrowed money.  3                                  
+In my view, the requisite use and purpose were present in the
+circumstances of this case, and the requirements for interest deductibility
+under s. 20(1) (c)(i) were met.  Consequently, I would allow the appeal
+for substantially the same reasons given by Létourneau J.A. in dissent at the
+Federal Court of Appeal.  II.  Facts  A.  The
+Companies 4                                  
+The two companies at issue in this case, Justinian Corporation S.A.
+(“Justinian”) and Augustus Corporation S.A. (“Augustus”), operated investment
+funds that were carefully structured to avoid the application of the Foreign
+Accrual Property Income rules (the “FAPI” rules) and to provide other tax
+advantages to investors such as deferral of taxes and the conversion of income
+into capital gains.  It was the policy of Justinian and Augustus (together the
+“Companies”) to invest in debt-securities and reinvest almost all profits, 
+retaining only a relatively small portion for the purpose of dividend
+distribution.  In the eight years the appellants held shares in the Companies,
+they received approximately $600,000 in dividends, but incurred approximately
+$6  million in interest charges.  After the FAPI rules were amended to
+eliminate the tax advantages of these investment funds, the appellants disposed
+of their shares and earned capital gains of approximately $9.2 million.  5                                  
+By way of background, it is useful to outline the taxation
+environment within which the Companies were set up.  A document prepared in
+September 1976 by the Montreal law firm, Verchère & Gauthier, entitled
+“Memorandum Respecting the Establishment of a Non-Resident Investment
+Organisation for Canadian Investors”, explained that in 1976 the FAPI rules
+were implemented to eliminate some foreign vehicles for tax deferral and
+savings, such as foreign-based family investment corporations or trusts.  Under
+the new rules, passive income of closely held foreign holding companies and
+trusts was attributed to Canadian shareholders or beneficiaries in the year it
+was earned, even if not distributed.  However, it remained open to Canadians to
+invest in widely held foreign investment vehicles without incurring current
+taxation on reinvested income provided that the interest of the Canadian
+investor was less than 10 percent.  The Companies were conceived, and their
+operations planned, in light of these Canadian income tax laws and the proposal
+for a new investment vehicle contained in the aforementioned memorandum.  6                                  
+For our purposes, the Companies can be treated as essentially the same
+entity.  Both were incorporated in Panama in 1977, and operated from
+headquarters in the Bahamas.  Therefore, as non-residents of Canada, during the
+material times, the income of the Companies was not taxable under the Income
+Tax Act .  The business activities of the Companies consisted of investing
+in Canadian and US withholding tax-exempt debt securities or fixed income
+securities.  In order to circumvent the FAPI rules, the Companies’ constituting
+documents restricted the acquisition and redemption of shares so that no one
+investor could hold more than a  9.9 percent share interest in the Companies.  7                                  
+A 1977 document prepared by Verchère & Gauthier, entitled
+“Memorandum Respecting the Formation and Operation of the Altanational Bond
+Fund” summarized the tax features of an investment in what became the Companies
+in this way:  a)    the Fund would not be subject to any
+Canadian income tax either with respect to interest income or gains on its
+sales of Fund assets;  b)    the Canadian shareholders would not be
+subject to any income tax with respect to their investment in the Fund except
+to the extent of dividends received or proceeds of disposition of their shares;  c)    proceeds of dispositions of the shares by
+the Canadian shareholders, whether by way of sale or redemption, would give
+rise to taxation as capital gains.  8                                  
+The Companies’ Explanatory Memoranda set out their investment strategy
+and dividend policy.  Initially, in 1977, the Companies’ strategy was to invest
+in debt securities and “accumulate earnings for reinvestment”.  The dividend
+policy granted the Boards of Directors a broad discretion to declare and pay a
+dividend at any time if that was in the best interests of the Companies and
+their shareholders.  In 1978, the Companies’ strategy was modified slightly to
+“accumulate the major portion of its earnings for reinvestment”.  Furthermore,
+the dividend policy was changed to indicate that “in each year that the Fund
+has earnings it is anticipated that the Board of Directors of the Fund will
+declare and pay a dividend to shareholders of some portion of the Fund’s
+earnings”.  By 1981, the dividend policy reflected the practice of the
+Companies since 1977.  It provided that, “in the past, it has been the policy
+of the Board of Directors of the Fund to declare and pay a dividend to
+shareholders for years in which the Fund has earnings, and it is anticipated
+that the Board of Directors will continue to follow this policy”.  9                                  
+In fact, beginning in December 1978, the Companies did declare an annual
+dividend of US$1 per share for each year of their existence.  B.  The
+Investments  10                              
+In addition to the tax advantages presented, an investment in the
+Companies was made attractive by the fact that the funds were managed by a Mr.
+Ronald Meade, whose expertise and success in this area was renowned.  One of
+the investors who became interested in the Companies was a businessman and real
+estate developer named Irving Ludmer.  Mr. Ludmer was the President and sole
+shareholder of the corporate appellant, Ludco Enterprises Ltd. (“Ludco”).  He
+is also the father of the individual appellants in this case (the “Ludmer
+children”).  Mr. Ludmer was introduced to the opportunity to invest in the
+Companies by a former business colleague named Arnold Steinberg.  Mr. Steinberg
+had been a client of Mr. Meade and communicated to Mr. Ludmer his confidence
+that an investment in the Companies would be worthwhile.  11                              
+Between September 1977 and June 1979, Mr. Ludmer entered into five
+separate transactions whereby he purchased shares in the Companies on behalf of
+Ludco and the Ludmer children.  In October 1977, the Ludmer children acquired a
+total of 10,000 shares of Justinian at US$100 per share.  In July 1978, they
+doubled their holdings.  The total acquisition cost of their investment was
+$2.2 million.  In July and December 1978, Ludco invested a total of $2.3
+million in Augustus.  Approximately eighty percent of these four investments
+were financed with funds borrowed from Canadian chartered banks in different
+loans at floating rates of prime plus 1 percent or 3/4 percent.  The carrying
+cost of the appellants’ loans increased from about 10 percent in late 1977,
+through 14 percent in 1979 to a peak of 20 percent in early 1981 before
+stabilizing at approximately 12 percent in 1983 until the disposition of their
+shares in 1985.  In the fifth of the appellants’ transactions, in June 1979
+Ludco invested $3 million in Justinian.  All the funds for this acquisition
+were borrowed through a long-term mortgage on a Ludco-owned shopping centre
+property with a fixed interest rate of 11.5 percent.  In the result, the appellants
+invested approximately $7.5 million to acquire shares in the Companies, having
+borrowed a total of $6.5 million to finance their acquisitions.  12                              
+Mr. Ludmer testified at trial and explained the appellants’ reasons for
+and expectations in investing in the Companies.  He sought no professional
+advice before deciding to invest.  His decision was driven principally by Mr.
+Meade’s previous performance, but other factors included the tax advantages and
+rumours concerning foreign exchange controls.  Mr. Ludmer also read the
+dividend policy section of the Explanatory Memorandum and anticipated the
+receipt of dividend income.  Mr. Ludmer stated clearly that the appellants
+would not have invested in the Companies with borrowed funds if he had known
+that interest costs were not deductible from income.   C.  The
+Rollover  13                              
+On May 12, 1983, the appellant Ludco disposed of a group of  investment
+assets, including the shares in the Companies, to 2154-7203 Québec Inc., a
+wholly owned subsidiary of Ludco.  This disposition was done in accordance with
+the rollover provisions in s. 85 of the Act.  The assets were disposed of for
+their fair market value of $12,685,000.  Ludco received as consideration for
+the disposition both interest earning and non-interest earning assets. 
+Specifically, Ludco received  two non-interest bearing notes (one for
+$1,780,000 and the other for $5,600,000) totalling $7,380,000, a promissory
+note in the principal amount of $605,000 and bearing interest at the prime rate
+of the Mercantile Bank of Canada plus 1 percent, and 94 Class B preferred
+shares of 2154-7203 Québec Inc. providing an annual fixed dividend of 9 percent
+and a redemption value of $4,700,000.  14                              
+At the time of the disposition, the market value of the shares in the
+Companies totalled $8,645,715,  Ludco’s outstanding debt attributable to the
+shares in the Companies totalled $4,800,000, and the new income-producing
+assets received as consideration in the rollover totalled $5,305,000.  15                              
+On the day the rollover occurred, Ludco pledged the 94 Class B preferred
+shares to Ludco’s parent company, 109395 Canada Inc., to guarantee all
+indebtedness owing by Ludco to its parent company.  At the same time, Ludco
+pledged the non-interest bearing promissory note of $1,780,000 to the
+Mercantile Bank of Canada as security for the loan used to purchase the shares
+of the Companies.  16                              
+On September 6, 1985, the non-interest bearing notes were exchanged for
+Class D preferred shares of 2154-7203 Québec Inc. providing annual dividends of
+8 percent.  D.  The
+Share Redemption and the Tax Consequences  17                              
+In 1984, the FAPI rules were amended to discourage the type of off-shore
+investment at issue in this case by eliminating the tax benefits and advantages
+it generated.  These amendments, known as the “FAPI  amendments”, led to the
+winding up of the Companies’ businesses.  18                              
+In 1985, upon the coming into force of the FAPI amendments, the
+taxpayers disposed of their shares and realized a capital gain of $9.24
+million.  Over the eight years during which the shares had been held by the
+appellants, they received some $600,000 in dividends.  Over the same period
+they incurred interest costs of $6 million.  19                              
+For the taxation years 1981-1985, the appellants deducted their interest
+costs against other reported income pursuant to s. 20(1) (c)(i) of the Income
+Tax Act .  In 1986 and 1987, the Minister of National Revenue reassessed the
+appellants and disallowed those deductions.  The Minister took the position that
+the amount borrowed had not been used “for the purpose of earning income from a
+business or property” as stipulated in s. 20(1) (c)(i); rather the real
+purpose of the investment was to defer taxes and convert income into capital
+gains.  20                              
+Both the documentary evidence and the testimony of Revenue Canada
+personnel indicated that Revenue Canada’s policy was to allow the deduction of
+interest on money borrowed to purchase shares even if no dividend was paid to
+the investor.  In particular, written statements of Revenue Canada policy
+indicated that taxpayers could deduct interest paid in respect of funds used to
+purchase shares that were precluded from paying taxable dividends, just as they
+could shares in speculative stock that did not actually realize income.  21                              
+The Tax Court of Canada confirmed the Minister’s reassessments and
+disallowed the deduction.  The Federal Court, Trial Division, and a majority of
+the Federal Court of Appeal also disallowed the deduction.  Létourneau J.A., in
+dissent, would have allowed the deduction.  III.  Relevant
+Statutory Provisions  22                              
+Section 20(1) (c)(i) of the Income Tax Act, R.S.C. 1985, c.
+1 (5th Supp .), provides:  20. (1) Notwithstanding paragraphs 18(1)(a),
+(b) and (h), in computing a taxpayer’s income for a taxation year
+from a business or property, there may be deducted such of the following
+amounts as are wholly applicable to that source or such part of the following
+amounts as may reasonably be regarded as applicable thereto:                                                                     . . .  (c) an amount paid in the year or payable in respect of the year
+(depending on the method regularly followed by the taxpayer in computing the
+taxpayer’s income), pursuant to a legal obligation to pay interest on  (i) borrowed money used for the purpose of earning income from a
+business or property (other than borrowed money used to acquire property the
+income from which would be exempt or to acquire a life insurance policy),                                                                     . . .  or a reasonable amount in respect thereof, whichever is the lesser; IV.  Judgments
+Below  A.  Tax
+Court of Canada, 93 D.T.C. 1351  23                              
+In determining whether the interest charges were deductible in this
+case, Tremblay J.T.C.C. interpreted the term “income” in s. 20(1) (c)(i)
+to mean profit or net income.  He reviewed the evidence in detail and found
+that the appellants’ interest expenses far exceeded their dividend earnings,
+both actual and anticipated.  Accordingly, he held that the appellants did not
+have a reasonable expectation of earning net dividend income from their investment,
+and hence the interest charges in question were not deductible.  B.  Federal
+Court, Trial Division, 98 D.T.C. 6045  24                              
+An appeal from the decision of the Tax Court of Canada was heard by way
+of trial de novo.  Lutfy J. interpreted s. 20(1) (c)(i) as
+requiring a reasonable expectation of net income before interest deductibility
+could be triggered under that provision.  After a comprehensive review of the
+evidence, Lutfy J. accepted that, at the time of their initial investments in
+the Companies, the appellants did have a reasonable expectation of receiving
+dividends.  However, they never expected their dividend income to exceed their
+interest expenses.  Moreover, after reviewing the case law, Lutfy J. concluded
+that in order to meet this requirement the appellants must satisfy the court
+that their bona fide or true purpose in making the investments at issue
+was to earn net income.  Instead, Lutfy J. concluded that the appellants’ true
+purpose was to defer taxes and convert income into capital gains.  Therefore,
+Lutfy J. dismissed the appeal and confirmed the Minister’s reassessment.  C.  Federal
+Court of Appeal (1999), 240 N.R. 70  25                              
+I prefer to deal with the dissenting reasons of Létourneau J.A. prior to
+those of Marceau J.A. and Desjardins J.A. since the latter two often refer to
+the position advanced by Létourneau J.A. in their reasons.  1.  Létourneau J.A. (Dissenting)  26                              
+Létourneau J.A., in dissent, analysed the arguments respecting s. 20(1) (c)(i)
+in two parts: first, the requisite intention to earn income, and second, the
+assertion that the term “income” refers to net income or profit.  In regard to
+the requisite intention to earn income, Létourneau J.A. reviewed the case law
+and acknowledged that courts have adopted a bona fide or true purpose
+test to determine whether interest charges are deductible under s. 20(1) (c)(i). 
+He noted, however, that a difficulty arises in the case of an investment in the
+form of shares or debt securities because of the fact that such an investor is
+always pursuing a dual purpose.  In resolving this difficulty, Létourneau J.A.
+rejected the introduction of a dominant purpose test into s. 20(1) (c)(i)
+as being unsupported by the text of the Act, contrary to the objective of the
+provision and the evidence of Parliamentary intention and likely to create
+uncertainty and adversely affect the business community.  Instead, he concluded
+that it is sufficient for the investor to have a reasonable expectation of
+income when investing borrowed money. 27                              
+Létourneau J.A. also rejected the proposition that “income” in s. 20(1) (c)(i)
+refers to net income or profit.  In his view, to the extent that the purpose of
+the use of the borrowed amount was to acquire or increase capital for the
+purpose of gross income, the essential condition of s. 20(1) (c)(i) is
+met.  28                              
+In respect of the s. 85  rollover of Ludco’s shares in the Companies,
+Létourneau J.A. held that the acquisition of the taxable income-producing
+replacement property can be traced to the entire amount of the balance of the
+loan at the time of the transfer.  Therefore, the appellant Ludco did not lose
+the benefit of the interest deduction when it replaced its original source of
+income with another source that also generated taxable income.  Accordingly,
+Létourneau J.A. would have allowed the appeal and permitted the deduction of
+interest charges in this case.  2.  Desjardins J.A.  29                              
+After noting that the case law refers to the taxpayer’s real or true
+purpose in matters of interest deductibility under s. 20(1) (c)(i),
+Desjardins J.A. agreed with Létourneau J.A.’s rejection of a dominant purpose
+test.  Furthermore, she stated that she shared Létourneau J.A.’s views that a
+taxpayer need only have had a reasonable expectation of income at the moment
+the investment was made, and that the borrowed money must have been used to
+acquire property for the purpose of deriving gross, not net, income.  However,
+Desjardins J.A. went on to find that the evidence in this case clearly
+established that the appellants’ real purpose when they borrowed the money was
+to make capital gains.  She held that because receiving dividends was not the
+real objective of the appellants’ investments in the Companies, the interest
+paid is not deductible under s. 20(1) (c)(i).  3.  Marceau J.A.  30                              
+Marceau J.A. admitted to having some difficulty with the introduction of
+a dominant purpose test into s. 20(1) (c)(i).  However, in his view
+Parliament clearly intended for interest deductibility to be triggered only
+where the taxpayer’s actual or true intention was to earn income.  In addition,
+it was Marceau J.A.’s view that the trial judge made a finding of fact that the
+appellants’ true purpose in investing in the Companies as structured was to
+defer tax and transform the income into capital gains.  In his view, this
+finding of fact is not contradicted by the evidence and therefore is not
+subject to appellate interference.  Accordingly, Marceau J.A. concluded that
+the statutory requirements for the deduction of interest were not met in this
+case and that the Minister’s reassessment should be upheld.  V.  Issues
+and Submissions of the Parties  31                              
+1.    What is the legal test for interest deductibility under s. 20(1) (c)(i)?  2.    Are the interest costs incurred by the
+appellants deductible in this case?   3.    Should special costs be awarded in this
+case?  32                              
+The appellants submit that the lower courts erred in two ways: first, by
+introducing a dominant or true purpose test into s. 20(1) (c)(i) and,
+second, by interpreting the term “income” in that provision to mean net income
+or profit.  The appellants state that these errors lead to an interpretation of
+s. 20(1) (c)(i) that is impractical and contrary to the plain meaning and
+objective of the provision.  The appellants argue that the use of the borrowed
+money in this case complies with all of the requirements expressed in s. 20(1) (c)(i)
+and, in particular, with the requirement that the borrowed money was used for
+the purpose of earning income.  They also seek special costs for what they
+characterize as an abuse of Revenue Canada’s assessment power in this case.  33                              
+The respondent submits that in order for interest charges to be
+deductible it must be the taxpayer’s actual, true or bona fide purpose
+to use the funds to earn income and the taxpayer must have a reasonable
+expectation that the borrowing transaction would yield net income.  The
+respondent argues that, in the present context, the trial judge’s
+identification of the appellants’ true purpose was a finding of fact supported
+by the evidence and therefore not subject to appellate interference.  In the
+result, she submits that the interest deductions at issue in this case do not
+meet the statutory requirements of s. 20(1) (c)(i).  The respondent also
+argues that, even if this Court concludes that the interest charges associated
+with the initial investments are deductible, Ludco lost the ability to deduct
+interests charges when it rolled over its shares in the Companies.  The
+respondent submits that during the rollover transaction there was a commingling
+of funds and that Ludco failed to meet its onus to trace the borrowed funds to
+a current eligible use.  Finally, the respondent argues that there should be no
+award of special costs in this case as there is no evidence of misconduct by
+the respondent in connection with the litigation.  VI.  Analysis  A.  The
+Preliminary Issue: Fact or Law?  34                              
+As a preliminary matter, it was argued that the trial judge made a
+finding of fact when he determined that the appellants’ true purpose in making
+the investments at issue was not to earn income but to defer taxes and acquire
+capital gains.  It was further argued that this Court is prevented from
+revisiting the trial judge’s finding in this regard by the principle that,
+absent a palpable and overriding error, findings of fact made at trial are not
+subject to appellate court interference.  However, whether or not a taxpayer’s
+purpose in making an investment falls within the ambit of s. 20(1)(c)(i)
+of the Act is properly viewed as a question of mixed fact and law.  For the
+reasons set out below, the main issue in this appeal is to determine and apply
+the proper test under s. 20.  That is a question of law.  Moreover, in my view,
+with respect, the trial judge did not apply the correct legal test to determine
+the appellants’ purpose in this case.  Therefore, it is open to this Court to
+interfere with the finding of the trial judge in this regard.  35                              
+The identification of the correct legal test in this case centres on a
+question of statutory interpretation.  As a result, before discussing the legal
+test for interest deductibility under s. 20(1) (c)(i), and whether
+interest costs are deductible in this case, it may be helpful to review briefly
+the principles of statutory interpretation that apply in this case.  B.  Principles
+of Statutory Interpretation  36                              
+The modern rule of statutory interpretation was put succinctly by E. A.
+Driedger in Construction of Statutes (2nd ed. 1983), at p. 87:  Today there is only one principle or approach,
+namely, the words of an Act are to be read in their entire context and in their
+grammatical and ordinary sense harmoniously with the scheme of the Act, the
+object of the Act, and the intention of  Parliament. . . .  37                              
+This passage from Driedger “best encapsulates” the preferred
+approach to statutory interpretation: Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1 S.C.R. 27, at paras. 21 and 23.  This
+is the case for the interpretation of any statute, and it is noteworthy that
+Driedger’s famous passage has been cited with approval by our Court on numerous
+occasions both in the non-tax and in the tax context: for the
+latter, see Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, at p. 578, per Estey J.;  Symes v.
+Canada, [1993] 4 S.C.R. 695, at p. 744, per Iacobucci J., and at p.
+806, per L’Heureux-Dubé J.; Canada v. Antosko, [1994] 2 S.C.R.
+312, at p. 326; Québec (Communauté urbaine) v. Corp. Notre-Dame de
+Bon-Secours, [1994] 3 S.C.R. 3, at p. 17; Friesen v. Canada, [1995]
+3 S.C.R. 103, at para. 10, per Major J.; Schwartz v. Canada,
+[1996] 1 S.C.R. 254, at para. 56, per La Forest J.; Alberta (Treasury
+Branches) v. M.N.R., [1996] 1 S.C.R. 963, at para. 14, per Cory J.; 65302
+British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para. 5, per
+Bastarache J., and at para. 50, per Iacobucci J.; and Will-Kare
+Paving & Contracting Ltd. v. Canada, [2000] 1 S.C.R. 915, 2000 SCC 36,
+at para. 32, per Major J., and at para. 50, per Binnie J.  38                              
+Furthermore, when interpreting the Income Tax Act  courts
+must be mindful of their role as distinct from that of Parliament.  In the
+absence of clear statutory language, judicial innovation is undesirable: Royal
+Bank of Canada v. Sparrow Electric Corp., [1997] 1 S.C.R. 411, at para.
+112.  Rather, the promulgation of new rules of tax law must be left to
+Parliament: Canderel Ltd. v. Canada, [1998] 1 S.C.R. 147, at para. 41.  As McLachlin J. (as she then was) recently explained in Shell
+Canada Ltd. v. Canada, [1999] 3 S.C.R. 622, at para. 43:  The Act is a complex statute through which Parliament
+seeks to balance a myriad of principles.  This Court has consistently held that
+courts must therefore be cautious before finding within the clear provisions of
+the Act an unexpressed legislative intention. . . .  Finding
+unexpressed legislative intentions under the guise of purposive interpretation
+runs the risk of upsetting the balance Parliament has attempted to strike in
+the Act. [Citations omitted.]  See also Antosko, supra, at p. 328.  Having said this,
+it is within the jurisdiction of courts to interpret the rules enacted by
+Parliament, including the elucidation of otherwise undefined concepts such as
+“income” or “profit”: see Canderel, supra, at para. 42. 39                              
+In addition, given that the Income Tax Act  has many specific
+anti-avoidance provisions and rules, it follows that courts should not be quick
+to embellish the provisions of the Act in response to concerns about tax
+avoidance when it is open to Parliament to be precise and specific with respect
+to any mischief to be prevented: Neuman v. M.N.R., [1998] 1 S.C.R. 770,
+at para. 63, per Iacobucci J.  To do otherwise would be to fail to give
+appropriate weight to the well-established principle that, absent a provision
+to the contrary, taxpayers are entitled to arrange their affairs for the sole
+purpose of achieving a favourable position regarding taxation: see Stubart,
+supra, at p. 540, per Wilson J., and at p. 557, per Estey
+J.; Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, at para. 8, per
+McLachlin J.; Duha Printers (Western) Ltd. v. Canada, [1998] 1 S.C.R.
+795, at para. 88, per Iacobucci J.;  Neuman, supra, at
+para. 63, per Iacobucci J.; Shell Canada, supra, at para.
+46, per McLachlin J.  40                              
+With these principles in mind, I turn to consider the legal test for
+interest deductibility under s. 20(1) (c)(i).  C.  The
+Legal Test for Interest Deductibility Under Section 20(1)(c)(i)  (1)   Introduction  41                              
+The deductibility of interest under s. 20(1) (c)(i) of the Income
+Tax Act  has given rise to considerable litigation and has been the topic of
+much legal commentary, as pointed out by the parties.  Many of the features of
+the interest deductibility provision are matters of settled law.  However, as
+explained below, the appeal at bar raises two novel issues related to the
+concepts of “purpose” and “income” contained within s. 20(1) (c)(i).  42                              
+Recently, in Shell Canada, supra, at para. 28, McLachlin
+J., writing for the Court, described the four elements of s. 20(1) (c)(i)
+that must be present before interest can be deducted:   43                              
+The first two elements are not in dispute here.  As noted above, the
+focus of the inquiry in this case is clearly on the third element, namely,
+whether the borrowed money was used for the purpose of earning non-exempt
+income from business or property.  44                              
+In this connection, Dickson C.J., writing for the Court in Bronfman
+Trust, supra, closely analysed the third element of the interest
+deductibility provision and classified the various possible uses of borrowed
+money as: eligible and ineligible, original and current, and direct and
+indirect.  Dickson C.J. outlined the inquiry into the third element at pp.
+45-46:    45                              
+In short, a determination of whether borrowed money has been put to an
+eligible use requires a characterization of the use of the borrowed funds and a
+characterization of the taxpayer’s purpose in using the funds in a particular
+manner.  Dickson C.J. went on to deny the interest deduction in that case on the
+ground that, properly characterized, the taxpayer’s “use” of borrowed funds was
+a directly ineligible one.  Thus, the law relating to the matter of the
+taxpayer’s “purpose” was not fully elaborated on in that case.  46                              
+In the case at bar, and in contrast to Singleton, supra,
+there is no dispute as to the particular use that the borrowed funds were put
+to:  they were directly used to purchase shares in the Companies.  Rather, the
+focus of the inquiry is on whether the taxpayers’ purpose in so using
+the funds was to earn income within the meaning of s. 20(1) (c)(i). 
+Consequently, in the present appeal, the Court is asked for the first time to
+explicate the law on two of the central concepts in s. 20(1) (c)(i):
+“purpose” and “income”.  (2)   When is Borrowed Money “Used for the
+Purpose of Earning Income” Within the Meaning of Section 20(1) (c)(i)?  47                              
+In this case, three different tests have been advanced for determining
+whether the requisite income earning purpose is present; they are:  the bona
+fide purpose test, the dominant purpose test, and the reasonable
+expectation of income  test.  In several decisions, including those of the
+lower courts in the case at bar,  courts have simply adopted the bona fide
+purpose test on the strength of some obiter dicta by Dickson C.J. in Bronfman
+Trust, supra.  48                              
+It is worth repeating what Dickson C.J. in Bronfman Trust, supra,
+stated on this point.  At p. 54, the former Chief Justice explained:   49                              
+It appears to me that Dickson C.J.’s suggestion that a bona fide
+purpose test should apply was made as a passing comment and did not result from
+an analysis of the text of the provision.  In my opinion, Dickson C.J.’s
+comments fall short of elevating the bona fide purpose test to a rule of
+law.  Indeed, as discussed below, the importation of the bona fide
+purpose test into s. 20(1) (c)(i) is not supported by the principles of
+statutory interpretation outlined above, especially as applied in our recent
+tax law jurisprudence.  50                              
+With respect to the plain meaning of s. 20(1) (c)(i), the
+only express requirement related to “purpose” is that borrowed money must have
+been “used for the purpose of earning income”.  Apart from the use of the
+definite article “the”, which on closer analysis is hardly conclusive of the
+issue before us, nothing in the text of the provision indicates that the
+requisite purpose must be the exclusive, primary or dominant purpose, or that
+multiple purposes are to be somehow ranked in importance in order to determine
+the taxpayer’s “real” purpose.  Therefore, it is perfectly consistent with the
+language of s. 20(1) (c)(i) that a taxpayer who uses borrowed money to
+make an investment for more than one purpose may be entitled to deduct interest
+charges provided that one of those purposes is to earn income.  51                              
+In this connection, the adjectives that have been heretofore used by
+courts to characterize the requisite purpose in s. 20(1) (c)(i), such as
+“bona fide”, “actual”, “real” or “true”, are to my mind ultimately
+useful only when describing whether the transaction at issue
+was a mere sham or window dressing designed to obtain the benefit of interest
+deductibility.  Absent a sham or window dressing or other vitiating
+circumstances, a taxpayer’s ancillary purpose may be nonetheless a bona fide,
+actual, real and true objective of his or her investment, equally capable of
+providing the requisite purpose for interest deductibility in comparison with
+any more important or significant primary purpose.  52                              
+This approach is consistent with that taken by this Court in the context of s. 96 of the Act, the partnership losses
+deductibility provision.  In order to deduct  partnership losses, a taxpayer
+must establish the existence of a valid partnership by showing an intention to
+carry on business in common with a view to profit.  In Continental Bank Leasing
+Corp. v. Canada, [1998] 2 S.C.R. 298, and Spire Freezers Ltd. v. Canada,
+[2001] 1 S.C.R. 391, 2001 SCC 11, the taxpayers’ primary intention in joining a
+partnership was to acquire losses deductible against income from other
+sources.  However, this Court held that a taxpayer’s overriding
+intention is not determinative of whether the requisite intention to form a
+partnership is present.  Rather, it will be sufficient for a taxpayer to show
+that there was an ancillary intention that meets the requirements of a valid
+partnership: see also Backman v. Canada, [2001] 1 S.C.R. 367, 2001 SCC 10.  53                              
+There are other compelling reasons to reject both the bona fide
+and dominant purpose tests proposed in this case.  I note that, in this
+respect, Major J. has reached a similar conclusion in Singleton, supra,
+and I agree with him.  Reading such tests into s. 20(1) (c)(i)
+would require a rewriting of the provision to introduce a concept of degree,
+exclusivity, or primacy in the taxpayer’s purposes.  Presumably, a court would
+take such an approach in response to concerns over tax avoidance.  However,
+this Court has repeatedly stated that in matters of tax law, a court should
+always be reluctant to engage in judicial innovation and rule making: see Sparrow
+Electric, supra; Canderel, supra; and Shell Canada,
+supra.  Furthermore, the application of any such test is impractical in
+the context of investments in securities.  It would open the door to many
+reassessments and in each case impose on taxpayers a tremendous burden to justify
+that their real or dominant purpose was to earn income. 54                              
+Having determined that an ancillary purpose to earn income can provide
+the requisite purpose for interest deductibility, the question still remains as
+to how courts should go about identifying whether the requisite purpose of
+earning income is present.  What standard should be applied?  In the
+interpretation of the Act, as in other areas of law, where purpose or intention
+behind actions is to be ascertained, courts should objectively determine the
+nature of the purpose, guided by both subjective and objective manifestations
+of purpose: see Symes, supra, at p. 736; Continental Bank,
+supra, at para. 45; Backman, supra, at para. 25; Spire
+Freezers, supra, at para. 27.  In the result, the requisite test to
+determine the purpose for interest deductibility under s. 20(1) (c)(i) is
+whether, considering all the circumstances, the taxpayer had a reasonable
+expectation of income at the time the investment was made.  55                              
+Reasonable expectation accords with the language of purpose in the
+section and provides an objective standard, apart from the taxpayer’s
+subjective intention, which by itself is relevant but not conclusive.  It also
+avoids many of the pitfalls of the other tests advanced and furthers the policy
+objective of the interest deductibility provision aimed at capital accumulation
+and investment, as discussed in the next section of these reasons.  56                              
+In conclusion, of the three tests proposed in this case, in my view only
+the reasonable expectation of income test is consistent with the wording of the
+section in light of all of the applicable principles of statutory
+interpretation.  In this respect, I agree with both Létourneau and Desjardins
+JJ.A., who formed the majority at the Federal Court of Appeal on this point.  (3)   What is Income for the Purposes of
+Section 20(1) (c)(i)?  57                              
+The Income Tax Act  does not define the term “income”.  The Act
+speaks of “net income”, “taxable income”, and income from different sources,
+but it neither identifies nor describes the legal characteristics of “income”;
+it only speaks of what is to be included or excluded from income.  Similarly,
+tax theorists have proposed many different definitions of “income”
+distinguishable by their varying degrees of inclusiveness.  The common feature
+of all the definitions of income, whether derived from tax law, economic theory
+or the dictionary, is that “income” is a measure of gain: see V. Krishna, The
+Fundamentals of Canadian Income Tax (6th ed. 2000), at pp. 97-100.  58                              
+In the case at bar, both the Tax Court of Canada and the Federal Court,
+Trial Division, ostensibly applied this Court’s decision in Moldowan v. The
+Queen, [1978] 1 S.C.R. 480, in equating “income” with “profit”.  However,
+that case was concerned not with the meaning of the term “income” as such, but
+with identifying the source of income in play and, more specifically, with
+differentiating between business activities as distinct from personal or hobby
+activities.  It is clear that Moldowan, supra, does not stand for
+the absolute proposition that “income” necessarily means “profit”.  59                              
+Because it is left undefined in the Act, this Court must apply the
+principles of statutory interpretation to discern what is meant by “income” in
+the context of s. 20(1) (c)(i).  The plain meaning of s. 20(1) (c)(i)
+does not support an interpretation of “income” as the equivalent of “profit” or
+“net income”.  Nowhere in the language of the provision is a quantitative test
+suggested.  Nor is there any  support in the text of the Act for an
+interpretation of “income” that involves a judicial assessment of sufficiency
+of income.  Such an approach would be too subjective and certainty is to be
+preferred in the area of tax law.  Therefore, absent a sham or window dressing
+or similar vitiating circumstances, courts should not be concerned with the
+sufficiency of the income expected or received.  60                              
+As noted by Létourneau J.A., Bowman J.T.C.C. (as he then was) lucidly
+dealt with the argument that the word “income” in s. 20(1) (c)(i)
+necessarily means “profit” in Mark Resources Inc. v. The Queen, 93
+D.T.C. 1004, at p. 1015.  Most importantly, Bowman J.T.C.C. dismissed that
+argument at p. 1015 in these terms:  Interest on money that is borrowed to invest in common shares, or
+property, or a business or corporation is deductible because it is laid out to
+earn amounts that must be included in the computation of
+income.  Amounts of income such as dividends which must be included
+in income under paragraphs 12(1)(j) and (k) do not cease to be
+income merely because they are exceeded by the cost of their production.  61                              
+I agree.  Indeed, when one looks at the immediate context in which the
+term “income” appears in s. 20(1) (c)(i), it is significant that within
+the provision itself the concept of “income” is used in contradistinction from
+the concept of tax-exempt income.  Viewed in this context, the term “income” in
+s. 20(1) (c)(i) does not refer to net income, but to income subject to
+tax.  In this light, it is clear that “income” in s. 20(1) (c)(i) refers
+to income generally, that is, an amount that would come into income for
+taxation purposes, not just net income.  62                              
+I am bolstered in this conclusion by the other evidence of
+Parliamentary intention.  If Parliament had intended interest to be deductible
+only in circumstances where borrowed money was used for the purpose of earning
+“net income”, it could have expressly said so.  Indeed, as noted by Létourneau
+J.A., in both 1981 and 1991,  amendments to the Act that would have restricted
+interest deductibility to circumstances where borrowed money is used for the
+purpose of making a profit were proposed but never enacted.  63                              
+Furthermore, reading “income” in s. 20(1) (c)(i) to mean income
+generally, as described above, is more consistent with the objective of the
+interest deductibility provision.  In most circumstances, ss. 9 and 18(1)(b)
+of the Act prohibit the deduction of amounts expended on account of capital. 
+Section 20(1) (c)(i) is an exception to this prohibition, designed to
+encourage the accumulation of capital which would produce income:  see Shell
+Canada, supra, at para. 28, per McLachlin J.; Tennant v.
+M.N.R., [1996] 1 S.C.R. 305, at para. 16, per Iacobucci J.;
+Bronfman Trust, supra, at p. 45, per Dickson C.J.  Thus, the
+object of s. 20(1) (c)(i) is to create an incentive to accumulate capital
+with the potential to produce income by allowing taxpayers to deduct interest
+costs associated with its acquisition.  The accumulation of income-producing
+capital is seen as desirable because it creates wealth and increases the income
+tax base.  It is clearly sufficient for the purpose of the provision that an
+investor have a reasonable expectation of gross income as described above when
+investing borrowed money.  In contrast, the incentive would be much less
+effective if the investor bore the additional burden of  establishing a
+reasonable expectation of net income or profit.  64                              
+Finally, in defining the taxpayer’s real or true purpose by emphasizing
+the relatively nominal amount of income earned in this case compared to the
+capital gains realized and interest deductions sought, the respondent
+effectively asks the Court to take an “economic realities” view of the
+investments at issue.  However, there are limits to the economic realities
+approach to the assessment of a particular transaction: see Shell Canada,
+supra, at para. 39.  In particular, a court should not place so much
+reliance on “economic realities” so as to cause it to stray from the express
+terms of s. 20(1) (c)(i) and supplement the provision with extraneous
+policy concerns that are said to form part of its purpose.  Rather, where the
+provision at issue is clear and unambiguous, the court’s duty is to simply
+apply its terms to the transaction at issue: see Shell Canada, supra,
+at para. 43, per McLachlin J.; Continental Bank, supra, at
+para. 51, per Bastarache J.; Tennant, supra, at para. 16, per
+Iacobucci J.;  Antosko, supra, at pp. 326-27 and 330, per
+Iacobucci J.; Friesen, supra, at para. 11, per Major J.; Alberta
+(Treasury Branches), supra, at para. 15, per Cory J.  65                              
+In conclusion, where a taxpayer uses borrowed money for a purpose
+yielding a reasonable expectation of income from business or property as I have
+described above, the interest charges incurred will fall within the ambit of s.
+20(1) (c)(i) and are deductible.  D.  Application
+of the Foregoing Principles: Are the Interest Charges Incurred by the       Appellants
+Deductible in this Case?  (1)  Interest Charges for Initial Investments in Shares of the
+Companies  66                              
+The question now to be determined is whether,  in using borrowed money
+to purchase shares of the Companies, the appellants had a reasonable
+expectation of income?  If the answer is affirmative, and the amount of interest
+paid was reasonable within the meaning of the provision, the interest charges
+are deductible.  67                              
+Here, the objective documentary evidence indicates that the appellants
+did have a reasonable expectation of income.  Owing to the nature of the
+investments and the Companies’ investment strategy, it was reasonable to expect
+income would be available for distribution.  In addition, given the terms of
+the dividend policy, it is clear that the appellants had a reasonable
+expectation of receiving dividends.  68                              
+Although earning income was not the principal factor that motivated  Mr.
+Ludmer to invest in the Companies, upon reading the relevant documents he did
+anticipate the receipt of dividend income.  In my view, Mr. Ludmer’s
+expectation of dividend income was reasonable.  Indeed, the judge at the
+Federal Court, Trial Division, came to the same conclusion at p. 6056.  69                              
+Furthermore, it is notable that income was actually received in the
+amount of $600,000 of dividends.  Although this amount may be small in
+comparison to the capital gains realized and the interest charges incurred,
+absent a sham or window dressing or similar vitiating circumstances (none of
+which was argued before this Court), we are not concerned with the sufficiency
+of the income expected or received.  There is no sham in this case: the
+purchase of the shares was a genuine investment.  Neither can the amount of
+dividends actually paid be properly characterized as window dressing.  Six
+hundred thousand dollars is a significant sum and there was some expert
+evidence indicating that the actual rate of return on the shares of Justinian
+was within the norm of most of the companies publicly traded on the Toronto and
+Montréal Stock Exchanges.  70                              
+I conclude that the appellants did have a reasonable expectation of
+income when they used the borrowed money to purchase shares in the Companies. 
+Therefore, the requisite purpose is present in the circumstances of this case. 
+Given that there is no dispute as to the first two elements of the interest deductibility
+provision, it only remains to show that the fourth element has been met in this
+case.  In Shell Canada, supra, at para. 34, McLachlin J.
+explained that:  The fourth element – that the amount sought to be
+deducted must be the actual amount paid or “a reasonable amount in respect
+thereof” – has not previously been the subject of comment by this Court. It is
+clear, however, from the structure of s. 20(1) (c), that the phrase
+refers to the entirety of s. 20(1) (c)(i). Therefore, the taxpayer is
+entitled to deduct the lesser of, (1) the actual amount paid or, (2) a
+reasonable amount in respect of “an amount paid . . . pursuant to a
+legal obligation to pay interest on . . . borrowed money used for the
+purpose of earning income from a business or property”. . . . Where
+an interest rate is established in a market of lenders and borrowers acting at
+arm’s length from each other, it is generally a reasonable rate:  Mohammad
+v. The Queen, 97 D.T.C. 5503 (F.C.A.), at p. 5509, per Robertson
+J.A.; Canada v. Irving Oil Ltd., [1991] 1 C.T.C. 350 (F.C.A.), at p.
+359, per Mahoney J.A.  71                              
+In this case, the appellants borrowed the money at issue from Canadian
+chartered banks at rates of between 1 percent and 3/4 percent above prime. 
+There can be no argument that such rates are reasonable within the meaning
+ascribed to that word by McLachlin J. in Shell Canada, supra. 
+Accordingly the fourth element is met in this case.  72                              
+Therefore, I conclude that the interest charges incurred in respect of
+the initial purchase of the shares are deductible under s. 20(1) (c)(i).  (2)  Interest Charges and the Rollover Investments  73                              
+It remains to be determined whether the appellant Ludco is entitled to
+deduct the interest charges incurred following the May 1983 disposition of its
+shares in the Companies to 2154-7203 Québec Inc.  74                              
+This issue is resolved primarily by the application of the principles
+set out in Tennant, supra.  In that case, the issue was under
+what conditions a taxpayer could deduct interest charges pursuant to s. 20(1) (c)(i)
+after a s. 85  rollover transaction.  The Court concluded that “it is implicit
+in the principles outlined in Bronfman Trust that the ability to deduct
+interest is not lost simply because the taxpayer sells the income- producing
+property, as long as the taxpayer reinvests in an eligible use property” (para.
+20).  The Court held at para. 25 that:  As long as the taxpayer establishes a link between the current shares,
+the proceeds of disposition of the original shares, and the money that was
+borrowed to acquire the original eligible use property, it is in keeping with
+the interest deduction provision to permit the taxpayer to continue to deduct
+the interest payments for the full amount of the original loan, regardless of
+the value or cost of the newly acquired shares.  Of course, where the taxpayer
+reinvests only a portion of the proceeds of disposition of the original
+eligible use property, then interest can only be deducted for the relevant
+portion of the loan.  Therefore, on
+the facts of this case, the appellant Ludco must establish a link between the
+Class B preferred shares and the interest-bearing note (the “current eligible
+use property”), the proceeds of disposition of the shares in the Companies (the
+“original eligible use property”) and the money that was borrowed to acquire
+the shares in the Companies.  75                              
+In this regard, Ludco’s burden of establishing the necessary linkage
+between the original eligible use and the current eligible use is apparently
+complicated by the fact that the shares in the Companies were disposed of as
+part of a group of assets and, as consideration for this group of assets, Ludco
+received some income-producing and some non-income-producing assets.  This
+Court in Bronfman Trust, supra, at pp. 45-46, indicated that as a
+general principle “[t]he onus is on the taxpayer to trace the borrowed funds to
+an identifiable use which triggers the deduction.  Therefore, if the taxpayer
+commingles funds used for a variety of purposes only some of which are eligible
+he or she may be unable to claim the deduction.”  This general principle was
+echoed in Tennant, supra, at para. 23, in the context of a s. 85 
+rollover transaction.  In that case, the Court held that “[a]s long as the
+replacement property can be traced to the entire amount of the loan, then the
+entire amount of the interest payment may be deducted.  If the replacement
+property can be traced to only a portion of the loan, then only a proportionate
+amount of the interest may be deducted.”  76                              
+However, nowhere in Tennant, supra, did the Court require
+a strict interpretation of tracing for the continuing entitlement to deduct
+interest after a rollover transaction.  Instead, as noted above, the Court
+spoke in broader terms, referring to the need to “establish a link” between the
+original and current eligible use property (para. 18).  Based upon this more
+flexible approach, I conclude that, although the shares in the Companies were
+commingled with other assets and disposed of as part of a group of assets, for
+the purposes of the interest deductibility provision, the shares in the
+Companies can be traced to any of the specific assets received by Ludco as a
+result of the rollover.  In this case, the taxpayer can trace the shares in the
+Companies to the income-producing assets.  Therefore, the appellant Ludco has
+established the required link.  77                              
+That the Class B shares were pledged by Ludco for an unrelated debt 
+does not affect the fact that these shares were received as part of the
+consideration for the s. 85  rollover.  In my view, the subsequent pledging of
+the Class B shares could only affect Ludco’s continued ability to deduct the
+interest if the effect of the pledge was to give ownership of the shares to the
+parent company.  However, the documentary evidence confirms that Ludco
+continued to be the beneficial owner of the Class B shares.  78                              
+In summary, although the appellant Ludco initially received a mix of
+income-earning and non-income-earning assets as consideration for the shares in
+the Companies, the value of the income-earning assets (or current eligible use
+property) exceeded the amount of the borrowed money.  In these circumstances,
+the income-producing replacement property can be linked to the entire amount of
+the loan and it can be said that the interest charges were “wholly applicable”
+to the source of the income.  Consequently the entire amount of the interest
+payment continued to be deductible after the rollover occurred.  E.  Should
+Special Costs Be Awarded in This Case?  79                              
+Pursuant to s. 47  of the Supreme Court Act, R.S.C. 1985, c. S-26 ,
+an order for costs is a discretionary matter for the Court.  However, I agree
+with the respondent that this is not an appropriate case for an order for
+special costs.  In general, special costs ought to be awarded only on the
+grounds of misconduct connected with the litigation or other exceptional
+circumstances.  Here, although the Crown aggressively pressed its case against
+the appellants, there is no substance to the appellants’ claims of abuse and
+misconduct and that the Crown otherwise acted improperly.  I also do not find
+any other reasons why special costs should be awarded.  VII.  Conclusion  80                              
+Accordingly, I would allow the appeal with costs throughout, set aside
+the judgment of the Federal Court of Appeal and the reassessments for the
+appellants’ 1981 to 1985 taxation years, and remit the matter back to Revenue
+Canada for reassessment in conformity with these reasons.  The following are the reasons delivered by  81                              
+LeBel J. – Subject
+to my comments on the interpretation of tax statutes in the companion case of Singleton
+v. Canada, [2001] 2 S.C.R. 1046, 2001 SCC
+61, I agree with the disposition of the
+appeal proposed by Justice Iacobucci.  The taxpayers’ appeal is well founded.  82                              
+As Iacobucci J. points out, there was undoubtedly a loophole in
+the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .).  A well-crafted piece
+of tax planning took advantage of it, but remained clearly within the four
+walls of the statute.  From the evidence, although the taxpayers intended to
+emphasize capital accumulation, they had also a purpose of gaining income. 
+Hence, they could deduct the interest paid on loans obtained to acquire
+securities.  The rollover that took place several years later did not change
+the situation.  For these reasons, I would allow the appeal, quash the judgment
+of the Federal Court of Appeal ((1999), 240 N.R. 70), set aside the assessments
+and send the matter back to Revenue Canada for reassessment in accordance with
+the judgment of our Court.  Appeal allowed with costs.  Solicitors for the appellants:  Goodman Phillips
+& Vineberg, Montréal.  Solicitor for the respondent:  The Deputy
+Attorney General of Canada, Montréal.    

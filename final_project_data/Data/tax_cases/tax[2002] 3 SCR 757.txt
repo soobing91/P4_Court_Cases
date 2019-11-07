@@ -1,0 +1,1485 @@
+R. v. Jarvis, [2002] 3 S.C.R. 757, 2002 SCC 73  Warren James Jarvis                                                                                       Appellant  v.  Her Majesty The Queen                                                                               Respondent  and  The Attorney General for Ontario, the Attorney General of Quebec and the Criminal Lawyers’ Association (Ontario)                                              Interveners  Indexed as:  R. v. Jarvis  Neutral citation:  2002 SCC 73.  File No.:  28378.  2002:  June 13; 2002:  November 21.   on appeal from the court of appeal for alberta  Income tax — Administration and enforcement — Audits and
+investigations — Whether  distinction can be drawn
+between audit and investigation under Income Tax Act — If so, 
+circumstances in which tax official’s inquiry constitutes penal investigation —
+Whether evidence obtained during audit pursuant to
+ss. 231.1(1)  and 231.2(1)  of Income Tax Act can be used to further
+investigation or prosecution of offences under s. 239(1) of the Act
+without violating taxpayer’s Charter rights — Canadian Charter of Rights and
+Freedoms, ss. 7 , 8  — Income Tax Act, R.S.C. 1985, c. 1 (5th
+Supp .), ss. 231.1 , 231.2 .  Income tax  — Administration and enforcement — Audits and
+investigations — Sections 231.1(1) 
+and 231.2(1)  of Income Tax Act  available “for any
+purpose related to administration or enforcement” of  Income Tax Act  — Whether
+“enforcement” of Income Tax Act  includes investigation and prosecution of
+offences under s. 239 of  Act — Income Tax Act, R.S.C. 1985, c. 1 (5th
+Supp .), ss. 231.1(1) , 231.2(1) , 239 .   Constitutional law — Charter of Rights  — Unreasonable search or
+seizure — Taxpayer under investigation for offences
+under s. 239  of Income Tax Act  — Whether documents
+obtained under ss. 231.1(1)  and 231.2(1)  of Income Tax Act  after
+penal investigation has commenced violate taxpayer’s right against unreasonable
+search or seizure — Canadian Charter of Rights
+and Freedoms, s. 8  — Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .),
+ss. 231.1(1) , 231.2(1) .  Constitutional law — Charter of Rights  — Exclusion of evidence — Tax
+evasion — Revenue Canada receiving information alleging that taxpayer had
+committed tax  evasion — Statements and documents obtained during inquiry by tax
+auditor pursuant to ss. 231.1(1)  and 231.2(1)  of Income Tax Act 
+transferred to investigator — Investigator obtaining further information with
+requirement letters to various banks and search warrant — Taxpayer charged with
+tax evasion — Whether evidence against taxpayer obtained in violation of his
+rights under Canadian Charter of Rights and Freedoms  — If so, whether evidence
+should be excluded — Canadian Charter of Rights and Freedoms, s. 24(2) .  Revenue Canada began an inquiry following a tip that
+the appellant taxpayer had not reported sales of his late wife’s art in his tax
+returns for the 1990 and 1991 taxation years. In February 1994, the
+auditor sent letters to the taxpayer indicating that his file had been selected
+for audit and requesting certain books and records.  The auditor visited art
+galleries and gathered enough information to determine that the tip had some
+validity.  On March 16, she obtained further information by phone from the
+taxpayer and his accountant.  On April 11, the auditor and her supervisor
+met the taxpayer to review his records. He was not cautioned. He answered
+questions, provided banking information, signed a bank authorization, and
+provided materials including records of sales and expenses related to the art. By
+late April, the auditor had obtained the additional records and information
+requested from the taxpayer and she concluded that he had grossly omitted
+revenues in the relevant returns.  On May 4,  the auditor referred her
+entire file to the Special Investigations Section of Revenue Canada, which
+began an investigation to determine whether prosecution for tax evasion was
+merited. Despite  numerous requests concerning the status of the audit, the
+auditor deliberately did not inform the taxpayer that his file had been
+referred to the investigative section.  After a review of the file,  and on the
+basis of the books and records obtained from the taxpayer at the
+April 11 meeting, the investigator determined that reasonable and
+probable grounds existed to seek a search warrant to investigate for tax
+evasion.  In November, a search warrant issued under the Criminal Code 
+authorized the searches of a Revenue Canada’s office and the respective
+residences of the  taxpayer and his accountant. In early 1995, requirement
+letters issued to various banks under s. 231.2(1)  of the Income Tax Act 
+by the investigator provided additional information.  The taxpayer was charged with tax evasion under
+s. 239 of the Act.  The trial judge held that the audit had effectively
+become an investigation as of March 16, 1994.  Since the auditor
+failed to caution the taxpayer at the April 11 meeting, the statements and
+documents gathered at that meeting were obtained in violation of his rights
+under s. 7  of the Canadian Charter of Rights and Freedoms  and
+reference to that information in the Information to Obtain A Search Warrant was
+removed. The trial judge concluded that what remained did not provide
+“reasonable grounds” for a search warrant and, as a result, the execution of
+the searches violated the taxpayer’s s. 8  Charter  rights.  He also
+concluded that the banking records obtained by way of s. 231.2(1)  in early
+1995 violated the taxpayer’s s. 8  rights.  Pursuant to s. 24(2)  of
+the Charter ,  the 1995 banking information and the evidence obtained at
+the April 11 meeting and through the searches were excluded.  The trial
+judge granted a motion for a directed verdict of acquittal. The summary
+conviction appeal judge ordered a new trial, holding that only the taxpayer’s
+statements during the April 11 meeting should have been excluded from the
+Information to Obtain and that  the search warrant otherwise had been validly
+issued. The Court of Appeal dismissed a further appeal and affirmed the order
+for a new trial.  Held:  The appeal
+should be dismissed.  Although the Income Tax Act  relies upon self-assessment and
+self-reporting, the Minister of National Revenue has broad powers for the
+administration and enforcement of the Act.  Under ss. 231.1
+and 231.2, a person authorized by the Minister has the powers to: enter a taxpayer’s place of business or place of record keeping;
+require the taxpayer and third parties to answer questions put to them; and
+require the taxpayer and third parties to furnish information and documents
+upon request. To ensure compliance with the self-reporting requirements
+of the Act, s. 239 creates offences which carry significant penalties,
+including incarceration. Section 239  bears the formal hallmarks of
+criminal legislation and, even though the Act is a regulatory statute,
+non-compliance with its mandatory provisions will in some cases lead to
+criminal charges. In prosecution thereof, the state is pitted against the
+individual in an attempt to establish culpability. To conduct an appropriately
+contextual Charter  analysis, the various regulatory and penal
+considerations must all exert some influence.   A distinction can be drawn between the audit and
+investigative powers under the Income Tax Act .  By their express
+terms, both ss. 231.1(1)  and 231.2(1)  are available for any purpose
+related to the “administration” or “enforcement” of the Act.  Although this
+wording seems broad, when read in context, these sections do not include the
+prosecution of s. 239  offences.  In particular, the existence of a prior
+authorization procedure under s. 231.3(1)  where an offence is suspected
+implies that the separate statutory inspection and requirement powers are
+unavailable for the purpose of prosecutorial investigations. A warrant under
+s. 231.3 of the Act covers generally the same ground as does the Criminal
+Code ’s s. 487  warrant. When a tax official exercises his or her
+investigative function, the parties are in an adversarial relationship because
+of the liberty interest that is at stake.  It follows that
+there must be some measure of separation between the audit and investigative
+functions.  Where the predominant purpose of an  inquiry is the
+determination of penal liability, there exists an
+adversarial relationship between the taxpayer and the state. To determine whether the predominant purpose of an inquiry
+is the determination of penal liability, one must look
+to all factors that bear upon the nature of the inquiry.  Apart
+from a clear decision to pursue a criminal investigation, no one factor is
+determinative.  Even where reasonable grounds to suspect an offence exist, it
+will not always be true that the predominant purpose of an inquiry is the
+determination of penal liability.  The following factors assist in ascertaining
+whether an inquiry’s purpose is to investigate penal liability:  (a) Did
+authorities have reasonable grounds to lay charges or could a decision have
+been made to proceed with a criminal investigation? (b) Was the general conduct
+of the authorities consistent with a criminal investigation? (c) Did the
+auditor transfer his or her file to the investigators? (d) Was the auditor’s
+conduct such that he or she was acting as an agent for the investigators? (e)
+Does it appear that the investigators intended to use the auditor as their
+agent? (f) Is the evidence relevant to taxpayer liability generally or only to
+penal liability? and, (g) Do other circumstances or factors suggest that an
+audit became a criminal investigation?  Wherever the predominant purpose of an inquiry or question is the
+determination of penal liability, all Charter  protections that are
+relevant in the criminal context must apply.  When this is the case,
+investigators must provide the taxpayer with a  proper warning. With respect to
+s. 7  of the Charter ,  the constitutional protections against
+self-incrimination prohibit tax officials  who are  investigating the offences
+from having recourse to the inspection and requirement powers under
+ss. 231.1(1)  and 231.2(1) . Rather, tax officials who exercise the
+authority to conduct such investigations must seek search warrants under
+s. 231.3 of the Act or s. 487  of the Criminal Code  in
+furtherance of their investigation.  With respect to s. 8  of the Charter ,
+taxpayers have very little privacy interest in materials they are obliged to
+keep under the Act or to produce during an audit.  Once an auditor has
+inspected or required a document under ss. 231.1(1)  and 231.2(1) , the
+taxpayer cannot be said to have a reasonable expectation that the auditor will
+guard its confidentiality.  As a consequence, there is no general rule that
+prevents auditors from passing files containing validly obtained audit
+materials to investigators.  Nor is there any reason that the CCRA cannot
+conduct parallel administrative audits and criminal investigations.  However,
+if the CCRA simultaneously conducts an administrative audit and criminal
+investigation, investigators can avail themselves only of that information
+obtained pursuant to the audit powers prior to the commencement of the criminal
+investigation.  They cannot avail themselves of information obtained pursuant
+to such powers subsequent to the commencement of the investigation into penal
+liability.  Whether an inquiry is in furtherance of an audit or a penal
+investigation is a question of mixed fact and law and is not immune from
+appellate review.  The record in this case does not support a finding that the
+auditor used her misleading tactics to obtain information from the taxpayer or
+his accountant under ss. 231.1(1)  and 231.2(1)  for the predominant
+purpose of determining the taxpayer’s penal liability under s. 239.  There
+was no investigation into penal liability prior to May 4, 1994.  Accordingly, the material that the trial
+judge excluded from the Information to Obtain A Search Warrant owing to a Charter 
+violation was in fact validly gathered pursuant to the auditor’s inspection and
+requirement powers.  Since the searches were made pursuant to a valid warrant,
+the evidence obtained during these searches should be admissible in a new
+trial.  The usage of the banking information obtained by the investigator
+pursuant to s. 231.2(1)  requirement letters in early 1995, after the
+investigation was underway, violated the taxpayer’s s. 7  rights and should
+be excluded.  Cases Cited  Referred to:  British
+Columbia Securities Commission v. Branch, [1995] 2 S.C.R. 3; R. v.
+Norway Insulation Inc. (1995), 23 O.R. (3d) 432, aff’g [1995] 2 C.T.C. 451;
+R. v. Araujo, [2000] 2 S.C.R. 992, 2000 SCC 65; Del Zotto v. Canada,
+[1997] 3 F.C. 40, rev’d [1999] 1 S.C.R. 3; R. v. McKinlay Transport Ltd.,
+[1990] 1 S.C.R. 627; Thomson Newspapers Ltd. v. Canada (Director of
+Investigation and Research, Restrictive Trade Practices Commission), [1990]
+1 S.C.R. 425; Knox Contracting Ltd. v. Canada, [1990] 2 S.C.R. 338; 143471
+Canada Inc. v. Quebec (Attorney General), [1994] 2 S.C.R. 339; R. v.
+Hydro-Québec, [1997] 3 S.C.R. 213; Smerchanski v. M.N.R., [1977] 2
+S.C.R. 23; R. v. Wholesale Travel Group Inc., [1991] 3 S.C.R. 154; Comité
+paritaire de l’industrie de la chemise v. Potash, [1994] 2 S.C.R. 406; R.
+v. Grimwood, [1987] 2 S.C.R. 755; R. v. Ling, [2002] 3 S.C.R. 814,
+2002 SCC 74; Re Ramm, [1958] O.R. 98; Hunter v. Southam Inc.,
+[1984] 2 S.C.R. 145; General Motors of Canada Ltd. v. City National Leasing,
+[1989] 1 S.C.R. 641; R. v. Nova Scotia Pharmaceutical Society, [1992] 2
+S.C.R. 606; Baron v. Canada, [1993] 1 S.C.R. 416; Edmonton Journal v.
+Alberta (Attorney General), [1989] 2 S.C.R. 1326; Symes v. Canada,
+[1993] 4 S.C.R. 695; R. v. Lyons, [1987] 2 S.C.R. 309; Canadian
+Broadcasting Corp. v. New Brunswick (Attorney General), [1991] 3 S.C.R.
+459; Re B.C. Motor Vehicle Act, [1985] 2 S.C.R. 486; Reference re
+ss. 193 and 195.1(1)(c) of the Criminal Code (Man.), [1990] 1
+S.C.R. 1123; R. v. S. (R.J.), [1995] 1 S.C.R. 451; R. v. P. (M.B.),
+[1994] 1 S.C.R. 555; R. v. Jones, [1994] 2 S.C.R. 229; R. v.
+Fitzpatrick, [1995] 4 S.C.R. 154; R. v. White, [1999] 2 S.C.R. 417; R.
+v. Plant, [1993] 3 S.C.R. 281; Smith v. Canada (Attorney General),
+[2001] 3 S.C.R. 902, 2001 SCC 88; Bell ExpressVu Limited Partnership v. Rex,
+[2002] 2 S.C.R. 559, 2002 SCC 42; Rizzo & Rizzo Shoes Ltd. (Re),
+[1998] 1 S.C.R. 27; R. v. Gladue, [1999] 1 S.C.R. 688; Canadian Bank
+of Commerce v. Canada (Attorney General), [1962] S.C.R. 729; James
+Richardson & Sons, Ltd. v. M.N.R., [1984] 1 S.C.R. 614; R. v.
+Multiform Manufacturing Co., [1990] 2 S.C.R. 624; R. v. Bjellebo,
+[1999] O.J. No. 965 (QL); R. v. Pheasant, [2001] G.S.T.C. 8; R. v.
+Chusid (2001), 57 O.R. (3d) 20; R. v. Roberts, [1998] B.C.J. No.
+3184 (QL); R. v. Dial Drug Stores Ltd. (2001), 52 O.R. (3d) 367; Samson
+v. Canada, [1995] 3 F.C. 306, leave to appeal refused, [1996] 1 S.C.R. ix (sub
+nom. Samson v. Addy); R. v. Yip (2000), 278 A.R. 124, 2000 ABQB 873;
+R. v. Anderson (2001), 209 Sask. R. 117, 2001 SKQB 334; R. v. Seaside
+Chevrolet Oldsmobile Ltd. (2002), 248 N.B.R. (2d) 132, 2002 NBPC 5; R.
+v. Warawa (1997), 208 A.R. 81; R. v. Coghlan, [1994] 1 C.T.C. 164; Gorenko
+v. La Reine, [1997] R.J.Q. 2482, aff’d [1999] Q.J. No. 6268 (QL); Roncarelli
+v. Duplessis, [1959] S.C.R. 121; Babcock v. Canada (Attorney General),
+[2002] 3 S.C.R. 3, 2002 SCC 57; Canada (Director of Investigation and
+Research) v. Southam Inc., [1997] 1 S.C.R. 748.  Statutes and Regulations Cited  Act to
+amend the Income War Tax Act, S.C. 1944, c. 43,
+s. 11. Business Profits War Tax Act,
+1916, S.C. 1916, c. 11. Canadian Charter of Rights and
+Freedoms, ss. 7 , 8 , 24 . Criminal Code, R.S.C. 1985, c. C-46, s. 487 . Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .), ss. 2 , 150(1) , 151 ,
+152(1) , (4) , 162 , 163 , 230(1) , 231.1  [am. 1994, c. 21,
+s. 107], 231.2, 231.3 [idem, s. 108 ], 238(1), 239(1),
+(2), 241 [am. 1994, c. 7, Sched. VIII, s. 137(1)].  Income War Tax Act, 1917, S.C. 1917, c. 28, s. 8. Interpretation Act, R.S.C. 1985, c. I-21, s. 12 .  Authors Cited  Driedger,
+Elmer A.  Construction of Statutes, 2nd ed.  Toronto: Butterworths,
+1983.  Krishna, Vern.  The
+Fundamentals of Canadian Income Tax, 6th ed.  Scarborough,
+Ont.:  Carswell, 2000.  Oxford English Reference
+Dictionary, 2nd ed.  Edited by Judy Pearsall and
+Bill Trumble.  Oxford: Oxford University Press, 1996, “enforce”.  APPEAL from a judgment of the Alberta Court of Appeal
+(2000), 149 C.C.C. (3d) 498, 271 A.R. 263, 234 W.A.C. 263, 87 Alta. L.R. (3d)
+52, 193 D.L.R. (4th) 656, [2001] 3 W.W.R. 271, [2000] A.J. No. 1347 (QL),
+2000 ABCA 304, affirming a judgment of Lutz J. (1998), 225 A.R. 225, 63 Alta.
+L.R. (3d) 236, 98 D.T.C. 6308, [1999] 3 W.W.R. 393, [1998] 3 C.T.C. 252, [1998]
+A.J. No. 651 (QL), allowing the Crown’s appeal from a judgment of the
+Provincial Court acquitting a taxpayer of tax offences and ordering a new
+trial.  Appeal dismissed.  Alan D. Macleod, Q.C., and Wendy K. McCallum,
+for the appellant.  S. David Frankel, Q.C., Bruce Harper and Janet Henchey,
+for the respondent.  Trevor Shaw, for
+the intervener the Attorney General for Ontario.  Gilles Laporte and
+Monique Rousseau, for the intervener the Attorney General of
+Quebec.  Scott K. Fenton, for the intervener the Criminal Lawyers’ Association (Ontario).  The judgment of the Court was delivered by  1                                  
+Iacobucci and Major JJ. --
+Is there a distinction between the Canada Customs and Revenue Agency’s (“CCRA”)
+audit and investigative functions under the Income Tax Act, R.S.C. 1985,
+c. 1 (5th Supp .) (“ITA ”)?  If it is indeed correct to draw such a distinction,
+when does the CCRA exercise its audit function and when does it exercise its
+investigative function?   Finally, what are the legal consequences for the
+taxpayer when the CCRA exercises its investigative function?  2                                  
+Ultimately, we conclude that compliance audits and tax evasion
+investigations must be treated differently.  While taxpayers are statutorily
+bound to co-operate with CCRA auditors for tax assessment purposes (which may
+result in the application of regulatory penalties), there is an adversarial
+relationship that crystallizes between the taxpayer and the tax officials when
+the predominant purpose of an official’s inquiry is the determination of penal
+liability.  When the officials exercise this authority, constitutional
+protections against self-incrimination prohibit CCRA officials who are
+investigating ITA  offences from having recourse to the powerful inspection and
+requirement tools in ss. 231.1(1)  and 231.2(1) .  Rather, CCRA officials who
+exercise the authority to conduct such investigations must seek search warrants
+in furtherance of their investigation.  3                                  
+Here, the material that the trial judge excluded from the Information to
+Obtain A Search Warrant owing to a Charter  violation was in fact validly
+gathered pursuant to the auditor’s inspection and requirement powers. 
+Accordingly, the searches ultimately carried out were authorized by warrant,
+and no s. 8  violation occurred.  Therefore, we would dismiss the appeal and
+confirm the Court of Appeal of Alberta’s order of a new trial.  I.       Factual
+Background  4                                  
+The appellant, Warren Jarvis, is a farmer in Alberta.  His wife, Georgia
+Jarvis, was, until the time of her death, an artist earning income from the
+sale of her works.  Mrs. Jarvis reported this income on her annual individual
+tax returns.  5                                  
+Mrs. Jarvis died on October 22, 1990.  A few of her original works and a
+number of limited edition prints remained unsold at the time; as well, it
+appears that the appellant may also have had some additional prints created
+subsequent to his wife’s death.  The appellant was therefore able to continue
+the sale of his late wife’s art, which he did.  In 1992, as art sales began to
+dissipate, the appellant, in an apparent attempt to put the past behind him,
+moved into a rural log cabin, roughly 80 kilometres north-west of Calgary.  6                                  
+Early in 1994, an anonymous informant addressed a typewritten letter
+(“the lead”) to the Chief of Audit in the Calgary District Taxation Office of
+what was then Revenue Canada.  For reasons of confidentiality, the lead is not
+in evidence in this case.  We do know, however, that the lead alleged that the
+appellant had failed to report substantial income related to the 1990 and 1991
+taxation years.  Furthermore, the lead listed six Calgary art galleries that
+had purchased Mrs. Jarvis’s art work from the appellant.  7                                  
+Although internal departmental policies identified all tax leads from
+informants as being the responsibility of the Special Investigations Section,
+the lead was in fact referred to the Business Audit Section.  There, it was
+assigned to Donna Goy-Edwards, an experienced business auditor.  Goy-Edwards
+took sole control over the file, reporting to her supervisor, John Moriarty.  8                                  
+On February 16, 1994, Goy-Edwards prepared an “Audit Plan,” consisting
+of three separate tasks:  1)    Clear lead.  2)    Review disposition of all assets at date of
+death in Oct/90.  Review all tax consequences.  3)    Audit accordingly.  Not all leads
+received by the CCRA are substantiated; hence, “clearing” a lead refers to a
+process whereby the auditor reviews source documents for the purpose of
+determining the validity of the allegations contained in the lead.  To this
+end, Goy-Edwards attempted on February 16 and 17 by telephone to reach the
+appellant and the accountant, Tom Burke, who had prepared the 1990 and 1991 tax
+returns.  She was unable to reach either, but left two voice messages on the
+appellant’s telephone answering machine.  9                                  
+Goy-Edwards then sent two letters to the appellant on February 17.  The
+letters were addressed simply “General Delivery, Cremona, Alberta”.  One letter
+dealt with the appellant in his capacity as executor of his wife’s estate,
+indicating that “[t]he file of the Late Georgia Jarvis has been selected for
+audit for the [1990] taxation year” and that “this letter will serve as a
+formal notice of the audit in progress”.  The other letter concerned the
+appellant in his personal capacity, and specified that his file had “been
+selected for audit for the taxation years 1990 & 1991”, adding again that
+the letter constituted formal notice of the audit.  In each instance, the
+appellant was requested to make available certain enumerated books and
+records.  Finally, the letters stated that the respective files would be held
+in abeyance for a 15-day period to allow the appellant “an opportunity to
+contact the writer and make arrangements to have the books and records made
+available for the audit”.  10                              
+On March 7, 1994, shortly after the 15-day period elapsed without word
+from the appellant, Goy-Edwards commenced contact with third-party sources. 
+She researched departmental library services for written information on Mrs.
+Jarvis’s art work, to obtain facts about her works and discover where they were
+being displayed.  Through these efforts, she was able to locate three
+additional galleries, not listed in the lead, that had purchased art from the
+appellant.  Goy-Edwards then personally contacted or visited all nine
+galleries.  She identified herself as a Revenue Canada employee and requested
+that she be granted access to certain of their books and records pertaining to
+art sales.  11                              
+Between March 7 and 16, Goy-Edwards was able to obtain information from
+each of the galleries regarding the sale of Mrs. Jarvis’s works.  From the
+particulars contained in purchase invoices and cancelled cheques, the auditor
+determined that the appellant had grossed $358,409 from sales to the nine
+galleries between October 23 and December 31, 1990.  For the 1991 calendar
+year, the figure was $221,366.  Endorsements found on the reverse side of the
+cheques also disclosed information regarding the appellant’s banking
+arrangements.  Independently, Goy-Edwards calculated that, for sales accruing
+to Mrs. Jarvis from January 1, 1990 until her death, the cost of sales was 29.5
+percent of gross.  Based on all of this information, along with the appellant’s
+tax returns for the 1990 and 1991 taxation years, Goy-Edwards determined that
+the lead had some validity.  12                              
+Twice on March 8, the appellant attempted to reach Goy-Edwards by
+telephone, leaving messages that he had called.  These calls were not
+immediately returned.  On March 16, Jarvis’s accountant, Burke, telephoned
+Goy-Edwards, who explained the audits that she was conducting, advised of the
+taxation years concerned, and made some enquiries as to the appellant’s
+financial affairs.  Burke informed the auditor that the file was likely to be
+in disarray, owing to the appellant’s poor record-keeping skills and the general
+apathy towards financial and taxation matters that the appellant had exhibited
+since Mrs. Jarvis’s death; in fact, Burke had seen no source documents, since
+the appellant was in the habit of providing only summaries of his income.  13                              
+Burke explained that, for taxation purposes, after Mrs. Jarvis’s death
+the income accruing from the sale of her art, net of expenses, was reported as
+part of the appellant’s farming income.  According to the accountant, the
+appellant netted somewhere in the vicinity of $58,000 for art sold in the 1990
+taxation year, and precisely $43,061.79 for 1991.  Goy-Edwards requested that
+Burke submit copies of the income summaries that the appellant had provided
+him.  Burke replied that he would first have to speak to the appellant and
+obtain his authorization to release the information.  14                              
+Later the same afternoon, Burke called back to advise Goy-Edwards that
+he had spoken to the appellant, and to pass on instructions for Goy-Edwards
+personally to call the appellant concerning the audit.  The auditor immediately
+telephoned the appellant, confirmed that the latter was to gather the
+documentation requested in the February 17 letters, and made arrangements to
+meet at the appellant’s farm on April 11, 1994 to “commence a review of the books
+and records”.  The record indicates that the parties might have chosen this
+date in order to provide the appellant with sufficient time to amass the
+documentation, since many of his belongings were still packed up from his
+move.  15                              
+Goy-Edwards made no mention of the fact that she had already contacted
+third party sources.  In response to one of her questions, however, the
+appellant confirmed the $58,000 figure relative to 1990 net art sales income. 
+Finally, Goy-Edwards advised the appellant that she would be accompanied by an
+assistant during the audit.  The appellant stated that he would not have any
+difficulties with this.  16                              
+On April 11, Goy-Edwards was in fact accompanied to the appellant’s
+residence by her supervisor, Moriarty, whom she introduced on this occasion as
+her “team leader”.  The judge at first instance expressly disbelieved
+Goy-Edwards’ explanation that Moriarty came along to provide navigational
+assistance because of her lack of familiarity with the area in which the appellant
+lived.  The supervisor was present in an observational role.  17                              
+During the interview, Moriarty did not actively take notes.  Moreover,
+Goy-Edwards took the lead in all discussions, with Moriarty interjecting only
+occasionally to obtain clarification.  18                              
+The appellant was not cautioned as to his rights.  He answered all of
+the auditor’s questions, which dealt primarily with the art sales but which
+also touched upon his farming operations.  The appellant stated that all
+information pertaining to art sales was contained in the contracts and receipt
+books he kept.  He provided information about his banking arrangements, and
+indicated that he would take steps to access the records pertaining thereto. 
+In addition, the appellant signed a bank authorization for an account held with
+the Bank of Montreal, the existence of which he had not disclosed until
+Goy-Edwards posed a question about it: the auditor knew of the account from her
+third-party source investigations.  She agreed to hold the authorization in
+abeyance for a short while in order to give the appellant the opportunity
+personally to obtain the documentation.  19                              
+Goy-Edwards enquired into the inventory of originals and prints at the
+date of Mrs. Jarvis’s death, as well as the appellant’s role in selling the
+art.  Her purpose with these lines of questioning was to compare the responses
+given by the appellant to the information that she had previously obtained from
+the departmental library.  Finally, the appellant provided the auditor with art
+sale-related materials, including the two receipt books tracking sales and a
+number of other receipts documenting expenses.  Goy-Edwards removed these books
+and records for later examination.  20                              
+A few days after the interview, on April 15, Burke telephoned Goy-Edwards
+for an updated report on the state of the file.  Goy-Edwards briefed the
+accountant as to the April 11 meeting, and stated that she would keep him
+apprised of the audit’s progress.  21                              
+In late April 1994, Goy-Edwards obtained many of the records and much of
+the information requested from the appellant.  Subsequently, she performed
+various calculations to determine whether all the income related to the art
+sales had been properly reported.  As a result of these calculations,
+Goy-Edwards noted a discrepancy of approximately $700,000 between the
+appellant’s earned and reported income over the two taxation years in
+question.  On this basis, the auditor concluded that the appellant had grossly
+omitted revenues, suggesting that fraud was a possibility, and that further
+action was warranted.  22                              
+Therefore, rather than completing the audit, on May 4, 1994, Goy-Edwards
+prepared a “Form T134” to refer the matter -- along with her entire file, which
+contained records of all contacts, conversations, and calculations made in
+respect of the matter -- to the Special Investigations Section of Revenue
+Canada.  This latter division was charged in the present case with determining
+whether further investigation with a view to possible prosecution for tax evasion
+was merited.  The record indicates that, in general, not every referral from
+the Business Audit Section necessarily results in charges being laid, and that
+files are on occasion returned to the Business Audit Section after Special
+Investigations makes a decision not to proceed with a criminal investigation.  23                              
+Goy-Edwards did not attempt to contact the appellant or Burke to advise
+them that the file was no longer under her control.  Two days later, on May 6,
+the appellant’s son Jim left a telephone message with the auditor, indicating
+that he would be sending the requested Bank of Montreal statements on the
+following Monday.  The statements were in fact delivered on that date, and were
+passed on to Special Investigations.  Again, the appellant,  his son and his
+accountant were not notified that the appellant’s file had been referred to the
+investigative section.  24                              
+Inside Special Investigations, the appellant’s file was assigned to
+investigator Diane Chang.  Chang met with Goy-Edwards for one to two hours towards
+the end of May 1994 in order to discuss the file.  At some point shortly
+thereafter, Chang had to contact Goy-Edwards again in order to clarify certain
+of the notations contained in the auditor’s file.  There may have been one or
+two conversations of this nature, but there is nothing in the record that would
+suggest that Chang, or any other investigator, ever instructed or requested
+Goy-Edwards, under the guise of an audit, to obtain further information from or
+about the appellant.  25                              
+The investigator then reviewed Goy-Edwards’s files, performed her own
+calculations and analyses, and gathered some information from other internal
+sources in order to determine if there were reasonable and probable grounds to
+obtain a search warrant to further an investigation into tax evasion.  In June
+1994, Chang determined that such reasonable and probable grounds did exist, and
+began preparing an Information to Obtain A Search Warrant.  For the next
+several months, Chang worked on the Information to Obtain and sought approval
+from her supervisors in Special Investigations to attend before an issuing
+justice.  Departmental approval was not granted until November 1994, despite
+the fact that very little new information was received in the intervening
+period.  26                              
+Meanwhile, Burke had been attempting to reach Goy-Edwards to obtain
+updates on the audit.  As a consequence, Goy-Edwards contacted Chang. 
+Goy-Edwards  asked what an appropriate response would be.  Chang told the
+auditor “to stall”: she did not want the appellant to discover that his file
+had been referred to Special Investigation.  Contrary to departmental policy,
+which specifies that all contacts about a file should be recorded on “Forms
+T2020”, Chang did not record this conversation with Goy-Edwards.  27                              
+On September 8, Burke again phoned Goy-Edwards to inquire about the
+file.  She told him that she had been unable to make progress with the audit
+because of an injury; Goy-Edwards later testified that, shortly before that
+time, she had tumbled hard off of her bicycle, sustaining injuries to her head,
+torso, and legs.  Goy-Edwards did not mention to Burke that she had referred
+the file to Special Investigations back in May.  Burke left the appellant a
+message on the same day, keeping him abreast of what news the auditor had
+provided.  28                              
+Burke left another message for Goy-Edwards on October 21, 1994, while
+the auditor was out of her office.  Upon returning at the beginning of
+November, Goy-Edwards informed Moriarty that Burke had called.  Moriarty, in
+turn, spoke to the Chief of the Special Investigations Section early on
+November 2 about how best to handle the issue.  They determined, based on
+departmental policy, that if Goy-Edwards was asked about the file, she would
+have to “inform the [taxpayer] that the issue has been referred” to Special
+Investigations.  29                              
+Also on November 2, and very shortly after this discussion, Goy-Edwards
+returned Burke’s call.  The auditor left a message with the accountant’s wife
+to the effect that she had been out of town and that she “ha[d] nothing to
+report on the file”.  In addition, Goy-Edwards asked that Burke be informed
+that “the file has been in a holding pattern due to other work demands
+including other projects”; the auditor later acknowledged that it was a mistake
+to use these terms to describe the status of the file.  30                              
+Goy-Edwards recorded the details of the November 2 call on a Form T2020,
+which she then delivered to Chang.  Concerned about the message Goy-Edwards had
+left for Burke, and troubled by the fact that she had personally given
+Goy-Edwards the instructions to stall, Chang approached her section manager.  31                              
+Chang, the section manager, and the Chief of Special Investigations all
+met on November 3 to discuss the policy regarding disclosure to the appellant. 
+Departmental policy was confirmed to be that, if Goy-Edwards or any other
+Revenue Canada official were asked anything about the appellant’s file, that
+person should explain that the file was in Special Investigations.  All parties
+were aware of the message that Goy-Edwards had left for Burke on the previous
+day, and the section manager and the chief expressed bewilderment as to why the
+auditor had spoken as she did.  Still, subsequent to this meeting, no remedial
+steps were taken to advise either Burke or the appellant of the file’s
+transfer.  32                              
+On November 23, 1994, Chang swore the Information to Obtain before
+Fradsham Prov. Ct. J. in Calgary.  Chang based her grounds for belief that the
+appellant had committed offences, in part, upon analyses that she had conducted
+from the books and records that the appellant had provided to Goy-Edwards at
+the April 11 meeting.  33                              
+A warrant was issued under s. 487  of the Criminal Code, R.S.C.
+1985, c. C-46 , authorizing searches of the appellant’s residence, Burke’s
+residence (place of business), and the Calgary office of Revenue Canada (in
+order to seize the books and records that Goy-Edwards had borrowed from the
+appellant during the April 11 meeting).  The warrant was executed at all three
+locations on November 29.  The fruit of the searches ultimately served as a
+substantial portion of the respondent Crown’s evidence at the appellant’s
+trial.  34                              
+In early 1995, Chang drew up requirement letters pursuant to s. 231.2(1) 
+of the ITA .  These were issued to the appellant’s various banking institutions,
+which complied with the requirements and provided Chang with the documentation
+which she sought.  35                              
+The appellant was brought to trial on three counts of making false or
+deceptive statements in an income tax return (s. 239(1) (a) of the ITA )
+and two counts of wilfully evading or attempting to evade payment of taxes (s.
+239(1) (d) of the ITA ).  The respondent sought to tender documents seized
+pursuant to the warrant.  The appellant objected, and two separate voir
+dires were held to determine the admissibility of the documents.  36                              
+Coincidentally, the issuing justice, Judge Fradsham, was also the trial
+judge.  He felt that the audit had effectively become an investigation as of
+March 16, 1994, and excluded all information obtained by ss. 231.1(1)  and
+231.2(1)   from that day forward: (1997), 195 A.R. 251 (Prov. Ct.) and (1997),
+204 A.R. 123 (Prov. Ct.).  Judge Fradsham granted the appellant’s motion for a
+directed verdict of acquittal on August 7, 1997.  The respondent’s appeal to
+the Court of Queen’s Bench of Alberta was successful, and a new trial was
+ordered: (1998), 225 A.R. 225.  The Court of Appeal of Alberta dismissed a
+further appeal, and affirmed the summary conviction appeal judge’s order for a
+new trial:  (2000), 271 A.R. 263.  The appellant was granted  leave to appeal
+to this Court on May 17, 2001:  [2001] 1 S.C.R. xii.  II.      Relevant
+Statutory and Constitutional Provisions  37                              
+Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .)  231.1  (1)  An authorized person may, at all
+reasonable times, for any purpose related to the administration or enforcement
+of this Act,  (a)  inspect, audit or examine the books and records of a
+taxpayer and any document of the taxpayer or of any other person that relates
+or may relate to the information that is or should be in the books or records
+of the taxpayer or to any amount payable by the taxpayer under this Act, and  (b)  examine property in an inventory of a taxpayer and any
+property or process of, or matter relating to, the taxpayer or any other
+person, an examination of which may assist the authorized person in determining
+the accuracy of the inventory of the taxpayer or in ascertaining the
+information that is or should be in the books or records of the taxpayer or any
+amount payable by the taxpayer under this Act,  and for those purposes the authorized person may  (c)  subject to subsection (2), enter into any premises or place
+where any business is carried on, any property is kept, anything is done in
+connection with any business or any books or records are or should be kept, and (d)  require the owner or manager of the property or business
+and any other person on the premises or place to give the authorized person all
+reasonable assistance and to answer all proper questions relating to the
+administration or enforcement of this Act and, for that purpose, require the
+owner or manager to attend at the premises or place with the authorized person.  (2) Where any premises or place referred to in
+paragraph (1)(c) is a dwelling-house, an authorized person may not enter
+that dwelling-house without the consent of the occupant except under the
+authority of a warrant under subsection (3).  (3)  Where, on ex parte application by the
+Minister, a judge is satisfied by information on oath that  (a)  there are reasonable grounds to believe that a
+dwelling-house is a premises or place referred to in paragraph (1)(c),  (b)  entry into the dwelling-house is necessary for any purpose
+relating to the administration or enforcement of this Act, and  (c)  entry into the dwelling-house has been, or there are
+reasonable grounds to believe that entry will be, refused,  the judge may issue a warrant authorizing an authorized person to enter
+the dwelling-house subject to such conditions as are specified in the warrant
+but, where the judge is not satisfied that entry into the dwelling-house is
+necessary for any purpose relating to the administration or enforcement of this
+Act, the judge may  (d)  order the occupant of the dwelling-house to provide to an
+authorized person reasonable access to any document or property that is or
+should be kept in the dwelling-house, and  (e)  make such other order as is appropriate in the
+circumstances to carry out the purposes of this Act,  to the extent that access was or may be expected to be refused and that
+the document or property is or may be expected to be kept in the
+dwelling-house.  231.2 (1)  Notwithstanding any other
+provision of this Act, the Minister may, subject to subsection (2), for any
+purpose related to the administration or enforcement of this Act, by notice
+served personally or by registered or certified mail, require that any person provide,
+within such reasonable time as is stipulated in the notice,  (a)  any information or additional information, including a
+return of income or a supplementary return; or  (b)  any document.                                                                     .
+. .  231.3 (1)  A judge may, on ex parte
+application by the Minister, issue a warrant in writing authorizing any person
+named therein to enter and search any building, receptacle or place for any
+document or thing that may afford evidence as to the commission of an offence
+under this Act and to seize the document or thing and, as soon as practicable,
+bring it before, or make a report in respect of it to, the judge or, where the
+judge is unable to act, another judge of the same court to be dealt with by the
+judge in accordance with this section.  (2)  An application under subsection (1) shall be
+supported by information on oath establishing the facts on which the
+application is based.  (3)  A judge may issue the warrant referred to in
+subsection (1) where the judge is satisfied that there are reasonable grounds
+to believe that  (a)  an offence under this Act was committed;  (b)  a document or thing that may afford evidence of the
+commission of the offence is likely to be found; and  (c)  the building, receptacle or place specified in the
+application is likely to contain such a document or thing.  (4)  A warrant issued under subsection (1) shall
+refer to the offence for which it is issued, identify the building, receptacle
+or place to be searched and the person alleged to have committed the offence
+and it shall be reasonably specific as to any document or thing to be searched
+for and seized.  (5)  Any person who executes a warrant under
+subsection (1) may seize, in addition to the document or thing referred to in
+that subsection, any other document or thing that the person believes on
+reasonable grounds affords evidence of the commission of an offence under this
+Act and shall as soon as practicable bring the document or thing before, or
+make a report in respect thereof to, the judge who issued the warrant or, where
+the judge is unable to act, another judge of the same court to be dealt with by
+the judge in accordance with this section.  (6)  Subject to subsection (7), where any document
+or thing seized under subsection (1) or (5) is brought before a judge or a
+report in respect thereof is made to a judge, the judge shall, unless the
+Minister waives retention, order that it be retained by the Minister, who shall
+take reasonable care to ensure that it is preserved until the conclusion of any
+investigation into the offence in relation to which the document or thing was
+seized or until it is required to be produced for the purposes of a criminal
+proceeding.  (7)  Where any document or thing seized under
+subsection (1) or (5) is brought before a judge or a report in respect thereof
+is made to a judge, the judge may, of the judge’s own motion or on summary
+application by a person with an interest in the document or thing on three
+clear days notice of application to the Deputy Attorney General of Canada,
+order that the document or thing be returned to the person from whom it was
+seized or the person who is otherwise legally entitled thereto if the judge is
+satisfied that the document or thing  (a)  will not be required for an investigation or a criminal
+proceeding; or  (b)  was not seized in accordance with the warrant or this
+section.  (8)  The person from whom any document or thing is
+seized pursuant to this section is entitled, at all reasonable times and
+subject to such reasonable conditions as may be imposed by the Minister, to
+inspect the document or thing and to obtain one copy of the document at the
+expense of the Minister.  239. (1)  Every person who has  (a)  made, or participated in, assented to or acquiesced in the
+making of, false or deceptive statements in a return, certificate, statement or
+answer filed or made as required by or under this Act or a regulation,  (b)  to evade payment of a tax imposed by this Act, destroyed,
+altered, mutilated, secreted or otherwise disposed of the records or books of
+account of a taxpayer,  (c)  made, or assented to or acquiesced in the making of, false
+or deceptive entries, or omitted, or assented to or acquiesced in the omission,
+to enter a material particular, in records or books of account of a taxpayer,  (d)  wilfully, in any manner, evaded or attempted to evade
+compliance with this Act or payment of taxes imposed by this Act, or  (e)  conspired with any person to commit an offence described in
+paragraphs (a) to (d),  is guilty of an offence and, in addition to any penalty otherwise
+provided, is liable on summary conviction to  (f)  a fine of not less than 50%, and not more than 200%, of the
+amount of the tax that was sought to be evaded, or  (g)  both the fine described in paragraph (f) and
+imprisonment for a term not exceeding 2 years.  (2)  Every person who is charged with an offence
+described in subsection (1) may, at the election of the Attorney General of
+Canada, be prosecuted on indictment and, if convicted, is, in addition to any
+penalty otherwise provided, liable to  (a)  a fine of not less than 100%, and not more than 200%, of
+the amount of the tax that was sought to be evaded; and (b)  imprisonment for a term not exceeding 5 years.                                                                     .
+. .  241. (1)  Except as authorized by this section, no official shall  (a)  knowingly provide, or knowingly allow to be provided, to
+any person any taxpayer information;  (b)  knowingly allow any person to have access to any taxpayer
+information; or  (c)  knowingly use any taxpayer information otherwise than in
+the course of the administration or enforcement of this Act, the Canada
+Pension Plan  or the Unemployment Insurance Act or for the purpose
+for which it was provided under this section.  (2)  Notwithstanding any other Act of Parliament or
+other law, no official shall be required, in connection with any legal
+proceedings, to give or produce evidence relating to any taxpayer information.  (3)  Subsections (1) and (2) do not apply in respect of  (a)  criminal proceedings, either by indictment or on summary
+conviction, that have been commenced by the laying of an information or the
+preferring of an indictment, under an Act of Parliament; or  (b)  any legal proceedings relating to the administration or
+enforcement of this Act, the Canada Pension Plan  or the Unemployment
+Insurance Act or any other Act of Parliament or law of a province that
+provides for the imposition or collection of a tax or duty.                                                                     .
+. .  (4)  An official may  (a)  provide to any person taxpayer information that can
+reasonably be regarded as necessary for the purposes of the administration or
+enforcement of this Act, the Canada Pension Plan  or the Unemployment
+Insurance Act, solely for that purpose;  (b)  provide to any person taxpayer information that can
+reasonably be regarded as necessary for the purposes of determining any tax,
+interest, penalty or other amount that is or may become payable by the person,
+or any refund or tax credit to which the person is or may become entitled,
+under this Act or any other amount that is relevant for the purposes of that
+determination;                                                                     .
+. .  (5)  An official may provide taxpayer information relating to a
+taxpayer  (a)  to the taxpayer; and  (b)  with the consent of the taxpayer, to any other person.  Canadian
+Charter of Rights and Freedoms  7.  Everyone has the right to life, liberty
+and security of the person and the right not to be deprived thereof except in
+accordance with the principles of fundamental justice.  8.  Everyone has the right to be secure
+against unreasonable search or seizure.  24. (1)  Anyone whose rights or freedoms, as
+guaranteed by this Charter , have been infringed or denied may apply to a court
+of competent jurisdiction to obtain such remedy as the court considers
+appropriate and just in the circumstances.  (2)  Where, in proceedings under subsection (1), a
+court concludes that evidence was obtained in a manner that infringed or denied
+any rights or freedoms guaranteed by this Charter , the evidence shall be
+excluded if it is established that, having regard to all the circumstances, the
+admission of it in the proceedings would bring the administration of justice
+into disrepute.  III.    Judicial
+History  A.     Provincial Court of Alberta -- Criminal
+Division (1997), 195 A.R. 251 (First voir dire)  38                              
+Judge Fradsham’s extensive reasons were issued on February 25, 1997. 
+Applying the “predominant purpose” test enunciated in British Columbia
+Securities Commission v. Branch, [1995] 2 S.C.R. 3, he concluded at para.
+50 that, during the April 11 meeting, Goy-Edwards was “seeking out confirmatory
+proof of her opinion that this was a matter of serious underreporting of income
+which should be prosecutorily [sic] pursued by Special Investigations”. 
+In his view, she was conducting an investigation, and not a mere audit.  39                              
+Following R. v. Norway Insulation Inc. (1995), 23 O.R. (3d) 432
+(Gen. Div.), Judge Fradsham held that s. 8  of the Charter  precludes the
+use of s. 231.1(1)  powers to further an investigation, in contradistinction to
+an audit.  When an investigation of s. 239  offences is underway, the taxpayer
+who is the object of the investigation is entitled to exercise his or her right
+to silence.  In this case, the appellant had been told that an audit was
+underway, and Judge Fradsham therefore took him to have been labouring under
+the presumption that he was obliged to co-operate.  The failure to caution the
+appellant on that occasion violated his rights under s. 7  of the Charter . 
+The statements and documents obtained at the meeting were therefore “tainted”,
+and reference to them in the Information to Obtain had to be removed.  Judge
+Fradsham also excised certain paragraphs from the Information to Obtain on the
+basis of the fact that they were erroneous.  What remained, in Judge Fradsham’s
+opinion, did not provide “reasonable grounds to believe that in the place
+sought to be searched there are things that will afford evidence of the
+commission of an offence” (para. 106).  As a result, the execution of the
+search and seizure violated the appellant’s s. 8  Charter  rights.  Judge
+Fradsham excluded the evidence under s. 24(2)  of the Charter .  B.      Provincial Court of Alberta -- Criminal
+Division (1997), 204 A.R. 123 (Second voir dire)  40                              
+A second voir dire was held in June 1997, to determine the admissibility
+of the banking records obtained by the requirement letters.  On this occasion,
+Judge Fradsham held that the audit had effectively become an investigation as
+of March 16, 1994, since by that date, “Ms. Goy-Edwards had already arranged
+for her supervisor to attend the April 11 meeting” (para. 5).  In his view,
+Revenue Canada was unable to rely upon its “audit tools” from that day
+forward.  Judge Fradsham found that all banking information obtained by way of
+s. 231.2(1)  after March 16 should be excluded pursuant to s. 24(2)  of the Charter .  C.     Court of Queen’s Bench of Alberta
+(1998), 225 A.R. 225  41                              
+Subsequent to Judge Fradsham’s granting a directed verdict of acquittal,
+the respondent sought to appeal this ruling, along with the earlier evidentiary
+rulings, to the Court of Queen’s Bench.  In an oral judgment, the summary
+conviction appeal judge held that only the appellant’s utterances from the
+April 11 meeting should have been excluded from the Information to Obtain. 
+Lutz J. found, at para.12, that the other evidence (i.e., the banking
+documents, sales books, etc.), was “to a great extent already in the possession
+of the [respondent].”  Excising the tainted allegations from the Information to
+Obtain, he found that the search warrant was still validly issued; therefore,
+no s. 8  breach occurred.  42                              
+Lutz J. did, however, uphold Judge Fradsham’s ruling on the bank
+statements obtained pursuant to the requirements, as well as his ruling on the
+application of s. 24(2)  of the Charter .  D.     Court of Appeal of Alberta (2000),
+271 A.R. 263  43                              
+Berger J.A., for  the court, affirmed the summary conviction appeal
+judge’s order for a new trial.  He held that only the appellant’s statements
+ought to have been excluded from the Information to Obtain, pursuant to s. 7  of
+the Charter .  The other documents and records were not “derivative
+evidence”, and were admissible.  Berger J.A. also upheld the warrant on
+amplification and found no s. 8  breach.  He declined to find that the s. 7 
+breach was so egregious as to warrant excluding the evidence obtained by the
+searches under s. 24(2)  of the Charter .  IV.    Issues  44                              
+This appeal raises the following specific issues:  II                 Did
+the Court of Appeal of Alberta err in ruling the April 11, 1994 oral statements
+inadmissible?  II                 Did
+the Court of Appeal of Alberta err in admitting the documents given to the
+auditors on April 11, 1994?  II                 Did
+the Court of Appeal of Alberta err in finding that amplification saved the
+search warrant?  II                 Should
+the banking records obtained under s. 231.2  of the ITA  be excluded?  The respondent
+concedes the third issue, in light of R. v. Araujo, [2000] 2 S.C.R. 992,
+2000 SCC 65.  And in our analysis, we have melded the others for the purposes
+of discussion.  V.     Analysis  45                              
+The determination of this appeal will turn on the overarching questions
+set out in the first paragraph of these reasons.  Is there an
+audit/investigation distinction under the ITA ?  Where is the line between the
+two functions drawn?  To what extent do taxpayers under investigation for ITA 
+offences benefit from the principle against self-incrimination under s. 7  of
+the Charter ?  Is a s. 8  violation made out where documents are obtained
+under colour of the ITA ’s “audit powers” after a prosecutorial investigation
+has commenced?  46                              
+By way of introduction to these issues, it is useful to discuss the
+statutory context of the ITA , and whether s. 239  offences are properly
+considered regulatory or criminal for the purposes of Charter  analysis. 
+Second, we will turn to the Charter  provisions at issue, and the manner
+in which they receive application.  Third, we shall consider whether an
+audit/investigation distinction exists under the ITA , and whether ss. 231.1(1) 
+and 231.2(1)  can be employed for the investigation of a s. 239  offence.  After
+answering that question, we will set out a test to determine those
+circumstances in which the predominant purpose of an inquiry is the
+determination of penal liability.  Finally, we will discuss the  consequences
+under the Charter of an audit’s having become a criminal investigation.  A.     Overview
+of the Statutory Context  (1)   The Income Tax Act  47                              
+The ITA legislative scheme has received ample attention from this
+Court.  While it is not necessary in this appeal to engage in a detailed review
+of ITA  jurisprudence, in the interest of situating the statutory provisions at
+issue in their proper context, we shall commence our analysis with a brief
+overview of some important features of the Canadian income tax system and the
+manner in which it is administered.  48                              
+Governments, indisputably, require revenue in order to finance their
+operations and to implement social programmes.  Currently, the collection of
+federal income tax -- a measure first introduced at that level during the First
+World War by The Business Profits War Tax Act, 1916, S.C. 1916, c. 11,
+and The Income War Tax Act, 1917, S.C. 1917, c. 28, and thought to be
+temporary -- comprises a crucial source of federal revenue, not to mention a
+crucial source of revenue for a good number of provincial governments (see Del
+Zotto v. Canada, [1997] 3 F.C. 40 (C.A.), at para. 19, per Strayer
+J.A., whose dissenting reasons were affirmed by a unanimous panel of this
+Court: [1999] 1 S.C.R. 3).  In this connection, because the ITA  controls the
+manner in which federal income tax is calculated and collected, this Court has
+recognized it as being “essentially a regulatory statute”:  R. v. McKinlay
+Transport Ltd., [1990] 1 S.C.R. 627, at p. 641, per Wilson J.  (See
+also:  La Forest J., concurring in the same case, at p. 650, where he described
+the ITA  as “essentially of an administrative nature”; Thomson Newspapers
+Ltd. v. Canada (Director of Investigation and Research, Restrictive Trade
+Practices Commission), [1990] 1 S.C.R. 425, at p. 506, per La Forest
+J.; Knox Contracting Ltd. v. Canada, [1990] 2 S.C.R. 338, at p. 354, per
+Cory J.; 143471 Canada Inc. v. Quebec (Attorney General), [1994] 2
+S.C.R. 339, at p. 378, per Cory J.; R. v. Hydro-Québec, [1997] 3
+S.C.R. 213, at para. 46, per Lamer C.J. and Iacobucci J.)  The ITA is
+both detailed and complex.  49                              
+Every person resident in Canada during a given taxation year is
+obligated to pay tax on his or her taxable income, as computed under rules
+prescribed by the Act (ITA, s. 2 ; Smerchanski v. M.N.R., [1977] 2 S.C.R.
+23, at p. 32, per Laskin C.J.).  The process of tax collection relies primarily
+upon taxpayer self-assessment and self-reporting: taxpayers are obliged to
+estimate their annual income tax payable (s. 151 ), and to disclose this
+estimate to the CCRA in the income return that they are required to file (s.
+150(1) ).  (See also in this regard: McKinlay Transport, supra, at
+pp. 636 and 648; V. Krishna, The Fundamentals of Canadian Income Tax
+(6th ed. 2000), at p. 22.)  Upon receipt of a taxpayer’s return, the Minister
+is directed, “with all due dispatch”, to conduct an examination and original
+assessment of the amount of tax to be paid or refunded, and to remit a notice
+of assessment to this effect (ss. 152(1) and 152(2)).  Subject to certain time
+limitations, the Minister may subsequently reassess or make an additional
+assessment of a taxpayer’s yearly tax liability (s. 152(4)).  50                              
+While voluntary compliance and self-assessment comprise the essence of
+the ITA ’s regulatory structure, the tax system is equipped with “persuasive
+inducements to encourage taxpayers to disclose their income”: Krishna, supra,
+at p. 767.  In this connection, Krishna writes at p. 772, the “system is
+‘voluntary’ only in the sense that a taxpayer must file income tax returns
+without being called upon to do so by the Minister”.  For example, in promotion
+of the scheme’s self-reporting aspect, s. 162  of the ITA  creates monetary
+penalties for persons who fail to file their income returns.  Likewise, to
+encourage care and accuracy in the self-assessment task, s. 163 of the Act sets
+up penalties of the same sort for persons who repeatedly fail to report
+required amounts, or who are complicit or grossly negligent in the making of
+false statements or omissions.  51                              
+It follows from the tax scheme’s basic self-assessment and
+self-reporting characteristics that the success of its administration depends
+primarily upon taxpayer forthrightness.  As Cory J. stated in Knox
+Contracting, supra, at p. 350: “The entire system of levying and
+collecting income tax is dependent upon the integrity of the taxpayer in
+reporting and assessing income.  If the system is to work, the returns must be
+honestly completed.”  It is therefore not surprising that the Act exhibits a
+concern to limit the possibility that a taxpayer may attempt “to take advantage
+of the self-reporting system in order to avoid paying his or her full share of
+the tax burden by violating the rules set forth in the Act” (McKinlay
+Transport, supra, at p. 637).  The nature of the tax collection
+scheme, however, creates an obstacle in this regard:  Often it will be impossible to determine from the face of the return
+whether any impropriety has occurred in its preparation.  A spot check or a
+system of random monitoring may be the only way in which the integrity of the
+tax system may be maintained.  (McKinlay Transport, supra, at p. 648)  Accordingly,
+“the Minister of National Revenue must be given broad powers in supervising
+this regulatory scheme to audit taxpayers’ returns and inspect all records
+which may be relevant to the preparation of these returns” (ibid.).  52                              
+The sections within Part XV of the ITA  provide the Minister with 
+“Administration and Enforcement” powers.  They also impose reciprocal
+obligations upon taxpayers: for example, in furtherance of the overall
+reporting and verification scheme, s. 230(1)  of the ITA  requires all taxpayers,
+for various specified periods of time, to maintain books and records of account
+at their place of business or residence in Canada.  These documents must be
+kept “in such form and containing such information as will enable the taxes
+payable under [the ITA ] or the taxes or other amounts that should have been
+deducted, withheld or collected to be determined”.  53                              
+The provisions that are central to the instant appeal vest the Minister
+with extensive powers that may be used “for any purpose related to the
+administration or enforcement” of the ITA .  Section 231.1(1)  continues the
+inspection power that was introduced in An Act to amend the Income War Tax
+Act, S.C. 1944, c. 43, s. 11.  Paragraph (a) allows a person
+authorized by the Minister to “inspect, audit or examine” a wide array of
+documents, reaching beyond those that the ITA  otherwise requires the taxpayer
+to prepare and maintain.  In the course of the inspection, audit or
+examination, para. (c) provides that the authorized person may enter
+into any premises or place that is not a dwelling-house; furthermore, para. (d)
+imposes a correlative duty upon persons at the premises or place to provide
+“all reasonable assistance and to answer all proper questions relating to the administration
+or enforcement of this Act”.  (Section 231.1(2)  requires that, absent the
+occupant’s consent, a judicial warrant be obtained for entry into a
+dwelling-house.)  54                              
+The requirement power in s. 231.2(1)  boasts an even longer pedigree: its
+origins are found in s. 8 of the original Income War Tax Act, 1917.  By
+this power, the Minister may compel any person to produce any information or
+any document.  Again, the scope of this power “reaches beyond the strict filing
+and maintenance requirements of the Act” (McKinlay Transport, supra,
+at p. 642, per Wilson J.).  55     
+To be effective, self-enforcing regulatory schemes require not only
+resort to adequate investigation, but also the existence of effective
+penalties: Thomson Newspapers, supra, at p. 528; R. v.
+Wholesale Travel Group Inc., [1991] 3 S.C.R. 154, at p. 250, per
+Cory J.; Comité paritaire de l’industrie de la chemise v. Potash, [1994]
+2 S.C.R. 406, at p. 421, per La Forest J.  In the ITA  context, see Hydro-Québec,
+supra,  at para. 46, and Knox Contracting, supra, at p.
+355.  To this end, s. 238(1)  sets out a summary conviction offence that is
+triggered by non-compliance with the filing requirements or with other of the
+Act’s provisions -- including ss. 231.1(1)  and 231.2(1) , and the documentary
+retention rules imposed by s. 230(1) .  Section 238 ’s purpose is inherently
+pragmatic or instrumental: the offence exists “not to penalize criminal conduct
+but to enforce compliance with the Act” (R. v. Grimwood, [1987] 2 S.C.R.
+755, at p. 756; McKinlay Transport, supra, at p. 641; 143471
+Canada, supra, at p. 378).  56                              
+Section 239(1) creates a number of additional offences.  It speaks of
+false or deceptive statements, destruction or alteration of documents, false or
+deceptive documents, wilful evasion of income tax, and conspiracy to engage in
+prohibited activities.  In Cory J.’s words from Knox Contracting, supra,
+at pp. 349-50: “Those who do evade the payment of income tax not only cheat the
+State of what is owing to it, but inevitably increase the burden placed upon
+the honest taxpayers.”  As a consequence, the s. 239(1)  offences carry rather
+significant penalties.  They may be proceeded on by way of summary conviction
+or by way of indictment at the election of the Attorney General (s. 239(2)).  57                              
+As with the s. 238 offence, this Court has recognized the centrality of
+s. 239 to the income tax régime: see Strayer J.A.’s reasons, endorsed on
+appeal to this Court, in Del Zotto, supra, at para. 23, where he
+described s. 239 as being “designed to ensure compliance with the
+self-reporting requirements of the Income Tax Act ”.  Moreover, the
+presence in the ITA  of s. 239  does nothing to alter the regulatory or
+administrative nature of the inspection and requirement powers, even though s.
+239  “relate[s] to conduct that might well be discovered by the[ir] exercise” (Thomson
+Newspapers, supra, at p. 516, per La Forest J.  See also Comité
+paritaire, supra, at p. 421).  As already mentioned, it is under ss.
+239(1) (a) and (d) that the appellant in the present case was
+ultimately charged.  58                              
+Having discussed the general statutory context, we will now deal
+specifically with the important distinction between regulatory and criminal
+statutory provisions.  (2)   The Regulatory vs. Criminal Distinction  59                              
+The parties have engaged in a spirited debate over the proper
+contextualization of the ITA  offences for the purposes of Charter 
+analysis.  The respondent defines the ITA  as comprising an “integrated
+regulatory scheme”, the implication being that a person accused of offences
+thereunder attracts little Charter  protection.  Meanwhile, the
+appellants in both the present case and its companion, R. v. Ling,
+[2002] 3 S.C.R. 814, 2002 SCC 74, as well as the intervener, the Criminal
+Lawyers’ Association (Ontario), submit that the Act is essentially a
+“dual-purpose statute” and that the s. 239  offences constitute “quintessential
+criminal law”.  It follows in the appellant Jarvis’s submission that, where tax
+avoidance or evasion is being investigated, “the taxpayer must be afforded the
+Charter  protection that is the right of any Canadian suspected or accused of a
+crime” (appellant’s factum, at para. 33).  It is plain that the s. 239  offences
+are no trifling matter as this provision bears at least the formal
+hallmarks of criminal legislation, namely, prohibitions coupled with penalties
+(see Hydro-Québec, supra, at para. 35).  They may be prosecuted
+upon indictment, and conviction can carry up to five years’ incarceration.  It
+is because of these factors that the penal sanctions in s. 239  are, in certain
+contexts, referred to as “criminal”.  60                              
+That is not to say, however, that they are “purely” or
+“quintessentially” criminal for Charter  purposes.  The cases
+cited in support of the appellant’s favoured characterization are of limited
+relevance.  The present case does not consider a number of issues such as:
+whether the ITA  offences are constitutionally supportable under the federal
+criminal law power (Hydro-Québec, supra); the characterization of
+s. 239  offences for the purpose of determining the appeal procedure from the
+issuance of a s. 231.3 search warrant (Knox Contracting, supra);
+or whether making false statements on an income tax return constitutes a
+“criminal offence” under provincial legislation, so as to render revocable a
+person’s licence to practice as a public accountant (Re Ramm, [1958]
+O.R. 98 (C.A.)).  In any case, the contextual approach to Charter 
+application is not a mere exercise in taxonomy.  61                              
+As La Forest J. stated in Wholesale Travel, supra, at p.
+209, “what is ultimately important are not labels (though these are undoubtedly
+useful), but the values at stake in the particular context”.  In this
+connection, differing levels of Charter  protection may obtain under the
+same statute, depending on the circumstances.  Compare Hunter v. Southam
+Inc., [1984] 2 S.C.R. 145, and Thomson Newspapers, supra:
+each dealt with the former Combines Investigation Act, R.S.C. 1970, c.
+C-23, which, although it created penal offences, was recognized on the whole to
+embody “a complex scheme of economic regulation” (see General Motors of
+Canada Ltd. v. City National Leasing, [1989] 1 S.C.R. 641, at p. 676, per
+Dickson C.J.; Thomson Newspapers, supra; R. v. Nova Scotia
+Pharmaceutical Society, [1992] 2 S.C.R. 606, at pp. 648-49).  The
+provisions impugned in Hunter v. Southam authorized entry onto private
+premises and hence attracted a much greater expectation of privacy than the
+provision ordering the production of documents in Thomson Newspapers.  62                              
+In this measure, the ITA  presents no different consideration.  Wilson J.
+acknowledged as much in McKinlay Transport, supra, at p. 649,
+where she suggested that greater s. 8  protection would obtain under the ITA  if
+tax officials were to enter onto private property in order to conduct a search
+or seizure for the purposes of the Act, rather than to compel the same
+documentation by way of requirement letters (see para. 53 of these reasons re: 
+s. 231.1(2) ; see also Baron v. Canada, [1993] 1 S.C.R. 416, at pp.
+443-44; Del Zotto, supra, at paras. 12-13, per Strayer
+J.A. (dissenting)).  In sum, the ITA  is a regulatory statute, but
+non-compliance with its mandatory provisions can in some cases lead to criminal
+charges being laid.  In prosecution thereof, the state is pitted against the
+individual in an attempt to establish culpability.  Stiff jail terms can result
+from a conviction.  To conduct an appropriately contextual Charter 
+analysis in these cases, the various regulatory and penal considerations must
+all exert some influence.  B.      Contextual
+Approach to Charter  Rights  63                              
+At this stage, it is a firmly established principle that the Charter 
+must receive contextual application.  The scope of a particular Charter  right
+or freedom may vary according to the circumstances:  Edmonton Journal v.
+Alberta (Attorney General), [1989] 2 S.C.R. 1326, at pp. 1355-56, per
+Wilson J.; McKinlay Transport, supra, at p. 644; Symes v.
+Canada, [1993] 4 S.C.R. 695, at p. 793, per L’Heureux-Dubé J.
+(dissenting); 143471 Canada, supra, at p. 347 (per Lamer
+C.J.) and at pp. 361-62 (per La Forest J.,  dissenting); Comité
+paritaire, supra, at p. 420, per La Forest J.  64                              
+For present purposes, where ss. 7  and 8  of the Charter  are at
+issue, it is instructive to note both that the requirements of fundamental
+justice relevant to the former section “are not immutable; rather, they vary
+according to the context in which they are invoked” (R. v. Lyons, [1987]
+2 S.C.R. 309, at p. 361, per La Forest J.) and that context will
+determine the expectation of privacy that one can reasonably expect the latter
+section to protect (Thomson Newspapers, supra, at pp. 495-96, per
+Wilson J., dissenting, and at p. 506, per La Forest J.; McKinlay
+Transport, supra, at pp. 645 and  647; Canadian Broadcasting
+Corp. v. New Brunswick (Attorney General), [1991] 3 S.C.R. 459, at p. 478, per
+Cory J.; Baron, supra, at p. 436, per Sopinka J.; British
+Columbia Securities Commission v. Branch, supra, at para. 51, per
+Sopinka and Iacobucci JJ.).  65                              
+It is worth repeating that the appellant does not attack the
+constitutionality of ss. 231.1(1)  and 231.2(1) .  Rather, his argument is that
+the admission into evidence in tax evasion proceedings of statements and
+documents that were compelled by Revenue Canada officials under these sections
+was a violation of his rights under ss. 7  and 8  of the Charter .  He thus
+argues that the evidence should be excluded under s. 24(2)  of the Charter . 
+In McKinlay Transport, supra, this Court considered whether the
+predecessor provision to s. 231.2 , employed in conjunction with an income tax
+audit, infringed s. 8  of the Charter .  Wilson J. held that, although the
+provision authorized a “seizure” for Charter  purposes, it provided “the
+least intrusive means by which effective monitoring of compliance with the Income
+Tax Act  can be effected” (p. 649).  Wilson J. noted that the taxpayer’s
+privacy interest in the compellable records was also relatively weak, and ruled
+that the provision was constitutional.  Faced with the McKinlay Transport
+decision, the appellant did not raise the constitutionality of ss. 231.1(1)  and
+231.2(1)  at his trial, but instead invoked s. 24(2)  of the Charter  in
+order to “deprive from the Crown (for prosecution purposes) the fruits of their
+[sic] deception” (appellant’s factum, at para. 45).  (1)   Section 7  66                              
+Section 7  of the Charter  reads as follows:  7.  Everyone has the right to life, liberty
+and security of the person and the right not to be deprived thereof except in
+accordance with the principles of fundamental justice. A court
+conducting an analysis under s. 7  must first determine whether there exists a
+real or imminent deprivation of life, liberty, security of the person, or a
+combination thereof.  Next, the court must identify the relevant principle or
+principles of fundamental justice and, finally, determine whether the
+deprivation is in accordance with this principle or principles.  67                              
+It is beyond doubt that the appellant’s s. 7  liberty interest is engaged
+by the introduction of statutorily compelled information at his trial for the
+s. 239 offences, owing to the threat of imprisonment on conviction: see Re
+B.C. Motor Vehicle Act, [1985] 2 S.C.R. 486, at p. 515, per Lamer J.
+(as he then was); Reference re ss. 193 and 195.1(1)(c) of the Criminal Code
+(Man.), [1990] 1 S.C.R. 1123.  The relevant principle of fundamental
+justice in the present case is the principle against self-incrimination, an
+elemental canon of the Canadian criminal justice system, standing for the
+notion that individuals should not be conscripted by the state to promote a
+self-defeating purpose:  R. v. S. (R.J.), [1995] 1 S.C.R. 451, at para.
+81, per Iacobucci J.  This Court has clearly established that the
+principle against self-incrimination finds residual expression under s. 7 :  Thomson
+Newspapers, supra; R. v. P. (M.B.), [1994] 1 S.C.R. 555, at
+p. 577, per Lamer C.J.; R. v. Jones, [1994] 2 S.C.R. 229, at p.
+256, per Lamer C.J.; S. (R.J.), supra; Branch, supra;
+R. v. Fitzpatrick, [1995] 4 S.C.R. 154; R. v. White, [1999] 2
+S.C.R. 417.  68                              
+In giving expression to this principle, however, s. 7  does not envelop
+an abstract and absolute rule that would prevent the use of information in all
+contexts in which it is statutorily compelled:  Jones, supra, at
+p. 257; S. (R.J.), supra, at paras. 96-100; Fitzpatrick, supra,
+at paras. 21 and 24; White, supra, at para. 45.  A court must
+begin “on the ground”, with a concrete and contextual analysis of all the
+circumstances, in order to determine whether or not the principle against
+self-incrimination is actually engaged:  Fitzpatrick, at para. 25; White,
+at para. 46.  This analysis necessarily involves a balancing of principles. 
+One must, in assessing the limits on compellability demanded by the principle
+against self-incrimination, consider the opposing principle of fundamental
+justice suggesting that relevant evidence should be available to the trier of
+fact in a search for truth:  S. (R.J.), at para. 108, per
+Iacobucci J.  These competing interests will often be brought to the foreground
+in regulatory contexts, where the procedures being challenged have generally
+been designed (and are employed) as part of an administrative scheme in the
+public interest: Fitzpatrick, at para. 27.  As the Court stated in White,
+at para. 48:  In some contexts, the factors that favour the importance of the search
+for truth will outweigh the factors that favour protecting the individual
+against undue compulsion by the state.  This was the case, for example, in Fitzpatrick,
+supra, where the Court emphasized the relative absence of true state
+coercion, and the necessity of acquiring statements in order to maintain the
+integrity of an entire regulatory regime.  In other contexts, a reverse
+situation will arise, as was the case, for example, in Thomson Newspapers,
+supra, S. (R.J.), supra, and Branch, supra. 
+In every case, the facts must be closely examined to determine whether the
+principle against self-incrimination has truly been brought into play by the
+production or use of the declarant’s statement.  (2)   Section 8  69                              
+Section 8  of the Charter  provides that:  8.  Everyone has the right to be secure
+against unreasonable search or seizure.  For the
+application of s. 8, there must first be a search or seizure.  Subsequently, it
+must be determined whether the search or seizure was unreasonable.  Like the
+Fourth Amendment of the U.S. Constitution, s. 8 protects a reasonable
+expectation of privacy: Hunter v. Southam, supra, at p. 159, per
+Dickson J. (as he then was).  What is reasonable, however, is context-specific. 
+In the application of s. 8, “an assessment must be made as to whether in a
+particular situation the public’s interest in being left alone by government
+must give way to the government’s interest in intruding on the individual’s
+privacy in order to advance its goals, notably those of law enforcement” (id.,
+at pp. 159-60).  70                              
+In R. v. Plant, [1993] 3 S.C.R. 281, at p. 293, Sopinka J. listed
+several factors that will determine the parameters of the protection afforded
+by s. 8 with respect to informational privacy:  Consideration of such factors as the nature of the
+information itself, the nature of the relationship between the party releasing
+the information and the party claiming its confidentiality, the place where the
+information was obtained, the manner in which it was obtained and the
+seriousness of the crime being investigated allows for a balancing of the
+societal interests in protecting individual dignity, integrity and autonomy
+with effective law enforcement.  71                              
+The context-specific approach to s. 8 inevitably means, as Wilson J.
+noted in Thomson Newspapers, supra, at p. 495, that “[a]t some
+point the individual’s interest in privacy must give way to the broader state
+interest in having the information or document disclosed”.  Naturally, if a
+person has but a minimal expectation with respect to informational privacy,
+this may tip the balance in the favour of the state interest:  Plant, supra;
+Smith v. Canada (Attorney General), [2001] 3 S.C.R. 902, 2001 SCC 88.  72                              
+Generally, an individual has a diminished expectation of privacy in
+respect of records and documents that he or she produces during the
+ordinary course of regulated activities:  see, e.g., Thomson Newspapers,
+supra, at p. 507, per La Forest J.; 143471 Canada, supra,
+at p. 378, per Cory J.; Comité paritaire, supra, at pp.
+420-21; Fitzpatrick, supra, at para. 49.  In the particular
+context of the self-assessment and self-reporting income tax regime, a
+taxpayer’s privacy interest in records that may be relevant to the filing of
+his or her tax return is relatively low:  McKinlay Transport, supra,
+at pp. 649-50.  C.     Audit
+vs. Investigation  73                              
+As mentioned above, the Charter  issues in this appeal touch upon
+the admission into evidence in a s. 239  prosecution of documents and utterances
+compelled by ss. 231.1(1)  and 231.2(1) .  This problem did not arise in McKinlay
+Transport, where the appellants were charged under s. 238  for failing to
+comply with requirement letters, but there was no allegation that the
+requirements were themselves being used to further the investigation of
+an offence.  In brief, this Court has yet to consider the extent to which the
+use of ss. 231.1(1)  and 231.2(1)  to build a prosecutorial case infringes a
+taxpayer’s constitutional rights.  (1)   Submissions of the Parties  74                              
+The submissions of the parties in this regard stand in stark
+opposition.  The parties seeking to rely upon the distinction describe ss.
+231.1(1)  and 231.2(1)  as “audit” functions, i.e., fundamentally directed
+towards compliance and civil reassessment concerns.  The appellant submits that
+the Crown can no longer use the ss. 231.1(1)  and 231.2(1)  “audit powers” from
+the point at which its predominant purpose is to investigate a s. 239 offence. 
+The Criminal Lawyers’ Association (Ontario) and the appellant in the companion
+case, Ling, submit that the inspection and requirement powers may be
+used at any time, but that a person accused of a s. 239 offence must benefit
+from use and derivative use immunity relative to any information that is
+compelled from him during the audit process.  75                              
+On the other hand, the respondent submits that there is no rigid
+audit/investigation distinction.  It reiterates that the ITA  is an integrated
+regulatory scheme, and argues that all of the powers are assigned to a single
+person, the Minister, whose function under the Act does not change: the fact
+that the Minister delegates the use of these powers to various CCRA
+functionaries is irrelevant, as is the internal organizational structure of the
+department.  According to the respondent, the ss. 231.1(1)  and 231.2(1)  powers
+are available in all circumstances, save two: where charges have been laid
+under s. 239  and the sole purpose for their exercise is to obtain prosecutorial
+evidence, and where the laying of charges is deliberately delayed in order for
+prosecutors to use the powers to build their case.  The respondent concedes, as
+well, that s. 231.1(1) (d) does not countenance queries into the mental
+state, or mens rea, required to prove the ITA  offences; the definition
+of “proper questions” in that paragraph does not extend that far, and answers
+to such questions should therefore be excluded under s. 24(2) .  76                              
+The intervening Attorneys General for Ontario and Quebec support the
+respondent’s position.  With respect to the proper use of ss. 231.1(1)  and
+231.2(1) , the Attorney General of Quebec adopts a “sole purpose” approach,
+similar to the respondent’s.  For its part, the Attorney General for Ontario
+submits that there is no reasonable expectation of privacy in incriminatory
+information gathered pursuant to regulatory powers; however, the abuse of
+process doctrine and s. 7  of the Charter  might find application in
+situations of improper conduct, such as “where there is no legitimate interest
+left in an audit and the auditors have become mere agents of an enforcement
+objective” (Attorney General for Ontario’s factum, at para. 49).  (2)   Our View  77                              
+Analysis must begin with the words of the Act, and the proper
+construction of ss. 231.1(1)  and 231.2(1) .  The approach to statutory
+interpretation can be easily stated: one is to seek the intent of Parliament by
+reading the words of the provision in context and according to their
+grammatical and ordinary sense, harmoniously with the scheme and the object of
+the statute (Interpretation Act, R.S.C. 1985, c. I-21, s. 12 ; Bell
+ExpressVu Limited Partnership v. Rex, [2002] 2 S.C.R. 559, 2002 SCC 42; Rizzo
+& Rizzo Shoes Ltd.  (Re), [1998] 1 S.C.R. 27; R. v. Gladue,
+[1999] 1 S.C.R. 688; E. A. Driedger, Construction of Statutes (2nd ed.
+1983), at p. 87).  78                              
+By their express terms, both ss. 231.1(1)  and 231.2(1)  are available
+“for any purpose related to the administration or enforcement” or, in French, “pour
+l’application et l’exécution” of the ITA .  Although these terms are, at
+first glance, extremely broad, we ultimately come to the conclusion that, in
+the entire context, they do not include the prosecution of s. 239  offences.  79                              
+As several of this Court’s recent cases have illustrated, the words
+employed in the English and French versions of a federal statute are equally
+authoritative and should be read together in order to ascertain the proper
+meaning of the terms.  The meaning of “administration” is clear.  On the other
+hand, the ordinary sense of the term “enforcement” could conceivably encompass
+both assessment of tax liability and prosecution of offences (the Oxford
+English Reference Dictionary (2nd ed. 1996) defines “enforce” as “compel
+observance of (a law etc.)”).  As for the French  version, it provides
+negligible assistance here, since the two terms are rendered in equally wide
+scope, as “l’application et l’exécution”.  Hence, the question remains:
+does “enforcement” of the ITA  include the prosecution of the s. 239  criminal
+offences?  80                              
+This Court considered the scope of the requirement power in Canadian
+Bank of Commerce v. Canada (Attorney General), [1962] S.C.R. 729, James
+Richardson & Sons, Ltd. v. M.N.R., [1984] 1 S.C.R. 614.  At p. 625 of
+the Richardson case, Wilson J. held that the provision could not be
+employed for a “fishing expedition”, and that it was “only available to the
+Minister to obtain information relevant to the tax liability of some specific
+person or persons if the tax liability of such person or persons is the subject
+of a genuine and serious inquiry”.  81                              
+The respondent’s interpretation of “proper questions” for the purposes
+of s. 231.1(1) (d) implies that the words “administration or
+enforcement”, as they are used in the context of s. 231.1(1) , do not extend to
+the investigation of ITA  offences.  Additionally and, in our view, more
+significantly, it is useful to contrast the language of ss. 231.1(1)  and
+231.2(1)  with that of s. 231.3(1) , which sets out an ex parte
+application process for a warrant to search “for any document or thing that
+may afford evidence [of] the commission of [the] offence under this Act”
+(emphasis added).  The existence of a prior authorization procedure where the
+commission of an offence is suspected creates a strong inference that the
+separate statutory inspection and requirement powers are unavailable to further
+a prosecutorial investigation.  82                              
+In response to a question put to him during the appeal, counsel for the
+respondent submitted that the s. 231.3(1) warrant power was “residual”, in the
+sense that it was intended to provide protection against the eventuality that a
+taxpayer, informed of an audit against him or her, would destroy his or her
+records in order to be charged with non-compliance under s. 238 rather than
+evasion under s. 239; the theory advanced being that the warrant, because of
+its being issued ex parte, would allow the authorities to act before the
+taxpayer were even aware of the audit.  83                              
+We cannot accept that argument.  First, we find it difficult to imagine
+why Parliament, if it truly desired to create such a safeguard for tax
+assessment purposes, would attach three such onerous pre-requisites to its
+issuance.  The s. 231.3  warrant issues only in circumstances where the judge is
+satisfied that there are reasonable grounds to believe: that an ITA  offence was
+committed (s. 231.3(3) (a)); that a document or thing affording evidence
+of the offence is likely to be found (s. 231.3(3) (b)); and that the
+place specified in the application for the warrant is likely to contain the
+document or thing (s. 231.3(3) (c)).  Plainly, s. 231.3 is concerned with
+offences against the Act, and not with auditorial verifications.  It follows
+that the s. 231.3  warrant covers generally the same ground as does the Criminal
+Code ’s s. 487  warrant (see R. v. Multiform Manufacturing Co., [1990]
+2 S.C.R. 624), which was in fact the route chosen by Revenue Canada to obtain
+evidence of the offences in the present case.  According to one expert, it is
+now the CCRA’s standard practice to use s. 487  of the Criminal Code 
+rather than s. 231.3  of the ITA :  see Krishna, supra, at p. 810. 
+Second, and perhaps more fundamentally, Parliament made it an offence under s.
+239(1) (b) to destroy records or books of account; substituting a charge
+under one paragraph of s. 239(1)  for another would be a Pyrrhic victory for the
+miscreant taxpayer.  84                              
+Although the taxpayer and the CCRA are in opposing positions during an
+audit, when the CCRA exercises its investigative function they are in a more
+traditional adversarial relationship because of the liberty interest that is at
+stake.  In these reasons, we refer to the latter as the adversarial
+relationship.  It follows that there must be some measure of separation between
+the audit and investigative functions within the CCRA.  Of course, having
+determined this, it remains for us to determine the bounds between the ITA 
+audit and investigation and then to discuss the legal consequences.  To this,
+we now turn.  D.     Delineating the Bounds Between Audit and
+Investigation: Nature of the Inquiry  85                              
+We have been directed to a plethora of cases that have attempted to draw
+the line between audit and investigation for income tax purposes.  There is a
+lack of consensus on the matter.  Some courts have stated that the
+investigation begins at the time when there are reasonable and probable grounds
+to believe that an offence has occurred:  see R. v. Bjellebo, [1999]
+O.J. No. 965 (QL) (Gen. Div.), at para. 171; R. v. Pheasant, [2001]
+G.S.T.C. 8 (Ont. C.J.), at para. 68; R. v. Chusid (2001), 57 O.R. (3d)
+20 (S.C.J.), at para. 61.  86                              
+Some cases have referred to “reasonable suspicions” of an offence as
+engaging the audit/investigation tripwire:  R. v. Roberts, [1998] B.C.J.
+No. 3184 (QL) (Prov. Ct.), at paras. 39-40; R. v. Dial Drug Stores Ltd.
+(2001), 52 O.R. (3d) 367 (C.J.), at p. 387.  Still other cases have held that
+the test is one of “predominant purpose”:  see the lower court judgments in the
+case at bar; Samson v. Canada, [1995] 3 F.C. 306 (C.A.), leave to appeal
+refused, [1996] 1 S.C.R. ix (sub nom. Samson v. Addy); R. v. Yip
+(2000), 278 A.R. 124, 2000 ABQB 873, at para. 34; R. v. Anderson (2001),
+209 Sask. R. 117, 2001 SKQB 334, at para. 36; R. v. Seaside Chevrolet
+Oldsmobile Ltd. (2002), 248 N.B.R. (2d) 132, 2002 NBPC 5, at para. 51. 
+Another has purported to have applied the same test, only to find that the
+predominant purpose will always be investigatory when “matters are
+placed in the hands of” Special Investigations Section: see R. v. Warawa
+(1997), 208 A.R. 81 (Q.B.), at paras. 11-12 and 134.  87                              
+In Norway Insulation, supra, LaForme J. held, at p. 437,
+that the regulatory nature of an inquiry “changed after Special Investigations
+became involved and directed the subsequent work”.  He also agreed with the
+trial judge (reasons at [1995] 2 C.T.C. 451 (Ont. Ct. (Prov. Div.)) that it was
+when the first auditor developed the opinion, ultimately erroneous, that there
+was “sufficient evidence” of an offence, that the inquiry changed hue. 
+Finally, in R. v. Coghlan, [1994] 1 C.T.C. 164 (Ont. Ct. (Prov. Div.)),
+at p. 172, Judge Ratushny opined that it was only when “Revenue Canada decides
+to lay criminal charges” that the criminal investigation begins.  Otherwise,
+“the searches or seizures are for the bona fide purpose of determining
+compliance with the Income Tax Act , whether or not Revenue Canada
+suspects a criminal offence during that time” (ibid.).  Coghlan
+was followed in Gorenko v. La Reine, [1997] R.J.Q. 2482 (Sup. Ct.), at
+p. 2500 (aff’d [1999] Q.J. No. 6268 (QL) (C.A.), leave to appeal to S.C.C.
+granted and appeal discontinued, [2000] 2 S.C.R. ix).  88                              
+In our view, where the predominant purpose of a particular inquiry is
+the determination of penal liability, CCRA officials must relinquish the
+authority to use the inspection and requirement powers under ss. 231.1(1)  and
+231.2(1) .  In essence, officials “cross the Rubicon” when the inquiry in
+question engages the adversarial relationship between the taxpayer and the
+state.  There is no clear formula that can answer whether or not this is the
+case.  Rather, to determine whether the predominant purpose of the inquiry in
+question is the determination of penal liability, one must look to all factors
+that bear upon the nature of that inquiry.  89                              
+To begin with, the mere existence of reasonable grounds that an offence
+may have occurred is by itself insufficient to support the conclusion that the
+predominant purpose of an inquiry is the determination of penal liability. 
+Even where reasonable grounds to suspect an offence exist, it will not always
+be true that the predominant purpose of an inquiry is the determination of
+penal liability.  In this regard, courts must guard against creating procedural
+shackles on regulatory officials; it would be undesirable to “force the
+regulatory hand” by removing the possibility of seeking the lesser
+administrative penalties on every occasion in which reasonable grounds existed
+of more culpable conduct.  This point was clearly stated in McKinlay
+Transport, supra, at p. 648, where Wilson J. wrote: “The Minister
+must be capable of exercising these [broad supervisory] powers whether or not
+he has reasonable grounds for believing that a particular taxpayer has breached
+the Act.”  While reasonable grounds indeed constitute a necessary condition for
+the issuance of a search warrant to further a criminal investigation (s. 231.3 
+of the ITA ; Criminal Code, s. 487 ), and might in certain cases serve to
+indicate that the audit powers were misused, their existence is not a
+sufficient indicator that the CCRA is conducting a de facto
+investigation.  In most cases, if all ingredients of an offence are reasonably
+thought to have occurred, it is likely that the investigation function is
+triggered.  90                              
+All the more, the test cannot be set at the level of mere suspicion that
+an offence has occurred.  Auditors may, during the course of their inspections,
+suspect all manner of taxpayer wrongdoing, but it certainly cannot be the case
+that, from the moment such suspicion is formed, an investigation has begun.  On
+what evidence could investigators ever obtain a search warrant if the whiff of
+suspicion were enough to freeze auditorial fact-finding?  The state interest in
+prosecuting those who wilfully evade their taxes is of great importance, and we
+should be careful to avoid rendering nugatory the state’s ability to investigate
+and obtain evidence of these offences.  91                              
+The other pole of the continuum is no more attractive.  It would be a
+fiction to say that the adversarial relationship only comes into being when
+charges are laid.  Logically, this will only happen once the investigators
+believe that they have obtained  evidence that indicates wrongdoing.  Because
+the s. 239 offences contain an element of mental culpability, the state will,
+one must presume, usually have some evidence that the accused satisfied the mens
+rea requirements before laying an information or preferring an indictment. 
+The active collection of such evidence indicates that the adversarial
+relationship has been engaged, since it is irrelevant to the determination of
+tax liability.  Moreover, although there are judicial controls on the
+unauthorized exercise of power (Roncarelli v. Duplessis, [1959] S.C.R.
+121; Babcock v. Canada (Attorney General), [2002] 3 S.C.R. 3, 2002 SCC
+57, at para. 25), we believe that allowing CCRA officials to employ ss. 231.1(1) 
+and 231.2(1)  until the point where charges are laid, might promote bad faith on
+the part of the prosecutors.  Quite conceivably, situations may arise in which
+charges are delayed in order to compel the taxpayer to provide evidence against
+himself or herself for the purposes of a s. 239 prosecution.  Although the
+respondent argued that such situations could be remedied by the courts, we view
+it as preferable that such situations be avoided rather than remedied.  It is
+for this reason that the test is as set out above.  92                              
+Whether a matter has been sent to the investigations section is another
+factor  in determining whether the adversarial relationship exists.  Again,
+though, this, by itself, is not determinative.  An auditor’s recommendation that
+investigators look at a file might result in nothing in the way of a criminal
+investigation since there is always the possibility that the file will be sent
+back.  Still, if, in an auditor’s judgment, a matter should be sent to the
+investigators, a court must examine the following behaviour very closely.  If
+the file is sent back, does it appear that the investigators have actually
+declined to take up the case and have returned the matter so that the audit can
+be completed?  Or, does it appear, rather, that they have sent the file back as
+a matter of expediency, so that the auditor may use ss. 231.1(1)  and 231.2(1) 
+to obtain evidence for a prosecution (as was found to be the case in Norway
+Insulation, supra)?  93                              
+To reiterate, the determination of when the relationship between the
+state and the individual has reached the point where it is effectively
+adversarial is a contextual one, which takes account of all relevant factors. 
+In our opinion, the following list of factors will assist in ascertaining whether
+the predominant purpose of an inquiry is the determination of penal liability.
+Apart from a clear decision to pursue a criminal investigation, no one factor
+is necessarily determinative in and of itself, but courts must assess the
+totality of the circumstances, and make a determination as to whether the
+inquiry or question in issue engages the adversarial relationship between the
+state and the individual.  94                              
+In this connection, the trial judge will look at all factors, including
+but not limited to such questions as:  (a)               Did the authorities have
+reasonable grounds to lay charges?  Does it appear from the record that a
+decision to proceed with a criminal investigation could have been made?  (b)               Was the general conduct of the
+authorities such that it was consistent with the pursuit of a criminal
+investigation?  (c)               Had the auditor transferred his
+or her files and materials to the investigators?  (d)               Was the conduct of the auditor
+such that he or she was effectively acting as an agent for the investigators?  (e)               Does it appear that the
+investigators intended to use the auditor as their agent in the collection of
+evidence?  (f)                Is the evidence sought relevant
+to taxpayer liability generally?  Or, as is the case with evidence as to the
+taxpayer’s mens rea, is the evidence relevant only to the taxpayer’s
+penal liability?  (g)               Are there any other circumstances
+or factors that can lead the trial judge to the conclusion that the compliance
+audit had in reality become a criminal investigation?  It should also
+be noted that in this case we are dealing with the CCRA.  However, there may
+well be other provincial or federal governmental departments or agencies that
+have different organizational settings which in turn may mean that the above
+factors, as well as others, will have to be applied in those particular
+contexts.  E.      Charter Consequences  95                              
+With respect to the consequences related to s. 8  of the Charter , McKinlay
+Transport, supra, makes it clear that taxpayers have very little
+privacy interest in the materials and records that they are obliged to keep
+under the ITA , and that they are obliged to produce during an audit.  Moreover,
+once an auditor has inspected or required a given document under ss. 231.1(1) 
+and 231.2(1) , the taxpayer cannot truly be said to have a reasonable
+expectation that the auditor will guard its confidentiality.  It is well known,
+as Laskin C.J. stated in Smerchanski, supra, at p. 32, that
+“[t]he threat of prosecution underlies every tax return if a false statement is
+knowingly made in it”.  It follows that there is nothing preventing auditors
+from passing to investigators their files containing validly obtained audit
+materials.  That is, there is no principle of use immunity that prevents the
+investigators, in the exercise of their investigative function, from making use
+of evidence obtained through the proper exercise of the CCRA’s audit function. 
+Nor, in respect of validly obtained audit information, is there any principle
+of derivative use immunity that would require the trial judge to apply the “but
+for” test from S. (R.J.), supra.  If a particular piece of
+evidence comes to light as a result of the information validly contained in the
+auditor’s file, then investigators may make use of it.  96                              
+On the other hand, with respect to s. 7  of the Charter , when the
+predominant purpose of a question or inquiry is the determination of penal
+liability, the “full panoply” of Charter  rights are engaged for the
+taxpayer’s protection.  There are a number of consequences that flow from
+this.  First, no further statements may be compelled from the taxpayer by way
+of s. 231.1(1) (d) for the purpose of advancing the criminal
+investigation.  Likewise, no written documents may be inspected or examined,
+except by way of judicial warrant under s. 231.3  of the ITA  or s. 487  of the Criminal
+Code , and no documents may be required, from the taxpayer or any third
+party for the purpose of advancing the criminal investigation.  CCRA officials
+conducting inquiries, the predominant purpose of which is the determination of
+penal liability, do not have the benefit of the ss. 231.1(1)  and 231.2(1) 
+requirement powers.  97                              
+The predominant purpose test does not thereby prevent the CCRA from
+conducting parallel criminal investigations and administrative audits.  The
+fact that the CCRA is investigating a taxpayer’s penal liability, does not
+preclude the possibility of a simultaneous investigation, the predominant
+purpose of which is a determination of the same taxpayer’s tax liability. 
+However, if an investigation into penal liability is subsequently commenced,
+the investigators can avail themselves of that information obtained pursuant to
+the audit powers prior to the commencement of the criminal investigation, but
+not with respect to information obtained pursuant to such powers subsequent to
+the commencement of the investigation into penal liability.  This is no less
+true where the investigations into penal liability and tax liability are in
+respect of the same tax period.  So long as the predominant purpose of the
+parallel investigation actually is the determination of tax liability, the
+auditors may continue to resort to ss. 231.1(1)  and 231.2(1) .  It may well be
+that there will be circumstances in which the CCRA officials conducting the tax
+liability inquiry will desire to inform the taxpayer that a criminal
+investigation also is under way and that the taxpayer is not obliged to comply
+with the requirement powers of ss. 231.1(1)  and 231.2(1)  for the purposes of
+the criminal investigation.  On the other hand, the authorities may wish to
+avail themselves of the search warrant procedures under ss. 231.3  of the ITA  or
+487 of the Criminal Code  to access the documents necessary to advance
+the criminal investigation.  Put another way, the requirement powers of ss.
+231.1(1)  and 231.2(1)  cannot be used to compel oral statements or written
+production for the purpose of advancing the criminal investigation.  98                              
+In summary, wherever the predominant purpose of an inquiry or question is the
+determination of penal liability, criminal investigatory techniques must be
+used.  As a corollary, all Charter  protections that are relevant in the
+criminal context must apply.  F.      Summary  99                              
+By way of summary, the following points emerge:  1.                Although the ITA  is a regulatory
+statute, a distinction can be drawn between the audit and investigative powers
+that it grants to the Minister.  2.                When, in light of all relevant
+circumstances, it is apparent that CCRA officials are not engaged in the
+verification of tax liability, but are engaged in the determination of penal
+liability under s. 239, the adversarial relationship between the state and the
+individual exists.  As a result, Charter  protections are engaged.  3.                When this is the case,
+investigators must provide the taxpayer with a  proper warning.  The powers of
+compulsion in ss. 231.1(1)  and 231.2(1)  are not available, and search warrants
+are required in order to further the investigation.  VI.    Application
+to the Facts of the Jarvis Case  100                          
+Whether or not a given inquiry is auditorial or investigatory in nature
+is a question of mixed fact and law.  It involves subjecting the facts of a
+case to a multi-factored legal standard (Canada (Director of Investigation
+and Research) v. Southam Inc., [1997] 1 S.C.R. 748, at para. 35) and,
+accordingly, Judge Fradsham’s finding is not immune from appellate review.  101                          
+In our view, although Goy-Edwards’s conduct throughout her dealings with
+the appellant and his accountant was not praiseworthy — and at points appears
+deceptive — we do not think that the record rises to support a finding that she
+obtained information under ss. 231.1(1)  and 231.2(1)  while conducting an
+investigation, the predominant purpose of which was a determination of Jarvis’s
+penal liability.   While Goy-Edwards did on several occasions mislead the
+appellant and his accountant as to the status of the file, she did not use misleading
+tactics in order to obtain information under ss. 231.1(1)  and 231.2(1) 
+for the purpose of advancing an investigation into penal liability.  Moreover,
+there seems to have been but minor contact between Goy-Edwards and Chang from
+the moment when the file was transferred to Special Investigations on May 4,
+1994.  In brief, Goy-Edwards should undoubtedly have been truthful when asked
+about the status of the appellant’s file, but there is no evidence to show that
+she used her audit powers to obtain information for prosecutorial purposes.  102                          
+We do not think it was improper for Goy-Edwards to have brought her
+supervisor to the April 11 meeting in order to provide a “second opinion” as to
+whether the file should be sent to the investigative section.  The auditor
+should not have  asked if the appellant felt comfortable with the attendance of
+an “assistant” when that person was in fact a supervisor, but this did not
+change the fact that the referral to Special Investigations was the auditor’s
+determination.  So long as there has been no crystallization of the adversarial
+relationship, there is, in our view, nothing wrong with an auditor seeking the
+counsel of another before completing the transfer paperwork.  103                          
+The record indicates that very little new information came to light as a
+result of the April 11 meeting.  Goy-Edwards was seeking confirmation of a
+suspicion that she held that tax evasion may have occurred, but her goal in
+this was to determine whether to refer the file.  There is no suggestion that
+she was seeking information to be used in an eventual prosecution, which fact
+is borne out by the conclusions of the Court of Queen’s Bench and the Court of
+Appeal:  much of the material that was relied upon in the Information to Obtain
+was already in Revenue Canada’s possession.  In this respect, as previously
+stated, it is clear that, although an investigation has been commenced, the
+audit powers may continue to be used, though the results of the audit cannot be
+used in pursuance of the investigation or prosecution.  104                          
+We conclude that, on the facts of this case, the April 11 meeting did
+not constitute an investigation into Jarvis’s penal liability under s. 239  of
+the ITA .  It follows that, other than the paragraphs struck from the
+Information by the trial judge as being erroneous, nothing should have been
+omitted from the application for the search warrant, and the warrant was
+therefore validly issued.  Based on the application of the relevant factors as
+discussed above, we differ with the courts below and find that there was no
+investigation into penal liability prior to May 4, 1994, when  Goy-Edwards
+filled out the Form T134 and referred her file to Special Investigations.  The
+record establishes that Chang’s efforts to determine whether reasonable grounds
+to obtain a search warrant commenced upon her receipt of the file, and that she
+concluded shortly thereafter that such grounds existed.  105                          
+The searches of the appellant’s residence, his accountant’s residence,
+and Revenue Canada’s Calgary office were therefore conducted pursuant to a
+valid warrant.  The evidence obtained therefrom should be admissible in a new
+trial, if one is held.  We point out, however, that some banking information
+was obtained pursuant to s. 231.2(1)  requirement letters in early 1995.  On the
+above analysis, this usage violated the appellant’s s. 7  rights, since the
+investigation was at that point well underway.  The respondent did not argue
+that the trial judge had erred in his application of s. 24(2)  of the Charter ,
+and we would therefore order that the banking records be excluded from any
+subsequent criminal proceedings against the appellant.  VII.   Disposition  106                          
+Accordingly, we would dismiss the appeal, and uphold the Alberta
+Court of Appeal’s judgment and order for a new trial.  Appeal dismissed.  Solicitors for the appellant:  Macleod Dixon,
+Calgary.  Solicitor for the respondent:  The Department
+of Justice, Vancouver.  Solicitor for the intervener the Attorney General
+for Ontario:  The Ministry of the Attorney General, Toronto.  Solicitor for the intervener the Criminal Lawyers’
+Association (Ontario):   Scott K. Fenton, Toronto.    

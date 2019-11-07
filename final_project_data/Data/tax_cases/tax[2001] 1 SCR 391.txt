@@ -1,0 +1,349 @@
+Editor’s Note:
+Addendum released on September 24, 2001. Original judgment has been corrected
+with text of addendum appended.  Spire Freezers Ltd. v. Canada,
+[2001] 1 S.C.R. 391, 2001 SCC 11  Spire Freezers Ltd., Patrick Gouveia,                                              Appellants John O’Neill,
+Edward Butcher, John Dobrei and Maroje Miloslavic  v.  Her Majesty The Queen                                                                   Respondent  Indexed as:  Spire Freezers
+Ltd. v. Canada  Neutral citation:  2001 SCC
+11.  File No.:  27415.  2000:  November 10; 2001: March
+1.   on appeal from the federal court of appeal  Income tax --
+Calculation of income -- Partnership -- Losses -- Original U.S. partners
+assigning partnership interest to Canadian assignees -- Assignees immediately
+selling main asset of partnership back to original partners at fair market
+value incurring substantial loss -- Assignees carrying on ancillary business of
+partnership -- Whether valid partnership established for income tax purposes --
+Whether assignees entitled to deduct partnership loss.   A U.S. partnership, which
+was involved in the development of luxury residential condominiums and a
+low-rent apartment building ancillary to the main project, incurred potential
+losses which the appellants, through taking assignments of partnership
+interests, sought to acquire for use as an income tax deduction in Canada.
+Negotiations resulted in several transactions occurring on the same day.  The
+corporate appellant acquired 75 percent of the partnership interest and for a
+brief moment was a de jure partner with a U.S. partner.  The individual
+appellants acquired the remaining partnership interest a short time later. 
+After the Americans left the partnership, the Canadians who had been assigned
+their interests sold the condominium project to them at fair market value
+incurring a substantial loss which was later claimed on their 1987 Canadian
+income tax. The Canadians also paid for the low-rent apartment building which
+they managed profitably for several years.  Revenue Canada disallowed the
+losses claimed by the appellants and both the Tax Court of Canada and the
+Federal Court of Appeal upheld that decision.  Held:  The appeal should be allowed.   The appellants are
+entitled to deduct the business losses.  The fact that they entered into the
+transactions mainly to reduce their  income tax liability by gaining access to
+the losses does not prevent a finding of partnership where, as in this case,
+the three essential ingredients of a valid partnership are present.  First, the
+partnership was “carrying on business”.  The partnership held the entire interest in an apartment building
+and the property management business that was associated with that asset was
+pre-existing and continued by the appellants.  Although the original American
+partners and the corporate appellant held the property management business
+jointly for only a brief period of time, the duration of the carrying on of
+business is not determinative.  A partnership may be  created for a single
+transaction.  Second, the business was carried on “in common”.  The parties having entered into a valid partnership agreement
+setting out their rights and obligations as partners established the common
+purpose element and some indicia of partnership were also present during
+the brief period the Americans and the corporate appellant were combined. 
+Finally,  the business was carried on with a view to profit.  The original
+partnership had been conceded to be valid and running a business with a view to
+a profit when the appellants were added.  During the time that the corporate
+appellant and the Americans were partners, and up until the latter withdrew
+from the partnership, they continued to carry on business with a view to
+profit.  Further, the appellants had been apprised during negotiations
+of the potential to make a profit from the apartment building and they clearly
+intended to continue that business.  Since the determination
+of the existence of a view to a profit is not a matter of strictly quantitative
+analysis, the quantum of the initial loss compared to the anticipated profit
+does not negate the holding of partnership. The law of partnership does not
+require a net gain over a determined period in order to establish that an
+activity is with a view to profit.  The parties’ intention
+to make a profit can be revisited on appeal in this case because the trial
+judge equated intention with predominant motive and did not consider whether an
+ancillary intention to profit existed.  Cases Cited  Applied:  Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R.
+298, rev’g [1996] 3 F.C. 713; distinguished:  Backman v. Canada,
+[2001] 1 S.C.R. 367, 2001 SCC 10; referred to:  Hickman Motors Ltd.
+v. Canada, [1997] 2 S.C.R. 336.  Statutes and
+Regulations Cited   APPEAL from a judgment of
+the Federal Court of Appeal, [1999] 4 F.C. 381, 242 N.R. 358, 99 D.T.C. 5297,
+[1999] 3 C.T.C. 476, 46 B.L.R. (2d) 153, [1999] F.C.J. No. 796 (QL), dismissing
+the appellants’ appeal from a judgment of the Tax Court of Canada, 98 D.T.C. 1287,
+[1998] 2 C.T.C. 2764, [1997] T.C.J. No. 1271 (QL), which found that the
+appellants were not entitled to deduct partnership losses under s. 96 of the Income
+Tax Act.  Appeal allowed.  Warren J. A. Mitchell, Q.C., and John R. Owen, for the appellants.  J. S. Gill and Marilyn Vardy, for the respondent.  The judgment of the Court
+was delivered by  1                               
+Iacobucci  and Bastarache JJ.
+-- This appeal was heard with Backman v. Canada, [2001] 1 S.C.R. 367,
+2001 SCC 10, released concurrently.  Both appeals raise the basic question of
+whether a valid partnership has been established for income tax purposes.  I.  Facts  2                               
+In 1978, a partnership named the Hamilton Cove Partnership (“HCP”) was formed in California to develop a luxury
+residential condominium project on Santa Catalina Island off the coast of
+California.  By late 1980, two equal partners remained, both American
+corporations: BCE Development Inc. (“BDI”), and its wholly owned
+subsidiary, Peninsula Cove Corporation (“Peninsula”).  3                               
+In order to obtain government approvals, the partnership was required to
+build a low-rent  apartment project known as the Tremont Apartments (“Tremont”) in Avalon on Santa
+Catalina Island.  Tremont was owned by a corporation called the Tremont Street
+Apartments Corporation (“TSAC”), which was in turn fully
+owned by HCP.  4                               
+By the end of 1986, the development costs of the HCP condominium project
+exceeded the fair market value of the project by approximately US$10 million. 
+In the spring of 1987, several Canadian parties, of whom the appellant Spire
+Freezers Ltd. was the largest, were apprised of the opportunity to purchase the
+tax losses of the HCP project at 20 cents on the dollar.  5                               
+After detailed negotiations, the parties came to an agreement.  On
+November 30, 1987, the following transactions occurred:  (a)                           
+BDI and Peninsula amended their partnership agreement to keep the
+partnership operative regardless of the withdrawal of any of its partners.  (b)                          
+TSAC sold Tremont to HCP for approximately US$2.9 million.  HCP borrowed
+these funds from BDI.   (d)                          
+Peninsula sold its 50 percent interest in the partnership to the
+appellant Spire Freezers Ltd., and BDI sold a 25 percent interest in the
+partnership to the appellant Spire Freezers Ltd.  For a brief instant, the de
+jure partners were BDI and Spire Freezers Ltd.  BDI’s remaining 25 percent interest in the
+partnership was then sold to the Spire Group, a group made up of the individual
+Canadian parties other than the appellant Spire Freezers Ltd. The total
+purchase price was US$34,530,253.  (e)                           
+HCP immediately sold the condominium project to BDI for US$33.3 million.
+The sale of the condominium project at this price gave rise to an operational
+loss of approximately US$10.4 million.  (f)                            
+HCP changed its name to the Tremont Street Partnership.  6                               
+In effect, Spire Freezers Ltd. and the Spire Group (together the
+Canadians) paid approximately US$1.2 million to acquire Tremont and the losses
+totaling about US$10.4 million that were incurred by the sale of the HCP
+project.  The Canadians have managed Tremont profitably since its acquisition. 
+In the fiscal year ending December 31, 1987, the partnership claimed a loss of
+US$10 million in respect of the HCP project sale and a capital loss of
+US$367,000 in respect of the sale of TSAC shares. Revenue Canada disallowed the
+losses. The appellants appealed to the Tax Court of Canada which ruled against
+them, as did the majority in the Federal Court of Appeal.   II.  Judgments Below  1.   Tax Court of Canada, 98 D.T.C. 1287   8                               
+The Tax Court judge reviewed the formal admissions of fact made by the
+appellants in respect of their intention to acquire a tax loss.  He also noted
+that they were aware that the continued existence of the partnership and the
+ownership of the Tremont apartment building were necessary for their objective
+to succeed.  He concluded that the appellants’
+sole motivation in entering into the transactions with BDI and Peninsula was to
+acquire a tax loss and that the thought of the transaction being profitable was
+never in the minds of the appellants.  9                               
+The Tax Court judge then applied the decision of the Federal Court of
+Appeal in Canada v. Continental Bank Leasing Corp., [1996] 3 F.C. 713,
+which has since been overturned.  He held that since none of the appellants
+intended anything other than to obtain a tax loss, the Canadians were not
+partners with respect to the ownership of the HCP condominium complex and Tremont.  2.      The Federal
+Court of Appeal, [1999] 4 F.C. 381  10         
+The majority of the Federal Court of Appeal (Linden J.A., Strayer J.A.
+concurring) affirmed the result reached in the Tax Court.  The majority
+considered this Court’s
+decision in Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R.
+298.  They recognized that even an ancillary purpose of profit making may form
+the basis of partnership.  However, in the majority’s view,  the Tax Court judge in this case 
+made an unambiguous finding of fact that the Canadians, when they purported to
+become partners, had absolutely no intention to carry on business with a view
+to profit.  Rather, their sole intention was to obtain a tax loss.  Because the
+law that an ancillary profit intention is sufficient in creating a partnership
+was known to the Tax Court judge, and because in their view there was no
+persuasive evidence to demonstrate an intention to earn a profit, ancillary or
+otherwise, the majority held that there was no basis upon which it could
+reverse a finding of fact as to the intention of the parties at the time of
+entering into a partnership contract.  Hence, the conclusion of the Tax Court
+judge that there was no business being carried on with a view to profit could
+not be challenged.  11         
+In his dissenting opinion, Robertson J.A. held that the reasons of the
+Tax Court judge should be interpreted as finding that the appellants’ predominant motive was to
+gain access to a tax loss.  At the time of his decision, the Tax Court judge’s conclusion that a valid
+partnership could not be formed in such a situation was fully supported by the
+Federal Court of Appeal decision in Continental Bank, supra,
+which he quoted extensively.  However, in the meantime that decision had been
+reversed by this Court.  In Robertson J.A.’s
+view, it was obvious that the taxpayers’
+primary intention was to acquire a substantial non-capital loss.  But it is
+equally obvious that their secondary intention was to acquire and retain an
+income producing asset, Tremont, by which they could continue to carry on
+business in common.  Hence, he concluded that this Court’s decision in Continental Bank,
+supra, was dispositive of the issue before the Court of Appeal and that the
+appellants had established a sufficient basis for a finding that a partnership
+existed at the material time.  III.    Analysis  1.           
+Introduction  12         
+In this appeal, we are asked to consider whether the appellants, Spire
+Freezers Ltd. and the Spire Group, are entitled to deduct the business losses
+they claim to have accumulated as partners in the Californian partnership HCP.
+The Canada Customs and Revenue Agency, on behalf of the respondent in this
+appeal,  reassessed the appellants on the ground that they were not true
+partners and therefore could not claim the business losses.  As already noted,
+this case was heard at the same time as Backman, supra, reasons
+in which are being released concurrently herewith, and which applied the
+principles enunciated by this Court in Continental Bank, supra. 
+Like Backman, the principal issue to be decided in this appeal is:  were
+the appellants members of a partnership at the time the losses were incurred?  13         
+With respect to the majority in the Federal Court of Appeal, we would
+allow the appeal for substantially the same reasons as expressed in the dissent
+of Robertson J.A. but wish to elaborate some points.  2.           
+Were the Appellants Members of a Partnership?  14         
+The essential ingredients of partnerships and the proper approach to
+determining whether a partnership exists are discussed in Backman.   We
+summarize those principles below.  (a)  The Essential Ingredients of
+Partnership  15         
+The three essential ingredients of a valid partnership in Canada were
+recently described by this Court in Continental Bank, supra, at
+para. 22.   At the time the alleged partnership is formed, the evidence must
+disclose that the alleged partners were (1) carrying on a business, (2) in
+common, (3) with a view to profit.  16         
+In Backman, supra, we discuss the concepts of “carrying on a business”, “business”,
+“in common”, and “view to profit” as applied to partnership
+law and as described in Continental Bank.  We need not repeat that
+discussion here.  Indeed, most of the reasoning in Backman is applicable
+in this case.  17         
+As stated in Continental Bank, and reiterated in Backman,
+a tax motivation will not derogate from the validity of a partnership where the
+essential ingredients of a partnership are otherwise present: Continental
+Bank, supra, at paras. 50-52; Backman, supra, at para.
+22.  Furthermore, as held in Backman, where a Canadian taxpayer seeks to
+deduct partnership losses through s. 96 of the Act, he
+or she must satisfy the essential elements of a partnership that exist under
+Canadian law.  In other words, for the purposes of s. 96 of the Act, the essential
+elements of a partnership must be present, even in respect of foreign
+partnerships: Backman, supra, at para. 17.  (b)   The Approach
+to Determining Whether a Partnership Exists  18         
+As explained in Backman, the determination of the existence of a
+partnership will depend on the true contract and intention of the parties as
+appearing from the whole of the facts of the case.  Courts must be pragmatic in
+their approach to the three essential ingredients of partnership and weigh the
+relevant factors in the context of all the surrounding circumstances: Backman,
+supra, at paras. 25-26.  (c)   Application to the Facts at Bar  19         
+The transactions at issue in this case are similar to those in Backman.   
+As in Backman, in this case, two groups of Canadians allege that they
+became partners in a valid partnership through a series of transactions that
+involved their taking   assignments of partnership interests in a pre-existing
+American partnership.  The original American partners withdrew, leaving the
+resultant alleged partnership between the Canadians holding two assets.  The
+primary asset,  in this case the HCP condominium project, was held briefly and
+in effect sold back to the original American partners, generating a large loss
+for the alleged partnership.  The subordinate asset,  in this case the Tremont
+apartment building, is the vehicle through which the appellants seek to
+establish that there was an ancillary purpose in the transactions that rendered
+them members of a valid partnership, namely to carry on business in common with
+a view to profit.  20         
+However, despite the similarities between the transactions in this case
+and those in Backman, there are some essential differences.  For
+example, in respect of whether there was a carrying on of business, it is
+notable that there is a significant difference between the subordinate assets
+in Backman and Spire in terms of the degree of effort required of
+the appellants and expended by them in management.   In Backman, the
+subordinate asset was a one percent interest in an oil and gas property,
+purchased for the sum of $5,000 during the transition between American and
+Canadian control of the alleged partnership.  The alleged partnership in Backman
+had no significant management control over that asset, nor did the acquisition
+of that asset represent a continuation of a pre-existing business of one of the
+putative partners.  When production was shut down shortly after purchase, no
+other investments in oil and gas were made.  Thus, in Backman, the
+alleged partnership was “an
+empty shell that does not in fact carry on business” (see Backman, supra, at para.
+20).  In this case, the subordinate asset held by the partnership was the
+entire interest in an apartment building.  The property management business
+that was associated with that asset was pre-existing and continued by the
+Canadians.  Tremont required a substantial management effort which the
+appellants provided, and from which they benefited by generating profit.   As
+noted by Robertson J.A., “the
+partnership continued to hold title to a profit-generating asset,
+namely, the apartment building, for at least a decade after the sale of the
+condominium development”
+(para. 57 (emphasis in original)).  21         
+Although the original American partners and Spire Freezers Ltd. held the
+property management business jointly for only a brief period of time, the
+duration of the carrying on of business is not determinative.  The fact that a
+partnership is created for a single transaction is of no consequence. 
+Furthermore, it is not necessary to show that the parties held meetings,
+entered into new transactions, or made decisions: Continental Bank,
+supra, at paras. 31-33.  And a business may be established even in circumstances
+where the sole business activity is the passive receipt of rent, as was noted
+by L’Heureux-Dubé J.
+in Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, at para. 46. 
+Consequently, while in Backman it could not fairly be said that the
+alleged partnership was carrying on business, that is not true of the
+appellants in this case.   23         
+With respect to the question of whether the business was carried
+on with a view to profit, it is conceded that prior to the relevant
+transactions, HCP was a valid and existing partnership and that it had
+been formed with a view to profit.  It is also clear that the partnership was
+running a business with a view to profit when the new Canadian partners were
+added.  The fact that the American partners withdrew from the partnership does
+not take away from the fact that during the time that they were partners, and
+up until their withdrawal from the partnership, they continued to carry on
+business with a view to profit.  For their part, the appellants must have
+entered into the transactions in this case with a view to profit since they
+were apprised during negotiations of the potential to make a profit from the
+Tremont apartment building and they clearly intended to continue that
+business.   This is in contrast to the appellant in Backman
+whose efforts were characterized by the trial judge as “nothing
+more than window dressing” and the finding by the Court of Appeal that there was no real
+ancillary profit-making purpose behind the appellant’s
+involvement in the oil and gas property.  24         
+The majority in the Court of Appeal rejected the contention that a valid
+partnership with a view to profit was formed when the new Canadian partners
+were admitted to the partnership based on the intention of the American
+partners to abandon the partnership and their possession of the Tremont asset
+immediately thereafter.    This amounts to a conclusion that there was no
+carrying on of a business in common between the American and Canadian
+partners.  However, the fact is that during the short time the American and
+Spire Freezers Ltd. were involved, they ran the HCP condominium project and
+Tremont as a business in common.  The partnership subsisted and continued to
+carry on a business  after the withdrawal of the Americans. At all relevant
+times, then, there were partners managing assets.  At some point, all partners
+were associated in the management of the Tremont apartment building.   In other
+words, at all times there was a carrying on of business in common.  25         
+As noted above, the duration of the partnership is not determinative. 
+It is settled law that a partnership may be formed for a single transaction. 
+As a general matter, internal arrangements with regard to liability between
+partners are not of prime importance in determining the existence of a
+partnership.  Consequently, the liability sharing arrangement in respect of the
+condominium project and Tremont is not of great significance on the partnership
+question.  Furthermore, as noted above, the fact that the appellants admitted
+that they principally entered into the transactions to reduce their Canadian
+income tax liability by gaining access to the losses does not prevent a finding
+of partnership.  26         
+The majority of the Court of Appeal also rejected the notion that there
+was a view to profit because the parties did not contemplate recouping the
+initial loss.  However, the determination of the existence of a view to profit
+is not a matter of strictly quantitative analysis.  The quantum of the initial
+loss compared to the anticipated profit does not negate the holding of
+partnership in this case.  The law of partnership does not require a net gain
+over a determined period in order to establish that an activity is with a view
+to profit.  For example, a partnership may incur initial losses during the
+start-up phase of its enterprise.  That does not mean that the relationship is
+not one of partnership, so long as the enterprise is carried on with a view to
+profit in the future.  Here, the transactions at issue necessarily involved a
+transfer of both the condominium project and Tremont.  Despite the fact that a
+loss was incurred by the subsequent sale of the condominium project, the fact
+that the Canadian partners were aware of the potential for profit from the
+Tremont apartment building before entering the partnership and the fact that
+Tremont consistently turned a profit after the entry of the Canadian partners
+clearly establish the business was carried on with a view to profit,
+notwithstanding that the aggregate profits may never exceed the tax loss
+incurred in the year of the transactions at issue.  27         
+We reject the conclusion of the majority of the Federal Court of
+Appeal that the question of whether the parties’
+intention to make a profit is a purely factual one that cannot be revisited in
+the instant case.  The intention to make a profit cannot only be judged merely
+subjectively, it must also be based on objective evidence.  We place little
+weight on the finding  that the appellants’
+only intent was to obtain a tax benefit.  The trial judge erred with respect to
+this issue by failing to give proper attention to the ancillary purpose
+described above. As mentioned earlier, the trial judge did not have the benefit
+of this Court’s ruling
+in Continental Bank and made his findings while under the impression
+that the predominant motive of the taxpayer was determinative and that profit
+had to consist of a net gain over and above the initial loss sought to be
+deducted (see Rip T.C.C.J.’s
+reasons at pp. 1298-99).  28         
+In summary, although there are similarities between the transactions at
+issue in Backman and in this case, there are also several essential
+differences, including the continuity of the business of the partnership, the
+management effort required to sustain it, and the objective evidence of an
+anticipation of profit. Considering all the facts and circumstances, we believe
+it is clear that the formal requirements necessary for partnership are present
+in Spire, while in Backman they were not.  IV.  Disposition  29         
+We would allow the appeal with costs  in this Court and in the courts
+below, set aside the decision of the Federal Court of Appeal, and order that
+the appellants are entitled to deduct the loss in question under s. 96 of the Income
+Tax Act.  Appeal allowed with costs.  Solicitors for the
+appellants:  Thorsteinssons, Vancouver.  Solicitor for the
+respondent:  The Deputy Attorney General of Canada, Toronto.  Rehearing  Spire
+Freezers Ltd. v. Canada, [2001] 1 S.C.R. 391, 2001 SCC 11 The judgment of the Court
+was amended on September 24, 2001 by adding in para. 29 the words "in
+this Court and in the courts below" after the word "costs".   

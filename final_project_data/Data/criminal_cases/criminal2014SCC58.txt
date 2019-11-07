@@ -1,0 +1,802 @@
+  SUPREME
+COURT OF CANADA  Citation:  R. v. Mack, 2014 SCC 58, [2014] 3 S.C.R. 3 Date: 20140926 Docket: 35093  Between: Dax
+Richard Mack Appellant and Her
+Majesty The Queen Respondent - and - Attorney
+General of Ontario and Attorney General of British Columbia Interveners  Coram: McLachlin C.J. and LeBel, Abella, Cromwell, Moldaver,
+Karakatsanis and Wagner JJ.  Reasons
+  for Judgment: (paras. 1 to 69) Moldaver J. (McLachlin C.J. and LeBel,
+  Abella, Cromwell, Karakatsanis and Wagner JJ. concurring)     r. v. mack, 2014 SCC 58,
+[2014] 3 S.C.R. 3 Dax Richard Mack                                                                                         Appellant v. Her Majesty The Queen                                                                              Respondent and Attorney General of Ontario and Attorney General of British
+Columbia                                                       Interveners Indexed as:  R. v. Mack 2014 SCC 58 File No.:  35093. 2013:  December 3; 2014:  September 26. Present:  McLachlin C.J. and LeBel, Abella, Cromwell, Moldaver,
+Karakatsanis and Wagner JJ. on appeal from the court
+of appeal for alberta                     Criminal
+Law — Evidence — Admissibility — Confessions — “Mr. Big” confessions — Charge
+to jury — Accused confessing to murdering his roommate during Mr. Big operation
+— Whether accused’s confessions should be excluded under s. 24(2) of Charter —
+If not, whether trial judge’s jury charge adequate on evidentiary concerns of Mr.
+Big confessions — Whether trial judge’s jury charge also adequate on reliability
+of Crown witness’ testimony — Canadian Charter of Rights and Freedoms, s. 24(2) .                     After
+a murder victim was reported missing, the police received information that his
+roommate M had confessed to killing him and initiated an investigation. The
+investigation had two components:  a Mr. Big operation and a wiretap
+authorization to intercept M’s phone calls. During the Mr. Big operation, M
+twice admitted to undercover police officers that he shot the victim and burned
+his body. That information led police to conduct a search of a firepit where
+they located fragments of bones and teeth later identified as belonging to the
+victim, and shell casings later determined to have been fired from a gun seized
+from M’s apartment. M was arrested and charged with first degree murder. At the
+time of M’s arrest, the Mr. Big operation had been in progress for four months
+and M had participated in 30 “scenarios” with undercover officers. He had been
+paid approximately $5,000 for his work, plus expenses. At trial, the Crown
+conceded that its wiretap authorization did not comply with the Criminal
+Code  and therefore, violated s. 8  of the Charter . As a result of
+this violation, the Crown did not adduce any of M’s calls, but did adduce his
+two confessions to the undercover police officers during the Mr. Big operation.
+However, M argued that the wiretap authorization was so intertwined with the Mr.
+Big operation that the illegality of the authorization necessitated excluding
+his confessions under s. 24(2)  of the Charter . The trial judge rejected
+this argument and determined that s. 24(2)  was not engaged. The trial judge
+provided instructions to the jury in relation to the evidence arising from the Mr.
+Big operation. He also cautioned the jury about the testimony of the Crown’s
+principal witness and provided a Vetrovec warning in relation to his
+evidence. The jury found M guilty of first degree murder and his appeal from
+conviction was dismissed by the Court of Appeal.                     Held: 
+The appeal should be dismissed.                     Section
+24(2)  of the Charter  was not engaged because M’s confessions to the
+undercover officers were not obtained in a manner that infringed M’s rights.
+Whether evidence was obtained in a manner that infringed an accused’s rights depends
+on the nature of the connection between the infringement and the evidence
+obtained. While a causal connection is not required, the nature and extent of the
+connection remains an important factor for the trial judge’s consideration. In
+this case, M confessed to the undercover officers while the illegal wiretap was
+in place. Although the trial judge found a temporal connection between M’s confessions
+and the wiretap, its significance was undermined by a tenuous causal connection.
+That finding was open to the trial judge and there is no basis for interfering
+with it.                     Neither
+the courts below nor the parties had the benefit of this Court’s decision in R.
+v. Hart, 2014 SCC 52, [2014] 2 S.C.R. 544, under which framework a Mr. Big
+confession will be excluded where its prejudicial effect outweighs its
+probative value, or where it is the product of an abuse of process. This poses
+no difficulty, however, as M’s confessions would clearly be admissible under
+that framework.                     The
+probative value of M’s confessions was high because there was an abundance of
+evidence that was potentially confirmatory. First, M’s purported confessions to
+his acquaintances A and L describe the same motive for killing the victim as
+M’s confessions to the undercover officers. They also made reference to burning
+the victim’s body. Second, immediately after confessing to one of the
+undercover officers, M led him to the firepit in which the victim’s remains lay
+undiscovered. And third, shell casings fired from a gun found in M’s apartment
+were found in the same firepit. On the other hand, the confessions’ prejudicial
+effect was limited. The operation did not reveal unsavoury facts about M’s
+history, nor did M participate in any scenarios that involved violence.                     Nor
+did the undercover officers engage in any improper conduct that could ground an
+application for abuse of process. M was not presented with overwhelming
+inducements. He had prospects for legitimate work that would have paid even
+more than the undercover officers were offering. Nor did the officers threaten
+M with violence if he would not confess. The most that can be said is that the
+officers created an air of intimidation by referring to violent acts committed
+by members of the organization. M, however, was not coerced into confessing.                     While
+the Hart framework was intended to respond to the evidentiary concerns
+raised by Mr. Big confessions, it does not erase them. Rather, it falls to the
+trial judge to adequately instruct the jury on how to approach these
+confessions. The nature and extent of the instructions required will vary from
+case to case. However, there is some guidance — short of a prescriptive formula
+— that can be provided. The trial judge should tell the jury that the
+reliability of the accused’s confession is a question for them. The trial judge
+should then review with the jury the factors relevant to the confession and the
+evidence surrounding it. For example, the trial judge should alert the jury to the
+length of the operation, the number of interactions between the police and the
+accused, the nature of the relationship between the undercover officers and the
+accused, the nature and extent of the inducements offered, the presence of any
+threats, the conduct of the interrogation itself, and the personality of the
+accused. Moreover, the trial judge should discuss the fact that the confession
+itself may contain markers of reliability (or unreliability). Jurors should be
+told to consider the level of detail in the confession, whether it led to the
+discovery of additional evidence, whether it identified any elements of the
+crime that had not been made public, or whether it accurately described mundane
+details of the crime the accused would not likely have known had he not
+committed it.                     With
+respect to the bad character evidence, the challenge is a more familiar one.
+The trial judge must instruct the jury that this sort of evidence has been
+admitted for the limited purpose of providing context for the confession. The
+jury should be instructed that it cannot rely on that evidence in determining
+whether the accused is guilty. Moreover, the trial judge should remind the jury
+that the simulated criminal activity was fabricated and encouraged by agents of
+the state.                     In
+this case, the trial judge instructed the jury adequately and no error has been
+shown. The trial judge told the jury that it had to “carefully consider whether
+the themes of violence and the level of inducements may reasonably have compromised
+the reliability” of M’s confessions. He specifically instructed the jury that
+it had to “assess the environment, the themes of easy money, violence, the
+importance of honesty and integrity, any offers of exit points, and any threats
+or intimidation”. Ultimately, the trial judge left the final assessment of the
+reliability of M’s confessions to the jury. With respect to the bad character
+evidence, although the trial judge did not address it specifically, he provided
+the jury with a standard limiting instruction on the use that could be made of
+any evidence that bore on M’s character. Undoubtedly, the trial judge could
+have said more, but this does not mean his instructions were deficient.                     Finally,
+the trial judge conveyed to the jury the reliability concerns with the evidence
+of A, the Crown’s principal witness. He reminded the jury that the defence
+position was that A was the killer. He told them that M’s knowledge of the
+murder could have come from A. He brought up A’s apparent lie to the police and
+cautioned the jury that it left open the question of whether they could rely on
+anything he said. And he told the jury that it would be dangerous to accept A’s
+evidence in the absence of confirmatory evidence. Nothing more was required. Cases Cited                     Applied: 
+R. v. Hart, 2014 SCC 52, [2014] 2 S.C.R. 544; referred to: 
+R. v. Wittwer, 2008 SCC 33, [2008] 2 S.C.R. 235; R. v. Goldhart,
+[1996] 2 S.C.R 463; R. v. Côté, 2011 SCC 46, [2011] 3 S.C.R. 215; R.
+v. Grant, 2009 SCC 32, [2009] 2 S.C.R. 353; R. v. Bonisteel, 2008 BCCA 344, 259 B.C.A.C.
+114; R. v. Jacquard,
+[1997] 1 S.C.R. 314; R. v. Luciano, 2011 ONCA 89, 273 O.A.C. 273; R.
+v. Daley, 2007 SCC 53, [2007] 3 S.C.R. 523; R. v. Terrico, 2005 BCCA
+361, 214 B.C.A.C. 135; R. v. Fry, 2011 BCCA 381, 311 B.C.A.C. 90; Vetrovec
+v. The Queen, [1982] 1 S.C.R. 811. Statutes and Regulations Cited Canadian Charter of Rights and Freedoms,
+ss. 8 , 24(2) . Criminal Code, R.S.C. 1985, c. C-46 , Part
+VI, s. 186(1)(b).                     APPEAL from a judgment of the Alberta Court of Appeal (Côté,
+McFadyen and O’Brien JJ.A.), 2012 ABCA 42, 66 Alta. L.R. (5th) 377, 522 A.R.
+262, 544 W.A.C. 262, 253 C.R.R. (2d) 157, [2012] A.J. No. 174 (QL), 2012
+CarswellAlta 255, affirming the accused’s conviction for first degree murder. Appeal
+dismissed.                     Laura
+K. Stevens, Q.C., and Sarah N. DeSouza,
+for the appellant.                     James
+C. Robb, Q.C., and David A. Labrenz,
+Q.C., for the respondent.                     Michael
+Bernstein, for the intervener Attorney General of
+Ontario.                     Lesley
+A. Ruzicka, for the intervener Attorney General of
+British Columbia.                     The
+judgment of the Court was delivered by                     Moldaver J. — I.             
+Introduction [1]                             
+A jury convicted the appellant of the first
+degree murder of his roommate, Robert Levoir.  His appeal from conviction was
+dismissed by the Alberta Court of Appeal.  He now appeals to this Court, with
+leave, seeking to have his conviction overturned and a new trial ordered.  This
+appeal was heard in conjunction with R. v. Hart, 2014 SCC 52, [2014] 2
+S.C.R. 544. [2]                             
+The appellant advances three grounds of appeal. 
+First, he contends that the trial judge should have excluded the confessions he
+made to undercover officers during a Mr. Big operation.  Second, if the
+confessions were admissible, he argues that the trial judge did not adequately
+instruct the jury on the dangers associated with them.  Third, he submits that
+the trial judge failed to properly instruct the jury on the dangers associated
+with the evidence of a central Crown witness, Michael Argueta. [3]                             
+For reasons that follow, I would not give effect
+to any of these grounds and would dismiss the appeal. II.          
+Background Facts A.          
+The Police Investigation into the Death of
+Robert Levoir [4]                             
+Mr. Levoir went missing in November 2002.  At
+the time of his disappearance, he was living with the appellant in Fort
+McMurray, Alberta. [5]                             
+About a month after Mr. Levoir’s disappearance,
+the police received a call from Jay Love, a friend of the appellant. Mr. Love
+told the police that the appellant had confessed to killing Mr. Levoir and
+burning his body. Acting on Mr. Love’s tip, the police began investigating the
+appellant to determine if he was responsible for Mr. Levoir’s disappearance. 
+The investigation had two components: a Mr. Big operation, and a wiretap
+authorization to intercept the appellant’s phone calls. [6]                             
+The Mr. Big operation commenced in January 2004,
+approximately one year after the police received the call from Mr. Love. An
+undercover officer, whom I will refer to as Ben,[1]
+was introduced to the appellant at a nightclub in Fort McMurray.  The appellant
+was working at the club as a D.J. [7]                             
+A week after their introduction, Ben asked the
+appellant to help him repossess a vehicle.  The appellant did so and was paid
+$200.  During a conversation with Ben a few days later, the appellant mentioned
+his missing roommate. He told Ben that Mr. Levoir was a “crack head” and a
+“drug addict”, and accused him of stealing from his son’s piggy bank.  He added
+that “[a]s far as he was concerned”, Mr. Levoir was “pushing up daisies”. [8]                             
+Early on in the Mr. Big operation, the appellant
+began to suspect that Ben was involved in criminal activity.  Ben told the
+appellant that he worked for an organization headed up by a man named Liam who
+“had his fingers into a lot of things”.  Throughout January and February 2004,
+the appellant did several more “jobs” for the organization.  In early February,
+for example, the appellant was asked to pick up a package from a bus depot in
+Edmonton.  When he returned to his hotel room where Ben was waiting, Ben opened
+the package and it contained $30,000 in cash. [9]                             
+Later in February 2004, during a conversation
+between the appellant and Ben, Ben mentioned that he had once been attacked by
+two men while working for the organization.  Ben told the appellant that Liam
+had “looked after [the] two guys” in what Ben called the “weekend of
+reckoning”.  Ben then asked the appellant if he had ever “beat[en]” anyone. The
+appellant replied that there were two occasions, once when he was in a fist
+fight, and another time that he could not talk about.  Ben expressed his hope
+that the appellant would one day tell him about his “secre[t]”. [10]                         
+Ben brought up the appellant’s secret again in
+early March.  He suggested that the person the appellant was talking about
+“[wasn’t] walking anymore”.  The appellant nodded his head in agreement and
+added that “every man has a breaking point”. [11]                         
+In mid-March, the appellant drove to Vancouver
+at Ben’s behest to have a meeting with Liam.  The appellant and Liam met at an
+apartment in the city.  Liam brought up the appellant’s missing roommate and
+attempted to question him about the disappearance.  The appellant asked Liam if
+he could “decline” to speak about the matter.  Liam told the appellant that it
+was his choice, but that refusing to speak meant he would remain on the
+organization’s “third line”.  The only way to advance to the “first line” was
+by talking about his roommate and revealing his secret.  The appellant again
+refused, explaining that “loose lips sink ships”. [12]                         
+After the appellant’s meeting with Liam, three
+weeks went by before Ben and the appellant met again in person.  On April 9,
+2004, Ben asked the appellant if he wanted to work.  The appellant said that he
+did, and that he would “do what it took”.  Ben asked the appellant if he would
+be willing to sit down with Liam to talk about how his roommate had been
+killed. The appellant agreed to do so.  Ben then asked the appellant why he
+killed Mr. Levoir, and the appellant responded that his former roommate had
+been “a liar, a thief, and a piece of shit drug dealer”.  The appellant told
+Ben that he shot Mr. Levoir five times — four times in the chest and once in
+the back — with a .223 rifle.  The appellant also said that there was “nothing
+left” of Mr. Levoir because he had burned his body. [13]                         
+The appellant initially offered to show Ben
+where Mr. Levoir’s body had been burned.  However, he quickly backtracked,
+telling Ben that “everything” he had just said was “bullshit” and that he had
+been “lying”.  Ben replied that he “really hope[d]” the appellant had been
+telling the truth.  In response, the appellant changed his mind and took Ben
+out to a firepit on his father’s property.  The appellant told Ben that he had
+taken the ashes out of the firepit and that there was “nothing left” of Mr.
+Levoir. [14]                         
+A few days later, the appellant was flown to
+Edmonton for a second meeting with Liam.  That meeting took place on April 15,
+2004.  At the outset, the appellant described Mr. Levoir as a “crack head” and
+accused him of stealing from his son’s piggy bank.  When Liam asked the
+appellant how he had killed Mr. Levoir, the appellant replied that he shot him
+five times with a .223 rifle — four times in the chest and once in the back. 
+He added that there had been a “big fire” at his dad’s place, and that there
+was “nothing left” of Mr. Levoir. [15]                         
+The next week, on April 21, 2004, the appellant
+was arrested and charged with first degree murder.  The police searched his
+father’s property, and Mr. Levoir’s remains were found in the firepit that the
+appellant had pointed out to Ben.  Shell casings fired by a rifle found in the
+appellant’s apartment were also discovered in the firepit. [16]                         
+At the time of his arrest, the Mr. Big operation
+had been in progress for four months and the appellant had participated in 30
+“scenarios” with undercover officers.  He had been paid approximately $5,000
+for his work with the organization, plus expenses. B.           
+The Evidence of Jay Love [17]                         
+Jay Love, the man who initially brought the
+appellant to the attention of the police, testified as a witness for the Crown
+and recounted the appellant’s December 2002 confession.  Mr. Love testified
+that he and the appellant went to a bar with another man named Michael Argueta
+on December 21, 2002.  The appellant told Mr. Love that he was his best friend,
+and he asked Mr. Love if he could trust him.  The appellant was intoxicated at
+the time.  Mr. Love testified that the appellant was unhappy with Mr. Levoir
+because the appellant thought Mr. Levoir had stolen from his son’s piggy bank,
+that he was taking drugs in the house, and that he was using the appellant’s
+phone without permission. [18]                         
+The appellant then told Mr. Love that “Robbie”
+was dead.  Mr. Love asked if the appellant had “outsource[d]” the killing, and
+the appellant replied “no, I did it myself”.  The appellant also added that he
+burned Mr. Levoir’s body. C.           
+The Evidence of Michael Argueta [19]                         
+Michael Argueta was also called as a Crown
+witness. Mr. Argueta was a friend of the appellant and he too testified that
+the appellant had confessed to him about killing Mr. Levoir.  This confession
+was said to have occurred at a bar in Edmonton, where the appellant told Mr.
+Argueta that he had “gotten rid” of Mr. Levoir. [20]                         
+Mr. Argueta and the appellant did not talk again
+until they were driving home to Fort McMurray the next day.  Mr. Argueta
+testified that, during the drive, the appellant told him he shot Mr. Levoir. 
+Mr. Argueta did not believe the appellant, and the appellant added that he
+burned Mr. Levoir’s body on his father’s property.  Mr. Argueta also testified
+that the appellant had been “[v]ery agitated” by Mr. Levoir because Mr. Levoir
+owed the appellant money, had stolen from his son’s piggy bank, and had used
+his phone without permission. [21]                         
+Mr. Argueta’s credibility was a central issue at
+trial.  Prior to testifying, he had been interviewed by the police a
+number of times and he had never mentioned the appellant’s second confession
+during the car ride home.  Indeed, in a statement given to
+police under oath, Mr. Argueta expressly denied talking to the appellant about
+Mr. Levoir’s disappearance during the drive home to Fort McMurray.   In his
+testimony, Mr. Argueta admitted knowing that drug dealers from Vancouver had
+put a “price on Robbie Levoir’s head” back in 2002, before he disappeared. 
+Ultimately, the defence took the position that Mr. Argueta had killed Mr.
+Levoir in order to collect on this bounty. D.          
+The Appellant’s Evidence [22]                         
+The appellant testified and denied killing Mr.
+Levoir.  According to the appellant, he and Mr. Argueta had plans to go hunting
+on November 6, 2002.    They invited Mr. Levoir to come along, and he did.  The
+three men drove to the property owned by the appellant’s father, intending to
+hunt on his land. [23]                         
+The appellant testified that after the group
+arrived at his father’s property, Mr. Levoir and Mr. Argueta separated from
+him.  Several minutes later, the appellant heard a series of gun shots.  He
+returned to the road and encountered Mr. Argueta.  According to the appellant,
+he asked “[w]here’s Robbie?”, and Mr. Argueta responded “[t]hat’s what you get
+for the price on his head for pissing off the big boys”.  The appellant then
+looked over and saw Mr. Levoir’s body lying in the grass.  Mr. Argueta then
+told the appellant to “[j]ust shut up, and don’t worry about it”, stating that
+he would “come back and look after it”.  The appellant also claimed that Mr.
+Argueta told him, in a conversation at a bar approximately one month later,
+that he had burned the body for two days in a firepit at the same property. [24]                         
+As for his purported confession to Jay Love, the
+appellant claimed that Mr. Love had misheard him at the bar on December 21,
+2002.  He said that what Mr. Love had heard as a confession was actually an
+attempt on his part to tell Mr. Love that Mr. Argueta had killed the deceased. 
+With respect to Mr. Argueta’s evidence, the appellant said it was untrue.  And
+while he admitted to making admissions to the undercover officers, he explained
+that he made those statements out of a desire for money, protection, a belief
+that the confessions were necessary for self-preservation, and to “sound big
+and tough and bad like them”. [25]                         
+The appellant also called two other witnesses
+who testified that, on separate occasions, Mr. Argueta made statements in which
+he suggested he was involved in Mr. Levoir’s death. III.       
+The Courts Below A.          
+Court of Queen’s Bench of Alberta, 2007 ABQB
+182, 458 A.R. 52 [26]                         
+At the appellant’s trial, the Crown conceded
+that the wiretap authorization it had obtained to intercept the appellant’s
+phone calls did not comply with the requirements of the Criminal Code,
+R.S.C. 1985, c. C-46 , and had therefore been obtained in violation of s. 8  of
+the Canadian Charter of Rights and Freedoms .[2]  As a result of this
+violation, the Crown did not adduce any of the conversations that had been
+intercepted pursuant to the wiretap authorization.  Nonetheless, the appellant
+moved to have all of the statements he made during the Mr. Big operation — none
+of which were recorded on the wiretaps — excluded as well.  The appellant
+argued that the illegal wiretap was being used to design the undercover
+operation and that the operation would not have been conducted without it.  As
+a result, the wiretap authorization was so intertwined with the Mr. Big
+operation that the illegality of the authorization necessitated excluding his
+statements to the undercover officers under s. 24(2)  of the Charter . [27]                         
+The trial judge, Mr. Justice Hillier, rejected
+this argument.  He concluded that s. 24(2)  of the Charter  was not
+engaged because the appellant’s incriminating statements to undercover officers
+had not been “obtained in a manner” that violated any of his rights under the Charter 
+(para. 187).  Although the appellant made his incriminating statements to
+the undercover officers while the illegal wiretap was in place, there was no
+causal connection between the existence of the illegal wiretap and the
+appellant’s confessions to the undercover officers (para. 184).  The most that
+could be said was that the wiretaps were “helpful” to the undercover officers
+during the Mr. Big operation, because they provided the officers with
+assurances that their “cover” had not been “blown” (para. 175).  The trial
+judge did not accept that the wiretaps were used to design and carry out the
+Mr. Big operation. B.           
+Alberta Court of Appeal (Côté, McFadyen and
+O’Brien JJ.A.), 2012 ABCA 42, 66 Alta. L.R. (5th) 377 [28]                         
+On appeal, the appellant submitted that the
+trial judge erred in concluding that s. 24(2)  of the Charter  was not
+engaged, and that his instructions to the jury in relation to the evidence
+arising from the Mr. Big operation and Mr. Argueta’s credibility were
+deficient. [29]                         
+The Court of Appeal rejected these arguments. 
+It noted that a trial judge’s decision under s. 24(2)  of the Charter  is
+entitled to deference, and it could see no basis for interfering with the trial
+judge’s determination that the s. 8  violation and the accused’s statements to
+the undercover officers were not sufficiently related to trigger s. 24(2) .  In
+relation to the Mr. Big operation, the trial judge instructed the jury against
+engaging in propensity reasoning and pointed out the reliability concerns
+raised by the operation.  In the Court of Appeal’s view, nothing further was
+required.  Similarly, regarding Mr. Argueta’s testimony, the Court of Appeal
+observed that the trial judge had reminded the jury of the defence position
+that Mr. Argueta was the killer, and he had warned them of the reliability
+dangers associated with Mr. Argueta’s evidence.  Here, too, the Court of Appeal
+could find no error. IV.       
+Issues [30]                         
+The appellant raises three issues on appeal: (a)         Did the trial judge err
+in concluding that s. 24(2)  of the Charter  was not engaged? (b)         Did the trial judge err
+in his instructions to the jury on the Mr. Big confessions? (c)         Did the trial judge err
+in his instructions to the jury relating to Mr. Argueta’s testimony? V.          
+Analysis A.          
+Did the Trial Judge Err in Concluding That
+Section 24(2) of the Charter  Was Not Engaged? [31]                         
+At the outset, it bears
+mentioning that the appellant’s only challenge to the admissibility of the
+confessions he made to undercover officers during the Mr. Big operation came
+under s. 24(2)  of the Charter .  The appellant did not have the benefit
+of this Court’s decision in Hart, in which a two-pronged framework for
+assessing the admissibility of Mr. Big confessions was set out.  Under the Hart
+framework, a Mr. Big confession will be excluded where its prejudicial
+effect outweighs its probative value, or where it is the product of an abuse of
+process.  In this context, the confession’s probative value is a function of
+its reliability.  Its prejudicial effect stems from the harmful character
+evidence that necessarily accompanies its admission (see Hart, at paras.
+84-86). [32]                         
+Neither the courts
+below nor the parties before this Court have considered whether the appellant’s
+confessions would be admissible under the two-pronged framework set out in Hart. 
+In my view, however, this poses no difficulty as these confessions would clearly
+be admissible under that framework.[3] [33]                         
+To begin with, the
+probative value of the appellant’s confessions is high.  The inducements
+provided by the undercover officers were modest — the appellant was paid
+approximately $5,000 over a four-month period, at a time when well-paying,
+legitimate work was readily available to him.  He was not threatened by the
+officers.  And he was told, in his first meeting with Liam, that he could
+decline to say anything and remain on the organization’s “third line” — an option
+he initially accepted. [34]                         
+Moreover, there was an
+abundance of evidence that was potentially confirmatory.  First, the
+appellant’s purported confessions to Mr. Argueta and Mr. Love described the
+same motive for killing Mr. Levoir as his confessions to the undercover
+officers.  They also made reference to burning Mr. Levoir’s body.  Second,
+immediately after confessing to Ben, the appellant led him to the firepit in
+which Mr. Levoir’s remains lay undiscovered.  And third, shell casings fired
+from a gun found in the appellant’s apartment were found in the same firepit.  All of this made for a confession that was highly probative. [35]                         
+On the other hand,
+while the confessions were accompanied by bad character evidence, the prejudice
+was limited.  The appellant was not involved in any scenarios that involved
+violence, nor did the operation reveal prejudicial facts about the appellant’s
+past history.  The appellant’s involvement with the organization was primarily
+limited to assisting with repossessing vehicles and delivering packages.  In my
+view, any prejudicial effect arising from the Mr. Big confessions is easily
+outweighed by their probative value. [36]                         
+Nor did the undercover
+officers engage in any improper conduct which could ground an application for
+abuse of process.  The appellant was not presented with overwhelming
+inducements.  He had prospects for legitimate work that would have paid even
+more than the undercover officers were offering.  Nor did the officers threaten
+the appellant with violence if he would not confess.  The most that can be said
+is that the officers created an air of intimidation by referring to violent
+acts committed by members of the organization.  But the appellant was not
+coerced into confessing.  This much is evidenced by the appellant’s initial
+refusal to speak with Ben and Liam about Mr. Levoir’s disappearance.  Indeed,
+the undercover officers explicitly made clear to the appellant that he did not
+have to speak with them about Mr. Levoir, and that he could remain in his
+current role within the organization.  None of the undercover officers’ conduct
+approaches abuse. [37]                         
+These comments aside, I
+return to the appellant’s attack on the admissibility of his confessions under
+s. 24(2)  of the Charter .  Under s. 24(2), evidence will be
+excluded where: (1) the evidence was obtained in a manner that infringed or
+denied any of the rights or freedoms guaranteed by the Charter ; and (2)
+admitting the evidence would bring the administration of justice into disrepute
+(R. v. Wittwer, 2008 SCC 33, [2008] 2 S.C.R. 235, at para. 19). [38]                         
+Whether evidence was “obtained in a manner” that
+infringed an accused’s rights under the Charter depends on the nature of
+the connection between the Charter  violation and the evidence that was
+ultimately obtained.  The courts have adopted a purposive approach to this
+inquiry.  Establishing a strict causal relationship between the breach and the
+subsequent discovery of evidence is unnecessary.  Evidence will be tainted if
+the breach and the discovery of the impugned evidence are part of the same
+transaction or course of conduct.  The required connection between the breach
+and the subsequent statement may be temporal, contextual, causal, or a
+combination of the three.  A “remote” or “tenuous” connection between the
+breach and the impugned evidence will not suffice (Wittwer, at para.
+21). [39]                         
+The strength of the connection between a piece
+of evidence and a Charter  breach is a question of fact (see R. v.
+Goldhart, [1996] 2 S.C.R 463, at para. 40).  A trial judge’s decision under
+s. 24(2)  of the Charter  is entitled to considerable deference on
+appeal.  Such a decision will only be interfered with where the trial judge has
+failed to consider the proper factors or has made an unreasonable finding (R.
+v. Côté, 2011 SCC 46, [2011] 3 S.C.R. 215, at para. 44, and R. v. Grant,
+2009 SCC 32, [2009] 2 S.C.R. 353, at para. 86). [40]                         
+The appellant submits that the trial judge erred
+in concluding that the statements he made to undercover officers were not
+“obtained in a manner” that violated his Charter  rights.  According to
+the appellant, the trial judge applied too stringent a test in reaching this
+conclusion.  In particular, the trial judge mistakenly believed that a causal
+relationship between the breach and the acquisition of the evidence was
+required in order to engage s. 24(2)  of the Charter . [41]                         
+This ground of appeal is fact-driven and I would
+not give effect to it.  Distilled to its essence, the appellant is effectively
+inviting the Court to reweigh the factors the trial judge considered in
+deciding that s. 24(2)  was not engaged.  The trial judge was aware that a
+causal relationship between the Charter  breach and the acquisition of
+the evidence was not required.  He noted that “the entire relationship” between
+the breach and the impugned evidence had to be considered, and that causation
+was not the “sole touchstone” of the analysis (para. 182).  The trial judge
+acknowledged that there was a temporal relationship between the s. 8  breach and
+the appellant’s statements to the undercover officers.  He went on to consider
+the causal relationship between the wiretap authorization and the appellant’s
+statements to undercover officers, and found that it was “so remote as to be
+insignificant” (para. 185).  When he considered the temporal and causal
+relationships together, he was of the view that the statements had not been
+obtained in a manner that infringed the Charter . [42]                         
+While it is true that the lack of a causal
+relationship played an important role in the trial judge’s analysis, this can
+only carry the appellant’s argument so far.  A causal relationship is not
+required to support a finding that evidence was obtained in a manner that
+violated the Charter , but the nature and extent of the causal
+relationship remains an important factor for the trial judge’s consideration. 
+In the trial judge’s view, the tenuous causal connection between the breach and
+the statements undermined the significance of the temporal relationship.  That
+finding was open to him, and I see no basis for interfering with it. B.           
+Did the Trial Judge Err in his Instructions to
+the Jury on the Mr. Big Confessions? [43]                         
+In Hart, this Court identified two
+evidentiary concerns with confessions that are the product of a Mr. Big
+operation.  The first is that the confessions may be unreliable.  Mr. Big
+operations are intended to induce confessions, and the inducements offered to a
+suspect may incentivize the suspect to falsely confess.  Second, Mr. Big
+confessions are invariably accompanied by bad character evidence in which the
+accused has shown a willingness to commit crimes to gain entry into a criminal
+organization (see Hart, at paras. 68-77). [44]                         
+The common law rule of evidence that was set out
+in Hart was intended to respond to the evidentiary concerns raised by
+Mr. Big operations.  However, while this rule responds to these two evidentiary
+concerns, it does not erase them.  The focus of the rule is to determine
+whether a Mr. Big confession should be admitted into evidence.  It does not
+decide the ultimate question of whether the confession is reliable, nor does it
+eliminate the prejudicial character evidence that accompanies its admission. 
+Thus, even in cases where Mr. Big confessions are admitted into evidence,
+concerns with their reliability and prejudice will persist.  It then falls to
+the trial judge to adequately instruct the jury on how to approach these
+confessions in light of these concerns. [45]                         
+The appellant agrees that reliability and
+prejudice are the two evidentiary concerns that must be addressed in a trial
+judge’s charge to the jury.  With respect to reliability, the appellant submits
+that a “very strict” caution must be given about “danger” presented by Mr. Big
+confessions (A.F., at para. 95).  The appellant points to the jury charge
+delivered in R. v. Bonisteel, 2008 BCCA 344, 259 B.C.A.C. 114, and
+argues that a similar instruction should be given in “most, if not all” cases
+involving Mr. Big confessions (A.F., at para. 96).  In Bonisteel, the
+trial judge provided a strong caution regarding the reliability concerns raised
+by Mr. Big confessions.  The jury was told that people sometimes “confess to
+[crimes] they have not committed” (para. 66 (emphasis deleted)).  Moreover, the
+jury was told that “confessions produced by an undercover operation such as
+this are viewed as inherently unreliable” (ibid.).  Without independent
+confirmation, the trial judge described the Mr. Big confessions as “highly
+suspect” (ibid.). [46]                         
+As for the bad character evidence that is
+admitted, the appellant submits that trial judges must provide a “strong and
+specific” limiting instruction that includes “specific directions” focused
+on the “significant efforts [the] police employed to cause and encourage” the
+accused’s participation in misconduct (A.F., at paras. 102-103 (emphasis in
+original)). [47]                         
+With those considerations in mind, the appellant
+submits that the trial judge’s charge in this case — which addressed the
+concerns with reliability and prejudice — was deficient because it did not go
+far enough in warning the jury about the dangers inherent in this evidence and
+the need to proceed with extreme caution in relying upon it to convict. [48]                         
+With respect, I disagree.  The instructions
+given to the jury were, in my view, adequate in the circumstances.  In so
+concluding, it bears repeating what this Court has said on numerous occasions:
+an accused is entitled to a jury that is properly — not perfectly — instructed
+(R. v. Jacquard, [1997] 1 S.C.R. 314, at para. 2).  In reviewing the
+trial judge’s charge, what counts is its substance, not its adherence to or
+departure from prescriptive formulas (R. v. Luciano, 2011 ONCA
+89, 273 O.A.C. 273, at para. 69).  The order of the charge and the words
+chosen by the trial judge are within his or her discretion (R. v. Daley,
+2007 SCC 53, [2007] 3 S.C.R. 523, at para. 30). [49]                         
+The functional approach to reviewing jury
+charges that this Court has repeatedly endorsed cuts against the appellant’s
+contention that trial judges must, in all Mr. Big cases, give the jury a Bonisteel
+instruction.  Indeed, the British Columbia Court of Appeal has rejected
+such an approach, preferring instead to subject these instructions to a
+contextual, case-by-case review (see, e.g., R. v. Terrico, 2005
+BCCA 361, 214 B.C.A.C. 135, at paras. 42-43, and R. v. Fry, 2011 BCCA
+381, 311 B.C.A.C. 90, at paras. 82-83 and 87). [50]                         
+I agree with the approach of the British
+Columbia Court of Appeal.  In my view, there is no magical incantation that
+must be read to juries by trial judges in all Mr. Big cases.  Instead, trial
+judges are required to provide juries with the tools they need to address the
+concerns about reliability and prejudice that arise from these confessions. 
+The nature and extent of the instructions required will vary from case to
+case. [51]                         
+However, there is some guidance — short of a
+prescriptive formula — that can be provided to trial judges who must instruct
+juries in cases where a Mr. Big confession has been admitted into evidence. [52]                         
+With respect to the reliability concerns raised
+by a Mr. Big confession, the trial judge should tell the jury that the
+reliability of the accused’s confession is a question for them. The trial judge
+should then review with the jury the factors relevant to the confessions and
+the evidence surrounding it.  As explained in Hart, the reliability of a
+Mr. Big confession is affected by the circumstances in which the confession was
+made and by the details contained in the confession itself.  Thus, the trial
+judge should alert the jury to “the length of the operation, the number of
+interactions between the police and the accused, the nature of the relationship
+between the undercover officers and the accused, the nature and extent of the
+inducements offered, the presence of any threats, the conduct of the
+interrogation itself, and the personality of the accused” — all of which play a
+role in assessing the confession’s reliability (see Hart, at para. 102). [53]                         
+Moreover, the trial judge should discuss the
+fact that the confession itself may contain markers of reliability (or
+unreliability).  Jurors should be told to consider the level of detail in the
+confession, whether it led to the discovery of additional evidence, whether it
+identified any elements of the crime that had not been made public, or whether
+it accurately described mundane details of the crime the accused would not
+likely have known had he not committed it (see Hart, at para.
+105). [54]                         
+This is not to suggest that trial judges are
+required to provide a detailed catalogue of every piece of evidence that might
+bear on the reliability of the confession.  The task is simply to alert the
+jury to the concern about the reliability of the confession, and to highlight
+the factors relevant to assessing it. [55]                         
+With respect to the bad character evidence that
+accompanies a Mr. Big confession, the challenge is a more familiar one.  The
+trial judge must instruct the jury that this sort of evidence has been admitted
+for the limited purpose of providing context for the confession.  The jury
+should be instructed that it cannot rely on that evidence in determining
+whether the accused is guilty.  Moreover, the trial judge should remind the
+jury that the simulated criminal activity — even that which the accused may
+have eagerly participated in — was fabricated and encouraged by agents of the
+state. [56]                         
+In this case, the trial judge addressed the
+concerns about reliability and prejudice in his charge to the jury.  The trial
+judge told the jury that it had to “carefully consider whether the themes of
+violence and the level of inducement may reasonably have compromised the
+reliability” of the appellant’s confessions.  He specifically instructed the jury
+that it had to “assess the environment, the themes of easy money, violence, the
+importance of honesty and integrity, any offers of exit points, and any threats
+or intimidation”.  Ultimately, the trial judge left the final assessment of the
+reliability of the appellant’s confessions to the jury: Overall, it’s your
+responsibility to decide whether the statements attributed to Mr. Mack are
+reliable in whole or in part, bearing in mind Mr. Mack’s testimony that he was
+given pep talks every day . . . that he felt indebted . . . and very insecure,
+especially after he heard about the day of reckoning for the ice pick attack. 
+Also that Mr. Mack felt out of his league, and whenever he started a story he
+felt pushed in a direction that he had done it.  When a statement may have
+arisen partly out of fear and partly from an inducement to easy money, it’s
+important to assess carefully how reliable it is, if at all.  You need to
+assess that against all of the evidence in order to decide not only what was
+said, but whether what was said was truthful. 
+[Emphasis added.] [57]                         
+With respect to the bad character evidence that
+was admitted along with the Mr. Big confessions, although the trial judge did
+not address it specifically, he provided the jury with a standard limiting instruction
+on the use that could be made of any evidence that bore on the accused’s
+character: You’ll recall in my opening
+remarks I alerted you that we would likely hear evidence that does not reflect
+Mr. Mack in a positive light, including views and conducts which are
+unfavourable to him. You have now heard some evidence of that type, and I
+remind you not to rely upon or use that evidence to conclude that Mr. Mack is
+guilty or even that he is more likely to be guilty of the crime with which he
+is charged based on that evidence.  In Canada people are not
+prosecuted or judged as guilty because they have certain beliefs or values. Evidence
+about things Mr. Mack may have said or acts he may have committed which you
+find objectionable, it has been provided to you for the very limited purpose of
+ensuring that you know the context for the other things that are said or done
+that relate directly to the offence with which he is charged. Background
+evidence, which we sometimes refer to as the narrative, is provided to you so
+you understand more accurately the overall circumstances and can then better
+assess what and whom to believe.  So I also repeat that you’re
+not to decide this case based on your personal views of what you might consider
+to be Mr. Mack’s value system or his opinions or even whether he might have
+committed some other wrongful acts or offences. We are concerned with only
+one charge: the murder of Robert Levoir.  [Emphasis added.] [58]                         
+When these instructions regarding reliability
+and bad character evidence are viewed through a functional lens, I am satisfied
+that they reveal no error.  The trial judge plainly addressed the two concerns
+raised by the appellant’s confessions to undercover officers.  He directed the
+jury to “assess carefully” how reliable the appellant’s confessions were, and
+pointed specifically to the police deception, the level of inducements, the
+“themes of easy money”, and the presence of any threats or intimidation. 
+During the trial and in his final instructions, the trial judge directed the
+jury to disregard the prejudicial character evidence that had been admitted in
+reaching a verdict. [59]                         
+Undoubtedly, more could have been said by the
+trial judge in his discussion of the reliability of the Mr. Big confession. 
+The trial judge, for example, could have specifically reviewed the payments
+received by the appellant during the operation, or the encouragements to
+confess that were provided by Ben and Liam.  Equally, however, the trial judge
+could have detailed the evidence that was capable of supporting the reliability
+of the appellant’s confessions, including the fact that the appellant had
+gainful employment available to him at the time the cash inducements were
+offered to him, that he correctly pointed out the location of Mr. Levoir’s
+remains during his confession to Ben, and that shell casings fired by a rifle
+found in the appellant’s apartment were discovered in the firepit.  The trial
+judge did not do so, but this does not mean his charge was deficient.  A
+failure to say all that could have been said does not amount to a legal error: . . . I cannot emphasize
+enough that the right of an accused to a properly instructed jury does not
+equate with the right to a perfectly instructed jury. An accused is entitled to
+a jury that understands how the evidence relates to the legal issues. This
+demands a functional approach to the instructions that were given, not an
+idealized approach to those instructions that might have been given.  (Jacquard,
+at para. 32, per Lamer C.J.) [60]                         
+It must also be mentioned that trial counsel was
+provided a draft of the trial judge’s charge in advance of it being delivered
+to the jury, and no objection was taken to the trial judge’s handling of the
+Mr. Big confessions.  While it is the trial judge’s job to ensure that the jury
+is properly instructed, trial counsel are expected to “assist the trial judge
+and identify what in [his or her] opinion is problematic with the judge’s
+instructions to the jury” (Daley, at para. 58).  A failure to object at
+trial “may be indicative of the seriousness of the alleged violation” (ibid.). 
+Here, although not determinative, trial counsel’s failure to object supports my
+conclusion that the instructions on reliability and bad character evidence were
+adequate in the circumstances. [61]                         
+In my view, the trial judge’s charge left the
+jury equipped to deal with the concerns of reliability and prejudice that
+emerged from the Mr. Big confessions.  No error has been shown.  Accordingly, I would reject this ground of appeal. C.           
+Did the Trial Judge Err in his Instructions to
+the Jury Relating to Mr. Argueta’s Testimony? [62]                         
+In his charge, the trial judge instructed the
+jury to consider Mr. Argueta’s evidence in light of the defence position that
+it was Mr. Argueta who killed Mr. Levoir.  The trial judge referred to the possibility
+that the appellant’s knowledge of the murder may have come from Mr. Argueta. 
+In addition, he pointed out to the jury that even on Mr. Argueta’s own account,
+he had lied to the police under oath when he told them that he and the
+appellant had not discussed Mr. Levoir’s death on the drive back to Fort
+McMurray from Edmonton.  The trial judge noted that Mr. Argueta had provided
+“no explanation” for this lie and that he appeared “quite unapologetic” about
+it.   He cautioned the jury that Mr. Argueta’s apparent lack of concern for the
+seriousness of the oath “leaves open the question of whether you may rely on
+anything he says”. [63]                         
+Because of these concerns, the trial judge
+provided a Vetrovec[4]
+warning in relation to Mr. Argueta’s evidence, instructing the jury that
+it would be “dangerous” for them to accept his testimony in the absence of
+other evidence that confirmed his account.  The trial judge provided two
+examples of evidence that might be capable of supporting Mr. Argueta’s
+evidence.  The first was Mr. Argueta’s testimony that the appellant was angry
+with Mr. Levoir because he suspected Mr. Levoir had stolen from his son’s piggy
+bank and had “run up telephone bills at [the appellant’s] place”.  The second
+was that the appellant “separately testified to what he knew about the price on
+[Mr.] Levoir’s head”, which was “similar to what Mr. Argueta said on that
+matter, but was not attributed as having come to [the appellant] from Mr.
+Argueta”. [64]                         
+The appellant contends that these instructions
+were deficient.  In particular, he submits that the trial judge’s instructions
+on the importance of Mr. Argueta’s admitted lie to the police under oath was
+confusing, because the appellant’s position at trial was that Mr. Argueta’s statement
+to police was truthful and his testimony was a lie.  Moreover, the appellant
+contends that the Vetrovec caution and the related instruction to seek
+out confirmatory evidence before relying on Mr. Argueta’s evidence was
+misplaced, because if Mr. Argueta provided information about the murder that
+turned out to be true, this did not bolster the Crown’s theory that the
+appellant was guilty of murder. Rather, it supported the defence position that
+Mr. Argueta, and not the appellant, had killed Mr. Levoir. [65]                         
+I would not give effect to the appellant’s
+submissions.  In my view, the trial judge’s warning about Mr. Argueta’s
+admitted lie to the police was not confusing.  The appellant’s submission to
+the contrary flows from a technical reading of the instruction.  Read fairly
+and in context, the impugned instruction conveyed to the jury that, even on Mr.
+Argueta’s own account, he had lied under oath without explanation.  Thus, it
+was questionable whether the jury could rely on anything he said.  When this
+instruction is read in conjunction with the trial judge’s warning that it would
+be dangerous to rely on Mr. Argueta’s evidence in the absence of confirmatory
+evidence, it cannot be understood as having endorsed Mr. Argueta’s testimony
+over the previous version of events he gave to the police.  The trial judge was
+merely conveying to the jury that Mr. Argueta’s evidence was highly suspect and
+that it would be dangerous to use it to convict in the absence of confirmatory
+evidence.  Had he not given such an instruction, his failure to do so would most
+assuredly have formed a ground of appeal. [66]                         
+Second, I cannot accept the contention that the
+trial judge erred by instructing the jury to search for confirmatory evidence
+before relying on Mr. Argueta’s testimony.  Admittedly, the trial judge
+provided an example of evidence that was not capable of confirming Mr.
+Argueta’s evidence.  The appellant did not separately testify that he knew
+about the price on Mr. Levoir’s head, as stated by the trial judge in his
+charge.  Rather, he testified that he heard about the price on Mr. Levoir’s
+head from Mr. Argueta.  It is possible the trial judge simply misspoke, and
+meant to refer to the fact that both Mr. Argueta and the appellant testified
+that they knew the deceased was involved in the drug trade in British Columbia. 
+No matter, the ultimate message left with the jury was clear, namely that it
+would be dangerous to rely on Mr. Argueta’s evidence without confirmation. 
+Importantly, the jury was told that it was for them to decide whether there was
+any evidence capable of confirming his testimony.  The jury would clearly have
+understood that in order to acquit the appellant, it did not have to believe
+that Mr. Argueta was the killer; rather, it had to be satisfied beyond a
+reasonable doubt that the appellant was the killer and that if they had a
+reasonable doubt, they must acquit. [67]                         
+Putting aside the appellant’s specific qualms,
+this ground of appeal can also be resolved with the help of common sense.  The
+problems with Mr. Argueta’s evidence were clear and obvious.  The defence
+position was that Mr. Argueta was the killer and that he was lying in order to
+frame the appellant.  There was evidence he had a motive to kill Mr. Levoir. 
+And even taking his testimony at its highest, Mr. Argueta had committed
+perjury. [68]                         
+At the end of the day, these were the problems
+the trial judge had to convey to the jury in his charge.  In my view, that is
+exactly what he did.  He reminded the jury that the defence position was that
+Mr. Argueta was the killer.  He told them that the appellant’s knowledge of the
+murder could have come from Mr. Argueta.  He brought up Mr. Argueta’s apparent
+lie to the police, and cautioned the jury that his lack of concern for the oath
+left open the question of whether they could rely on anything he said.  And he told
+the jury that it would be dangerous to accept Mr. Argueta’s evidence in the
+absence of confirmatory evidence.  Nothing more was required.  Trial counsel
+was apparently of the same view.  He made no objection to the trial judge’s
+instructions regarding Mr. Argueta’s testimony.  In my view, given that Mr. Argueta was, apart from the
+appellant, the most critical witness from the perspective of the defence, trial
+counsel’s failure to object to the charge reinforces my conclusion that the
+trial judge adequately addressed the concerns raised by Mr. Argueta’s
+testimony. VI.       
+Disposition [69]                         
+For these reasons, I would dismiss the appeal.                     Appeal
+dismissed.                     Solicitors for the
+appellant:  Dawson Stevens Duckett & Shaigec, Edmonton.                     Solicitor for the
+respondent:  Attorney General of Alberta, Edmonton and Lethbridge.                     Solicitor for the
+intervener the Attorney General of Ontario:  Attorney General of Ontario,
+Toronto.                     Solicitor for the
+intervener the Attorney General of British Columbia:  Attorney General of
+British Columbia, Victoria.  [1]   The officer’s name is protected by a publication ban, and he is
+referred to as “Undercover Officer #2” in the record. [2]   Specifically, the Crown conceded that “investigative necessity”
+could not be established.  A Part VI authorization is only available where
+“other investigative procedures have been tried and have failed, other
+investigative procedures are unlikely to succeed or the urgency of the matter
+is such that it would be impractical to carry out the investigation of the
+offence using only other investigative procedures” (s. 186(1)(b)).  In
+the Crown’s view, this requirement could not be met in the face of an ongoing
+Mr. Big operation. [3]   The appellant has had ample time since the release of this
+Court’s decision in Hart to have the appeal reopened, with a view to
+contesting the admissibility of his confessions under the Hart framework.
+ He has made no attempt to do so. [4]
+See Vetrovec v. The Queen, [1982] 1 S.C.R. 811.  

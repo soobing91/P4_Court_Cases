@@ -1,0 +1,469 @@
+SCC Case Information: 36585   SUPREME
+COURT OF CANADA   Citation:
+  R. v. Borowiec, 2016 SCC 11, [2016] 1 S.C.R. 80 Appeal heard:
+  January 20, 2016 Judgment rendered:
+  March 24, 2016 Docket:
+  36565   Between: Her
+Majesty The Queen Appellant  and  Meredith
+Katharine Borowiec Respondent  - and -  Attorney
+General of Ontario, Women’s
+Legal Education and Action Fund Inc. and Criminal
+Lawyers’ Association of Ontario Interveners   Coram: McLachlin C.J. and Abella, Cromwell, Moldaver, Karakatsanis,
+Wagner and Brown JJ.  Reasons for
+  Judgment: (paras. 1 to 49) Cromwell J. (McLachlin C.J. and Abella, Moldaver, Karakatsanis,
+  Wagner and Brown JJ. concurring)     R. v. Borowiec, 2016 SCC 11, [2016] 1 S.C.R. 80 Her Majesty The Queen                                                                                 Appellant v. Meredith Katharine Borowiec                                                                   Respondent and Attorney General of Ontario, Women’s Legal Education and Action Fund
+Inc. and Criminal Lawyers’ Association
+of Ontario                                                Interveners Indexed as: R. v. Borowiec 2016 SCC 11 File No.: 36585. 2016: January 20; 2016: March 24. Present: McLachlin C.J. and Abella, Cromwell, Moldaver,
+Karakatsanis, Wagner and Brown JJ. on appeal from the court of appeal for alberta                     In
+October 2010, a newborn child was found crying in a dumpster. B admitted that
+she had given birth to the child. She later admitted to having delivered two
+other babies in 2008 and 2009 and leaving each of them in a dumpster. B was
+charged with two counts of second degree murder in relation to the deceased
+newborns. The trial judge acquitted B of murder and found her guilty of two
+counts of infanticide. The majority of the Court of Appeal dismissed the
+Crown’s appeal.                     Held:
+The appeal should be dismissed.                     Infanticide
+is a form of culpable homicide and applies in the narrow set of circumstances
+where (1) a mother, by a wilful act or omission, kills her newborn child
+and, (2) at the time of the act or omission, the mother’s mind is
+“disturbed” either because she is not fully recovered from the effects of
+giving birth or by reason of the effect of lactation.                     The
+trial judge, relying on the defence expert’s opinion and the evidence as a whole,
+concluded that B’s mind was “disturbed” as a result of not yet having fully
+recovered from the effects of giving birth. There was no error in the trial
+judge’s summary of the law of infanticide. Based on his assessment of the
+evidence, the trial judge was entitled to conclude or have a reasonable doubt
+that B’s mind was “disturbed” at the time of the offences despite any
+indication of rational behaviour and wilful blindness. Cases Cited                     Approved:
+R. v. L.B., 2011 ONCA 153, 274 O.A.C. 365, aff’g (2008), 237 C.C.C. (3d)
+215, leave to appeal refused, [2011] 3 S.C.R. x; referred to: R. v.
+Coombs, 2003 ABQB 818, 343 A.R. 212; R. v. Guimont (1999), 141
+C.C.C. (3d) 314; R. v. Parks, [1992] 2 S.C.R. 871; R. v. Leung,
+2014 BCSC 558. Statutes and Regulations Cited Act to amend the Criminal Code, S.C.
+1948, c. 39, s. 7. Coroners and Justice Act 2009 (U.K.),
+c. 25, s. 57. Criminal Code, R.S.C. 1927, c. 36,
+s. 262. Infanticide Act, 1922 (U.K.), 12 &
+13 Geo. 5, c. 18, s. 1(1). Infanticide Act, 1938 (U.K.), 1 & 2
+Geo. 6, c. 36, s. 1(1). Authors Cited Driedger, Elmer A. Construction of Statutes, 2nd ed. Toronto: Butterworths, 1983. Grand Robert de la langue française, 2e éd.
+Paris: Le Robert, 2001, “déséquilibré”. Oxford English Dictionary, 2nd ed. Oxford: Clarendon Press, 1989, “disturbed”.          1922/may/25/child-murder-trial-bill).                     APPEAL
+from a judgment of the Alberta Court of Appeal (Côté, McDonald and
+Wakeling JJ.A.), 2015 ABCA 232, 21 Alta. L.R. (6th) 301, 326 C.C.C. (3d)
+438, 22 C.R. (7th) 132, [2015] A.J. No. 752 (QL), 2015 CarswellAlta 1237 (WL
+Can.), affirming the accused’s convictions for infanticide. Appeal dismissed.                     Julie
+Morgan and Joanne Dartana, for the
+appellant.                     Andrea L.
+Serink and Alias Amelia Sanders, for the
+respondent.                     Jocelyn
+Speyer, for the intervener the Attorney General of
+Ontario.                     Jessica
+Orkin, Kim Stanton and Frances Mahon,
+for the intervener the Women’s Legal Education and Action Fund Inc.                     Jonathan
+Dawe and Michael Dineen, for the intervener
+the Criminal Lawyers’ Association of Ontario.                     The
+judgment of the Court was delivered by                     Cromwell J. — I.             
+Introduction [1]                             
+This case requires us to explore a particularly
+dark corner of the criminal law, the law of infanticide. Section 233  of the Criminal
+Code, R.S.C. 1985, c. C-46 , provides that “[a] female person commits
+infanticide when by a wilful act or omission she causes the death of her
+newly-born child, if at the time of the act or omission she is not fully
+recovered from the effects of giving birth to the child and by reason thereof
+or of the effect of lactation consequent on the birth of the child her mind is
+then disturbed”. The focus of the appeal is the legal meaning of the phrase
+“her mind is then disturbed”, a phrase which is not defined in the Code
+and for which the case law has provided little explanation. [2]                             
+In my opinion, Parliament intended the concept
+of a “disturbed” mind in this offence to have its ordinary meaning, so as to
+provide a broad and flexible legal standard which will serve the ends of
+justice in the particular circumstances of these difficult cases. While we can
+provide some limited guidance for trial judges and juries, the rest is left, by
+Parliament’s design, to their good judgment. II.          
+Overview of Facts, Issues and Judicial History [3]                             
+In October 2010, a newborn child was found
+crying in a dumpster. The respondent, who was sitting nearby, admitted that she
+had given birth to the child. She later admitted to having delivered two other
+babies in 2008 and 2009 and leaving each of them in a dumpster. [4]                             
+The respondent was charged with two counts of
+second degree murder in relation to the deceased newborns. Two expert witnesses
+were called at trial, each with opposing views on whether the respondent’s mind
+was disturbed at the time of the offences. [5]                             
+Dr. Kenneth Hashman, called by the Crown, was of
+the opinion that the respondent’s “balance of the mind”, as that expression is
+used in s. 672.11 (c) of the Criminal Code , was not disturbed at the time
+of the commission of the alleged offences in 2008 and 2009. Dr. Jeannette
+Smith, called by the defence, concluded that the respondent’s actions were
+explained by her mind being disturbed as a result of her not yet having fully
+recovered from the effects of giving birth. [6]                             
+The main issue at trial and on appeal was
+whether the evidence gave rise to a reasonable doubt as to whether the
+respondent’s mind, at the time of the acts which resulted in the children’s
+deaths, was disturbed by reason of not having fully recovered from the effects
+of giving birth or lactation. [7]                             
+The trial judge accepted Dr. Smith’s opinion. In
+rejecting Dr. Hashman’s opinion, the trial judge noted that the expert failed
+to refer to an “important symptom” in his final report (namely that the
+respondent suffered “significant depersonalization” evidenced by statements
+that she felt like she had “zero control” of her actions and was “observing
+from outside” her own body); erroneously applied the “balance of the mind”
+language found under s. 672.11 (c) of the Criminal Code ; and that he
+seemed to require that the respondent have a mental disorder in order to have a
+disturbed mind. [8]                             
+In addition to Dr. Smith’s opinion, the trial
+judge considered the case as a whole, including that the respondent had no
+criminal record and no psychopathic or sociopathic tendencies. The trial judge
+concluded, as a result of the respondent’s “bizarre actions” and Dr. Smith’s
+opinion, that the respondent’s mind was disturbed as a result of the births.
+Consequently, the trial judge found that the Crown failed to prove beyond a
+reasonable doubt that the respondent’s mind was not disturbed.  The trial judge
+acquitted the respondent of murder and found her guilty of two counts of
+infanticide. [9]                             
+On the Crown’s appeal of the acquittal at trial,
+the Court of Appeal divided. The majority upheld the acquittals on the counts
+of second degree murder. Côté and McDonald JJ.A., writing for the majority,
+held that Parliament was deliberately vague in defining infanticide and that
+Parliament intended to set “a very low threshold” in using the term
+“disturbed”: 2015 ABCA 232, 21 Alta. L.R. (6th) 301, at para. 45, citing R. v. Coombs,
+2003 ABQB 818, 343 A.R. 212, at paras. 32 and 37. The majority also concluded
+that, while s. 233  does not refer to “balance of the mind”, it was unlikely
+that Parliament intended any significant difference between that language and
+the “mind is disturbed” as found in s. 233 : para. 50. While the trial
+judge was wrong on this point, the majority ultimately found no error in the
+trial judge’s analysis of the law on infanticide and dismissed the appeal. [10]                         
+The dissenting justice, Wakeling J.A., found
+that a woman had a “disturbed” mind only if her psychological health was
+substantially compromised because she recently gave birth and she had a newborn
+to care for and, as a result, her ability to make rational decisions promoting
+the best interests of her child was substantially impaired. Wakeling J.A. found
+that the trial judge and the experts failed to apply this standard (or any
+other standard) and would have allowed the appeal and ordered a new trial. [11]                         
+The main issue on the further appeal to this
+Court concerns the legal meaning of the phrase “her mind is then disturbed”. I
+will first put this issue in the context of the law of infanticide and then
+turn to the definitional issue. III.       
+Analysis A.          
+Overview of the Law of Infanticide [12]                         
+The law of infanticide has been comprehensively
+reviewed by the Ontario Court of Appeal in R. v. L.B., 2011 ONCA 153,
+274 O.A.C. 365, leave to appeal refused, [2011] 4 S.C.R. x. I need do little
+more than summarize its key conclusions. [13]                         
+Infanticide, which is defined in s. 233  of the Criminal
+Code , is a form of culpable homicide and applies in the narrow set of
+circumstances where (1) a mother, by a wilful act or omission, kills her
+newborn child (under one year of age, as defined by the Criminal Code,
+s. 2 ) and, (2) at the time of the act or omission, the mother’s mind is
+“disturbed” either because she is not fully recovered from the effects of
+giving birth or by reason of the effect of lactation: L.B., at para. 58. [14]                         
+This definition “requires a mother-child
+relationship between the perpetrator and the victim”: L.B., at para. 59.
+Further, “the mental state of the perpetrator/mother must be disturbed and that
+disturbance must be connected to the effects of giving birth or lactation”: ibid.
+The offence of “infanticide does not require any causal connection between the
+disturbance of the mother’s mind and the decision to do the thing that caused
+her child’s death”: ibid.; R. v. Guimont (1999), 141 C.C.C. (3d)
+314 (Que. C.A.), at p. 317. The disturbance is part of the actus reus of
+the offence, and not the mens rea: L.B., at para. 59. [15]                         
+Infanticide operates both as a stand-alone
+offence and as a partial defence, as in this case, to a charge of murder: L.B.,
+at paras. 99 and 104; Guimont, at p. 320. Where the evidence establishes
+an air of reality to an infanticide defence, the Crown must negate the defence
+beyond a reasonable doubt: L.B., at para. 137. [16]                         
+The mens rea of infanticide is the same
+as that required for manslaughter: L.B., at para. 114. Thus, “to prove
+infanticide, the Crown must establish the mens rea associated with the
+unlawful act that caused the child’s death and [the] objective foreseeability
+of the risk of bodily harm to the child from that assault”: ibid., at
+para. 121. As the Court of Appeal notes, it is the “unique actus reus of
+infanticide that distinguishes it from murder and manslaughter”: ibid. [17]                         
+When infanticide is raised as a partial defence
+to a charge of murder or manslaughter, the jury should be instructed as set out
+in L.B., at para. 139. Where the Crown proves that the accused committed
+a culpable homicide, the jury must consider the nature of the culpable homicide
+and whether it is infanticide. If the Crown fails to negate at least one of the
+elements of infanticide beyond a reasonable doubt, the jury must be instructed
+to return a verdict of not guilty of murder, but guilty of infanticide: ibid. B.           
+Disturbed Mind [18]                         
+The question of the meaning of the phrase “her
+mind is then disturbed” is one of statutory interpretation. To answer it, we
+apply the often reiterated “modern” approach which requires that we read the
+words in their “entire context and in their grammatical and ordinary sense
+harmoniously with the scheme of the Act, the object of the Act, and the
+intention of Parliament”: E. A. Driedger, Construction of Statutes (2nd
+ed. 1983), at p. 87. I will look at the grammatical and ordinary sense of the
+words, their place within the Criminal Code , the provision’s legislative
+history and evolution, and, finally, at the jurisprudence interpreting this
+phrase. (1)          
+Grammatical and Ordinary Sense [19]                         
+  The adjective “disturbed” means “[d]isquieted;
+agitated; having the settled state, order, or position interfered with” and
+“emotionally or mentally unstable or abnormal”: The Oxford English
+Dictionary (2nd ed. 1989), at p. 872. [20]                         
+The French version of the legislation provides
+that a woman commits infanticide “si au moment de
+l’acte ou de l’omission elle n’est pas complètement remise d’avoir donné
+naissance à l’enfant et si, de ce fait ou par suite de la lactation consécutive
+à la naissance de l’enfant, son esprit est alors déséquilibré”. Le Grand Robert de la langue française (2nd ed. 2001) defines
+“déséquilibré” as “[q]ui n’a pas ou n’a plus son équilibre mental,
+psychique”: p. 1344. [21]                         
+The grammatical and ordinary sense of the words
+used in s. 233  supports the conclusion that the legislator did not intend to
+restrict the availability of infanticide to situations where the psychological
+health of the woman was substantially compromised or where a mental disorder
+was established. [22]                         
+The statutory language also shows that there is
+no requirement for a causal connection between the disturbance of the accused’s
+mind and the act or omission causing the child’s death. There is, however, a
+required link between the disturbance and having not fully recovered from the
+effects of giving birth to the child or of the effect of lactation consequent
+on the child’s birth; in either case the disturbance must be “by reason
+thereof”. (2)          
+Statutory Context [23]                         
+The concept of a “disturbed” mind is unique to
+infanticide and does not appear elsewhere in the Criminal Code . Conceptually,
+a “disturbed” mind must be different from a “mental disorder”, a term used in
+s. 16  of the Criminal Code , and, when proved on a balance of probabilities,
+can lead to a verdict of not criminally responsible. It must also be different
+from non-insane automatism, which makes the act committed by the accused
+involuntary: R. v. Parks, [1992] 2 S.C.R. 871, at p. 896. [24]                         
+From this we may infer that the disturbance
+addressed in the infanticide provisions need not reach the level required to
+provide a defence under s. 16  of the Criminal Code , that is, to be the
+result of a mental disorder (which is defined as a “disease of the mind” under
+s. 2  of the Criminal Code ) that renders the accused incapable of
+appreciating the nature and quality of the act or omission or of knowing that
+it was wrong. We can also infer that the disturbance aspect of infanticide need
+not render the accused’s acts or omissions involuntary as is required for
+automatism. (3)          
+Legislative History and Evolution [25]                         
+Section 233  of the Criminal Code 
+originated in the English Infanticide Act, 1922 (U.K.), 12 &
+13 Geo. 5, c. 18. In 1938, that legislation was replaced with the Infanticide
+Act, 1938 (U.K.), 1 & 2 Geo. 6, c. 36, and, in 2010, was amended by the
+Coroners and Justice Act 2009 (U.K.), c. 25, s. 57. [26]                         
+The Infanticide Act, 1922 introduced the
+requirement that “at the time of the act or omission [the mother] had not fully
+recovered from the effect of giving birth to such child, and by reason thereof
+the balance of her mind was then disturbed”: s. 1(1). The Infanticide
+Act, 1938 introduced amendments that remain in force today, in particular
+that the “balance of [the mother’s] mind” could be “disturbed by reason of her
+not having fully recovered from the effect of giving birth to the child or by
+reason of the effect of lactation consequent upon the birth of the child”: s.
+1(1). [27]                         
+The adoption of the Infanticide Act, 1922
+was intended to remedy the fact that judges and juries were reticent to convict
+a mother who killed her newborn of murder since she necessarily faced the death
+penalty: House of Lords, Hansard, series 5, vol. 50, May 25, 1922
+(online) (the “Child Murder (Trial) Bill”), at pp. 758-59; see also D.
+Seaborne Davies, “Child-Killing in English Law” (1937), 1 Mod. L. Rev. 203,
+at pp. 211 and 217-19; and L.B., at paras. 67-68. The conditions in
+which infanticide arose drew much public sympathy. It was thought to be a crime
+mostly committed by “illegitimate mothers” trying to hide their shame, a motive
+which the general opinion thought lessened the heinousness of the crime.
+Further, it was acknowledged that women who committed infanticide often faced
+difficult economic circumstances, which led to the commission of the crime:
+Davies, at pp. 221-22. [28]                         
+The drafters of the Infanticide Act, 1922 deliberately
+adopted broad language. In the House of Lords, the Lord Chancellor noted that
+the words expressing the requirement that the balance of the mother’s mind be
+disturbed were “not terms of art”. Rather, the use of these “new words” was
+intended to distinguish it from the language “appropriated by prescriptive
+usage to insanity proper and to mental derangement produced by drunkenness” and
+that it was better to provide a formula “which might be the subject of
+reasonable judicial decision” and which would give effect to the intention
+behind the proposed legislation: Child Murder (Trial) Bill, at pp.
+761-62. [29]                         
+However, the language used did introduce some
+limitations. Lord Carson recommended that the legislation should not provide
+relief to just any woman who has gone through childbirth. Rather, it should
+apply in situations where there was evidence that “the crime when committed was
+the result of the balance of [the mother’s] mind having been disturbed”: Child
+Murder (Trial) Bill, at p. 765. The Lord Chancellor agreed that one had to
+establish “some exceptional derangement and disturbance”: p. 768. [30]                         
+In Canada, infanticide first appeared in the Criminal
+Code  in 1948: Criminal Code, R.S.C. 1927, c. 36, s. 262, as amended
+by An Act to amend the Criminal Code, S.C. 1948, c. 39, s. 7. In the
+English version of the law, Parliament adopted the same “balance of the mind”
+language as in the Infanticide Act, 1922. Amendments were made to the
+infanticide provisions in 1954: Criminal Code, S.C. 1953-54, c. 51.
+Among other changes, Parliament replaced the “balance of the mind” language
+with the requirement that the mother’s mind must be “then disturbed” and added
+lactation, in addition to giving birth, as a potential cause of that
+disturbance: s. 204. While the “balance of the mind” language was retained in
+other provisions pertaining to infanticide, namely ss. 663 (b) and 672.11 (c) of
+the Criminal Code , there is no meaningful difference between this
+language and the requirement that the mother’s “mind is then disturbed” under
+s. 233  of the Criminal Code . In the French versions of the successive
+statutory provisions at issue, the following language was used: “son esprit était
+alors déséquilibré” (in the 1927 version of the infanticide provision and
+in s. 663 (b)); “son esprit est alors déséquilibré” (in the 1954 version
+of the infanticide provision); and “mentalement déséquilibrée” (in s.
+672.11 (c)). There is no meaningful difference, either, in the language used in
+French to describe the mother’s required state of mind. [31]                         
+The same concerns that led to the Infanticide
+Act, 1922 in the U.K. were also motivating factors in Canada. Namely,
+sympathetic juries repeatedly refused to convict mothers who killed their
+newborn children. The infanticide provision was intended to make it easier to
+get a conviction for the offence of homicide short of murder or manslaughter: House
+of Commons Debates, vol. V, 4th Sess., 20th Parl., June 14, 1948, at
+pp. 5184-87. [32]                         
+It was also expressed in debates that, as the
+U.K. statute, the provision was intended to apply to cases “where there is not
+the degree of mental derangement amounting to insanity” and that “[i]t does not
+go as far as the rule in Macnaughton’s case [which sets out a legal test for
+insanity]”: House of Commons Debates, at p. 5185 (Hon. J. L. Ilsley, then
+Minister of Justice). It was also noted that the provision would capture “a
+slightly deranged, distressed mother” who would otherwise be guilty of murder:
+p. 5187. [33]                         
+The debates in the U.K. and Canada surrounding
+the enactment of the infanticide provisions demonstrate that the purpose of the
+provision was to provide for a less serious offence than murder in cases of
+infanticide and to provide a broad and flexible standard that would be applied
+on a case-by-case basis. (4)          
+The Jurisprudence [34]                         
+Infanticide, and, in particular, the meaning of
+having a “disturbed” mind at the time of committing the act or omission leading
+to the child’s death, has received limited treatment in English and Canadian
+jurisprudence. The Canadian jurisprudence establishes that there is a “very
+low” or “fairly low” threshold for a finding of mental disturbance and that it
+does not require evidence that the accused has a mental disorder: Coombs,
+at paras. 36-37; R. v. Leung, 2014 BCSC 558, at paras. 26 and 32
+(CanLII); R. v. L.B. (2008), 237 C.C.C. (3d) 215 (Ont. S.C.J.), at para.
+59, aff’d 2011 ONCA 153, 274 O.A.C. 365 (although the trial judge there held
+that the standard should not be so minimal as to cheapen or disrespect the
+memory of the innocent victim). In Leung, the jury was also told to give
+the word “disturbed” under s. 233  its ordinary, common meaning: see A.F., at
+para. 80 (fn. 119). C.           
+Conclusion on Meaning of “Mind Is Then
+Disturbed” [35]                         
+From this review, I cannot accept the conclusion
+of the dissenting judge in the Court of Appeal that Parliament intended to
+restrict the concept of a disturbed mind to those who have “a substantial
+psychological problem”: para. 140. Rather, I conclude that the phrase “mind is
+then disturbed” should be applied as follows: (a)               
+The word “disturbed” is not a legal or medical
+term of art, but should be applied in its grammatical and ordinary sense. (b)              
+In the context of whether a mind is disturbed,
+the term can mean “mentally agitated”, “mentally unstable” or “mental
+discomposure”. (c)               
+The disturbance need not constitute a defined
+mental or psychological condition or a mental illness. It need not constitute a
+mental disorder under s. 16  of the Criminal Code  or amount to a
+significant impairment of the accused’s reasoning faculties. (d)              
+The disturbance must be present at the time of
+the act or omission causing the “newly-born” child’s death and the act or
+omission must occur at a time when the accused is not fully recovered from the
+effects of giving birth or of lactation. (e)               
+There is no requirement to prove that the act or
+omission was caused by the disturbance. The disturbance is part of the actus
+reus of infanticide, not the mens rea. (f)               
+The disturbance must be “by reason of” the fact
+that the accused was not fully recovered from the effects of giving birth or
+from the effect of lactation consequent on the birth of the child. D.          
+Application (1)          
+The Trial Judge’s Reasons [36]                         
+The trial judge reviewed the limited body of
+jurisprudence on infanticide and the definition of a “disturbed” mind, which,
+among other points, established that “disturbed” mind did not require an actual
+diagnosis of a mental disorder and sets a very low threshold. [37]                         
+The trial judge rejected Dr. Hashman’s evidence,
+finding that the Crown expert erroneously referred to the “balance of the mind”
+test, required proof of a mental disorder and failed to refer in his final
+report to an important symptom described by the respondent which supported a
+theory of depersonalization and dissociation despite having referred to it in
+prior correspondence. [38]                         
+Dr. Smith, on the other hand, referred in her
+report to the respondent’s descriptions of how she felt at the time of the
+deliveries and the similar information she gave to the police about her
+emotional state. For example, she noted that the respondent said she felt
+“detached and not thinking”, like she was “dreaming but not there” and
+described the deliveries as an “out of body experience”: A.R., vol. VI, at p. 93.
+This, Dr. Smith found, was “highly consistent with dissociation and
+depersonalization”: pp. 93-94. At trial, Dr. Smith also referred to these
+descriptions by the respondent and found them to be consistent with
+“significant depersonalization”. [39]                         
+The trial judge, relying on Dr. Smith’s opinion
+and the case as a whole, concluded that the respondent’s mind was “disturbed”
+as a result of not yet having fully recovered from the effects of giving
+birth. (2)          
+The Trial Judge’s Alleged Legal Errors (a)          
+Did the Trial Judge Fail to Apply Any Legal
+Test? [40]                         
+The Crown argues that the trial judge failed to
+apply any legal test in determining whether the respondent’s mind was
+“disturbed” at the time of the deliveries. The Crown submits that the trial
+judge erroneously found that “balance of the mind” was something different from
+the “mind is disturbed” and failed to suggest what the test was or what level
+of disturbance would be sufficient. [41]                         
+I disagree that the trial judge failed to apply
+a legal test or standard. As concluded by the majority of the Court of Appeal,
+there was no error in the trial judge’s summary of the law of infanticide. The
+trial judge applied the correct standard, which is set out by the statutory
+language in s. 233  of the Criminal Code . Although the trial judge,
+erroneously, thought there was significant difference between the “balance of
+the mind” language found in related provisions and the wording of s. 233  that
+the mother’s mind be “disturbed”, this error did not affect his analysis of the
+evidence or his application of the appropriate legal standard to it. The trial
+judge rejected Dr. Hashman’s evidence for several reasons, including that he
+failed to refer to a symptom the trial judge thought was important in his final
+report and seemed to require evidence of a mental disorder. [42]                         
+The Crown seeks to impose a higher threshold
+than what is provided for by s. 233  of the Criminal Code  in arguing that
+a mother has a “disturbed” mind only if her psychological health is
+“substantially compromised” because she recently gave birth. As noted earlier,
+this is not the legal standard intended by Parliament in s. 233  of the Criminal
+Code . (b)          
+Did the Trial Judge Infer the Respondent’s
+Mental State Solely From Her Conduct? [43]                         
+The Crown submits that the trial judge used the
+respondent’s conduct to determine the respondent’s mental state. In other
+words, the Crown argues that the trial judge adopted circular reasoning in
+finding that the respondent’s mind must have been disturbed because her actions
+were “bizarre” and “absolutely contrary to the nurturing that humankind depends
+on for its propagation”: A.F., at para. 99. [44]                         
+This argument must also be rejected. The trial
+judge’s reasons make it clear that he did not find that the respondent’s
+conduct met the requirements of the definition of infanticide simply because
+she had killed two of her children. The trial judge relied not only on the
+respondent’s personal history and the circumstances of the offences (which
+includes the nature of the acts themselves), but also on Dr. Smith’s expert opinion.
+In doing so, the trial judge had an evidentiary basis for concluding that the
+Crown failed to prove that the respondent’s mind was not disturbed at the time
+of the offences and did not rely on the circular reasoning alleged by the
+Crown. (c)          
+Did the Trial Judge Fail to Appreciate the
+Evidence of Mental State? [45]                         
+Finally, the Crown submits that the trial judge
+failed to consider the respondent’s “detailed account of each birth, her
+goal-oriented behaviour, her personal circumstances beyond not having a criminal
+record or psychopathic tendencies, and her pattern of rational behaviour and
+wilful blindness” in considering whether the level of depersonalization met the
+requirement of infanticide: A.F., at para. 103 (emphasis in original). In
+short, the Crown argues that the respondent’s behaviour demonstrated rational
+thought and an uncompromised mind. [46]                         
+Even assuming that this point raises a question
+of law, I cannot accept it. The trial judge took into consideration Dr. Smith’s
+report, which relied on the respondent’s statements about her behaviour to Dr.
+Smith and to the police, the respondent’s personal history, as well as the
+circumstances of the offences. [47]                         
+Dr. Smith was of the opinion that the “extreme
+panic associated with the delivery triggered significant dissociative symptoms,
+in particular depersonalization, which in turn impaired her ability to think
+clearly, to accurately perceive and judge her situation, to make reasonable
+decisions and to control her behaviour” and concluded that the respondent’s
+mind was disturbed as a result of not having fully recovered from the effects
+of giving birth: A.R., vol. VI, at p. 94. [48]                         
+The trial judge also considered the case as a
+whole, including the facts of the offences and that the respondent had no
+criminal record or psychopathic or sociopathic tendencies. Based on his
+assessment of the evidence, the trial judge was entitled to conclude or have a
+reasonable doubt that the respondent’s mind was “disturbed” at the time of the
+offences despite any indication of rational behaviour and wilful blindness. IV.       
+Disposition [49]                         
+I would dismiss the appeal.                     Appeal dismissed.                     Solicitor for the
+appellant: Attorney General of Alberta, Calgary.                     Solicitors for the
+respondent: Serink Law Office, Calgary; Alias Amelia Sanders, Calgary.                     Solicitor for the
+intervener the Attorney General of Ontario: Attorney General of Ontario,
+Toronto.                     Solicitors for the
+intervener the Women’s Legal Education and Action Fund Inc.: Goldblatt
+Partners, Toronto; Women’s Legal Education and Action Fund Inc., Toronto.                     Solicitors for the
+intervener the Criminal Lawyers’ Association of Ontario: Dawe &
+Dineen, Toronto.  

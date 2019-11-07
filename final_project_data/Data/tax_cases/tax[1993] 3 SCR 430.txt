@@ -1,0 +1,830 @@
+Slattery (Trustee of) v.
+Slattery, [1993] 3 S.C.R. 430  Marguerite Slattery                                                                           Appellant  v.  Doane Raymond Limited, Trustee of the
+Estate of Raymond P. Slattery, a
+Bankrupt                                                 Respondent  Indexed as:  Slattery
+(Trustee of) v. Slattery  File No.:  22618.  1993:  March 29; 1993:  September 30.   on appeal from the new brunswick court
+of appeal                      A taxpayer unable to
+pay his taxes owing was petitioned into bankruptcy by Revenue Canada.  The
+respondent trustee in bankruptcy commenced an action against the appellant (the
+bankrupt's wife) seeking a declaration that certain assets registered in her
+name were the property of the bankrupt's estate or were held in trust for that
+estate.                     At trial, the
+trustee sought to introduce testimony from two Revenue Canada officials who had
+participated in the investigation into the bankrupt's affairs.  Appellant
+argued that that testimony was barred because s. 241 of the Income Tax
+Act prohibits Revenue Canada officials from disclosing information obtained
+from a taxpayer for the purposes of that Act.  The trial judge ruled that this
+testimony fell within the exception in s. 241(3) which provides that the
+prohibition does not apply in respect of proceedings relating to the
+administration or enforcement of the Act.  Both officials testified, and the
+court granted the declaration in part.  The New Brunswick Court of Appeal
+agreed with the trial judge's interpretation of s. 241 and dismissed the
+appeal.  At issue here was whether a civil action commenced by the trustee for
+a declaration that certain property is property of the bankrupt's estate is a
+proceeding "relating to the . . . enforcement of" the Income
+Tax Act within the meaning of s. 241(3) of the Act.                      Per Lamer C.J. and La Forest,
+Gonthier, Cory, Iacobucci and Major JJ.:  Section 241 involves a
+balancing of competing interests:  the privacy interest of the taxpayer with
+respect to his or her financial information, and the interest of the Minister
+in being allowed to disclose taxpayer information to the extent necessary for
+the effective administration and enforcement of the Income Tax Act and
+other federal statutes referred to in s. 241(4).  Only in exceptional or
+prescribed situations does the privacy interest give way to the interest of the
+state.  By instilling confidence in taxpayers that the personal information
+they disclose will not be communicated in other contexts, Parliament encourages
+voluntary disclosure of this information.  Parliament, however, has also
+recognized that the possession of personal information is useless if it cannot
+be used to assist in tax collection, when required, including tax collection by
+way of judicial enforcement.                     Section 241(3)
+contemplates not only administrative and enforcement proceedings brought under
+the Income Tax Act itself but also other proceedings.  Both the text and
+the context of s. 241 buttress this conclusion.  The connecting phrases
+used by Parliament in s. 241(3) ("in respect of" and
+"relating to") are of the widest possible scope and suggest that a
+wide rather than narrow view should be taken when considering whether a
+proposed disclosure is in respect of proceedings relating to the administration
+or enforcement of the Income Tax Act.  This breadth of meaning is
+confirmed by the French version of the section.                     Section 222
+clearly states that the Minister may resort generally to the courts to
+institute civil proceedings to collect taxes as debts in addition to the
+procedures specified in the Income Tax Act.  In order to take full
+advantage of this power, the Minister must be able to disclose in court
+otherwise confidential information in order to prove the cause of action in
+debt.  Absent the ability to disclose as required to prove a debt, s. 222
+would be deprived of part of its meaning.                     Glover v. Glover
+(No. 1) must be
+read to mean that the confidentiality provisions apply to any legal proceeding
+of a civil character which is not covered by the exception provided in
+s. 241(3).  Sections 241(1) and (2) apply to civil proceedings not
+related to the administration or enforcement of the Income Tax Act.  Glover
+does not inform the issue already set out:  the essential question is whether
+or not the bankruptcy proceedings taken herein are related to the
+administration or enforcement of the Income Tax Act.                     The proceedings
+taken here were related to the administration or enforcement of the Income
+Tax Act even though they were taken by the trustee in bankruptcy.  A
+contrary interpretation is not supported by the wording of s. 241(3) and
+is somewhat inconsistent with the power given to creditors in s. 38(1) of
+the Bankruptcy Act.  At the policy level, the Minister should not be
+inhibited from recourse to the bankruptcy process in light of the advantages
+and protection that this process can entail.  If the Minister cannot disclose
+confidential information in bankruptcy to prove a claim asserted, the
+bankruptcy procedure will in many cases not be available for income tax
+enforcement.                     The difference in
+nature between bankruptcy proceedings and proceedings under s. 160, where
+disclosure was admitted to be available by appellant, was not relevant.  The
+important point was that disclosure made during bankruptcy proceedings was made
+in respect of proceedings relating to the administration or enforcement of the
+Act within the meaning of s. 241(3).  The fact that the Minister chose to
+collect taxes by petitioning the taxpayer into bankruptcy did not disentitle
+Revenue Canada from disclosing the confidential information.                     Arguments raising
+the possibility of difficult questions as to competence and compellability were
+not persuasive.                      This Court gave the
+phrase "in respect of" a wide interpretation in the circumstances of
+the Indian Act  as it related to taxation of personal property.  The wide
+interpretation given the phrase in that context is not determinative of its
+application in s. 241(3) .  The context of s. 241(3) , and
+jurisprudence of this Court treating the section, suggest that the phrase
+should be construed narrowly, not broadly.                     The proceedings at
+issue on this appeal are not proceedings so connected to the administration of
+the Act that they fall within the contemplation of the exemption in
+s. 241(3).  Part XV of the Act provides the Minister of Revenue with
+a system of debt collection proceedings that mirrors ordinary creditors'
+remedies.  It does not, however, deal with bankruptcy, except to the extent of
+providing the Minister with the power to collect money owed to a secured
+creditor by a trustee in bankruptcy, notwithstanding the Bankruptcy Act. 
+This legislative silence is significant.  Bankruptcy is a particular process
+which has specific and salutary aims and which involves all of the creditors of
+a particular debtor.  Concern for the confidentiality of information that is
+not public is very much at issue.                     The proceeding at
+issue here is not an action under s. 222.  The action is brought by a trustee
+in bankruptcy and not by the Crown as the section appears to contemplate. 
+Under s. 69 of the Bankruptcy Act, all collection proceedings are
+stayed when the debtor is declared bankrupt.  Until that point the Minister
+arguably may prove its debt by disclosure of information obtained for the
+purposes of the Act.  But once a debtor is declared bankrupt, and a trustee in
+bankruptcy has been put in place to pursue the bankruptcy, the proceeding is no
+longer capable of being accurately characterized as a proceeding relating to the
+administration of the Act.  The stay operates until the trustee in bankruptcy
+is discharged.  The practical effect of the proceedings permitting the Minister
+to realize upon an outstanding debt does not operate to make the proceeding one
+relating to the administration of the Act.                     Part XV of the
+Act makes no specific provision for disclosure in the context of bankruptcy. 
+When the Minister has recourse to this procedure, its actions are governed by
+the Bankruptcy Act and no longer by the Income Tax Act.  In so
+proceeding the Minister loses the capacity to deploy the special information
+gathering techniques, which accrue only by virtue of the Income Tax Act,
+either to its own advantage, or to those of its fellow creditors.                     The Minister was
+not permitted to disclose confidential information in the case at bar even
+though a superior court judge is a person, as provided in s. 241(4)(c),
+"legally entitled" to the information.  A party should not be able to
+avail itself of the s. 241(4)(c) exemption if it cannot bring the
+proceeding within the terms of s. 241(3).  Cases Cited  By Iacobucci J.                     Considered:  Glover v. Minister of National
+Revenue, [1981] 2 S.C.R. 561, aff'g (1980), 29 O.R. (2d) 392; referred
+to:  Canadian Pacific Tobacco Co. v. Stapleton (1952), 86 C.L.R. 1; Nowegijick
+v. The Queen, [1983] 1 S.C.R. 29; Diversified Holdings Ltd. v. Canada,
+[1991] 1 F.C. 595.  By McLachlin J.
+(dissenting)                     Nowegijick v. The
+Queen, [1983] 1
+S.C.R. 29; R. v. McKinlay Transport Ltd., [1990] 1 S.C.R. 627; Glover
+v. Minister of National Revenue, [1981] 2 S.C.R. 561, aff'g (1980), 29 O.R.
+(2d) 392.  Statutes and
+Regulations Cited   Income
+Tax Act, R.S.C. 1952,
+c. 148, s. 133.  Income
+Tax Act, S.C. 1948,
+c. 52, s. 121.     Income
+War Tax Act, R.S.C.
+1927, c. 97, s. 81(1), (2).  Income
+War Tax Act, 1917,
+S.C. 1917, c. 28, s. 11.   Authors Cited  Bohémier, Albert.  Faillite et Insolvabilité,
+t. 1.  Montréal:  Thémis, 1992.   Chabot, Marc. 
+Faillite et Insolvabilité.  Sillery, Québec:  Presses de l'Université du
+Québec, 1987.  Dictionnaire
+de la langue française. 
+Paris:  Larousse, 1989, "traits".  Harris,
+Edwin C.  Canadian Income Taxation, 4th ed.  Toronto: 
+Butterworths, 1986.   Le
+Robert Méthodique. 
+Paris:  Le Robert, 1988, "avoir trait à".  The
+Pocket Oxford Dictionary,
+7th ed.  Edited by R. E. Allen.  Oxford:  Clarendon Press, 1984,
+"relation".  Toope,
+Stephen J., and Alison L. Young.  "The Confidentiality of Tax
+Returns Under Canadian Law" (1982), 27 McGill L.J. 479.                      B. A. Crane, Q.C., and Randall J.
+Hofley, for the appellant.                     John R. Power, Q.C., and Michael Donovan,
+for the respondent.                     The judgment of
+Lamer C.J. and La Forest, Gonthier, Cory and Major JJ. was delivered by                     Iacobucci
+J. -- This appeal
+concerns the interpretation to be given to s. 241(3) of the Income Tax
+Act, S.C. 1970-71-72, c. 63 (the Income Tax Act), which
+permits in certain circumstances the disclosure of otherwise confidential
+information obtained from a taxpayer by officials of the Department of National
+Revenue.  More specifically, the appeal concerns an action by a trustee in
+bankruptcy under the Bankruptcy Act, R.S.C., 1985, c. B-3 , for a
+declaration that certain property is the property of a taxpayer bankrupt's
+estate.  The issue is whether such an action is a proceeding "relating to
+the administration or enforcement of" the Income Tax Act.  I.Facts                     Raymond Slattery,
+who is not a party to this action, fell into arrears in paying income tax,
+resulting in a lengthy investigation by Revenue Canada.  Unable to collect the
+taxes owing, Revenue Canada petitioned Slattery into bankruptcy.  The
+respondent, Doane Raymond Limited (the Trustee), was appointed as trustee in
+bankruptcy of the Raymond Slattery estate. In the bankruptcy, Revenue Canada
+proved a claim of just over $1 million and other creditors proved claims of
+over $3 million; however, since Revenue Canada is the only preferred creditor,
+it appears that the assets of the estate will not be sufficient to satisfy the
+claims of any other creditors.                     The trustee
+commenced an action against the appellant, Marguerite Slattery, who is the wife
+of the bankrupt Slattery.  The action sought a declaration that certain assets
+registered in Marguerite Slattery's name were, in fact, the property of the
+bankrupt's estate or were held in trust for that estate.                     At trial, the
+trustee sought to introduce testimony from two Revenue Canada officials who had
+participated in the investigation into Raymond Slattery's affairs.  Counsel for
+Marguerite Slattery objected on the ground that such testimony was barred by
+s. 241 of the Income Tax Act, which prohibits Revenue Canada
+officials from disclosing information which has been obtained from a taxpayer
+for the purposes of the Income Tax Act.  The trial judge ruled that the
+testimony was not barred by s. 241 because it fell within the exception
+contained in s. 241(3), which exception provides that the prohibition does not
+apply "in respect of proceedings relating to the administration or
+enforcement of" the Income Tax Act.  Both officials testified, and
+the New Brunswick Court of Queen's Bench granted the declaration sought in part.                     Marguerite Slattery
+appealed.  She argued that the trial judge had erred in permitting the Revenue
+Canada officials to testify.  The New Brunswick Court of Appeal agreed with the
+trial judge's interpretation of s. 241 of the Income Tax Act, and dismissed
+the appeal.  II.Relevant
+Statutory Provisions  Income Tax Act, S.C. 1970-71-72, c. 63, s. 241:                     241. (1)  Except as authorized by this
+section, no official or authorized person shall  (a)
+knowingly communicate or knowingly allow to be communicated to any person any
+information obtained by or on behalf of the Minister for the purposes of this
+Act or the Petroleum and Gas Revenue Tax Act ,  (b)
+knowingly allow any person to inspect or to have access to any book, record,
+writing, return or other document obtained by or on behalf of the Minister for
+the purposes of this Act or the Petroleum and Gas Revenue Tax Act , or  (c)
+knowingly use, other than in the course of his duties in connection with the
+administration or enforcement of this Act or the Petroleum and Gas Revenue
+Tax Act , any information obtained by or on behalf of the Minister for the
+purposes of this Act or the Petroleum and Gas Revenue Tax Act .                     (2) 
+Notwithstanding any other Act or law, no official or authorized person shall be
+required, in connection with any legal proceedings,  (a)
+to give evidence relating to any information obtained by or on behalf of the
+Minister for the purposes of this Act or the Petroleum and Gas Revenue Tax
+Act , or  (b)
+to produce any book, record, writing, return or other document obtained by or
+on behalf of the Minister for the purposes of this Act or the Petroleum and
+Gas Revenue Tax Act .                     (3) 
+Subsections (1) and (2) do not apply in respect of criminal proceedings, either
+by indictment or on summary conviction, that have been commenced by the laying
+of an information, under an Act of the Parliament of Canada, or in respect of
+proceedings relating to the administration or enforcement of this Act or the Petroleum
+and Gas Revenue Tax Act .                     (4)
+An official or authorized person may ...  (c)
+communicate or allow to be communicated information obtained under this Act or
+the Petroleum and Gas Revenue Tax Act , or allow inspection of or access
+to any book, record, writing, return or other document obtained by or on behalf
+of the Minister for the purposes of this Act or the Petroleum and Gas
+Revenue Tax Act , to or by any person otherwise legally entitled thereto.  III.Judgments
+Below  1.New
+Brunswick Court of Queen's Bench (Jones J.)                     The judgment of the
+New Brunswick Court of Queen's Bench consists of an oral ruling during the
+trial on the admissibility of testimony from the Revenue Canada officials. 
+Jones J. held that the proceedings in the case at bar fell within the
+exception in s. 241(3) of the Income Tax Act. In interpreting the phrase
+"in respect of proceedings relating to the... enforcement of this
+Act", the trial judge commented upon two possible approaches, namely, the
+one set out in Glover v. Minister of National Revenue, [1981] 2 S.C.R.
+561, in which the exception in s. 241(3) was held not to apply in any
+legal proceedings of a civil character, and a second approach taken in Canadian
+Pacific Tobacco Co. v. Stapleton (1952), 86 C.L.R. 1 (Aust. H.C.), which
+was more supportive of the trustee's position.                     The trial judge
+held that "relating to" in s. 241(3) has a broad meaning.  He
+suggested that, although s. 241(3) does not apply to civil proceedings
+unrelated to the Income Tax Act, some civil proceedings nonetheless fall
+within the exemption.  He concluded that the action by the Trustee was of this
+latter kind, stating:  Now
+I know there can be civil legal proceedings strictly under the Income Tax Act,
+nevertheless, it is my finding that on the interpretation that I make of the
+words "relating to the enforcement of the Act" that -- and bearing in
+mind the circumstances in this case, the fact that it is -- this is a civil
+action by trustee in bankruptcy, major -- while the primary creditor is Revenue
+Canada, and the purpose for which -- came out in evidence before me yesterday
+morning, this action is pursued, I would find that it comes within the meaning
+of s. 241.3 and I would, therefore allow the plaintiff to continue with
+questions along that -- along the line which he was pursuing, or at least I
+would say that Sections 241.1 and 241.2 would not apply in this
+proceeding.  Accordingly, the trial judge permitted
+the Revenue Canada officials to testify.  2.New Brunswick Court of Appeal (1991),
+120 N.B.R. (2d) 4 (Hoyt, Ayles and Ryan JJ.A.)                     The reasons of the
+court were delivered by Hoyt J.A. (as he then was).  During a brief review
+of the facts, Hoyt J.A. noted the importance of the testimony given by the
+Revenue Canada officials to the decision reached by the trial judge.  He also
+noted that the purpose of the trustee's action was to ensure that the assets of
+the estate were collected, so that the bankrupt's creditors, including Revenue
+Canada, could be paid.  In determining whether such proceedings were
+"proceedings relating to the administration or enforcement of this
+Act", Hoyt J.A. held at pp. 11-12:  A
+taxpayer who, like Mr. Slattery, circumvents tax collection procedures found in
+the Act is not thereby immune from other proceedings that the Minister
+may take to collect unpaid taxes and thus enforce the Act. Although Mr.
+Slattery is not a defendant in this proceeding, the trial judge has found,
+correctly in my view, that this situation arose because Mr. Slattery
+attempted to avoid paying outstanding taxes owed to Revenue Canada by implicating
+Mrs. Slattery with, it must be noted, her acquiescence.  Hoyt J.A. held at p. 12 that to
+"accept the appellant's submission could prevent the Minister from
+enforcing the Income Tax Act in proceedings other than those brought
+specifically under that Act".  He distinguished Glover, supra,
+by stating that the present action could not be characterized as a non-Income
+Tax Act legal proceeding.  Although this proceeding was not instituted
+under the Income Tax Act, he found it to be related to the enforcement
+of that Act.                     As a result, the
+Court of Appeal held that the Revenue Canada officials had properly been
+permitted to testify and the appeal was dismissed.  IV.Issue                     The question raised
+by this appeal is whether a civil action commenced by the trustee for a
+declaration that certain property is property of the bankrupt's estate is a
+proceeding "relating to the ... enforcement of" the Income Tax Act
+within the meaning of s. 241(3) of that Act.  If it is, the prohibitions
+contained in s. 241 of the Income Tax Act against Revenue Canada
+officials' communicating or giving evidence of information obtained from the
+taxpayer do not apply.  The respondent trustee in its factum also argues that
+the disclosure could be permitted by the exception contained in s. 241(4)(c),
+by suggesting that a bankruptcy judge is a "person otherwise legally
+entitled" to such information.  As a result of my conclusion, I need not
+discuss this argument further.                     An analysis of the
+history of s. 241, its underlying purposes and policy, its text and context,
+applicable judicial authority, and the nature of the proceedings involved
+herein, leads me to conclude that the courts below were correct in their
+holdings and that this appeal should be dismissed.  V.Analysis  1.  History of s. 241                     At the outset, it
+is worth noting that the taxation of income in Canada has been and is based on
+a self assessment and self reporting system.  Confidentiality of taxpayer
+information has been an important part of our income tax collection system.                     Legislated
+confidentiality of information obtained from taxpayers has moved through two
+distinct stages in Canada.  The first stage began with s. 11 of the Income
+War Tax Act, 1917, S.C. 1917, c. 28.  That section was a simple prohibition
+against disclosure by a person employed in the service of the Crown to a
+person, not legally entitled thereto, of any information obtained under the
+Act.  Section 11 read as follows:                     11. No person employed in the service of
+His Majesty shall communicate or allow to be communicated to any person not
+legally entitled thereto, any information obtained under the provisions of this
+Act, or allow such person to inspect or have access to any written statement
+furnished under the provisions of this Act. Any person violating any of the
+provisions of this section shall be liable on summary conviction to a penalty
+not exceeding two hundred dollars.  Section 11 was re-enacted as
+ s. 81 of the 1927 Income War Tax Act, R.S.C. 1927, c. 97, with the
+only modification being that the section was divided into two subsections, with
+the penalty portion becoming s. 81(2).  In 1948, s. 81 became s. 121
+of The Income Tax Act, slight changes in wording took place, and the
+subsections reverted to a consolidated form once more (S.C. 1948, c. 52).  In
+1952, the last change of the first stage occurred, and s. 121 became
+s. 133 in the Income Tax Act, R.S.C. 1952, c. 148.  Viewed as a
+whole, this stage of legislative history is distinguishable because the extent
+of confidentiality protection afforded to taxpayers by the plain language of
+the statute had two features.  First, the prohibition against disclosure was
+directed only at persons in the service of the Crown.  Second, the success of
+that prohibition depended almost entirely upon the meaning ascribed to the
+statutory phrase "a person, not legally entitled thereto", which
+phrase offered the only exception to the otherwise blanket statutory
+prohibition.                     The second
+legislative stage began in 1966 when the confidentiality section was entirely
+modified by two amendments (S.C. 1966-67, c. 47, s. 17, and S.C. 1966-67, c.
+91, s. 22).  These amendments extended the general rule of non-disclosure to
+everyone, and at the same time spelled out specific exceptions for prescribed situations. 
+(See Stephen J. Toope and Alison L. Young, "The Confidentiality of Tax
+Returns Under Canadian Law" (1982), 27 McGill L.J. 479.)  The
+following is a succint summary of the 1966 amendments at p. 489:                     The
+general effect of these provisions is to make the section easier to apply. 
+There is now a general prohibition against release of tax information to
+anyone.  The subsections which follow the general prohibition set up exceptions
+to the rule, and the circumstances in which ministerial discretion may operate
+seem to be clear.  The organization of the section is, in this respect, more
+amenable to application by common law courts as it resembles a set of rules
+rather than an abstract principle.  As will be noted again below, the 1966
+amendments were described by the Ontario Court of Appeal as  "a
+comprehensive code designed to protect the confidentiality of all information
+given to the Minister for the purposes of the Income Tax Act" -- Glover
+v. Glover (No. 1) (1980), 29 O.R. (2d) 392, at p. 396. The amendments were
+initially embodied in s. 133, but in 1970, s. 133 became s. 241 of
+the Income Tax Act, as it remains today.  Since then, the section has
+been only slightly modified.  2.  Purposes and
+Policy Underlying s. 241                     In my view,
+s. 241 involves a balancing of competing interests:  the privacy interest
+of the taxpayer with respect to his or her financial information, and the
+interest of the Minister in being allowed to disclose taxpayer information to
+the extent necessary for the effective administration and enforcement of the Income
+Tax Act and other federal statutes referred to in s. 241(4).                     Section 241
+reflects the importance of ensuring respect for a taxpayer's privacy interests,
+particularly as that interest relates to a taxpayer's finances.  Therefore,
+access to financial and related information about taxpayers is to be taken
+seriously, and such information can only be disclosed in prescribed
+situations.  Only in those exceptional situations does the privacy interest
+give way to the interest of the state.                     As alluded to
+already, Parliament recognized that to maintain the confidentiality of income
+tax returns and other obtained information is to encourage the voluntary tax
+reporting upon which our tax system is based.  Taxpayers are responsible for
+reporting their incomes and expenses and for calculating the tax owed to
+Revenue Canada.  By instilling confidence in taxpayers that the personal
+information they disclose will not be communicated in other contexts,
+Parliament encourages voluntary disclosure of this information.  The opposite
+is also true:  if taxpayers lack this confidence, they may be reluctant to
+disclose voluntarily all of the required information (Edwin C. Harris, Canadian
+Income Taxation (4th ed. 1986), at pp. 26-27).                     Parliament has also
+recognized, however, that if personal information obtained cannot be used to
+assist in tax collection when required, including tax collection by way of
+judicial enforcement, the possession of such information will be useless.  Disclosure
+of information obtained through tax returns or collected in the course of tax
+investigations may be necessary during litigation in order to ensure that all
+relevant information is before the court, and thereby to assist in the correct
+disposition of litigation.  But this necessity is sanctioned by Parliament in a
+very limited number of situations.  Disclosure is authorized in criminal
+proceedings and other proceedings as set out in s. 241(3).  Certain other
+situations are specified in s. 241(4), which have been described by the
+Ontario Court of Appeal as being "largely of an administrative
+nature" (Glover v. Glover (No. 1), supra, at p. 397).  3.  The Text and Context of
+s. 241(3)                     As already noted,
+s. 241(3) provides, inter alia, that the confidentiality provisions
+in s. 241(1) and (2) do not apply "in respect of proceedings relating to
+the administration or enforcement of" the Income Tax Act.  The
+appellant argues that the only proceedings covered by this exception are those
+which are expressly provided for in Part XV of the Act, entitled 
+"Administration and Enforcement".  The appellant's argument would
+require the words in s. 241(3) to be read as meaning that the
+confidentiality provisions do not apply "in respect of proceedings taken
+pursuant to the administration or enforcement provisions" of the Income
+Tax Act.  Neither the text nor context of s. 241 supports this
+argument.                     The connecting
+phrases used by Parliament in s.  241(3) are very broad.  The
+confidentiality provisions are stated not to apply in respect of
+proceedings relating to the administration or enforcement of the Income
+Tax Act.                    The phrase "in
+respect of" was considered by this Court in Nowegijick v. The Queen,
+[1983] 1 S.C.R. 29, at p. 39:                     The
+words "in respect of" are, in my opinion, words of the widest
+possible scope. They import such meanings as "in relation to",
+"with reference to" or "in connection with". The phrase
+"in respect of" is probably the widest of any expression intended to
+convey some connection between two related subject matters. [Emphasis added.]  In my view, these comments are equally
+applicable to the phrase "relating to".  The Pocket Oxford
+Dictionary (1984) defines the word "relation" as follows:  ...
+what one person or thing has to do with another, way in which one stands or is
+related to another, kind of connection or correspondence or contrast or feeling
+that prevails between persons or things;...  So, both the connecting phrases of
+s. 241(3) suggest that a wide rather than narrow view should be taken when
+considering whether a proposed disclosure is in respect of proceedings relating
+to the administration or enforcement of the Income Tax Act.                     This breadth of
+meaning is confirmed when one examines the French version of the section.  The
+French version of s. 241(3) reads as follows:  241. ...                     (3) 
+Les paragraphes (1) et (2) ne s'appliquent ni aux poursuites au criminel, sur
+acte d'accusation ou sur déclaration sommaire de culpabilité, engagées par le
+dépot d'une dénonciation, en vertu d'une loi fédérale, ni aux poursuites ayant
+trait à l'application ou à l'exécution de la présente loi... [Emphasis
+added.]                     The phrase
+"ayant trait à" is defined in the Larousse dictionary Dictionnaire
+de la langue française (1989) as:  "Avoir trait à : avoir un rapport
+avec".  The dictionary Le Robert Méthodique (1988) defines the
+phrase as:  "Avoir trait à: Se rapporter à... V. Rapport".  And the
+same dictionary defines the word "rapport" as meaning "Lien,
+relation".  Consequently, the French version of s. 241(3) is as broad
+as the English version.                     The next question
+to ask considers what type of administration or enforcement proceedings are
+contemplated by s. 241(3):  only proceedings brought under the Income Tax
+Act itself, or both such proceedings and others?  To answer this question,
+one must look first to the wording of s. 241(3).  That provision contains
+no language which confines the concept of proceedings relating to  administration
+or enforcement to the boundaries of the Income Tax Act.  This conclusion
+is buttressed when one considers the context of s. 241.                     Section 241 is
+found in Part XV of the Income Tax Act, which deals with
+administration and enforcement as previously noted.  It is obvious, but the
+fact must nonetheless be highlighted, that the collection of money owing to
+Revenue Canada is an important part of the Act's enforcement.  This
+proposition is confirmed by s. 222 of the Act which reads as follow:                     222.  All taxes, interest, penalties,
+costs and other amounts payable under this Act are debts due to Her Majesty and
+recoverable as such in the Federal Court of Canada or any other court of
+competent jurisdiction or in any other manner provided by this Act.
+[Emphasis added.]  Section 222 is a clear statement
+that, in addition to the procedures specified in the Income Tax Act, the
+Minister may resort generally to the courts to institute civil proceedings to
+collect taxes as debts.  But, in order to take full advantage of this power,
+the Minister must be able to disclose in court otherwise confidential
+information in order to prove the cause of action in debt.  It must therefore
+be possible to disclose such information to establish the amount owed and to
+prove related matters.  Absent the ability to disclose as required to prove a
+debt, s. 222 would be deprived of part of its meaning.  The absurdity of such a
+result strongly suggests that the collection proceedings specified in
+s. 222 are proceedings "relating to the... enforcement" of the Income
+Tax Act within the meaning of s. 241(3).                     This legislative
+interpretation accords with the necessary balancing of privacy and state
+interests which takes place in s. 241.  Confidentiality of tax information
+is necessary in order to promote the privacy interests of taxpayers and the
+success of voluntary tax reporting.  But the success of the voluntary tax
+reporting system will be of no import if Revenue Canada cannot effectively
+collect taxes owed by taxpayers.  In order to collect taxes owed, Revenue
+Canada should be able to resort to various procedures and proceedings to pursue
+the amounts owed and in doing so should also be able to disclose in court the
+information necessary to prove a cause of action in debt. As Décary J.A. said in
+Diversified Holdings Ltd v. Canada, [1991] 1 F.C. 595 (C.A.), at p. 599:                     In
+the instant case, the documents are part of a process, the collection
+proceedings, which is in itself in the public domain and which involves by its
+very nature the publication of information that would otherwise have remained
+confidential. One cannot seize a property pursuant to a certificate which has
+the force and effect of a judgment (see subsection 223(2) of the Act) without
+revealing to some extent information given to the Minister.  4.  Judicial
+Interpretation of s. 241                     I do not find it
+necessary to discuss all the cases which were decided under s. 241's predecessor
+sections or which deal with actions related to those predecessor sections. 
+However, both the appellant and respondent cited, in support of their
+respective positions, the decision of the Ontario Court of Appeal in Glover
+v. Glover (No. 1), supra, which was affirmed by this Court in a
+short judgment (Glover v. Minister of National Revenue, supra). 
+Accordingly, some comment on this case is required.                     In Glover, a
+trial judge ordered Revenue Canada to disclose the address of a taxpayer who
+had abducted his children in violation of a court order which granted custody
+to the children's mother. The question was whether the judge who ordered
+disclosure of the information was a person "legally entitled
+thereto".  That  phrase had been carried over from s. 241's predecessor
+provision and was restated in s. 241(4)(c) as an enumerated exception. 
+The Ontario Court of Appeal set aside the trial judge's order, holding that the
+judge did not come within the s. 241(4)(c) exception.                     In the
+course of his reasons, MacKinnon A.C.J.O. on behalf of a unanimous court made
+some general comments on the interpretation of s. 241.  He stated at p.
+396 that "[s]ection 241, in my view, is a comprehensive code designed
+to protect the confidentiality of all information given to the Minister for the
+purposes of the Income Tax Act".  In his opinion, at p. 397,
+s. 241(3) was:  ... a clear statement of parliamentary policy
+that no information obtained for the purpose of the Act shall be communicated
+and no official or authorized person shall be required to give evidence
+relating to such information in any non-Income Tax Act civil legal
+proceedings.                     The mother appealed
+the decision of the Ontario Court of Appeal to this Court, which dismissed the
+appeal with brief reasons in which Laskin C.J. said at p. 562:                     Sympathetic
+though one is inclined to be to the appellant's plight, the statutory
+provisions above-mentioned for non-disclosure, in connection with any legal
+proceedings of a civil character, do not give any power to a court to qualify
+them, nor do the exceptions set out in s. 241(4)(c) assist the
+appellant.                     I agree with the
+respondent that, in Glover, the proceedings in question had no
+connection whatsoever with the administration or enforcement of the Income
+Tax Act.  As a result, this Court's decision must be read to mean that the
+confidentiality provisions apply to any legal proceeding of a civil character
+which is not covered by the exception provided in s. 241(3).  In other
+words, ss. 241(1) and (2) apply to civil proceedings which are not related
+to the administration or enforcement of the Income Tax Act.  In my view,
+Glover does not inform the issue already set out:  the essential
+question is whether or not the bankruptcy proceedings taken herein are related
+to the administration or enforcement of the Income Tax Act.  As I will
+now discuss, I think they are.  V.  Are the Present
+Proceedings Covered by s. 241(3)?                     In determining
+whether the present bankruptcy proceedings are covered by the exception in
+s. 241(3) of the Income Tax Act, I think it worthwhile to note
+briefly some of the features of the bankruptcy process.                     It has been stated
+that among the purposes of the Bankruptcy Act are a desire to permit an
+effective and fair distribution of the assets of a bankrupt person, and a
+desire to protect creditors of insolvent persons.  See Houlden and Morawetz, Bankruptcy
+and Insolvency Law of Canada (3rd ed. 1993), at pp. 1-3, 1-4; see
+also Marc Chabot, Faillite et Insolvabilité (1987), at p. 8. 
+Indeed, it has been asserted that not only are the interests of debtors and
+creditors protected under the Bankruptcy Act, but so is the public
+interest.  See Professor Albert Bohémier, Faillite et Insolvabilité,
+vol. 1, (1992), at pp. 48-56.  Thus, there are many who would advocate
+resort to bankruptcy proceedings as an effective and fair means of debt
+collection.  I need not join the debate as to whether or to what extent these
+assertions are true.  I will simply note that the bankruptcy process is aimed
+at the proper protection of debtor, creditor and public interests.                     In the case on
+appeal, the Minister of National Revenue petitioned Raymond Slattery into
+bankruptcy.  Mr. Slattery filed a statement of affairs stating that he had
+virtually no assets.  The trustee then commenced the present action in the
+Court of Queen's Bench of New Brunswick seeking a declaration that certain
+assets held in the name of the appellant, Marguerite Slattery, were in reality
+property of the bankrupt's estate.                     The appellant
+admits that, if the Minister through Revenue Canada had instituted proceedings
+under the Income Tax Act, such proceedings would be enforcement
+proceedings covered by the exception in s. 241(3).  However, the appellant
+argues that because the proceedings herein were taken by the trustee, they
+cannot qualify as such.  In my view, this argument fails for several reasons.                    First, the
+appellant's argument is not supported by the wording of s. 241(3).   As
+mentioned earlier, in my opinion the exception authorizing Revenue Canada to
+disclose tax related information in proceedings is very broad; that is, it
+operates in respect of proceedings relating to the enforcement of the Income
+Tax Act.  The practical purpose and result of the present proceedings
+will be to increase the estate of the bankrupt taxpayer, Raymond Slattery. 
+The  ultimate purpose and result of these same proceedings will be the payment
+of taxes owed, inasmuch as  Revenue Canada is a preferred beneficiary under the
+scheme of distribution established by s. 136 of the Bankruptcy Act. 
+I find it quite clear that, under the terms of s. 241(3),  such a
+proceeding has a "relation" or "connection" with the
+enforcement of the Income Tax Act.  Neither the fact that the bankruptcy
+proceedings involve other creditors of the bankrupt, nor the fact that the
+proceedings were commenced by the trustee, detracts from the
+"relation" or "connection" between the proceedings and the
+enforcement of the Income Tax Act.                     Second, the
+appellant's argument is also somewhat inconsistent with the power given to
+creditors in s. 38(1) of the Bankruptcy Act.  Section 38(1) 
+provides for the following:                     38.
+(1) Where a creditor
+requests the trustee to take any proceeding that in his opinion would be for
+the benefit of the estate of a bankrupt and the trustee refuses or neglects to
+take the proceeding, the creditor may obtain from the court an order authorizing
+him to take the proceeding in his own name and at his own expense and risk....  If we accept the appellant's
+proposition, a potential contradiction obviously results.  That is, if a
+trustee initiated proceedings, confidential information obtained by Revenue
+Canada could not be disclosed in order to prove the fraudulent scheme,
+whereas if the trustee refused to act and Revenue Canada took the same
+proceedings, the information could arguably be disclosed.  This result
+makes no sense since, in either case, the proceedings would be under the Bankruptcy
+Act and would be taken in furtherance of enforcing the Income Tax Act. 
+The intervention of the trustee does not change the character of the bankruptcy
+proceedings, in so far as that character relates to the enforcement of the Income
+Tax Act.                     Third, at the level
+of policy, I see no valid reason why the Minister should be inhibited from
+recourse to the bankruptcy process in light of the advantages and protection
+that this process can entail.  If the Minister cannot disclose confidential
+information in bankruptcy to prove a claim asserted, the bankruptcy procedure
+will in many cases not be available for income tax enforcement.  Again, the
+sense of this result is not apparent.                     Without wishing to
+rule in any way on the matter, it is alleged that Revenue Canada had and still
+has at its disposal some Income Tax Act remedies against the appellant,
+which are unaffected by the stay of proceedings provided for by s. 69 of
+the Bankruptcy Act, which reads as follows:                     69. (1) On the filing of a proposal made
+by an insolvent  person or on the bankruptcy of any debtor, no creditor with a
+claim provable in bankruptcy shall have any remedy against the debtor or his
+property or shall commence or continue any action, execution or other
+proceedings for the recovery of a claim provable in bankruptcy until the
+trustee has been discharged or until the proposal has been refused, unless with
+the leave of the court and on such terms as the court may impose.  (See D. Scott Brown, "Bankruptcy
+and Income Tax: A Revenue Canada Perspective" in 1990 Conference
+Report: Report of Proceedings of the Forty-Second Tax Conference, at p.
+18:11).                     One of these
+allegedly unaffected remedies is found in s. 160 of the Income Tax Act
+which provides:                     160. (1) Where a person has, on or after
+the 1st day of May, 1951, transferred property, either directly or indirectly,
+by means of a trust or by any other means whatever, to  (a)
+his spouse or a person who has since become his spouse,                                                                     ...                     the following rules
+apply:                                                                     ...  (e)
+the transferee and transferor are jointly and severally liable to pay under
+this Act an amount equal to the lesser of  (i)
+the amount, if any, by which the fair market value of the property at the time
+it was transferred exceeds the fair market value at that time of the
+consideration given for the property, and  (ii)
+the aggregate of all amounts each of which is an amount that the transferor is
+liable to pay under this Act in or in respect of the taxation year in which the
+property was transferred or any preceding taxation year.                     D. Scott Brown, in
+the article cited above, comments on the scope of s. 160 as follows (at p.
+18:13):                     The
+provisions of section 160 enable the minister to assess a transferee in respect
+of a transfer of property that, but for that provision, would require recourse
+under the settlement provisions of sections 91, 92, or 93 of the Bankruptcy
+Act, or alternatively under a provincial fraudulent conveyance statute. 
+Generally, section 160 provides a very effective remedy against this type of
+transfer.  In fact, the result of any direct or indirect transfer to a
+spouse... will be that the transferee and the transferor will be held jointly
+and severally liable under section 160 to pay the lesser of (1) the difference
+between the fair market value of the property and the amount paid for the
+property, and (2) the amount of the tax due by the transferor in the year of the
+transfer or any prior year.                     It was apparently
+acknowledged by the appellant that the Minister could have used s. 160 in
+an attempt to recover some of the taxes owed by Raymond Slattery, but did not
+do so.  The appellant agrees that, in the context of s. 160, the Minister
+could have disclosed the confidential tax information, but the appellant argues
+that the bankruptcy proceedings are different in nature.  However, whether or
+not they are different in nature is beside the point.  The important point is
+whether or not the disclosure within the bankruptcy proceedings occurred
+"in respect of proceedings relating to the administration or enforcement
+of" the Income Tax Act.  The possible existence of an alternative
+enforcement procedure which would clearly permit disclosure is further support
+for the respondent's position.  Although the Minister chose to collect taxes by
+petitioning the taxpayer into bankruptcy, in my view, this did not disentitle
+Revenue Canada from disclosing the confidential information.  The disclosure
+occurred in respect of proceedings which can be clearly characterized as
+relating to the enforcement of the Income Tax Act within the meaning of
+s. 241(3) of that Act.                     Finally, counsel
+for the appellant argued that to characterize the bankruptcy proceedings as
+"proceedings relating to the... enforcement of" the Income Tax Act
+would open up difficult questions relating to competence and compellability as
+those issues might affect Revenue Canada in a variety of possible actions.  I
+find this argument unpersuasive, particularly in light of the circumstances of
+this case.  Those circumstances include Revenue Canada's act of petitioning the
+taxpayer into bankruptcy, the active involvement of Revenue Canada in the
+bankruptcy proceedings, the collaboration between officials and the trustee,
+and the reality that Revenue Canada was entitled to volunteer and did, in fact,
+volunteer to disclose the otherwise confidential information in order to
+enforce the Income Tax Act.  VI.Conclusion                     For the foregoing
+reasons, I conclude that the proceedings taken by the trustee are
+"proceedings relating to the administration or enforcement" of the Income
+Tax Act as set out in s. 241(3).  Accordingly, I would dismiss the
+appeal with costs.                     The reasons of
+L'Heureux-Dubé, Sopinka and McLachlin JJ. were delivered by                     McLachlin
+J. (dissenting) -- I have
+had the benefit of reading the reasons of my colleague, Justice Iacobucci.  I
+respectfully disagree with his conclusion regarding the scope of the
+s. 241(3) exemption from non-disclosure of information obtained by the
+Minister of Revenue for the purposes of the Income Tax Act, S.C.
+1970-71-72, c. 63.                     Section 241(3)
+provides that the general prohibition on disclosure of such information, as set
+out in ss. 241(1) and (2), does not apply, inter alia, "in
+respect of proceedings relating to the administration or enforcement of this
+Act ...."  The sole question on this appeal is whether the proceedings at
+issue are of this type.                     These proceedings
+should be carefully described.  Raymond Slattery fell into arrears paying
+income taxes.  Revenue Canada conducted a lengthy investigation into his
+affairs.  They petitioned Mr. Slattery into bankruptcy.  In bankruptcy
+proceedings Revenue Canada proved a claim against Mr. Slattery of over
+$1,000,000.  At a subsequent trial to determine title between the appellant and
+the bankrupt's estate, the trustee in bankruptcy sought to introduce testimony
+from two Revenue Canada officials who had participated in the earlier
+investigation of Mr. Slattery's affairs.  This testimony was admitted on the
+ground that the trial was a proceeding relating to the administration or
+enforcement of the Income Tax Act.  The ruling was upheld on appeal.                     My colleague
+Iacobucci J. would uphold these decisions.  Focusing in part on the fact that
+the trial would ultimately result in the collection of unpaid taxes, he finds
+that the trial was a proceeding "relating to" the administration or
+enforcement of the Act.                     In my view, the
+s. 241(3) exemption applies only in the case of proceedings specifically
+provided for in the Income Tax Act.  These proceedings are, for the most
+part, set out in Part XV of the Act which, as the title of the Part indicates,
+establishes "Administration and Enforcement" provisions.  A trial to
+determine title between an individual and a trustee in bankruptcy is not a
+proceeding provided for in Part XV, or elsewhere in the Act.  Accordingly, in
+my view, Revenue Canada officials should have been barred from disclosing
+information obtained in the course of their investigation of the bankrupt's
+affairs.  The Scope of s. 241                     Iacobucci J. has
+discussed the character of the provisions which govern the disclosure of
+information obtained for the purposes of the Act.  He notes, at p. 444, that
+"[o]nly in those exceptional situations does the privacy interest
+[of citizens] give way to the interest of the state."  These words, as my
+colleague notes, reflect the balance which Parliament has established between
+the competing interests at play: the interest in ensuring voluntary disclosure
+to the Minister of Revenue, which is served by the general rule of
+confidentiality, and the state's interest the collection of tax debts.                     But having noted
+the primacy of privacy concerns under the Income Tax Act, Iacobucci J.
+goes on to interpret the disclosure clause of s. 241 broadly.  He finds that
+the connecting phrases used in s. 241(3) are "very broad". 
+Relying on Nowegijick v. The Queen, [1983] 1 S.C.R. 29, he interprets
+these connecting phrases to encompass proceedings which have any connection
+with the administration of the Act.                     I do not share the
+view that Nowegijick informs the issue.  That case does not concern
+s. 241 or any of its predecessor sections.  Rather, Nowegijick
+discusses the phrase "in respect of" as it is employed in s. 87
+of the Indian Act, R.S.C. 1970, c. I-6, in relation to taxation of
+personal property.  Giving the phrase the "widest possible scope" in
+that context is not determinative of its application in s. 241(3). 
+Instead, the context of s. 241(3), and jurisprudence of this Court
+treating the section, suggests that the phrase should be construed narrowly,
+not broadly.  As Wilson J. noted in R. v. McKinlay Transport Ltd.,
+[1990] 1 S.C.R. 627, at p. 650:  ...
+the taxpayer's privacy interest is protected as much as possible since s. 241
+of the Act protects the taxpayer from disclosure of his records or the
+information contained therein to other persons or agencies.  [Emphasis
+added.]  See also Glover v. Minister of
+National Revenue, [1981] 2 S.C.R. 561, at p. 562, per Laskin
+C.J.                     The structure of s.
+241 subsequent to its 1966 amendment (S.C. 1966-67, c. 47, s. 17 and S.C.
+1966-67, c. 91, s. 22) bears out the interpretation given the section by
+Wilson J.  Prior to 1966, the Minister of Revenue was barred from disclosing
+information obtained under the Act to persons "not legally entitled
+thereto ...."  This phrase did not constitute a serious hurdle to
+disclosure.  As noted by Stephen J. Toope and Alison L. Young, in "The
+Confidentiality of Tax Returns Under Canadian Law" (1982), 27 McGill
+L.J. 479, at p. 487, "the [former] section created a carte blanche
+for the Minister to consider almost anyone to be `legally entitled' to the
+information as long as they could show some vague need."   After 1966, the
+prohibition was extended to "any person", unless a specific exemption
+had been provided.  The exemptions are few, and are set out in ss. 241(3) and
+(4).  Disclosure is permitted in specific criminal proceedings, in proceedings
+relating to the administration or enforcement of the Act, and, by virtue of s.
+241(4), as might be required to facilitate specific government programs and the
+internal working of the Ministry of specific features of the Act.  In s.
+241(4)(c), disclosure to persons "otherwise legally entitled
+thereto" is again permitted, but the phrase is no longer the animating
+concern of the section.  Rather, it must be understood as one element in a
+group of narrow and particular exemptions largely administrative in nature: see
+Glover v. Glover (No. 1) (1980), 29 O.R. (2d) 392, at p. 398.                     The appellant
+submits that the proceedings at issue on this appeal are not proceedings
+relating to the administration of the Act in which the Minister can disclose
+information obtained for the purposes of the Act since they are not
+specifically provided for in Part XV of the Act.  I agree with the substance of
+this submission.  We are not here concerned with the capacity of the Ministry
+to undertake, or to involve itself in, proceedings which may bear some
+connection to the enforcement of the Act.  The concern is whether these are the
+sort of proceedings which are so connected to the administration of the Act
+that they fall within the contemplation of the exemption in s. 241(3) and
+thereby allow the Ministry to disclose information which it has only by virtue
+of special investigative powers provided for in the Act (see ss. 231.1 to
+231.5).                     Part XV of the Act
+provides the Minister of Revenue with a system of debt collection proceedings
+that mirrors ordinary creditors' remedies.  Taxes owing may be recovered by
+registering the amount in court and enforcing it as a judgment (s. 223(3)),
+registering the amount as a charge on land (s. 223(5)), garnishing sums
+destined to the tax debtor from third parties (s. 224(1)), deducting the amount
+from or setting it off against other sums payable by the Crown to the tax
+debtor (s. 224.1), seizing and selling the debtor's chattels (s. 225(1))
+and prosecuting the tax debtor for offences under the Act and obtaining
+compliance orders (ss. 238 and 239).  But Part XV does not deal with
+bankruptcy, except to the extent of providing the Minister the power to collect
+money owed to a secured creditor by a trustee in bankruptcy, notwithstanding
+the Bankruptcy Act, R.S.C., 1985, c. B-3 : see Income Tax Act, s.
+224 (1.2) (added by S.C. 1987, c. 46, s. 66).                     In the context of
+Part XV this legislative silence is significant.  Bankruptcy is a particular
+process with specific and salutary aims.  Above all, however, bankruptcy is a
+process that involves all of the creditors of a particular debtor.  Concern for
+the confidentiality of information that is not public is very much at issue.                     My colleague is of
+the view that the bankruptcy process is available to the Minister by virtue of
+s. 222 of the Act, which provides that the Minister may resort to a court of
+competent jurisdiction to collect tax debts.  I concur in this interpretation
+of the plain wording of s. 222, but I am not persuaded that the proceeding that
+is at issue here is an action under s. 222.                     In the first place,
+the action is not brought by Her Majesty, as the section appears to
+contemplate.  It is brought by a trustee in bankruptcy.  Iacobucci J. is of the
+view that this does not take the proceedings out the s. 241(3) exemption.
+I disagree.  Under s. 69 of the Bankruptcy Act, all collection
+proceedings are stayed once the debtor is declared bankrupt.  Until that
+point the Minister arguably may prove its debt by disclosure of information
+obtained for the purposes of the Act.  But once a debtor is declared bankrupt,
+and a trustee in bankruptcy has been put in place to pursue the bankruptcy, the
+proceeding is no longer capable of being accurately characterized as a
+proceeding relating to the administration of the Act.  The stay operates until
+the trustee in bankruptcy is discharged.  The trustee has a statutory duty to
+take possession of the bankrupt's property.  It has a statutory power to
+institute legal proceedings.  Persons in possession of a bankrupt's property
+have a statutory duty to deliver it to the trustee.  (See Bankruptcy Act,
+ss. 16(3), (4), 19(1), (2), and 17(1).)  The trustee is a fiduciary of the
+estate of the bankrupt and institutes an action to the benefit of the state as
+a whole.  The trustee does not act a mere agent of the creditors, or as an
+agent of particular creditors.  In such a legal context, I do not think that it
+can be said that the fact that the practical effect of the proceedings will
+permit the Minister to realize on an outstanding debt suffices to make the
+proceeding one that relates to the administration of the Act.                     The fact that Part
+XV of the Act makes no specific provision for disclosure in the context of
+bankruptcy suggests that when the Minister has recourse to this procedure, its
+actions are governed by the Bankruptcy Act and no longer by the Income
+Tax Act.  In so proceeding the Minister loses the capacity to deploy the
+special information gathering techniques, which accrue only by virtue of the Income
+Tax Act, either to its own advantage, or to those of its fellow creditors. 
+The broad powers to compel appearance and disclosure which are exercisable by
+the trustee in bankruptcy under the Bankruptcy Act (see ss. 163  through
+167) should be interpreted in light of this fact.  Information available from
+public sources is not unavailable in such proceedings simply because it has
+passed through the hands of Revenue Canada.  But information that issues from
+the Minister, by virtue of any special investigative powers, must remain
+confidential.  Section 241(4)(c)                     The respondent also
+argues that the Minister was permitted to disclose confidential information in
+the case at bar since a superior court judge is a person, as provided in s.
+241(4)(c), "legally entitled" to the information.  In my view
+the decisions of this Court and of the Ontario Court of Appeal in Glover,
+supra, dispense with this argument.  The issue in those cases was
+whether the judge in child custody proceedings was a "person ... legally
+entitled" to the information.  The Ontario Court of Appeal, in a decision
+that was affirmed in this Court, held (at p. 397) that the s. 241(4) exemptions
+were administrative in nature, and that if a court could at any time by its own
+order entitle itself to receive otherwise confidential taxpayer information
+"it would emasculate the effect of s. 241(2) and render s. 241(3)
+unnecessary".  The point of these judgments is that a party should not be
+able to avail itself of the s. 241(4)(c) exemption if it cannot bring
+the proceeding within the terms of s. 241(3).  I have found above that this
+respondent cannot.  Disposition                     The Court of Appeal
+found that the trial judge's findings in declaring some of the property of the
+appellant to be the property of the bankrupt's estate depended largely upon the
+testimony and evidence of the Revenue Canada officials.  This information was
+gathered in the course of an investigation undertaken according to special
+investigatory powers available to Revenue Canada under the Act.  Section 241
+forbad its disclosure in the bankruptcy proceedings.  I would allow the appeal
+and set aside the judgments below.  I would grant costs to the appellant.                     Solicitors for the
+appellant:  Mockler, Allen & Dixon, Fredericton.                     Solicitors
+for the respondent:  Palmer, O'Connell, Leger, Roderick &
+Glennie, Saint John.  

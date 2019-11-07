@@ -1,0 +1,2448 @@
+  SUPREME
+COURT OF CANADA  Citation: R. v. Hart, 2014 SCC 52, [2014] 2 S.C.R. 544 Date: 20140731 Docket: 35049  Between: Her
+Majesty The Queen Appellant and Nelson
+Lloyd Hart Respondent - and - Director
+of Public Prosecutions of Canada, Attorney General of Ontario, Directeur des poursuites
+criminelles et pénales du Québec, Attorney General of British Columbia,
+Association in Defence of the Wrongly Convicted, British Columbia Civil
+Liberties Association, Criminal Lawyers’ Association of Ontario, Canadian Civil
+Liberties Association and Association des avocats de la défense de Montréal Interveners  Coram: McLachlin C.J. and LeBel, Abella, Cromwell, Moldaver,
+Karakatsanis and Wagner JJ.  Reasons
+  for Judgment: (paras. 1 to 151)  Concurring
+  Reasons: (paras. 152 to 163)  Concurring
+  Reasons: (paras. 164 to 243)  Moldaver J. (McLachlin C.J. and LeBel,
+  Abella and Wagner JJ. concurring)  Cromwell J.   Karakatsanis J.     r. v. hart, 2014
+SCC 52, [2014] 2 S.C.R. 544 Her Majesty The Queen                                                                                 Appellant v. Nelson Lloyd Hart                                                                                       Respondent and Director of Public Prosecutions of
+Canada, Attorney General of Ontario, Directeur des poursuites criminelles et
+pénales du Québec, Attorney General of British Columbia, Association in Defence of the Wrongly
+Convicted, British Columbia Civil Liberties
+Association, Criminal Lawyers’ Association of
+Ontario, Canadian Civil Liberties Association and Association des avocats de la
+défense de Montréal                                    Interveners Indexed as:  R. v. Hart 2014 SCC 52 File No.:  35049. 2013:  December 3; 2014:  July 31. Present:  McLachlin C.J. and LeBel, Abella, Cromwell, Moldaver,
+Karakatsanis and Wagner JJ. on appeal from the court of appeal
+for newfoundland and labrador                     Criminal law — Evidence — Admissibility —
+Confessions — “Mr. Big” confessions — Accused confessing to murdering his
+two young daughters at end of lengthy Mr. Big operation — Whether new
+common law rule of evidence should be developed to determine admissibility of Mr. Big
+confessions — Whether accused’s confessions should be excluded.                     H’s
+twin daughters drowned on August 4, 2002.  The police immediately suspected
+that H was responsible for their deaths.  However, they lacked the evidence
+needed to charge him.  As a result, two years after the drowning, undercover
+officers began a “Mr. Big” operation by recruiting H into a fictitious
+criminal organization.  At the time, H was unemployed and socially isolated —
+he rarely left home and when he did, he was in the company of his wife.  After
+he was recruited to the organization, H worked with the undercover officers and
+was quickly befriended by them.  Over the next four months, H participated in
+63 “scenarios” with the undercover officers and was paid more than $15,000 for
+the work that he did for the organization.  As part of that work, H was also
+sent on several trips across Canada — to Halifax, Montreal, Ottawa, Toronto and
+Vancouver.  H often stayed in hotels and occasionally dined in expensive
+restaurants during these trips, all at the fictitious organization’s expense. 
+Over time, the undercover officers became H’s best friends and H came to view
+them as his brothers.  According to one of the undercover officers, during this
+time frame, H made a bald statement in which he confessed to having drowned his
+daughters.                     The
+operation culminated with a meeting akin to a job interview between H and “Mr. Big”,
+the man purportedly at the helm of the criminal organization.  During their
+meeting, Mr. Big interrogated H about the death of his daughters, seeking
+a confession from him.  After initially denying responsibility, H confessed to
+drowning his daughters.  Two days later, H went to the scene of the drowning
+with an undercover officer and explained how he had pushed his daughters into
+the water.  He was arrested shortly thereafter.                     At
+trial, H’s confessions were admitted into evidence.  The trial judge denied H’s
+request for permission to testify with the public excluded from the courtroom. 
+A majority of the Court of Appeal allowed H’s appeal and ordered a new trial. 
+The Court of Appeal unanimously held that the trial judge erred in refusing to
+allow H to testify outside the presence of the public.  A majority of the court
+also concluded that the Mr. Big operation had breached H’s right to
+silence under s. 7 of the Charter.  The majority excluded two of
+H’s confessions, the one to Mr. Big and the one to the undercover officer
+at the scene of the drowning.  However, the majority concluded that H’s bald
+confession was admissible and ordered a new trial.                     Held:
+ The appeal should be dismissed.                     Per
+McLachlin C.J. and LeBel, Abella, Moldaver and Wagner JJ.: There
+is agreement with the Court of Appeal that, in the circumstances of this case,
+H should have been allowed to testify outside the presence of the public.                     The
+Mr. Big technique is a Canadian invention.  Although a version of the
+technique appears to have been used more than a century ago, its modern
+use began in the 1990s and, by 2008, it had been used by police across Canada
+more than 350 times.  The technique, used only in cases involving serious
+unsolved crimes, has secured confessions and convictions in hundreds of cases. 
+The confessions wrought by the technique are often detailed and confirmed by
+other evidence.                     However,
+the Mr. Big technique comes at a price.  Suspects confess to Mr. Big
+during pointed interrogations in the face of powerful inducements and sometimes
+veiled threats — and this raises the spectre of unreliable confessions. 
+Unreliable confessions provide compelling evidence of guilt and present a clear
+and straightforward path to conviction.  In other contexts, they have been
+responsible for wrongful convictions — a fact we cannot ignore.                     Mr. Big
+confessions are also invariably accompanied by evidence that shows the accused
+willingly participated in “simulated crime” and was eager to join a criminal
+organization.  This evidence sullies the accused’s character and, in doing so,
+carries with it the risk of prejudice.                     Experience
+in Canada and elsewhere teaches that wrongful convictions are often traceable
+to evidence that is either unreliable or prejudicial.  When the two combine,
+they make for a potent mix — and the risk of a wrongful conviction increases
+accordingly.  Wrongful convictions are a blight on our justice system.  We must
+take reasonable steps to prevent them before they occur.                     Mr. Big
+operations also run the risk of becoming abusive.  Undercover officers provide
+their targets with inducements, including cash rewards, to encourage them to
+confess.  They also cultivate an aura of violence by showing that those who
+betray the criminal organization are met with violence.  There is a risk these
+operations may become coercive.  Thought must be given to the kinds of police
+tactics we, as a society, are prepared to condone in pursuit of the truth.                     Under
+existing law, Mr. Big confessions are routinely admitted under the party
+admissions exception to the hearsay rule.  Attempts to extend existing legal
+protections to Mr. Big operations have failed.  This Court has held that Mr. Big
+operations do not engage the right to silence because the accused is not
+detained by the police at the time he or she confesses.  And the confessions
+rule — which requires the Crown to prove an accused’s statement to a person in
+authority is “voluntary” — is inoperative because the accused does not know
+that Mr. Big is a police officer when he confesses.                     In
+sum, the law as it stands provides insufficient protection to accused persons
+who confess during Mr. Big operations.  A two-pronged response is needed
+to address the concerns with reliability, prejudice and police misconduct
+raised by these operations.                     The
+first prong requires recognizing a new common law rule of evidence.  Under this
+rule, where the state recruits an accused into a fictitious criminal
+organization and seeks to elicit a confession from him, any confession made by
+the accused to the state during the operation should be treated as
+presumptively inadmissible.  This presumption of inadmissibility is overcome
+where the Crown can establish, on a balance of probabilities, that the
+probative value of the confession outweighs its prejudicial effect.                     The
+probative value of a Mr. Big confession is a function of its reliability. 
+In assessing the reliability of a Mr. Big confession, courts must first
+look to the circumstances in which the statement was made.  These circumstances
+include — but are not strictly limited to — the length of the operation, the
+number of interactions between the police and the accused, the nature of the
+relationship between the undercover officers and the accused, the nature and
+extent of the inducements offered, the presence of any threats, the conduct of
+the interrogation itself, and the personality of the accused, including his or
+her age, sophistication and mental health.  The question for the trial judge is
+whether and to what extent the reliability of the confession has been called
+into doubt by the circumstances in which it was made.                     After
+considering the circumstances in which the confession was made, the court
+should look to the confession itself for markers of reliability.  Trial judges
+should consider the level of detail contained in the confession, whether it
+leads to the discovery of additional evidence, whether it identifies any
+elements of the crime that have not been made public, or whether it accurately
+describes mundane details of the crime the accused would likely not know had he
+or she not committed it.  Confirmatory evidence is not a hard and fast
+requirement, but where it exists, it can provide a powerful guarantee of
+reliability.  The greater the concerns raised by the circumstances in which the
+confession was made, the more important it will be to find markers of
+reliability in the confession itself or the surrounding evidence.                     Weighing
+the prejudicial effect of a Mr. Big confession is a more straightforward
+and familiar exercise.  Trial judges must be aware that admitting Mr. Big
+confessions creates a risk of moral and reasoning prejudice.  With respect to
+moral prejudice, the jury learns that the accused wanted to join a criminal
+organization and committed a host of “simulated crimes” that he believed were
+real.  Moral prejudice may increase with operations that involve the accused in
+simulated crimes of violence, or that demonstrate the accused has a past
+history of violence.  As for reasoning prejudice — defined as the risk that the
+jury’s focus will be distracted away from the charges before the court — it too
+can pose a problem depending on the length of the operation, the amount of time
+that must be spent detailing it, and any controversy as to whether a particular
+event or conversation occurred.  However, the risk of prejudice can be
+mitigated by excluding certain pieces of particularly prejudicial evidence that
+are unessential to the narrative, or by providing limiting instructions to the
+jury.                     In
+the end, trial judges must weigh the probative value and the prejudicial effect
+of the confession at issue and decide whether the Crown has met its burden.  Because
+trial judges, after assessing the evidence before them, are in the best
+position to conduct this exercise, their decision to admit or exclude a Mr. Big
+confession will be afforded deference on appeal.                     This
+new common law rule of evidence goes a long way toward addressing the concerns
+with reliability, prejudice, and police misconduct that are raised by Mr. Big
+operations.  It squarely tackles the problems with reliability and prejudice.  In
+addition, it takes account of police misconduct both by placing the admissibility
+onus on the Crown and by factoring the conduct of the police into the
+assessment of a Mr. Big confession’s probative value.  However, the common
+law rule of evidence I have proposed does not provide a complete response to
+the problems raised by Mr. Big operations.  On its own, it might suggest
+that abusive police conduct will be forgiven so long as a demonstrably reliable
+confession is ultimately secured.                     The
+second prong of the response fills this gap by relying on the doctrine of abuse
+of process.  The doctrine of abuse of process is intended to guard against
+state misconduct that threatens the integrity of the justice system and the
+fairness of trials.                     Trial
+judges must be aware that Mr. Big operations can become abusive.  It is of
+course impossible to set out a precise formula for determining when a Mr. Big
+operation will reach that threshold.  But there is one guideline that can be
+suggested.  In conducting an operation, the police cannot be permitted to
+overcome the will of the accused and coerce a confession.  This would almost
+certainly amount to an abuse of process.  While violence and threats of
+violence are two forms of unacceptable coercion, operations can become abusive
+in other ways.  Operations that prey on an accused’s vulnerabilities, such as
+mental health problems, substance addictions, or youthfulness, can also become
+unacceptable.                     Unsurprisingly,
+the trial judge did not apply this two pronged framework in determining the
+admissibility of H’s confessions.  Nor did the parties address it in the courts
+below or before this Court.  Nonetheless, this Court is in a position to decide
+whether the respondent’s confessions were properly admitted.  Although a new
+rule has emerged, the issues have not changed: the reliability of H’s
+confessions, their potential for prejudice, and the conduct of the police in
+carrying out this Mr. Big operation have been in issue from the outset.  The
+parties have addressed these issues, and there is a substantial record before
+us.  These proceedings have also been difficult and protracted.  More than a
+decade has passed since H’s daughters died.  Ordering a new trial and leaving
+the admissibility of H’s confessions to be determined by a new trial judge
+would be tantamount to sending this case back to square one.  That would not be
+in the interests of justice.                     Applying
+the new common law rule to the three confessions attributed to H, it is
+apparent that their probative value does not outweigh their prejudicial
+effect.  At the time the operation began, H was unemployed and socially
+isolated.  The operation had a transformative effect on his life, lifting him
+out of poverty and providing him with illusory friendships.  These financial
+and social inducements provided H with an overwhelming incentive to confess —
+either truthfully or falsely.                     Nor
+do the confessions themselves contain any markers of reliability that are
+capable of restoring faith in their reliability.  The confessions contain
+internal contradictions, and there is no confirmatory evidence capable of
+verifying any of the details contained within the confessions.  When the
+circumstances in which the respondent’s confessions were made are considered
+alongside their internal inconsistencies and the lack of any confirmatory
+evidence, their reliability is left in serious doubt.                     On
+the other hand, these confessions — like all Mr. Big confessions — carried
+with them an obvious potential for prejudice.  The jury heard extensive
+evidence that for four months H devoted himself to trying to join a criminal organization
+and that he repeatedly participated in what he thought were criminal acts.  It
+is easy to see how the jury could come to view H with disdain.  Here was a man
+who bragged about killing his three-year-old daughters to gain the approval of
+criminals.  The potential for prejudice in these circumstances was significant.                     On
+balance, the Crown has not met its onus.  The probative value of H’s
+confessions does not outweigh their prejudicial effect.  Put simply, these
+confessions are not worth the risk they pose.  It would be unsafe to rest a
+conviction on this evidence.  It is accordingly unnecessary to decide whether
+the police conduct amounted to an abuse of process.                     Having
+excluded H’s confessions from evidence, it is doubtful whether any admissible
+evidence remains upon which a jury, properly instructed and acting reasonably,
+could convict H of murder.  However, the final decision on how to proceed rests
+with the Crown.                     Per Cromwell J.: There
+is agreement with the majority’s analysis of the legal framework that ought to
+apply to statements obtained from accused persons as a result of Mr. Big
+operations.  However, the admissibility of H’s statements to the undercover
+officers ought to be determined at a new trial where the judge and the parties
+would have the benefit of the new framework set out in the majority’s reasons.                     Per Karakatsanis J.:
+Confessions to state agents raise particular dangers for the criminal justice
+system.  The very structure of Mr. Big operations creates
+circumstances that (1) compromise the suspects’ autonomy, (2) undermine
+the reliability of confessions, and (3) raise concerns about abusive state
+conduct.  Yet, Mr. Big confessions are not caught by the
+traditional rules governing confessions to the state, such as the confessions
+rule or the right to silence.  The common law rule proposed by the majority
+fails to consistently take into account broader concerns that arise when state
+agents generate a confession at a cost to human dignity, personal autonomy and
+the administration of justice.  The principle against self-incrimination, under
+s. 7 of the Charter, provides comprehensive and flexible protection
+in such circumstances.                     The
+principle against self-incrimination provides the appropriate analytical
+framework for several reasons.  First, Mr. Big operations directly engage
+the individual privacy, autonomy and dignity interests that the principle is
+meant to protect.  Second, this approach draws on existing jurisprudence
+concerning the principle against self-incrimination, making it unnecessary to
+create a new rule.  Third, the principle provides an opportunity to
+weigh intertwined concerns about reliability, autonomy and state conduct
+together in a nuanced way.  Finally, it addresses suspects’ rights both during
+the operation and at trial.                     In
+R. v. White, [1999] 2 S.C.R. 417, this Court identified four factors for
+determining whether the principle against self-incrimination has been violated
+by the production or use of a suspect’s statements: adversarial relationship;
+coercion; reliability; and abuse of state power.  While these factors should be
+considered together, each emphasizes a particular legal interest.                     The
+onus will be on the accused to establish a prima facie breach of the
+principle against self-incrimination.  To do so, the accused must show that
+concerns about autonomy, reliability, and police conduct exist, as they will in
+nearly every Mr. Big operation.  In such circumstances, the burden will
+shift to the Crown to establish that there is no breach.                     As
+concerns the first factor, the relationship between H and the state was
+adversarial.  As in any Mr. Big operation, the police deliberately set out
+to obtain a confession from him.                     As
+for the second factor, coercion is primarily concerned with the autonomy and
+dignity of the suspect and asks whether the suspect had a choice to speak to
+the authorities.  There will almost always be some degree of coercion in a Mr. Big
+operation.  The court should consider: the magnitude and duration of the
+operation, any explicit or implied threats used, any financial, social or
+emotional inducements applied, and the characteristics of the suspect,
+including any mental, physical, social or economic disadvantages.  This
+approach protects the autonomy of the suspect.                     In
+this case, the trial judge concentrated on the lack of violent coercion during
+the operation, but did not consider the effect of the financial and social
+inducements on H.  These inducements were significant by anyone’s measure, but must
+be viewed as more seriously infringing H’s autonomy interests, given his extreme
+poverty and social isolation as well as his lack of education.  The deceit employed
+was extensive.  By preying on his vulnerabilities to such a degree, the police
+deprived H of meaningful choice about whether to give an incriminating
+statement to Mr. Big.                     The
+reliability enquiry focuses on the trustworthiness of any statement obtained. 
+The court must execute a gatekeeper function in assessing the risk of a false
+confession and corroborating evidence will usually be a prerequisite to
+admission.  This function is important because juries often struggle to
+properly assess the ultimate reliability of Mr. Big confessions.  They
+find it difficult to believe that someone would confess to a crime that he or
+she did not commit and are loath to disregard a confession even where it is
+known to be coerced.  This danger is compounded by the criminal propensity
+evidence generated during a Mr. Big investigation.  An accused must either
+let the confession stand or explain that he or she made it to continue their
+new criminal lifestyle.  Thus, confessions made to Mr. Big are
+particularly hazardous and the judge must evaluate their threshold reliability to
+satisfy the principle against self-incrimination.  Generally, an
+uncorroborated, unverified confession will not be sufficiently reliable and
+will be inadmissible.  However, the inverse does not necessarily hold.  The
+principle against self-incrimination is not solely concerned with ensuring
+reliable statements; even true statements may be excluded if they were obtained
+through coercion that overrode the suspect’s autonomy interest.                     In
+this case, H had every incentive to confess, whether he committed the crime or
+not.  Not only was his final confession uncorroborated, but it contained
+inconsistencies with the other known facts of the case.  Likewise, H’s April 10
+confession carries many of the same reliability concerns.                     Under
+the fourth and final factor, the conduct of the state is examined with a view
+to determining whether the authorities used their position of power in an
+unfair, abusive, or shocking manner.  State conduct throughout a Mr. Big
+operation must be scrutinized to determine whether it unfairly, unnecessarily
+or disproportionately manipulated the suspect.  This inquiry will also consider
+other objectionable police tactics such as involving the suspect in dangerous
+conduct or exposing him or her to physical or psychological harm.  The
+entrapment doctrine assists by identifying factors which may be considered in
+examining the conduct of the state.                     In
+this case, the police conduct was egregious and this factor especially weighs
+in favour of exclusion.  The extreme lengths to which the police went to pursue
+H, exploiting his weaknesses in this protracted and deeply manipulative
+operation, is troubling.  This was not the usual undercover investigation where
+police join an existing criminal organization to witness criminals in action.  This
+case is more akin to entrapment.                     The
+court should consider these factors collectively,
+attaching weight to them, depending on the degree to which they are present in
+the individual case.  The four factors above clearly point
+to a s. 7 violation.  Statements obtained in violation of the principle
+against self-incrimination will almost always be excluded under s. 24(2). 
+This case is no exception; both the risk of a miscarriage of justice and the
+abusive police conduct call for exclusion.                     The
+abuse of process doctrine always
+remains independently available to provide a remedy where the conduct of the
+state rises to such a level that it risks undermining the integrity of the judicial
+process.  In this case, the threshold is met. Cases Cited By Moldaver J.                     Distinguished:
+R. v. White, [1999] 2 S.C.R. 417; referred to: Canadian
+Broadcasting Corp. v. New Brunswick (Attorney General), [1996] 3
+S.C.R. 480; R. v. Todd (1901), 4 C.C.C. 514; R. v. Hathway, 2007
+SKQB 48, 292 Sask. R. 7; R.
+v. Copeland, 1999 BCCA
+744, 131 B.C.A.C. 264; R.
+v. Bates, 2009 ABQB 379,
+468 A.R. 158; R. v. Evans, [1993] 3 S.C.R. 653; R. v. Osmar, 2007
+ONCA 50, 84 O.R. (3d) 321; R. v. McIntyre, [1994] 2 S.C.R. 480; R. v.
+Hebert, [1990] 2 S.C.R. 151; R. v. Grandinetti, 2005 SCC 5, [2005] 1
+S.C.R. 27; R. v. Creek, 1998 CanLII 3209; R. v. Oickle, 2000 SCC
+38, [2000] 2 S.C.R. 3; R. v. Handy, 2002 SCC 56, [2002] 2 S.C.R. 908; R.
+v. Hodgson, [1998] 2 S.C.R. 449; R. v.
+Harrer, [1995] 3 S.C.R. 562; R.
+v. Mohan, [1994] 2 S.C.R. 9; R. v. McIntyre, 1993 CanLII 1488; R.
+v. Abbey, 2009 ONCA 624, 97 O.R. (3d) 330; R. v. Humaid (2006), 81
+O.R. (3d) 456; R. v. Blackman, 2008 SCC 37, [2008] 2 S.C.R. 298; R.
+v. Khelawon, 2006 SCC 57, [2006] 2 S.C.R. 787; R. v. Bonisteel, 2008
+BCCA 344, 259 B.C.A.C. 114; R. v. Mack, [1988] 2 S.C.R. 903; R. v.
+Babos, 2014 SCC 16, [2014] 1 S.C.R. 309; R. v. Fliss, 2002 SCC 16,
+[2002] 1 S.C.R. 535; R. v. Singh, 2013 ONCA 750, 118 O.R. (3d) 253; RWDSU
+v. Dolphin Delivery Ltd., [1986] 2 S.C.R. 573; Rothman v. The Queen,
+[1981] 1 S.C.R. 640; R. v. Jones, [1994] 2 S.C.R. 229; R. v. S.
+(R.J.), [1995] 1 S.C.R. 451; British Columbia Securities Commission v.
+Branch, [1995] 2 S.C.R. 3. By Karakatsanis J.                     Referred
+to:  R. v. McIntyre, [1994] 2 S.C.R. 480, aff’g (1993), 135
+N.B.R. (2d) 266; R. v. Hodgson, [1998] 2 S.C.R. 449; R. v.
+Grandinetti, 2005 SCC 5, [2005] 1 S.C.R. 27; R. v. Hebert, [1990] 2
+S.C.R. 151; R. v. Oickle, 2000 SCC 38, [2000] 2 S.C.R. 3; R. v. White, [1999] 2 S.C.R. 417; R. v. Jones, [1994] 2 S.C.R. 229; R. v. P. (M.B.), [1994] 1 S.C.R. 555; Re B.C. Motor
+Vehicle Act, [1985] 2
+S.C.R. 486; Thomson Newspapers Ltd. v. Canada (Director of Investigation and
+Research, Restrictive Trade Practices Commission), [1990] 1 S.C.R. 425; R. v. Harrer, [1995] 3 S.C.R. 562; Rothman v. The Queen, [1981] 1
+S.C.R. 640; R. v. S. (R.J.), [1995] 1 S.C.R. 451; R. v. Khelawon,
+2006 SCC 57, [2006] 2 S.C.R. 787; R. v. Youvarajah, 2013 SCC 41, [2013]
+2 S.C.R. 720; R. v. Osmar, 2007 ONCA 50, 84 O.R. (3d) 321, leave to
+appeal refused, [2007] 2 S.C.R. vii; R. v. Bonisteel, 2008 BCCA 344, 259
+B.C.A.C. 114; R. v. Mack, [1988] 2 S.C.R. 903; R. v. O’Connor, [1995] 4 S.C.R. 411; R.
+v. Babos, 2014 SCC 16, [2014] 1 S.C.R. 309; R. v. Therens, [1985] 1 S.C.R. 613; R. v. Grant, 2009 SCC 32, [2009] 2 S.C.R. 353. Statutes and Regulations Cited Canadian Charter of Rights and Freedoms,
+ss. 7 , 10 (b), 11 (d), 24 . Authors Cited Black’s Law Dictionary, 6th ed.  St.
+Paul, Minn.:  West, 1990, “coercion”. Dawson, Wendy E.  “The Use of ‘Mr. Big’ in Undercover
+Operations”, in Criminal Law:  Special Issues, Paper 5.2.  Vancouver: 
+Continuing Legal Education Society of British Columbia, 2011. Garrett, Brandon L.  “The Substance of False Confessions”
+(2010), 62 Stan. L. Rev. 1051. Keenan, Kouri T., and Joan Brockman.  Mr. Big: 
+Exposing Undercover Investigations in Canada.  Halifax:  Fernwood
+Publishing, 2010. Martin, G. A.  “The Admissibility of Confessions and
+Statements” (1963), 5 Crim. L.Q. 35. Moore, Timothy E., Peter Copeland and Regina A. Schuller. 
+“Deceit, Betrayal and the Search for Truth:  Legal and Psychological
+Perspectives on the ‘Mr. Big’ Strategy” (2009), 55 Crim. L.Q. 348. Paciocco, David M., and Lee Stuesser.  The Law of Evidence,
+6th ed.  Toronto:  Irwin Law, 2011. Stewart, Hamish.  Fundamental Justice:  Section 7 of the
+Canadian Charter of Rights and Freedoms.  Toronto:  Irwin Law, 2012.                     APPEAL
+from a judgment of the Newfoundland and Labrador Court of Appeal (Green
+C.J.N.L. and Harrington and Barry JJ.A.), 2012 NLCA 61, 327 Nfld.
+& P.E.I.R. 178, 1015 A.P.R. 178, 267 C.R.R. (2d) 29, 97 C.R. (6th) 16,
+[2012] N.J. No. 303 (QL), 2012 CarswellNfld 400, setting aside the
+accused’s convictions for first degree murder and ordering a new trial.  Appeal
+dismissed.                     Frances J. Knickle, Q.C., and Elaine Reid, for the appellant.                     Jamie Merrigan and Robby D.
+Ash, for the respondent.                     James C. Martin
+and Natasha A. Thiessen, for the intervener the Director of Public
+Prosecutions of Canada.                     Michael Bernstein,
+for the intervener the Attorney General of Ontario.                     Pierre L. Bienvenue, for the
+intervener Directeur des poursuites criminelles et pénales du Québec.                     Lesley A. Ruzicka, for the intervener the Attorney General of British Columbia.                     Russell Silverstein and Michael
+Dineen, for the intervener the Association in Defence of the Wrongly
+Convicted.                     Michael Sobkin, for
+the intervener the British Columbia Civil Liberties Association.                     Philip Campbell and Jonathan
+Dawe, for the intervener the Criminal Lawyers’ Association of Ontario.                     Written submissions only by Frank
+Addario and Megan Savard, for the intervener the Canadian
+Civil Liberties Association.                     François Dadour and Harout Haladjian,
+for the intervener Association des avocats de la défense de Montréal.                     Marie Henein and Matthew Gourlay, for the amicus curiae.                     The judgment of McLachlin
+C.J. and LeBel, Abella, Moldaver and Wagner JJ. was delivered by                     Moldaver J. — I.             
+Introduction [1]                             
+When conventional investigations fail to solve
+serious crimes, police forces in Canada have sometimes used the “Mr. Big”
+technique.  A Mr. Big operation begins with undercover officers luring their
+suspect into a fictitious criminal organization of their own making.  Over the
+next several weeks or months, the suspect is befriended by the undercover
+officers.  He is shown that working with the organization provides a pathway to
+financial rewards and close friendships.  There is only one catch.  The crime
+boss — known colloquially as “Mr. Big” — must approve the suspect’s membership
+in the criminal organization. [2]                             
+The operation culminates with an interview-like
+meeting between the suspect and Mr. Big.  During the interview, Mr. Big brings
+up the crime the police are investigating and questions the suspect about it. 
+Denials of guilt are dismissed, and Mr. Big presses the suspect for a
+confession.  As Mr. Big’s questioning continues, it becomes clear to the
+suspect that by confessing to the crime, the big prize — acceptance into the
+organization — awaits.  If the suspect does confess, the fiction soon unravels
+and the suspect is arrested and charged. [3]                             
+This case provides us with an opportunity to
+take an in-depth look at Mr. Big confessions and the principles that should
+govern their admissibility.  While such operations have a long history in this
+country, courts have yet to create a legal framework that addresses the unique
+issues which accompany such confessions.  As we undertake that task in this
+case, we must strive to achieve a just balance — one which guards against the
+risk of wrongful convictions that stem from false confessions but which ensures
+the police are not deprived of the opportunity to use their skill and ingenuity
+in solving serious crimes. [4]                             
+To be sure, the Mr. Big technique has proven to
+be an effective investigative tool.  It has produced confessions and secured
+convictions in hundreds of cases that would otherwise have likely gone
+unsolved.  The confessions elicited are often detailed and confirmed by other
+evidence.  Manifestly, the technique has proved indispensible in the search for
+the truth. [5]                             
+But the technique comes with a price.  Suspects
+confess to Mr. Big during pointed interrogations in the face of powerful
+inducements and sometimes veiled threats — and this raises the spectre of
+unreliable confessions. [6]                             
+Unreliable confessions present a unique danger. 
+They provide compelling evidence of guilt and present a clear and
+straightforward path to conviction.  Certainly in the case of conventional
+confessions, triers of fact have difficulty accepting that an innocent person
+would confess to a crime he did not commit.  And yet our experience with
+wrongful convictions shows that innocent people can, and do, falsely confess. 
+Unreliable confessions have been responsible for wrongful convictions — a fact
+we cannot ignore. [7]                             
+The concern about Mr. Big confessions does not
+end there.  The confessions are invariably accompanied by evidence that shows
+the accused willingly participated in “simulated crime” and was eager to join a
+criminal organization.  This evidence sullies the accused’s character and, in
+doing so, carries with it the risk of prejudice.  It also creates credibility
+hurdles that may be difficult to overcome for an accused who chooses to
+testify. [8]                             
+Experience in Canada and elsewhere teaches that
+wrongful convictions are often traceable to evidence that is either unreliable
+or prejudicial.  When the two combine, they make for a potent mix — and the
+risk of a wrongful conviction increases accordingly.  Wrongful convictions are
+a blight on our justice system and we must take reasonable steps to prevent
+them before they occur. [9]                             
+Finally, Mr. Big operations run the risk of
+becoming abusive.  Undercover officers provide their targets with inducements,
+including cash rewards, to encourage them to confess.  They also cultivate an
+aura of violence by showing that those who betray the criminal organization are
+met with violence.  Thought must be given to the kinds of police tactics we, as
+a society, are prepared to condone in pursuit of the truth. [10]                         
+Against that background, I am of the view that a
+principled rule of evidence is required to assess the admissibility of Mr. Big
+confessions.  For reasons that follow, I would propose that where the state
+recruits an accused into a fictitious criminal organization of its own making
+and seeks to elicit a confession from him, any confession made by the accused
+to the state during the operation should be treated as presumptively
+inadmissible.  This presumption of inadmissibility will be overcome where the
+Crown can establish, on balance, that the probative value of the confession
+outweighs its prejudicial effect.  In this context, the confession’s probative
+value is a function of its reliability.  Its prejudicial effect stems from the
+harmful character evidence that necessarily accompanies its admission.  If the
+Crown is unable to demonstrate that the accused’s confession is admissible, the
+rest of the evidence surrounding the Mr. Big operation becomes irrelevant. [11]                         
+Trial judges must also carefully scrutinize the
+conduct of the police to determine if an abuse of process has occurred.  No
+matter how reliable the confession, the courts cannot condone state conduct —
+such as physical violence — that coerces the target of a Mr. Big operation into
+confessing.  Where an accused establishes that an abuse of process has
+occurred, the court can fashion an appropriate remedy, including the exclusion
+of the confession or a stay of proceedings. [12]                         
+In this case, at the end of a lengthy Mr. Big
+operation, the respondent confessed to murdering his two young daughters.  At
+trial, his confessions were admitted into evidence.  A majority of the
+Newfoundland Court of Appeal concluded that two of the three confessions should
+have been excluded, but allowed a third confession to be introduced and, on
+that basis, ordered a new trial. [13]                         
+Applying the framework I propose here, I would
+exclude all three of the respondent’s confessions.  Each of them came about in
+the face of overwhelming inducements.  This calls into question their
+reliability — and there is no confirmatory evidence capable of restoring our
+faith in them.  As such, they carry little if any probative value.  On the
+other hand, the bad character evidence accompanying the confessions carries
+with it an obvious and serious potential for prejudice.  In these
+circumstances, the prejudicial effect of the respondent’s confessions outweighs
+their probative value. [14]                         
+Accordingly, I would dismiss the appeal. II.          
+Background Facts [15]                         
+The facts in this case are important.  I propose
+to review them in some detail. A.          
+The Deaths of Karen and Krista Hart [16]                         
+The respondent’s three-year-old twin daughters —
+Karen and Krista Hart — drowned on August 4, 2002.  Their deaths triggered a
+three-year-long investigation that culminated with the respondent confessing to
+their murder at the end of a protracted Mr. Big operation. [17]                         
+The respondent was the last person to see his
+daughters alive.  On the morning of August 4, 2002, he took them to play on the
+swings at a park near their home in Gander, Newfoundland.  There was a lake
+adjacent to the park.  According to his wife, the respondent returned home 30
+to 45 minutes later, in a panic, and told her that Krista had fallen into the
+water.  When his wife asked where Karen was, the respondent claimed to have
+forgotten her at the park. [18]                         
+The respondent and his wife raced back to the
+park and an ambulance was
+called.  First responders found Karen and Krista floating in the lake several
+hundred meters apart from each other.  By then, it was too late to save their
+lives. [19]                         
+The respondent’s unusual behaviour provoked the
+suspicion of the police.  They questioned him that evening.  The respondent
+said that when he got to the park and removed his daughters from their car
+seats, they ran onto a dock and Krista fell into the water.  The respondent
+said he panicked because he could not swim, so he ran back to his car and drove
+home to get his wife, forgetting Karen on the dock.  The police remained
+unconvinced and asked the respondent why he did not call for help using either
+of the cell phones that were found in his car.  The respondent explained that
+his phone did not have any minutes on it, and that the other phone did not
+belong to him.  He also said that he never thought of stopping at a
+nearby restaurant or hospital for help instead of driving all the way home to
+get his wife.  When the police confronted him directly, the respondent denied
+that he had drowned his daughters. [20]                         
+The police were convinced that the respondent
+killed his daughters and lied to them during his first interview.  They
+questioned him again on September 12, 2002.  During the interrogation, which
+lasted approximately eight hours, the police told the respondent they had no
+doubt about his guilt and urged him to confess.  The respondent stood firm. [21]                         
+Two weeks later, however, the respondent changed
+his story.  He contacted the police and volunteered that he had not been
+truthful in his previous statements.  He told the police that he had a seizure
+at the park after he removed his daughters from the car.  When the seizure
+passed and he “[came] to”, he was “dopey” but he could see one of his daughters
+“in the water”.  His only thought was to drive home to his wife.  He explained
+that he had lied in his earlier statements because he did not want to lose his
+driver’s licence.  The respondent suffers from epilepsy and his licence
+has been suspended on previous occasions because of his condition. [22]                         
+The police remained convinced of the
+respondent’s guilt, but they did not have sufficient evidence to charge him. 
+The investigation went cold. B.           
+The Mr. Big Operation [23]                         
+Two years later, the police rekindled the investigation
+after deciding to target the respondent in a Mr. Big operation.  The
+preliminary stages of the undercover operation began in December 2004 when
+officers conducted several weeks of “lifestyle” surveillance on the
+respondent.  The surveillance revealed that the respondent was on social
+assistance and that he was socially isolated — he rarely left home, and when he
+did he was accompanied by his wife. [24]                         
+Undercover officers made their first move in
+February 2005.  An officer, whom I will call “Jim”, approached the respondent
+outside of a convenience store.[1] 
+Jim asked the respondent to help him look for his missing sister.  The
+respondent obliged and was paid $50.  During the day, Jim told the respondent
+that he owned a trucking company and that he needed a driver.  The respondent
+volunteered for the job. [25]                         
+The goal of the operation over the next several
+weeks was to develop a relationship between the respondent and the undercover
+officers.  The respondent worked for Jim and drove truckloads of goods for him from
+one location to another.  He was introduced to another undercover officer, whom
+I will call “Paul”, whose role was to work with him and become his “best
+friend”.[2] 
+Initially, the respondent sought to bring his wife with him when he did
+deliveries, but early on, Jim and Paul forbade him from doing so. [26]                         
+Around the same time, Jim and Paul revealed that
+they were part of a criminal organization and that there was a “boss” who
+headed up their operations.  Thereafter, the respondent participated in
+simulated criminal activity with the officers, delivering trucks that
+purportedly contained smuggled alcohol and packages with stolen credit cards. [27]                         
+The financial rewards that flowed from working
+with the organization quickly became apparent.  In February and March, the
+respondent travelled to St. John’s and Halifax, spending several nights in
+hotels paid for by his benefactors and enjoying frequent dinners with Jim and
+Paul.  In the two month period, he was paid approximately $4,470 for his work. [28]                         
+By the beginning of April, the respondent was
+fully immersed in his new fictitious life.  The respondent would “constant[ly]”
+tell Jim that he loved him.  At a dinner with Jim and Paul, he told both
+officers that they were “brothers” to him and that there was nowhere else in the
+world he would rather be.  He raised a toast to the boss. [29]                         
+On April 10, 2005, according to Jim, the
+respondent confessed to murdering his daughters.  That night, the respondent
+had dinner with Jim.  Jim told the respondent that their organization was involved
+with prostitution in Montreal, and that if prostitutes were dishonest, the
+organization had to deal with them.  Jim claimed that he had assaulted a
+prostitute himself, and that bad things sometimes had to be done.  The
+respondent informed Jim that he had no problem getting his hands dirty.  He too
+had done terrible things in the past.  At that point, he produced a picture of
+his daughters from his wallet and told Jim that they were both dead.  He
+confided that he had planned their murder and carried it out.[3] [30]                         
+The operation continued over the next two
+months.  Jim and Paul constantly preached the importance of trust, honesty and
+loyalty within the organization.  Those who were not trustworthy were met with
+violence.  On one occasion, Jim slapped another undercover officer across the
+face in front of the respondent, ostensibly because he had spoken to others
+about their business dealings. [31]                         
+In the middle of May 2005, the operation began
+building towards the climatic meeting with Mr. Big.  During a trip to Vancouver,
+Jim told the respondent that there was a “big deal” coming in the future that
+would “set [the respondent] financially”.  The respondent was told he would be
+paid between $20,000 and $25,000 if he participated.  Later on, while on a trip
+to Toronto, the respondent was shown $175,000 in cash.  The money was said to
+be a down payment toward the impending deal. [32]                         
+Jim informed the respondent that he would only
+be allowed to participate in the deal if Mr. Big gave his approval.  Jim took
+the respondent’s licence and social insurance number so the organization could
+perform a background check to see if he had any “heat” on him or was a “rat”. 
+In early June, while in Montreal, Jim told the respondent that Mr. Big had
+checked into him and that he had found a problem.  The respondent would not be
+allowed to work with the organization until the issue was resolved.  The
+respondent did not know what the problem was, but he became very concerned that
+he would not be involved in the impending deal. [33]                         
+The respondent met with Mr. Big on June 9,
+2005.  Jim told the respondent that Mr. Big was going to question him about the
+problem that had been uncovered during his background check.  Jim urged the
+respondent to be honest with Mr. Big. [34]                         
+At the beginning of the meeting, the respondent
+expressed his gratitude to Mr. Big, telling him that his life had turned around
+since he started working for the organization.  Mr. Big shifted the topic of
+the conversation to the death of the respondent’s daughters.  He told the respondent
+that there might be some “heat” coming regarding their deaths and he asked the
+respondent why he killed his daughters.  The respondent replied that he had
+suffered a seizure, implying that their deaths were accidental.  Mr. Big
+dismissed this explanation and told the respondent not to “lie” to him. [35]                         
+After some further prodding by Mr. Big, the
+respondent confessed to killing his daughters.  He explained that he had done
+so because he feared Child Welfare was going to take his daughters from him and
+place them with his brother.  When the respondent was asked how he killed his
+daughters, he said that they “fell” over the wharf at the park.  Mr. Big
+pressed the respondent for more details, and the respondent explained that he
+“struck” his daughters with his shoulder and that they fell over the wharf into
+the water. [36]                         
+Two days later, on June 11, 2005, the respondent
+returned with Jim to the park where his daughters drowned.  Jim had the
+respondent re-enact how the drowning occurred.  During the re-enactment, Jim
+knelt down and the respondent demonstrated how he pushed his daughters into the
+water by nudging Jim with his knee. [37]                         
+On June 13, the respondent was arrested and
+charged with two counts of first degree murder.  The police allowed the
+respondent to make a phone call, and his first call for help went to Jim. [38]                         
+The respondent’s arrest came four months after
+the Mr. Big operation began and nearly three years after his daughters died. 
+During the course of the Mr. Big operation, the respondent participated in 63
+“scenarios” with the undercover officers.  The operation saw him travel to
+Halifax, Montreal, Ottawa, Toronto and Vancouver, where he stayed in hotels and
+dined frequently in some of the country’s finest restaurants.  In total, the
+respondent was paid $15,720 for his work.  The police also paid an unknown
+amount for the respondent’s hotels, room service, dinners, trips to the casino,
+and transportation.  The total cost of the operation was $413,268. [39]                         
+At trial, the confessions the respondent made
+during the Mr. Big operation were admitted into evidence and he was convicted
+by a jury of two counts of first degree murder. III.       
+Proceedings Below A.         
+Supreme Court of Newfoundland and Labrador Trial
+Division, 2007 NLTD 74, 265 Nfld. & P.E.I.R. 266 (1)     The Admissibility of the Mr. Big Confessions [40]                         
+The respondent moved at trial to have the
+confessions he made during the Mr. Big operation excluded from evidence.  The
+respondent argued that the intimidating and threatening conduct of the officers
+throughout the Mr. Big operation was oppressive and led to a “fundamental
+breach” of his rights under s. 7  of the Canadian Charter of Rights
+and Freedoms  (para. 43).  He also argued that this same conduct rendered
+his confessions inadmissible under the principled approach to the rule against
+hearsay, as the threatening police conduct made his confessions unreliable. 
+The respondent testified on the voir dire and explained that he worked
+for the fictitious criminal organization because he was making good money and
+he was afraid of Jim and Paul.  He denied confessing to Jim on April 10, 2005
+and said that he had lied in his confessions on June 9 and 11, 2005 because he
+was afraid of Mr. Big. [41]                         
+The trial judge denied the respondent’s
+application.  He rejected the respondent’s evidence that he felt threatened and
+intimidated by the undercover operatives.  Instead, he found that the
+respondent had bonded with them and continually sought more work from them.  In
+addition, the trial judge found that the respondent was given a number of
+chances to leave the operation but he made no effort to do so. (2)     Testifying With the Public Excluded From the Courtroom [42]                         
+Towards the end of his trial, the respondent
+brought an application requesting that he be allowed to testify with the public
+excluded from the courtroom.  A voir dire was held and the respondent
+gave evidence.  He explained that he wanted the public excluded during his
+testimony because he had never been good at “talk[ing] in front of a crowd”.  He
+said he would get “frustrated”, “confused”, and “all tangled up”.  He worried
+that the pressure of testifying in front of a courtroom full of people would
+cause him to have a seizure. [43]                         
+The trial judge denied the respondent’s
+application.  The trial judge commented that he was “reluctant” to prevent the
+public from “hear[ing]” the respondent’s evidence.  In his view, “stress” was
+an insufficient reason for excluding the public from the courtroom.  He also
+noted that the respondent had already given evidence in front of the public on
+the voir dire into the admissibility of his confessions and at his bail
+hearing. B.          
+Supreme Court of Newfoundland and Labrador,
+Court of Appeal, 2012 NLCA 61, 327 Nfld. & P.E.I.R. 178 (1)     The Admissibility of the Mr. Big Confessions [44]                         
+At the Court of Appeal, the respondent argued
+that the confessions he made during the Mr. Big operation ought to have been
+excluded because they were obtained in breach of his right to silence under s.
+7  of the Charter .  Green C.J., writing for himself and Harrington J.A.,
+allowed the appeal on this ground. [45]                         
+The majority held that the protection afforded
+by the right to silence could be extended beyond situations where an individual
+had been detained by the state.  In the majority’s view, the question was not
+whether the respondent was “det[ained]” at the time of his confession to Mr.
+Big, but whether he was under “state control” (para. 198).  In so concluding,
+the majority borrowed from the test articulated by this Court in R. v. White,
+[1999] 2 S.C.R. 417, to determine if a breach of his s. 7  right to silence had
+occurred. [46]                         
+On the facts, the majority found that the
+respondent was clearly under state control when he confessed to Mr. Big.  After
+considering the factors from White, the majority concluded a breach of
+s. 7  had occurred.  As a result, the majority turned to s. 24(2)  of the Charter 
+and concluded that admitting the respondent’s June 9 and 11, 2005 confessions
+would bring the administration of justice into disrepute. [47]                         
+Barry J.A. dissented on the issue of the
+admissibility of the respondent’s confessions.  In his view, the respondent’s
+right to silence was not triggered prior to detention.  Moreover, the trial
+judge’s finding that the respondent had numerous chances to leave the operation
+but made no effort to do so were findings of fact entitled to considerable
+deference on appeal.  Even if the “state control” test was applicable, Barry
+J.A. would not have found a s. 7  violation. (2)     Testifying With the Public Excluded From the Courtroom [48]                         
+The Court of Appeal unanimously found that the
+trial judge unreasonably denied the respondent’s application to testify with
+the public excluded from the courtroom.  Barry J.A., with whom the majority
+agreed, held that fairness in this case required that the respondent have the
+opportunity to present his evidence as “clearly as possible” (para. 125).  The
+respondent’s history with seizures, his evidence that he became confused and
+had difficulty thinking straight in front of a crowd, the importance of any
+explanation he could provide regarding his confessions to Mr. Big, and the
+prejudice that would result if he resiled from his commitment made in the
+presence of the jury that he planned to testify, all weighed in favour of
+granting his request. IV.       
+Issues [49]                         
+The Crown was granted leave to appeal on the
+following two issues: (1)                 
+Did the trial judge err in admitting the
+confessions made by the respondent during the Mr. Big operation?  (2)              
+Did the trial judge err in precluding the
+respondent from testifying with the public excluded from the courtroom? V.          
+Analysis [50]                         
+While the crux of this appeal involves the
+respondent’s confessions during the Mr. Big operation, I begin with his request
+to testify with the public excluded from the courtroom.  That aspect of the
+appeal is straightforward and can be dealt with briefly. A.         
+Testifying With the Public Excluded From the
+Courtroom [51]                         
+While the importance of the open court principle
+cannot be doubted, s. 486(1)  of the Criminal Code, R.S.C. 1985, c. C-46 ,
+provides trial judges with a discretion to exclude the public from the
+courtroom in several circumstances, including where such an order is in the
+interests of “the proper administration of justice”.  In Canadian
+Broadcasting Corp. v. New Brunswick (Attorney General), [1996] 3 S.C.R.
+480, this Court set out three factors trial judges are to consider in making
+such an order: (1) the availability of reasonable and effective alternatives;
+(2) whether the order is limited as much as possible; and (3) the importance of
+the order’s objectives and its probable effects when weighed against the
+importance of openness and the particular expression that will be limited. [52]                         
+In this case, the trial judge denied the
+respondent’s request, noting that “stress” was an insufficient reason for
+excluding the public from the courtroom.  In consequence, the respondent did
+not testify. [53]                         
+A trial judge’s decision under s. 486(1)  is
+entitled to deference and “should not lightly be interfered with” (Canadian
+Broadcasting Corp., at para. 78).  Here, however, I am respectfully of the
+view that the trial judge erred in refusing the respondent’s request.  The
+trial judge’s error lay at the third stage of the test.  To begin, the
+respondent’s testimony was critically important in the circumstances of this
+case.  If he was to be acquitted, the jury would have to believe, or at least
+have a reasonable doubt, that the confessions he made during the Mr. Big
+operation were false.  Testifying in order to disavow them was a near tactical
+necessity for the respondent.  The respondent sought to testify outside of the
+presence of the public in part because he was concerned that the stress of
+testifying in front of a full courtroom would cause him to have a seizure.  It
+was incumbent on the trial judge, in the unique circumstances of this case, to
+take reasonable steps to accommodate the respondent’s disability and to
+facilitate his testimony. [54]                         
+Unfortunately, the trial judge mistook the
+nature of the respondent’s request, as is apparent from his comment that he was
+reluctant to prevent the public from “hear[ing]” the respondent’s evidence. 
+The respondent was not asking that the public be completely foreclosed from
+hearing his evidence.  Rather, he simply wanted to testify outside of
+their physical presence.  As such, his evidence could have been made available
+to the public, while granting his request, by broadcasting his testimony into
+another courtroom on closed circuit television.  In the particular circumstances
+of this case, granting the accommodation sought would not, in my view, have
+undermined the open court principle. [55]                         
+As a result, I agree with the conclusion of the
+Court of Appeal.  This error alone necessitates a new trial. B.           
+The Admissibility of the Mr. Big Confessions (1)     Mr. Big Operations in Canada [56]                         
+The Mr. Big technique is a Canadian invention. 
+Although a version of the technique appears to have been used by the police as
+far back as 1901, its modern use began in the 1990s and has continued
+since then (see R. v. Todd (1901), 4 C.C.C. 514 (Man. K.B.), at p.
+523).  According to the B.C. RCMP, the technique has been used across Canada on
+more than 350 occasions as of 2008.[4] [57]                         
+The technique tends to follow a similar script
+in each case.  Undercover officers conduct surveillance on a suspect in order
+to gather information about his or her habits and circumstances.  Next, they
+approach the suspect and attempt to cultivate a relationship.  The suspect and
+the undercover officers socialize and begin to work together, and the suspect
+is introduced to the idea that the officers work for a criminal organization
+that is run by their boss — “Mr. Big”.  The suspect works for the criminal
+organization and is assigned simple and apparently illegal tasks — serving as a
+lookout, delivering packages, or counting large sums of money are common
+examples.  As occurred in this case, this stage of the operation can last for
+several months.  See T. E. Moore, P. Copeland and R. A. Schuller, “Deceit,
+Betrayal and the Search for Truth: Legal and Psychological Perspectives on the
+‘Mr. Big’ Strategy” (2009), 55 Crim. L.Q. 348, at pp. 351-52; K. T.
+Keenan and J. Brockman, Mr. Big: Exposing Undercover Investigations in
+Canada (2010), at p. 19. [58]                         
+As the operation wears on, the suspect is
+offered increasing responsibility and financial rewards.  By flying the suspect
+across the country, putting him up in hotels, and taking him to expensive
+restaurants, undercover officers show the suspect that working with the group
+provides a life of luxury and close friendships.  All the while, the suspect is
+constantly reminded that his or her ultimate acceptance into the group depends
+on Mr. Big’s approval (see Keenan and Brockman, at p. 20). [59]                         
+Throughout the operation, the suspect is also
+told that the organization demands honesty, trust and loyalty from its
+members.  An aura of violence is cultivated to reinforce these values. 
+Officers teach the suspect that those who betray the trust of the organization
+are met with violence.  They do this by telling the suspect that the
+organization kills “rats”, or by exposing him to simulated acts of violence
+perpetrated by members of the organization against other undercover officers as
+punishment for imagined betrayals (see, e.g., Moore, Copeland and Schuller, at
+pp. 356-57).  R. v. Hathway, 2007 SKQB 48, 292 Sask. R. 7 , provides a
+stark example.  In that case, undercover officers simulated an assault on a
+woman who had crossed the criminal organization.  During the beating, officers
+threatened to kill the woman, her husband, and her infant child.  The accused
+watched as undercover officers threw the bloodied woman into the trunk of a
+car. [60]                         
+Once the stage is set, the operation culminates
+in a meeting, akin to a job interview, between the suspect and Mr. Big.  Invariably
+during these meetings, Mr. Big expresses concern about the suspect’s criminal
+past and the particular crime under investigation by the police.  As the
+meeting unfolds, it becomes clear that confessing to the crime provides a
+ticket into the criminal organization and safety from the police.  Suspects may
+be told that Mr. Big has conclusive evidence of their guilt and that denying
+the offence will be seen as proof of a lack of trustworthiness.  In another
+variation, suspects are told that Mr. Big has learned from contacts within the
+police that a prosecution for the offence is imminent based on new evidence. 
+The organization offers to protect the target through a variety of means — by
+offering to eliminate a witness or by having someone else confess to the crime
+— if the suspect confesses to Mr. Big.  Throughout the interrogation, any
+denials of guilt are dismissed as lies, and Mr. Big presses for a confession
+(see, e.g., C.L.A. factum, at paras. 7-8; Keenan and Brockman, at pp. 19-21). [61]                         
+As indicated, the technique has proved valuable
+and has been used to secure convictions in hundreds of cases (see, e.g., R.
+v. Copeland, 1999 BCCA 744, 131 B.C.A.C. 264, where a confession elicited
+through a Mr. Big operation led the police to the victim’s previously
+undiscovered body). [62]                         
+To date, there are no established wrongful
+convictions stemming from its use.  However, in 1992, Kyle Unger was convicted
+of murder based in part on a confession elicited through a Mr. Big operation,
+as well as forensic evidence found at the scene of the crime.  In 2004, the
+forensic evidence was called into question by a review committee.  The Minister
+of Justice ordered a review of the conviction, and the Crown ultimately
+withdrew the charges after determining it did not have sufficient evidence to
+proceed with a new trial (see also R. v. Bates, 2009 ABQB 379, 468 A.R.
+158, where an accused, though properly convicted of manslaughter, overstated
+his involvement by falsely confessing to Mr. Big that he was the person who
+shot a rival drug dealer). (2)     Do We Need a Test
+for Determining the Admissibility of Mr. Big Confessions? [63]                         
+In cases where the Mr. Big technique has been
+used, the ensuing confessions have typically been received at trial.  Under the
+existing case law, they have been admitted under the party admissions exception
+to the hearsay rule (see R. v. Evans, [1993] 3 S.C.R. 653, at p. 664;
+R. v. Osmar, 2007 ONCA 50, 84 O.R. (3d) 321, at para. 53).  The
+admissibility of party admissions flows from the adversarial nature of our
+trial system, and the belief that “what a party has previously stated can be
+admitted against the party in whose mouth it does not lie to complain of the
+unreliability of his or her own statements” (Evans, at p. 664). [64]                         
+Attempts to extend existing legal protections to
+Mr. Big operations have failed.  This Court has held that Mr. Big operations do
+not engage the right to silence because the accused is not detained by the
+police at the time he or she confesses (see R. v. McIntyre, [1994] 2
+S.C.R. 480; R. v. Hebert, [1990] 2 S.C.R. 151).  And the confessions
+rule — which requires the Crown to prove an accused’s statement to a person in
+authority is “voluntary” — is inoperative because the accused does not know
+that Mr. Big is a police officer when he confesses (see R. v. Grandinetti,
+2005 SCC 5, [2005] 1 S.C.R. 27). [65]                         
+Under existing law, it appears that defence
+counsel have only two options for challenging the admissibility of these
+confessions: under the doctrine of abuse of process, or under a trial judge’s
+overriding discretion to exclude evidence that is more prejudicial than
+probative.  Trial judges have only rarely excluded Mr. Big confessions under
+either of these doctrines.  Indeed, the parties could find no case in which a
+Mr. Big confession was excluded as an abuse of process, and only one case in
+which a confession was excluded on the basis that its prejudicial effect
+exceeded its probative value (see R. v. Creek, 1998 CanLII 3209
+(B.C.S.C.)). [66]                         
+A threshold issue raised by this appeal is
+whether the existing framework adequately protects the rights of those subject
+to Mr. Big investigations.  The Crown contends that no further protections are
+needed and that the law as it stands strikes a proper balance between the
+accused’s rights and the need for effective policing.  By contrast, the
+respondent and amicus curiae submit that Mr. Big confessions present
+unique dangers that must be addressed by placing a filter on their
+admissibility. [67]                         
+I agree with the respondent and amicus curiae. 
+In my view, the law as it stands today provides insufficient protection to
+accused persons who confess during Mr. Big operations.  Three concerns lead me
+to this conclusion. (a)     The Danger of Unreliable Confessions [68]                         
+First, because of the nature of Mr. Big
+operations, concerns arise as to the reliability of the confessions they
+produce.  The purpose of these operations is to induce confessions, and they
+are carefully calibrated to achieve that end.  Over a period of weeks or
+months, suspects are made to believe that the fictitious criminal organization
+for which they work can provide them with financial security, social acceptance,
+and friendship.  Suspects also come to learn that violence is a necessary part
+of the organization’s business model, and that a past history of violence is a
+boast-worthy accomplishment.  And during the final meeting with Mr. Big — which
+involves a skillful interrogation conducted by an experienced police officer —
+suspects learn that confessing to the crime under investigation provides a
+consequence-free ticket into the organization and all of the rewards it
+provides. [69]                         
+It seems a matter of common sense that the
+potential for a false confession increases in proportion to the nature and
+extent of the inducements held out to the accused.  Unsurprisingly, this view
+is supported by academic literature (see R. v. Oickle, 2000 SCC 38,
+[2000] 2 S.C.R. 3, at paras. 39 and 44; S. M. Kassin et al.,
+“Police-Induced Confessions: Risk Factors and Recommendations” (2010), 34 Law & Hum. Behav. 3,
+at pp. 14-15). [70]                         
+The common law confessions rule serves to
+illustrate the importance of a trial judge’s role in assessing reliability. 
+The confessions rule has long concerned itself with the dangers posed by
+unreliable confessions (see, e.g., G. A. Martin, “The Admissibility of
+Confessions and Statements” (1963), 5 Crim. L.Q. 35, at p. 35).  Under
+the confessions rule, we recognize that unreliable confessions made by
+an accused pose particular dangers, as juries often attach great weight to the
+accused’s own words.  When an accused falsely confesses to a crime, the risk of
+a wrongful conviction becomes acute.  This Court recognized as much in Oickle,
+when it noted that false confessions have played an “important role” in cases where wrongful convictions have
+occurred (para. 36).  Subsequent research has confirmed that risk.  In 40 of
+the first 250 DNA exonerations in the United States, for example, the accused
+was found to have falsely confessed to the crime (see B.
+L. Garrett, “The Substance of False Confessions” (2010), 62 Stan. L. Rev.
+1051). [71]                         
+The confessions rule thus guards against the
+danger of unreliable confessions by requiring the Crown to prove to a judge
+beyond a reasonable doubt that an accused’s statement was voluntarily made. 
+Where the Crown is unable to do so, the accused’s statement is rendered
+inadmissible. [72]                         
+But as the law stands today, unlike our approach
+with the confessions rule, we have failed to adopt a consistent approach to
+assessing the reliability of Mr. Big confessions before they go to the jury. 
+This is so despite the obvious nature of the inducements these operations
+create.  In my view, it would be dangerous and unwise to assume that we do not
+need to be concerned about the reliability of Mr. Big confessions simply
+because the suspect does not know that the person pressuring him to confess is
+a police officer.  And although it will be easier for a jury to understand why
+an accused would falsely confess to Mr. Big than to the police during a
+conventional interrogation (because of the more obvious nature of the inducements
+and the accused’s belief that it is in his self-interest to confess), this does
+not provide a complete answer to the reliability concerns raised by these
+confessions.  Under the confessions rule, we do not abandon our concern for
+reliability in cases where a confession is the product of clear threats or
+inducements, on the assumption that the jury will have an easier time
+understanding why it is unreliable. (b)     The Prejudicial Effect of Mr. Big Confessions [73]                         
+The second concern with Mr. Big confessions — and
+one that distinguishes them from confessions made in other contexts — is that
+they are invariably accompanied by prejudicial facts regarding the accused’s
+character.  Putting these confessions into evidence requires showing the jury
+that the accused wanted to join a criminal organization and that he
+participated in “simulated” crimes that he believed were real.  The absence of
+a consistent approach in assessing the admissibility of these confessions sits
+uneasily with the general rule that bad character evidence is presumptively
+inadmissible for the Crown.  This centuries-old rule prohibits the Crown from
+leading evidence of misconduct engaged in by the accused that is unrelated to
+the charges before the court, unless it can demonstrate that its probative
+value outweighs its prejudicial effect (see R. v. Handy, 2002 SCC 56,
+[2002] 2 S.C.R. 908). [74]                         
+Bad character evidence causes two kinds of
+prejudice.  It causes “moral prejudice” by marring the character of the accused
+in the eyes of the jury, thereby creating a risk that the jury will reason from
+the accused’s general disposition to the conclusion that he is guilty of the
+crime charged, or that he is deserving of punishment in any event (Handy,
+at para. 31).  And it causes “reasoning prejudice” by distracting the jury’s
+focus away from the offence charged, toward the accused’s extraneous acts of
+misconduct (ibid.).  As this Court held in Handy, the “poisonous
+potential” of bad character evidence cannot be doubted (para. 138). [75]                         
+When a Mr. Big confession is admitted, the
+character evidence that accompanies it places the accused in a difficult
+situation.  In these cases, the accused is often obliged, as a tactical
+necessity, to testify in order to explain why he falsely confessed to Mr Big. 
+The character evidence that has already been admitted is damaging in this
+context because it shrouds the accused with an aura of distrust before he or
+she steps into the witness box.  This distrust is compounded when the accused
+asks the jury to disregard his confession because he was lying when he gave
+it.  And all of this furnishes the Crown with ample fodder for a forceful
+attack on the accused’s credibility in cross-examination. [76]                         
+Despite the well-established presumption that
+bad character evidence is inadmissible, it is routinely admitted in Mr. Big
+cases because it provides the relevant context needed to understand how the
+accused’s pivotal confession came about.  Indeed, even the accused comes to
+depend on this evidence in order to show the nature of the inducements he faced
+and the reason his confession should not be believed. [77]                         
+In my view, the prejudicial effect of Mr. Big
+confessions is a substantial concern, especially since these confessions may
+also be unreliable.  Putting evidence before a jury that is both unreliable and
+prejudicial invites a miscarriage of justice.  The law must respond to these
+dangers.  The fact that there are no proven wrongful convictions in cases
+involving Mr. Big confessions provides little comfort.  The criminal justice
+system cannot afford to wait for miscarriages of justice before taking
+reasonable steps to prevent them. (c)     Police Misconduct [78]                         
+Finally, Mr. Big operations create a risk that
+the police will resort to unacceptable tactics in their pursuit of a
+confession.  As mentioned, in conducting these operations, undercover officers
+often cultivate an aura of violence in order to stress the importance of trust
+and loyalty within the organization.  This can involve — as it did in this case
+— threats or acts of violence perpetrated in the presence of the accused.  In
+these circumstances, it is easy to see a risk that the police will go too far,
+resorting to tactics which may impact on the reliability of a confession, or in
+some instances amount to an abuse of process. [79]                         
+At present, however, these operations are
+conducted in a legal vacuum.  The legal protections afforded to accused
+persons, which are often intended at least in part to place limits on the
+conduct of the police in their investigation and interrogation of accused
+people, have no application to Mr. Big operations.  The confessions rule, for
+example, is intended not only to guard against the risk of unreliable
+confessions, but also to prevent abusive state conduct (see R. v. Hodgson,
+[1998] 2 S.C.R. 449, at para. 20).  Yet its protection does not apply because
+the accused does not know the person he is speaking to is a person in
+authority.  Other protections — like the right to counsel under s. 10 (b)
+of the Charter  — are rendered inapplicable because the accused is not
+“det[ained]” by the police while the operation is ongoing.  And the doctrine of
+abuse of process — intended to protect against abusive state conduct — appears
+to be somewhat of a paper tiger.  To date, it has never operated to exclude a
+Mr. Big confession, nor has it ever led to the stay of charges arising from one
+of these operations. [80]                         
+In my view, the lack of an effective mechanism
+for monitoring the conduct of the undercover officers who engage in these
+operations is problematic.  The law must enable trial judges to respond effectively
+to police misconduct in this context. (3)     How Should the Law
+Respond to the Problems Posed by Mr. Big Confessions? [81]                         
+Having determined that the law must respond to
+the risks inherent in Mr. Big confessions, the more difficult question is what
+form that response should take.  Mr. Big operations raise three distinct
+concerns — reliability, prejudice, and the potential for police misconduct —
+and we must ensure that trial judges have the tools they need to address all
+three of these issues. [82]                         
+The parties and interveners have provided a long
+list of options for dealing with the problems raised by Mr. Big confessions. 
+They include affirming the Court of Appeal’s extension of the s. 7  right to
+silence, expanding the common law confessions rule to apply to Mr. Big
+operations, subjecting Mr. Big confessions to the principled approach that now
+governs hearsay evidence, or assessing the reliability of Mr. Big confessions
+before admitting them into evidence as a means of ensuring an accused’s right
+to a fair trial under ss. 7  and 11 (d) of the Charter .  Rather
+than pointing to a clear solution, the diversity of the options provided
+reflects the difficulty of the task that confronts us. [83]                         
+In searching for a response to the concerns
+these operations raise, we must proceed cautiously.  To
+be sure, Mr. Big operations can become abusive, and they can produce
+confessions that are unreliable and prejudicial.  We must seek a legal
+framework that protects accused persons, and the justice system as a whole,
+against these dangers.  On the other hand, Mr. Big operations are not necessarily
+abusive, and are capable of producing valuable evidence, the admission of which
+furthers the interests of justice.  We ought not forget that the Mr. Big
+technique is almost always used in cold cases involving the most serious
+crimes.  Put simply, in responding to the dangers posed by Mr. Big confessions,
+we should be wary about allowing serious crimes to go unpunished. (a)     Summary of a Proposed Solution [84]                         
+In this section, I propose a solution that, in
+my view, strikes the best balance between guarding against the dangers posed by
+Mr. Big operations, while ensuring the police have the tools they need to
+investigate serious crime.  This solution involves a two-pronged approach that
+(1) recognizes a new common law rule of evidence, and (2) relies on a more
+robust conception of the doctrine of abuse of process to deal with the problem
+of police misconduct. [85]                         
+The first prong recognizes a new common law rule
+of evidence for assessing the admissibility of these confessions.  The rule
+operates as follows:  Where the state recruits an accused into a fictitious
+criminal organization of its own making and seeks to elicit a confession from
+him, any confession made by the accused to the state during the operation
+should be treated as presumptively inadmissible.  This presumption of
+inadmissibility is overcome where the Crown can establish, on a balance of
+probabilities, that the probative value of the confession outweighs its
+prejudicial effect.  In this context, the confession’s probative value turns on
+an assessment of its reliability.  Its prejudicial effect flows from the bad
+character evidence that must be admitted in order to put the operation and the
+confession in context.  If the Crown is unable to demonstrate that the
+accused’s confession is admissible, the rest of the evidence surrounding the
+Mr. Big operation becomes irrelevant and thus inadmissible.  This rule, like
+the confessions rule in the case of conventional police interrogations,
+operates as a specific qualification to the party admissions exception to the
+hearsay rule.[5] [86]                         
+As regard the second prong, I would rely on the
+doctrine of abuse of process to deal with the problem of police misconduct.  I
+recognize that the doctrine has thus far proved less than effective in this
+context.  While the problem is not an easy one, I propose to provide some
+guidance on how to determine if a Mr. Big operation crosses the line from
+skillful police work to an abuse of process. [87]                         
+The purposes of this two-pronged approach are to
+protect an accused’s right to a fair trial under the Charter , and
+to preserve the integrity of the justice system.  Those are the ends that must
+ultimately be achieved.  This approach strives to reach them by ensuring that
+only those confessions that are more probative than prejudicial, and which do
+not result from abuse, are admitted into evidence. [88]                         
+However, it must be remembered that trial judges
+always retain a discretion to exclude evidence where its admission would
+compromise trial fairness (see R. v. Harrer, [1995] 3 S.C.R. 562).  This
+is because “the general principle that an accused is entitled to a fair trial
+cannot be entirely reduced to specific rules” (ibid., at para. 23).  It
+is impossible to predict every factual scenario that could present itself.  As
+such, I do not foreclose the possibility that, in an exceptional case, trial
+fairness may require that a Mr. Big confession be excluded even where the
+specific rules I have proposed would see the confession admitted. [89]                         
+In practice, this two-pronged approach will
+necessitate that a voir dire be held to determine the admissibility of
+Mr. Big confessions.  The Crown will bear the burden of establishing that, on
+balance, the probative value of the confession outweighs its prejudicial
+effect, and it will be for the defence to establish an abuse of process.  Trial
+judges may prefer to begin their analysis by assessing whether there has been
+an abuse of process.  A finding of abuse makes weighing the probative value and
+prejudicial effect of the evidence unnecessary. [90]                         
+Against this backdrop, I will now elaborate on
+the main features of this two-pronged solution. (b)     Why Does the Crown
+Bear the Onus of Establishing That the Probative Value of a Mr. Big Confession
+Outweighs Its Prejudicial Effect? [91]                         
+The common law rule of evidence I have proposed
+creates a presumption that Mr. Big confessions are inadmissible, and places the
+onus of demonstrating that they ought to be received on the Crown.  The onus is
+justified because of the central role played by the state in creating these
+confessions.  It is the state that designs and implements these operations,
+expending significant resources and acting as puppeteer in the production of
+the accused’s ultimate confession.  The state creates the potent mix of a potentially
+unreliable confession accompanied by prejudicial character evidence.  Given its
+pivotal role, the state should bear the responsibility of showing that the
+confession it has orchestrated and produced warrants admission into evidence. [92]                         
+Placing the onus on the Crown also works to
+address concerns with abusive state conduct.  Confronted by the reality that
+the Crown will ultimately bear the burden of justifying reception of a Mr. Big
+confession, the state will be strongly encouraged to tread carefully in how it
+conducts these operations.  As I will explain, the conduct of the police is a
+factor to be taken into account in assessing the reliability of a Mr. Big
+confession.  This creates a strong incentive for the state to conduct these
+operations with restraint. [93]                         
+The onus has the added benefit of encouraging
+the creation of a more thorough record of the operation.  At present, many of
+the key interactions between undercover officers and the accused are
+unrecorded.  This is problematic.  Where it is logistically feasible and would
+not jeopardize the operation itself or the safety of the undercover officers,
+the police would do well to record their conversations with the accused.  With
+the onus of demonstrating reliability placed on the Crown, gaps in the record
+may undermine the case for admissibility, which will encourage better record
+keeping.[6] (c)     How Is Probative Value Assessed? [94]                         
+Determining whether the probative value of an
+item of evidence outweighs its prejudicial effect requires engaging in a “cost benefit
+analysis” (R. v. Mohan, [1994] 2 S.C.R. 9, at p. 21).  That is, trial
+judges must assess “whether [the evidence’s] value is worth what it costs” (ibid.). 
+The first step in conducting this exercise, then, is to assess the value of the
+proposed evidence. [95]                         
+How are trial judges to assess the value of
+evidence?  This requires more than asking whether the evidence is logically
+relevant; it necessitates some weighing of the evidence.  After all, probative
+means “tending to prove an issue” and “questionable evidence will have less of
+that tendency” (R. v. McIntyre, 1993 CanLII 1488 (Ont. C.A.), at p. 2).  It
+would be “artificial” and “self-defeating” for trial judges to ignore defects
+in the evidence during the assessment of its value (D. M. Paciocco and L. Stuesser,
+The Law of Evidence (6th ed. 2011), at p. 38).  Generally, what this
+weighing exercise requires will vary depending on the specific inferences
+sought to be drawn from a piece of evidence. [96]                         
+As one example, trial judges are routinely
+called upon to determine the admissibility of expert evidence.  Part of the
+admissibility inquiry involves taking stock of the probative value of the
+proposed evidence.  This requires weighing the evidence and assessing its
+reliability: When one looks to potential
+probative value, one must consider the reliability of the evidence. Reliability
+concerns reach not only the subject matter of the evidence, but also the
+methodology used by the proposed expert in arriving at his or her opinion, the
+expert’s expertise and the extent to which the expert is shown to be impartial
+and objective.  (R.
+v. Abbey, 2009 ONCA 624, 97 O.R. (3d) 330, at para. 87, per Doherty
+J.A.) [97]                         
+Similarly, in R. v. Humaid (2006), 81
+O.R. (3d) 456 (C.A.), Doherty J.A. held that otherwise admissible hearsay evidence
+may be excluded on the basis that its prejudicial effect outweighs its
+probative value.  This can occur in circumstances where “the credibility or
+reliability of the narrator of the out-of-court statement is so deficient that
+it robs the out-of-court statement of any potential probative value” (para.
+57).  This Court endorsed that approach in R. v. Blackman, 2008 SCC 37,
+[2008] 2 S.C.R. 298, at para. 51. [98]                         
+Undoubtedly, weighing evidence in this way
+thrusts trial judges into a domain that is typically reserved for the jury. 
+The jury, as the trier of fact, is ultimately responsible for weighing evidence
+and drawing conclusions from it.  The overlap of roles cannot be avoided, but
+this is not problematic as long as the respective functions of the trial judge,
+as gatekeeper, and the jury, as finder of fact, are fundamentally respected. 
+In conducting this weighing exercise, the trial judge is only deciding the
+threshold question of “whether the evidence is worthy of being heard by the
+jury” and not “the ultimate question of whether the evidence should be accepted
+and acted upon” (Abbey, at para. 89; see also Paciocco and Stuesser, at
+p. 38). [99]                         
+Returning to Mr. Big confessions, their
+probative value derives from their reliability.  A confession provides powerful
+evidence of guilt, but only if it is true.  A confession of questionable
+reliability carries less probative force, and in deciding whether the probative
+value of a Mr. Big confession outweighs the prejudicial effect of the character
+evidence that accompanies it, trial judges must examine its reliability. [100]                     
+What factors are relevant in assessing the
+reliability of a Mr. Big confession?  A parallel can perhaps be drawn between
+the assessment of “threshold reliability” that occurs under the principled
+approach to hearsay.  Under the principled approach, hearsay becomes admissible
+where it is both necessary and reliable.  Reliability can generally be
+established in one of two ways: by showing that the statement is trustworthy,
+or by establishing that its reliability can be sufficiently tested at trial (R.
+v. Khelawon, 2006 SCC 57, [2006] 2 S.C.R. 787, at paras. 61-63). 
+The latter route to reliability is often met through an opportunity to
+cross-examine the hearsay declarant, but this has no application in the present
+context because the accused is not a compellable witness. [101]                     
+However, the factors used to demonstrate the
+trustworthiness of a hearsay statement are apposite.  In assessing the
+trustworthiness of a hearsay statement, courts look to the circumstances in
+which the statement was made, and whether there is any confirmatory evidence (Khelawon,
+at paras. 62 and 100). [102]                     
+Confessions derive their persuasive force from
+the fact that they are against the accused’s self-interest.  People do not
+normally confess to crimes they have not committed (Hodgson, at para.
+60).  But the circumstances in which Mr. Big confessions are elicited can
+undermine that supposition.  Thus, the first step in assessing the reliability
+of a Mr. Big confession is to examine those circumstances and assess the extent
+to which they call into question the reliability of the confession.  These
+circumstances include — but are not strictly limited to — the length of the
+operation, the number of interactions between the police and the accused, the nature
+of the relationship between the undercover officers and the accused, the nature
+and extent of the inducements offered, the presence of any threats, the conduct
+of the interrogation itself, and the personality of the accused, including his
+or her age, sophistication, and mental health. [103]                     
+Special note should be taken of the mental
+health and age of the accused.  In the United States, where empirical data on
+false confessions is more plentiful, researchers have found that those with
+mental illnesses or disabilities, and youth, present a much greater risk of
+falsely confessing (Garrett, at p. 1064).[7] 
+A confession arising from a Mr. Big operation that comes from a young person or
+someone suffering from a mental illness or disability will raise greater reliability
+concerns. [104]                     
+In listing these factors, I do not mean to
+suggest that trial judges are to consider them mechanically and check a box
+when they apply.  That is not the purpose of the exercise.  Instead, trial
+judges must examine all the circumstances leading to and surrounding the making
+of the confession — with these factors in mind — and assess whether and to what
+extent the reliability of the confession is called into doubt. [105]                     
+After considering the circumstances in which the
+confession was made, the court should look to the confession itself for markers
+of reliability.  Trial judges should consider the level of detail contained in
+the confession, whether it leads to the discovery of additional evidence,
+whether it identifies any elements of the crime that had not been made public
+(e.g., the murder weapon), or whether it accurately describes mundane details
+of the crime the accused would not likely have known had he not committed it
+(e.g., the presence or absence of particular objects at the crime scene). 
+Confirmatory evidence is not a hard and fast requirement, but where it exists,
+it can provide a powerful guarantee of reliability.  The greater the concerns
+raised by the circumstances in which the confession was made, the more
+important it will be to find markers of reliability in the confession itself or
+the surrounding evidence. (d)    How Is Prejudicial Effect Measured? [106]                     
+Weighing the prejudicial effect of a Mr. Big
+confession is a more straightforward and familiar exercise.  Trial judges must
+be aware of the dangers presented by these confessions.  Admitting these
+confessions raises the spectre of moral and reasoning prejudice.  Commencing
+with moral prejudice, the jury learns that the accused wanted to join a
+criminal organization and committed a host of “simulated crimes” that he
+believed were real.  In the end, the accused is forced to argue to the jury
+that he lied to Mr. Big when he boasted about committing a very serious crime
+because his desire to join the gang was so strong.  Moral prejudice may increase
+with operations that involve the accused in simulated crimes of violence, or
+that demonstrate the accused has a past history of violence.[8]  As for reasoning
+prejudice — defined as the risk that the jury’s focus will be distracted away
+from the charges before the court — it too can pose a problem depending on the
+length of the operation, the amount of time that must be spent detailing it,
+and any controversy as to whether a particular event or conversation occurred. [107]                     
+On the other hand, the risk of prejudice can be
+mitigated by excluding certain pieces of particularly prejudicial evidence that
+are unessential to the narrative.  Moreover, trial judges must bear in mind
+that limiting instructions to the jury may be capable of attenuating the
+prejudicial effect of this evidence. (e)     How Are Probative Value and Prejudicial Effect Compared? [108]                     
+In the end, trial judges must weigh the
+probative value and the prejudicial effect of the confession at issue and
+decide whether the Crown has met its burden.  In practice, the potential for
+prejudice is a fairly constant variable in this context.  Mr. Big operations
+are cut from the same cloth, and the concerns about prejudice are likely to be
+similar from case to case.  As a result, trial judges will expend much of their
+analytical energy assessing the reliability of the confessions these operations
+generate. [109]                     
+Determining when the probative value of a Mr.
+Big confession surpasses its potential for prejudice will never be an exact
+science.  As Justice Binnie observed in Handy, probative value and
+prejudicial effect are two variables which “do not operate on the same plane”
+(para. 148).  Probative value is concerned with “proof of an issue”, while
+prejudicial effect is concerned with “the fairness of the trial” (ibid.). 
+To be sure, there will be easy cases at the margins.  But more common will be
+the difficult cases that fall in between.  In such cases, trial judges will
+have to lean on their judicial experience to decide whether the value of a
+confession exceeds its cost. [110]                     
+Despite the inexactness of the exercise, it is
+one for which our trial judges are well prepared.  Trial judges routinely weigh
+the probative value and prejudicial effect of evidence.  And as mentioned, they
+are already asked to examine the reliability of evidence in a number of
+different contexts, as well as the prejudicial effect of bad character
+evidence.  They are well positioned to do the same here.  Because trial judges,
+after assessing the evidence before them, are in the best position to weigh the
+probative value and prejudicial effect of the evidence, their decision to admit
+or exclude a Mr. Big confession will be afforded deference on appeal. (f)     What Is the Role of the Doctrine of Abuse of Process? [111]                     
+The rule of evidence I have proposed goes a long
+way toward addressing all three of the concerns raised by Mr. Big operations. 
+It squarely tackles the problems they raise with reliability and prejudice. 
+And it takes significant account of the concern regarding police misconduct
+both by placing the admissibility onus on the Crown, and by factoring the
+conduct of the police into the assessment of a Mr. Big confession’s probative
+value. [112]                     
+I should not, however, be taken as suggesting
+that police misconduct will be forgiven so long as a demonstrably reliable
+confession is ultimately secured.  That state of affairs would be unacceptable,
+as this Court has long recognized that there are “inherent limits” on the power
+of the state to “manipulate people and events for the purpose of . . .
+obtaining convictions” (R. v. Mack, [1988] 2 S.C.R. 903, at p. 941). [113]                     
+In my view, this is where the doctrine of abuse
+of process must serve its purpose.  After all, the doctrine is intended to
+guard against state conduct that society finds unacceptable, and which
+threatens the integrity of the justice system (R. v. Babos, 2014 SCC 16,
+[2014] 1 S.C.R. 309, at para. 35).  Moreover, the doctrine provides trial
+judges with a wide discretion to issue a remedy — including the exclusion of
+evidence or a stay of proceedings — where doing so is necessary to
+preserve the integrity of the justice system or the fairness of the trial (ibid.,
+at para. 32).  The onus lies on the accused to establish that an abuse of
+process has occurred. [114]                     
+I acknowledge that, thus far, the doctrine has
+provided little protection in the context of Mr. Big operations.  This may be
+due in part to this Court’s decision in R. v. Fliss, 2002 SCC 16, [2002]
+1 S.C.R. 535, where Binnie J., writing for the majority, described the Mr. Big
+technique as “skillful police work” (para. 21).  But the solution, in my view,
+is to reinvigorate the doctrine in this context, not to search for an
+alternative framework to guard against the very same problem.  The first step
+toward restoring the doctrine as an effective guard against police misconduct
+in this context is to remind trial judges that these operations can become
+abusive, and that they must carefully scrutinize how the police conduct them. [115]                     
+It is of course impossible to set out a precise
+formula for determining when a Mr. Big operation will become abusive.  These
+operations are too varied for a bright-line rule to apply.  But there is one
+guideline that can be suggested.  Mr. Big operations are designed to induce
+confessions.  The mere presence of inducements is not problematic (Oickle,
+at para. 57).  But police conduct, including inducements and threats, becomes
+problematic in this context when it approximates coercion.  In conducting these
+operations, the police cannot be permitted to overcome the will of the accused
+and coerce a confession.  This would almost certainly amount to an abuse of
+process. [116]                     
+Physical violence or threats of violence provide
+examples of coercive police tactics.  A confession derived from physical
+violence or threats of violence against an accused will not be admissible — no
+matter how reliable — because this, quite simply, is something the community
+will not tolerate (see, e.g., R. v. Singh, 2013 ONCA 750, 118 O.R. (3d)
+253). [117]                     
+Violence and threats of violence are two forms
+of unacceptable coercion.  But Mr. Big operations can become coercive in other
+ways as well.  Operations that prey on an accused’s vulnerabilities — like
+mental health problems, substance addictions, or youthfulness — are also highly
+problematic (see Mack, at p. 963). Taking advantage of these
+vulnerabilities threatens trial fairness and the integrity of the justice
+system.  As this Court has said on many occasions, misconduct that offends the
+community’s sense of fair play and decency will amount to an abuse of process
+and warrant the exclusion of the statement. [118]                     
+While coercion is an important factor to
+consider, I do not foreclose the possibility that Mr. Big operations can become
+abusive in other ways.  The factors that I have outlined, while not identical,
+are similar to those outlined in Mack, with which trial judges are
+well-familiar (p. 966).  At the end of the day, there is only so much guidance
+that can be provided.  Our trial judges have long been entrusted with the task
+of identifying abuses of process and I have no reason to doubt their ability to
+do the same in this context. (g)     Why Use This Two-Pronged Approach? [119]                     
+As we have seen, Mr. Big operations raise three
+interrelated concerns — reliability, prejudice, and police misconduct.  I have
+proposed two separate tests that, taken together, address all three. [120]                     
+The reason for this lies in the analytically
+distinct problems that the three concerns raise.  Reliability and prejudice are
+fundamentally evidentiary issues.  They are concerned with the quality of the
+evidence these operations produce.  Indeed, they do not emerge as problems at
+all until a Mr. Big confession is admitted at trial.  The concern that the
+police may engage in misconduct, by contrast, is focused on the behaviour of the
+state in eliciting the evidence.  To be sure, there is significant overlap
+between the concerns.  Police misconduct is more likely to produce an
+unreliable confession.  But the overlap is not perfect.  For example, a
+confession elicited during a Mr. Big operation where there has been no
+misconduct may still turn out to be unreliable and prejudicial.  Similarly, a
+confession that is the product of misconduct may turn out to be
+reliable.  Thus, in order to take complete account of both issues, two legal
+tools are required — one that looks directly at the evidence, and one that
+serves as a check on the conduct of the police. [121]                     
+I have turned to a common law rule of evidence
+to address the concerns these confessions raise with reliability and
+prejudice.  Without question, unreliable and prejudicial evidence implicate
+rights under the Charter , including the right to a fair trial and the
+presumption of innocence.  But our common law rules of evidence are, and must
+be, capable of protecting the constitutional rights of the accused.  It is
+axiomatic that the common law must be developed in a manner consistent with the
+fundamental values enshrined in the Charter  (see RWDSU v. Dolphin
+Delivery Ltd., [1986] 2 S.C.R. 573, at p. 603).  Our rules of evidence have
+embraced this constitutional imperative and have evolved into principled,
+flexible tools that are “highly sensitive to the due process interests of the
+accused” (D. Paciocco, “Charter Tracks: Twenty-Five Years of Constitutional
+Influence on the Criminal Trial Process and Rules of Evidence” (2008), 40 S.C.L.R.
+(2d) 309, at p. 311).  The common law rule of evidence I have proposed fits
+comfortably with this Court’s approach in the post-Charter  era. [122]                     
+To deal with the concern regarding police
+misconduct, I have turned to the doctrine of abuse of process.  Doing so makes
+good sense because, as mentioned, the doctrine is intended to guard against
+state misconduct that threatens the integrity of the justice system and the
+fairness of trials.  Moreover, a form of abuse of process has long provided a
+residual protection against unfair police tactics in the context of
+conventional police interrogations (see Oickle, at paras. 65-67; Rothman
+v. The Queen, [1981] 1 S.C.R. 640, at p. 697).  The doctrine is therefore
+well suited to providing a check against police misconduct in this context. [123]                     
+The two-pronged approach I have articulated is
+also consistent with the demands of the principle against self-incrimination. 
+The principle against self-incrimination has two purposes: protecting against
+abusive state conduct, and guarding against unreliable confessions (Hebert,
+at p. 175; R. v. Jones, [1994] 2 S.C.R. 229, at p. 250).  These
+protections flow from “the value placed by Canadian society upon individual
+privacy, personal autonomy and dignity” (White, at para. 43). However,
+the principle does not act as a free-standing legal protection.  Rather, the
+principle is a “general organizing principle of criminal law from which
+particular rules can be derived” (Jones, at p. 249).  Where its
+underlying rationale suggests that legal protection is needed in a specific
+context, but the law provides for none, the principle can be used to fashion a
+“contextually-sensitive” new rule to address the gap in the law (White,
+at para. 45).[9] 
+In my view, the common law rule of evidence I have proposed acts, along with
+the abuse doctrine, as yet another specific legal protection that derives from
+the general principle and its underlying rationale. [124]                     
+Unlike my colleague Karakatsanis J., I would not
+respond to the concerns Mr. Big confessions raise by subjecting them to an
+assessment under the framework developed by this Court in White.  It is
+true that the White test was used to determine whether admitting a class
+of statements made by an accused under statutory compulsion would offend the
+principle against self-incrimination.[10] 
+But White did not transform the principle against self-incrimination
+from a general organizing principle into a freestanding legal rule.  To the
+contrary, the Court was careful to note that the principle provided only
+“residual protections” in the absence of “specific common law and Charter 
+rules”, whether existing or new (paras. 44-45).  In that regard, the Court in White
+observed that the principle “demands different things at different times”
+and that the task in each case is “to determine exactly what the principle
+demands, if anything, within the particular context at issue” (ibid.). [125]                     
+Thus the general factors identified in White are
+best understood as serving to illustrate that Mr. Big operations raise concerns
+with the principle against self-incrimination.   But White does not tell
+us what the principle demands in this context, nor does it assist in fashioning
+an appropriate response.  That task can only be accomplished — as White
+itself contemplated — by tailoring the two-pronged approach of a common law
+evidentiary rule and the doctrine of abuse of process, to address the
+particular concerns raised by Mr. Big operations.  This is how the confessions
+rule and the right to silence operate to address the concerns with
+self-incrimination that arise during conventional police interrogations and
+upon detention.  And it is how my two-pronged approach addresses the challenges
+posed by Mr. Big operations. (4)     Application to the Facts (a)     The Admissibility of the Respondent’s Confessions [126]                     
+During the Mr. Big operation, the respondent
+confessed on three separate occasions: on April 10, June 9, and June 11, 2005. 
+These confessions — and in particular the June 9 and 11 confessions — were the
+heart of the Crown’s case against the respondent at trial.  Guided by the legal
+framework I have proposed, I must decide whether these confessions were
+properly admitted into evidence. [127]                     
+At the outset, I acknowledge that these reasons
+recast the test for determining the admissibility of Mr. Big confessions. 
+Unsurprisingly, the trial judge did not apply this test in determining the
+admissibility of the respondent’s confessions.  In addition, the arguments in
+the courts below, and before this Court, did not squarely address whether the
+respondent’s confessions ought to be admitted under this framework. [128]                     
+Nonetheless, I am of the view that this Court is
+in a position to decide whether the respondent’s statements were properly
+admitted — and that we ought to do so.  Although the precise test for
+determining the admissibility of Mr. Big confessions has changed, the issues
+have not.  The reliability of the respondent’s confessions, their potential for
+prejudice, and the conduct of the police in carrying out this Mr. Big operation
+have been in issue from the outset.  The parties have addressed these issues,
+and there is a substantial record before us. [129]                     
+Nor does applying this test require overturning
+the trial judge’s findings of fact.  The details of the Mr. Big operation that
+was conducted in this case are not in dispute.  In assessing the admissibility
+of the respondent’s confessions, the trial judge’s reasons focused on the
+threatening and intimidating conduct of the undercover officers.  The trial
+judge found that the respondent was not threatened by the officers (see, e.g.,
+para. 65).  Assessing the admissibility of the respondent’s confessions simply
+requires analyzing the uncontroversial facts through a different lens — that of
+the common law rule of evidence I have proposed. [130]                     
+Moreover, these proceedings have been difficult
+and protracted.  Nearly a decade has passed since the respondent was arrested
+and charged with the murder of his daughters.  Concerns with the respondent’s
+mental health prompted the appointment of amicus curiae at this Court
+and at the Court of Appeal.  Ordering a new trial and leaving the admissibility
+of the respondent’s confessions to be determined by a new trial judge would be
+tantamount to sending this case back to square one.  In my view, that would not
+be in the interests of justice. (i)      The June 9 and June 11, 2005 Confessions [131]                     
+The June 9 confession was elicited by Mr. Big
+during his meeting with the respondent.  The June 11 confession is a brief
+re-enactment of how the drowning occurred.  As mentioned, these confessions
+were critical to the Crown’s case against the respondent.  Because the
+re-enactment followed from the respondent’s confession to Mr. Big, these
+confessions are intertwined, and I will consider their admissibility together. [132]                     
+The first step is to take stock of the probative
+value of these confessions, which hinges on an assessment of their
+reliability.  This requires considering the circumstances in which the
+confessions were made, and whether the confessions contain any markers of
+reliability. [133]                     
+Turning first to the circumstances in which
+these confessions were made, I am of the view that the circumstances cast
+serious doubt on the reliability of the respondent’s confessions.  At the time
+the Mr. Big operation began, the respondent was socially isolated, unemployed,
+and living on welfare.  Over the next four months, the Mr. Big operation
+transformed the respondent’s life, becoming its focal point.  The respondent
+participated in 63 “scenarios” in which he worked with undercover officers.  He
+also had near daily phone contact with two of these officers, Jim and Paul, who
+became his closest friends.  Even when the respondent was not working with the
+undercover officers, much of his time was devoted to the work doled out to him
+by the fictitious organization.  He spent long hours driving across
+Newfoundland, spending nights in hotels, as he delivered mysterious packages
+and cargo.  By all accounts, this was a lengthy and intense operation. [134]                     
+With this transformation of the respondent’s
+life came powerful inducements.  Financially, the Mr. Big operation lifted the
+respondent out of poverty.  Undercover officers paid the respondent over
+$15,000 in cash for his work.  And they promised him much greater financial
+rewards in the future if he was admitted into the organization; the undercover
+officers had him count hundreds of thousands of dollars in cash, and told him a
+$25,000 pay day was coming if he was allowed to participate in an upcoming “big
+job”.  There was a corresponding change in the respondent’s lifestyle.  Dinners
+at expensive restaurants became common.  Paul bought the respondent new clothes
+to wear, and the respondent relied on Paul to teach him how to behave during
+their dinners, as dining at expensive restaurants was “all new to him” and he
+often felt uncomfortable. [135]                     
+The respondent attested to the powerful impact
+of these financial inducements at the outset of his meeting with Mr. Big,
+telling the crime boss that his life had been “really rough” before he started
+working for the organization, and that he had been unable to afford even a bed
+to sleep on.  He told Mr. Big that he had come from having “nothing”, that
+working for the organization had lifted him out of those dire circumstances,
+and that he would “never ever forget” how good they had been to him. [136]                     
+At least as enticing as the financial
+inducements held out to the respondent was the promise of friendship that came
+with working for the criminal organization.  The undercover officers — aware of
+the respondent’s social isolation — sought to become his “best friend”.  At the
+outset of the operation, the officers plotted to separate the respondent from
+his wife, telling him that she was not allowed to accompany him as he traveled
+across the country working for the organization. [137]                     
+With remarkable ease, the officers quickly and
+deeply engrained themselves in the respondent’s life.  By early April, less
+than two full months into the operation, the respondent told Jim and Paul that
+they were like brothers to him and that he loved them — a sentiment he would
+repeat throughout the rest of the operation.  Indeed, the respondent preached
+that loyalty to this “family” was more important to him than money. [138]                     
+The depth of the respondent’s commitment to the
+organization and the undercover officers can hardly be exaggerated.  The
+respondent would constantly call his friends — Jim and Paul — looking for work,
+and he would anxiously await their planned meetings.  He told the officers he
+was planning to leave Newfoundland so he could work for the organization full
+time.  He even purported a willingness to leave his wife if that is what it
+would take to join the organization.  And when he was finally arrested on June
+13, the respondent’s first call for help was naturally placed to Jim. [139]                     
+It was in these circumstances that the
+respondent confessed to Mr. Big and participated in the re-enactment.  When he
+entered their June 9 meeting, the respondent knew that his ticket out of
+poverty and social isolation was at stake.  Jim implored him to be “honest”
+with the boss.  Early on in the interrogation, Mr. Big drove home the
+importance of honesty, telling the respondent that “the minute the trust is
+gone . . . everything is gone”.  The conversation quickly turned to the death
+of the respondent’s daughters, and Mr. Big immediately asserted that the
+respondent had killed them.  When the respondent denied it and claimed to have
+had a seizure, Mr. Big perfunctorily dismissed this explanation as a lie: “No
+don’t lie to me . . . don’t go with the seizure stuff . . . [y]ou’re lying to
+me on this okay.” [140]                     
+The circumstances left the respondent with a
+stark choice: confess to Mr. Big or be deemed a liar by the man in charge of
+the organization he so desperately wanted to join.  In my view, these
+circumstances, considered as a whole, presented the respondent with an
+overwhelming incentive to confess — either truthfully or falsely. [141]                     
+Having determined that the circumstances in
+which these confessions were made cast serious doubt on the reliability of the
+respondent’s confessions, the next question is whether these confessions
+contain any indicators of reliability.  In my view, they do not. [142]                     
+In the first place, the respondent’s description
+of how the crime was committed is somewhat inconsistent.  In his meeting with
+Mr. Big, the respondent started off by denying that he killed his daughters. 
+Later, he said that they “fell” into the water.  After further pressing by Mr.
+Big, the respondent claimed that he pushed his daughters into the water by
+striking them with his shoulder.  But when he participated in the re-enactment
+with Jim two days later, his explanation changed again.  When Jim knelt down
+next to the respondent and asked him to demonstrate how he pushed his
+daughters, the respondent nudged him with his knee.  He had to use his knee
+because Jim, kneeling down, was not tall enough for the respondent to shove
+with his shoulder.  The same would undoubtedly have been true for his small
+children. [143]                     
+More important than these inconsistencies is the
+complete lack of confirmatory evidence.  Given the peculiar circumstances of
+the case, this is unsurprising.  The issue has always been whether the
+respondent’s daughters drowned accidentally or were murdered.  There was never
+any question that the respondent was present when his daughters entered the
+water.  All of the objectively verifiable details of the respondent’s
+confession (e.g., his knowledge of the location of the drowning) flow from his
+acknowledged presence at the time the drowning occurred. [144]                     
+When the circumstances in which the respondent’s
+confessions were made are considered alongside their internal inconsistencies
+and the lack of any confirmatory evidence, their reliability is left in serious
+doubt, and I am forced to conclude that their probative value is low. [145]                     
+On the other hand, these confessions — like all
+Mr. Big confessions — carried with them an obvious potential for prejudice. 
+The jury heard extensive evidence that — for four months — the respondent
+devoted his entire life to trying to join a criminal gang.  They heard that he
+repeatedly participated in what he thought were criminal acts, including
+transporting stolen property and smuggling alcohol.  On one occasion, he and
+Jim, wearing balaclavas, broke into a car to steal a package from it.  The jury
+was repeatedly told that the respondent had described himself as having “no
+limits”, and that he would do anything “as long as the trust was there”.  And
+it is easy to see how the jury could come to view the respondent with disdain. 
+Here was a man who bragged about killing his three-year-old daughters to gain
+the approval of a group of criminals.  The potential for moral prejudice in
+these circumstances was significant. [146]                     
+Comparing the probative value and prejudicial
+effect of these confessions leads me to conclude that their limited probative
+value is outweighed by their prejudicial effect.  Put simply, these confessions
+are not worth the risk they pose.  In my view, it would be unsafe to rest a
+conviction on this evidence. (ii)     The April 10 Confession [147]                     
+I reach the same conclusion with respect to the
+respondent’s alleged April 10 confession.  This confession also suffers from
+serious reliability concerns.  Although unprompted, it came about during a
+conversation in which the respondent and Jim were bragging about their
+willingness to engage in violence.  By this time, the respondent was already
+under the spell of powerful financial and social inducements.  The confession
+came after two months and more than 30 scenarios with undercover officers, at a
+time when the respondent had already begun professing his love for Jim and
+Paul.  Importantly, the confession itself contains no details — it amounts to a
+bald assertion by the respondent that he killed his daughters and that he
+“planned it”.  Finally, the confession was not recorded and the respondent
+denies making it, which only makes it harder to assess its probative value.  On
+the other hand, admitting this confession into evidence carries with it all of
+the attendant prejudice I have already discussed.  In my view, the probative
+value of this confession does not outweigh its prejudicial effect. (b)     Abuse of Process [148]                     
+Given my conclusion that the respondent’s
+confessions must be excluded under the common law, it is not necessary to
+consider whether the police conduct in this case amounted to an abuse of
+process.  But there is no denying that this was an extremely intensive Mr. Big
+operation, and one that preyed upon the respondent’s poverty and social
+isolation.  In addition, the respondent had a seizure in front of an undercover
+officer.  The respondent’s past seizures had caused his licence to be suspended
+to protect against the risk that a seizure would cause him to have an accident
+while driving.  However, the operation continued after this seizure, and
+undercover officers continued to send the respondent long distances over public
+roads in order to make deliveries for the fictitious criminal organization. 
+The respondent submits that this placed his and the public’s safety at risk,
+and that this conduct warrants excluding the confessions. [149]                     
+Without question, the police conduct in this
+case raises significant concerns, and might well amount to an abuse of
+process.  However, this is not how the issue was presented at trial.  At trial,
+the respondent took issue with the threatening and intimidating conduct of the
+officers, and the trial judge rejected those arguments.  Given this, and the
+fact that there is no need to decide the matter, I do not believe this is an
+appropriate case to decide whether an abuse of process has been established. VI.       
+Disposition [150]                     
+The Court of Appeal excluded the respondent’s
+June 9 and 11 confessions and quashed his convictions.  It ordered a new trial
+on the basis that the respondent’s April 10 confession was admissible, and that
+it provided a “sliver” of evidence upon which a jury could convict the
+respondent of murder (para. 258). [151]                     
+I have concluded that the April 10 confession
+must also be excluded.  As such, it is doubtful whether any admissible evidence
+remains upon which a jury, properly instructed and acting reasonably, could
+convict.  However, the final decision on how to proceed rests with the Crown. 
+In the result, I would dismiss the appeal.                     The
+following are the reasons delivered by [152]                     
+Cromwell J. — I agree with my colleague Moldaver J.’s
+analysis of the legal framework that ought to apply to statements obtained from
+accused persons as a result of “Mr. Big” operations. I also agree with his
+analysis of the question of whether the trial judge erred in law in his
+approach to the respondent’s request that he be allowed to testify with the
+public excluded from the courtroom. My only point of disagreement with my
+colleague is with respect to whether this Court should decide the question of
+whether Mr. Hart’s statements to the undercover officers are admissible. In my view,
+we should not. I would therefore uphold the Court of Appeal’s order for a new
+trial, but leave the question of admissibility of the statements to the trial
+judge, to be decided in accordance with the framework set out in Moldaver J.’s
+reasons. I reach this conclusion for four reasons. [153]                     
+First, we have in this record three versions
+from Mr. Hart himself of what happened to the children. One is that he
+panicked. This is the version that he doggedly maintained under extensive and
+challenging police interrogation.  The second is that he had an epileptic
+seizure. Mr. Hart contacted the police, told them that he had not been truthful
+with them in his earlier interrogations and recounted this version of events.
+The third version is that he deliberately killed them, the version that Mr.
+Hart told to the undercover officers — allegedly twice — during the Mr. Big
+operation. [154]                     
+In my view, it is in the interests of the proper
+administration of justice that Mr. Hart’s involvement, if any, in the death of
+these helpless children should be determined at a trial, applying the correct
+legal framework, which we have now established. [155]                     
+Second, the Court today sets out, for the first
+time, a comprehensive framework for dealing with the admissibility of
+statements obtained in the course of Mr. Big operations. This framework is
+significantly different from the one advanced on behalf of Mr. Hart at trial
+and considered by the trial judge and also from the approach adopted by the
+majority of the Court of Appeal. In my respectful view, it is fundamentally
+unfair for an appellate court to apply this new legal framework to the
+evidentiary record developed at trial, a record developed to address markedly
+different legal issues. The Crown submitted, and not at all implausibly, that
+if the issue of vulnerability, for example, had been advanced at trial, the
+Crown would have adduced additional and different evidence: transcript, at pp.
+32-34. [156]                     
+Third, although the legal issues in relation to
+the admissibility of Mr. Hart’s statements are different in light of our
+holding in this case, the findings made by the trial judge nonetheless convince
+me that it would be unwise for this Court to attempt to apply this new
+framework to the existing record. [157]                     
+At trial, Mr. Hart maintained that he was “intimidated,
+scared and felt trapped in his ability to get out” and that his motive to lie
+about having murdered his children was “the money, the friendships he created
+with undercover operators, the lifestyle and the chance to get out of
+Newfoundland”: trial judge’s voir dire reasons, 2007 NLTD 74, 265 Nfld.
+& P.E.I.R. 266, at para. 33.  Mr. Hart argued at trial that his statements
+resulted from implied threats, coercions and psychological coercion: ibid.,
+at para. 42. [158]                     
+The trial judge, who had the advantage of seeing
+and hearing the witnesses, including Mr. Hart, flatly rejected these
+contentions as having no foundation in fact. The trial judge found as a fact
+that Mr. Hart was offered the opportunity to stop his involvement at any time:
+“[h]e had numerous chances to leave the operation, but made no effort to do so”
+(voir dire reasons, at para. 61). In fact, Mr. Hart, according to the
+trial judge, “continued to show his willingness to become more involved and to
+take greater risks.  . . . Mr. Hart wanted to work and continually
+pressured [the undercover officers] for more work outside of Newfoundland”: ibid.,
+at paras. 59 and 61. [159]                     
+The trial judge also considered Mr. Hart’s
+position that his statements should be excluded because they did not meet the
+threshold requirements of reliability. The statements, argued Mr. Hart, were
+the result of implied threats and intimidation and occurred in the context of
+paying him to perform illegal activities. In light of all these circumstances,
+the statements did not meet the required threshold reliability for admission. [160]                     
+The trial judge rejected these submissions: voir
+dire reasons, at paras. 136-42.  He referred to his earlier findings that
+there was no intimidation or coercion. He also found that the motive to lie
+advanced by Mr. Hart did not make sense. Why would Mr. Hart risk being caught
+in his own lie to the “boss” in an attempt to gain the confidence of the
+organization, after being warned of what the consequences of lying would be
+shortly before the interview (para. 138)?.  As the trial judge explained: It is true that Mr. Hart
+wanted into the organization and he did have a motive to lie, but there was
+reason for him to come clean with the “boss”, especially when coming clean
+meant any potential problem Mr. Hart may have had could be eliminated by
+the very person he was telling the problem to. It is interesting to note that
+Mr. Hart actually went to a WalMart store and stood in front of a video camera
+to have his photo taken at a designated time. This designated time was supposed
+to be the time when a particular individual who witnessed the drowning was
+supposed to have been taken care of by one of the crime gang members.       The purpose of the picture
+was to provide an alibi for Mr. Hart as it related to taking care of the
+individual that supposedly had seen Mr. Hart commit the crime. [paras. 140-41] [161]                     
+Finally, there is evidence that about mid-way through
+the Mr. Big operation, Mr. Hart, in order to establish his ability to do what
+might be required of him, told an undercover officer that he had deliberately
+killed his daughters. This is the April 10, 2005 statement. The evidence was
+that Mr. Hart showed the officer a picture of the twins and said that they were
+his own blood but that he had killed them and had planned it: 2012 NLCA 61, 327
+Nfld. & P.E.I.R. 178, per Barry J.A., at para. 10. Mr. Hart denied
+making this statement in his voir dire evidence. It is not clear to me
+that this statement would inevitably be excluded at a new trial on the
+framework governing admissibility established in Moldaver J.’s reasons. Of
+course, if ruled admissible, it would be for the jury to decide whether Mr.
+Hart made this statement and what weight, if any, to give it. The Court of
+Appeal refused to exclude this statement, leaving its admissibility to be
+determined at a new trial: para. 258.  I agree with that conclusion. [162]                     
+In my respectful view, the admissibility of the
+respondent’s statements to the undercover officers ought to be determined at a
+new trial where the parties and the trial judge will have the benefit of the
+new framework established in Moldaver J.’s reasons and will be able to focus
+their evidence and arguments accordingly. [163]                     
+In the result, I would dismiss the appeal.                     The  following are the
+reasons delivered by                     Karakatsanis J.  — I.             
+Introduction [164]                     
+The Mr. Big technique is a Canadian innovation
+that has proven effective in resolving intractable criminal investigations. 
+During a typical Mr. Big operation, undercover police officers befriend the
+suspect and induct him into a fictional criminal organization.  Over time, they
+secure his loyalty and trust.  Ultimately, they introduce the target to the
+leader of the organization, who requires him to admit his involvement in the
+offence the police are investigating. [165]                     
+However, Mr. Big operations entail significant
+dangers.  The detailed artificial reality created by the operation is
+purposively manipulative and can compromise the autonomy and human dignity of
+the suspect.  Moreover, the technique generates a significant risk of false
+confessions, as an individual who is pressured to confess may do or say
+anything to please Mr. Big and avoid losing his new life.  The technique
+entangles the target in a web of prejudicial evidence that may undermine trial
+fairness.  Finally, the unrestricted use of this tactic risks abusive state
+conduct, as the police devote substantial resources to manipulating suspects
+who are presumed to be innocent. [166]                     
+Mr. Big confessions are not caught by the
+traditional rules governing confessions to the state, such as the confessions
+rule or the right to silence.  My colleague Moldaver J. would therefore address
+the admissibility of Mr. Big confessions by creating a new rule of evidence
+under the common law.  Under this rule, Mr. Big confessions are inadmissible
+unless the Crown establishes that the probative value of the confession
+(factoring in its reliability) outweighs its prejudicial effect.  He would
+leave concerns about state conduct to the abuse of process doctrine. [167]                     
+I fear that the proposed common law rule fails
+to consistently take into account broader concerns that arise when state agents
+generate a confession at a cost to human dignity, personal autonomy and the
+administration of justice.  These concerns are recognized in our jurisprudence
+dealing with confessions to the state and lie at the root of the principle
+against self-incrimination. [168]                     
+In my view, the Canadian Charter of Rights
+and Freedoms  provides the appropriate analytical framework to regulate Mr.
+Big operations because of the state’s central role in generating the
+confession.  These operations raise three vital concerns:  the reliability of
+the evidence generated, the autonomy of suspects, and the potential for abuse
+of state power.  In addition, the technique creates criminal propensity
+evidence that can undermine trial fairness.  The principle against
+self-incrimination, under s. 7  of the Charter , provides
+comprehensive and flexible protection in such circumstances. [169]                     
+In this case, the respondent, Mr. Hart, was
+suspected of drowning his daughters.  Over two years later, the police
+undertook an intensive months-long operation in which they exploited his
+poverty and social isolation by offering him novel experiences:  lucrative
+employment, friendship and a sense of self-worth.  The respondent was led to
+believe that for this life to continue, he must confess to “Mr. Big”.  The
+investigation and resulting confession demonstrate the serious risks of these
+operations.  The police used their overwhelming power and resources to create
+an alternate reality and to obtain a confession of dubious reliability through
+an operation with a devastating impact on the accused.  In doing so, they
+violated the principle against self-incrimination under s. 7  of the Charter . [170]                     
+I agree with Moldaver J.’s decision to exclude
+the confessions.  However, I would reach that conclusion through the analytical
+lens of the principle against self-incrimination. II.          
+Framework for Admissibility of State-Induced
+Confessions A.          
+The Dangers Inherent to Confessions to the State [171]                     
+Confessions to state agents raise special concerns for the criminal
+justice system.  Over the centuries, our common law tradition has responded to
+these dangers.  The jurisprudence recognizes that individuals sometimes make
+false confessions that can result in miscarriages of justice, affirms that
+respect for human dignity and free choice means that individuals should not be
+coerced by the state to provide self-incriminating evidence, and discourages
+the state from conducting criminal investigations in a way that offends our
+sense of fair play or compromises the integrity of the administration of
+justice.  Recognizing that particular vigilance is required to protect against
+miscarriages of justice caused by unreliable confessions, the law has developed
+specialized rules that respect both fairness to the individual and the societal
+interest in investigating crime and seeking the truth at trial. [172]                     
+Mr. Big operations have procured confessions when
+traditional investigative techniques have failed.  Indeed, that is their sole
+purpose.  These operations, often costly and complex, create elaborate
+false realities for their targets in which they are valued and rewarded. 
+Threats and inducements are tailored to exploit suspects’ vulnerabilities, and
+confessing becomes necessary for their new lives to continue.  The very
+structure of Mr. Big operations creates circumstances that (1) compromise the
+suspects’ autonomy, (2) undermine the reliability of confessions, and (3) raise
+concerns about abusive state conduct.  In addition, Mr. Big operations create
+prejudicial evidence of criminal propensity which has the potential to
+compromise accused persons’ ability to make full answer and defence,
+undermining the fairness of the trial. [173]                     
+Despite these dangers, the Mr. Big technique has
+not been extensively reviewed by this Court.  In R. v. McIntyre, [1994]
+2 S.C.R. 480, the Court upheld the admissibility of the Mr. Big statements
+obtained in that case in a brief oral judgment, finding that “the tricks used
+by the police were not likely to shock the community” (p. 481).  But McIntyre
+was very different from this case:  the operation lasted for only 10 days, the
+police officers posing as criminals immediately revealed the illegal nature of
+their activities, and the “job” offer they made to McIntyre at the outset
+required him to prove he was capable of killing (see R. v. McIntyre
+(1993), 135 N.B.R. (2e) 266 (C.A.)). [174]                     
+Existing safeguards that govern confessions made
+to the state are rooted in traditional investigative techniques and fail to
+properly regulate Mr. Big operations.  The confessions rule does not apply in a
+Mr. Big operation because the suspect is not aware that he is speaking to a
+person in authority (R. v. Hodgson, [1998] 2 S.C.R. 449, at paras.
+24-29; R. v. Grandinetti, 2005 SCC 5, [2005] 1 S.C.R. 27), nor does
+the right to silence, which arises only upon a suspect’s detention (R. v.
+Hebert, [1990] 2 S.C.R. 151, at p. 184; McIntyre).  Thus, Mr. Big
+confessions fall into the gaps between the traditional rules. [175]                     
+The Court cannot countenance this void.  The
+existing rules assist in identifying the interests affected and dangers
+generated by Mr. Big operations and in structuring a principled and responsive
+legal framework.  The confessions rule guards against unreliable
+confessions and regulates state conduct to protect basic fairness in the
+criminal process (R. v. Oickle, 2000 SCC 38, [2000] 2 S.C.R. 3, at
+paras. 68-69).  The right to silence focuses on autonomy, choice and fairness
+by protecting detained persons’ “right to choose whether to speak to the
+authorities or to remain silent” (Hebert, at p. 180).  More
+broadly, the principle against self-incrimination from which these protections
+stem is based upon respect for an individual’s autonomy and human dignity,
+which give that individual the right to choose whether to incriminate herself.  The
+principle serves “at least two key purposes, namely to protect against
+unreliable confessions, and to protect against abuses of power by the state” (R.
+v. White, [1999] 2 S.C.R. 417, at para. 43;
+see also R. v. Jones, [1994] 2 S.C.R. 229, at p. 250). B.           
+The Principle Against Self-Incrimination [176]                     
+Mr. Big confessions engage the constitutional principle against
+self-incrimination protected under s. 7  of the Charter .  Section 7  
+reads: Everyone has the right to life,
+liberty and security of the person and the right not to be deprived thereof
+except in accordance with the principles of fundamental justice. [177]                     
+In R. v. P. (M.B.), [1994] 1 S.C.R. 555,
+Lamer C.J. described the principle against self-incrimination as follows: Perhaps
+the single most important organizing principle in criminal law is the right of
+an accused not to be forced into assisting in his or her own prosecution . . .
+.  The
+broad protection afforded to accused persons is perhaps best described in terms
+of the overarching principle against self-incrimination, which is firmly rooted
+in the common law and is a fundamental principle of justice under s. 7  of the Canadian
+Charter of Rights and Freedoms .  As a majority of this Court suggested in Dubois
+v. The Queen, [1985] 2 S.C.R. 350, the presumption of innocence and the
+power imbalance between the state and the individual are at the root of this
+principle and the procedural and evidentiary protections to which it gives rise. 
+[Emphasis added; pp. 577-78.] [178]                     
+Section 7 has a well-recognized residual role
+with respect to the principles of fundamental justice, of which ss. 8 to 14 are
+examples (Re B.C. Motor Vehicle Act, [1985] 2 S.C.R. 486, at pp.
+502-3 and 512).  The principle against self-incrimination manifests itself in
+specific protections such as the s. 7 right to silence recognized in Hebert,
+the s. 10 (b) right to counsel, the s. 11 (c) rule of
+non-compellability and the s. 13  privilege against self-incrimination
+(see Jones, at pp. 251-56; H. Stewart, Fundamental
+Justice: Section 7 of the Canadian Charter of Rights and Freedoms (2012),
+at pp. 8-9).  However, in considering the scope of the
+principle, in Thomson Newspapers Ltd. v.
+Canada (Director of Investigation and Research, Restrictive Trade Practices
+Commission), [1990]
+1 S.C.R. 425, Lamer J. (dissenting, but not on this point), agreed with the
+majority that “the specific
+enumerations in ss. 11 (c) and 13  of the Charter  are not
+necessarily exhaustive of the protection afforded by s. 7 , and do not prevent
+residual content being given to s. 7 ” (p. 442). [179]                     
+The principle against
+self-incrimination is, therefore, a robust and dynamic concept which
+addresses the dangers that arise from confessions made to state agents.  It provides a principled approach to dealing
+with confessions to the state.[11] 
+In my view, the principle provides the appropriate
+response to Mr. Big cases, for several reasons. [180]                     
+First, Mr. Big operations deploy significant
+state resources to create a new world, where the target often feels that there
+is no choice but to confess.  They directly engage the individual privacy,
+autonomy and dignity interests that the principle against self-incrimination is
+meant to protect.  The principle against self-incrimination acknowledges the
+tremendous power of the state and protects the individual’s freedom to choose
+whether to make a statement to the police.  The right not to be
+compelled to incriminate oneself has deep roots.  It is an overarching
+organizing principle in our criminal justice system, of which the confession
+rule and the right to silence are emanations (Hebert, at p.
+175).  It makes sense to rely upon this foundational principle in responding to
+confessions that are generated by and made to state agents. [181]                     
+Second, this approach draws on existing jurisprudence concerning the
+principle against self-incrimination, making it unnecessary to create a new
+rule.  The scope of s. 7’s protection
+against self-incrimination is to be “determined on a case-by-case basis” (Jones,
+at p. 257). [182]                     
+Third, the principle against self-incrimination
+provides an opportunity to weigh concerns about reliability, autonomy and state
+conduct together in a nuanced way.  These concerns are factually and
+conceptually intertwined.  For example, if the police overreach in their
+reliance on threats and inducements, this will be relevant to determining
+whether the operation was unduly coercive, may undermine the reliability of the
+confession, and will raise the spectre of abuse. [183]                     
+Finally, the principle against self-incrimination addresses
+suspects’ rights both during the Mr. Big operation and at trial; a rule for
+addressing these operations must regulate both.  A fair trial cannot be based
+on evidence obtained through fundamentally unfair state tactics.  That being
+so, trial fairness and investigative fairness should not be addressed in
+freestanding inquiries.  As the Court explained in White, “[i]n every
+case, the facts must be closely examined to determine whether the principle
+against self-incrimination has truly
+been brought into play by the production or use of the declarant’s
+statement” (para. 48 (emphasis added)). [184]                     
+Consistent with Charter  jurisprudence,
+the onus is on the accused to establish a prima facie breach of the
+principle against self-incrimination.  To do so, the accused must show that
+concerns about autonomy, reliability, and police conduct exist, as they will in
+nearly every Mr. Big operation.  In such circumstances, the burden will shift
+to the Crown to establish that there is no breach.  Consequently, the Crown
+should always be prepared to demonstrate the admissibility of the resulting
+evidence.  This will encourage the police to give careful consideration to the
+constitutionality of the operation and will incentivize recording of the Mr.
+Big “scenarios” where possible.  Given that the entire operation, not just the
+final meeting, is relevant to the admissibility of any evidence obtained,
+thorough records would make it easier for the court to assess the investigation
+and would allow the police to defend against allegations of undue coercion or
+state misconduct. [185]                     
+The principle against self-incrimination also
+works to secure trial fairness, which is a principle of fundamental justice
+recognized under ss. 7  and 11 (d) of the Charter .  Trial fairness
+may be compromised whenever there are concerns about how police have obtained
+self-incriminating evidence, where such evidence is of dubious reliability, and
+where juries have difficulty evaluating the truthfulness of confessions.  There
+is scope to consider all of these factors under the principle against
+self-incrimination. C.           
+Applying the Principle Against
+Self-Incrimination to Mr. Big Cases [186]                     
+The Court applied the principle against
+self-incrimination in White.  The White framework deals
+directly with three interrelated concerns which ground the traditional rules
+respecting confessions to the state:  autonomy, reliability, and state
+conduct.  As the Court explained, [t]he
+definition of the principle against self-incrimination as an assertion of human
+freedom is intimately connected to the principle’s underlying rationale. As
+explained by the Chief Justice in Jones, supra, at pp. 250-51, the
+principle has at least two key purposes, namely to protect against unreliable
+confessions, and to protect against abuses of power by the state.  There is
+both an individual and a societal interest in achieving both of these
+protections.  Both protections are linked to the value placed by Canadian
+society upon individual privacy, personal autonomy and dignity: see, e.g., Thomson
+Newspapers, supra, at p. 480, per Wilson J.; Jones, supra,
+at pp. 250-51, per Lamer C.J.; and Fitzpatrick, supra, at
+paras. 51-52, per La Forest J.  [Emphasis added; para. 43.] [187]                     
+The Court identified four factors which help to
+determine whether the principle against self-incrimination has been violated by
+the production or use of a suspect’s statements: (1)              
+whether there was an adversarial relationship
+between the accused and the state at the time the statements were obtained;  (2)              
+whether there was coercion by the state in
+obtaining the statements;  (3)              
+whether there was a risk of unreliable
+confessions as a result of any compulsion; and  (4)              
+whether permitting the use of the statements
+would lead to an increased risk of abusive state conduct. (White, at
+paras. 53-66) [188]                     
+While these factors are interrelated, in the Mr.
+Big context, each emphasizes a particular legal interest or principle.  The
+coercion factor is primarily concerned with the autonomy and dignity of the
+suspect and asks whether the suspect had a choice to speak to the authorities. 
+The reliability enquiry focuses on the trustworthiness of any statement
+obtained.  Finally, the conduct of the state is examined with a view to
+determining whether the authorities used their position of power in an unfair,
+abusive, or shocking manner.  Although each factor underscores a particular
+concern, specific facts or tactics may implicate more than one danger, and
+therefore may be considered under more than one part of the analysis. 
+Ultimately, these factors are intertwined and should be considered together. [189]                     
+This approach does not identify prejudice as a factor to be considered
+under the principle against self-incrimination.  However, the prejudice created
+by the evidence of criminal propensity is indirectly relevant to reliability
+and state conduct.  Moreover, the trial judge retains the residual power to
+exclude evidence on the basis of trial fairness (see R. v. Harrer, [1995]
+3 S.C.R. 562, at paras. 24 and 41) or when its probative value is outweighed by
+its prejudicial effect. [190]                     
+When applying this principled approach to
+state-induced confessions, the courts should apply the test in a way that
+protects the fundamental interests at stake and responds to the dangers raised
+by the particular circumstances. (1)    Adversarial Relationship [191]                     
+The principle against self-incrimination is directly
+applicable where individuals are in adversarial relationships with the state. 
+In a Mr. Big operation, the state deliberately sets out to obtain a confession
+from the suspect.  By definition, the relationship is adversarial.  Thus, this
+factor does not add to the analysis where there is a confession to Mr. Big. (2)    Coercion [192]                     
+A confession is coerced when the accused is deprived of a free choice
+whether to admit, deny, or refuse to answer (Black’s Law Dictionary (6th
+ed. 1990), at p. 258).  In the context of a Mr. Big operation, a confession is
+coerced when the suspect is deprived of any reasonable alternative to
+confessing.  While there will almost always be some degree of
+coercion in a Mr. Big operation, the issue at this stage is the extent
+of that constraint.  Coercion is not a binary.  This means that even if the
+suspect had some alternative to confessing, the degree to which
+his free choice was compromised must be examined. [194]                     
+In determining the degree of coercion, the court should
+consider the magnitude and duration of the operation, any explicit or implied
+threats used, any financial, social, or emotional inducements applied, and the
+characteristics of the suspect, including any mental, physical, social, or
+economic disadvantages. [195]                     
+By way of example, when financial inducements are
+offered to a person of means, it will be difficult to argue that he or she had
+no reasonable choice but to confess.  On the much more serious end of the
+spectrum are operations which exploit individuals’ particular weaknesses, such
+that they feel obliged to make a self-incriminating statement.  Of course,
+sufficient pressure may cause even well-situated individuals to feel the force
+of coercion. [196]                     
+This approach protects the autonomy of the
+suspect, a cardinal concern of the confessions rule (where it is also expressed
+as voluntariness) and the principle against self-incrimination more broadly. 
+In Hodgson, for example, Cory J. (quoting L. Herman, “The
+Unexplored Relationship Between the Privilege Against Compulsory
+Self-Incrimination and the Involuntary Confession Rule (Part I)” (1992), 53 Ohio
+St. L.J. 101, at p. 153, citing Sir G. Gilbert, The Law of Evidence
+(1769)) noted that the common law “will not force any Man to accuse himself”,
+and held  that “from its very inception, the confessions rule was designed not
+only to ensure the reliability of the confession, but also to guarantee
+fundamental fairness in the criminal process” (para. 18 (emphasis deleted)). [197]                     
+Although the concern for autonomy interweaves
+with the goals of obtaining reliable evidence and curbing offensive state
+conduct, it exists in our adversarial legal system as an idea with its own
+normative force, namely, “a basic distaste for self-conscription” (R. v. S.
+(R.J.), [1995] 1 S.C.R. 451, at para. 83).  As this Court has explained,
+“proper rules of battle between government and individual require that the
+individual . . . not be conscripted by his opponent to defeat himself” (White,
+at para. 42, citing Wigmore on Evidence, vol. 8 (McNaughton rev.
+1961), § 2251, at p. 318). [198]                     
+In S. (R.J.), the Court described the
+principle against self-incrimination as “the principle of sovereignty embodied
+in the idea that individuals should be left alone in the absence of
+justification, and not conscripted by the state to promote a self-defeating
+purpose” (para. 81). [199]                     
+While there will almost always be some
+degree of coercion in a Mr. Big operation, this does not mean that any
+resulting confession will automatically be excluded.  The police must have
+leeway to employ the Mr. Big technique up to a certain point.  However, if the
+coercion was so great that the suspect was made to believe that he had no
+alternative but to confess, the statement will have been obtained
+unconstitutionally.  Barring such extreme cases, the court must weigh the nature
+and severity of coercion alongside the reliability of any resulting
+statement and the conduct of the state, two factors I delineate below. (3)    Reliability [200]                     
+False confessions can cause miscarriages of
+justice, condemn innocent individuals, and result in failures to convict the
+truly guilty (Oickle, at para. 32).  Concern for reliability rightly
+underpins numerous protections against self-incrimination.  Under the
+“reliability” analysis, the court will execute a robust gatekeeper function in
+assessing the risk of a false confession, and corroborating or supporting
+evidence will usually be a prerequisite to admission. [201]                     
+This appraisal is of paramount importance because juries often
+struggle to properly assess the ultimate reliability of Mr. Big confessions. 
+Juries generally find it difficult to believe that someone
+would confess to a crime she did not commit (Oickle, at para. 34), and
+are loath to disregard a confession even where it is known to be coerced (S. M.
+Kassin et al., “Police-Induced Confessions:  Risk Factors and Recommendations”
+(2010), 34 Law & Hum. Behav. 3, at p. 24).  This danger is
+compounded by the criminal propensity evidence generated during a Mr. Big
+investigation.  An accused who falsely confessed is in a catch-22 situation;
+his only course to explain away his statement is to admit that it was made to
+preserve his criminal lifestyle. [203]                     
+However, traditional indicia of reliability
+often cannot be relied upon in a Mr. Big operation.  The confession of
+an accused is generally considered to be admissible hearsay, in part because it is a “statement against interest” and therefore
+more likely to be reliable.  But statements to Mr. Big are not
+“against” the accused’s interest at all:  the target has been made to feel safe
+from legal consequences, and confessing is a precondition to membership in the
+organization, access to work, or some other benefit.  Confessions are also
+treated as admissible hearsay because the
+accused, a party to the case, can testify that the confession was false (see R.
+v. Osmar, 2007 ONCA
+50, 84 O.R. (3d) 321, leave to appeal refused, [2007] 2 S.C.R. vii; R. v.
+Bonisteel, 2008 BCCA 344,
+259 B.C.A.C. 114).  However, by design, the Mr. Big operation creates prejudicial
+evidence of criminal propensity.  The accused must either let the confession
+stand or explain that he made it in order to continue his new criminal
+lifestyle. [204]                     
+Thus, confessions made to Mr. Big are particularly
+hazardous, and the judge must evaluate their threshold reliability in order to
+satisfy the principle against self-incrimination. [205]                     
+In order to find that a confession was constitutionally obtained,
+supporting evidence will usually be required.  Under the confessions
+rule, corroborative evidence cannot salvage an involuntary statement.  That
+rule is not concerned with the reliability of the particular confession, but
+with the manner in which it was obtained.  This is because “if the state were
+left with the option of simply corroborating forced confessions, there would be
+little incentive to refrain from reprehensible investigative measures” (Hodgson,
+at para. 20).  However, under the self-incrimination framework, coercion
+and state conduct are independently considered under other factors, so there is
+no need to use reliability as a proxy for these concerns, and corroborative
+evidence may be considered. [206]                     
+Moreover, corroborative evidence compensates for the reliability
+concerns inherent to a Mr. Big operation.  Such tactics involve powerful
+inducements:  the suspect is promised financial rewards, membership in an organization, legal protection, approval and friendship, or some
+combination of these in exchange for simply admitting to the commission of the
+crime.  At the same time, the suspect has usually been warned
+about the consequences of
+failing to behave as the organization expects, and the “truth” that Mr. Big
+wants to hear has already been made very clear. (4)    Abuse of Power/Police Misconduct [209]                     
+The state must conduct its law enforcement
+operations in a manner that is consonant with the community’s underlying sense
+of fair play and decency.  It cannot manipulate suspects’ lives without limit,
+turning their day-to-day existence into a piece of theatre in which they are
+unwitting participants.  Such an approach does violence to the dignity of
+suspects and is incompatible with the proper administration of justice. [210]                     
+I agree with my colleague Moldaver J. that the abuse of process
+doctrine recognized under s. 7  remains independently available to provide a
+remedy for state misconduct in the Mr. Big context.  However, the high
+threshold for its application means that conduct may tend to undermine the
+integrity of the administration of justice, yet fail to warrant a remedy under
+this doctrine.  The need to restrain
+state misconduct is one of the rationales for the principle against
+self-incrimination (as well as the confessions rule and the right to silence). 
+Therefore, police conduct in Mr. Big operations must be
+considered, even when it does not rise to the level of abuse of process. [211]                     
+State conduct throughout a Mr. Big
+operation must be scrutinized to determine whether the police unfairly,
+unnecessarily or disproportionately manipulated the suspect.  This inquiry
+will also consider other objectionable police tactics such as involving the
+suspect in dangerous conduct or exposing him to physical or
+psychological harm. [212]                     
+A certain degree of trickery is, of course, inherent to many
+effective and appropriate police tactics.  But the more
+disreputable the police tactics become, and the less they comport with the
+responsibility to conduct a fair prosecution which respects the dignity of the
+suspect, the more likely it is that s. 7  has been violated. 1.                 
+the type of crime being
+investigated and the availability of other techniques for the police detection
+of its commission;  2.                 
+the strength of the
+evidence causing the police to target the suspect;  3.                 
+the types and strength of inducements used by the police, including deceit, fraud, trickery or
+reward;  4.                 
+the duration of the operation and
+the number of interactions between the police and the suspect;  5.                 
+whether the police
+conduct involved an exploitation of human characteristics such as the emotions
+of compassion, sympathy and friendship;  6.                 
+whether the police appear to have
+exploited a particular vulnerability of the suspect such as mental, social, or
+economic vulnerabilities or substance addiction;  7.                 
+the degree of
+harm to the suspect that the police caused or risked;  8.                 
+the existence and
+severity of any threats, implied or express, made to the suspect by the police
+or their agents, including threats made to third parties where those threats
+carry an indirect threat to
+the accused;  9.                 
+whether an average
+person, with both strengths and weaknesses, in the position of the suspect
+would be induced to falsely confess;  10.             
+the persistence and
+number of attempts made by the police before the suspect agreed to confess. [214]                     
+My intention is not to
+create a formalistic checklist or to overcomplicate the analysis.  These
+factors are simply examples which may help the court to determine whether the
+conduct of the police in obtaining a confession has contravened our society’s
+basic expectations of fair play or undermined the reputation of the justice
+system.  More abusive state conduct makes it more likely that the confession
+was obtained in a manner incompatible with the principle against
+self-incrimination. (5)    Weighing the Contextual Factors D.          
+Probative Value Versus Prejudicial Effect [217]                     
+My colleague Moldaver J. is, of course,
+correct that trial judges should exclude evidence where its probative value is
+exceeded by its prejudicial effect.  This rule is a principle of
+fundamental justice which safeguards trial fairness. [219]                     
+My colleague’s rule, including the presumption
+of inadmissibility, only applies if the police employ a Mr. Big investigation. 
+As such, it may inspire a threshold debate about the boundaries of the Mr. Big
+tactic.  By contrast, an approach that responds to the dangers of
+state-induced confessions applies regardless of the label attached to the
+tactic.  It is the threats to which the rule responds that call it to action. [220]                     
+This is not to diminish the trial judge’s
+responsibility to exclude evidence that is more prejudicial than probative. 
+Highly prejudicial evidence that is unnecessary to explain the context in which
+the confession was made, such as details of the suspect’s involvement in
+egregious fake crimes, should continue to be edited or excised completely. 
+Additionally, jury instructions must warn against impermissible reasoning based
+upon criminal propensity. III.       
+Application to This Case A.          
+Was the Principle Against Self-Incrimination
+Violated? (1)    Coercion [221]                     
+The Mr. Big operation in this case lasted for
+four months and involved 63 staged “scenarios”.  The deceit employed was
+extensive.  The police deliberately exploited the accused’s particular
+vulnerabilities to ensure he had no realistic option but to give Mr. Big the
+confession he demanded. [222]                     
+In the first several scenarios, the operatives
+went to considerable lengths to show Hart that the trucking business owned by
+“Jim” was legitimate.  Although Hart accepted remuneration under the table, he
+was only introduced to artificial criminality after 14 “scenarios” had been
+completed, when he was already hooked into the manufactured reality of
+lucrative employment and close friendship. [223]                     
+The trial judge found that violence was not used
+or directly threatened against Mr. Hart (2007 NLTD 74, 265 Nfld. & P.E.I.R.
+266, at paras. 58 and 63-65).  However, the police created an aura of
+violence.  The respondent was told that sometimes bad deeds had to be done and
+was led to believe that one of the operatives had assaulted a sex worker in
+retaliation for betrayal.  The operatives also described the Hell’s Angels as
+“flunkies” compared to the boss.  As the officer leading the investigation
+testified, the purported violence of the organization went “hand in hand with
+portraying ourselves to be criminals”.  “Paul” boasted to Hart that he could
+kill rats and that “if he ever ratted on me there would be no turning back, it
+would be a one way street”. [224]                     
+The trial judge found that Hart was motivated by a desire to take a
+cut of the profits.  For this he had to take greater risks and gain the trust
+of the “boss” (para. 62).  The financial
+inducements were significant by anyone’s measure.  But for someone who was
+known to live in poverty so extreme that he did not even have a bed to sleep on, they were life
+changing: generous wages and per diems, visits to expensive restaurants,
+train trips and flights to new cities.  At the voir dire, Hart
+explained, “[y]ou know, it was almost like a
+new life.”  Given his poverty, it is easy to understand why he did not turn down the opportunity to make such money. [225]                     
+The evidence also makes
+it clear that, for the respondent, the friendships he believed he had gained were at least as important as the money.  The operatives deliberately separated the respondent from his wife in the
+early days of the operation.  They created an alternate reality for the
+respondent, intentionally disorienting him to the point that in the final interview
+with Mr. Big, he was persuaded that incriminating himself was the only route to
+take.  Hart’s fear of losing his new “family” was palpable.  Mr. Hart would
+have viewed losing these friendships, around which his life had been totally
+restructured, as no choice at all. [226]                     
+The trial judge concentrated on the lack of
+violent coercion in the operation, but did not consider the effect of the
+financial and social inducements on Mr. Hart.  The extent of the deceit and the
+inducements used must be viewed as more seriously infringing the respondent’s
+autonomy interests, given his known characteristics:  his extreme poverty and
+social isolation, and his lack of education and sophistication.  I conclude
+that by preying on these vulnerabilities to such a degree, the police deprived
+the respondent of meaningful choice about whether to give an incriminating
+statement to Mr. Big. (2)    Reliability [227]                     
+The incentives for Mr. Hart to have falsely
+confessed are very substantial. It was made clear to him that his friendships,
+his wages, and his membership in the organization (essentially his new family)
+were dependent on telling Mr. Big what he wanted to hear.  In short, he had
+every incentive to confess, whether he committed the crime or not. 
+Nevertheless, he protested his innocence until it was apparent that only a
+confession would be accepted.  Hart testified at the voir dire that the boss “kept saying, don’t lie to me, you are lying to me
+Nelson, don’t lie to me.  What was I suppose[d] to do, stay there all day and
+go on like that[?]” [230]                     
+ The “confession” of April 10 described by the
+officers carries many of the same concerns.  The confession was allegedly made
+during the 29th scenario, just before the initial 90-day deadline for the
+operation (compare, for instance, to McIntyre, where a confession was
+obtained after only 10 days).  While at dinner, Jim told Hart that the
+organization controlled 70 percent of the prostitution in Montreal and that he
+had had to “deal with” two prostitutes who had been dishonest with him.  He
+told Hart that sometimes “bad things need to be done”.  Hart responded that he
+had “no problem getting his hand dirty”; the two boasted about the skeletons in
+their closets; and Hart then allegedly confessed to having killed his
+daughters.  Clearly the same reliability concerns arise:  Hart had every reason
+to lie, given his desire to impress a member of the organization.  Moreover,
+the statement was not recorded, making it impossible to rely on body tone or
+language.  Finally, the respondent explicitly denied the April 10 confession,
+both during his final “confession” to Mr. Big, when he repeatedly stated that
+Mr. Big was the first person he had told about it, and on the voir dire. (3)    Abuse of Power [231]                     
+In my view, the state conduct in this case was egregious, and
+this factor weighs heavily in favour of exclusion. [232]                     
+The police led Mr. Hart through the looking glass into a parallel
+universe where, for many months, they employed extensive state resources to
+prey on his lack of education, intellect, and life experience, his social
+isolation, and his extreme poverty.  The undercover operatives fostered the
+respondent’s emotional dependency on them; as Jim noted, it was a “constant
+thing” for Hart to tell them he loved them.  Mr. Hart’s beloved friends
+gradually involved him in an increasingly serious world of criminality,
+beginning with dealing in supposedly stolen goods and eventually portraying the
+organization as a violent international group with a boss who made the Hell’s
+Angels look like “flunkies”.  As Hart involved himself in more dangerous and
+illegal activity, his pay increased. [233]                     
+The degree of harm caused by the Mr. Big
+operation is also relevant.  The respondent was so thoroughly enmeshed
+in his make-believe world that upon his arrest, his first reaction was
+to call his supposed “friend”, Jim.  It should have come as no surprise,
+particularly to the officers who knew him so well, that Hart was devastated to
+learn that his new life, where he had felt valued and respected, had all been a
+carefully constructed illusion.  He had no friends.  He had not been employed
+because he was “smart”:  rather, he was thoroughly duped.  The respondent
+developed paranoia, believing that everyone was part of the “sting” against
+him, and was unable to trust his lawyers and even his own wife.[12] 
+He was eventually committed to a psychiatric hospital, and amicus curiae made
+submissions on his behalf at the appeal.  Such an emotional collapse is by no
+means a prerequisite to a finding of abusive state conduct.  However, this kind
+of psychological manipulation by state agents harms not only the suspect but
+the integrity of the justice system. [234]                     
+This was not the usual undercover investigation where police join
+an existing criminal organization in order to witness criminals in action.  As
+explained above, such strategies tend not to be particularly coercive or
+abusive, and therefore are unlikely to violate the principle against
+self-incrimination. [235]                     
+This case is more akin to entrapment.  The police employed the
+power of the state to create an elaborate invented reality, designed to exploit
+a vulnerable person, introduce him to criminality, and force him to incriminate
+himself.  In addition, the police witnessed the
+respondent suffering seizures both before the investigation began and during
+the operation itself.  Yet, the undercover operatives continued to send him on
+driving assignments. [236]                     
+Mr. Big operations are a creative and sometimes useful law
+enforcement technique, but the courts must carefully police their boundaries
+lest they stray from being useful strategies into ploys that allow the state to
+manipulate and destroy the lives of individuals who are presumed to be
+innocent. [237]                     
+I am greatly troubled by the extreme lengths to
+which the police went to pursue the respondent, exploiting his weaknesses in
+this protracted and deeply manipulative operation.  The abuse of process
+doctrine always remains independently available to provide a remedy where the
+conduct of the state rises to such a level that it risks undermining the
+integrity of the judicial process (R. v. O’Connor, [1995] 4 S.C.R. 411,
+at para. 73; R. v. Babos, 2014 SCC 16, [2014] 1 S.C.R. 309, at para.
+31).  In my view, as will be clear from my discussion of the state conduct in
+this case, that threshold is met.  To condone the actions of the police would
+“leave the impression that the justice system condones conduct that offends
+society’s sense of fair play and decency” (Babos, at para. 35). 
+However, given the outcome of this appeal, it is not necessary to discuss this
+issue further. (4)    Conclusion on Contextual Factors [238]                     
+The factors considered above clearly point to a
+s. 7  violation.  The accused’s liberty interests were obviously engaged.  The
+police procured a confession by preying on the respondent’s particular
+vulnerabilities in a complex sting.  Despite going to these lengths, the
+confession is of dubious reliability and is unsupported by any corroborative
+evidence or detail.  Ultimately, to countenance such a ploy would give the
+police carte blanche to engage in unfair, manipulative, and coercive
+investigations. B.           
+Remedy [239]                     
+In White, the Court excluded the
+compelled accident report under s. 24(1)  of the Charter  on the basis
+that its admission at trial would violate s. 7 .  The acquisition
+of the compelled accident report was not impugned.  But where, as in this case,
+evidence is obtained in breach of the Charter , s. 24(2)  is the
+mechanism for exclusion (R. v. Therens, [1985] 1 S.C.R. 613). [240]                     
+Under s. 24(2), the court must determine
+whether, in all the circumstances, admitting evidence obtained in breach of the
+Charter  would bring the administration of justice into disrepute. [241]                     
+In R. v. Grant, 2009 SCC 32, [2009] 2 S.C.R. 353, McLachlin C.J. and Charron J. noted that statements by the accused
+engage the cornerstone principle against self-incrimination (at para. 89) and concluded that, while not an absolute
+rule, “as a matter of practice, courts have tended to
+exclude statements obtained in breach of the Charter , on the ground that
+admission on balance would bring the administration of justice into disrepute”
+(para. 91). [243]                     
+As a result, I agree
+with my colleague Moldaver J.’s conclusion that the evidence obtained in the operation must be excluded, and I would dismiss the
+appeal.                     Appeal dismissed.                     Solicitor for the appellant:  Attorney General of
+Newfoundland and Labrador, St. John’s.                     Solicitors
+for the respondent:  Poole Althouse, Corner Brook, Newfoundland and
+Labrador.                     Solicitor
+for the intervener the Director of Public Prosecutions of
+Canada:  Public Prosecution Service of Canada, Halifax.                     Solicitor
+for the intervener the Attorney General of Ontario:  Attorney General
+of Ontario, Toronto.                     Solicitor for the intervener Directeur des poursuites criminelles et
+pénales du Québec:  Directeur des poursuites criminelles et pénales
+du Québec, Québec.                     Solicitor for the
+intervener the Attorney General of British Columbia:  Attorney
+General of British Columbia, Victoria.                     Solicitors for the intervener the Association in Defence of the
+Wrongly Convicted:  Russell Silverstein & Associate, Toronto.                     Solicitors for the intervener the British
+Columbia Civil Liberties Association:  Sugden, McFee & Roos,
+Vancouver; Michael Sobkin, Ottawa.                     Solicitors
+for the intervener the Criminal Lawyers’ Association of
+Ontario:  Lockyer Campbell Posner, Toronto.                     Solicitors
+for the intervener the Canadian Civil Liberties Association:  Addario
+Law Group, Toronto.                     Solicitors for the intervener Association des avocats de la défense
+de Montréal:  Poupart, Dadour, Touma et Associés, Montréal.                     Solicitors appointed by the Court as amicus
+curiae:  Henein Hutchison, Toronto. [1] The officer’s name is protected by a publication ban. [2] This officer’s name is also protected by the publication ban. [3] This conversation was not recorded.  The respondent denied that
+this confession occurred. [4]
+“Undercover Operations”, B.C. RCMP (online). [5] This rule targets Mr. Big operations in their present form. 
+A change in the way the police use undercover operations to elicit confessions
+may escape the scope of this rule.  However, it is not for this Court to anticipate
+potential developments in policing.  To do so would be speculative.  Time will
+tell whether, in a future case, the principles that underlie this rule warrant
+extending its application to another context. [6]   It appears that the RCMP have already adopted the practice
+of recording a substantial number of the interactions between the accused and
+undercover officers in British Columbia (see W. E. Dawson, “The Use of ‘Mr. Big’
+in Undercover Operations”, in Criminal Law: Special Issues (2011), Paper
+5.2, at p. 5.2.44). [7]   This study relates to incidents of false confessions arising from
+conventional police interrogations.  In my view, the groups of people that
+present the greatest danger of falsely confessing during conventional
+interrogations warrant enhanced scrutiny in the context of Mr. Big operations. [8]   For
+example, in R. v. Bonisteel, 2008 BCCA 344, 259 B.C.A.C. 114, admitting
+the accused’s confession to Mr. Big also required admitting evidence that the
+accused had committed two unrelated, violent sexual assaults.  This evidence
+had to be admitted because it was “inextricably interwoven with the undercover
+confession” (para. 29).  Obviously, this sort of evidence increases the moral
+prejudice that accompanies an accused’s confession. [9]   See, e.g., R. v. S. (R.J.), [1995] 1 S.C.R. 451, where
+this Court recognized that witnesses enjoy a protection against the use of
+“derivative evidence” discovered as a result of their compelled testimony (at
+paras. 165-202), and British Columbia Securities Commission v. Branch,
+[1995] 2 S.C.R. 3, where this Court recognized that a witness ought to be
+exempted from a compulsion to testify where the witness can establish that the
+state’s predominant purpose for compelling his testimony is to seek
+incriminating evidence against him (paras. 5-12).  [10] Four factors were used to decide whether the principle had been
+breached: (1) the existence of coercion; (2) the
+existence of an adversarial relationship between the accused and the state; (3)
+the prospect that an unreliable confession would be given; and (4) a concern
+that admitting the statement would increase the likelihood of abusive conduct
+by the state. [11] While these reasons concentrate on its
+application to the Mr. Big context, I see no reason why the principle cannot be
+adapted to govern other innovative police tactics designed to elicit
+confessions. [12] See various case management endorsements at the Court of Appeal: R.
+v. Hart, 2011 NLCA 64, 312 Nfld. & P.E.I.R. 44; 2011 NLCA 37 (CanLII);
+2011 NLCA 29 (CanLII); 2010 NLCA 33, 298 Nfld. & P.E.I.R. 152; 2009 NLCA
+10, 282 Nfld. & P.E.I.R. 346.  

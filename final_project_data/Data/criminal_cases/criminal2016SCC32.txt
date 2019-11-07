@@ -1,0 +1,404 @@
+SCC Case Information: 36466, 36844   SUPREME
+COURT OF CANADA  Citation: R. v. Cawthorne, 2016 SCC 32, [2016] 1 S.C.R. 983 Appeals
+  heard: April 25, 2016 Judgment
+  rendered: July 22, 2016 Dockets: 36466, 36844 Between: Her
+Majesty The Queen Appellant  and  Ordinary
+Seaman Cawthorne Respondent  - and -  Attorney
+General of Canada, Attorney General of Ontario, Attorney
+General of Quebec, Attorney General of British Columbia and Director
+of Criminal and Penal Prosecutions of Quebec Interveners  And Between:  Her
+Majesty The Queen Appellant  and  Warrant
+Officer J.G.A. Gagnon Respondent  And:  Her
+Majesty The Queen Appellant  and  Corporal
+A.J.R. Thibault Respondent  - and -  Attorney
+General of Canada, Attorney General of Ontario, Attorney
+General of Quebec and Attorney General of British Columbia Interveners   Coram: McLachlin C.J. and Abella, Cromwell, Moldaver, Karakatsanis,
+Wagner, Gascon, Côté and Brown JJ.  Reasons
+  for Judgment: (paras. 1 to 44) McLachlin C.J. (Abella, Cromwell,
+  Moldaver, Karakatsanis, Wagner, Gascon, Côté and Brown JJ. concurring)    R. v. Cawthorne, 2016 SCC 32, [2016] 1 S.C.R. 983 Her Majesty The Queen                                                                                 Appellant v. Ordinary Seaman Cawthorne                                                                    Respondent and Attorney General of Canada, Attorney General of Ontario, Attorney General of Quebec, Attorney General of British Columbia and Director of Criminal and Penal Prosecutions of
+Quebec                          Interveners Her Majesty The Queen                                                                                 Appellant v. Warrant Officer J.G.A. Gagnon                                                               Respondent and Her Majesty The Queen                                                                                 Appellant v. Corporal A.J.R. Thibault                                                                           Respondent and Attorney General of Canada, Attorney General of Ontario, Attorney General of Quebec and Attorney General of British
+Columbia                                                       Interveners Indexed as: R. v. Cawthorne 2016 SCC 32 File Nos.: 36466, 36844. 2016: April 25; 2016: July 22. Present: McLachlin C.J. and Abella, Cromwell, Moldaver,
+Karakatsanis, Wagner, Gascon, Côté and Brown JJ. on appeal from the court martial appeal court of canada                     G
+and T were each charged with sexual assault. G was acquitted and the Minister
+appealed, seeking a new trial. T presented a plea in bar of trial, on the basis
+that the matter was not under military jurisdiction because of an insufficient
+nexus with military service. The military judge allowed the plea and the
+Minister appealed. G and T brought motions to quash the Minister’s appeals on
+the basis that s. 230.1  of the National Defence Act , which gives
+the Minister the authority to appeal to the Court Martial Appeal Court,
+violates s. 7  of the Charter . The Court Martial Appeal Court
+dismissed the motions to quash but agreed that s. 230.1  should be
+invalidated, as it violates the right to an independent prosecutor. The
+Minister appeals to this Court.                     Held: The motion
+to quash should be dismissed and the appeals should be allowed.
+Sections 230.1  and 245(2)  of the National Defence Act  are
+constitutional.                     The
+power that ss. 230.1  and 245(2)  of the National Defence Act  confer
+on the Minister — that is, to initiate an appeal — may effect a deprivation of
+liberty. Therefore, s. 7 of the Charter  is engaged. The law
+recognizes as constitutional the principle that prosecutors must not act for
+improper purposes, such as purely partisan motives. This principle is a basic
+tenet of our legal system. It safeguards the rights of the individual and the
+integrity of the justice system, and it satisfies the criteria to be considered
+a principle of fundamental justice. A prosecutor — whether it be an Attorney
+General, a Crown prosecutor, or some other public official exercising a
+prosecutorial function — has a constitutional obligation to act independently
+of partisan concerns and other improper motives.                     The
+Minister, like the Attorney General or other public officials with a
+prosecutorial function, is entitled to a strong presumption that he exercises
+prosecutorial discretion independently of partisan concerns. The mere fact of
+the Minister’s membership in Cabinet does not displace that presumption. The
+law presumes that the Attorney General, also a member of Cabinet, can and does
+set aside partisan duties in exercising prosecutorial responsibilities, and
+there is no compelling reason to treat the Minister differently in this regard.
+Accordingly, Parliament’s conferral of authority over appeals in the military
+justice system on the Minister does not violate s. 7  of the Charter .
+As to the argument that the impugned provisions violate the right to an
+independent tribunal guaranteed by s. 11 (d) of the Charter ,
+it cannot succeed. Cases Cited Statutes and Regulations Cited Canadian Charter of Rights and Freedoms,
+ss. 1 , 7 , 11 (d). Authors Cited Rosenberg, Marc. “The Attorney General and the Administration of
+Criminal Justice” (2009), 34 Queen’s L.J. 813. Scott, Ian. “Law, Policy, and the Role of the Attorney General:
+Constancy and Change in the 1980s” (1989), 39 U.T.L.J. 109. Sterling, Lori, and Heather Mackay. “Constitutional Recognition of
+the Role of the Attorney General in Criminal Prosecutions: Krieger v. Law
+Society of Alberta” (2003), 20 S.C.L.R. (2d) 169.                     MOTION
+to quash the appeal from a judgment of the Court Martial Appeal Court of Canada
+(Veit, Zinn and Abra JJ.A.), 2015 CMAC 1, 472 N.R. 47, [2015] C.M.A.J.
+No. 1 (QL), 2015 CarswellNat 1361 (WL Can.), setting aside the accused’s
+convictions for possession of child pornography and accessing child pornography
+and ordering a new trial. Motion to quash dismissed. Appeal allowed.                     APPEAL
+from a judgment of the Court Martial Appeal Court of Canada (Bell C.J. and
+Deschênes and Cournoyer JJ.A.), 2015 CMAC 2, [2015] C.M.A.J. No. 2 (QL),
+2015 CarswellNat 7156 (WL Can.), declaring invalid s. 230.1  of the National
+Defence Act . Appeal allowed.                     David Antonyshyn, Dylan
+Kerr and B. W. MacGregor, for the appellant.                     François Lacasse and
+Ginette Gobeil, for the intervener the Attorney General of Canada.                     Patrick J.
+Monahan and Jamie Klukach, for the intervener the Attorney General
+of Ontario.                     Sylvain Leboeuf, for
+the intervener the Attorney General of Quebec.                     Joanne Marceau and Patrick
+Michel, for the intervener the Director of Criminal and Penal Prosecutions
+of Quebec.                     The
+judgment of the Court was delivered by                     The Chief Justice — I.             
+Introduction [1]                             
+These appeals present two issues. First, do
+provisions of the National Defence Act, R.S.C. 1985, c. N-5 , giving
+the Minister of National Defence (“Minister”) the authority to appeal from
+decisions of a court martial or the Court Martial Appeal Court violate ss. 7  or
+11 (d) of the Canadian Charter of Rights and Freedoms ? Second, did
+the military judge in the Cawthorne matter err in declining to grant a
+mistrial? II.          
+Background A.          
+Ordinary Seaman Cawthorne [2]                             
+In July 2012, Ordinary Seaman Cawthorne was on exercise near Hawaii. On
+July 20, an able seaman found an iPhone on board the ship. To determine the
+owner of the phone, the seaman swiped the screen. He saw an image of a man
+having sex with a child. The seaman took the phone to a superior. The phone
+belongs to O.S. Cawthorne. [3]                             
+O.S. Cawthorne was charged with two child pornography offences under s.
+130  of the National Defence Act . O.S. Cawthorne did not contest
+ownership of the phone, nor did he deny accessing and possessing pornographic
+images of teenage girls. He testified, however, that his practice was to
+download an entire thread of pornographic images, without reviewing each image
+individually. He claimed that his download of the child pornography was
+inadvertent, and that he had not knowingly possessed or accessed child
+pornography. [4]                             
+O.S. Cawthorne’s former girlfriend testified for
+the prosecution at trial. During her examination-in-chief, she testified about
+several conversations she had with him. She stated that he told her that he had
+been arrested “for having inappropriate images on his phone”. She also asked him
+what types of images were on his phone. When asked if she recalled his answer,
+her response was the following: “He said they were children and I believe that
+he said they were both male and female.” [5]                             
+In brief cross-examination, she was asked
+whether her conversations with O.S. Cawthorne amounted to his merely advising
+her of the allegations against him (i.e., as opposed to his admitting
+culpability). She agreed. [6]                             
+In re-examination, she was asked, “During any of
+those conversations, do you recall him saying that he did in fact do these
+things?” She said: “Yes.” [7]                             
+Defence counsel objected, and the military judge
+ruled that her evidence on re-examination was inadmissible because it did not
+arise from cross-examination. The military judge advised the jury panel to
+disregard the question and answer. [8]                             
+The defence then brought a motion for a mistrial
+on the basis of the prejudice arising from the inadmissible re-examination
+evidence. The military judge dismissed the motion and gave a further limiting
+instruction to the panel: . . . I
+further instruct you that you shall not draw any inference against the accused
+. . . from that inadmissible evidence because it is both unreliable and
+prejudicial. I therefore instruct you to completely and absolutely ignore the
+inadmissible evidence and that you shall evacuate from your mind anything about
+it. [9]                             
+The panel returned a verdict of guilty on both
+counts charged. [10]                         
+A majority of the Court Martial Appeal Court
+found that the mistrial ought to have been granted. The court allowed O.S.
+Cawthorne’s appeal and ordered a new trial (2015 CMAC 1, 472 N.R. 47). [11]                         
+The Minister appeals as of right to this Court,
+pursuant to s. 245(2) (a) of the National Defence Act . The Minister
+argues that the military judge made no error in declining to grant a mistrial.
+O.S. Cawthorne seeks to quash the Minister’s appeal on the basis that s. 245(2) 
+violates ss. 7  and 11 (d) of the Charter . B.           
+Warrant Officer Gagnon
+and Corporal Thibault [12]                         
+Warrant Officer Gagnon and Corporal Thibault
+were each charged with sexual assault. [13]                         
+Warrant Officer Gagnon was acquitted. The
+Minister appealed to seek a new trial, on the basis that the military judge
+erred by putting the defence of honest but mistaken belief in consent to the
+panel. [14]                         
+Corporal Thibault presented a plea in bar of trial,
+claiming that the matter was not under military jurisdiction because of an
+insufficient nexus with military service. The military judge allowed the plea
+(2015 CM 1001). The Minister appealed. [15]                         
+Warrant Officer Gagnon and Corporal Thibault
+brought motions to quash the Minister’s appeals on the basis that s. 230.1  of
+the National Defence Act , which gives the Minister the authority to
+appeal to the Court Martial Appeal Court, violates s. 7  of the Charter . [16]                         
+The Court Martial Appeal Court dismissed the
+motions to quash but agreed that s. 230.1  of the National Defence Act  should
+be invalidated. It found that the law’s conferral of the authority to appeal on
+the Minister violates the right to an independent prosecutor, which it held is
+a principle of fundamental justice under s. 7  of the Charter  (2015 CMAC
+2). III.       
+The Challenged Legislation [17]                         
+Sections 230.1  and 245(2)  of the National Defence Act  provide
+the following: 230.1 The
+Minister, or counsel instructed by the Minister for that purpose, has, subject
+to subsection 232(3), the right to appeal to the Court Martial Appeal Court
+from a court martial in respect of any of the following matters: (a) with leave of
+the Court or a judge thereof, the severity of the sentence, unless the sentence
+is one fixed by law; (a.1 ) the
+decision not to make an order under subsection 745.51(1)  of the Criminal
+Code ; (b) the legality
+of any finding of not guilty; (c) the legality
+of the whole or any part of the sentence; (d) the legality
+of a decision of a court martial that terminates proceedings on a charge or
+that in any manner refuses or fails to exercise jurisdiction in respect of a
+charge; (e) the legality
+of a finding of unfit to stand trial or not responsible on account of mental
+disorder; (f) the legality
+of a disposition made under section 201, 202 or 202.16; (f.1) the
+legality of an order for a stay of proceedings made under subsection
+202.121(7); (g) the legality
+of a decision made under any of subsections 196.14(1) to (3); or (h) the legality
+of a decision made under subsection 227.01(2).        
+245 . . .       
+(2) The Minister,
+or counsel instructed by the Minister for that purpose, may appeal to the
+Supreme Court of Canada against a decision of the Court Martial Appeal Court (a) on any question of law on which a judge of the Court Martial
+Appeal Court dissents; or (b) on any question of law, if leave to appeal is granted by the
+Supreme Court of Canada. IV.       
+Analysis A.          
+Is the Conferral of the Authority to Appeal on
+the Minister of National Defence Unconstitutional? [18]                         
+The main question on these appeals is whether
+provisions of the National Defence Act  that give the Minister the
+authority to appeal from decisions of a court martial or Court Martial Appeal
+Court infringe the right to liberty under s. 7  of the Charter , and if
+so, whether the limitation is justified under s. 1  of the Charter . It
+is also argued that the law infringes the right to trial by an independent
+tribunal under s. 11 (d) of the Charter . [19]                         
+Section 7  of the Charter  provides: 7.  Everyone has the right to life, liberty and security of the person
+and the right not to be deprived thereof except in accordance with the
+principles of fundamental justice. [20]                         
+The power that ss. 230.1  and 245(2)  of the National
+Defence Act  confer on the Minister — that is, to initiate an appeal — may
+effect a deprivation of liberty. Section 7  is engaged. [21]                         
+The next question is whether the deprivation of
+liberty conforms to the principles of fundamental justice. If it does not, the
+law violates s. 7 . [22]                         
+The answer is found in this Court’s
+jurisprudence on prosecutorial independence and abuse of process. It
+establishes, as a matter of constitutional law, that partisan or other improper
+considerations must not influence prosecutorial decisions. [23]                         
+Our cases on prosecutorial independence tend to
+discuss this principle in the context of the role of the Attorney General. In Krieger
+v. Law Society of Alberta, 2002 SCC 65, [2002] 3 S.C.R. 372, Iacobucci and
+Major JJ., writing for the Court, noted that there is a “constitutional
+principle in this country that the Attorney General must act independently of
+partisan concerns when supervising prosecutorial decisions”: para. 30. Charron
+J. reiterated this point in Miazga v. Kvello Estate, 2009 SCC 51, [2009]
+3 S.C.R. 339, describing the independence of the Attorney General as a
+“constitutionally entrenched” principle that “requires that the Attorney
+General act independently of political pressures from government”: para. 46.
+But the logic of these statements clearly extends to Crown prosecutors and
+other public officials exercising a prosecutorial function. Indeed, both Krieger
+and Miazga cited with approval Binnie J.’s reasons (dissenting on
+another point) in R. v. Regan, 2002 SCC 12, [2002] 1 S.C.R. 297, at
+para. 157, where he remarked that a Crown Attorney’s duty “to respect his or
+her ‘Minister of Justice’ obligations of objectivity and independence” easily
+met the criteria for a principle of fundamental justice under s. 7  of the Charter . [24]                         
+These cases establish that a prosecutor — whether
+it be an Attorney General, a Crown prosecutor, or some other public official
+exercising a prosecutorial function — has a constitutional obligation to act
+independently of partisan concerns and other improper motives: see generally L.
+Sterling and H. Mackay, “Constitutional Recognition of the Role of the Attorney
+General in Criminal Prosecutions: Krieger v. Law Society of Alberta”
+(2003), 20 S.C.L.R. (2d) 169, at p. 170; see also M.
+Rosenberg, “The Attorney General and the Administration of Criminal Justice”
+(2009), 34 Queen’s L.J. 813, at pp. 832-36. [25]                         
+This principle is also reflected in this Court’s
+abuse of process jurisprudence. We have long recognized that the Crown’s unfair
+or oppressive treatment of an accused can rise to the level of an abuse of the
+court’s process and warrant judicial intervention: see R. v. Power,
+[1994] 1 S.C.R. 601, at pp. 612-15. Both the common law and s. 7  of the Charter 
+empower a court to stay proceedings where compelling an accused to
+stand trial would violate those fundamental principles of justice which
+underlie the community’s sense of fair play and decency and to prevent the
+abuse of a court’s process through oppressive or vexatious proceedings.  (R.
+v. Jewitt, [1985] 2 S.C.R. 128, at pp. 136-37, quoted in R. v. O’Connor,
+[1995] 4 S.C.R. 411, at p. 455.) Those principles of justice may be
+violated where there is “conspicuous evidence of improper motives or of bad
+faith” on the Crown’s part: Power, at p. 616. [27]                         
+I emphasize that the scope of “partisan” in this
+context is narrow. “Partisan” is not broadly synonymous with “political”. An
+Attorney General — like other public officials exercising a prosecutorial
+function — is a “protector of the public interest”: Sterling and Mackay, at p.
+179. As L’Heureux-Dubé J. explained in Power, at p. 616: . . . the Attorney General is a member
+of the executive and as such reflects, through his or her prosecutorial
+function, the interest of the community to see that justice is properly done.
+The Attorney General’s role in this regard is not only to protect the public,
+but also to honour and express the community’s sense of justice. Accordingly,
+courts should be careful before they attempt to “second-guess” the prosecutor’s motives when he or she makes a decision. [28]                         
+Decisions to prosecute (or to not prosecute) can
+have broad social repercussions, and regard for those repercussions properly informs
+prosecutorial discretion: Sterling and Mackay, at p. 179; Rosenberg, at pp.
+821-22, fn. 24. It is not open to a court to scrutinize this exercise of
+discretion, or to question a prosecutor’s particular conception of the public
+interest. A government policy of strict prosecution of certain offences, if
+motivated by concerns for the public interest, does not offend s. 7 . It is only
+when the considerations underlying a prosecution are partisan — that is, when a
+prosecutor acts not for the public good, but “for the good of the government of
+the day” — that a court’s intervention is warranted:  Sterling and Mackay, at
+p. 179, citing I. Scott, “Law, Policy, and the Role of the Attorney General:
+Constancy and Change in the 1980s” (1989), 39 U.T.L.J. 109, at p. 121. [29]                         
+Whether a prosecutor’s purposes are “improper”
+will depend on the facts of the case. It would be impossible to exhaustively
+define all considerations that are improper in the context of a prosecution,
+but our abuse of process decisions provide some guidance on that issue. These
+decisions indicate that, whatever the circumstances of the particular case, the
+bar for finding that a prosecutor’s conduct was prompted by an improper motive
+is rightly very high. [30]                         
+Recognition of this principle as one of fundamental
+justice does not affect the existing and well-developed doctrine of abuse of
+process; indeed, the two are integrally related. Claims of improper
+prosecutorial conduct, including partisan-motivated conduct, will continue to
+be brought and assessed under the doctrine of abuse of process, which
+determines the standard for improper conduct and the appropriate remedy: see Power,
+at pp. 615-16; O’Connor, at pp. 465-68. [31]                         
+There is no evidence of any improper
+prosecutorial conduct in the cases before us. But the respondents say such
+evidence is unnecessary. In their view, the principle of prosecutorial
+independence requires both that a prosecutor be independent and that a
+reasonable person perceive him or her as independent. The Minister, they say,
+is independent neither in fact nor in appearance. They emphasize that the
+Minister is a member of Cabinet not bound by the conventions of independence
+that apply to the Attorney General, and that the Minister’s “quasi-judicial”
+role is incompatible with his control and administration of the Canadian
+Forces. Accordingly, the respondents argue that the law’s conferral on the
+Minister of authority over appeals in the military justice system violates s. 7 
+of the Charter . [32]                         
+I cannot agree. The Minister, like the Attorney
+General or other public officials with a prosecutorial function, is entitled to
+a strong presumption that he exercises prosecutorial discretion independently
+of partisan concerns. The mere fact of the Minister’s membership in Cabinet
+does not displace that presumption. Indeed, the law presumes that the Attorney
+General — also a member of Cabinet — can and does set aside partisan duties in
+exercising prosecutorial responsibilities. There is no compelling reason to
+treat the Minister differently in this regard. [33]                         
+It follows that Parliament’s conferral of
+authority over appeals in the military justice system on the Minister does not
+violate s. 7  of the Charter . [34]                         
+It is conceivable that a statute could create a
+prosecutorial framework that genuinely casts doubt on a prosecutor’s
+independence, for example, by requiring the prosecutor to take partisan or
+other improper considerations into account in the exercise of prosecutorial
+discretion. But short of such a statutory regime, and in the absence of
+“conspicuous evidence” of partisan conduct in a particular case, there is no
+violation of s. 7  of the Charter . [35]                         
+The respondents did not press the argument that
+the law violates s. 11 (d) of the Charter , except to suggest that
+an abusive prosecution may taint the entire judicial process. In my view, the
+argument that the law violates the right to an independent tribunal cannot
+succeed. [36]                         
+I conclude, accordingly, that the impugned
+provisions of the National Defence Act  do not violate s. 7  or s. 11 (d)
+of the Charter . B.           
+Did the Military Judge in the Cawthorne Matter
+Err in Declining to Grant a Mistrial? [37]                         
+The Crown says that the Court Martial Appeal
+Court should not have disturbed the military judge’s considered decision to not
+grant a mistrial. It argues that the evidence of O.S. Cawthorne’s former
+girlfriend was not inadmissible, but that even if it was, the military judge
+correctly applied the proper law. The respondent says that the inadmissibility
+of the evidence is not properly before this Court, and further that the
+military judge erred in dismissing the motion for a mistrial. [38]                         
+I would give effect to this ground of appeal.
+Even if the evidence in question was inadmissible, of which I am not convinced,
+the military judge did not err in declining to grant a mistrial. [39]                         
+The legal principles on the granting of a
+mistrial were discussed by LeBel J. in his reasons in R. v. Khan,
+2001 SCC 86, [2001] 3 S.C.R. 823. Once an error has occurred at trial, a trial
+judge may, in deciding whether to grant a mistrial, consider whether the error
+has been or can be remedied at trial: para. 79. The decision of whether to
+grant a mistrial “falls within the discretion of the judge, who must assess
+whether there is a real danger that trial fairness has been compromised”: ibid.
+That discretion is not absolute, but “its exercise must not be routinely
+second-guessed by the court of appeal”: ibid. [40]                         
+The majority of the Court Martial Appeal Court
+did not ask itself whether the judge had erred in declining to grant a
+mistrial, but instead focused on the curative proviso of s. 686(1) (b)(iii) of
+the Criminal Code, R.S.C. 1985, c. C-46 . The curative proviso applies
+only when an error has been established. The issue on appeal is the following:
+Did the military judge commit a reviewable error in declining to grant a
+mistrial? Only if the answer to that question is yes do we turn to the curative
+proviso. The Court Martial Appeal Court erred in failing to ask itself the
+right question: see Khan, at para. 19, per Arbour J. [41]                         
+In my view, the military judge did not err in
+declining to grant the motion for a mistrial. As LeBel J. stated in Khan,
+at paras. 80-82: A
+decision on whether an incident has affected trial fairness in a way which
+would warrant declaring a mistrial must take into account any corrective
+measure which has been brought, or could be brought, by the judge to remedy the
+irregularity . . . .  Thus,
+when a trial judge realizes that an error has occurred but decides not to order
+a mistrial, the court should consider the remedy selected by the judge, if any,
+as one of the elements in its assessment of whether the trial has been or has
+appeared unfair. If the remedy chosen by the judge consisted of a warning to
+the jury on what they should or should not consider in reaching their verdict,
+the ability of a jury to follow instructions must be recognized, although this
+reality is obviously subject to its own limits. . . .  Thus,
+we should not presume that jurors are incapable of following instructions given
+by the judge. On the contrary, when the judge issues a clear and forceful
+warning about the use of some information, we are entitled to presume that it
+diminishes the danger that the jury will misuse this information when rendering
+its verdict. [Emphasis added.] [42]                         
+Here, the decision not to grant a mistrial was
+within the military judge’s discretion. He made a reasonable attempt to remedy
+the error through two instructions, one immediate and another mid-trial. In his
+mid-trial instruction, he instructed the panel to disregard the evidence
+because it was both “unreliable and prejudicial”. Nothing suggested to the
+judge that the panel was unwilling or unlikely to follow his instruction. I
+would not interfere with his decision. V.          
+Conclusion [43]                         
+In the Cawthorne matter, I would dismiss O.S.
+Cawthorne’s motion to quash the appeal. Section 245(2)  of the National
+Defence Act  is constitutional. The Minister’s appeal is allowed and the
+convictions entered at trial against O.S. Cawthorne are reinstated. [44]                         
+In the Gagnon and Thibault matter, I would allow
+the Minister’s appeal.  Section 230.1  of the National Defence Act  is
+constitutional.  The matter is remitted to the Court Martial Appeal Court for
+the hearing of the appeals on the merits.                     Motion
+to quash appeal dismissed. Appeals allowed.                     Solicitor
+for the appellant: Canadian Military Prosecution Service, Ottawa.                     Solicitor
+for the respondents: Defence Counsel Services, Gatineau.                     Solicitor
+for the intervener the Attorney General of Canada: Attorney General of
+Canada, Ottawa.                     Solicitor
+for the intervener the Attorney General of Ontario: Attorney General of
+Ontario, Toronto.                     Solicitor
+for the intervener the Attorney General of Quebec: Attorney General of
+Quebec, Québec.                     Solicitor
+for the intervener the Attorney General of British Columbia: Attorney
+General of British Columbia, Victoria.                     Solicitor for
+the intervener the Director of Criminal and Penal Prosecutions of
+Quebec: Director of Criminal and Penal Prosecutions of Quebec, Québec.  

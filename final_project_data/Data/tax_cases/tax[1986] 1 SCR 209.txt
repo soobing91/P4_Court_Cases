@@ -1,0 +1,260 @@
+ The Queen v. Golden et al., [1986] 1 S.C.R. 209  Her Majesty The Queen     Appellant;  and  George Golden, Eleanor Golden, John McGuckin and Leemar Holdings Ltd.       Respondents.  File Nos.: 17708, 17709, 17710, 17711.  1985: May 2; 1986: February 28.  Present: Dickson C.J. and Beetz, Estey, Chouinard, Lamer, Wilson and La
+Forest JJ.  on appeal from the federal court of appeal                      Respondents sold in an arm's length transaction a
+plot of land containing apartment buildings for $5,850,000. The Agreement of
+Purchase and Sale expressly provided that of this total price $5,100,000 was
+allocated to land and $750,000 was allocated to "equipment, buildings,
+roads, sidewalks, etc." Pursuant to s. 68 of the Income Tax Act,
+the Minister of National Revenue reassessed the respondents' allocation of
+proceeds with the result that substantial amounts of recaptured capital cost
+allowances were added to their incomes. The respondents appealed the Minister's
+assessment to the Federal Court. The Trial Division dismissed their appeal but
+the Court of Appeal unanimously set aside the judgment with the majority
+holding that s. 68 had no application to this transaction.                     Held: The appeal should
+be dismissed.                      Finally, for the reasons given by the Federal Court
+of Appeal, the allocation of purchase price made by the parties was
+"reasonable" within the meaning of the section.                      The legislative history of s. 68 and its place
+within the scheme of the Act reinforce this plain meaning. Indeed, despite some
+similarity in language, s. 68 is not the successor of s. 20(6)(g)
+repealed the same year s. 68 was enacted. Section 68 is found in that portion
+of the Act dealing with the computation of income generally, whereas s. 20(6)(g)
+was found in the part dealing with depreciable property and capital cost
+allowances. Both provisions embody two distinct policy objectives and each has
+its own sphere of operation.   Cases Cited                     Attorney General of Canada v. Matador Inc., [1980] 2 F.C. 703; Rapistan Canada Ltd. v. Minister of National
+Revenue, [1974] 1 F.C. 739, aff'd [1976] 1 S.C.R. vi; Canadian Propane
+Gas & Oil Ltd. v. Minister of National Revenue, 73 DTC 5019; R.
+v. Malloney’s Studio Ltd., [1979] 2 S.C.R. 326; Minister of National
+Revenue v. Leon, [1977] 1 F.C. 249; Stubart Investments Ltd. v. The
+Queen, [1984] 1 S.C.R. 536, referred to.  Statutes and Regulations Cited     Authors Cited  Maxwell on the
+Interpretation of Statutes, 12th ed. by P. St. J.
+Langan, London, Sweet & Maxwell, 1969.                      APPEAL from a judgment of the Federal Court of
+Appeal, [1983] 2 F.C. 599, [1983] CTC 112, 83 DTC 5138, 47 N.R. 117, setting
+aside a judgment of the Trial Division, [1980] CTC 488, 80 DTC 6378. Appeal
+dismissed.                     Alban Garon, Q.C.,
+and Beverly J. Hobby, for the appellant.                     Gregory T. W. Bowden
+and Jacklyn Dean, for the respondents.                     The judgment of Dickson C.J. and Beetz, Estey and La
+Forest JJ. was delivered by                       68. Where an amount can reasonably be regarded as being in part the
+consideration for the disposition of any property of a taxpayer and as being in
+part the consideration for something else, the part of the amount that can
+reasonably be regarded as being the consideration for such disposition shall be
+deemed to be proceeds of disposition of that property irrespective of the form
+or legal effect of the contract or agreement; and the person to whom the
+property was disposed of shall be deemed to have acquired the property at the
+same part of that amount.                      (g)
+where an amount can reasonably be regarded as being in part the consideration
+for disposition of depreciable property of a taxpayer of a prescribed class and
+as being in part consideration for something else, the part of the amount that
+can reasonably be regarded as being the consideration for such disposition
+shall be deemed to be the proceeds of disposition of depreciable property of
+that class irrespective of the form or legal effect of the contract or
+agreement; and the person to whom the depreciable property was disposed of
+shall be deemed to have acquired the property at a capital cost to him equal to
+the same part of that amount.  This section came before the Court in R. v. Malloney’s Studio Ltd.,
+[1979] 2 S.C.R. 326, where the Court determined that the section applied to a
+disposition of depreciable property together with "something else".
+In the context of that proceeding, this meant that the Minister of National
+Revenue was not empowered by the section to reallocate a consideration received
+by the vendor from a purchaser on a sale of land "clear of all
+buildings".   5.                I find support for this construction of
+s. 68 in the French language text where the phrase "de tout bien"
+is employed in place of "any property" in the English version. Again,
+in the French version, "that property" and "the property"
+appear as "ce bien" and "le bien", and not in
+the plural form. The singular form is chosen because it is not «biens»,
+or property in general, that is contrasted with "something else", but
+rather particular property.  6.                The quantity or element in contrast to
+"any property", construed as above discussed, is the consideration
+paid for "something else". In this appeal, the issue, simply stated,
+narrows down to a determination as to whether "something else"
+includes other property or refers only to something other than property.  7.                Even a cursory examination of the result
+of the adoption of the latter alternative, namely that the "something
+else" must be something which is not in law "property", reveals
+that the section would be substantially gutted of all meaning. Section 248(1)
+of the Income Tax Act defines property as follows:  "property" means
+property of any kind whatever whether real or personal or corporeal or
+incorporeal and, without restricting the generality of the foregoing, includes  (a) a right of any
+kind whatever, a share or a chose in action,                                                                      ...      11.              I conclude that s. 68 is applicable to the
+transaction here before the Court. It is therefore necessary to determine the
+second issue, namely whether the Court of Appeal was correct in its conclusion
+that the allocation of purchase price made by the parties is
+"reasonable" within the meaning of the section. For the reasons given
+by the learned Chief Justice and Heald J. in the Court of Appeal, in the
+circumstances of this proceeding, the allocation established by the contract
+between the parties is reasonable.  12.              I therefore would dismiss the appeal in
+the manner proposed by Wilson J.                     The reasons of Chouinard, Lamer and Wilson JJ. were
+delivered by                      68. Where an amount can reasonably be regarded as being in part the
+consideration for the disposition of any property of a taxpayer and as being in
+part consideration for something else, the part of the amount that can reasonably
+be regarded as being the consideration for such disposition shall be deemed to
+be proceeds of disposition of that property irrespective of the form or legal
+effect of the contract or agreement; and the person to whom the property was
+disposed of shall be deemed to have acquired the property at the same part of
+that amount.  1. The Facts   15.              On March 7, 1973 a syndicate consisting of
+N. M. Skalbania Ltd. and others ("Skalbania") made an unsolicited
+offer to purchase the Bel Air property for the sum of $5,600,000 in accordance
+with a valuation breakdown of $2,600,000 for the land, $2,400,000 for the
+buildings and $600,000 for "trucks, equipment, roads, etc." The
+respondents rejected this offer but pursued further negotiations with
+Skalbania. These negotiations were successful and on March 14, 1973 the parties
+entered into an Agreement of Purchase and Sale stipulating a total sale price
+of $5,850,000. The Agreement expressly provided that of this total price
+$5,100,000 was allocated to land and $750,000 was allocated to "equipment,
+buildings, roads, sidewalks, etc." Based on this allocation the
+respondents reported a small taxable capital gain resulting from the sale but
+did not include any recapture of capital cost allowances in computing their
+1973 incomes. The Minister reassessed the respondents pursuant to s. 68 of the Income
+Tax Act with the result that substantial amounts of recaptured capital cost
+allowances were added to their incomes. The respondents appealed the Minister's
+reassessment to the Federal Court.  2. The Courts Below  16.              In the Federal Court Trial Division,
+[1980] CTC 488, 80 DTC 6378, Mahoney J. found that, in assessing the
+apportionment of the purchase price between land and depreciated equipment and
+buildings, the Minister can under s. 68 deem a reasonable apportionment without
+regard to the figures stipulated in the Agreement of Purchase and Sale. Indeed,
+the entire trial proceeded on the assumption that s. 68 was applicable to this
+transaction and that the only dispute was with respect to the proper approach
+to the computation of the Minister's deemed allocation. The Crown's expert land
+appraiser testified that the value of the land alone at the time of the sale
+was $2,320,000 rather than $5,100,000 as stipulated in the Agreement. This
+figure was accepted by the learned trial judge as being objectively correct. He
+then went on to consider whether s. 68 called for such an objective valuation
+or whether it was more appropriate to consider the values in question from the
+point of view of one or the other of the parties to the transaction.  17.              Mahoney J. accepted that the value of the
+Bel Air land to Skalbania in March 1973 was $5,100,000 as indicated in the
+Agreement and that this was in fact what Skalbania had agreed to pay for it.
+Emphasis was placed on the fact that Skalbania was a knowledgeable real estate
+operator dealing at arm's length with the respondent vendors and that from
+Skalbania's point of view this was not an unreasonable purchase price for the
+land in question. Mahoney J. did not, however, consider this finding to be
+determinative of the valuation issue since what was sold was not the land alone
+but other things along with it. He proceeded to reason that what must be
+determined under s. 68 is not the value of the land to the purchaser but:  ...‘the amount that can
+reasonably be regarded as being the consideration for ... disposition’ of the
+land in the circumstance [in which] that land and other things were sold.  This was perceived as a determination to be approached from the point
+of view of the vendor rather than the purchaser as it is consideration for
+disposition, not consideration for acquisition, that the section specifies.  18.              Having held that the determination is to
+be made from the vendors' rather than the purchaser's point of view, Mahoney J.
+then found that the respondents had led no evidence whatsoever upon which he
+could make such a determination. Rather than deem an allocation between the
+value of the land and the value of the depreciable property based on the
+testimony of the Crown's expert witness alone, he referred the matter back to
+the Minister for reassessment in accordance with the principle he had set out.
+Ultimately, these reassessments resulted in a substantial recapture of
+depreciation brought into the respondents' 1973 income.  19.              The respondents appealed to the Federal
+Court of Appeal, [1983] 2 F.C. 599, [1983] CTC 112, 83 DTC 5138, 47 N.R. 117.
+When the appeal came on for hearing, the Court of its own motion raised a
+question as to the applicability of s. 68 of the Income Tax Act to the
+transaction in issue. As noted above, it was evident that the action in the
+Trial Division had proceeded on the basis that s. 68 did apply. Its
+applicability or otherwise was not argued. Nor was the matter advanced as a
+ground of appeal before the Federal Court of Appeal. Accordingly, the Court
+heard the entire case as prepared by both parties and then adjourned for
+several days to enable both counsel to prepare argument on whether or not the
+section applied.   21.              By contrast, Heald J. reasoned, s. 68
+applies to the disposition of any property. Whereas s. 20(6)(g) applied
+in circumstances where an amount received by a taxpayer could reasonably be
+regarded as being in part consideration for the disposition of depreciable
+property and in part consideration for the disposition of something other than
+depreciable property, s. 68 applied only "in circumstances where an amount
+received by a taxpayer can reasonably be regarded as being in part the
+consideration for the disposition of any property and as being in part
+consideration for something else other than any property" (emphasis
+in the original). Having regard to the extremely broad definition of
+"property" found in s. 248(1) of the Act, Heald J. concluded that the
+transaction in question disposed of property alone and included nothing that
+could be characterized as something "other than any property".
+Accordingly, he held that s. 68 had no application to this transaction and that
+the allocation set out by the parties to the Agreement of Purchase and Sale
+must form the basis of the Minister's assessment.  22.              Thurlow C.J. concurred in this result. In
+separate reasons he expressed the view that, if s. 68 were applicable, the
+trial judge erred in approaching a determination under the section from the
+point of view of the vendor alone. He held that it was therefore open to the
+Court of Appeal to reach its own determination of the amount that can
+reasonably be regarded as the proceeds of disposition of the depreciable property
+included in the sale. He went on to hold that, where an allocation is made by
+the parties, the inquiry under s. 68 is not as to reasonable value but as to
+proceeds of disposition. It was open to the taxpayer to dispose of his property
+as he saw fit and to realize the greatest advantage in the disposition. Thurlow
+C.J. also stressed the fact that the trial judge had specifically found that
+$5,100,000 was not an unreasonable price for the respondents, for their own
+reasons, to insist on receiving for the land and for Skalbania to agree to pay.
+The contractual valuation of $750,000 for the depreciable property sold was
+therefore the appropriate basis on which the tax assessment should proceed.  23.              Although he based his decision on the
+above ground, Thurlow C.J. also commented on a case advanced by the Crown in
+support of its argument that s. 68 applied to this transaction. The Chief
+Justice noted that in Attorney General of Canada v. Matador Inc., [1980]
+2 F.C. 703 (C.A.), the applicability of s. 68 of the Act did not appear to have
+been seriously argued. In the view of Thurlow C.J. the case was concerned with
+s. 13 of the Act and the comments made on s. 68 by Pratte J. in a footnote to
+the judgment were not necessary to the decision. Pratte J. had expressed the
+view that where land and buildings are disposed of s. 68 applies to authorize
+an apportionment of the consideration between the land and the buildings.
+Thurlow C.J. disagreed that s. 68 applied in that case or in this one either,
+but preferred to deal with this case as if the section applied because it had
+been argued on that assumption.  3. The Applicability of s. 68  24.              Although the Crown's case is premised on
+the forceful assertion that the decision of the majority in the Federal Court
+of Appeal is contrary to "consistent judicial decisions in the past",
+the question of the applicability of s. 68 to circumstances of this type does
+not appear to have given rise to any extensive body of case law. Indeed, the
+sole authority to which counsel for the Crown referred on this point is Pratte
+J.'s footnote in Matador, supra, where he said at p. 709:  Counsel for the respondent
+suggested that section 68 was not applicable to this case. I do not agree. In
+my view, that section is applicable when `an amount can reasonably be regarded
+as being in part the consideration for the disposition of any property of a
+taxpayer and as being in part consideration' either for the disposition of
+property of another type or for something other than the disposition of
+property.  (Emphasis added.)   25.              The Crown supports this interpretation by
+pointing to the policy underlying the now repealed s. 20(6)(g) of the
+Act which is described as the predecessor of the present s. 68. That subsection
+was found in the part of the Act dealing with depreciable property and capital
+cost allowances and applied specifically to transactions in which a sum was
+received by the taxpayer "in part the consideration for disposition of
+depreciable property ... and ... in part consideration for something
+else". The cases cited by the Crown in support of the interpretation of s.
+68 adopted by Pratte J. in Matador, supra, all deal with s.
+20(6)(g) and not with s. 68 and are being invoked in an attempt to
+equate the "something else" other than depreciable property in the
+former section with the "something else" other than "any
+property" in the latter section: see Canadian Propane Gas & Oil
+Ltd. v. Minister of National Revenue, 73 DTC 5019 (F.C.T.D.) As is
+explained by Estey J. in R. v. Malloney's Studio Ltd., [1979] 2
+S.C.R. 326, s. 20(6)(g) allowed for precisely the type of allocation for
+which the Crown is arguing in the present case. Estey J. said at p. 332:  In the opening portions of
+rule (g), provision is made for the allocation of so much of the
+consideration as can reasonably be regarded as being in part the consideration
+for the disposition of depreciable property and for the allocation otherwise of
+that part of the consideration which can be reasonably regarded as having been
+paid for "something else". The rule therefore applies to the
+situation where the taxpayer has disposed of two types of property, first
+depreciable property and secondly, something else.     4. Recapture of Capital Cost Allowances  28.              It was strongly argued by the Crown that
+if the interpretation of s. 68 articulated by Heald J. in the court below is
+affirmed in this Court and the section found to be inapplicable to this
+transaction, then the legislative policy of including "recaptured"
+capital cost allowances in the taxpayer's income will be completely defeated.
+The Crown submits that the position adopted by Pratte J. in Matador, supra,
+reflects a longstanding approach to transactions such as the one in issue here
+and that Parliament has relied on this approach being maintained since no
+legislation has been introduced to achieve the effect of the former s. 20(6)(g).
+Accordingly, if s. 68 is construed as not applying to transactions like the
+present one then, it is submitted, there will be a void in the otherwise
+complete legislative scheme dealing with the depreciation of capital property
+and recapture of capital cost allowances.   30.              Upon receiving proceeds of disposition of
+depreciated property the taxpayer must "recapture" any amount written
+off of the property as capital cost allowance over the years before calculating
+any capital gain on the property. Section 13(1) of the Act requires that any
+recaptured amount be included in the computation of the taxpayer's ordinary
+income since it was deducted from income in the first place under s. 20(1)(a).
+So long as the proceeds of disposition are greater than the undepreciated
+capital cost of the property (i.e. the point to which the property has
+been depreciated through the deduction of annual capital cost allowance) there
+will be some recaptured capital cost to be included in the taxpayer's income in
+the year of disposition. If the proceeds of disposition are greater than the
+adjusted cost base (i.e. the initial capital cost) of the property then,
+of course, the recaptured amount brought into ordinary income will be the total
+of all capital cost allowances deducted over the years and the amount by which
+the proceeds exceed the adjusted cost base will be characterized under s. 38(a)
+as a taxable capital gain.   5. Conclusions  1. Section 68 of the Income Tax Act on its plain meaning applies
+only to transactions in which there has been a disposition of property and
+something else other than property. That is not the case here.  2. The legislative history of s. 68 and its place within the scheme of
+the Act reinforce this plain meaning. Despite some similarity in language
+between the former s. 20(6)(g) and s. 68, the latter is not the
+successor of the former.                        Appeal dismissed.                     Solicitor for the appellant: Roger Tassé, Ottawa.                     Solicitors for the respondents: Birnie, Sturrock
+& Bowden, Vancouver.   

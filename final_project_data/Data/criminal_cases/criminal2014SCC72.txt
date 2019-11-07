@@ -1,0 +1,1615 @@
+  SUPREME
+COURT OF CANADA  Citation:  Wakeling v. United States of America, 2014 SCC 72, [2014]
+  3 S.C.R. 549 Date: 20141114 Docket: 35072  Between: Andrew
+Gordon Wakeling Appellant and Attorney
+General of Canada on behalf of the United States of America and Attorney
+General of British Columbia Respondents And Between: Andrew
+Wakeling Appellant and Attorney
+General of Canada on behalf of the Minister of Justice Respondent - and - Attorney
+General of Ontario, Attorney General of Quebec, Canadian Civil Liberties
+Association, British Columbia Civil Liberties Association, Information and
+Privacy Commissioner of Ontario and Privacy Commissioner of Canada Interveners  Coram: McLachlin C.J. and LeBel, Abella, Rothstein, Cromwell,
+Moldaver and Karakatsanis JJ.  Reasons
+  for Judgment: (paras. 1 to 82)  Concurring
+  Reasons: (paras. 83 to 101)  Dissenting
+  Reasons: (paras. 102 to 151) Moldaver J. (LeBel and Rothstein JJ.
+  concurring)   McLachlin C.J.   Karakatsanis J. (Abella and Cromwell JJ.
+  concurring)     wakeling v.
+united states of america, 2014 SCC
+72, [2014] 3 S.C.R. 549 Andrew Gordon Wakeling                                                                            Appellant v. Attorney General of Canada on behalf of the United States of America and Attorney General of British
+Columbia                                                    Respondents and Andrew Wakeling                                                                                           Appellant v. Attorney General of Canada on
+behalf of the Minister of Justice          Respondent and Attorney General of Ontario, Attorney General of Quebec, Canadian Civil Liberties Association, British Columbia Civil Liberties
+Association, Information and Privacy Commissioner of
+Ontario and Privacy Commissioner of Canada                                                              Interveners Indexed as:  Wakeling v. United States of America 2014 SCC 72 File No.:  35072. 2014:  April 22; 2014:  November 14. Present:  McLachlin C.J. and LeBel, Abella, Rothstein, Cromwell,
+Moldaver and Karakatsanis JJ. on appeal from the court of appeal for british columbia                     Constitutional law — Charter of Rights  —
+Search and seizure — Fundamental justice — Interception of communications —
+Exemption from offence of disclosing intercepted private communication without
+consent — Provision of Criminal Code  exempting disclosure of lawfully intercepted
+private communication to person or authority with responsibility in a foreign
+state for investigation or prosecution of offences if disclosure is intended to
+be in the interests of the administration of justice in Canada or elsewhere —
+Whether provision unjustifiably infringes s. 7  or 8  of the Canadian Charter of
+Rights and Freedoms  — Criminal Code, R.S.C. 1985, c. C-46, s. 193(2) (e).                     Criminal law —
+Interception of communications — Disclosure of information — Exemption from
+offence — Whether exemption provision which authorizes sharing of lawfully
+obtained wiretap information between Canadian and foreign law enforcement
+agencies is constitutional — Canadian Charter of Rights and Freedoms, ss. 7 , 8 
+— Criminal Code, R.S.C. 1985, c. C-46, s. 193(2) (e).                     The
+RCMP lawfully intercepted private communications between W and others that
+revealed a plot to transport drugs into the United States of America. The
+wiretap information was disclosed to U.S. authorities, who used it to seize a
+large quantity of ecstasy pills at a border crossing. The U.S. requested W’s
+extradition. At the extradition hearing, W submitted that legislation
+authorizing the disclosure violates ss. 7  and 8  of the Canadian Charter of
+Rights and Freedoms , and the intercepted communications should not be
+admitted as evidence. The extradition judge rejected W’s arguments and issued a
+committal order. The Court of Appeal dismissed the appeal.                     Held
+(Abella, Cromwell and Karakatsanis JJ. dissenting):  The appeal should be
+dismissed.                     Per
+LeBel, Rothstein and Moldaver JJ.:  The ability to share information between law enforcement agencies
+facilitates the effective investigation of domestic and multi-jurisdictional
+crime. Part VI of the Criminal Code  sets out a comprehensive scheme intended
+by Parliament to exclusively govern the interception and use of private
+communications for law enforcement purposes. Therefore,
+there is no need to consider the
+constitutionality of s. 8(2) (f) of the Privacy Act. Section
+193(2) (e) of the Criminal Code  is the governing provision in this
+case. Although not structured as an explicit authorizing provision, it
+implicitly authorizes cross-border disclosure of lawfully intercepted wiretap
+information. Accordingly, the arguments raised by W properly go to the
+constitutionality of s. 193(2) (e).                     Section 8  of the Charter  is
+engaged. Although a disclosure is not a search within the meaning of s. 8 , s. 8 
+protects wiretap targets at both the interception and disclosure stages under
+Part VI of the Criminal Code . Wiretap interceptions are highly invasive and
+pose heightened privacy concerns. There is a residual, albeit diminished,
+expectation of privacy in wiretap information after it has been lawfully
+collected. W’s s. 7  arguments need not be addressed. They are subsumed under the s. 8  analysis.                     In order for a search to be
+reasonable under s. 8 , it must be authorized by law, the law itself must be reasonable,
+and the search must be carried out in a reasonable manner. This same framework
+applies, mutatis mutandis, to disclosures made pursuant to s. 193(2) (e).
+Applying this framework to the facts at hand, there is no violation of s. 8 . The disclosure in this case was lawfully authorized by s. 193(2) (e),
+and the legislation, taken as a whole, is reasonable. Furthermore, there is no
+evidence that the manner of disclosure was unreasonable.                     With respect to the first step of
+the s. 8  framework, the disclosure in this case was authorized by law. A
+disclosure will be authorized by law where it is carried out in accordance with
+the procedural and substantive requirements the law provides. Section 193(2) (e)
+requires that the recipient must be a person or authority with responsibility
+in a foreign state for the investigation or prosecution of offences, and the
+disclosure must be intended to be in the interests of the administration of
+justice in Canada or elsewhere. The disclosure in this case was provided to
+U.S. law enforcement authorities for the purpose of foiling a cross-border drug
+smuggling operation. In making the disclosure, Canadian authorities intended to
+advance the administration of justice in Canada and the United States.                     Turning to the second step, s.
+193(2) (e) is a reasonable law. First, it is not unconstitutionally
+overbroad. It limits the type of information that may be disclosed, the purpose for which it may
+be disclosed, and the persons to whom it may be disclosed. Second, it is not
+unconstitutionally vague. While “the administration of
+justice” as used in s. 193(2) (e) is a broad concept, it is not one that
+so lacks in precision as to give insufficient guidance for legal debate. In
+this context, the phrase “the administration of justice” means that the
+disclosure must be for a legitimate law enforcement purpose.                     Third, s. 193(2)(e) is not
+unconstitutional for lack of accountability or transparency mechanisms. Part VI of the Criminal
+Code  contains numerous privacy safeguards. The judicial authorization relating to the
+initial interception requires privacy interests to be balanced with the
+interests of law enforcement. The interception of communications is also
+subject to notice and reporting requirements. Additionally, accountability has
+been built into the disclosure scheme itself. A disclosure that fails to comply
+with s. 193(2) (e) can lead to criminal charges against the disclosing
+party or result in the exclusion of improperly disclosed evidence at a
+subsequent proceeding. This provides a powerful incentive for Canadian
+authorities to comply with s. 193(2) (e). Finally, although not
+constitutionally mandated in every case, adherence to international protocols
+and the use of caveats or information-sharing agreements may be relevant in
+determining whether a disclosure was intended to advance the administration of
+justice, and therefore was authorized by s. 193(2) (e).                     As
+regards the third step of the s. 8  framework, the use of protocols, caveats, or
+agreements may also be relevant to assessing whether the disclosure was carried
+out in a reasonable manner. The
+disclosure in this case was carried out in a reasonable manner. Nothing
+suggests that the police acted unreasonably. However,
+in different factual contexts, there may be significant potential dangers posed
+by the disclosure of intercepted communications to foreign authorities. Where a disclosing party knows or should
+have known that the information could be used in unfair trials, to facilitate
+discrimination or political intimidation, or to commit torture or other human
+rights violations, s. 8  requires that the disclosure, if permissible at all, be
+carried out in a reasonable manner. In the most serious cases, s. 8  will forbid
+disclosure. In other cases, information-sharing protocols or caveats may
+sufficiently mitigate the risks.                     Per
+McLachlin C.J.:  The only issue on this appeal is whether the disclosure of the
+intercepted communications violated s. 8  of the Charter , and, if so,
+whether the evidence should have been excluded under s. 24(2) . It is not
+necessary to consider the constitutionality of s. 193(2)(e), s. 193(2)(b)
+or the Privacy Act to answer that question. W has not shown an
+infringement of his s. 8  rights. The individual whose communications are
+lawfully intercepted under a valid and reasonably executed warrant cannot
+complain that use of the information for law enforcement breaches his right to
+privacy. This principle is not confined to the use of information in Canada.
+Sharing the information for purposes of law enforcement does not violate s. 8 . Sections
+7  and 8  of the Charter  protect against unreasonable uses of lawfully
+intercepted information but in this case, where the information was disclosed
+to U.S. authorities for law enforcement purposes, these residual concerns about
+unreasonable use do not arise. W’s rights were not violated.                     Section
+193(2)(e) does not change this. It is not an authorizing
+provision. It does not confer a power on Canadian authorities to share
+information with foreign counterparts. The provision operates by exempting
+officers from prosecution where they disclosed intercepted communications under
+their common law powers. Section 193(1)  of the Criminal Code  makes it an
+offence to disclose intercepted private communications without consent. Section
+193(2)(e) is an exemption from that offence. It preserves the common law
+power of law enforcement authorities to share lawfully obtained information for
+purposes of law enforcement both domestically and abroad. The exception
+prevents law enforcement officers from being convicted for using information
+obtained under warrant for purposes of law enforcement. It is therefore
+unnecessary to opine on the constitutionality of s. 193(2)(e).                     Per
+Abella, Cromwell and Karakatsanis JJ. (dissenting):  Section 193(2)(e)
+violates s. 8  of the Charter  in a manner that is not justified under s. 1 .
+It permits disclosure of wiretapped information to foreign officials
+without safeguards or restrictions on how the information may be used and
+without accountability measures for this broad state power. Nothing restrains
+foreign law enforcement officials from using this highly personal information
+in unfair trials or in ways that violate human rights norms, from publicly
+disseminating the information, or from sharing it with other states. The torture of Maher Arar in Syria provides a chilling example of
+the dangers of unconditional information sharing. Section 8  requires that when
+a law authorizes intrusions on privacy, it must do so in a reasonable manner. A
+reasonable law must have adequate safeguards to prevent abuse. It must avoid intruding
+farther than necessary. It must strike an appropriate balance between privacy
+and other public interests. Section 193(2)(e) falls short on all three
+counts. The permitted disclosure to foreign officials without safeguards
+renders the Part VI wiretap regime of the Criminal Code  unconstitutional.
+The appropriate remedy is to strike the words “or to a person or authority with
+responsibility in a foreign state” from s. 193(2)(e). It is unnecessary
+to consider the constitutionality of s. 8(2) (f) of the Privacy Act
+or arguments with respect to s. 7  of the Charter .                     Balancing
+the state’s interest in a search and the public interest in protecting privacy
+involves asking what level of privacy protection we are entitled to expect.
+International cooperation and information sharing are essential to law
+enforcement. Canadian interests are served by appropriate information sharing
+with other jurisdictions. Timely disclosure will often be critical in the
+investigation of serious transnational crimes. However, when information is
+shared across jurisdictional lines, safeguards that apply in domestic investigations
+lose their force. Section 193(2)(e) does nothing to prevent the use of
+disclosed information in proceedings which fail to respect due process and
+human rights. The requirement of prior judicial authorization does not provide
+sufficient protection against inappropriate future use. The failure to require
+caveats on the use of disclosed information is unreasonable. Caveats or
+standing agreements would not undermine the objectives of the wiretap scheme. They
+are commonplace in international law enforcement cooperation and provide some
+assurance that disclosed information will only be used in accordance with
+respect for due process and human rights.                     For
+a law to provide reasonable authority for a search or seizure, it must include
+some mechanism to permit oversight of state use of the power. Accountability
+mechanisms deter and identify inappropriate intrusions on privacy. None of the
+safeguards in Part VI apply to disclosure to foreign officials. Improper or
+hazardous information sharing is unlikely to come to light without record-keeping,
+reporting or notice obligations. It is for Parliament to decide what measures
+are most appropriate, but, at a minimum, the disclosing party should be
+required to create a written record and to make the sharing known to the target
+or to government.                     The
+infringement of s. 8  of the Charter  is not justified under s. 1 . The
+objective of international cooperation in law enforcement is pressing and substantial, and disclosure of wiretap information is
+rationally connected to that objective. However, s. 193(2)(e) as it is
+presently drafted interferes with privacy to a greater extent than necessary. The
+inclusion of accountability mechanisms and limits on subsequent use would cure
+the constitutional deficiencies without undermining Parliament’s goals. Cases Cited By Moldaver J.                     Distinguished:
+R. v. Tse, 2012 SCC 16, [2012] 1 S.C.R.
+531; referred to:  British
+Columbia v. Imperial Tobacco Canada Ltd., 2005 SCC 49, [2005] 2 S.C.R. 473;
+R. v. Duarte, [1990] 1 S.C.R. 30; Imperial Oil v. Jacques, 2014
+SCC 66, [2014] 3 S.C.R. 287; R. v. Caslake, [1998] 1 S.C.R. 51; R.
+v. Collins, [1987] 1 S.C.R. 265; R. v. Nova Scotia Pharmaceutical Society, [1992] 2 S.C.R. 606; R. v. Samson
+(1982), 37 O.R. (2d) 237; R. v. Finlay (1985), 52 O.R. (2d) 632. By McLachlin C.J.                     Referred
+to:  R. v. Colarusso, [1994] 1 S.C.R. 20; R. v. Law, 2002 SCC
+10, [2002] 1 S.C.R. 227; R. v. Cole, 2012 SCC 53, [2012] 3 S.C.R. 34; Imperial
+Oil v. Jacques, 2014 SCC 66, [2014] 3 S.C.R. 287. By Karakatsanis J. (dissenting)                     R.
+v. Duarte, [1990] 1 S.C.R. 30; R. v. Collins, [1987] 1 S.C.R. 265; R. v. Rodgers, 2006 SCC 15, [2006] 1 S.C.R. 554; R.
+v. Tse, 2012 SCC 16, [2012] 1 S.C.R. 531; R. v. Quesnelle, 2014 SCC
+46, [2014] 2 S.C.R. 390; United States of America v. Cotroni, [1989] 1
+S.C.R. 1469; R. v. Hape, 2007 SCC 26, [2007] 2 S.C.R. 292; R. v.
+Plant, [1993] 3 S.C.R. 281; R. v. Tessling, 2004 SCC 67, [2004] 3
+S.C.R. 432; Brown v. The Queen, 2013 FCA 111, 2013 D.T.C. 5094; R. v. Mills,
+[1999] 3 S.C.R. 668; R. v.
+McNeil, 2009 SCC 3, [2009]
+1 S.C.R. 66; R. v. Colarusso, [1994] 1 S.C.R. 20; Lavallee, Rackel
+& Heintz v. Canada (Attorney General), 2002 SCC 61, [2002] 3 S.C.R. 209;
+Hunter v. Southam Inc., [1984] 2 S.C.R. 145; R. v. Thompson,
+[1990] 2 S.C.R. 1111; R. v. Oakes, [1986] 1 S.C.R. 103; Schachter v.
+Canada, [1992] 2 S.C.R. 679; R. v. Ferguson, 2008 SCC 6, [2008] 1 S.C.R. 96; Corbiere v.
+Canada (Minister of Indian and Northern Affairs), [1999] 2 S.C.R. 203. Statutes and Regulations Cited Act to amend the Criminal Code , the Crown Liability and Proceedings
+Act  and the Radiocommunication Act, S.C. 1993, c. 40. Canadian Charter of Rights and Freedoms,
+ss. 1 , 7 , 8 , 24 . Criminal Code, R.S.C. 1985, c. C-46 , Part
+VI, ss. 183, 184.1, 184.2, 184.4, 185, 186, 193, 195, 196, 487.01(5). Municipal
+Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. M.56,
+s. 8(1). Privacy
+Act, R.S.C. 1985, c. P-21, s. 8 . Response to the Supreme Court of Canada Decision in R. v. Tse Act, S.C. 2013, c. 8 . Authors Cited Austin,
+Lisa M.  “Information Sharing and the ‘Reasonable’ Ambiguities of Section 8  of
+the Charter ” (2007), 57 U.T.L.J. 499. Canada.  Commission of Inquiry into the Actions of Canadian
+Officials in Relation to Maher Arar. Report of the Events Relating to Maher
+Arar:  Analysis and Recommendations. Ottawa:  Public Works and Government
+Services, 2006. Franklin, Ben A. “Wiretaps reveal Dr. King feared rebuff on nonviolence”,
+The New York Times, September 15, 1985. Roach, Kent. “Overseeing Information Sharing”, in Hans Born and
+Aidan Wills, eds., Overseeing Intelligence Services:  A Toolkit. Geneva: 
+Geneva Centre for the Democratic Control of Armed Forces, 2012, 129. Sanchez, Julian. “Wiretapping’s true danger”, Los Angeles Times,
+March 16, 2008. United Kingdom. Intelligence and Security Committee. Rendition.
+London:  The Committee, 2007.                     APPEAL
+from a judgment of the British Columbia Court of Appeal (Low, Groberman and
+MacKenzie JJ.A.), 2012 BCCA 397, 328 B.C.A.C. 174, 558 W.A.C. 174, 293 C.C.C.
+(3d) 196, 267 C.R.R. (2d) 279, [2012] B.C.J. No. 2057 (QL), 2012 CarswellBC
+3067, affirming a decision of Ross J., 2011 BCSC 165, 268 C.C.C. (3d) 295, 228
+C.R.R. (2d) 239, [2011] B.C.J. No. 212 (QL), 2011 CarswellBC 1468. Appeal dismissed,
+Abella, Cromwell and Karakatsanis JJ. dissenting.                     Gregory P. Delbigio,
+Q.C., for the appellant.                     W. Paul Riley and Jeffrey
+G. Johnston, for the respondent the Attorney General of Canada on behalf of
+the United States of America and on behalf of the Minister of Justice.                     M. Joyce DeWitt-Van Oosten, Q.C., for the respondent the Attorney General of British
+Columbia.                     Joan Barrett, for
+the intervener the Attorney General of Ontario.                     Jean-Vincent Lacroix,
+Dominique A. Jobin and Émilie-Annick Landry-Therriault, for the
+intervener the Attorney General of Quebec.                     Peter M. Rogers,
+Q.C., and Jane O’Neill, for the intervener the Canadian Civil Liberties
+Association.                     Michael A. Feder and
+Emily MacKinnon, for the intervener the British Columbia Civil Liberties
+Association.                     David Goodis and Stephen
+McCammon, for the intervener the Information and Privacy Commissioner of
+Ontario.                     Mahmud Jamal, Patricia
+Kosseim and Jennifer Seligy, for the intervener the Privacy
+Commissioner of Canada.                     The judgment of LeBel,
+Rothstein and Moldaver JJ. was delivered by                     Moldaver J. — I.             
+Introduction [1]                             
+The ability to share information between law
+enforcement agencies, including lawfully intercepted wiretap information,
+facilitates the effective investigation of both domestic and
+multi-jurisdictional crime. But the effective investigation of crime must
+proceed in accordance with the rights guaranteed by the Canadian Charter of
+Rights and Freedoms . The main issue in this appeal is whether federal
+legislation which authorizes the sharing of lawfully obtained wiretap
+information between Canadian and foreign law enforcement agencies is
+constitutional — specifically, whether the legislation falls short of the
+constitutional standards mandated by the Charter . II.          
+Background [2]                             
+Andrew Gordon Wakeling was the subject of a
+Canadian drug investigation. Over the course of the investigation, the RCMP
+lawfully monitored and recorded communications between Mr. Wakeling and others.
+These communications revealed a plot to transport drugs across the Canada-U.S.
+border. Canadian authorities provided this information to U.S. authorities (the
+“Impugned Disclosure”), who used it to intercept and seize 46,000 ecstasy pills
+at the International Falls, Minnesota border crossing on April 5, 2006. [3]                             
+The U.S. sought Mr. Wakeling’s extradition from
+Canada for his involvement in the ecstasy shipment. At the extradition hearing,
+Mr. Wakeling submitted that the legislation authorizing the Impugned Disclosure
+was unconstitutional. Specifically, he argued that the provisions breach ss.  7 
+and 8  of the Charter , and that the wiretap information provided to U.S.
+law enforcement authorities should therefore not be admitted as evidence
+against him. [4]                             
+The extradition judge, Ross J., rejected Mr.
+Wakeling’s arguments and issued a committal order. That order was upheld by the
+British Columbia Court of Appeal. Before this Court, Mr. Wakeling requests that
+the committal order be quashed and that a new extradition hearing be held. [5]                             
+For the reasons that follow, I would dismiss Mr.
+Wakeling’s appeal. III.       
+Statutory Provisions [6]                             
+Section 193  of the Criminal Code, R.S.C.
+1985, c. C-46 , states: 193.
+(1) Where a private communication has been intercepted
+by means of an electro-magnetic, acoustic, mechanical or other device without
+the consent, express or implied, of the originator thereof or of the person
+intended by the originator thereof to receive it, every one who, without the
+express consent of the originator thereof or of the person intended by the
+originator thereof to receive it, wilfully  (a)
+uses or discloses the private communication or any part thereof or the
+substance, meaning or purport thereof or of any part thereof, or  (b)
+discloses the existence thereof,  is guilty of an indictable
+offence and liable to imprisonment for a term not exceeding two years.  (2)
+Subsection (1) does not apply to a person who discloses a private communication
+or any part thereof or the substance, meaning or purport thereof or of any part
+thereof or who discloses the existence of a private communication  . . .  (b)
+in the course of or for the purpose of any criminal investigation if the
+private communication was lawfully intercepted;  . . .  (e) where disclosure is
+made to a peace officer or prosecutor in Canada or to a person or authority
+with responsibility in a foreign state for the investigation or prosecution of
+offences and is intended to be in the interests of the administration of
+justice in Canada or elsewhere; or . . . [7]                             
+Section 8  of the Privacy Act, R.S.C.
+1985, c. P-21 , states: 8. (1) Personal information under the control of a government
+institution shall not, without the consent of the individual to whom it
+relates, be disclosed by the institution except in accordance with this
+section.  (2)
+Subject to any other Act of Parliament, personal information under the control
+of a government institution may be disclosed  . . .  (b) for any
+purpose in accordance with any Act of Parliament or any regulation made
+thereunder that authorizes its disclosure;  . . .  (f)
+under an agreement or arrangement between the Government of Canada or an
+institution thereof and the government of a province, the council of the
+Westbank First Nation, the council of a participating First Nation — as defined
+in subsection 2(1)  of the First Nations Jurisdiction over Education in
+British Columbia Act  — , the government of a foreign state, an
+international organization of states or an international organization
+established by the governments of states, or any institution of any such
+government or organization, for the purpose of administering or enforcing any
+law or carrying out a lawful investigation;  . . . [8]                             
+Finally, ss. 7 and 8 of the Charter 
+state: 7. Everyone has the right to life, liberty and security of the person
+and the right not to be deprived thereof except in accordance with the
+principles of fundamental justice.  8. Everyone has the right to be secure against unreasonable search or
+seizure. IV.       
+Judicial History A.          
+Supreme Court of British Columbia, 2011 BCSC
+165, 268 C.C.C. (3d) 295 (Ross J.) [9]                             
+At his extradition hearing, Mr. Wakeling
+restricted his constitutional challenge to s. 193(2) (e) of the Criminal
+Code  and s. 8(2) (f) of the Privacy Act . He made a variety
+of broad and sweeping submissions in support of his contention that the
+impugned provisions do not pass constitutional muster. [10]                         
+Mr. Wakeling submitted that transparency,
+accountability and the rule of law are principles of fundamental justice under
+s. 7  of the Charter  and that the provisions in question are
+unconstitutional because the disclosure they authorize does not comply with
+these principles (trial judgment, at para. 42). He also argued that both
+provisions breach s. 7  of the Charter  because they are vague and overbroad.
+With respect to s. 193(2) (e), he submitted that it “provides virtually
+unlimited discretion to law enforcement” to disclose wiretap communications and
+he criticized the subjective nature of the test it employs (ibid., at
+para. 99). He further submitted that the phrase “the interests of the
+administration of justice . . . elsewhere” is “incapable of framing
+legal debate within Canada” and that it does not have a “constant and settled
+meaning” (ibid.). In his view, the effect of these uncertainties is that
+decision-makers are given “unrestricted latitude . . . to disclose
+intercepted private communications or the substance of the communications, and
+to be exempt from the application of the offence provisions of Part VI” (ibid.). [11]                         
+With respect to s. 8  of the Charter , Mr.
+Wakeling submitted that the Impugned Disclosure re-engaged s. 8  such that a second
+judicial authorization was needed before the disclosure could occur. In this
+regard, he submitted that his privacy interests at the disclosure stage were
+the same as those he enjoyed at the interception stage and deserved the same
+protection (trial judgment, at para. 68). Hence, he argued that a second
+judicial authorization should be required prior to disclosure, and that the
+provisions in question are unreasonable because they do not provide for this. 
+He also submitted that the provisions are unreasonable because they do not
+contain sufficient accountability mechanisms such as a police record-keeping
+requirement, a requirement to report to Parliament about the disclosures, or an
+obligation to provide notice of the disclosure to the person whose
+communications were intercepted. Finally, he took issue with the fact that
+Canadian authorities have little control over the subsequent use of the
+disclosed information (para. 116). [12]                         
+The extradition judge considered and rejected
+all of Mr. Wakeling’s arguments. In her view, the constitutionality of s. 8(2) (f)
+of the Privacy Act  did not need to be considered because s. 193(2) (e)
+of the Criminal Code  “expressly governs disclosure of private
+communications intercepted under Part VI of the Criminal Code  to foreign
+law enforcement authorities” and “[t]he more general information sharing rules
+in the Privacy Act  are subject to the specific provisions of [the Criminal
+Code ]” (para. 21). [13]                         
+Turning to Mr. Wakeling’s constitutional
+arguments, the extradition judge concluded that the Impugned Disclosure did not
+re-engage s. 8  of the Charter , as the Impugned Disclosure was “not
+conduct that interferes with a reasonable expectation of privacy in the
+circumstances” (para. 75). Thus, the disclosure did not amount to “a search or
+seizure that engages s. 8  of the Charter ” (ibid.). In the
+alternative, she reasoned that if the Impugned Disclosure engaged s. 8,
+s. 193(2)(e) is a reasonable law. [14]                         
+The extradition judge also rejected Mr.
+Wakeling’s submission that transparency and accountability are principles of
+fundamental justice that apply to s. 193(2) (e). In her view, “[e]ven if
+these concepts could be characterized as principles of fundamental justice in
+some contexts, they could not realistically be applied to the manner in which
+police investigate criminal activity” (para. 48). [15]                         
+The extradition judge similarly rejected Mr.
+Wakeling’s submission that s. 193(2) (e) is vague and overbroad, noting
+that in making
+the arguments on vagueness and overbreadth that he does, the applicant demands
+a level of drafting precision from Parliament that is neither constitutionally
+mandated, nor realistic. By necessity, the wording of s. 193(2) (e) had to be
+kept fairly broad to capture the myriad of ways in which a need to disclose “in
+the interests of the administration of justice” might arise. The law must
+retain flexibility since laws must of necessity govern a variety of different circumstances
+and situations. [para. 108] [16]                         
+Lastly, the extradition judge rejected Mr.
+Wakeling’s rule of law argument. Relying on this Court’s decision in British
+Columbia v. Imperial Tobacco Canada Ltd., 2005 SCC 49,
+[2005] 2 S.C.R. 473, she found Mr. Wakeling’s submissions to be “circular,
+since the measures are themselves embodied in the law” (para. 53). [17]                         
+Having rejected Mr. Wakeling’s legal arguments,
+the extradition judge considered the evidence and found that it was sufficient
+to warrant his committal. B.           
+British Columbia Court of Appeal, 2012 BCCA 397,
+328 B.C.A.C. 174 (Low, Groberman and MacKenzie JJ.A.) [18]                         
+On appeal, Mr. Wakeling reiterated his challenge
+to the constitutionality of s. 193(2) (e) of the Criminal Code  and
+s. 8(2) (f) of the Privacy Act . The B.C. Court of Appeal, per
+Low J.A., agreed with the extradition judge that s. 193(2) (e) was the
+governing provision for the specific disclosure at issue. Hence, the court
+found it unnecessary to consider the constitutionality of s. 8(2) (f) of
+the Privacy Act . [19]                         
+In addressing Mr. Wakeling’s s. 8  claim, Low
+J.A. concluded that the state conduct did not interfere with any reasonable
+privacy expectation to which Mr. Wakeling could lay claim. The court thus
+rejected Mr. Wakeling’s s. 8  argument. As the Impugned Disclosure did not
+re-engage s. 8  of the Charter , no second judicial authorization was
+needed. [20]                         
+Low J.A. similarly concluded that Mr. Wakeling’s
+fundamental justice submissions pertaining to transparency and accountability
+were without merit: The impugned provision does not have to
+be transparent by requiring prior notice and there is no need for a reporting
+requirement of some sort after the fact.  The information gathered by lawful
+electronic interception becomes law enforcement intelligence.  In my opinion,
+it is no different than information obtained from a police informer or
+information contained in documents that lawfully come into the hands of the
+police.  If disclosure is in the interests of the administration of justice,
+there is no need for prior judicial approval or for notice or for reporting.  Such
+requirements would formalize and hamper the inter-jurisdictional investigation
+of crime and sometimes the prevention of crime.  Control of the use of
+lawfully-gathered police intelligence by foreign authorities is not practical
+and would be presumptuous. What is practical and necessary for both crime
+detection and crime prevention is the ability of police officers to lawfully
+inform their counterparts in other jurisdictions about impending criminal
+activity, as occurred in the present case, or past criminal activity. [para.
+43] [21]                         
+Finally, the court rejected Mr. Wakeling’s
+vagueness and overbreadth arguments, noting that “[t]he administration of
+justice is a concept that is well understood and needs no clarification or
+narrowing” (para. 44). In the result, the court dismissed the appeal. C.           
+Issues [22]                         
+On appeal to this Court, Mr. Wakeling renews his
+constitutional attack on s. 193(2) (e) of the Criminal Code  and s.
+8(2) (f) of the Privacy Act , relying on the same arguments he made
+below. He also raises for the first time, with leave of the Court, the
+constitutionality of s. 193(2)(b) of the Code.  He maintains that
+all of these provisions infringe his rights under ss. 7  and 8  of the Charter ,
+and that the infringements are not justified under s. 1 . V.          
+Analysis [23]                         
+I propose initially to explain why this appeal
+turns on the constitutionality of s. 193(2) (e) of the Criminal Code 
+and not s. 193(2)(b) of the Code or s. 8(2) (f) of the Privacy
+Act . I will then address Mr. Wakeling’s Charter  arguments as they
+relate to s. 193(2) (e). A.          
+The Privacy Act  Does Not Apply [24]                         
+The Privacy Commissioner of Canada, an
+intervener, submits that contrary to the lower court decisions, the RCMP must
+comply with both the Criminal Code  and the Privacy Act 
+when disclosing intercepted private communications to a foreign state, as
+“[n]othing in the Criminal Code  relieves the RCMP from their duty to
+comply with the Privacy Act ” (factum, at para. 13). According to the
+Privacy Commissioner, s. 193(2)(e) of the Criminal Code  “limits
+the breadth of the criminal prohibition” set out in s. 193 , “[b]ut this
+exemption neither authorizes a disclosure under the Privacy Act  nor is
+itself a source of police power” (para. 14). [25]                         
+With respect, I do not agree. The federal Privacy
+Act  is a statute of general application. Section 8(2) of the Act sets
+out the circumstances in which personal information under the control of a
+government institution may be disclosed. That section explicitly states that it
+is “[s]ubject to any other Act of Parliament”. Therefore, prior to considering
+the disclosure contemplated by s. 8(2) , it must first be determined whether
+another Act of Parliament addresses the particular disclosure in issue. In this
+case, the Impugned Disclosure (involving lawfully intercepted private
+communications) is specifically addressed by another Act of Parliament —
+the Criminal Code . [26]                         
+Part VI of the Criminal Code  represents a
+comprehensive scheme dealing with the interception of private communications.
+The individual right to privacy stands in tension with our collective need for
+effective law enforcement, and the safeguards layered into the wiretap
+provisions show Parliament’s efforts to “reconcile these competing interests” (R.
+v. Duarte, [1990] 1 S.C.R. 30, at p. 45). As noted by the extradition
+judge, Part VI . . . creates a
+specific regime for the protection of privacy interests in relation to
+intercepted communications by creating specific offences, setting out
+procedures for authorized interception of private communications in the
+investigation of specific crimes, and delineating the circumstances under which
+intercepted communications may be disclosed. [para. 22] This level of detail and
+specificity in Part VI indicates that Parliament intended this framework to be
+the exclusive regime governing the interception and use of private
+communications for law enforcement purposes.[1] [27]                         
+Section 193(2)(e) deals directly with the
+issue at hand — namely, the cross-border disclosure of wiretap information.
+Admittedly, s. 193(2) is not structured as an explicit authorizing provision.
+Rather, it takes the form of a series of exemptions to the criminal offence
+identified in s. 193(1) . Nonetheless, I am satisfied that it represents
+Parliament’s attempt to regulate the disclosure of intercepted communications
+and specify the circumstances in which such disclosures may lawfully be made.
+Succinctly put, s. 193(2)(e) implicitly authorizes the disclosure of
+wiretap information in accordance with the conditions prescribed therein. [28]                         
+For these reasons, s. 193(2) (e) of the Criminal
+Code , and not s. 8(2) (f) of the Privacy Act , is the
+governing provision in this case. Accordingly, I need not consider the
+constitutionality of s. 8(2) (f). [29]                         
+In concluding that s. 193(2) (e) is an
+authorizing provision, I do not quarrel with the Chief Justice that, in
+general, the police may look to the common law for authority to use the fruits
+of a lawful search for legitimate law enforcement purposes, including
+disclosures to foreign law enforcement agencies. However, adopting this
+analysis in the wiretap context poses a problem. Finding that s. 193(2) (e)
+is not an authorizing provision, but merely an exception to a criminal
+offence, implies that none of the subparts of s. 193(2)  are authorizing
+provisions, and that authorization for all of the listed disclosures must come
+from some other source. This, however, does not accord with the Court’s recent
+decision in Imperial Oil v. Jacques, 2014 SCC 66, [2014] 3 S.C.R.
+287, in which the majority held that the exemptions in s. 193(2)  “give a person the right to disclose recordings that otherwise could
+not be disclosed” (para. 43).[2] Therefore, in my view, s. 193(2) (e)
+is properly read as an authorizing provision. B.           
+Section 193(2) (b) Need Not Be Considered [30]                         
+As noted, Mr. Wakeling was granted leave to
+challenge the constitutionality of s. 193(2) (b) of the Criminal Code 
+before this Court. In contrast to s. 193(2) (e), which addresses the cross-border
+disclosure of wiretap communications, s. 193(2) (b) authorizes the
+disclosure of wiretap communications “in the course of or for the purpose of
+any criminal investigation”. [31]                         
+Mr. Wakeling made only cursory mention of s.
+193(2) (b) in argument. As his complaint is specific to the issue of
+international, cross-border sharing of wiretap information for criminal law
+purposes, it is properly considered under s. 193(2) (e). For that reason
+— and the fact that Mr. Wakeling did not press s. 193(2) (b) in written
+or oral argument — I see no need to address its constitutionality. C.           
+Does the Impugned Disclosure Violate Section 8
+of the Charter ? (1)        
+Is Section 8 Engaged? [32]                         
+Section 8 is typically invoked where police
+perform a search or seizure and thereby infringe upon an individual’s
+reasonable expectation of privacy. It is quite evident that the interception of
+wiretap communications constitutes a search. However, the disclosure of
+previously intercepted communications — which is what s. 193(2) (e)
+implicitly authorizes — is not, in my view, a “search” within the meaning of s.
+8. Therefore, as a preliminary matter, it is important to clarify precisely how
+s. 8 is engaged in the present case. I now turn to that issue. [33]                         
+Mr. Wakeling submits that s. 8 is engaged
+because the disclosure of his intercepted communications pursuant to s. 193(2) (e)
+amounted to a second search, such that a second judicial authorization was
+necessary prior to the Impugned Disclosure. Absent such authorization, he
+argues that the police violated his s. 8 rights. [34]                         
+With respect, I disagree. As the intervener the
+British Columbia Civil Liberties Association (“BCCLA”) observes, the plain
+meaning of “search” does not include the disclosure of information by the
+state. A disclosure is simply the communication to a third party of previously
+acquired information. [35]                         
+In sum, there was only one search that engaged
+s. 8  of the Charter  on the facts of this case — the original lawful
+interception of Mr. Wakeling’s private communications. For this reason, to
+invoke s. 8 , the appellant must rely on some other analytical approach. [36]                         
+The BCCLA frames the s. 8 analysis in a
+different way. It submits that to the extent s. 193(2) (e) permits
+disclosure of the fruits of a search, it forms “part of the context in which
+courts must assess the reasonableness of the law authorizing the search”
+(factum, at para. 3). [37]                         
+This submission warrants brief elaboration.
+According to the BCCLA, s. 193(2)(e) is an integral part of a search
+regime for wiretap interceptions set out in Part VI of the Criminal Code .
+Like all laws authorizing searches, that regime — including any integral part
+of that regime — must be reasonable in order to comply with s. 8  of the Charter .
+Therefore, if s. 193(2) (e) is held to be unreasonable, this would taint
+the overall regime for s. 8  purposes and render it unconstitutional. [38]                         
+While I see some merit in the analytical
+approach proposed by the BCCLA, my conclusion that s. 8 protects targets at
+both the interception and disclosure stages under Part VI is more a
+function of the special dangers associated with wiretaps. Parliament has
+recognized that wiretaps pose heightened privacy concerns beyond those inherent
+in other searches and seizures. Justice Karakatsanis describes (at para. 116)
+the serious privacy implications of electronic surveillance, citing this
+Court’s caution that “one can scarcely imagine a state activity more dangerous
+to individual privacy” (Duarte, at p. 43). Given these implications, the
+protections that Parliament has seen fit to fold into the wiretap regime
+include s. 193  which provides that, other than for one of the delineated
+purposes, the disclosure of wiretap information is not only unauthorized, it is
+criminal. [39]                         
+The highly intrusive nature of electronic
+surveillance and the statutory limits on the disclosure of its fruits suggest a
+heightened reasonable expectation of privacy in the wiretap context. Once a
+lawful interception has taken place and the intercepted communications are in
+the possession of law enforcement, that expectation is diminished but not extinguished.
+This heightened and continuing expectation of privacy in the wiretap context is
+further indication that s. 8 ought to apply to disclosures under Part VI. [40]                         
+In sum, while I acknowledge the Chief Justice’s
+concern that s. 193(2)(e) does not engage s. 8 simply by virtue of its
+integral place in the search regime of Part VI, that is not the sole
+reason — or indeed the main one — why I conclude that s. 8 is engaged in this
+context. As I have emphasized, Parliament has recognized that wiretap
+interceptions are an exceptional and invasive form of search, and it is
+therefore perfectly appropriate, in my view, that s. 8 protections should
+extend to wiretap disclosures by law enforcement. Furthermore, there is a
+residual and continuing expectation of privacy in wiretap information that
+persists even after it has been lawfully collected. Indeed, the Chief
+Justice agrees that “residual privacy interests” remain at the time of
+disclosure and that s. 8 protects against unreasonable uses of the information
+by law enforcement (para. 95). I am therefore satisfied that s. 8 is properly
+engaged. (2)        
+The Analytical Framework Under Section 8 of the Charter [41]                         
+In order for a search to be reasonable under s.
+8  of the Charter , “[it] must be authorized by law, the law itself must
+be reasonable, and the search must be carried out in a reasonable manner” (R.
+v. Caslake, [1998] 1 S.C.R. 51, at para. 10; see also R. v.
+Collins, [1987] 1 S.C.R. 265, at p. 278). I reiterate that a disclosure is
+not, standing alone, a “search” within the meaning of the Charter .
+However, for the reasons outlined above, s. 8  is engaged. Therefore, in my
+view, the s. 8  framework applies, mutatis mutandis, to disclosures made
+by law enforcement pursuant to s. 193(2) (e) of the Criminal Code . [42]                         
+Following the approach outlined above, I will
+address each step of the s. 8 framework independently: (1) whether the Impugned
+Disclosure was authorized by law; (2) whether the law authorizing the Impugned
+Disclosure is reasonable; and (3) whether the Impugned Disclosure was carried
+out in a reasonable manner. (3)        
+Was the Impugned Disclosure Authorized by Law? [43]                         
+For ease of reference, I repeat s. 193(2) (e): (2)
+Subsection (1) does not apply to a person who discloses a private communication
+or any part thereof or the substance, meaning or purport thereof or of any part
+thereof or who discloses the existence of a private communication  . . .  (e)
+where disclosure is made to a peace officer or prosecutor in Canada or to a
+person or authority with responsibility in a foreign state for the
+investigation or prosecution of offences and is intended to be in the interests
+of the administration of justice in Canada or elsewhere . . . [44]                         
+A disclosure will be authorized by law where it
+is “carried out in accordance with the procedural and substantive requirements
+the law provides” (Caslake, at para. 12). Section 193(2) (e)
+imposes two essential requirements. First, with respect to cross-border
+disclosures, the recipient must be “a person or authority with responsibility
+in a foreign state for the investigation or prosecution of offences”. Second,
+the disclosure must be “intended to be in the interests of the administration
+of justice in Canada or elsewhere”. [45]                         
+Under the second requirement, the relevant
+intention is that of the disclosing party. For the disclosure to be authorized
+by law, that party must subjectively believe that the disclosure will advance
+the interests of the administration of justice in Canada and/or the foreign
+state. The belief must be honestly and genuinely held. The credibility of the
+disclosing party’s expressed intent can be tested against objective facts. [46]                         
+The disclosure in this case was authorized by
+law. No one contends otherwise. The intercepted communications were provided to
+U.S. authorities for the purpose of foiling a cross-border drug smuggling
+operation. When Canadian authorities shared information about the operation
+with their American counterparts, they intended to advance the administration
+of justice in Canada and the United States. The requirements under s. 193(2) (e)
+were therefore satisfied. (4)        
+Is Section 193(2)(e) a Reasonable Law? [47]                         
+The parties’ submissions focus on the second
+step of the s. 8 framework, that is the reasonableness of s. 193(2)(e).
+They argue, and Justice Karakatsanis agrees, that this provision is
+constitutionally deficient. I do not share that view. As I will explain, s.
+193(2)(e) is a reasonable law. (a)         
+Overview of the Parties’ Charter Challenges [48]                         
+Mr. Wakeling and the BCCLA raise a host of Charter 
+arguments challenging the constitutionality of s. 193(2) (e). For the
+sake of clarity, these arguments can be broken down into three distinct (though
+somewhat overlapping) categories: (1) s. 193(2) (e) is unconstitutionally
+overbroad; (2) s. 193(2) (e) is unconstitutionally vague; and (3) s. 193(2) (e)
+is unconstitutional because it lacks accountability mechanisms. Viewed
+individually and collectively, these arguments challenge the reasonableness of
+the law authorizing the Impugned Disclosure. As such, they are properly
+considered under the second step of the s. 8  framework. (i)          
+Overbreadth [49]                         
+The BCCLA’s main line of attack on s. 193(2)(e)
+is that it creates an almost “limitless” scope for disclosure of private
+intercepted communications. In failing to place reasonable, or indeed any
+limits on disclosure, the provision effectively grants police untrammeled
+discretion and is ripe for abuse by both domestic and foreign authorities. This
+argument strikes me as very similar to Mr. Wakeling’s submission that s.
+193(2)(e) is unconstitutionally overbroad and thus contravenes the
+principles of fundamental justice in violation of s. 7  of the Charter . I
+am of the view that both of these arguments can be dealt with together under
+the reasonableness framework of s. 8 . To put it simply, a law that suffers from
+overbreadth will necessarily be unreasonable. (ii)        
+Vagueness [50]                         
+Mr. Wakeling argues that the language of s.
+193(2)(e) is so vague as to be unworkable. He makes this argument under
+s. 7  of the Charter , asserting that the phrase “in the interests of the
+administration of justice” does not have a constant and settled meaning. Like
+the argument on overbreadth, I believe that this argument can be disposed of
+under s. 8 . A provision that is unconstitutionally vague will necessarily be
+unreasonable. (iii)      
+Accountability Mechanisms [51]                         
+Mr. Wakeling and the BCCLA submit that s.
+193(2)(e) is unconstitutional since it is devoid of mechanisms to hold
+authorities accountable for their disclosures of intercepted communications. In
+particular, they are concerned that the provision lacks sufficient safeguards,
+including judicial pre-authorization, notice and record-keeping requirements,
+Parliamentary reporting, as well as international protocols and caveats
+limiting the use of disclosed information. [52]                         
+Mr. Wakeling’s accountability argument goes
+somewhat further than that of the BCCLA. He claims that accountability — and
+the related value of transparency — are principles of fundamental justice under
+s. 7 . I find it unnecessary to finally decide that issue. The accountability
+concerns identified by Mr. Wakeling and the BCCLA are best dealt with under s.
+8. As this Court’s decision in R. v. Tse, 2012 SCC 16, [2012]
+1 S.C.R. 531, notes, accountability forms part of the reasonableness analysis
+under s. 8. [53]                         
+Having outlined the three categories of
+objections to s. 193(2)(e), I will now address each of them in greater
+depth. (b)        
+Is the Scope of Disclosure Authorized by Section
+193(2)(e) Unconstitutionally Overbroad? [54]                         
+Both Mr. Wakeling and the BCCLA take issue with
+the extent of disclosure that s. 193(2)(e) authorizes for substantially
+similar reasons. Both submit that s. 193(2)(e) permits “near-limitless
+disclosure of private communications intercepted by wiretap” (BCCLA factum, at
+para. 3; see also A.F., at paras. 129-30). [55]                         
+With respect, I believe that Mr. Wakeling and
+the BCCLA overstate the nature and extent of the disclosure contemplated by s.
+193(2)(e). A law may be broad without suffering from overbreadth. While
+the provision authorizes a wide scope of disclosure, it does not permit
+“near-limitless” disclosure of lawfully intercepted communications. On the
+contrary, it limits the type of information that may be disclosed, the purpose
+for which it may be disclosed, and the persons to whom it may be disclosed. [56]                         
+Second, the BCCLA notes that the provision
+allows disclosure where it is intended to be “in the interests of the
+administration of justice in Canada or elsewhere” and submits that the
+use of the word “or” means that disclosure could be in the sole
+interests of the foreign state, and not Canada’s. According to the
+BCCLA, “it is never reasonable to disclose an intercepted private communication
+to a foreign state when to do so is only in the foreign state’s interests and
+not Canada’s” (factum, at para. 33). [57]                         
+With respect, I reject this line of thinking.
+Multi-jurisdictional cooperation between law enforcement authorities furthers
+the administration of justice in all of the jurisdictions involved. It
+must not be forgotten that Canada is often on the receiving end of
+valuable information from foreign law enforcement authorities. The language of
+s. 193(2)(e) appropriately captures the reciprocity inherent in this
+practice. [58]                         
+Third, the BCCLA submits that “on its face, s.
+193(2)(e) permits disclosure even to support torture, or to prosecute an
+offence in a foreign state that violates Canadian constitutional norms or
+international law, provided only that someone intends that disclosure to
+be in the interests of the administration of justice somewhere” (factum,
+at para. 10 (emphasis in original)). It also contends that s. 193(2)(e)
+“opens the door to disclosures to foreign states that are motivated by Canadian
+authorities’ political, financial, personal, or other interests, as long as the
+foreign state’s intention relates to the interests of its
+administration of justice” (ibid., at para. 13 (emphasis in original)). [59]                         
+Once again, I disagree. Under s. 193(2)(e),
+it is the disclosing party’s intention that matters. The provision
+requires that the disclosing party must subjectively believe that disclosure
+will further the interests of justice in Canada and/or the foreign state. The
+belief must be an honest one, genuinely held. If the disclosing party’s
+subjective belief is challenged, the reviewing judge may look at objective
+indicators in deciding whether the disclosing party is to be believed.
+Measuring the stated belief against objective facts is an accepted way of
+separating beliefs that are honestly and genuinely held from those that are
+not. [60]                         
+A disclosing party who knows little or nothing
+about the justice system in the foreign state or who does not know how or for
+what purpose the foreign state intends to use the information will have a hard
+time satisfying a court that he or she genuinely believed that disclosure would
+further the interests of the administration of justice. The same holds true for
+a disclosing party who knows or has reason to believe that the information will
+be used to commit torture or other human rights violations, or for someone who
+has sent the information for personal or partisan reasons. That a disclosing
+party may have his or her credibility tested against objective indicators
+incentivizes that person to proceed cautiously when disclosing information to a
+foreign state. Given these limitations inherent in s. 193(2)(e), I am
+not persuaded that the provision grants police a “limitless” power to
+disclose. (c)         
+Is Section 193(2)(e) Unconstitutionally Vague? [61]                         
+I will now address Mr. Wakeling’s objection that
+s. 193(2)(e) is unconstitutionally vague. He contends that the phrase
+“where disclosure . . . is intended to be in the interests of the
+administration of justice in Canada or elsewhere” is “unworkable” because “the
+decision maker would be required to have a full appreciation and understanding
+of the laws of the country which will receive the disclosure” (A.F., at para.
+126). He also argues that “the administration of justice” does not have a constant
+and settled meaning (para. 129). [62]                         
+Like the extradition judge and the Court of
+Appeal, I would not give effect to these submissions. This Court in R. v.
+Nova Scotia Pharmaceutical Society, [1992] 2 S.C.R. 606, stated that “a law
+will be found unconstitutionally vague if it so lacks in precision as not to
+give sufficient guidance for legal debate” (p. 643). Section 193(2)(e)
+does not offend in this regard. It sets out who must intend that the
+disclosure be in the interests of the administration of justice (the person
+disclosing the information) and to whom the information may be disclosed
+(to a peace officer or prosecutor in Canada or to a person or authority with
+responsibility in a foreign state for the investigation or prosecution of
+offences). Moreover, while “the administration of justice” is a broad concept,
+it is not one that so lacks in precision as to give insufficient guidance for
+legal debate. As Borins Co. Ct. J. in R. v. Samson (1982), 37 O.R. (2d)
+237, explained: . . . “administration of justice”,
+with particular reference to the criminal law, is a compendious term that
+stands for all the complexes of activity that operate to bring the substantive
+law of crime to bear, or to keep it from coming to bear, on persons who are
+suspected of having committed crimes. It refers to the rules of law that govern
+the detection, investigation, apprehension, interviewing and trial of persons
+suspected of crime and those persons whose responsibility it is to work within
+these rules. The administration of justice is not confined to the courts; it
+encompasses officers of the law and others whose duties are necessary to ensure
+that the courts function effectively. The concern of the administration of
+justice is the fair, just and impartial upholding of rights, and punishment of
+wrongs, according to the rule of law. [pp. 246-47] In the context of s. 193(2)(e),
+the phrase “the administration of justice” means that disclosure must be for a
+legitimate law enforcement purpose, such as the prevention of cross-border drug
+trafficking. It is not unconstitutionally vague. (d)        
+Is Section 193(2)(e) Unconstitutional for Lack
+of Accountability Mechanisms? [63]                         
+Mr. Wakeling and the BCCLA also make a variety
+of submissions pertaining to accountability and the related value of transparency.
+They take issue with the fact that s. 193(2)(e) contains no
+record-keeping requirement, nor any requirement that would “attempt to
+constrain the foreign state’s use and dissemination of the communications”
+(BCCLA factum, at para. 2). The essence of these arguments is that s. 193(2)(e)
+inadequately protects the privacy interests at stake and that, absent
+procedural requirements such as notice to the target of the disclosure,
+protocols or international agreements, police record keeping, and Parliamentary
+reporting, s. 193(2)(e) is unconstitutional. [64]                         
+In making these arguments, Mr. Wakeling and the
+BCCLA rely on Tse, where the constitutionality of s. 184.4  of the Criminal
+Code  was in issue. That provision permitted peace officers to intercept
+certain private communications without judicial authorization if an officer
+believed, on reasonable grounds, that the interception was immediately
+necessary to prevent an unlawful act that would cause serious harm. In striking
+it down, this Court held that “s. 184.4  falls down on the matter of
+accountability because the legislative scheme does not provide any mechanism
+to permit oversight of the police use of this power” (para. 11 (emphasis
+added)). [65]                         
+In my opinion, Tse is distinguishable
+from the present case. First, the statutory scheme at issue in Tse
+contained no accountability measures. As I will explain, that is not the
+case with s. 193(2)(e). [66]                         
+Second, the impugned provision in Tse
+involved warrantless searches and seizures. Accountability measures,
+including after-the-fact notice and reporting requirements, are of particular
+importance in that context. The emergency wiretap provision, by its very
+nature, allows the police to conduct a warrantless search in exigent
+circumstances. No balancing of interests before a judge occurs. In contrast,
+Mr. Wakeling’s private communications were intercepted pursuant to a judicial
+authorization. Issuing the authorization required the judge to balance Mr.
+Wakeling’s privacy interests with the interests of law enforcement. A variety
+of procedural safeguards were adhered to. Unlike an emergency wiretap
+situation, Mr. Wakeling’s privacy interests were afforded significant
+protection at the interception stage. [67]                         
+Section 193(2)(e) must be considered in
+context. In my view, it is inappropriate “to seize upon individual sections of
+[the wiretap scheme] and to see if those sections, viewed in isolation,
+contravene the provisions of the Charter ” (R. v. Finlay (1985),
+52 O.R. (2d) 632 (C.A.), at p. 653). Rather, the proper approach is to consider
+the “provisions and the safeguards contained therein in their entirety” (ibid.).
+Section 193(2) (e) is part of a unique statutory scheme that contains
+numerous privacy safeguards, including notice and reporting requirements.
+Pursuant to s. 196(1)  of the Criminal Code , an individual who has been
+wiretapped must be provided with written notification within three months of
+the time the authorization was given or renewed, subject to judicially
+authorized extensions. These extensions may be authorized, for instance, where
+providing notice to the suspect would derail an ongoing police investigation. [68]                         
+While Parliament could perhaps, as a matter of
+policy, require a second notice relating specifically to a s. 193(2)(e)
+disclosure, there are inherent difficulties with such a requirement. In order
+to decide whether to apply for an extension of time in providing notice of
+disclosure, Canadian authorities would have to keep abreast of all foreign
+investigations involving the disclosed information. Without such knowledge, it
+would be impossible for them to know whether providing notice of the disclosure
+to the suspect would derail or otherwise compromise a foreign investigation. [69]                         
+To require Canadian authorities to stay on top
+of all foreign investigations that involve the disclosed information is surely
+unreasonable. It would be highly burdensome, if not entirely impractical. In my
+view, the absence of a requirement to provide a second notice does not render
+the wiretap regime unconstitutional. [70]                         
+As noted, the existing notice requirements
+contained in Part VI of the Criminal Code  ensure that all individuals
+who have been wiretapped are provided with notice of this fact. Once notified,
+individuals may wish to know whether their intercepted communications have been
+disclosed to a foreign authority. An individual may make a request pursuant to
+the applicable access to information statute in an effort to obtain this
+information. Justice Karakatsanis correctly notes that such efforts may not
+always be successful, depending on the details of the applicable access to
+information regime and the individual’s circumstances. I express no view on
+whether a guaranteed right of access to this information would be advisable —
+only that it is not constitutionally required. [71]                         
+As for Parliamentary reporting, the Minister of
+Public Safety and Emergency Preparedness must prepare an annual report to
+Parliament on the use of electronic surveillance pursuant to s. 195  of the Criminal
+Code . Once again, Parliament could require that disclosures made under s.
+193(2) (e) be included in an annual report. But that is a policy
+decision, and it is important that this Court separate policy matters from
+constitutional imperatives — especially in this context where international
+relations are involved. As this Court stated in Tse, a reporting
+requirement to Parliament is not a constitutional imperative (para. 89). [72]                         
+Contrary to the submissions of Mr. Wakeling and
+the BCCLA, s. 193(2)(e) is not devoid of accountability measures.
+Rather, accountability has been built into the scheme for the disclosure of
+wiretap communications. Section 193(1)  provides a powerful incentive for
+Canadian authorities to comply with the dictates of s. 193(2)(e). The
+failure to do so can lead to criminal charges against the disclosing party or
+result in the exclusion of the improperly disclosed evidence at a subsequent
+proceeding in Canada. The possibility of criminal sanction or the loss of
+important evidence creates an incentive to maintain records about what
+information was disclosed, to whom, and for what purpose. Indeed, according to
+the evidence of the Deputy Commissioner of Canada West, Gary David Bass, who
+testified with respect to certain RCMP practices and procedures, the RCMP have
+a number of internal record-keeping policies that apply to the cross-border
+sharing of information. [73]                         
+While police record keeping is not, in my view,
+constitutionally required for disclosures made under s. 193(2)(e), I
+should not be taken as discouraging the practice. Likewise, these reasons are
+not intended to discourage Parliament from instituting reporting requirements
+or establishing international agreements between Canada and foreign states to
+address cross-border disclosure of wiretap communications. The record at hand
+indicates that many agreements are in place between law enforcement agencies.
+The record also shows that information is often disclosed with caveats as to
+its subsequent use. [74]                         
+Although not constitutionally mandated,
+adherence to international protocols and the use of caveats or information-sharing
+agreements may be highly relevant in determining whether a given disclosure was
+authorized by law under s. 193(2)(e). These objective indicators may
+assist a court in assessing whether disclosure was genuinely intended to
+advance the interests of the administration of justice. Moreover, as I discuss
+below in reference to the third step of the s. 8 framework, they will also
+impact on whether the manner of disclosure is found to be reasonable. [75]                         
+In considering the possible accountability and
+transparency mechanisms that Parliament could enact, certain realities cannot
+be ignored. Even where the information is disclosed to a foreign state with a
+legal system much like our own, once the information is in the hands of the
+foreign state, its use will, for the most part, be beyond our purview. Such is
+a defining feature of state sovereignty. Caveats on disclosure and
+information-sharing protocols may be desirable, and they may be relevant to
+evaluating whether a disclosure is intended to be in the interest of the
+administration of justice (as required at the first step of the s. 8 analysis)
+or is carried out reasonably (as required at the third step). However, they are
+not constitutionally required in every case, nor would they be a panacea if
+they were — certainly not standard-form agreements or caveats accompanying
+every disclosure, as Justice Karakatsanis’s proposal would likely generate.
+There is always a risk that a foreign law enforcement agency may misuse
+the information disclosed to it under s. 193(2)(e). This risk can never
+be entirely eliminated, regardless of the nature and extent of the procedural
+safeguards in place in Canada, and it must not be allowed to undermine the
+vital interests served by the detection and prosecution of multi-jurisdictional
+crime. In this regard, I re-emphasize that Canada is frequently on the receiving
+end of such disclosures — and Canadians are safer for it. [76]                         
+ I do not gainsay the possibility that a foreign
+law enforcement agency could misuse the information provided to it by Canadian
+authorities. In such cases, there are certain avenues Canada may pursue where
+the subsequent use of information disclosed to a foreign state offends our own
+notions of justice. For example, where the disclosed information is being used
+to seek the extradition of an individual who faces a realistic prospect of
+torture or other human rights violations in a foreign country, Canada can
+refuse the extradition request to avoid a manifest violation of the Charter .
+Likewise, if the information in question is found to have been unlawfully
+obtained, its use in an extradition proceeding — or in any other legal venue —
+could be challenged. In other contexts, Canada could exert pressure through
+diplomatic channels. There are various ways that Canada pursues its objectives
+on the international stage — founded on the principles of comity and state
+sovereignty — which may have application in a particular case. [77]                         
+It bears emphasizing that this Court’s task is
+not to determine whether there may be better or additional accountability
+measures or stricter language that could be put in place with respect to the
+cross-border disclosure of wiretap communications. Any attempt to micromanage
+Parliament in this context must be approached with great care. The task at hand
+is to determine whether s. 193(2)(e) passes constitutional muster. As
+discussed, there are a number of accountability measures contained within Part
+VI and within s. 193(2)(e) itself, and the scope of the disclosure
+contemplated by s. 193(2)(e) is, in my view, entirely reasonable. For
+these reasons, I conclude that the impugned legislation does not fall short of
+the constitutional standards mandated by s. 8  of the Charter . (5)        
+Was the Impugned Disclosure Carried Out in a
+Reasonable Manner? [78]                         
+Having determined that s. 193(2)(e) is a
+reasonable law and that it was complied with in this case, the remaining
+inquiry is whether the manner of the Impugned Disclosure was
+unreasonable, and therefore violates s. 8  of the Charter . Nothing in the
+record suggests that the police acted unreasonably in disclosing Mr. Wakeling’s
+intercepted communications to U.S. authorities. Neither the Chief Justice nor
+Justice Karakatsanis suggest otherwise. Common sense would suggest that
+similarly unremarkable and entirely reasonable instances of law enforcement
+cooperation to combat cross-border criminal activity occur on a daily basis
+between Canadian and U.S. authorities. Saddling police with the obligation of
+imposing boilerplate caveats on even the most routine disclosures poses an
+unnecessary burden. It would do little to safeguard the interests protected by
+s. 8  while impeding legitimate law enforcement operations. [79]                         
+Nothing further is needed to dispose of the
+instant case. However, in different factual contexts, there may be significant
+potential dangers posed by the disclosure of intercepted communications to
+foreign authorities. Given these dangers, a broader discussion of the third
+step of the s. 8 framework is warranted. [80]                         
+Where a disclosing party knows or should have
+known that the information could be used in unfair trials, to facilitate
+discrimination or political intimidation, or to commit torture or other human
+rights violations — concerns rightly expressed by Justice Karakatsanis — s. 8
+requires that the disclosure, if permissible at all, be carried out in a
+reasonable manner. In the most serious examples, where there are no steps that
+could be taken to mitigate the danger, s. 8 forbids disclosure entirely. I
+should emphasize that this inquiry as to the manner of disclosure is distinct
+from whether disclosure would be authorized by law pursuant to s. 193(2)(e)
+— although, as a practical matter, the two inquiries may overlap. For example,
+where the risks are so great that there is no manner of disclosure that
+would be objectively reasonable, a disclosing party would find it difficult to
+prove that he or she believed that the disclosure was “in the interests of the
+administration of justice” under any plausible meaning of that term. [81]                         
+In other cases, a disclosure could be reasonably
+carried out where the use of information-sharing protocols or the imposition of
+caveats would sufficiently mitigate the risks. An example may be useful to
+illustrate this point. Suppose that Canadian authorities know or ought to know
+that a foreign government, to which they are contemplating a disclosure, may
+pass on the information to a third country that could exploit it to harm a
+Canadian citizen. In that context, the failure to include a caveat limiting
+subsequent use of the disclosed information, even where the disclosing party
+intended to further the administration of justice, might render the disclosure
+unreasonable under s. 8. In such cases, therefore, the existence of appropriate
+safeguards will play a crucial role in determining the constitutionality of a
+challenged disclosure. It is by mandating appropriate safeguards on a
+case-by-case basis, rather than inflexibly requiring them in all situations,
+that a proper balance is struck between protecting against unreasonable
+disclosures of private communications and facilitating the effective
+investigation of domestic and multi-jurisdictional crime. VI.       
+Conclusion [82]                         
+Inter-agency cooperation is critical to the
+prevention, detection, and punishment of cross-border crime. Recognizing this,
+Parliament has authorized the cross-border sharing of wiretap communications
+under s. 193(2) (e) of the Criminal Code . The disclosure in this
+case was lawfully authorized by that provision, and the legislation, taken as a
+whole, does not violate s. 8  of the Charter . Furthermore, there is no
+evidence that the manner of disclosure was unreasonable. Accordingly, I would
+dismiss the appeal.                     The following are
+the reasons delivered by [83]                         
+The Chief
+Justice — I have read the reasons of my colleagues Moldaver J. and
+Karakatsanis J., who come to different conclusions about the constitutionality
+of s. 193(2) (e) of the Criminal Code, R.S.C. 1985, c. C-46 , and
+the measures that should be in place to govern sharing information obtained
+under warrant with law enforcement agencies in other countries. [84]                         
+I approach the matter differently.  In my view,
+the question on this appeal is whether Mr. Wakeling’s rights under s. 8  of the Canadian
+Charter of Rights and Freedoms  were violated.  The constitutionality of s.
+193(2) (e) becomes an issue only if Mr. Wakeling can show that s. 193(2) (e)
+infringed his s. 8  rights.  In my view, he has not shown this.  Accordingly, I
+would dismiss the appeal. I.         
+Background [85]                         
+Moldaver J. has set out the facts and judicial
+history of the case.  Briefly put, Mr. Wakeling was the subject of a Canadian
+drug investigation.  In the course of the investigation, the RCMP obtained a
+warrant to monitor communications between Mr. Wakeling and others.  The
+communications revealed a plot to transport drugs across the Canada-U.S. border. 
+The RCMP shared information obtained from the communications with U.S.
+authorities, who used it to intercept and seize 46,000 ecstasy pills at the
+International Falls, Minnesota border crossing. [86]                         
+The U.S. sought Mr. Wakeling’s extradition from
+Canada to face charges arising from the seizure of the ecstasy pills.  At the
+hearing, Mr. Wakeling argued that the RCMP’s disclosure of the information
+obtained from the intercepted communications violated his rights under s. 8  of
+the Charter  and that the evidence should not be admitted against him. [87]                         
+The extradition judge held that there was no
+violation of Mr. Wakeling’s s. 8  rights, admitted the evidence, and issued a
+committal order for extradition.  The British Columbia Court of Appeal dismissed
+Mr. Wakeling’s appeal. II.          
+The Issue [88]                         
+The main — and in my view the only — issue on
+this appeal is whether the RCMP’s disclosure of the intercepted communications
+to U.S. authorities violated Mr. Wakeling’s s. 8  rights and, if so, whether the
+evidence should have been excluded under s. 24(2)  of the Charter . [89]                         
+In my view, it is not necessary to consider the
+constitutionality of s. 193(2) (e) of the Criminal Code  to answer
+that question.  I agree with my colleagues that it is unnecessary to consider
+the Privacy Act, R.S.C. 1985, c. P-21 , or s. 193(2) (b) of the Criminal
+Code . III.       
+Analysis [90]                         
+Section 8  of the Charter  protects
+individuals against unreasonable search and seizure.  It provides:      Everyone has the right to be
+secure against unreasonable search or seizure. [91]                         
+Section 8  protects the individual’s privacy
+interest against unreasonable state intrusion.  Here, Mr. Wakeling has a
+reasonable expectation of privacy in his communications with others.   In order
+to obtain private information by intercepting communications, the state must
+obtain a judicial warrant, which requires the state to demonstrate that there
+are reasonable grounds to believe the interception will show evidence of a
+crime.  (Circumstances where the state can intercept without a warrant
+are not relevant here, e.g., s. 184.4  of the Criminal Code .)  Where such
+grounds exist, the individual’s privacy interest in the intercepted
+communication gives way to the state’s interest in law enforcement. [92]                         
+The warrant allows the police to obtain the
+information and to use it for purposes of law enforcement.  The individual
+whose communications are lawfully intercepted under a valid warrant cannot
+complain that this unreasonably breaches his privacy.  To put it
+metaphorically, a valid warrant sanitizes the state intrusion on privacy, as
+long as the execution of the warrant is reasonable and the information is used
+for purposes of law enforcement. [93]                         
+It has never been suggested that this principle
+is confined to the use of information in Canada.  The reality is that crime
+does not stop at national borders, and police routinely share information that
+they have lawfully obtained under warrant with their counterparts in other
+countries.  Provided information is shared for purposes of law enforcement, the
+individual cannot complain that the sharing violates his s. 8  right to privacy. [94]                         
+This Court has found that s. 8  is violated in
+cases where the information was seized in a context outside law
+enforcement and then passed along for the purpose of law enforcement:  R. v.
+Colarusso, [1994] 1 S.C.R. 20;  R. v. Law, 2002 SCC 10, [2002] 1
+S.C.R. 227; and R. v. Cole, 2012 SCC 53, [2012] 3 S.C.R. 34.  In those
+cases, the “sanitizing” effect of the warrant (or similar authorization
+process) was absent; the individual’s privacy interest had not been balanced
+against the state’s interest in law enforcement through judicial
+pre-authorization.  Where, as here, that process has taken place, disclosure
+for law enforcement purposes does not violate s. 8 . [95]                         
+Once information is obtained under warrant, s. 8 
+protects against unreasonable uses of that information.  For example,
+information obtained under warrant cannot be used for rendition to a foreign
+country (the Maher Arar case discussed by Karakatsanis J.) or public
+titillation.  Section 7  of the Charter  may also be engaged where
+disclosure gives rise to a concern that the recipient country will use the
+information to kill, torture or mistreat the target.  These concerns do not
+arise on the facts of this case.  Where these residual privacy interests are infringed,
+remedies may include prosecution of the disclosing officer under s. 193(1)  of
+the Criminal Code  and remedies under s. 24(1)  of the Charter . [96]                         
+It follows that sharing information obtained
+under warrant for law enforcement purposes with foreign law officers does not
+violate s. 8 , absent the residual concerns just discussed.  Here, the
+information was disclosed to the U.S. authorities for law enforcement purposes,
+and none of the residual concerns arise.  It follows that Mr. Wakeling’s rights
+were not violated, and his appeal must fail. [97]                         
+The question is whether s. 193(2) (e) of
+the Criminal Code  changes this.  I do not think it does.  As I
+state in Imperial Oil v. Jacques, 2014 SCC 66, [2014] 3 S.C.R. 287, at
+para. 89, I am of the view that s. 193(2)  is not an authorizing provision.
+Section 193(2) (e) does not confer a power on Canadian authorities to
+share information obtained under warrant with foreign counterparts. Rather, it
+operates by exempting officers from prosecution where they disclose intercepted
+private communications under their common law powers.  Section 193(1) , the
+offence provision, is intended to guard against the disclosure of intercepted
+private communications by making it an offence to do so without the consent of
+the individual concerned.  Section 193(2)  then lists a number of exemptions
+from what otherwise would be an offence by virtue of s. 193(1) .  The exception
+in s. 193(2) (e) demonstrates that the common law power to use
+information obtained under warrant for law enforcement purposes is one of the
+categories of disclosure protected from liability as an offence under s.
+193(1) .  I agree with my colleague Moldaver J. when he says that “the
+administration of justice” in s. 193(2) (e) refers only to use for
+legitimate law enforcement purposes.  The provision therefore preserves the
+common law power of law enforcement authorities to share lawfully obtained
+information for purposes of law enforcement both domestically and abroad.  In a
+nutshell, the exception prevents law enforcement officers from being convicted
+for doing their job — using information obtained under warrant for purposes of
+law enforcement. [98]                         
+It is therefore unnecessary to opine on the
+constitutionality of s. 193(2) (e) of the Criminal Code .  To do so
+invites speculation, as the eloquent reasons of my colleagues demonstrate:  one
+says the current legislative scheme provision is unconstitutional, the other
+says it is eminently reasonable.  We should not send Parliament back to the
+legislative drawing board on the basis of hypothetical speculation, where it is
+not established that the law infringes anyone’s s. 8  rights. [99]                         
+For the same reasons, I find it unnecessary to
+consider the constitutionality of the Privacy Act .  Assuming without
+deciding that the Privacy Act  applies, it permits the disclosure of
+personal information for the purposes of law enforcement.  It is specifically
+permitted under s. 8(2) (f)[3]
+and more generally as a use consistent with the purpose for which the
+information was obtained under s. 8(2) (a).[4]  As discussed, this
+alone does not violate ss. 7  or 8 . [100]                     
+Much is made of the need — or the absence of
+need — for measures to address the risk that information shared with law
+enforcement agencies in other countries will be abused.  Mr. Wakeling and
+supporting interveners argue that the exclusion in s. 193(2) (e) from the
+offence for improper disclosure is too broad to provide adequate protection. 
+The Crown and supporting Attorneys General, on the other hand, emphasize the
+risks associated with bureaucratic restrictions on the international sharing of
+information and argue that it would be unrealistic and unworkable in today’s
+interconnected world.  These are difficult questions more redolent of policy
+than of law.  Parliament has considered them and answered with the offence
+provisions and exemptions of s. 193 .  In the absence of a demonstrated breach
+of s. 8  rights flowing from those provisions, Parliament’s choice must be
+allowed to stand, in my respectful opinion. IV.       
+Conclusion [101]                     
+I would dismiss the appeal and confirm the order
+for committal of Mr. Wakeling.                     The reasons of Abella,
+Cromwell and Karakatsanis JJ. were delivered by [102]                     
+Karakatsanis J. (dissenting) — Does the legislation permitting Canadian law
+enforcement agencies to disclose wiretapped information to foreign law
+enforcement officials violate s. 8  of the Canadian Charter of Rights and
+Freedoms ?  I conclude that it does. [103]                     
+When police intercept an individual’s private communications without
+consent, the information they obtain is of an extremely private and personal
+nature.  Officers must obtain prior judicial authorization before conducting
+these intrusive searches, except in exigent circumstances:  Criminal Code,
+R.S.C. 1985, c. C-46, ss. 184.2 , 185 , 186  and 487.01(5) ; R.
+v. Duarte, [1990] 1 S.C.R. 30.  Once the
+information is obtained, there are strict limits on how officers can use the
+information and to which Canadian officials it may be disclosed. [104]                     
+By contrast, s. 193(2) (e) of the Criminal Code  permits
+Canadian law enforcement officers to disclose wiretapped information to foreign
+law enforcement officials without any restrictions on how the information may
+be used and without any measures to permit oversight of when and how this broad
+state power is used.  Nothing in the provision restrains recipients from using
+the information outside Canada in unfair trials or in ways that violate human
+rights norms.  Similarly, recipient officials are not prevented from publicly
+disseminating the information or sharing it with officials in other states,
+many of which do not share our legal and democratic values.  The torture of
+Maher Arar in Syria provides a particularly chilling example of the dangers of
+unconditional information sharing. [105]                     
+I would hold that the wiretap scheme set out in Part VI of the Criminal
+Code  violates the Charter  “right to be secure against unreasonable
+search or seizure” because s. 193(2) (e) permits the sharing of
+intercepted information with foreign officials without meaningful safeguards. 
+To render the scheme constitutional, Parliament must require the disclosing
+party to impose conditions on how foreign officials can use the information
+they receive, and must implement accountability measures to deter inappropriate
+disclosure and permit oversight. I.         
+The Legislation [106]                     
+Part VI of the Criminal Code  is the
+legislative scheme that governs wiretap interceptions and the use of
+intercepted information.  In recognition of the profound invasion of privacy
+associated with the interception of private communications, Part VI imposes
+strict preconditions on such interceptions.  With narrow exceptions for exigent
+circumstances (ss. 184.1  and 184.4 ), law enforcement officers may generally
+only use wiretaps in the course of investigating enumerated crimes (s. 183 ),
+must obtain prior judicial authorization (ss. 184(2) (b) and 184.2 ), and
+must comply with notice and reporting requirements (ss. 195  and 196 ).  A number
+of the safeguards contained in Part VI have been added to ensure the
+constitutionality of this wiretapping regime:  An Act to amend the Criminal
+Code, the Crown Liability and Proceedings Act  and the Radiocommunication Act,
+S.C. 1993, c. 40; Response to the Supreme Court of Canada Decision in R. v.
+Tse Act, S.C. 2013, c. 8 . [107]                     
+While the basic scheme of Part VI has been found
+to strike the balance between privacy and law enforcement interests required
+under s. 8  of the Charter  (Duarte, at p. 45), this is the first
+time that this Court has considered the effect of the disclosure provisions on
+its constitutionality.  Section 193  of the Criminal Code  makes it an
+indictable offence to disclose intercepted information without consent, except
+where the disclosure falls into a permitted category such as disclosure for the
+purpose of a criminal investigation.  Since 1988, the Criminal Code  has
+permitted disclosure (e)   where disclosure is made to a peace officer or
+prosecutor in Canada or to a person or authority with responsibility in a
+foreign state for the investigation or prosecution of offences and is intended to
+be in the interests of the administration of justice in Canada or elsewhere . . .  (Criminal Code, s. 193(2) (e)) II.          
+Section 8  of the Charter [108]                     
+Section 8  of the Charter  protects against “unreasonable search or
+seizure”.  A search or seizure is reasonable “if it is authorized by law, if
+the law itself is reasonable and if the manner in which the search was carried
+out is reasonable” (R. v. Collins, [1987] 1 S.C.R. 265, at p. 278).  In
+this case, the interception of the appellant’s communications was a search
+authorized by law.  A warrant was obtained authorizing the wiretap.  The
+communications were shared with U.S. police pursuant to s. 193(2) (e)
+without any conditions or written record. [109]                     
+I agree with my colleague Moldaver J. that we need not consider the
+constitutionality of s. 8(2) (f) of the Privacy Act, R.S.C. 1985,
+c. P-21 .  For the reasons set out by my colleague, I also find it unnecessary
+to address the arguments with respect to s. 7  of the Charter .  The issue
+in this case is whether the foreign disclosure contemplated by s. 193(2) (e)
+of the Criminal Code  is reasonable.  In particular, does s. 193(2) (e)
+render the wiretap scheme set out in Part VI unreasonable by permitting
+essentially unrestricted and unsupervised disclosure of the fruits of wiretap
+interceptions to foreign law enforcement officials? [110]                     
+Whether a law provides reasonable authority for a search is a contextual
+inquiry:  R. v. Rodgers, 2006 SCC 15, [2006] 1 S.C.R. 554, at para. 26. 
+The question here is whether the wiretap provisions “strik[e] an appropriate
+balance” between the state’s interest in the search and the public interest in
+protecting privacy:  R. v. Tse, 2012 SCC 16, [2012] 1 S.C.R. 531, at
+para. 10. [111]                     
+The assessment of this balance must be connected to the underlying
+purposes of s. 8  itself.  Just as the expectation of privacy analysis asks what
+we, as a society, should be able to expect will be kept private (R. v. Quesnelle, 2014 SCC 46, [2014]
+2 S.C.R. 390, at para. 44), the assessment of whether a law provides reasonable
+authority for a search involves asking what level of privacy protection we are
+entitled to expect, given the state’s objective in seeking the information. [112]                     
+In order to determine whether s. 193(2)(e) of Part VI of the Criminal
+Code  permits an “unreasonable search or seizure”, it is first necessary to
+consider the interests that the disclosure regime was meant to serve and its
+impact on the privacy rights of affected persons.  With those interests in
+mind, I will then turn to the particular aspects of s. 193(2) (e) that,
+in my view, render Part VI unconstitutional. III.       
+The Interests at Stake [113]                     
+There is no question that international cooperation and
+information sharing are essential to law enforcement:  United States of
+America v. Cotroni, [1989] 1 S.C.R. 1469; R. v. Hape, 2007 SCC 26, [2007] 2 S.C.R. 292.  Crime does not stop at
+state borders, nor should efforts to combat it.  Just as electronic
+surveillance “plays an indispensable role in the detection of sophisticated
+criminal enterprises” (Duarte, at p. 44), international dissemination of
+the fruits of that surveillance is increasingly important for law enforcement. [114]                     
+When Canadian officials share information with
+foreign officials, the foreign state is not the only beneficiary; the
+importance of comity cannot be ignored.  Canadian interests are served when our
+law enforcement agencies build appropriate information-sharing relationships
+with law enforcement officials in other jurisdictions, and the disclosure of
+wiretapped information in individual cases contributes to these relationships. 
+Further, timely disclosure will often be critical in the investigation of
+serious transnational crimes such as drug smuggling, human trafficking and
+terrorism.  Often, the circumstances will require immediate police action to
+protect public safety and prevent crimes.  This case is one such example. [115]                     
+The state’s interest in law enforcement and comity must
+be balanced against the significant privacy and other interests engaged by
+disclosure.  Wiretap interceptions gather private information that is likely
+“to reveal intimate details of the lifestyle and personal choices of the
+individual” (R. v. Plant, [1993] 3 S.C.R. 281, at p. 293; and R. v.
+Tessling, 2004 SCC 67, [2004] 3 S.C.R. 432, at para. 25).  This can include
+information about an individual’s political and religious affiliations,
+personal finances, intimate relationships, family problems, physical and mental
+health, substance use, and encounters with police. [116]                     
+This Court recognized the invasiveness of wiretapping in Duarte,
+where La Forest J. stated that “one can scarcely imagine a state activity more
+dangerous to individual privacy than electronic surveillance” (p. 43).  He
+warned that [i]f the state may arbitrarily record
+and transmit our private communications, it is no longer possible to strike an
+appropriate balance between the right of the individual to be left alone and
+the right of the state to intrude on privacy in the furtherance of its goals,
+notably the need to investigate and combat crime.  [p. 44] [117]                     
+Law enforcement officers in Canada are therefore subject to strict
+limits on the use of wiretapped information.  Section 193  of the Criminal
+Code  makes it an indictable offence to disclose intercepted information,
+subject to limited exceptions such as giving evidence in civil or criminal
+proceedings (s. 193(2) (a)) or disclosing information for the purpose of
+a criminal investigation (s. 193(2) (b)).  By contrast, courts have held
+that information obtained by the state in other kinds of searches and seizures
+may be shared with regulatory agencies for purposes outside of criminal
+investigations and existing proceedings (see, for example, Brown v. The
+Queen, 2013 FCA 111, 2013 D.T.C. 5094). [118]                     
+When information is shared across jurisdictional lines, the safeguards
+that apply in domestic investigations lose their force.  This can create
+serious risks to individual privacy, liberty and security of the person
+interests.  As Commissioner O’Connor observed, when information is shared with
+foreign authorities, “respect for human rights cannot always be taken for
+granted”:  Commission of Inquiry into the Actions of Canadian Officials in
+Relation to Maher Arar, Report of the Events
+Relating to Maher Arar:  Analysis and Recommendations (2006) (“O’Connor Report”), at p. 321. [119]                     
+Wiretap information that is shared with foreign
+officials may ultimately be used in unfair trials or to prosecute offences that
+are not crimes in Canada.  Information obtained from wiretaps can lead to
+discrimination on the basis of political or religious affiliation.  In the
+wrong hands, wiretap information may even be used to intimidate or smear
+political figures and members of civil society:  see, e.g., B. A. Franklin,
+“Wiretaps reveal Dr. King feared rebuff on nonviolence”, The New York Times,
+September 15, 1985; J. Sanchez, “Wiretapping’s true danger”, Los
+Angeles Times, March 16, 2008.  Further, s. 193(2)(e)
+permits the disclosure to foreign officials of both intercepted personal
+information that may be completely unrelated to the criminal investigation or
+to its target and information resulting from wiretaps that are later found to
+be unlawful. [120]                     
+Professor Kent Roach writes that the expansion in international
+information sharing since 2001 has exacerbated a number of problems: . . . law enforcement
+agencies are now more likely to undertake enforcement actions based on shared
+information that is unreliable, and there is now a greater risk that
+information shared by intelligence services will be disclosed in subsequent
+legal proceedings.  Individuals are also at greater risk of having their
+rights, especially their right to privacy, infringed.  Individuals will rarely
+have the opportunity to challenge the accuracy of shared information because
+they will often be unaware that information about them has been shared and will
+not have access to the shared information.  (K.
+Roach, “Overseeing Information Sharing”, in H. Born and A. Wills, eds., Overseeing
+Intelligence Services:  A Toolkit (2012), 129, at p. 131) [121]                     
+The respondent the Attorney General of Canada submits
+that the expectation of privacy in communications is diminished after they have
+been lawfully intercepted.  Indeed, people should expect that police will
+“share lawfully gathered information with other law enforcement officials,
+provided the use is consistent with the purposes for which it was gathered” (Quesnelle,
+at para. 39). [122]                     
+However, that does not mean that there is no
+privacy interest in wiretap information; to the contrary, people have the right
+to expect that such information will only be disclosed appropriately. 
+In a well-known passage in R. v. Mills, [1999] 3 S.C.R. 668, McLachlin and
+Iacobucci JJ. stated: Privacy is not an all or nothing right.  It does not
+follow from the fact that the Crown has possession of the records that any reasonable
+expectation of privacy disappears.  Privacy interests in modern society include
+the reasonable expectation that private information will remain confidential to
+the persons to whom and restricted to the purposes for which it was divulged. 
+[para. 108] [123]                     
+This Court, per Charron J., also confirmed in R. v. McNeil,
+2009 SCC 3, [2009] 1 S.C.R. 66, that “any number of persons and entities may
+have a residual privacy interest in material gathered in the course of a
+criminal investigation” (at para. 19; see also paras. 12 and 39).  The
+“protective mantle of s. 8 ” shields information seized by the state “so long as
+the seizure continues” (R. v. Colarusso, [1994] 1
+S.C.R. 20, at p. 63). [124]                     
+Nor is the privacy interest in wiretap information reduced simply
+because a subject of a wiretap might anticipate that law enforcement agencies
+may share it pursuant to s. 193  of the Criminal Code .  A focus on
+subjective expectations, which Professor L. M. Austin has described as the
+“what did you expect” approach to privacy, would protect “an interest in being
+unfairly surprised by state intrusions”, but would fail to guard against
+“expected, though nonetheless problematic, invasions of privacy”
+(“Information Sharing and the ‘Reasonable’ Ambiguities of Section 8  of the
+Charter ” (2007), 57 U.T.L.J. 499, at p. 507 (emphasis added)).  As this
+Court held in Tessling, a diminished subjective expectation of privacy
+does not necessarily result in reduced constitutional protections:  the
+“[e]xpectation of privacy is a normative rather than a descriptive standard”
+(para. 42). [125]                     
+In light of the intrusive nature of wiretapping, the
+highly personal nature of the information in question, and the very real risks
+that may be created by disclosure to foreign officials, it is clear that a
+substantial privacy interest remains in wiretapped information.  This restricts
+how the information may be divulged and used. IV.       
+Challenges to Section 193(2)(e) A.          
+Limits on Use of Disclosed Information [127]                     
+The first failure is that s. 193(2)(e) does not impose any limits
+on how the shared information will be used or further disclosed.  It simply
+permits disclosure of wiretapped information as long as the disclosure “is
+intended to be in the interests of the administration of justice in Canada or
+elsewhere”.  In my view, it is not an answer to say that because police
+officers can only share information that they genuinely believe would further
+the interests of the administration of justice, in the context of law
+enforcement, it is unlikely that s. 193(2)(e) would result in sharing
+with foreign states that engage in torture or other human rights violations. 
+While Canadian law enforcement officials are constrained in their use of
+wiretapped information by the Charter  and s. 193  of the Criminal Code ,
+these restrictions do not apply to foreign officials. [128]                     
+Of course, many foreign jurisdictions impose some form of legal
+oversight on the use of wiretapped information or criminal intelligence
+generally.  But s. 193(2)(e) itself does nothing to prevent those who
+receive the information from using it in proceedings which fail to respect due
+process and human rights, which may involve unjustified detention or torture,
+or in which the accused has no access to counsel.  Even if the direct
+recipients of the information respect human and fair trial rights, s. 193(2)(e)
+does not stop them from disclosing the information to others who do not.  As my
+colleague LeBel J. has observed, “[i]f the process is
+irretrievably flawed, no amount of trust in the future good behaviour and
+restraint of prosecutors and police will save it”:  Lavallee, Rackel &
+Heintz v. Canada (Attorney General), 2002 SCC 61, [2002] 3
+S.C.R. 209, at para. 69 (dissenting in part). [129]                     
+One need only look to the case of Maher Arar to understand what is at
+stake.  Although in that case the information provided was not obtained by way
+of wiretap, Commissioner O’Connor found that “[t]he fact that [the RCMP] did
+not attach written caveats to the information about Mr. Arar provided to
+American agencies increased the risk that those agencies would use the
+information for purposes unacceptable to the RCMP, such as removing him to
+Syria” (O’Connor Report, at p. 23).  Although
+disclosure by the state that compromises an individual’s life, liberty or
+security of the person interests may well give rise to a remedy under s. 7  of
+the Charter , s. 8  must be construed to prevent unreasonable intrusions
+on privacy and their potential consequences before they occur:  Hunter v.
+Southam Inc., [1984] 2 S.C.R. 145, at p. 160. [130]                     
+The failure to require any caveats on the use of disclosed information
+is, in my view, unreasonable.  To the extent that s. 193(2)(e) permits
+law enforcement officers to intercept private communications and then share the
+results with foreign officials without any restrictions on what they may do
+with them, Part VI does not achieve the balancing of interests required to
+satisfy the demands of s. 8  of the Charter . [131]                     
+Further, the requirement of prior judicial
+authorization for the wiretap itself does not provide sufficient protection
+against inappropriate future disclosure of the information.  Authorizations to
+intercept communications are granted with respect to specified times, places
+and persons in the context of Canadian laws and protections.  At the time an
+authorization is granted, the judge generally does not weigh the targeted
+individual’s privacy interests (let alone those of third parties whose
+communications are also intercepted) against a future hypothetical state
+interest in disclosing the information to foreign law enforcement officials. 
+Restrictions on the use of disclosed material would provide some protection of
+individuals’ privacy and security interests. [132]                     
+Imposing restrictions on foreign use of Canadian wiretap information
+would not undermine the objectives of the wiretap scheme.  Caveats on
+information sharing are commonplace in international law enforcement and
+intelligence cooperation:  O’Connor Report, at p. 150;
+U.K. Intelligence and Security Committee, Rendition (2007), at p. 53. 
+Indeed, according to the affidavit of RCMP Deputy Commissioner of Canada West,
+Gary David Bass, such caveats are “normally” attached to wiretap disclosures as
+a matter of course.  Further, the need for written caveats
+need not hinder timely information sharing.  For example, police forces could
+have standing agreements with certain foreign forces with whom they regularly
+cooperate, or they could complete a standardized form each time information is
+shared. [133]                     
+I do not propose any particular form for such
+caveats or agreements.  The key is that a wiretap scheme which authorizes deep
+intrusions on privacy with potentially life-changing consequences cannot permit
+the unconditional disclosure of information to foreign authorities.  Written
+caveats must provide some assurance to our law enforcement agencies that
+disclosed information will only be used to advance legitimate law enforcement
+objectives, in accordance with respect for due process and human rights, and
+will not be shared further except as agreed to by the disclosing party. B.           
+Oversight and Accountability [135]                     
+In addition, for a law to provide reasonable authority for a search or
+seizure, it must include some mechanism to permit oversight of state use of the
+power:  see Tse, at paras. 11 and 82.  In my view, this need for accountability
+applies not only to the search itself but also to the subsequent use of the
+resulting information.  Written caveats alone generally do not provide
+sufficient protection.  Without some accountability mechanism, no information
+is available on what is being shared, with whom, for what purpose and what
+subsequent use is made of the information.  The need for such accountability is
+made even greater where information is being shared across borders, putting it
+beyond the reach of Canadian legal protections. [136]                     
+The purpose of accountability mechanisms is to deter and identify
+inappropriate intrusions on privacy.  None of the safeguards included in the
+broader Part VI wiretap regime, such as judicial pre-authorization,
+after-the-fact notification, record-keeping or reporting requirements, apply to
+the disclosure of wiretap information to foreign officials.  Ensuring that the
+wiretapping itself is appropriate does not guarantee that subsequent
+disclosures will be. [138]                     
+Canadian law enforcement officers may subjectively intend to serve
+justice by sharing information.  However, improper or hazardous sharing is
+unlikely to come to light without record-keeping, reporting or notice
+obligations.  Moreover, accountability is not only about fostering compliance
+with the letter of the law; it is about giving oversight bodies, legislators
+and the public the information that they need to ensure that statutory powers
+are necessary and are used appropriately. [139]                     
+Justice Moldaver’s suggestion that individuals subject to disclosure of
+wiretapped information might find out through an access to information request
+is far from adequate in achieving accountability, particularly since the
+various privacy laws governing law enforcement across Canada generally include
+an exception for records relating to law enforcement matters:  see, for
+example, Municipal Freedom of Information and Protection of Privacy Act,
+R.S.O. 1990, c. M.56, s. 8(1).  Without any requirement that law enforcement
+agencies maintain records, even a successful applicant may find there is little
+or no record to obtain. [140]                     
+The case before us was likely an appropriate sharing of information.  It
+related to drug crimes that spanned the Canada-United States border, was shared
+with U.S. law enforcement, and was used to stop such a crime and to apprehend
+the offender.  However, given the breadth of s. 193(2)(e) and of the
+personal information that may be contained in a wiretap, it is not difficult to
+imagine situations where disclosure would be inappropriate, even if it was
+subjectively “intended to be in the interests of the administration of
+justice”, as required by s. 193(2)(e).  Accountability mechanisms are
+required to safeguard against disclosure in such cases. [143]                     
+To conclude, while the sharing of wiretapped information is an important
+tool for law enforcement agencies, it must nonetheless be balanced against
+adequate protections for the privacy interests at stake in order to pass Charter 
+muster.  This balance requires that the disclosing party obtain assurances
+that information will not be improperly used by foreign officials.  It also
+requires the implementation of accountability measures to facilitate oversight
+and to deter inappropriate disclosures.  Absent such protections, I find that
+s. 193(2) (e) is contrary to s. 8  of the Charter . V.          
+Section 1 [144]                     
+In my view, s. 193(2)(e) infringes s. 8  of the Charter  in
+a manner that is not justified under s. 1 . [145]                     
+To be upheld under s. 1 , legislation that limits a Charter  right
+must meet the criteria set out in R. v. Oakes, [1986] 1
+S.C.R. 103.  First, the legislation must serve a pressing and
+substantial objective.  Second, the means chosen must be proportionate:  there
+must be a rational connection between the legislation and the objective, the
+legislation must limit the right as little as possible, and there must be
+proportionality between the effects of the Charter  limitation and its
+objectives. [146]                     
+In this case, the objective of international cooperation in law
+enforcement is pressing and substantial, and disclosure of wiretap information
+is rationally connected to that objective.  However, s. 193(2)(e) as it
+is presently drafted interferes with privacy to a greater extent than
+necessary.  The inclusion of accountability mechanisms and limits on subsequent
+use would cure the constitutional deficiencies without undermining Parliament’s
+goals.  Accordingly, I conclude that the disclosure to foreign officials
+permitted without safeguards under s. 193(2)(e) renders the Part VI
+regime unconstitutional. VI.       
+Conclusion [147]                     
+Section 8  requires that when a law authorizes intrusions on privacy, it
+must do so in a manner that is reasonable.  A reasonable law must have adequate
+safeguards to prevent abuse.  It must avoid intruding farther than necessary. 
+It must strike an appropriate balance between privacy and other public
+interests.  I conclude that s. 193(2)(e) falls short on all three
+counts. [148]                     
+In my view, the appropriate remedy in this case
+is to strike the words “or to a person or authority
+with responsibility in a foreign state” from s. 193(2) (e) of the Criminal
+Code .  Such a remedy respects Parliament’s intention to allow law
+enforcement officials to collaborate within Canada, while invalidating those
+aspects of the legislation that are inconsistent with the Charter . 
+Severing the unconstitutional elements of this provision is also consistent
+with this Court’s view that “when only a part of a statute or provision
+violates the Constitution, it is common sense that only the offending portion
+should be declared to be of no force or effect, and the rest should be spared”:
+ Schachter v. Canada, [1992] 2 S.C.R. 679, at p. 696.  I would suspend
+the effect of this order for 12 months to allow Parliament to amend Part VI to
+comply with the Charter . [149]                     
+The Crown submitted that if this Court were to
+suspend a declaration of invalidity, a new hearing should be ordered at which
+the admissibility of the evidence under s. 24(2)  of the Charter  can be
+addressed.  This Court has recognized that, where a suspended declaration of
+invalidity is ordered, a constitutional exemption may be awarded “to relieve
+the claimant of the continued burden of the unconstitutional law during the
+period that the striking out remedy is suspended”:  R. v. Ferguson, 2008
+SCC 6, [2008] 1 S.C.R. 96, at para. 46; see also Corbiere v. Canada
+(Minister of Indian and Northern Affairs), [1999] 2 S.C.R. 203, at para.
+22.  I would accordingly exempt the appellant from the suspension of the
+declaration of invalidity. [150]                     
+I would answer the relevant constitutional
+questions as follows: Does s. 193(2)(e) of the Criminal
+Code, R.S.C. 1985, c. C-46 , infringe s. 8  of the Canadian Charter of
+Rights and Freedoms ? Answer: Yes. If so, is the infringement a reasonable
+limit prescribed by law as can be demonstrably justified in a free and
+democratic society under s. 1  of the Canadian Charter of Rights and Freedoms ? Answer: No. [151]                     
+Thus, in the circumstances of this case, I would allow
+the appeal and order a new hearing.                     Appeal
+dismissed, Abella, Cromwell and Karakatsanis JJ. dissenting.                     Solicitors
+for the appellant:  Thorsteinssons, Vancouver.                     Solicitor
+for the respondent the Attorney General of Canada on behalf of the United
+States of America and on behalf of the Minister of Justice:  Attorney General
+of Canada, Vancouver.                     Solicitor
+for the respondent the Attorney General of British Columbia:  Attorney General
+of British Columbia, Victoria.                     Solicitor
+for the intervener the Attorney General of Ontario:  Attorney General of
+Ontario, Toronto.                     Solicitor
+for the intervener the Attorney General of Quebec:  Attorney General of Quebec,
+Québec.                     Solicitors
+for the intervener the Canadian Civil Liberties Association:  McInnes Cooper,
+Halifax.                     Solicitors
+for the intervener the British Columbia Civil Liberties Association:  McCarthy
+Tétrault, Vancouver.                     Solicitor
+for the intervener the Information and Privacy Commissioner of Ontario:  Information
+and Privacy Commissioner of Ontario, Toronto.                     Solicitors for the
+intervener the Privacy Commissioner of Canada:  Osler, Hoskin & Harcourt,
+Toronto.  [1]   Even if Part VI was not intended by Parliament to
+be the exclusive regime governing wiretaps, the Privacy Act  would still
+have no application here. Section 8(2)(b) of the Act permits disclosure
+of personal information “for any purpose in accordance with any Act of
+Parliament . . . that authorizes its disclosure”. Given my conclusion
+that the Criminal Code  implicitly authorizes the Impugned
+Disclosure, even under the terms of the Privacy Act , the Code is
+the applicable statute in this case. [2]   As observed by LeBel and Wagner JJ. in Imperial Oil,
+s. 193(2) merely authorizes the disclosure of intercepted communications in a number of
+prescribed circumstances. It does not create a right of access to intercepted
+communications, nor a procedure for seeking and obtaining disclosure of such
+communications by persons who are not otherwise in lawful possession of the
+information. [3]   “under an agreement or arrangement between the Government of
+Canada or an institution thereof and the government of a province, the council
+of the Westbank First Nation, the council of a participating First Nation — as
+defined in subsection 2(1)  of the First Nations Jurisdiction over Education
+in British Columbia Act  —, the government of a foreign state, an
+international organization of states or an international organization
+established by the governments of states, or any institution of any such
+government or organization, for the purpose of administering or enforcing any
+law or carrying out a lawful investigation;” [4]  “(a) for the purpose for which the information was obtained
+or compiled by the institution or for a use consistent with that purpose;”  

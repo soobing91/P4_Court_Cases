@@ -1,0 +1,721 @@
+  SUPREME
+COURT OF CANADA  Citation: R. v. J.F., 2013 SCC 12, [2013] 1 S.C.R. 565 Date:
+  20130301 Docket:
+  34284  Between: J.F. Appellant and Her
+Majesty The Queen Respondent -
+and - British
+Columbia Civil Liberties Association Intervener  Coram: McLachlin C.J. and LeBel, Fish, Rothstein, Cromwell, Moldaver
+and Karakatsanis JJ.  Reasons for
+  Judgment: (paras. 1 to 76) Moldaver J. (McLachlin C.J. and LeBel, Fish, Rothstein,
+  Cromwell and Karakatsanis JJ. concurring)    R. v.
+J.F., 2013 SCC 12, [2013] 1 S.C.R. 565 J.F.                                                                                                                   Appellant v. Her Majesty The Queen                                                                              Respondent and British Columbia Civil
+Liberties Association                                              Intervener Indexed as:  R. v. J.F. 2013 SCC 12 File No.:  34284. 2012:  October 12; 2013:  March 1. Present:  McLachlin C.J. and LeBel, Fish, Rothstein, Cromwell,
+Moldaver and Karakatsanis JJ. on appeal from the court of appeal for ontario                     J,
+a youth, learned that his friend T and her sister R were planning to murder
+their mother by plying her with alcohol and drowning her, a plan which the
+sisters ultimately executed and were convicted for.  The police found an MSN
+chat log between J and T in which J provided information to T about death by
+drowning; suggested that the sisters should give their mother codeine pills in
+addition to alcohol; and suggested ways to mislead the police.  The Crown also
+led evidence that J supplied the girls with pills and met T and R after the
+murder to provide an alibi.  The trial judge instructed the jury that J could
+be convicted of conspiracy to commit murder under s. 465(1)  of the Criminal
+Code  either as a principal, or as a party under s. 21(1) (b) or
+(c) of the Criminal Code .  J was convicted of conspiracy to
+commit murder.  The Court of Appeal dismissed an appeal from the conviction but
+reduced J’s sentence.                     Held:  The appeal
+should be dismissed.                     Per McLachlin C.J. and LeBel, Fish,
+Rothstein, Cromwell, Moldaver and Karakatsanis JJ.:  Party liability to
+conspiracy is an offence known to Canadian law.  Unlike
+attempted conspiracy, it does not involve stacking one form of inchoate
+liability upon another, and does not suffer from remoteness.                     The
+Trieu model is a legitimate basis for party liability to a conspiracy. 
+A person becomes party to an offence if he aids or abets a principal in the commission
+of the offence.  It follows that party liability to a conspiracy is made out
+where the accused aids or abets the actus reus of conspiracy, namely the
+conspirators’ act of agreeing.                     The
+McNamara model is not a basis for party liability to conspiracy.  Acts
+that further the unlawful object of a conspiracy are not an element of the
+offence of conspiracy.  Aiding or abetting the furtherance of the unlawful
+object does not establish aiding or abetting the principal with any element of
+the offence of conspiracy, and thus cannot ground party liability for
+conspiracy.  However, where a person, with knowledge of a conspiracy, does or
+omits to do something for the purpose of furthering the unlawful object, with
+the knowledge and consent of one or more of the existing conspirators, this
+provides powerful circumstantial evidence from which membership in the conspiracy
+can be inferred.                     In
+light of the conclusion that party liability does not extend to acts done in
+furtherance of the unlawful object of the conspiracy, party liability should
+not, in the present case, have been put to the jury.  There is no evidence that
+J aided or abetted the initial formation of the agreement between R and T to
+murder their mother or aided or encouraged a new member to join the existing
+conspiracy.  The trial judge’s error, however, could not possibly have affected
+the verdict.  The curative proviso under s. 686(1) (b)(iii) of the Criminal
+Code  applies.  The evidence implicating J as a member of the conspiracy was
+overwhelming and, once the jury rejected J’s defence, a finding of guilt under s. 465(1) 
+of the Criminal Code  was inevitable. Cases Cited                     Approved:
+R. v. Trieu, 2008 ABCA 143, 429 A.R. 200; R. v. Bérubé (1999),
+139 C.C.C. (3d) 304, leave to appeal refused, [2000] 1 S.C.R. vii; disapproved:
+ R. v. McNamara (No. 1) (1981), 56 C.C.C. (2d) 193; R. v.
+Vucetic (1998), 129 C.C.C. (3d) 178; United States of America v. Lorenz
+(2007), 222 C.C.C. (3d) 16, leave to appeal refused, [2008] 1 S.C.R. vi (sub
+nom. Cheema v. Attorney General of Canada on behalf of the United States of
+America); R. v. Taylor (1984), 40 C.R. (3d) 222; distinguished:  R.
+v. Déry, 2006 SCC 53, [2006] 2 S.C.R. 669; referred to:  R. v.
+O’Brien, [1954] S.C.R. 666; R. v. Lam, 2005 ABQB 849 (CanLII); Papalia v. The Queen, [1979] 2 S.C.R. 256; Sheppe v. The
+Queen, [1980] 2 S.C.R. 22; R. v. Hibbert, [1995] 2 S.C.R. 973; R.
+v. Briscoe, 2010 SCC 13, [2010] 1 S.C.R. 411; People v. Strauch, 240
+Ill. 60 (1909); R. v. Alexander (2005), 206 C.C.C. (3d) 233; Paradis
+v. The King, [1934] S.C.R. 165; R. v. Genser (1986), 39 Man. R. (2d)
+203, aff’d [1987] 2 S.C.R. 685; R. v. Vu, 2012 SCC 40, [2012] 2 S.C.R.
+411; Bell v. The Queen, [1983] 2 S.C.R. 471; R. v. Carter, [1982]
+1 S.C.R. 938; R. v. Naicker, 2007 BCCA 608, 229 C.C.C. (3d) 187, leave
+to appeal refused, [2008] 1 S.C.R. xi; R. v. Simpson, 2007 ONCA 793, 230
+C.C.C. (3d) 542, leave to appeal refused, [2008] 2 S.C.R. xi. Statutes and Regulations Cited Authors Cited “Developments in the Law:  Criminal Conspiracy” (1959), 72 Harv.
+L. Rev. 920. Doherty, David.  “Conspiracies and Attempts”, in National Criminal
+Law Program, Substantive Criminal Law, vol. 1.  Edmonton: 
+Federation of Law Societies of Canada, 1990. LaFave, Wayne R.  Substantive Criminal Law, vol. 2,
+2nd ed.  St. Paul, Minn.:  Thomson/West, 2003. Manning, Morris, and Peter Sankoff.  Manning, Mewett &
+Sankoff:  Criminal Law, 4th ed.  Markham, Ont.:  LexisNexis, 2009. Williams, Cameron R.  “Complicity in a Conspiracy as an
+Approach to Conspiratorial Liability” (1968), 16 U.C.L.A. L. Rev. 155.                     APPEAL
+from a judgment of the Ontario Court of Appeal (Rosenberg, Rouleau and
+Epstein JJ.A.), 2011 ONCA 220, 105 O.R. (3d) 161, 276 O.A.C. 292, 269
+C.C.C. (3d) 258, 85 C.R. (6th) 304, [2011] O.J. No. 1577 (QL), 2011
+CarswellOnt 2329, affirming the accused’s conviction for conspiracy to commit
+murder.  Appeal dismissed.                     Ian R. Mang and
+Shelley M. Kierstead, for the appellant.                     Alexander Alvaro and
+Andreea Baiasu, for the respondent.                     Ryan D. W. Dalziel and Micah B. Rankin, for the intervener.                     The
+judgment of the Court was delivered by [1]                             
+Moldaver J. — In this appeal, the Court is required to
+decide whether the aiding and abetting provisions in the Criminal Code,
+R.S.C. 1985, c. C-46 , are applicable to the offence of conspiracy and, if so,
+how and under what circumstances.  Appellate courts are divided on these
+questions, and the case at hand provides an opportunity to resolve the
+conflicting approaches. I.       Background [2]                             
+The appellant was convicted of conspiracy to
+commit murder following a trial before Van Melle J. of the Ontario Superior
+Court of Justice and a jury.  He was tried as a youth and received a sentence
+of 12 months’ imprisonment and 6 months’ conditional supervision in the
+community. [3]                             
+The appellant appealed to the Ontario Court of
+Appeal against both conviction and sentence.  His appeal from conviction was
+dismissed; his appeal from sentence was allowed and the sentence was reduced to
+8 months in custody and 4 months’ conditional supervision. [4]                             
+The appellant appeals his conviction to this
+Court with leave.  As I have said, the primary issue is whether a person can be
+found liable as a party to the offence of conspiracy and, if so, under what
+circumstances. [5]                             
+The charge of conspiracy to commit murder, for
+which the appellant stands convicted, revolves around the killing of A.K. by
+her two daughters R and T.  The evidence at the appellant’s trial established
+that R and T conspired to kill their mother and eventually carried out their
+plan.  R and T were tried as youths and both were convicted of first degree
+murder. A.     The Case Against the Appellant [6]                             
+The theory of the Crown against the appellant
+was that he and T were friends and that he learned from T that she and R were
+planning to kill their mother.  It was their intention to ply her with alcohol,
+drown her in the family bathtub, and make it look like an accident. [7]                             
+According to the Crown, the appellant took
+various steps to help R and T achieve their plan.  An MSN chat log, discovered
+by the police on a computer belonging to R and T, contained a revealing
+conversation between the appellant and T a few days before the killing.  In
+that conversation, the appellant provided information to T about death by
+drowning and explained what R and T should do if their mother woke up during
+the drowning process.  He further suggested that in addition to plying their
+mother with alcohol, R and T should give her about five Tylenol 3 pills as this
+would “knock [her] right out” (A.R., at p. 198).  Autopsy results revealed
+codeine in A.K.’s blood at 3.5 times the upper therapeutic level — a level
+consistent with the consumption of four to six Tylenol 3 tablets.  The Crown
+advanced evidence that it was the appellant who supplied R and T with Tylenol 3
+tablets shortly before the killing. [8]                             
+In the same conversation, the appellant promised
+to provide R and T with an alibi for the time of the murder and he proposed a
+plan that he described as “irrefutable”.  R and T did not take up the
+appellant’s suggestion, choosing instead to follow a plan of their own which
+involved meeting the appellant and another friend at a specified restaurant a
+short time after the killing.  Evidence presented by the Crown showed that the
+appellant agreed to that suggestion and attended the restaurant as planned. [9]                             
+Finally, in the same chat with T, the appellant
+offered to be present with R and T when the police arrived and he suggested
+ways in which R and T should behave to mislead the police.  At one point in his
+conversation with T, the appellant made the following telling admission:  “I’m
+involved this much, I’m willing to help you out with any of it [T]” (A.R., at
+p. 197). [10]                         
+In a statement made to the police following his
+arrest, the appellant did not deny that he was the one communicating with T in
+the MSN chats; rather, he maintained that he was not being serious and did not
+expect that his comments would be taken seriously (R.F., at para. 20). B.     The Crown’s Closing Address and the Trial Judge’s Instructions
+to the Jury [11]                         
+Crown counsel in her closing address invited the
+jury to find the appellant guilty on one of two bases: either as a principal
+in the conspiracy, or as a party to the conspiracy under s. 21(1) (b)
+or (c).  In other words, the Crown argued that either the appellant had
+become a member of the conspiracy between R and T or, in the alternative, he
+had become an aider or abettor of the conspiracy. [12]                         
+The trial judge acceded to the Crown’s request
+that the jury be instructed on both bases of liability.  The relevant portions
+of the charge on party liability are reproduced in full below: A
+person also commits an offence if he does anything for the purpose of helping
+another person to commit the offence.  Anyone
+who actively assists or encourages somebody else to commit an offence is as
+guilty of the offence as the person who actually commits it.  I remind you
+though that mere knowledge of, discussion, or passive acquiescence in a plan of
+criminal conduct is not of itself sufficient.  . . .  It
+is the position of the Crown that [the appellant] can be convicted of
+conspiracy as either a full partner like [T] and [R] or if he was a party to
+the conspiracy.  He is a party to the conspiracy by aiding, which means
+assisting, or abetting, which means encouraging [T] and [R] in their plan to
+murder — in the plan to murder [the deceased].  Some
+of you might think that [the appellant] was a main partner of the plan that he
+agreed to murder [the deceased].  Others might agree at the end of the day that
+he was only a party to the conspiracy in that he assisted or encouraged the
+girls in their murder plot.  The Crown’s position is that [the appellant] was
+involved in this conspiracy because he provided at least one of the following:  •   Advice about the drowning process and how to act when
+interacting with the police.  •   Help with details of the plan including combining alcohol and
+Tylenol 3’s and what to do if she woke up part way through.  •   An agreement to assist with the alibi and attended at Jack
+Astor’s the night of the murder.  •   Or Tylenol 3’s to facilitate her death.  [A.R., at pp. 61 and 69-70] C.     Appeal to the Ontario Court of Appeal, 2011 ONCA 220, 15
+O.R. (3d) 161 [13]                         
+On his appeal from conviction to the Ontario
+Court of Appeal, the appellant raised several grounds, one being that the jury
+should not have been instructed on party liability.  Rosenberg J.A., on behalf
+of a unanimous court, disagreed.  In his view, on the facts of the case, the
+appellant could be convicted as a party to the offence of conspiracy to commit
+murder “if he aided or abetted the sisters within the meaning of s. 21(1)  [of
+the Criminal Code ] to pursue their unlawful object” (para. 27
+(emphasis added)). [14]                         
+Having concluded that party liability was
+available, Rosenberg J.A. reviewed the instructions on party liability and
+found them to be deficient.  In his view, they “were generic, divorced from the
+facts of the case and failed to make clear that the jury had to find that the
+appellant knew the object of the conspiracy and that his assistance was
+intended to assist [R and T] in pursuing the unlawful object of murdering their
+mother” (para. 29). [15]                         
+Despite this deficiency, Rosenberg J.A. was
+satisfied that the curative proviso in s. 686(1)(b)(iii) of the Code could
+safely be applied to uphold the conviction.  In this regard, he observed that
+the defence put forward by the appellant — his comments in the MSN chats
+to T were not to be taken seriously — “did not depend on whether the
+appellant was a principal in, or a party to, the conspiracy”.  If the jury
+accepted his position or it raised a reasonable doubt, he would be acquitted. 
+On the other hand, if the jury rejected his position, “a finding of guilt was inevitable”. 
+Rosenberg J.A. further noted that the appellant’s MSN chats with T constituted
+“direct evidence, in his own words, of the appellant’s role in the
+conspiracy”.  It followed, in his view, that the “[appellant’s] liability as a
+party or a member of the conspiracy was overwhelming” (para. 74). II.     Overview of Issues on Appeal [16]                         
+Against that backdrop, I turn to what I believe
+are the two main issues in this appeal, namely:  Can a person be a party to the
+offence of conspiracy as a matter of law and, if so, how and
+under what circumstances?  For the reasons that follow, I am satisfied that a
+person can be a party to the offence of conspiracy as a matter of law under s.
+21 of the Code. [17]                         
+The more perplexing issue — and the one that in
+my view forms the centerpiece of this appeal — is how and under what
+circumstances.  The answer to that question hinges on how one conceptualizes
+the offence of conspiracy for purposes of party liability.  Accepting that the
+prohibited act in a conspiracy (the actus reus) consists of an agreement
+by two or more persons to pursue an unlawful object, specifically a criminal
+offence (R. v. O’Brien, [1954] S.C.R. 666), the question that arises is
+this:  Should party liability be restricted to those who aid or abet the
+agreement that forms the basis of the conspiracy, or does party liability
+extend as well to those who aid or abet the furthering of the unlawful object
+of the conspiracy? [18]                         
+Canadian jurisprudence on the subject is
+divided.  Alberta and Quebec have adopted the narrower approach, restricting
+party liability to those who aid or abet the agreement itself, with a
+particular focus on its formation.  See R. v. Trieu, 2008 ABCA 143, 429
+A.R. 200, and R. v. Bérubé (1999), 139 C.C.C. (3d) 304
+(Que. C.A.), leave to appeal refused, [2000] 1 S.C.R. vii.  Ontario and British
+Columbia have adopted the broader approach, expanding party liability to also
+include those who aid or abet the furthering of the unlawful object.  See R.
+v. McNamara (No. 1) (1981), 56 C.C.C. (2d) 193 (Ont. C.A.); R. v.
+Vucetic (1998), 129 C.C.C. (3d) 178 (Ont. C.A.); and United States of
+America v. Lorenz (2007), 222 C.C.C. (3d) 16 (B.C.C.A.), leave to appeal
+refused, [2008] 1 S.C.R. vi (sub nom. Cheema v. Attorney
+General of Canada on behalf of the United States of America). [19]                         
+The case at hand provides this Court with an opportunity to
+resolve the conflicting viewpoints.  The first order of business, however, is
+to address the seminal question raised by the appellant, namely:  Can a person
+be a party to the offence of conspiracy as a matter of law? III.    Analysis A.     Can a Person Be a Party to the Offence of Conspiracy as a
+Matter of Law? [20]                         
+Section 465  of the Criminal Code 
+criminalizes the offence of conspiracy.  Conspiracy to commit murder, the crime
+at issue here, is a free-standing offence under s. 465(1)(a) of the Code,
+which reads as follows: 465. (1) Except
+where otherwise expressly provided by law, the following provisions apply in
+respect of conspiracy:  (a) every
+one who conspires with any one to commit murder or to cause another person to
+be murdered, whether in Canada or not, is guilty of an indictable offence and
+liable to a maximum term of imprisonment for life; [21]                         
+Like all conspiracies, conspiracy to commit
+murder is a form of inchoate liability.  The crime is complete when two or more
+persons agree to kill a third party.  No one need be killed; nor is it
+necessary that any steps be taken to bring about the murder. [22]                         
+Section 21(1) of the Code sets out three
+ways in which someone can be found liable as “a party to an offence”.                            21. (1) Every one is a party to an offence who                             (a) actually commits it;                             (b) does or omits to do
+anything for the purpose of aiding any person to commit it; or                             (c) abets any person in
+committing it. [23]                         
+Nothing in the language of s. 21 suggests that
+party liability does not apply to offences that punish inchoate behaviour. The
+appellant’s real complaint, as I understand it, is that party liability ought
+not to apply to the offence of conspiracy because being a party to a conspiracy
+“is an offence unknown to the law” (A.F., at para. 41).  It suffers from the
+same problem of remoteness that led this Court in R. v. Déry, 2006 SCC
+53, [2006] 2 S.C.R. 669, to conclude that “attempted conspiracy” is not an
+offence known to law.  As Fish J. explained, the separate rationales
+underlining the offences of “conspiracy” and “attempt” lose their justification
+when these two forms of inchoate liability are stacked upon one another:                     When
+applied to conspiracy, the justification for criminalizing attempt is lost,
+since an attempt to conspire amounts, at best, to a risk that a risk will
+materialize.  [para. 50] [24]                         
+Much as the appellant seeks to apply the logic
+of Déry to party liability where the
+offence in issue is conspiracy, I am respectfully of the view that the
+comparison is inapt — no less so than comparing apples with oranges.  Quite
+simply, unlike the crime of attempt, party liability is not inchoate.  In order
+for the Crown to rely on party liability, the underlying offence must have been
+committed by the principal.  Consequently, being a party to a conspiracy does
+not involve stacking one form of inchoate liability upon another. [25]                         
+The appellant raised this argument before the
+Court of Appeal.  Rosenberg J.A. rejected it for the following reasons, with
+which I agree:                            In
+my view, the holding in Déry does not warrant reconsideration of this
+court’s decisions in McNamara and Vucetic.  Party liability for
+conspiracy does not suffer from the problem of remoteness identified in Déry
+with respect to attempt to conspire.  A person can be liable as a s. 21(1) 
+party to conspiracy only if the Crown proves an agreement by at least two
+other people to commit a substantive offence.  If no agreement materialized,
+the alleged party’s conduct would be at most an attempt to conspire and would
+fail on the holding in Déry.  If, however, the accused is a party to
+the conspiracy, . . . the risk of commission of the criminal offence has
+sufficiently materialized to warrant criminal sanction.  [Emphasis added; para.
+20.] [26]                         
+I would accordingly not give effect to this
+aspect of the appellant’s argument.  In short, I am satisfied that being a
+party to a conspiracy is an offence known to law.  The more difficult question,
+to which I now turn, is how and under what circumstances a person can be found
+liable as a party to a conspiracy. B.     How and Under What Circumstances Can a Person Be Found
+Liable as a Party to the Offence of Conspiracy?                     (1)      The Two Approaches in Canadian
+Jurisprudence [27]                         
+As mentioned, there are two schools of thought
+in Canada as to how, and under what circumstances, a person can be found liable
+as a party to the offence of conspiracy — the narrower view and the broader
+view. [28]                         
+The leading authority in support of the narrower
+view is Trieu.  The facts are straightforward.  Trieu operated a
+small business selling cellular phones.  He sold phones to five people who were
+involved in a conspiracy to traffic in cocaine.  Trieu knew that the
+conspirators were engaged in drug trafficking, that they worked as a group, and
+that they would use the phones in their trafficking operation.  He claimed,
+however, that he was not a member of the conspiracy and denied agreeing with
+any of the conspirators to traffic in cocaine. [29]                         
+The trial judge acquitted Trieu (R. v. Lam,
+2005 ABQB 849 (CanLII)).  In his view, the evidence fell short of establishing
+that Trieu was a member of the conspiracy.  He also rejected the Crown’s
+alternate theory that in selling cellular phones to the conspirators, Trieu
+intentionally assisted the conspirators in attaining their object — trafficking
+in cocaine — and as such, he should be found liable as a party to the offence
+of conspiracy. [30]                         
+Recognizing that there were two lines of
+authority on the subject, the trial judge adopted the narrower approach.  In
+his view, party liability for the offence of conspiracy did not extend to those
+who took steps to further the unlawful object of the conspiracy; rather, it was
+restricted to those who aided in the formation of the agreement that had a
+particular unlawful object as its goal.  And since there was no evidence that
+Trieu aided in the formation of the agreement hatched by the conspirators, he
+could not be found liable as a party to the offence of conspiracy. [31]                         
+The Crown appealed Trieu’s acquittal to the
+Alberta Court of Appeal, claiming that the trial judge erred in taking the
+narrower approach to party liability.  The Court of Appeal disagreed. [32]                         
+On behalf of the court, Costigan J.A. commenced
+his analysis by reviewing some of the basic principles applicable to the law of
+conspiracy and party liability.  Citing this Court’s decisions in Papalia v.
+The Queen, [1979] 2 S.C.R. 256, and Sheppe v. The Queen, [1980] 2
+S.C.R. 22, he noted that the essence of the offence of conspiracy is the
+agreement, and acts done in furtherance of the unlawful object are not an
+element of the offence.  He cited R. v. Hibbert, [1995] 2 S.C.R. 973,
+for the proposition that “[t]o be a party to an offence, a person must aid the
+principal in the commission of that offence” (para. 32). [33]                         
+Having identified the basic principles that
+apply to the law of conspiracy and parties, Costigan J.A. turned to the facts
+of Trieu and commented as follows: It follows from these principles that for Trieu to be a party to the
+offence of conspiracy to traffic in cocaine, the Crown had to prove that Trieu
+performed acts for the purpose of aiding the formation of an agreement
+to traffic in cocaine.  Acts performed after the agreement was formed did not
+aid in the commission of the offence of conspiracy on the facts of this case. 
+Therefore, Trieu could not be a party to the offence of conspiracy for
+facilitating the conspirators in attaining their object of trafficking in
+cocaine.  Although acts performed after the agreement was reached could have
+aided in the commission of the offence of trafficking, Trieu was not charged
+with the offence of trafficking.  [Emphasis added; para. 33.]  [34]                         
+Trieu was brought
+to the attention of the Court of Appeal in the present case.  Rosenberg J.A.
+considered the reasoning underlying the narrower approach endorsed by Trieu
+but refused to follow it, choosing instead the more expansive approach adopted
+by the Ontario Court of Appeal in McNamara and Vucetic. [35]                         
+At issue in McNamara was whether two
+individuals and a company were liable as co-conspirators for joining an ongoing
+bid-rigging scheme operated by a number of pre-existing conspirators.  One of
+the issues before the Court of Appeal was whether the two individuals and the
+company could be found liable as parties to the offence of conspiracy.  The
+court answered that question in the affirmative: On the other
+hand, if, at any time before the object of the conspiracy had been attained,
+that is, the receipt of the contract money from the Crown, [the individuals and
+the company] abetted or encouraged any of the conspirators to pursue its
+object, they would become parties to the criminal offence of conspiracy by
+virtue of s. 21 of the Code.  [Emphasis added; p. 454.] [36]                         
+In Vucetic, the Ontario Court of Appeal
+re-affirmed the expansive approach to party liability endorsed in McNamara: However, in
+order to find him guilty as an aider and abettor, the jury would have to be
+instructed that the appellant knew the object of the conspiracy and that his
+assistance was intended to assist the conspirators in attaining their
+unlawful criminal object.  [Emphasis added; para. 7.] [37]                         
+In choosing to follow McNamara and Vucetic,
+Rosenberg J.A. made the following observations in his reasons: Again,
+I can see no basis in principle for refusing to follow McNamara and Vucetic
+on this issue.  I appreciate the point made in Trieu that the essence of
+a conspiracy is an agreement, but it is not an agreement in the abstract; it is
+an agreement to attain a common goal, a particular unlawful object. . . .  Admittedly,
+including party liability for aiding or abetting pursuit of the unlawful object
+blurs the line between the conspiracy and the substantive offence.  The
+distinction, however, is that party liability for conspiracy requires proof of
+an agreement; there is no requirement of proof that the unlawful object was
+attained.  Liability as a party to the substantive offence requires proof that
+the substantive offence was committed.  Thus, in this case, the appellant could
+be guilty of conspiracy if he aided or abetted the sisters within the meaning of
+s. 21(1)  to pursue their unlawful object, even if they ultimately did not carry
+out the plan or the deceased had survived the attempt on her life.  [paras. 26
+and 27] [38]                         
+To sum up, the cases illustrate two strands of
+authority.  The first, favoured in Trieu, is narrower, grounding party
+liability on aiding or abetting the agreement itself, specifically its
+formation.  The second, as endorsed in McNamara, is broader, including
+within the ambit of party liability aiding or abetting the furtherance of the
+conspiracy’s unlawful object.  The question remains which of these two
+approaches should be adopted. (2)        The
+Approach to Be Followed [39]                         
+The scope of party liability for conspiracy
+turns on a proper understanding of the elements of the offence of conspiracy. 
+That is because, to be a party to an offence, a person must aid or abet the
+principals “in the commission of the offence”: R. v. Briscoe, 2010 SCC
+13, [2010] 1 S.C.R. 411, at para. 16.  With respect to the offence of
+conspiracy, this Court in Papalia held that “[t]he actus reus is
+the fact of agreement” (p. 276).  Aiding or abetting the formation of an
+agreement between conspirators (as contemplated in Trieu) amounts to
+aiding or abetting the principals in the commission of the conspiracy, and
+should therefore lead to party liability for conspiracy. [40]                         
+Earlier in these reasons, I explained why, as a
+matter of law, a person can be found liable as a party to the offence of
+conspiracy.  Once that is accepted, I see no reason in principle or policy why
+the limited form of party liability contemplated in Trieu should not be
+criminalized.[1] 
+The parties and the intervener have submitted no authorities or academic
+writings to the contrary — and I know of none.  Nor do those who advocate the
+more expansive approach to party liability sanctioned by McNamara
+question the Trieu model as a basis upon which party liability
+for the offence of conspiracy may be grounded.  Indeed, in the present case,
+Rosenberg J.A. recognized it as such. [41]                         
+It follows, in my view, that the Trieu
+model represents a legitimate basis upon which party liability for the offence
+of conspiracy may be found.  I hasten to add that a review of the jurisprudence
+in Canada and elsewhere reveals that there are few reported cases where the
+facts have come within the Trieu paradigm.  Trieu itself was not
+such a case.  And the only authority that has come to my attention is People
+v. Strauch, 240 Ill. 60 (1909).  In that case, a father introduced his son
+to another person with the intention that they enter into a conspiracy, which
+they did.  The father was convicted as a party to the conspiracy for aiding and
+abetting its formation. [42]                         
+That brings me to the broader approach endorsed
+in McNamara and the central issue in this appeal — namely, whether party
+liability can attach to someone who knows of a conspiracy and who does (or
+omits to do) something for the purpose of furthering its unlawful object. [43]                         
+With respect to those who hold a different view,
+I have concluded that it should not.  Party liability should be restricted to
+conduct that aids or abets the formation of the agreement that comprises
+the essence of the crime of conspiracy.  In all other cases, a conviction for
+conspiracy will not lie absent proof of membership in the conspiracy. [44]                         
+As I have explained, agreement is a central
+element to the offence of conspiracy.  Conversely, an act done in furtherance
+of the unlawful object is not an element of the offence of conspiracy. 
+Although such acts can serve as circumstantial evidence to support the
+existence of a conspiracy, they are not themselves a component of the actus
+reus of conspiracy.  Indeed, a conspiracy can be established in the absence
+of any overt acts done in furtherance of its unlawful object. In other words,
+“[t]he crime of conspiracy is complete once the agreement is reached”: Trieu,
+at para. 31. [45]                         
+It follows, in my view, that the broader
+approach as endorsed in McNamara must be rejected.  Aiding or abetting
+the furtherance of the unlawful object does not establish aiding or abetting
+the principal with any element of the offence of conspiracy.  It cannot ground
+party liability for conspiracy. [46]                         
+The conclusion I have reached is consistent with
+the following observation from a Harvard Law Review article, with which
+I agree: But to aid and abet a crime it
+is necessary not merely to help the criminal, but to help him in the commission
+of the particular criminal offense.  A person does not aid and abet a
+conspiracy by helping the “conspiracy” to commit a substantive offense, for the
+crime of conspiracy is separate from the offense which is its object.  It is
+necessary to help the “conspiracy” in the commission of the crime of
+conspiracy, that is, in the commission of the act of agreement.  Only
+then is it justifiable to dispense with the necessity of proving commission of
+the act of agreement by the defendant himself.  In all other cases, to convict
+the defendant of conspiracy it is necessary to prove not only knowledge on his
+part that he was helping in a wrongful enterprise, but also knowledge on
+another’s part that he intended to do so, and at least a tacit agreement to
+give and accept such help. [Emphasis added; footnotes omitted.]  (“Developments
+in the Law: Criminal Conspiracy” (1959), 72 Harv. L. Rev. 920, at pp.
+934-35) [47]                         
+In an article entitled “Conspiracies and
+Attempts”, in National Criminal Law Program, Substantive Criminal Law (1990),
+vol. 1, D. Doherty (then judge of the Supreme Court of Ontario), expressed the
+same view: The aiding
+and abetting provisions [s. 21(1)(b) and (c) of the Code]
+should apply to conspiracy charges.  They must, however, be applied with
+caution.  Those sections require that the assistance be rendered for the
+purpose of assisting the commission of the crime.  In the context of a
+conspiracy charge, the alleged acts of assistance or encouragement should have
+to be done for the purpose of aiding or assisting the act of agreeing. 
+Conduct which aids or assists in the achievement of the object of the
+conspiracy should not be equated with assistance in the making of the
+conspiracy.  [Emphasis added; p. 36.] (See also M. Manning and
+P. Sankoff, Manning, Mewett & Sankoff:  Criminal Law (4th ed.
+2009), at p. 316.) [48]                         
+Those who prefer the McNamara approach
+fear that persons who have not become members of the conspiracy, but who have
+nonetheless done things to further the conspiracy’s unlawful object, will,
+despite their moral culpability, slip through the cracks — that is, unless the
+unlawful object of the conspiracy is attained or attempted, in which case they
+could be charged as parties to the substantive offence or to an attempt to
+commit that offence. [49]                         
+Thus, in the case at hand, the fear is that, had
+R and T not killed their mother or attempted to do so, the appellant would have
+ended up going free, despite his efforts to further the planned killing, unless
+the Crown could prove that he entered into the agreement formulated by R and T
+and thus became a member of the conspiracy. [50]                         
+Much as I appreciate the concern raised by those
+who prefer the more expansive McNamara approach, viewed realistically, I
+consider it to be more imaginary than real. [51]                         
+In R. v. Alexander (2005), 206 C.C.C.
+(3d) 233 (Ont. C.A.), a case involving various charges, including conspiracy to
+extort, Doherty J.A. stated the following: The appellants’ submissions stand on firm legal footing.  The actus
+reus of the crime of conspiracy lies in the formation of an agreement,
+tacit or express, between two or more individuals, to act together in pursuit
+of a mutual criminal objective.  Co-conspirators share a common goal borne out
+of a meeting of the minds whereby each agrees to act together with the other to
+achieve a common goal.  It follows from the mutuality of objective requirement of the actus
+reus that a conspiracy is not established merely by proof of knowledge of
+the existence of a scheme to commit a crime or by the doing of acts in
+furtherance of that scheme.  Neither knowledge of nor participation in a
+criminal scheme can be equated with the actus reus of a conspiracy:  see
+R. v. Lamontagne (1999), 142 C.C.C. (3d) 561 (Que. C.A.), at 575-76; R.
+v. Cotroni, supra, at pp. 17-8.  Knowledge and acts in furtherance
+of a criminal scheme do, however, provide evidence, particularly where they
+co-exist, from which the existence of an agreement may be inferred. 
+[Emphasis added; citations omitted; paras. 46-47.] I agree with the
+emphasized comment, but would state it slightly differently and in somewhat
+more emphatic terms. [52]                         
+In my view, where a person, with knowledge of a
+conspiracy (which by definition includes knowledge of the unlawful object
+sought to be attained), does (or omits to do) something for the purpose of
+furthering the unlawful object, with the knowledge and consent of one or more
+of the existing conspirators, this provides powerful circumstantial evidence
+from which membership in the conspiracy can be inferred.  To be precise, it
+would be evidence of an agreement, whether tacit or express, that the unlawful
+object should be achieved.  Ultimately, that issue is one for the trier of
+fact, who must decide whether any inference other than agreement can reasonably
+be drawn on the evidence.  But, as I will explain, the case at hand illustrates
+how a constellation of such facts can make a finding of membership a virtual
+certainty. [53]                         
+In so concluding, I note that conspiracies are
+often proved by way of circumstantial evidence.  Direct evidence of an
+agreement tends to be a rarity.  However, it is commonplace that membership in
+a conspiracy may be inferred from evidence of conduct that assists the unlawful
+object.  Justice Rinfret made this basic point in Paradis v. The King,
+[1934] S.C.R. 165, some eight decades ago: Conspiracy, like all other crimes, may
+be established by inference from the conduct of the parties. No doubt the
+agreement between them is the gist of the offence, but only in very rare cases
+will it be possible to prove it by direct evidence.  [p. 168] [54]                         
+Furthermore, it is not necessary that all
+members of a conspiracy play, or intend to play, equal roles in the ultimate
+commission of the unlawful object.  Indeed, members in a conspiracy need not
+personally commit, or intend to commit, the offence which each has agreed
+should be committed: R. v. Genser (1986), 39 Man. R. (2d) 203 (C.A.),
+aff’d [1987] 2 S.C.R. 685.[2] 
+Any degree of assistance in the furtherance of the unlawful object can lead to
+a finding of membership as long as agreement to a common plan can be inferred
+and the requisite mental state has been established. [55]                         
+I do not gainsay the possibility that someone,
+with knowledge of an ongoing conspiracy, could do something for the purpose of
+furthering the unlawful object without the knowledge or consent of the existing
+conspirators.  An example would be where A and B conspire to kill C.  D learns of the conspiracy and
+wishes to facilitate the murder.  Unbeknownst to A or B, D prevents
+a warning message from reaching the intended victim, C: W. R. LaFave, Substantive
+Criminal Law (2nd ed. 2003), vol. 2, at p. 270.  In
+such circumstances, an agreement, tacit or otherwise, between the person
+providing the assistance (D) and the existing conspirators (A and B)
+would be a fiction as neither A nor B was aware of, or agreed to, D’s efforts. [56]                         
+That situation does not arise here, and I leave
+for another day whether a person providing “clandestine” assistance in
+furtherance of the unlawful object of an ongoing conspiracy could be found
+liable of any crime if the conspirators did not commit or attempt to commit the
+substantive crime that formed the object of the conspiracy and if his own
+efforts did not rise to the level of an attempt at the substantive offence. (3)        Aiding
+or Abetting a Pre-Existing Agreement [57]                         
+Beyond the debate between the narrower and
+broader approaches, a question arises as to whether, within the narrower
+approach, the Trieu model should be limited only to those who aid in the
+formation of a new agreement to pursue an unlawful object or whether its
+reach should extend to those who aid or abet a pre-existing agreement. [58]                         
+In support of its position that the latter approach
+should be followed, the Crown relied in part on this Court’s recent decision in
+R. v. Vu, 2012 SCC 40, [2012] 2 S.C.R. 411.  In particular, the Crown
+maintained that because conspiracy has been identified as a continuing offence
+(Bell v. The Queen, [1983] 2 S.C.R. 471, at p. 488), party liability can
+attach to anyone who aids or abets the agreement at any point during the life
+of the conspiracy. [59]                         
+In Trieu, Costigan J.A. opined that
+because conspiracy is an ongoing crime, party liability can arise after the
+initial agreement is formed if, for example, a person aids in the addition of a
+new member to join an existing conspiracy (para. 34).  Justice Doherty also
+took the position that party liability attaches to someone who encourages or
+assists others to join an existing agreement: “Conspiracies and Attempts”, in
+National Criminal Law Program, Substantive Criminal Law (1990), vol. 1,
+at p. 37.  These authorities observe, and I agree, that aiding or encouraging
+someone to become a member of a pre-existing conspiracy facilitates that new
+member’s commission of the offence of conspiracy — that is, the act of
+agreement.  To be consistent in principle, party liability should thus extend
+to assistance or encouragement that results in the addition of a new member to
+a pre-existing conspiracy. [60]                         
+In this case, the Crown argued that the
+appellant could become a party to the conspiracy by encouraging the sisters to
+continue their conspiracy when there were signs that they might abandon it
+(R.F., at para. 34).  As well, at least one American author has suggested that
+a person might be found liable as a party to the offence of conspiracy “by
+facilitating the continuance of the conspiracy as by ‘providing the group with
+a hideout so that it does not have to disband’” (C. R. Williams, “Complicity in
+a Conspiracy as an Approach to Conspiratorial Liability” (1968), 16 U.C.L.A.
+L. Rev. 155, at p. 162, citing “Developments in the Law: Criminal
+Conspiracy”, at pp. 934-35).  The same author suggests that “encouraging one or
+more persons to follow through with already formulated conspiratorial plans”
+might also attract party liability (p. 162). [61]                         
+I would not give effect to the Crown’s
+argument.  As a preliminary matter, the argument goes beyond the limited
+situation endorsed by Costigan J.A. in Trieu and by Doherty J. in his
+article.  And as to the substance of the Crown’s point, though I acknowledge
+that these acts can be viewed as aiding or abetting the agreement itself, such
+behaviour is equally if not more consistently characterized as aiding or
+abetting the furtherance of the unlawful object, and thus captured by the McNamara
+model.  As I explained earlier, the McNamara model should not lead to
+party liability for conspiracy.  The Crown should thus not be able to achieve
+through the back door what principle has denied from the front. [62]                         
+  In my view, the Crown’s argument in favour of
+criminalizing aiding or abetting a pre-existing agreement (short of adding a
+new member to the agreement) is a solution in search of a problem.  As I have
+explained, these acts, which aid or abet the furtherance of the unlawful
+object, provide circumstantial evidence from which membership can be inferred. 
+In cases where the circumstantial evidence falls short of establishing
+membership, there are other charges open to the prosecution.  In some
+instances, the Crown will be able to rely on party liability to charge the
+substantive offence that forms the object of the conspiracy, or an attempt to
+commit that offence; in other instances, the offence of counselling the
+substantive offence may apply. [63]                         
+To sum up, party liability to a conspiracy is
+limited to cases where the accused encourages or assists in the initial
+formation of the agreement, or when he encourages or assists new members to
+join a pre-existing agreement. C.     Application to this Case [64]                         
+In light of my conclusion that party liability
+does not extend to acts done in furtherance of the unlawful object of the
+conspiracy, I agree with the appellant that party liability should not, in the
+circumstances, have been left to the jury.  There is no evidence that the
+appellant aided or abetted the formation of the agreement to murder A.K. or
+aided or encouraged a new member to join the existing conspiracy.  That said,
+like the Court of Appeal, I am satisfied that the error, though significant,
+could not possibly have affected the verdict. [65]                         
+The evidence implicating the appellant as a
+member of the conspiracy was overwhelming.  The Crown presented a powerful body
+of evidence from which the jury could find that the appellant, with knowledge
+of the conspiracy between R and T, provided advice and offered assistance to
+them, with their knowledge and consent, for the purpose of facilitating the
+killing of their mother.  As he said in his MSN conversation with T, shortly
+before the murder occurred, “I’m involved this much, I’m willing to help you
+out with any of it [T]” (A.R., at p. 197).  That, along with other evidence
+which implicated the appellant in providing the Tylenol 3 pills and attending a
+restaurant after the killing to provide R and T with an alibi, provided the
+jury with all the evidence it needed to find an agreement between the appellant
+and R and T that the murder should be carried out.  Nothing more was needed to
+establish the appellant’s membership in the conspiracy.  It is immaterial that
+the appellant, unlike R and T, took no part in the actual killing of A.K.  Once
+the jury rejected his explanation that he was not being serious, as it must
+have, a finding of guilt on the basis of membership was inevitable. [66]                         
+I should point out that in the circumstances,
+the decision on the part of the Crown to charge the appellant with conspiracy
+to commit murder very much softened the blow that could otherwise have befallen
+him.  The assistance he provided to R and T in facilitating the murder, which
+they eventually committed, could well have led to a charge of first degree
+murder against him. [67]                         
+Accordingly, I would dismiss the appeal from
+conviction.  I do so mindful of two alternate grounds of appeal raised by the
+appellant. [68]                         
+First, the appellant submits that evidence
+admitted under the co-conspirators’ exception to the hearsay rule did not
+satisfy the principled approach to hearsay.  Specifically, he complains that
+statements made by T should not have been admitted for their truth because T
+was available as a witness and could have been called by the Crown.  I would
+not give effect to this submission.  Defence counsel at trial did not raise
+this issue with the trial judge.  Had he done so, the Crown may have chosen to
+call T as a witness.  In the circumstances, defence counsel’s decision not to
+raise the matter could well have been a tactical choice — and as no issue is
+taken with the competence of trial counsel, I see no need to address this
+ground further. [69]                         
+Second, the appellant says that the trial judge
+failed to instruct the jury that the co-conspirators’ exception applied only to
+membership and not to party liability.  Once again, defence counsel at trial
+did not raise this issue with the trial judge.  Moreover, the instructions
+given by the trial judge on the co-conspirators’ exception referred to use of
+that evidence only to prove membership.  There was no suggestion that the
+evidence could be used to prove party liability.  That being so, I would not
+give effect to this ground. [70]                         
+ Furthermore, in light of my conclusion that the
+facts of this appeal do not give rise to party liability for the offence of
+conspiracy, this is not an appropriate case to determine how, if at all, the
+framework for the co-conspirators’ exception established by R. v. Carter,
+[1982] 1 S.C.R. 938, might apply in the case of a party to a conspiracy. [71]                         
+As a final matter, I note that there are
+conflicting appellate decisions on the applicability of the co-conspirators’
+exception where conspirators are tried separately:  R. v. Naicker, 2007
+BCCA 608, 229 C.C.C. (3d) 187, leave to appeal refused, [2008] 1 S.C.R. xi; R.
+v. Simpson, 2007 ONCA 793, 230 C.C.C. (3d) 542, leave to appeal refused,
+[2008] 2 S.C.R. xi.  This issue, however, was not raised before us or in the
+courts below.  Accordingly, I see no need to consider it. IV.    Conclusion [72]                         
+The aiding and abetting of a conspiracy is an
+offence known to Canadian law.  The offence is made out where the accused aids
+or abets the actus reus of conspiracy, namely the act of agreeing. 
+It follows that the approach adopted in Trieu is the only basis upon
+which party liability for the offence of conspiracy may be found.  The McNamara
+approach is rejected. [73]                         
+I caution, however, that the behaviour captured
+by McNamara may well support a charge of conspiracy.  As indicated,
+where a person with knowledge of a conspiracy does (or omits to do) something
+for the purpose of furthering the unlawful object, with the knowledge and
+consent of one or more of the existing conspirators, this provides powerful
+circumstantial evidence of his membership in the conspiracy. [74]                         
+The approach I have adopted brings a measure of
+simplicity and clarity to the law.  Party liability to a conspiracy is limited
+to cases where the accused encourages or assists in the initial formation of
+the agreement, or where he encourages or assists new members to join a
+pre-existing agreement. [75]                         
+For the reasons above, I would dismiss the
+appeal from conviction. V.     Appeal from Sentence [76]                         
+Before this Court, the appellant also sought to
+appeal his sentence, even though he did not apply for or receive leave to do
+so.  I see no basis for granting leave to appeal from sentence.  Accordingly, I
+would not consider the proposed sentence appeal.                     Appeal
+dismissed.                     Solicitors
+for the appellant:  Mang, Steinberg, Toronto.                     Solicitor
+for the respondent:  Attorney General of Ontario, Toronto.                     Solicitors for the
+intervener:  Bull, Housser & Tupper, Vancouver.  [1]
+I should point out that on the Trieu model, if A brings B and C
+together in the expectation that they will enter into a conspiracy, but B and C
+do not do so, A cannot be found liable of the offence of attempted conspiracy
+since no such offence exists at law.  See Déry. [2]
+In my view, R. v. Taylor (1984), 40 C.R. (3d) 222 (B.C.S.C.) — which
+takes the contrary position — was wrongly decided.  

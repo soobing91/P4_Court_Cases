@@ -1,0 +1,1656 @@
+                                                   SUPREME
+COURT OF CANADA   Citation:  Caisse populaire
+  Desjardins de l’Est de Drummond v. Canada, 2009 SCC 29, [2009] 2
+  S.C.R. 94  Date:  20090619 Docket:  31787  Between: Caisse
+populaire Desjardins de l’Est de Drummond and in
+right of the Caisse populaire du Bon Conseil Appellant and Her Majesty The
+Queen in Right of Canada Respondent  Official English Translation: Reasons of Deschamps J.  Coram: McLachlin C.J. and Binnie, LeBel, Deschamps, Fish,
+Charron and Rothstein JJ.   Reasons for
+  Judgment: (paras. 1 to 64)  Dissenting
+  Reasons: (paras. 65 to 158)   Rothstein J. (McLachlin C.J. and Binnie, Fish and Charron
+  JJ. concurring)  Deschamps J.
+  (LeBel J. concurring)  ______________________________   Caisse populaire Desjardins de l’Est de Drummond v. Canada, 
+2009 SCC 29, [2009] 2 S.C.R. 94  Caisse
+populaire Desjardins de l’Est de Drummond, in Right of the Caisse populaire du Bon Conseil                                                              Appellant  v.  Her Majesty The Queen in Right of Canada                                                                Respondent  Indexed as:  Caisse populaire Desjardins de l’Est de Drummond v.
+Canada  Neutral citation:  2009 SCC 29.  File No.:  31787.  2008:  February 29; 2009:  June 19.  Present:  McLachlin C.J. and Binnie, LeBel, Deschamps,
+Fish, Charron and Rothstein JJ.  on appeal from the federal court of
+appeal  Taxation — Income tax — Trust for moneys deducted —
+Employer defaulting on line of credit and financial institution exercising
+right of compensation on employer’s term deposit pursuant to agreement — Deemed
+trust in favour of Crown over property of employer that has deducted income tax
+and employment insurance premiums at source — Crown seeking to collect amount
+due by employer for unremitted source deductions from proceeds of term deposit
+— Whether compensation agreement between financial institution and employer
+created “security interest” within meaning of s. 224(1.3)  of Income Tax
+Act — Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .), ss. 224(1.3) 
+“security interest”, 227(4.1).  On September 18, 2000, the Caisse granted Camvrac a
+line of credit up to $277,000.  A week later, Camvrac deposited $200,000 with
+the Caisse in accordance with a “Term Savings Agreement”.  Under the agreement,
+the deposit was neither negotiable nor transferable.  On the same day, the
+Caisse and Camvrac entered into a “Security Given Through Savings” agreement in
+which Camvrac agreed to maintain and permit the Caisse to retain the deposit of
+$200,000 for the duration of its indebtedness to the Caisse.  It also agreed
+that, in the event it defaulted, there would be compensation between the credit
+agreement and the term deposit.  Camvrac defaulted on the loan on
+November 25, 2000, and later made an assignment in bankruptcy.  The Caisse
+noted on its copy of the “Term Savings Agreement”:  “To be closed on 21/2/2001
+to realize on security”.  Since Camvrac had failed to remit to the Crown income
+tax and employment insurance premiums deducted at source, the Crown gave the
+Caisse notice to pay the amount owing to the Crown from the proceeds of the
+deposit.  Section 227(4.1)  of the Income Tax Act  (“ITA ”) and
+s. 86(2.1)  of the Employment Insurance Act  (“EIA ”) create a
+deemed trust in favour of the Crown over property of the employer that has
+deducted income tax and employment insurance premiums at source.  This trust
+applies to property of an employer and property held by any secured creditor of
+the employer that, but for its security interest, would be property of the
+employer.  The property is impressed with the deemed trust at the time the
+unremitted amounts were deducted at source by the employer.  The Caisse
+unsuccessfully challenged the recovery process.  The prothonotary, the Federal
+Court and the Federal Court of Appeal held that the Crown was entitled to
+recover the amounts due and the interest paid at the rate provided for in
+ss. 36(2)  and 37(2)  of the Federal Courts Act.  Held (LeBel and Deschamps
+JJ. dissenting):  The appeal should be dismissed.  Per McLachlin C.J.
+and Binnie, Fish, Charron and Rothstein JJ.:  The agreement between the
+Caisse and Camvrac gave rise to a “security interest” for the purposes of
+s. 224(1.3)  ITA . Camvrac’s property subject to the security
+interest is thus deemed to be held in trust for the Crown under
+s. 227(4.1)  ITA  and s. 86(2.1)  EIA  because Camvrac did
+not remit to the Crown income tax and employment insurance premiums deducted at
+source.  [1] [2]  The definition of “security interest” in
+s. 224(1.3)  does not require that the agreement between the creditor and
+debtor take any particular form, nor is any particular form expressly
+excluded.  So long as the creditor’s interest in the debtor’s property secures
+payment or performance of an obligation, there is a security interest within
+the meaning of this section.  Parliament has chosen an expansive definition of
+security interest in s. 224(1.3)  in order to enable maximum recovery by
+the Crown under its deemed trust for unremitted income tax and employment insurance
+premiums deducted at source by employers.  It is open to Parliament to define a
+term in an area of its own legislative competence in order to ensure that there
+is a rule of general application across all of the provinces.  [12] [14] [15]   The Caisse is liable to pay to the Crown the amounts for
+employment insurance premiums and income tax deducted at source by Camvrac up
+to, and including, any deductions not remitted as of February 21, 2001 — the date
+on which the Caisse realized on its security.  The trust created by
+s. 227(4.1)  ITA  and s. 86(2.1)  EIA  is deemed to be in
+effect at any time.  It does not matter that the term deposit became the
+property of Camvrac only after some of the employment insurance premiums and
+income tax deductions went unremitted since the deemed trust encompasses
+property which comes into the hands of the tax debtor after the trust arises. 
+The proceeds of Camvrac’s term deposit are therefore available to the Crown to
+discharge all of the outstanding employment insurance premiums and income tax
+deducted at source by Camvrac, whether the unremitted deductions occurred
+before or after Camvrac entered into the “Term Savings Agreement” and until
+February 21, 2001.  Interest is calculated in accordance with ss. 36(2) 
+and 37(2)  of the Federal Courts Act from February 21, 2001, when the
+Caisse effected compensation, to the date of payment.  [59] [61] [63]  Per LeBel and
+Deschamps JJ. (dissenting):  Compensation is not a “security interest” as
+that term is defined in s. 224(1.3)  ITA .  For the purposes of
+s. 224(1.3) , it is not enough that compensation offers protection similar
+to that of a security interest:  it must also confer a real right.  To limit
+the concept of security interest in s. 224(1.3)  to rights that are real in
+nature is consistent both with the shared meaning of the terms (“security
+interest” and “garantie”) used in the two versions of the provision and
+with Parliament’s purpose of giving the deemed trust priority over the security
+interests referred to in s. 224(1.3) .  This deemed trust was created to
+ensure that employers remit income tax deducted from their employees’ salaries
+to the Receiver General for Canada.  [65] [98] [101]    Camvrac’s right to recover its claim was subject to the
+right to compensation that had been granted to the Caisse in September 2000 in
+the agreement to give savings as security.  In the context of that agreement,
+the right to compensation was a right held by the Caisse that could not be
+negated solely by the fact of the deemed trust becoming effective.  Her
+Majesty, as a third party, could not demand that the Caisse discharge its debt
+to Camvrac if the conditions for repayment had not been met.  The Caisse’s right
+had to be respected by third parties who acquired rights after the agreement
+was signed.  Consequently, Her Majesty must abide by the compensation
+agreement, given that her right is subsequent to it.  [153]  On the interest issue, there is no need to vary the
+decision of the Federal Court of Appeal. [157]  Cases Cited  By Rothstein J.   By Deschamps J. (dissenting)   Statutes and Regulations Cited   Civil Code of Lower Canada.  Civil Code of Québec,
+S.Q. 1991, c. 64, arts. 875, 974, 1250, 1260, 1261, 1637, 1641, 1643,
+1671, 1672, 1673, 1680, 1681, 2111 para. 2, 2123, 2329, 2330, 2543, 2660, 2683,
+2702, 2703, 2710, 2714.7.   Constitution Act, 1867,
+s. 91 (2A), (3) .  Courts of Justice Act,
+R.S.O. 1990, c. C.43, s. 111.  Employment Insurance Act, S.C. 1996, c. 23, s. 86 .    Federal Law — Civil Law Harmonization Act,
+No. 1, S.C. 2001, c. 4, s. 8 .  Income Tax Act, R.S.C.
+1985, c. 1 (5th Supp .), ss. 224(1) , (1.3)  “security interest”, 227(4)
+[repl. 1998, c. 19, s. 226(1)], (4.1) [ad. idem].   Personal Property Security Act, C.C.S.M., c. P35, s. 3(1).   Personal Property Security Act, R.S.B.C. 1996, c. 359, s. 2(1).  Personal Property Security Act, R.S.O. 1990, c. P.10, ss. 1 “security interest”, “sûreté”,
+2(a) “debenture”, 40.   Personal Property Security Act, R.S.Y. 2002, c. 169, s. 2.     Personal Property Security Act, S.N.W.T. 1994, c. 8, s. 2(1).   Authors Cited  Austin, John.  Lectures on Jurisprudence, or, The
+Philosophy of Positive Law, 5th ed.  revised and edited by R. Campbell. 
+London:  J. Murray, 1885.  Bastarache, Michel, et al.  The Law of Bilingual
+Interpretation.  Markham, Ont.:  LexisNexis Canada, 2008.    Bélanger, André.  Essai d’une théorie juridique de
+la compensation en droit civil québécois.  Cowansville, Qué.:  Yvon
+Blais, 2004.  Black’s Law Dictionary,
+6th ed.  St. Paul, Minn.:  West Publishing Co., 1990, “encumbrance”.  Bonneau, Thierry.  Droit bancaire, 7e
+éd.  Paris:  Montchrestien, 2007.    Claxton, John B.  Studies on the Quebec Law of
+Trust.  Toronto:  Thomson Carswell, 2005.    Cuerrier, Marc.  “The Harmonization of Federal Tax
+Legislation”, in The Harmonization of Federal Legislation with the Civil Law
+of the Province of Quebec and Canadian Bijuralism (Second publication),
+Booklet 7.  Ottawa: Department of Justice, 2001.  Cuming, Ronald C. C., Catherine Walsh and Roderick J.
+Wood.  Personal Property Security Law.  Toronto:  Irwin Law, 2005.  Davies, Paul L.  Gower and Davies’ Principles of
+Modern Company Law, 7th ed.  London:  Sweet & Maxwell, 2003.  Denault, Philippe.  La recherche d’unité dans
+l’interprétation du droit privé fédéral:  Cadre juridique et fragments du
+discours judiciaire.  Montréal:  Thémis, 2008.   Deschamps, Michel. “Le nouveau régime québécois des
+sûretés sur des valeurs mobilières”, conférence donnée le 19 mars 2009 à la
+Chaire du notariat de l’Université de Montréal (en ligne:
+www.chairedunotariat.qc.ca/fr/conferences/mois/032009/Deschamps.pdf).  Duboc, Guy.  La compensation et les droits des
+tiers.  Paris:  L.G.D.J., 1989.  Dukelow, Daphne A.  The Dictionary of Canadian Law,
+3rd ed.  Scarborough, Ont.:  Thomson Carswell, 2004, “debenture”, “encumbrance”.  Garner, Bryan A.  A Dictionary of Modern Legal
+Usage, 2nd ed.  New York:  Oxford University Press, 1995, “debenture”.  Ghestin, Jacques.  Traité de droit civil
+— Les obligations:  les effets du contrat, avec le concours de Marc
+Billiau.  Paris:  L.G.D.J., 1992.  Goode on Legal Problems of Credit and Security, 4th ed.  by Louise Gullifer. London:  Sweet & Maxwell, 2008.   Hohfeld, Wesley Newcomb.  “Fundamental Legal
+Conceptions as Applied in Judicial Reasoning” (1917), 26 Yale L.J. 710.  Holland, Thomas Erskine.  The Elements of
+Jurisprudence, 12th ed.  Oxford:  Clarendon Press, 1916.  Honorat,
+Adrienne. “Redressement et liquidation judiciaires”, D. 1998.Somm.325.  Karim, Vincent.  Les obligations, 2e
+éd., vol. 2, art. 1497 à 1707 C.c.Q.  Montréal:  Wilson &
+Lafleur, 2002.    Lamoureux, Martin.  “The Income Tax Act , the Excise
+Tax Act  and the Term Interest:  An Interesting Case for Harmonization”, in The
+Harmonization of Federal Legislation with Quebec Civil Law and Canadian
+Bijuralism — Collection of Studies in Tax Law 2001.  Montréal: 
+Fiscal and Financial Planning Association/Department of Justice of Canada,
+2002, 7:1.  Lluelles, Didier, et Benoît Moore.  Droit des
+obligations.  Montréal:  Thémis, 2006.  Macdonald, Roderick A.  “Reconceiving the Symbols of
+Property:  Universalities, Interests and Other Heresies” (1994), 39 McGill
+L.J. 761.   Martel, Paul.  Business Corporations in Canada: 
+Legal and Practical Aspects.  Toronto:  Thomson Carswell, 2005
+(loose-leaf updated 2008, release 3).   Martin, Didier.  “Des techniques d’affectation en
+garantie des soldes de comptes bancaires”, D. 1987.Chron.229.  Morel, André.  “La rédaction de lois bilingues
+harmonisées avec le droit civil”, dans The Harmonization of Federal
+Legislation with Quebec Civil Law and Canadian Bijuralism — Collection of
+studies.  Ottawa:  Department of Justice, 1997, 309.    Payette, Louis.  Les sûretés réelles dans le
+Code civil du Québec, 2e éd.  Cowansville, Qué.:  Yvon Blais,
+2001.  Pineau, Jean, Danielle Burman et Serge Gaudet.  Théorie
+des obligations, 4e éd. par Jean Pineau et Serge Gaudet. 
+Montréal:  Thémis, 2001.  Pratte, Denise.  “L’hypothèque avec dépossession de
+créances non représentées par un titre négociable ou le retour à une fiction
+accommodante”, dans Sylvio Normand, dir., Mélanges offerts au professeur
+François Frenette:  études portant sur le droit patrimonial. Québec: 
+Presses de l’Université Laval, 2006, 421. Québec.  Assemblée nationale.  Journal des débats,
+1re sess., 38e lég., vol. 40, no 46,
+11 juin 2008, Étude détaillée du projet de loi no 47, Loi
+sur le transfert de valeurs mobilières et d’autres actifs financiers,
+p. 1.  Quebec Research Centre of Private and Comparative
+Law. Private Law Dictionary and Bilingual Lexicons:  Obligations. 
+Cowansville, Que.:  Yvon Blais, 2003, “accessory real right”.    Salmond, John William.  Jurisprudence, 10th
+ed. by Glanville L. Williams.  London:  Sweet and Maxwell, 1947.  Sullivan, Ruth.  Sullivan on the Construction of
+Statutes, 5th ed.  Markham, Ont.: LexisNexis, 2008.   APPEAL from a judgment of the Federal Court of Appeal
+(Desjardins, Létourneau and Pelletier JJ.A.), 2006 FCA 366, 361 N.R. 77 (sub
+nom. Minister of National Revenue v. Caisse populaire du Bon Conseil),
+[2007] 3 C.T.C. 70, 2007 D.T.C. 5220, [2006] F.C.J. No. 1775 (QL), 2006
+CarswellNat 5050, affirming a decision of Pinard J., 2005 FC 1563, [2007] 2
+C.T.C. 44, 2007 D.T.C. 5664, [2005] F.C.J. No. 1933 (QL), affirming a
+decision by Mireille Tabib, Prothonotary, 2005 FC 731, 293 F.T.R. 166, 2006
+D.T.C. 6385, [2005] F.C.J. No. 900 (QL).  Appeal dismissed, LeBel and
+Deschamps JJ. dissenting.   Pierre Cossette and
+Guy Laperrière, for the respondent.  The judgment of McLachlin C.J. and Binnie, Fish, Charron
+and Rothstein JJ. was delivered by  [1]    
+Rothstein J. — The primary issue in this appeal is whether the agreements between
+the Caisse populaire (“Caisse”) and its customer, Camvrac Enterprises Inc.
+(“Camvrac”), give rise to a “security interest” within the meaning of that term
+in s. 224(1.3)  of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .) (“ITA ”). 
+The definition of “security interest” in s. 224(1.3)  ITA  has also been
+incorporated by reference in s. 86(2.1)  of the Employment Insurance Act,
+S.C. 1996, c. 23  (“EIA ”).  If the agreements between the Caisse and
+Camvrac do fall within the definition of “security interest” in s. 224(1.3)  ITA ,
+then the property of Camvrac that is subject to the security interest of the
+Caisse is deemed to be held in trust for the Crown under s. 227(4.1)  ITA 
+and s. 86(2.1)  EIA  because Camvrac did not remit to the Crown income tax
+and employment insurance premiums deducted at source by Camvrac.  [2]    
+In my view, the agreements  between the Caisse and Camvrac gave
+rise to a “security interest” for the purposes of s. 224(1.3)  ITA .
+Camvrac’s property subject to the security interest was property that was
+subject to the Crown’s deemed trust. I would dismiss the appeal.  I.       Facts  [3]    
+On September 18, 2000, the Caisse granted Camvrac a line of
+credit up to $277,000. On September 25, 2000, Camvrac deposited $200,000 with
+the Caisse in accordance with a “Term Savings Agreement” providing that the
+deposit would mature on October 16, 2005. The “Term Savings Agreement” sets out
+the terms of Camvrac’s entitlement to the deposit and the Caisse’s obligation
+to pay Camvrac $200,000. The relevant portions of the “Term Savings Agreement”
+stated:  [translation]  Date of
+maturity:  October 16, 2005  . . .  PROVISIONS
+GOVERNING THE PRINCIPAL  2.    The member [Camvrac] agrees to make, on the date of
+acquisition, a deposit in the amount of $200,000 (hereinafter referred to as
+the “initial amount of deposit”).  3.    On the date of issue associated with the applicable term (“date
+of issue”), the initial amount of deposit and the interest then accrued on that
+amount shall be reinvested in the form of a deposit maturing on the maturity
+date associated with the applicable term (“date of maturity”).  4.    This deposit may neither be negotiated nor transferred.  No
+amount in principal or interest shall be redeemable or payable before the date
+of maturity.  5.    This deposit may be hypothecated or given as security only in
+favor of the issuing Caisse. . . .  [4]    
+The Caisse and Camvrac also entered into a “Security Given
+Through Savings” agreement.  The most relevant terms read:  [TRANSLATION]  1.    RIGHT
+TO WITHHOLDING AND COMPENSATION  To secure the
+repayment of any sum in principal, interest, costs and accessories owed or to
+be owed the Caisse by:  :  the Depositor
+[Camvrac]  . . .  under:                                                      .
+. .  :    and under
+any debts or obligations, present or future, direct or indirect held by:  :    the
+Depositor                                                                        .
+. .  (hereinafter
+referred to as “the Credit Contract[s]”)  the Depositor
+undertakes to maintain and consents to the withholding by the Caisse, in the
+account(s) or on the certificate(s) of deposit mentioned below, of the amount
+of $200,000.00 distributed as follows:  Account or
+certificate of deposit                 Sum withheld by the Caisse identification (for deposit
+certificates, state date issued amount
+and certificate number)  ALTERNATIVE
+TERM SAVINGS 5 YEARS IN
+THE AMOUNT OF $200,000.00                                                  $200,000.00  ______________________________          $____________________ . . .  The Caisse
+may withhold the sums shown above, . . . as long as all the amounts due under
+the Credit Contract(s) have not been fully repaid and, in the case of a line of
+credit, as long as it has not been cancelled.  In cases of default as provided
+for below, there shall be compensation between the Credit Contract(s) and the
+certificate(s) of deposit or the amounts deposited defined above, as provided
+for in Section 7.  2.    SAFEKEEPING
+OF CERTIFICATES  For the whole
+term of this agreement, the above-mentioned certificate(s) of deposit shall be
+kept by the Caisse.  3.    HYPOTHEC                                                                         .
+. .  7.    DEFAULT  The Depositor
+shall be in default in any of the following cases:  (a)   if any of the commitments under the Credit Contract(s) or these
+presents is not fulfilled;  (b)   if the Depositor or the Borrower becomes insolvent or goes
+bankrupt, or if he(she) makes a proposal and it is rejected or annulled;                                                                        .
+. .  In the event
+of any default:  (a)   any sums owing under the Credit Contracts shall immediately
+become payable;  (b)   the Caisse may use the sums deposited or the certificate(s) of
+deposit contemplated herein, regardless of its(their) having matured or not, to
+compensate its claim under the Credit Contract(s);                                                                         .
+. .  The
+consequences of a default are for the exclusive benefit of the Caisse and the
+latter may waive them expressedly.  The Caisse may, among others, without any
+prejudice to its rights, wait for the maturity date of the certificate(s) of
+deposit before exercising its rights as provided for in paragraphs (b) and (c)
+above.  8.    RESERVE
+OF RECOURSES  . . . Furthermore, failure by the Caisse to avail itself of any
+of its rights in case of default shall not be interpreted as a waiver of such
+rights.  [5]    
+Camvrac failed to pay the interest on its line of credit on
+November 25, 2000 and so was technically in default on that date. However, the
+Caisse took no steps as a result of the default and, according to the Caisse’s
+account summaries, Camvrac’s line of credit continued to accrue interest until
+January 31, 2001.  On February 7, 2001, Camvrac made an assignment in
+bankruptcy.   On February 21, 2001, the Caisse made the following note on its
+copy of the “Term Savings Agreement” : [translation]
+“To be closed on 21/2/2001 to realize on security.” Finally, on June 12, 2001,
+the Crown gave the Caisse notice to pay the amount owing to the Crown for
+unremitted employment insurance premiums and income tax deducted at source by
+Camvrac from the proceeds of the term deposit the Crown said was subject to its
+deemed trust.  [6]    
+Prothonotary Tabib of the Federal Court, Justice Pinard of the
+Federal Court, and Justice Létourneau writing for the Federal Court of Appeal
+found in favour of the Crown: 2005 FC 731, 2006 D.T.C. 6385, aff’d 2005 FC
+1563, 2007 D.T.C. 5664, aff’d 2006 FCA 366, 361 N.R. 77.  The Caisse now
+appeals to this Court.  II.      The Primary Issue  [7]    
+Under the “Security Given Through Savings” agreement, the Caisse
+was entitled to effect compensation to reduce or eliminate Camvrac’s
+indebtedness to it if Camvrac defaulted on its line of credit.  The Caisse did
+so. The issue is whether the Crown is the beneficial owner of Camvrac’s term
+deposit to the extent of the unremitted employment insurance premiums and
+income tax deducted by Camvrac at source as a result of the deemed trust
+created by s. 227(4.1)  ITA  and s. 86(2.1)  EIA .  III.      Analysis  A.       The Definition of “Security Interest” in
+Section 224(1.3)  of the Income Tax Act  [8]    
+Parliament has defined “security interest” in s. 224(1.3)  ITA .
+This definition provides that:  “security interest” means any interest in
+property that secures payment or performance of an obligation and includes an
+interest created by or arising out of a debenture, mortgage, hypothec,
+lien, pledge, charge, deemed or actual trust, assignment or encumbrance of
+any kind whatever, however or whenever arising, created, deemed to arise or
+otherwise provided for;  [9]    
+Section 227(4.1)  ITA  and s. 86(2.1)  EIA  create a
+deemed trust in favour of the Crown over property of the employer that has
+deducted income tax and employment insurance premiums at source. The deemed
+trust applies to property of the employer and property held by any secured
+creditor of the employer that, but for its security interest, would be property
+of the employer. The property is impressed with the deemed trust at the time
+the unremitted amounts were deducted at source by the employer. Section
+227(4.1)  ITA  provides:  Notwithstanding any other provision of this Act, the Bankruptcy
+and Insolvency Act  (except sections 81.1 and 81.2 of that Act), any other
+enactment of Canada, any enactment of a province or any other law, where at
+any time an amount deemed by subsection (4) to be held by a person in trust for
+Her Majesty is not paid to Her Majesty in the manner and at the time provided
+under this Act, property of the person and property held by any secured
+creditor (as defined in subsection 224(1.3) ) of that person that but for a
+security interest (as defined in subsection 224(1.3) ) would be property of the
+person, equal in value to the amount so deemed to be held in trust is deemed  (a) to
+be held, from the time the amount was deducted or withheld by the person,
+separate and apart from the property of the person, in trust for Her Majesty
+whether or not the property is subject to such a security interest, and  (b) to
+form no part of the estate or property of the person from the time the amount
+was so deducted or withheld, whether or not the property has in fact been kept
+separate and apart from the estate or property of the person and whether or not
+the property is subject to such a security interest  and is property beneficially owned by Her Majesty notwithstanding any
+security interest in such property and in the proceeds thereof, and the
+proceeds of such property shall be paid to the Receiver General in priority to
+all such security interests.  Section 86(2.1)  EIA  is to
+the same effect with respect to employment insurance premiums deducted by
+employers at source.   [10]
+While the definition of “security interest” is similar to legal
+terminology used in the personal property security and other legislation of the
+provinces, the definition in s. 224(1.3)  ITA  is the only relevant
+definition of “security interest” for the purposes of s. 227(4.1)  ITA  and
+s. 86(2.1)  EIA .  Both s. 227(4.1) ITA  and s. 86(2.1)  EIA ,
+which incorporate by reference the definition of “security interest” from s.
+224(1.3)  ITA , apply  [n]otwithstanding any other provision of this Act, the Bankruptcy
+and Insolvency Act  (except sections 81.1 and 81.2 of that Act), any other
+enactment of Canada, any enactment of a province or any other law . . . . [s.
+227(4.1)  ITA ]  [n]otwithstanding the Bankruptcy and Insolvency Act  (except
+sections 81.1 and 81.2 of that Act), any other enactment of Canada, any
+enactment of a province or any other law . . . . [s. 86(2.1)  EIA ]   This is a clear
+indication that the scope of the deemed trust created by these provisions over
+property of the tax debtor is to be defined in terms of the statutory
+definition of “security interest” provided by Parliament in s. 224(1.3)  ITA 
+and not as the term security interest may be used in provincial legislation.  [11]
+As Binnie J. recently noted in Saulnier v. Royal Bank of
+Canada, 2008 SCC 58, [2008] 3 S.C.R. 166, at para. 16, “[f]or particular
+purposes Parliament can and does create its own lexicon.”  Parliament’s
+authority to define terms without reference to provincial law in areas of
+federal legislative competency was considered with respect to bankruptcy in Husky
+Oil Operations Ltd. v. Minister of National Revenue, [1995] 3 S.C.R. 453.
+Gonthier J. held for the majority, at para. 32, that  the definition
+of terms such as “secured creditor”, if defined under the Bankruptcy Act, must
+be interpreted in bankruptcy cases as defined by the federal Parliament, not
+the provincial legislatures. Provinces cannot affect how such terms are defined
+for purposes of the Bankruptcy Act.   [12]
+It is therefore open to Parliament to define a term in an area of
+its own legislative competence (Constitution Act, 1867, s. 91 (2A)
+“Unemployment Insurance” and s. 91(3)  “The raising of Money by any Mode or
+System of Taxation”), as it has done here, in order to ensure that there is a
+rule of general application across all of the provinces.  Were provincial law
+used to define the meaning of “security interest” in s. 224(1.3)  ITA  and,
+in turn, the scope of the deemed trust created by s. 227(4.1)  ITA  and s.
+86(2.1)  EIA , uniformity could not be achieved.  Rather, what constituted
+a “security interest” for the purposes of s. 224(1.3)  ITA  could be
+different from province to province.  The Minister’s ability to recover
+unremitted source deductions would then vary depending on an employer’s
+location.  [13]
+Further, if provincial law were used to define the meaning of a
+“security interest” under s. 224(1.3)  ITA , a change in the provincial
+law of property security would affect the scope of the deemed trust created by
+s. 227(4.1)  ITA  and s. 86(2.1)  EIA  from time to time. This
+level of uncertainty cannot have been what Parliament intended with the words
+“any interest in property that secures payment or performance of an obligation”
+in s. 224(1.3)  ITA .  This definition is incorporated by reference in s.
+227(4.1)  ITA  and s. 86(2.1)  EIA  which create the deemed trust in
+favour of the Crown “[n]otwithstanding  . . . any enactment of a province”.  [14]
+In this case, Parliament has chosen an expansive definition of
+“security interest” in s. 224(1.3)  ITA  in order to enable maximum
+recovery by the Crown under its deemed trust for unremitted income tax and
+employment insurance premiums deducted at source by employers. Parliament did
+so, in part, in response to this Court’s decision in Royal Bank of Canada v.
+Sparrow Electric Corp., [1997] 1 S.C.R. 411, which interpreted the former
+deemed trust provisions in the ITA  narrowly.  [15]
+In order to constitute a security interest for the purposes of s.
+227(4.1)  ITA  and s. 86(2.1)  EIA , the creditor must hold “any
+interest in property that secures payment or performance of an obligation”. The
+definition of “security interest” in s. 224(1.3)  ITA  does not require
+that the agreement between the creditor and debtor take any particular form,
+nor is any particular form expressly excluded. So long as the creditor’s
+interest in the debtor’s property secures payment or performance of an
+obligation, there is a “security interest” within the meaning of this section.
+While Parliament has provided a list of “included” examples, these examples do
+not diminish the broad scope of the words “any interest in property”: see Dagg
+v. Canada (Minister of Finance), [1997] 2 S.C.R. 403, at para. 68, and R.
+Sullivan, Sullivan on the Construction of Statutes (5th ed. 2008), at
+pp. 61-68.  [16]
+I agree with my colleague that the common linguistic meaning of
+the defined term “security interest” in s. 224(1.3)  ITA  is the English
+term “security interest”. A “security interest” is defined as any interest in
+property or “droit sur un bien” (right over property) that secures the
+performance of an obligation.  [17]
+ For the reasons that follow, I conclude that the definition of
+“security interest” in s. 224(1.3)  ITA  applies to the facts before this
+Court.  B.     The Relationship Between Contractual Compensation or Set-Off
+and a Security Interest  [18]
+Compensation and set-off are terms of art which I do not purport
+to define exhaustively in these reasons.  Compensation in Quebec is similar to
+set-off in the common law provinces. There are a number of circumstances giving
+rise to compensation or set-off.  There are also different kinds of
+compensation and set-off. “Legal compensation” is defined in arts. 1672 ff. of
+the Civil Code of Québec, S.Q. 1991, c. 64 (“C.C.Q.”).  Articles
+1672 and 1673 state in part that:  1672.   Where two persons are reciprocally debtor and creditor
+of each other, the debts for which they are liable are extinguished by
+compensation, up to the amount of the lesser debt.  . . .  1673.   Compensation is effected by operation of law upon the
+coexistence of debts that are certain, liquid and exigible and the object of
+both of which is a sum of money or a certain quantity of fungible property
+identical in kind.   [19]
+In the common law provinces, “legal set-off” is similarly
+statutorily defined. In the Ontario Courts of Justice Act, R.S.O. 1990,
+c. C.43, for example, “legal set-off” is defined in s. 111:  111. — (1) In an action for payment of a debt, the defendant
+may, by way of defence, claim the right to set off against the plaintiff’s
+claim a debt owed by the plaintiff to the defendant.  (2) Mutual debts may be set off against each other even if they are of
+a different nature.  (3) Where, on a defence of set off, a larger sum is found
+to be due from the plaintiff to the defendant than is found to be due from the
+defendant to the plaintiff, the defendant is entitled to judgment for the
+balance.  [20]
+“Equitable set-off” was compared and contrasted with legal
+set-off by Wilson J. in Holt v. Telford, [1987] 2 S.C.R. 193. Wilson J.
+said of equitable set-off, at pp. 205-6:  The distinction between set-off at law and set-off in equity was
+canvassed by the British Columbia Court of Appeal in C.I.B.C. v. Tuckerr
+Indust. Inc., supra, at p. 605:  Such a set-off has its origin in equity and does not rest on the statute
+of 1728. It can apply where mutuality is lost or never existed. It can apply
+where the cross obligations are not debts.  Equitable
+set-off, like legal set-off, is also raised by way of cross-claim (see Holt,
+at pp. 212-13).  [21]
+There may be some differences between legal compensation (in
+Quebec) and legal and equitable set-off (in the common law provinces). 
+However, the differences between legal compensation and legal and equitable
+set-off do not arise in this case because this Court is considering a right to
+compensation conferred on the Caisse by a contract between the Caisse and
+Camvrac (i.e. the “Security Given Through Savings” agreement). The Caisse and
+my colleague use the term “compensation conventionnelle”. I translate “compensation
+conventionnelle” as “contractual compensation”.  [22]
+Contractual compensation achieves a similar goal to legal
+compensation or legal or equitable set-off, the discharge of mutual debts.
+However, contractual compensation achieves this goal through mutual consent. It
+provides the contracting parties with a self-help remedy that avoids the
+technical requirements of legal compensation or legal or equitable set-off :
+see J.-L. Baudouin and P.-G. Jobin, Les obligations (5th ed. 1998), at
+para. 981, and K. R. Palmer, The Law of Set-Off in Canada (1993), at pp.
+263-64.  Both a contract providing for a right of compensation in Quebec and a
+contract providing for a right of set-off in the common law provinces are to be
+interpreted by a court in a manner that gives effect to the intentions of the
+parties as reflected in the words of the contract.  [23]
+I do not think it is correct to make a blanket determination that
+a contractual right to compensation or a contractual right to set-off can never
+be associated with a “security interest” or that they are always associated
+with a “security interest”.  Whether a contract providing for a right to
+compensation or a right to set-off also gives rise to a “security interest”
+within the meaning of s. 224(1.3)  ITA  requires that the terms of the
+contract be carefully considered to determine whether the parties intended to
+confer on one party or the other “any interest in property [of the other party]
+that secures payment or performance of an obligation”.  [24]
+In The Law of Set-Off (3rd ed. 2003), Professor S. R.
+Derham argues, I think persuasively, that some contracts including a right of
+set-off (or, in this case, contracts including a right of compensation) should
+be said also to involve security. As an example of a set-off agreement that
+also contains a security interest, Professor Derham describes a situation very
+similar to the one before this Court in the following words, at para. 16.82:  . . . a bank
+as a condition to the grant of a facility requires that a deposit be made with
+it which the depositor is not permitted to access until all indebtedness under
+the facility has been paid, and the parties agree that the bank may appropriate
+the deposit in discharge of the debt in the event of default in payment.  The
+essence of the arrangement is that the depositor’s property, in the form of the
+account in credit, is to function as a security.  Indeed, in the case of a
+charge-back in which express words of charge are used, a contractual set-off is
+the very remedy that would be contemplated . . . . [Emphasis added.]  [25]
+The essence of contractual compensation or set-off is that the
+terms of the contract reflect the mutual intention of the parties: see Derham,
+at para. 16.86.  If their mutual intention is to create a security interest to
+ensure that the right of  compensation or set-off will be an effective remedy,
+there is no reason to think that a security interest does not exist simply
+because the parties have chosen one mechanism for realizing on the security,
+rather than another.  What must be considered is the substance of the agreement. 
+If the substance of the agreement demonstrates that the parties intended an
+interest in property to secure an indebtedness, then a security interest exists
+within the meaning of s. 224(1.3)  ITA .  C.     Application of the Deemed Trust Provisions  [26]
+In this case, the Caisse says that its contractual right to
+effect compensation with Camvrac is not a “security interest” within the
+meaning of s. 224(1.3)  ITA .  It says that this contractual right did not
+confer on it an interest in Camvrac’s property with the intention of securing
+the line of credit that it extended to Camvrac. Rather, the Caisse says that
+the contractual right allowed it simply to extinguish its own indebtedness to
+Camvrac.  [27]
+The Crown submits that the definition of “security interest” in
+s. 224(1.3)  ITA  is broad enough to include the Caisse’s contractual
+right to effect compensation contained in the “Security Given Through Savings”
+agreement between the Caisse and Camvrac.  It says that the deemed trust
+created by s. 227(4.1)  ITA  and s. 86(2.1)  EIA  protected its
+interest in the proceeds of Camvrac’s term deposit because the property of
+Camvrac subject to the Caisse’s security interest is beneficially owned by the
+Crown under its deemed trust to the extent of the unremitted source deductions.  [28]
+The issue then is whether the Caisse and Camvrac intended the
+agreements, which included the Caisse’s right to effect compensation, to create
+a “security interest” within the meaning of s. 224(1.3)  ITA .  In my
+view, they did.  [29]
+The relevant facts are these. Camvrac made a deposit of $200,000
+with the Caisse. Camvrac and the Caisse entered into a  “Term Savings
+Agreement” under which Camvrac and the Caisse agreed that:  (a)   Camvrac’s deposit would be for a term of five
+years;  (b)   Camvrac could not negotiate or transfer the
+deposit;  (c)   the term deposit could be hypothecated or
+given as security, but only in favour of the Caisse.  Camvrac and the
+Caisse also agreed to enter into the “Security Given Through Savings” agreement.
+Under this agreement, Camvrac and the Caisse agreed that:  (a)   “To secure repayment of any sum . . . owed or
+to be owed the Caisse” by Camvrac under its line of credit that:  (i) Camvrac would maintain a deposit of $200,000;  (ii) Camvrac consented to the Caisse withholding
+repayment of the sum of $200,000;  as long as the line of credit was still outstanding.  (b)   In the event of default, there would be
+compensation between the line of credit and the deposit of $200,000.  These agreements
+expressly conferred on the Caisse an interest in the property of Camvrac (i.e.
+Camvrac’s deposit) to secure repayment of Camvrac’s indebtedness to the Caisse.  [30]
+It was the five-year term and the maintenance and retention of
+the $200,000 deposit, as well as Camvrac’s agreement not to transfer or
+negotiate the deposit and that the deposit could only be used as security with
+the Caisse, that created the Caisse’s interest in Camvrac’s property for the
+purposes of s. 224(1.3)  ITA .  In the absence of these encumbrances on
+Camvrac’s deposit, Camvrac could have withdrawn the deposit at any time. Should
+it have done so and still been indebted to the Caisse, the Caisse’s right to
+compensation would be ineffective because it would not be indebted to Camvrac
+at the time the Caisse had to resort to the remedy of compensation. However, in
+this case the terms of the agreements provided that Camvrac agreed to the
+encumbrances on its deposit of $200,000 so that the Caisse would continuously
+be indebted to Camvrac and that on default there would be effective
+compensation.  It is the fact that the agreements secured the Caisse’s right to
+effective compensation by conferring on the Caisse an interest in Camvrac’s
+property that created a “security interest” for the purposes of s. 224(1.3)  ITA .  [31]
+I note here, from the words of the agreements, that the Caisse
+itself conceived of its agreements with Camvrac as creating “security” for the
+line of credit. The “Term Savings Agreement” provided that the term deposit
+“may be hypothecated or given as security only in favor of the issuing
+Caisse” (emphasis added). In the “Security Given Through Savings” agreement, it
+was Camvrac’s term deposit which was used “[t]o secure the repayment” of
+the line of credit (emphasis added). The hypothecation provision contained in
+the “Security Given Through Savings” agreement was “[t]o further secure
+the repayment” (emphasis added). Thus, even in the absence of hypothecation,
+the agreements granted the Caisse rights over Camvrac’s deposit to ensure an
+effective compensation remedy. The rights and obligations ensuring an effective
+compensation remedy were the Caisse’s primary security because the
+hypothecation was viewed as “further” security.  [32]
+ While the mechanism by which the Caisse would realize on its
+security was compensation, that mechanism in no way detracts from the fact that
+the deposit was encumbered by the conditions agreed to by Camvrac and imposed
+by the Caisse in order to ensure that the remedy of compensation would be
+effective.  Nor does the fact that the Caisse could realize on its security by
+means of a book entry diminish the fact that the deposit secured Camvrac’s
+obligation to the Caisse.  In the absence of the restrictions imposed by the
+Caisse, Camvrac’s right to repayment of its deposit of $200,000 could have been
+encumbered or transferred to a third party as security: see arts. 1637 and 2710
+C.C.Q. and B. Crawford, The Law of Banking and Payment in Canada
+(loose-leaf), vol. 2, at § 9:30.20.  Just because a creditor holding a security
+interest (the Caisse) is also the debtor (the Caisse owes the $200,000
+deposited by Camvrac to Camvrac) does not make it any less of a security
+interest for the purposes of s. 224(1.3)  ITA .  [33]
+The situation in this case is in contrast to one in which a bank
+has what may be a standard term in a deposit agreement that any credit in the
+customer’s account may be appropriated by the bank in discharge of the
+customer’s potential indebtedness to the bank. In that case, there is no
+obligation on the customer to maintain a specific sum or, indeed, any amount
+deposited in the account at all as security for a loan that may or may not
+exist.  There is no continuous right in the customer’s property to protect the
+bank against default.  The customer may withdraw any or all of the amounts in
+the account at any time.  No specific property secures repayment.  In these
+circumstances, based on this type of deposit agreement, the customer’s property
+— its right to claim a deposit — cannot be said to secure its indebtedness to
+the bank. Unlike the case before this Court, this is a simple contractual right
+to set-off or compensation without attendant security.  D.      Responses to Deschamps J.  [34]
+In my view, the difference in the results reached by Deschamps J.
+and myself in this case stems from the approaches we have taken. If I
+understand my colleague’s approach correctly, she focusses on the remedy of
+compensation to conclude it is not a security interest. Under my approach, it
+is necessary to consider all of the relevant terms of the agreements between
+Camvrac and the Caisse and not solely the provisions entitling the Caisse to
+the remedy of compensation. In my view, the issue is not whether compensation alone
+is viewed as a security interest. It is whether the agreements between the
+parties — including the Caisse’s contractual right to effect compensation —
+created a “security interest” to ensure that the remedy of compensation would
+be effective.  [35]
+Deschamps J. says that a creditor with a right to effect
+compensation or set-off attains a goal analogous to a security interest.
+However, in her view, creditors who exercise their right to compensation or
+set-off are not enforcing a security by realizing on the debtor’s property, but
+are instead just extinguishing mutual obligations.  [36]
+ I agree with her that compensation or set-off is the
+extinguishment of mutual obligations. However, mutual obligations must exist
+for compensation to be an effective remedy. If a debtor can, at its own option,
+eliminate the creditor’s liability to it (by withdrawing its deposit), the
+creditor may have a right of compensation or set-off, but it may not be
+effective. It is the encumbrances placed on the debtor’s claim against the
+creditor that ensure that the creditor will remain liable to the debtor and, in
+this way, ensure an effective compensation remedy.  [37]
+Deschamps J. also notes that compensation is not specifically
+enumerated in s. 224(1.3)  ITA  and that this is important for two
+reasons.  First, she relies on academic authorities who assert that a
+contractual right to set-off cannot create a security interest because the
+right does not confer on the creditor an interest in the debtor’s property.
+Second, she says that compensation would have to be specifically enumerated in
+s. 224(1.3)  ITA  because compensation and set-off are not included in the
+provincial statutes respecting personal property security. Legal compensation
+is not included in the division relating to hypothecs in the Civil Code of
+Québec.  She also says that set-off is excluded from the personal property
+security legislation of the common law provinces which all include definitions
+of security interest that are similar to that in s. 224(1.3)  ITA .  In
+light of the exclusion of contractual compensation and contractual set-off from
+provincial legislation dealing with security interests over property and the
+fact that contractual compensation does not confer on the creditor an interest
+in the debtor’s property, its absence from the list of examples of security
+interests provided in s. 224(1.3)  ITA  is evidence that Parliament did
+not intend to include contractual compensation or contractual set-off within
+its definition of “security interest”.  [38]
+With respect to my colleague’s reliance on academic authorities
+who say that a contractual right to set-off does not confer on a creditor an
+interest in property, I understand these authorities differently than my
+colleague.  Professor Derham explains that a contract containing a right to
+set-off like the one at issue in this case can also confer on a creditor an
+interest in a debtor’s property: see Derham, at para. 16.82.  However, the
+authors upon whom Deschamps J. relies do not address the precise issue before
+this Court.  For example, R. C. C. Cuming, C. Walsh and R. J. Wood say, in Personal
+Property Security Law (2005):  Set-off, whether contractual or procedural, does not involve a security
+interest because neither party to the set-off acquires a property interest. [p.
+87]  And Professor R.
+M. Goode says, in Goode on Legal Problems of Credit and Security (4th
+ed. 2008):  The party asserting it [the right of set-off] never acquires rights in
+the other’s monetary claim at all; he merely asserts a countervailing claim
+which operates in pro tanto extinction of his monetary liability. [para. 1-19]  However, in this
+case, the Caisse has acquired rights in Camvrac’s property by the encumbrances
+placed on Camvrac’s deposit.  Those rights ensured that Camvrac’s claim against
+the Caisse for its deposit would continuously exist in order to ensure that the
+compensation remedy would be effective. The P. Wood quote relied upon by
+Deschamps J. states:  [With respect
+to set-off] . . . a depositor does not grant a property right over the
+depositor’s ownership of the deposit claim back to the bank to secure a loan
+owed by the depositor to the bank.  (Set-Off and Netting, Derivatives, Clearing Systems (2nd ed.
+2007), at para. 1-008)  Yet, in this
+case, Camvrac did grant the Caisse a continuous interest in its deposit.  [39]
+It appears these authors were considering a bare right to
+contractual set-off such as the standard form deposit agreement I have
+discussed above. I believe these authors are saying that the remedy of set-off
+results in no property of the debtor coming in the hands of the creditor as the
+result of a set-off. All that occurs is the extinguishment of mutual debts.
+These authors are not addressing the period of time before set-off takes place
+where, as in this case, the creditor has taken steps to place restrictions on
+the debtor’s property to ensure that the creditor continuously remains liable
+to the debtor so that the set-off remedy will be effective.   [41]
+Although it is unnecessary for me to decide this point in order
+to resolve the issues in this appeal, I would respectfully disagree with my
+colleague that any agreement that provides for contractual set-off is
+categorically excluded from the personal property security legislation of the
+common law provinces. In the common law provinces, the approach to personal
+property security arrangements is functional, rather than formal. For example,
+s. 3(1) of Alberta’s Personal Property Security Act, R.S.A. 2000, c.
+P-7, states that it applies to  (a)   every transaction that in substance creates a security
+interest, without regard to its form and without regard to the person who has
+title to the collateral, and  (b)   without limiting the generality of clause (a),
+a chattel mortgage, conditional sale, floating charge, pledge, trust indenture,
+trust receipt, assignment, consignment, lease, trust and transfer of chattel
+paper where they secure payment or performance of an obligation.  See also the
+personal property security acts of the other provinces and territories:  s.
+3(1) in New Brunswick (S.N.B. 1993, c. P-7.1), Prince Edward Island (R.S.P.E.I.
+1988, c. P-3.1), Manitoba (C.C.S.M., c. P35) and Saskatchewan (S.S. 1993, c.
+P-6.2); s. 2(1) in British Columbia (R.S.B.C. 1996, c. 359), Northwest
+Territories and Nunavut (both S.N.W.T. 1994, c. 8); s. 4(1) in Nova Scotia
+(S.N.S. 1995-96, c. 13) and Newfoundland and Labrador (S.N.L. 1998, c. P-7.1);
+s. 2(a) in Ontario (R.S.O. 1990, c. P.10); and s. 2 in Yukon (R.S.Y. 2002, c.
+169).  [42]
+Given the functional approach to personal property security
+arrangements  in these statutes, it is difficult for me to see how any
+transaction that confers an interest on a creditor in a debtor’s property to
+secure an obligation could be categorically excluded unless that type of
+transaction has been defined and expressly excluded by the legislation itself. 
+To my knowledge, an agreement that provides for security together with a right
+of set-off to realize on that security is not expressly excluded in any of the
+common law provincial personal property security statutes. What is required by
+the common law provincial personal property security statutes is a decision
+about whether a particular contract or agreement in a given case functions as a
+security interest.  [43]
+Deschamps J. says the Caisse did not rely on its hypothec. She
+says the mere obligation of Camvrac to maintain its deposit and the Caisse’s
+right to withhold repayment of the deposit do not create the real right
+necessary for a “security interest”. She distinguishes between “droit de
+rétention”, which she says only applies to corporeal property and which has
+some of the attributes of a real right and a “droit de retenue”, which
+applies to retention of amounts of money and which has no attributes of a real
+right and corresponds to compensation.  [44]
+At both civil and common law, a claim, like a deposit, may be
+charged with a real right or become the subject of a creditor’s interest in
+property. For example, accounts receivable are often assigned to lending
+institutions as security for loans. Indeed, a deposit in a bank or caisse is an
+account receivable in favour of the customer. In the case of term deposits, in
+the absence of restrictions imposed by the lending institution, a term deposit
+may be assigned just like other receivables. An assignee has an interest in or
+a real right over the account receivable, that is an encumbrance on the claim
+of the creditor to the proceeds of the receivables whether from debtor
+customers or from a debtor bank or caisse.  [45]
+In s. 224(1.3) ITA , the word “interest” in English is
+rendered as “droit” or right in French. As Marc Cuerrier notes in “The
+Harmonization of Federal Tax Legislation” (section 2.3 ), booklet 7 published in
+The Harmonization of Federal Legislation with the Civil Law of the Province
+of Quebec and Canadian Bijuralism (2001), this terminological difference in
+the English and French reflects differences in the two major legal systems of
+Canada. While in the common law it is possible to speak independently of both
+rights and interests in property, only rights are recognized in the civil law.
+As Martin Lamoureux notes in his article “The Income Tax Act , the Excise Tax
+Act  and the Term Interest: An Interesting Case for Harmonization” published in The
+Harmonization of Federal Legislation with Quebec Civil Law and Canadian
+Bijuralism — Collection of Studies in Tax Law 2001 (2002), 7.1, the term “droit”
+in civil law corresponds most to the term “interest” in common law.      [48]
+In this case, the agreements between the Caisse and Camvrac met
+these criteria. First, the Caisse had effective control over Camvrac’s claim.
+The five-year term and the conditions in the “Security Given Through Savings”
+agreement ensured that the Caisse had effective control over Camvrac’s deposit
+and that, in the event of default, the Caisse could effect compensation between
+the line of credit and Camvrac’s deposit without further authorization from
+Camvrac.  Second, it is not clear on the record whether a certificate of
+deposit was or was not issued in this case.  Both clause 2 of the “Security
+Given Through Savings” agreement and the fact that the Caisse noted on its copy
+of the “Term Savings Agreement” that it had been [translation] “To be closed on 21/2/2001 to realize on
+security” suggest that, if a certificate of deposit was issued, it was held by
+the Caisse.  However, nothing turns on whether Camvrac’s term deposit was
+evidenced by a certificate of deposit.  Gonthier J.’s second criteria for a
+movable hypothec with delivery over a non-negotiable claim only applies where a
+non-negotiable title exists.  Where it does not, the second criteria is not
+applicable.  Third, a movable hypothec with delivery is set up against the
+account debtor and all other claimants by taking the necessary steps under art.
+1641 C.C.Q. Under art. 1641 C.C.Q., the assignment may be set up
+against the account debtor and other claimants as soon as the account debtor
+has acquiesced in it.  In this case, in respect of Camvrac’s deposit, the
+Caisse is the account debtor as well as the assignee. Obviously, the Caisse as
+account debtor acquiesced in the assignment of its debt to itself as assignee. 
+In my view, because the agreements between the Caisse and Camvrac met the
+criteria of a movable hypothec with delivery on a non-negotiable claim and
+because a hypothec is defined as a real right in the Civil Code of Québec,
+the Caisse must have held a real right over Camvrac’s property.  [49]
+As my colleague notes at para. 129, art. 2702 C.C.Q. has
+been amended and these amendments have come into force since this case was
+heard.  It is not necessary to embark upon an interpretation of these
+amendments.  However, what they point out is that, should provincial law form
+the basis for defining a “security interest” under s. 224(1.3)  ITA , the
+scope of the deemed trust created by s. 227(4.1)  ITA  and s. 86(2.1)  EIA 
+could change from time to time with changes to provincial property security
+law.  In my view, this result is not contemplated by the words of ss. 224(1.3) 
+and 227(4.1)  ITA , and s. 86(2.1)  EIA .  [50]
+Deschamps J. says that Camvrac’s obligation to maintain the
+deposit and the Caisse’s right to withhold repayment “were of residual
+application” only (para. 120). During the term of the deposit, the Caisse was
+not required to return the deposit until the term had expired.  [51]
+Even if the obligation to maintain and the right to retain are
+residual and apply only after the five-year term of the deposit has expired,
+they are nonetheless encumbrances that could affect Camvrac’s use of its
+property. Indeed, as Deschamps J. says, they are mechanisms provided “to ensure
+that legal or conventional compensation could be effected” (para. 120). That is
+precisely the point. The agreements entered into by Camvrac and the Caisse
+created rights and obligations, including the Caisse’s right of retention and
+Camvrac’s obligation to maintain the deposit, to ensure that the Caisse would
+remain liable to Camvrac if the Caisse had to resort to compensation as a
+remedy.  [52]
+Finally, Deschamps J. says that the Caisse’s right of retention
+of Camvrac’s $200,000 deposit does not confer on the Caisse a real right to
+Camvrac’s term deposit. She says at para. 121:  The most important thing to bear in mind is that none
+of the clauses . . . created a real right or [a] security interest . . . .  A
+term is a deadline for repayment. The right to deduct is simply the right of a
+creditor not to perform an obligation to pay as long as a debt is owed to him
+or her. It is, in a way, an extension granted for repayment. As for the
+obligation to maintain, it is clearly an undertaking by one person to another
+to perform an obligation.  The limit on the right to transfer, hypothecate or
+negotiate constitutes an obligation “not to do”.  [53]
+She further says, at para. 124, that my approach may conflict
+with how negative pledges are treated under the functional approach to personal
+property security in the common law provinces. She quotes Professors Cuming,
+Walsh and Wood who say, at p. 86:  A “negative
+pledge” clause or negative covenant in a loan agreement under which the
+borrower covenants not to encumber or dispose of some or all of her personal
+property until the loan is repaid does not create a security interest since, standing
+alone, the covenant does not create an interest in the property of the
+borrower. A negative pledge clause in a security agreement cannot prevent the
+covenantor from giving another effective security interest in the collateral. 
+[Emphasis added.]  [54]
+I believe her paras. 121 and 124 highlight the difference between
+us. I would agree with my colleague that no security interest has been created
+if a contractual right to compensation only means that, should the debtor
+default, the creditor may retain amounts owed to the debtor, if any. I would
+also agree that a negative pledge “standing alone” does not “prevent the
+covenantor from giving another effective security interest in collateral”.  [55]
+However, much more was occurring here. From the outset, the
+Caisse required that Camvrac make a term deposit subject to encumbrances in
+order to ensure that the Caisse would remain liable to Camvrac, in the event
+that the Caisse had to resort to the remedy of compensation as a result of
+default. The right of retention, the obligation to maintain and Camvrac’s
+pledge not to hypothecate or use its term deposit as security in favour of
+anyone besides the Caisse were three of a series of encumbrances that created
+the Caisse’s interest in or right over Camvrac’s property to ensure that
+compensation would be an effective remedy.  E.      To Which of the Unremitted Source
+Deductions Did the Deemed Trust Apply?  [56]
+Having concluded that the agreements between the Caisse and
+Camvrac created a “security interest” within the meaning of s. 224(1.3)  ITA ,
+it is now necessary to determine whether the deemed trust covered all
+unremitted source deductions that the Crown sought from the Caisse.  [57]
+On the facts of this case, some of the unremitted employment
+insurance premiums and income tax deducted was owed by Camvrac to the Crown
+before Camvrac entered into the “Term Savings Agreement” with the Caisse. 
+There is some question, then, in this case, whether the deemed trust provisions
+in s. 227(4.1)  ITA  and s. 86(2.1)  EIA  can confer beneficial
+ownership on the Crown over Camvrac’s after-acquired property (i.e. the term
+deposit).  [58]
+A second issue is at what point the Caisse realized on its
+security in the term deposit by effecting compensation. The Caisse says that
+the relevant date was the date of default, November 25, 2000. The Crown says
+that the relevant date was February 21, 2001. Under s. 227(4.1) ITA  and
+s. 86(2.1)  EIA , Camvrac’s property is impressed with the Crown’s deemed
+trust from the time income tax and employment insurance premiums were deducted
+at source by Camvrac.  The date at which the Caisse effected compensation is
+important because unremitted employment insurance premiums and income tax were
+deducted by Camvrac until the end of January 2001.  If the Caisse is correct,
+as of November 25, 2000 the Crown would have no entitlement to the proceeds of
+the term deposit for source deductions that were deducted after November 25,
+2000 since the term deposit would no longer have been the property of Camvrac
+once compensation had been effected and could not be subject to the deemed
+trust created by s. 227(4.1)  ITA  and s. 86(2.1)  EIA . If the Crown
+is correct, then the proceeds would be subject to the deemed trust for the full
+amount of the unremitted source deductions to February 21, 2001 (as the date
+when compensation was effected by the Caisse).  [59]
+With respect to whether the deemed trust provisions apply to
+after-acquired property, this Court interpreted s. 227(4.1)  ITA  broadly
+in First Vancouver Finance v. M.N.R., 2002 SCC 49, [2002] 2 S.C.R. 720,
+as applying to both property in the hands of the tax debtor and after-acquired
+property. In First Vancouver, Iacobucci J. held for the Court, at para.
+38, that  based on the plain language of ss. 227(4)  and 227(4.1)  as supported by
+the purpose of the provisions and intentions of Parliament, the deemed trust
+created by these sections encompasses property which comes into the hands of
+the tax debtor after the trust arises.  The trust
+created by s. 227(4.1)  ITA  and s. 86(2.1)  EIA  is deemed to be in
+effect “at any time”. It does not matter that the term deposit became the
+property of Camvrac only after some of the employment insurance premiums and
+income tax deductions went unremitted since the deemed trust “encompasses
+property which comes into the hands of the tax debtor after the trust arises”.
+The proceeds of Camvrac’s term deposit are therefore available to the Crown to
+discharge all of the outstanding employment insurance premiums and income tax
+deducted at source by Camvrac, whether the unremitted deductions occurred
+before or after Camvrac entered into the “Term Savings Agreement” and until the
+date that the Caisse realized on its security.  [60]
+As to the date on which the Caisse exercised its right to
+compensation, I agree with the Crown for two reasons. First, February 21, 2001
+is the date on which the Caisse itself noted on its copy of the “Term Savings
+Agreement”:  [translation] “To be
+closed on 21/2/2001 to realize on security.” This is evidence that the Caisse
+believed that compensation was effected on that date and not earlier. Second,
+the Caisse, according to its account records, continued to charge interest on
+the line of credit until January 31, 2001 despite the fact that Camvrac had
+defaulted on November 25, 2000 by failing to make its interest payment to the
+Caisse due on that date.  The “Security Given Through Savings” agreement stated
+that:  7.    DEFAULT                                                                       .
+. .  The
+consequences of a default are for the exclusive benefit of the Caisse and the
+latter may waive them expressedly.  The Caisse may, among others, without any
+prejudice to its rights, wait for the maturity date of the certificate(s) of
+deposit before exercising its rights as provided for in paragraphs (b) and (c)
+above.  8.    RESERVE
+OF RECOURSES  . . . Furthermore, failure by the Caisse to avail itself of any
+of its rights in case of default shall not be interpreted as a waiver of such
+rights.  [61]
+These terms acknowledged that the Caisse had a discretion as to
+the timing of when compensation would be effected. The Caisse was entitled, as
+it did here, not to effect compensation immediately upon default, but instead
+could choose to allow the line of credit to remain open.  This is what the
+Caisse did.  It did not effect compensation until February 21, 2001.  The
+Caisse is liable to pay to the Crown the amounts for employment insurance
+premiums and income tax deducted at source by Camvrac up to, and including, any
+deductions not remitted as of February 21, 2001.  F.      Interest Calculation  [62]
+This issue may be disposed of quickly.  The Caisse says that if
+it is liable to the Crown, the law of Quebec with respect to pre-judgment
+interest rather than ss. 36(2)  and 37(2)  of the Federal Courts Act,
+R.S.C. 1985, c. F-7 , applies.  I cannot agree with the Caisse.  Markevich v.
+Canada, 2003 SCC 9, [2003] 1 S.C.R. 94, is dispositive of the
+issue.  Indebtedness under the ITA  and EIA  gives rise to a cause
+of action outside of a particular province and so the rules respecting
+pre-judgment interest in ss. 36(2)  and 37(2)  of the Federal Courts Act 
+apply:  see Markevich, at paras. 39-40.  The cause of action was that of
+the Crown against the Caisse for unremitted source deductions pursuant to its
+deemed trust which arose because the Caisse appropriated funds belonging to
+Camvrac which were impressed with the Crown’s deemed trust.  IV.   Conclusion  [63]
+For these reasons, I find that the terms of the “Term Savings
+Agreement” and the “Security Given Through Savings” agreement between the
+Caisse and Camvrac created a “security interest” within the meaning of s.
+224(1.3)  ITA .  The Caisse was liable to the Crown for the unremitted
+employment insurance premiums and income tax deducted at source by Camvrac up
+to and including February 21, 2001.  Interest is calculated in accordance with
+ss. 36(2)  and 37(2)  of the Federal Courts Act  from February 21, 2001,
+when the Caisse effected compensation, to the date of payment.  [64]
+The appeal should be dismissed with costs in this Court only.  English version of the reasons of LeBel and Deschamps JJ. delivered by  [65]
+Deschamps J.
+(dissenting) — The Court is once again being asked to consider the scope of the
+rights resulting from the deemed trust created by Parliament to ensure that
+employers remit income tax and employment insurance premiums deducted from
+their employees’ salaries to the Receiver General for Canada.  For the reasons
+that follow, I find that compensation is not a “security interest” within the
+meaning of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .) (“ITA ”),
+and the Employment Insurance Act, S.C. 1996, c. 23  (“EIA ”),
+and that the appellant’s contractual right may be set up against the respondent
+because the respondent cannot have more rights than the employer itself had.  I
+would accordingly allow the appeal and remand the case to the trial judge to
+establish the amount of the deductions that had not been remitted at the time
+the compensation agreement was signed.  1.     Issues   2.     Facts  [67]
+Between May 2000 and January 2001, Camvrac, an employer doing
+business in Quebec, failed to remit $26,863.53 in income tax and employment
+insurance premiums deducted from its employees’ salaries to the Receiver
+General for Canada.  Nothing in the evidence specifies the amount owed by
+Camvrac as of September 25, 2000, but according to the Federal Court
+prothonotary who heard the matter at trial, the unremitted deductions totalled
+$5,558.72 in October 2000.  [68]
+On September 18, 2000, the Caisse and Camvrac signed a
+variable credit contract under which the Caisse extended $277,000 in credit to
+Camvrac.  A few days later, on September 25, 2000, two additional
+agreements were signed:  a term savings agreement under which Camvrac deposited
+$200,000 in the Caisse for a term expiring on October 16, 2005, and an
+agreement to give savings as security for the repayment of any amount owed to
+the Caisse, in which Camvrac granted the Caisse a “right to withholding and
+compensation” and a hypothec.  Only the right to compensation is in issue in
+this appeal: neither the hypothec nor the right to withhold was raised,
+enforced or exercised, or set up against the respondent.  Although excerpts
+from the relevant clauses are also set out in the Appendix, I will reproduce
+one here that I will be discussing more specifically:  [translation]  1.    RIGHT TO WITHHOLDING AND COMPENSATION   The Caisse may withhold the sums shown above, along with the interest
+from the certificates of deposit if applicable, as long as all the amounts due
+under the Credit Contract(s) have not been fully repaid and, in the case of a
+line of credit, as long as it has not been cancelled.  In cases of default as
+provided for below, there shall be compensation between the Credit Contract(s)
+and the certificate(s) of deposit or the amounts deposited defined above, as
+provided for in Section 7.  [69]
+I note that the parties and the courts below have sometimes
+referred to the term deposit as a “certificate of deposit”.  In my opinion, as
+is indicated in the term savings agreement, it is simply a term deposit.  But
+what it is called is of no consequence in light of the mechanisms that are at
+issue in this appeal.  [70]
+On November 25, 2000, Camvrac defaulted on the interest on
+the borrowed amount.  On December 1, 2000, that interest was paid by means
+of a manual transfer of funds effected by the Caisse.  A statement dated
+December 31, 2000, shows a debt of $277,000 owed by Camvrac to the Caisse;
+it also indicates that monthly interest on the total amount of the loan was
+charged to Camvrac.  A savings and investment account statement dated
+January 31, 2001 shows a balance of $200,578 in respect of the deposit. 
+On February 5, 2001, Camvrac made an assignment in bankruptcy.  On its
+copy of the deposit agreement, the Caisse made the following note: [translation] “To be closed on 21/2/2001
+to realize on security.”  [71]
+On June 12, 2001, the respondent required the Caisse to pay
+her $26,863.53 owed by Camvrac for payroll deductions.  She submits that this
+amount was protected by the deemed trust resulting from provisions of the ITA 
+and the EIA .  The Caisse counters that the note made on the deposit
+agreement on February 21, 2001 was merely administrative in nature and
+that its debt to Camvrac was extinguished by compensation.  3.      Judicial History  [72]
+Before a prothonotary of the Federal Court, the respondent argued
+that the deposited amount was property of Camvrac that was subject to the
+deemed trust, and that in enforcing its security interest on
+February 21, 2001, the Caisse had realized on that certificate and
+should have paid her the amount of the deductions Camvrac had failed to remit. 
+The Caisse submitted that under the agreement with Camvrac, the mutual debts —
+its own and that of Camvrac — became exigible when Camvrac defaulted and that
+those debts had been extinguished by compensation.  In the prothonotary’s
+opinion, there was no doubt that the deposited amount was held as security,
+that in “cashing it in”, the Caisse was enforcing a security interest, and that
+the deposited amount was subject to the deemed trust.  She therefore held that
+“the value of the benefit conferred on the [Caisse] through the realization on
+its security interest in the certificate of deposit constitutes the proceeds
+from the certificate of deposit, and must be paid to the Receiver General”
+(2005 FC 731, 2006 D.T.C. 6385, at para. 22).  According to the prothonotary,
+legal compensation could not be relied on, because the term of the deposit had
+not expired.  She added that if the Caisse wanted to avail itself of its
+contracts with Camvrac, it had to manifest its intention to enforce them, which
+it did not do until February 21, 2001, by which time the respondent’s
+right had priority.  The prothonotary therefore ordered the Caisse to pay the
+amount claimed by the respondent.  She awarded interest at the rate provided
+for in ss. 36(2)  and 37(2)  of the Federal Courts Act .  [73]
+The Federal Court upheld the prothonotary’s judgment (2005 FC
+1563, 2007 D.T.C. 5664).  In response to the Caisse’s argument that the
+prothonotary had failed to consider the forfeiture of the term clause in the
+term savings agreement, the court stated that although conventional compensation
+could have been effected under the terms of the contract before the expiry of
+the term of the deposit, the Caisse had not exercised its right to do so until
+February 21, 2001, by which time the deposit amount was subject to the
+deemed trust.  The Federal Court rejected the Caisse’s argument that
+compensation is not a security interest, relying instead on the French version
+of the definition of “security interest” (garantie) in s. 224(1.3)  ITA 
+to conclude that even if compensation were held to constitute a payment, it
+would be considered a “security interest” within the meaning of the ITA .  [74]
+The Federal Court of Appeal also concluded that the ITA ’s
+definition of “security interest” is sufficiently broad to include the Caisse’s
+right to compensation in respect of Camvrac’s deposit, and that the provisions
+concerning the deemed trust authorized the respondent to recover from the
+Caisse the amounts owed by Camvrac (2006 FCA 366, 361 N.R. 77).  On the
+interest issue, the Court of Appeal relied on Markevich v. Canada, 2003
+SCC 9, [2003] 1 S.C.R. 94, and Canada (Attorney General) v. Caisse populaire
+d’Amos, 2004 FCA 92, 324 N.R. 31, and upheld the trial judgment.  4.       Parties’ Arguments
+Concerning the Deemed Trust  [75]
+The Caisse advances three arguments:  (1) the courts below
+erred in finding that the mechanism it relies on is a security interest within
+the meaning of ss. 224(1.3)  and 227(4.1) ; (2) compensation is not a
+mechanism for performing obligations; and (3) the time when the debt was
+extinguished does not depend on whether the compensation is characterized as
+legal or conventional, but in the alternative, if it must be characterized, it
+should instead be regarded as a contractual arrangement for compensation in the
+future.  This last argument does not appear to have been raised as forcefully
+in the courts below, but the facts and legal concepts relied on remain the
+same.  [76]
+The respondent contends that the deemed trust creates an absolute
+priority and that, regardless of whether the compensation is conventional or
+legal or of whether compensation constitutes a security interest, the proceeds
+from the “cashing in” of the term deposit must be paid to her up to the amount
+of the source deductions owed by the employer.  [77]
+Because the courts below held that compensation constitutes a
+“security interest” as defined in s. 224(1.3)  ITA , I will deal with
+this issue first.  I will then consider whether the contractual right to
+compensation may be set up against the respondent.  5.     “Security Interest”
+as Defined in Section 224(1.3)  ITA  [78]
+Over ten years ago, Gonthier J. observed in Royal Bank of
+Canada v. Sparrow Electric Corp., [1997] 1 S.C.R. 411, at para. 22,
+that a clash between conflicting legislative objectives had given rise to a
+competition of priorities between deemed trusts and consensual security
+interests.  In 1998, Parliament enacted legislation to expand the scope of the
+deemed trust (S.C. 1998, c. 19, s. 226(1)) and give it priority over every
+“security interest” as that term is defined in s. 224(1.3) .  In this
+context, it is important to clearly delineate the concept of “security
+interest” as defined in that provision.  [79]
+Although the provisions in issue in this appeal —
+ss. 224(1.3) , 227(4)  and 227(4.1)  ITA  and the corresponding
+provisions of the EIA  — are reproduced in the Appendix, I will
+nevertheless reproduce the more relevant passages here for ease of reference. 
+Section 224(1.3)  ITA  defines “security interest” for the purposes
+of the deemed trust.  The English version of the definition reads as follows:  “security interest” means any interest in
+property that secures payment or performance of an obligation and includes
+an interest created by or arising out of a debenture, mortgage, hypothec, lien,
+pledge, charge, deemed or actual trust, assignment or encumbrance of any kind
+whatever, however or whenever arising, created, deemed to arise or otherwise
+provided for;  [80]
+The terminology used in the French version is different.  On the
+one hand, the term “security interest” is rendered as “garantie”.  On
+the other hand, whereas the word “interest” is used in the English expression
+“interest in property”, the word “droit” is used instead in the
+expression “droit sur un bien” in French:  « garantie » Droit sur
+un bien qui garantit l’exécution d’une obligation, notamment un paiement.  Sont
+en particulier des garanties les droits nés ou découlant de débentures,
+hypothèques, privilèges, nantissements, sûretés, fiducies réputées ou réelles,
+cessions et charges, quelle qu’en soit la nature, de quelque façon ou à quelque
+date qu’elles soient créées, réputées exister ou prévues par ailleurs.   [82]
+Furthermore, not only must reference be made — when necessary to
+interpret federal legislation — to the law of the province in which it is to be
+applied, but both the English and French versions must be taken into
+consideration: M. Bastarache et al., The Law of Bilingual Interpretation
+(2008), at pp. 42 et seq.  I will begin by analysing the English
+and French versions to determine whether a shared meaning can be established. 
+In the case at bar, this analysis leads to a notion common to the civil law and
+the common law that makes it possible to harmonize the application of the
+taxing provision in the two legal systems.   [84]
+There are two steps to this analysis:  identifying the shared
+meaning and establishing Parliament’s intent.  At the first step, there are
+three possibilities (S.A.C.,  at para. 15):  First, the English and French versions may be
+irreconcilable. . . .  Second, one version may be ambiguous
+while the other is plain and unequivocal.  The shared meaning will then be
+that of the version that is plain and unambiguous:  Daoust, at para. 28;
+Côté, at p. 327.  Third, one version may have a broader meaning than the
+other.  According to LeBel J. in Schreiber, at para. 56, “where one of
+the two versions is broader than the other, the common meaning would favour the
+more restricted or limited meaning”.    [87]
+If, in the instant case, the shared meaning corresponds to the
+unequivocal concept of “security interest”, it is because there is a concept
+common to a “security interest” in the sense of “interest in property” and a “garantie”
+in the sense of “droit sur un bien”.  It is this concept that must be
+identified.  In “The Income Tax Act , the Excise Tax Act  and the Term Interest:
+An Interesting Case for Harmonization”, in The Harmonization of Federal
+Legislation with Quebec Civil Law and Canadian Bijuralism (2002), published
+in the Collection of Studies in Tax Law 2001, Martin Lamoureux points
+out that a term like “interest” may be impossible to define without considering
+the context.  In his view, “depending on the context, the expression ‘interest
+in property’ appears to be the converse of the notion of absolute ownership”
+(p. 7:9).  According to this interpretation, therefore, the security interest —
+the right in question in s. 224(1.3)  ITA  — is distinct from a right
+of absolute ownership.   As we stated in part three, we propose to harmonize
+the notion of “interest” (intérêt) with its Quebec equivalent which is
+“real right” (droit réel). This conclusion is based on a comparative
+analysis which shows a great similarity between the two concepts.  In fact, a
+comparison of the two concepts shows a similarity between several of their
+general attributes, for example, the right to follow, the right to assert adversus
+omnes, a direct right to the thing and the dismemberment of property over
+time. [p. 7:22]   [90]
+At common law, the term “real right” and its close cousins “right
+in rem” and “jus in re”, although less common, are nevertheless
+established.  Professor Royston Miles Goode writes in Goode on Legal
+Problems of Credit and Security (4th ed. 2008), at para. 1-17, that “a
+security interest is a right in rem”.  Professors Ronald C. C. Cuming,
+Catherine Walsh and Roderick J. Wood also refer to the concept of “real right”
+or “right in rem” in Personal Property Security Law (2005):  A creditor who is given a security interest in the debtor’s property
+obtains a proprietary right to the collateral. The defining characteristic of a
+proprietary right (which is also referred to as a real right or a right in
+rem) is that it is a right in a thing that is generally enforceable against
+the world. [p. 511]  [91]
+Moreover, just as an interest in property may be considered to be
+similar in many respects to a civil law real right, at common law, the notion
+of a “real right” is considered to be essential to a finding that a security
+interest exists in the area of personal property security.  It is now well
+established that a functional approach has been adopted in the common law
+provinces and that form is not determinative of whether a security has been
+created.  The fact remains, however, that the basis for a security interest
+continues to be a real right.  Professors Cuming, Walsh and Wood explain this
+clearly:   Professor Goode
+makes a similar comment in this respect (at para. 1-17):  Even where the creditor is to be given rights in respect of an asset, it
+is necessary to distinguish real rights from personal rights. . . .
+[A] security interest is a right in rem and in principle the secured creditor
+is entitled to remove the asset from the general body of creditors.  [92]
+The common law concept of security interest therefore
+corresponds, in civil law terms, not to a personal right, but to a real right. 
+In short, although no single expression is used at common law, what can be seen
+is that the right holder has a right in the property itself, as opposed to a
+right to compel a person to perform an obligation, which is the essence of a
+personal right.  Thus, the “real right” concept is common to the two legal
+traditions.  This concept is also inherent, and literally so, in the English
+expression “interest in property” and the French expression “droit sur
+un bien” used in s. 224(1.3) .       [98]
+In my opinion, since compensation has not been included in the
+list, the Caisse’s right can constitute a security interest only if it entails
+a real right.  To limit the concept of security interest in s. 224(1.3)  ITA 
+to rights that are real in nature is consistent both with the shared
+meaning of the terms (“security interest” and “garantie”) used in the
+two versions of the provision and with Parliament’s purpose of giving the
+deemed trust priority over the security interests referred to in
+s. 224(1.3)  ITA :  First Vancouver Finance.  [99]
+It must now be determined whether compensation is a “security
+interest” as that term is defined in s. 224(1.3)  ITA .  6.       Right to
+Compensation and Security Interest   [101]     
+These observations, although relevant to a description of
+compensation and its effects, do not support a conclusion that compensation is
+a “security interest” as that term is defined in s. 224(1.3)  ITA . 
+Although compensation may have the same effect as a security interest, care
+must be taken not to refer to the flexible sense that can be derived only from
+the French term “garantie”.  For the purposes of s. 224(1.3)  ITA ,
+it is not enough that compensation offers protection similar to that of a
+security interest:  it must also confer an “interest in property”, that is, a
+real right.     “security interest” means an interest in personal
+property that secures payment or performance of an obligation, and includes
+. . . .  As can be seen,
+this definition is very similar to the one in the English version of
+s. 224(1.3)  ITA :  “security interest” means any interest in property
+that secures payment or performance of an obligation and includes an interest
+created by or arising out of . . . .   « sûreté » Intérêt sur
+des biens meubles qui garantit le paiement ou l’exécution d’une obligation,
+notamment les intérêts suivants . . . . Thus, the term
+“security interest” is rendered as “sûreté” in the Ontario statute, as
+opposed to “garantie” — a word that requires interpretation because of
+its vagueness — in the federal statute.     Professor Goode
+adds the following, at para. 1-19:         [110]     
+Despite the arguments presented in all courts, my colleague
+Rothstein J. considers that the question to be answered is not whether
+compensation is a security interest.  Rather, in his view, the issue is whether
+the agreement created a “security interest” as defined in s. 224(1.3)  ITA . 
+He concludes that such an interest did in fact result from the juxtaposition of
+certain rights of the Caisse and obligations of Camvrac.   Novel
+Approach to the “Security Interest” Concept  [112]     
+I must say that Rothstein J.’s approach to the “security
+interest” concept is a novel one.  He states that he agrees that the shared
+meaning lies in the English version, which implies that the English term
+corresponds to a legally recognized common concept.  As I mentioned above,
+there is no federal common law.  To identify the purpose Parliament was
+pursuing when it chose the “security interest” concept, it is necessary to
+refer to the common law, which is provincial law.  The analysis cannot
+therefore disregard provincial law.  However, the effect of my colleague’s
+interpretation is to expand the “security interest” concept beyond its accepted
+scope in Canadian commercial law.  Since his approach does not correspond at
+all to the shared meaning, its effect is to disregard both the principles
+applicable to the interpretation of bilingual legislation and those applicable
+to the harmonization of federal law and provincial law.  [113]     
+Rothstein J. concludes on the basis of inchoate accessory rights
+that an interest in property — or, in other words, a “security interest” as
+defined in s. 224(1.3)  LIR — was created (at para. 30):   What my
+colleague overlooks in his analysis is the fact that under s. 224(1.3)  ITA ,
+the interest in the property must make it possible to realize on the security. 
+To simply find that an interest in property exists without regard for the
+context is not sufficient.  [114]     
+At common law, a security interest typically entails three
+fundamental rights: (1) the right to realize on property given as security; (2)
+a right to priority with respect to the proceeds of realization; and (3) the
+right to follow the property in the hands of a third party to whom it has been
+transferred (Cuming, Walsh and Wood, at p. 1).  None of the rights mentioned by
+Rothstein J. enable the person concerned to appropriate the property.  Thus,
+neither the term for repayment, nor the obligation to maintain, nor the right
+to withhold, nor the limit on the right to transfer, hypothecate or negotiate
+would enable the Caisse to realize on the deposit or appropriate the deposit
+amount to ensure performance of the secured obligation.  I cannot imagine that
+Parliament intended the provision to apply to any mechanism other than the one
+known at common law that makes it possible to appropriate the property to which
+the security interest relates.  What must be done under s. 224(1.3)  ITA 
+is to identify a security interest, not a simple interest.  [115]     
+Although my colleague does not include compensation in the above
+list in support of his conclusion that an interest in property was created, he
+does ultimately refer to it, describing it as a remedy.  What I conclude from
+this is that he does not see compensation as an interest in property and that
+according to his interpretation only the rights he mentions create such an
+interest.  I believe that a few comments about each of these rights will be
+helpful here.  [116]     
+Regardless of what standpoint is taken in reviewing the Caisse’s
+obligation with respect to the term, the clause establishing the term cannot be
+viewed as stipulating anything other than a deadline for repayment of the
+deposit.  It is well established that in the context of a banking contract, to
+deposit an amount in a financial institution is to make a loan.  The financial
+institution becomes the owner of the loaned amount and must return it with the
+interest agreed on (art. 2330 C.C.Q.).  The transaction is, in a word, a
+simple loan (art. 2329 C.C.Q.).  The clause that establishes the term
+merely fixes the time when the loaned amount is to be returned.  Camvrac’s
+relationship with the Caisse with respect to the deposit was merely one of
+creditor and debtor that entailed only a right to be repaid upon expiry of the
+term.  The establishment of a term did not alter the nature of the legal
+relationship between the Caisse and Camvrac.  The right was not a real right,
+but a simple personal right.  [117]     
+The same analysis applies to the covenants to which Camvrac
+agreed, those relating to Camvrac’s claim against the Caisse.  The undertakings
+to maintain the deposit and not to transfer, negotiate or hypothecate the claim
+conferred on the Caisse no right in the claim Camvrac had against it.  In the
+event of default, these rights would be of no assistance unless they were
+violated, in which case they might give rise to an action for failure to
+perform the contract.  All these rights were personal rights, not real rights. 
+The right to withhold warrants more specific comment.  [118]     
+In considering the meaning to be given to the expressions “droit
+de retenue” and “droit de rétention” and the nature of the right
+that has been created, the context is essential.  In civil law, there is one
+concept known as the “droit de rétention” (under, for example, arts.
+875, 974, 1250 and 2543 C.C.Q.), which is a right to retain corporeal
+property, and another known as the “droit de retenue”, or right to
+deduct (see arts. 2111, para. 2 and 2123 C.C.Q.).  The right to deduct
+is different from the right to retain: it applies to an amount of money, not to
+corporeal property.  There is therefore no right to follow.  Also, the
+creditor’s claim does not have priority.  The right to deduct has none of the
+characteristics on the basis of which a right to retain can be likened to a
+real right.  [119]     
+In the instant case, in the agreement to give savings as
+security, the following appears as the title of clause 1: “Droit de
+rétention et de compensation” (“Right to withholding and compensation” in
+the English version of the Caisse’s standard form contract).  Regarding
+obligations, the agreement provides that the depositor “consents to the
+withholding by the Caisse, in the account(s) . . . mentioned below,
+of the amount of . . .”, and that “[t]he Caisse may withhold the sums
+. . . in the case of a line of credit, as long as it has not been
+cancelled”.  Despite the use of the expression “droit de rétention” in
+the title of the clause, the purpose of the right is to deduct an amount of
+money and not to retain corporeal property, which means that it is a “droit
+de retenue”, not a “droit de rétention” within the meaning of the Civil
+Code of Québec.   [121]     
+The most important thing to bear in mind is that none of the
+clauses on which Rothstein J. relies created a real right or an interest in
+property (“security interest” as defined in s. 224(1.3)  ITA ).  A term is
+a deadline for repayment.  The right to deduct is simply the right of a
+creditor not to perform an obligation to pay as long as a debt is owed to him
+or her.  It is, in a way, an extension granted for repayment.  As for the
+obligation to maintain, it is clearly an undertaking by one person to another
+to perform an obligation.  The limit on the right to transfer, hypothecate or
+negotiate constitutes an obligation “not to do”.  [122]     
+Thus, I cannot see how these rights, whether considered in
+isolation or as a whole, might constitute a “security interest” as that term is
+defined in s. 224(1.3)  ITA .  None of them provides a basis for using the
+property to ensure performance of the obligation, and none of them constitutes
+an interest in property that secures performance of an obligation.  [123]     
+As Professors Cuming, Walsh and Wood point out, the elimination
+of form as a determinant of the creation of a security does not mean that every
+contractual undertaking can be regarded as security on personal property.  The
+limits on which Rothstein J. relies can be compared with those applicable to
+flawed assets.  According to the technique of flawed assets, property such as a
+bank deposit is subject to limits on withdrawal until the depositor has repaid
+his or her debt to the bank.  It is well established that this technique does
+not create a security interest.  Professor Goode explains this as follows (at
+para. 1-21):  [The technique of flawed assets] does not of itself constitute a
+security, for the bank acquires no rights over the deposit, merely a right to
+withhold repayment.  [124]     
+Cuming, Walsh and Wood also cite examples of undertakings
+pursuant to which creditors are given interests in property that cannot be
+characterized as security interests.  One of them, the covenant not to dispose
+of or encumber property, is of interest, as it is analogous to one of the
+undertakings on which Rothstein J. relies:  A “negative pledge” clause or negative covenant in a loan agreement under
+which the borrower covenants not to encumber or dispose of some or all of her
+personal property until the loan is repaid does not create a security interest
+since, standing alone, the covenant does not create an interest in the property
+of the borrower. A negative pledge clause in a security agreement cannot
+prevent the covenantor from giving another effective security interest in the
+collateral. [p. 86]  Adding one or
+more personal rights does not result in the creation of a real right, which, as
+we saw above, Cuming, Walsh and Wood consider essential to the creation of a
+security interest.  If Rothstein J.’s conclusion that a contractual
+undertaking creates an interest in the property is based on the functional
+approach, a further issue that will arise is how the negative pledge — whether
+or not in combination with another personal right such as the right to
+compensation — is now to be characterized.  [125]     
+Therefore, in my view, not only is Rothstein J.’s analysis of the
+expression “interest in property” or “droit sur un bien” unacceptable in
+that it disregards the fact that the principal purpose of a security interest
+must be to permit the property given as security to be realized, but it cannot
+be reconciled with the characterization of techniques similar to those adopted in
+the case at bar that do not create security interests.  Granting of a Movable Hypothec on a Claim With Delivery      [130]     
+Having said this, I have difficulty understanding how the
+hypothec fits into the reasoning that leads Rothstein J. to conclude that the
+rights granted to the Caisse created a security interest.  Two interpretations
+are possible.  Does my colleague conclude that the respondent’s right has
+priority over the Caisse’s right solely because of the control exercised over
+the claim by means of the term, the obligation to maintain, the right to
+withhold and the limits on the rights to transfer, hypothecate and negotiate? 
+Or is his conclusion based on the idea that in addition to those rights,
+Camvrac had granted a right to compensation that resulted in a hypothec?  If
+the first interpretation is correct, the argument based on the hypothec is
+irrelevant.  If the second is correct, the right to compensation becomes
+determinative even though my colleague does not include it among the sources of
+an interest in property.  If Rothstein J.’s conclusion that the deemed
+trust has priority is based on the hypothec, his reasoning clashes with the
+clarification made by the Quebec legislature.  [131]     
+Furthermore, I cannot accept the Court’s recourse to an argument
+that has been raised neither by the Caisse nor by the respondent.  As I
+mentioned above, the agreement to give savings as security provided for the
+granting of a hypothec, a right to withhold and a right to compensation, but
+only the right to compensation was raised and argued.  The Caisse was not
+limited in the choice of rights it could exercise.  If, for example, in addition
+to the hypothec and the right to compensation, the claim had been secured by
+another personal right, such as by suretyship, the respondent could not have
+claimed from the Caisse the amount received from the surety.  It would have
+been clear that the Caisse was free to choose which right it would exercise. 
+Thus, it could have chosen to exercise its right to compensation, or it could
+also — independently of the hypothec also provided for in the contract — have
+availed itself of the suretyship if such a right were provided for in the
+contract.  The Civil Code of Québec provides, on the one hand, for
+compensation and, on the other hand, for hypothecs on claims.  These two
+mechanisms must not, in my opinion, be confused.  The reasons for the parties’
+choice may be based in fact.  In my view, the question is not merely one of
+law.  In all fairness to the parties, therefore, I do not consider it
+appropriate at this point to intervene in the “judicial contract” to alter the
+bases of the appeal before the Court.  [132]     
+I therefore find, with respect, that as regards the term, the
+obligation to maintain, the right to withhold and the limits on the right to
+transfer, hypothecate or negotiate, all that have been created are personal
+obligations.  Furthermore, since the parties did not raise the hypothec in this
+Court, I do not think that we can base our conclusion on an argument in respect
+of which no evidence was adduced and that does not correspond to the law.  The
+appellant chose to exercise its right to compensation, and that is the right
+that must be considered.  [133]     
+As a result, I conclude that the appellant is correct in arguing
+that compensation is not a “security interest” as that term is defined
+in s. 224(1.3)  ITA .  To accept the Caisse’s first argument is
+not to dispose of the appeal, however.  Despite my finding that the Federal
+Court of Appeal erred in holding that the respondent had priority on the basis
+that the Caisse, in effecting compensation, had created a security interest for
+itself, the case is not yet closed.  It must still be determined whether the
+right to compensation may be set up against the respondent, who, as a result of
+the deemed trust, not only has a priority over secured creditors — as the term
+“secured creditor” is defined in s. 224(1.3)  ITA  — but also has a
+right in the tax debtor’s property.  To do this, it must be asked whether the
+respondent may exercise its right in respect of both the amounts that had not
+been remitted at the time the right to compensation was granted to the Caisse
+and those that were not remitted after that time.  As I mentioned above, by
+September 25, 2000, the date the compensation agreement was signed,
+Camvrac had already failed to remit some amounts that had been deducted from
+its employees’ salaries.  Those amounts totalled approximately $5,000.  7.       Possibility of Setting up the
+Compensation Agreement Against the Respondent  [134]     
+I do not think it necessary to explain at length why, prior to
+the expiry of the term of the deposit, the Caisse’s right was not a right to
+legal compensation.  The Caisse’s right cannot be dissociated from the contract
+in which it was granted, if only because one of the conditions for legal
+compensation was not met:  Camvrac’s debt was not exigible, because repayment of
+the deposit amount was not due until October 2005.  It will therefore be
+necessary to refer to the agreements between Camvrac and the Caisse.  [135]     
+The Civil Code of Québec does not mention conventional
+compensation.  However, there is nothing that prohibits it.  In fact,
+conventional compensation is merely the arrangement by contract of the
+mechanism provided for in the Code.  Furthermore, commentators have long
+recognized the validity of compensation agreements (see: Baudouin, Jobin and
+Vézina, at No. 1057; Lluelles and Moore, at No. 2701).  [136]     
+The issue in the case at bar is whether the Caisse may set up its
+compensation agreement against the respondent.  The respondent’s right is
+provided for in s. 227(4.1)  ITA .  If I exclude the portions
+relating to the priority over secured claims, which I have already discussed,
+the respondent’s right in Camvrac’s property is set out as follows:  227. . . .  (4)       Every person who deducts or withholds an amount under this
+Act is deemed . . . to hold the amount separate and apart from the
+property of the person . . . in trust for Her Majesty and for payment
+to Her Majesty in the manner and at the time provided under this Act.  (4.1)    . . . where at any time an amount deemed by
+subsection (4) to be held by a person in trust for Her Majesty is not paid
+to Her Majesty in the manner and at the time provided under this Act, property
+of the person . . . equal in value to the amount so deemed to be held
+in trust is deemed  (a)       to be held, from the time the amount was deducted or
+withheld by the person, separate and apart from the property of the person, in
+trust for Her Majesty . . . and  (b)       to form no part of the estate or
+property of the person from the time the amount was so deducted or withheld
+. . . .  [137]     
+The statutory mechanism transfers the tax debtor’s property to a
+trust.  In First Vancouver Finance, the Court likened this mechanism to
+a floating charge over all the tax debtor’s assets up to the amount due, in
+that the trust does not attach to any specific property and allows the tax
+debtor’s business to be carried on as usual.   Civil Code
+of Québec  1680.  A debtor who has acquiesced unconditionally in
+the assignment or hypothecating of claims by his creditor to a third person may
+not afterwards set up against the third person any compensation that he could
+have set up against the original creditor before he acquiesced.  An assignment or hypothec in which a debtor has not acquiesced, but
+which from a certain time may be set up against him, prevents compensation only
+for debts of the original creditor which come after that time.  Code of
+Civil Procedure  637.  If the affirmative declaration of the garnishee is
+not contested and does not show the existence of another seizure by garnishment
+in his hands, the clerk, upon an inscription by either party, orders the
+garnishee to pay to the seizing creditor the amounts which he owes to the
+judgment debtor to the extent of the amount of the judgment in capital,
+interest and costs.  To that extent the order of the clerk effects an
+assignment, in favour of the seizing creditor, of the judgment debtor’s claim,
+from the date of the seizure.  Such order must be served on the garnishee and
+becomes executory 10 days later.  [139]     
+The ability of the debtor of the assigned claim to set up against
+the assignee any recourse that the debtor may have against the assignor is
+based on the general rule that the assignee may not have more rights in the
+assigned claim than the assignor had.  This rule is set down in art. 1637 C.C.Q.:  1637.  A creditor may assign to a third person all or
+part of a claim or a right of action which he has against his debtor.  He may not, however, make an assignment that is
+injurious to the rights of the debtor or that renders his obligation more
+onerous.  [140]     
+This provision is complemented by art. 1643 C.C.Q.,
+which provides that a debtor may rely on a cause of extinction that occurred
+before an assignment could be set up against him or her.  The first paragraph
+of that article reads as follows:  1643.  A debtor may set up against
+the assignee any payment made to the assignor before the assignment could be
+set up against him, as well as any other cause of extinction of the obligation
+that occurred before that time.  [141]     
+The commentators and the courts have accordingly recognized that
+any defences and any right to refuse to perform (exception for nonperformance)
+that arose prior to an assignment may be set up against the assignee by a
+debtor who has not acquiesced in the assignment.  The same is true of the extinction
+of obligations by compensation:  Karim, at p. 773; Baudouin, Jobin and
+Vézina, at No. 962; Lluelles and Moore, at No. 3176; Bélanger, at
+p. 189.   [translation]  However,
+it will be hard for the creditors of an insolvent party to challenge a
+compensation agreement entered into at the same time as the contract giving
+rise to that party’s claim, as the creditors will have difficulty proving that
+the agreement has caused them any prejudice. [p. 750]       [translation]  A claim
+is not only a patrimonial asset, but also a legal relationship.  When a
+claim is alienated, therefore, what is transferred is not just an asset, but
+also an active contractual situation.  The possibility of setting up a contract whose object
+is the transfer of a claim thus necessarily has some particularities that are
+accounted for in positive law on the basis that the contract produces effects
+in respect of certain third parties.  [148]     
+Thus, where the deemed trust applies to a claim, it attaches to a
+legal relationship that corresponds to an active contractual situation, which
+explains why the beneficiary of the trust may assert only those rights held by
+the tax debtor at the time the trust became effective.  [149]     
+It will also be helpful to refer back to s. 227(4.1)  ITA  and
+to review the cases in which the scope of the deemed trust has been
+considered.  Before Parliament clarified the respondent’s priority over secured
+creditors, the courts had held that prior rights could be disregarded only to
+the extent expressly provided for in the relevant provision.  For example, in Board
+of Industrial Relations v. Avco Financial Services Realty Ltd., [1979] 2
+S.C.R. 699, Martland J. wrote:   (See also Dauphin
+Plains Credit Union Ltd. v. Xyloid Industries Ltd., [1980] 1 S.C.R. 1182,
+at p. 1199.)  [150]     
+This suggests that it is necessary to be cautious in assessing
+the scope of the deemed trust on the tax debtor’s property.  When Parliament
+wished to give the deemed trust more teeth, it took care to give the respondent
+priority over secured creditors.  It did not alter the general rules governing
+the rights a debtor can assert against its original creditor.  In assessing the
+consequences of that decision, particularly with regard to compensation, one
+can but find support in an interpretation based on the normally applicable
+legal rules.     [152]     
+This is just one example of the use of compensation in a context
+that does not involve the “security interest” concept and of the great
+importance of this mechanism both in Canadian law and in international economic
+relations.  Parliament thus seems to have had reasons for acting as it did in
+modifying the deemed trust only to give the respondent priority over creditors
+with security interests.  I have concluded that the deemed trust does not give
+the respondent more rights than the tax debtor had and that, insofar as the
+amounts had not been deducted at the time the agreement was entered into, the
+Caisse’s right may be set up against the respondent.  What this finding means
+in practice must now be determined.  [153]     
+In the case at bar, Camvrac’s right to recover its claim was
+subject to the right to compensation that had been granted to the Caisse in the
+agreement to give savings as security.  In the context of that agreement,
+the right to compensation was a right held by the Caisse that could not be
+negated solely by the fact of the deemed trust becoming effective.  The
+respondent, as a third party, could not demand that the Caisse discharge its
+debt to Camvrac if the conditions for repayment had not been met.  The Caisse’s
+right had to be respected by third parties who acquired rights after the
+agreement was signed.  Consequently, the respondent must abide by the compensation
+agreement, given that her right is subsequent to it.  [154]     
+As I mentioned above, Camvrac had remitted nothing to the
+respondent since May 2000.  Because the compensation agreement was entered
+into in September 2000, a question that arises is whether the respondent
+may claim from the Caisse amounts owed prior to that date.  This is the issue
+that remains to be addressed.    8.      Interest Issue  [157]     
+Regarding interest, the Court of Appeal correctly endorsed the
+application of Markevich, and there is no need to intervene.  9.        Conclusion  [158]     
+For these reasons, I would allow the appeal, set aside the
+judgment of the Court of Appeal, authorize compensation for the balance of the
+amounts deducted as of September 25, 2000 and, failing an agreement
+between the parties, remand the case to the court of original jurisdiction to
+establish the amount to be paid by the Caisse to the respondent, with costs
+throughout.                                                                APPENDIX  A.      Contractual Provisions  (a)      Variable Credit Contract  [translation]  1.    LINE
+OF CREDIT  The Caisse
+agrees to extend to the Borrower, who accepts, a line of credit in the amount
+of $277,000.00. . . .  . . .  At any point
+in time, the Caisse may notify the Borrower that no advance shall be granted to
+it thenceforth under this contract.  . . .  3.    INTEREST  . . .   The Borrower
+further undertakes to pay, on any payment due not made, additional interest
+. . . , any arrears of interest being then considered as principal.  . . .  5.    REQUEST FOR REPAYMENT  The Caisse
+reserves the right to demand at any time the immediate repayment of any balance
+owed in principal, interest, costs and accessories.  The  Caisse shall then be
+entitled to no longer carry out this agreement, subject to all its other rights
+and recourses.  . . .   7.    DEFAULT  If the Borrower draws a cheque that brings the line of credit balance to
+an amount higher than the amount authorized hereunder, if it goes bankrupt, if
+it transfers its property or becomes insolvent or fails to meet any of the
+conditions and obligations stipulated herein, any balance then owing in
+principal, interest, costs and accessories shall become immediately payable.  (b)    Term Savings
+Agreement  [translation]  Date of
+maturity:  October 16, 2005  . . .  PROVISIONS
+GOVERNING THE PRINCIPAL  2.    The member agrees to make, on the date of acquisition, a
+deposit in the amount of $200,000 (hereinafter referred to as the “initial
+amount of deposit”).  3.    On the date of issue associated with the applicable term (“date
+of issue”), the initial amount of deposit and the interest then accrued on that
+amount shall be reinvested in the form of a deposit maturing on the maturity
+date associated with the applicable term (“date of maturity”).  4.    This deposit may neither be negotiated nor transferred.  No
+amount in principal or interest shall be redeemable or payable before the date
+of maturity.  5.    This deposit may be hypothecated or given as security only in
+favor of the issuing Caisse.  . . .  PROVISIONS GOVERNING
+DISPOSAL AT MATURITY  11.  At maturity date, unless the Caisse is notified to the contrary
+not later than the seventh day following such date, the principal and interest
+shall be deposited (to a term savings account) for a term equal to the term of
+this deposit.  The interest rate shall be the rate then in force at the Caisse
+for such deposit, depending on the applicable term.  The interest shall be
+reckoned daily and capitalized annually.  . . .  THIS IS A DEPOSIT WITHIN THE MEANING OF THE DEPOSIT INSURANCE ACT.  (c)   Agreement to Give Savings as Security  [translation]  1.    RIGHT
+TO WITHHOLDING AND COMPENSATION  To secure the
+repayment of any sum in principal, interest, costs and accessories owed or to
+be owed the Caisse by:  :    the
+Depositor  9    Name of Borrower (if other
+than Depositor) under:   9      (b)     a 
+(Loan, line of credit, etc.)                                   agreement
+in the amount of $             granted to him (her) on              ;  9      (c)     the
+following agreements:        :    and under
+any debts or obligations, present or future, direct or indirect held by:  :      the
+Depositor  9      Name of
+Borrower (if other than Depositor)                       towards the
+Caisse,  (hereinafter
+referred to as “the Credit Contract[s]”)  the Depositor
+undertakes to maintain and consents to the withholding by the Caisse, in the
+account(s) or on the certificate(s) of deposit mentioned below, of the amount
+of $200,000.00 distributed as follows:  Account or certificate of deposit            Sum withheld by the
+Caisse identification (for deposit
+certificates, state date issued amount and certificate number)  ALTERNATIVE TERM SAVINGS 5 YEARS IN
+THE AMOUNT OF $200,000.00                                             $200,000.00                                                                   $  The Caisse
+may withhold the sums shown above, 9
+along with the interest from the certificates of deposit if applicable, as long
+as all the amounts due under the Credit Contract(s) have not been fully repaid
+and, in the case of a line of credit, as long as it has not been cancelled.  In
+cases of default as provided for below, there shall be compensation between the
+Credit Contract(s) and the certificate(s) of deposit or the amounts deposited
+defined above, as provided for in Section 7.  2.    SAFEKEEPING OF CERTIFICATES                                                                        .
+. .  3.    HYPOTHEC   4.    WITHDRAWALS AND CHEQUES  . . .  5.    REDEMPTION BEFORE MATURITY OF A CERTIFICATE OF DEPOSIT  . . .  6.    MATURITY AND RENEWAL OF A CERTIFICATE OF DEPOSIT  . . .  7.    DEFAULT  The Depositor
+shall be in default in any of the following cases:  (a)    if any of the commitments under the Credit Contract(s) or these
+presents is not fulfilled;  (b)    if the Depositor or the Borrower becomes insolvent or goes
+bankrupt, or if he (she) makes a proposal and it is rejected or annulled;  . . .  In the event
+of any default:  (a)    any sums owing under the Credit Contracts shall immediately
+become payable;  (b)    the Caisse may use the sums deposited or the certificate(s) of
+deposit contemplated herein, regardless of its (their) having matured or not,
+to compensate its claim under the Credit Contract(s);  . . .  The
+consequences of a default are for the exclusive benefit of the Caisse and the
+latter may waive them expressedly.  The Caisse may, among others, without any
+prejudice to its rights, wait for the maturity date of the certificate(s) of
+deposit before exercising its rights as provided for in paragraphs (b) and (c)
+above.  8.    RESERVE
+OF RECOURSES  . . . Furthermore, failure by the Caisse to avail itself of any
+of its rights in case of default shall not be interpreted as a waiver of such
+rights.  B.       Statutory
+Provisions  (a)      Income Tax Act, R.S.C. 1985, c. 1
+(5th Supp .)  224. .
+. .  (1.3) In
+subsection (1.2),  . . .  “security interest” means any interest in property that secures
+payment or performance of an obligation and includes an interest created by or
+arising out of a debenture, mortgage, hypothec, lien, pledge, charge, deemed or
+actual trust, assignment or encumbrance of any kind whatever, however or
+whenever arising, created, deemed to arise or otherwise provided for;  227. . . .  (4)  Every person who deducts or withholds an amount under
+this Act is deemed, notwithstanding any security interest (as defined in
+subsection 224(1.3) ) in the amount so deducted or withheld, to hold the amount
+separate and apart from the property of the person and from property held by
+any secured creditor (as defined in subsection 224(1.3) ) of that person that
+but for the security interest would be property of the person, in trust for Her
+Majesty and for payment to Her Majesty in the manner and at the time provided
+under this Act. (4.1)  Notwithstanding any other provision of this Act, the Bankruptcy
+and Insolvency Act  (except sections 81.1 and 81.2 of that Act), any other
+enactment of Canada, any enactment of a province or any other law, where at any
+time an amount deemed by subsection (4) to be held by a person in trust for Her
+Majesty is not paid to Her Majesty in the manner and at the time provided under
+this Act, property of the person and property held by any secured creditor (as
+defined in subsection 224(1.3) ) of that person that but for a security interest
+(as defined in subsection 224(1.3) ) would be property of the person, equal in
+value to the amount so deemed to be held in trust is deemed  (a)   to be held, from the time the amount was deducted or
+withheld by the person, separate and apart from the property of the person, in
+trust for Her Majesty whether or not the property is subject to such a security
+interest, and  (b)   to form no part of the estate or
+property of the person from the time the amount was so deducted or withheld,
+whether or not the property has in fact been kept separate and apart from the
+estate or property of the person and whether or not the property is subject to
+such a security interest . . . .  (b)     Employment Insurance Act, S.C. 1996,
+c. 23  86. (1)  All premiums, interest, penalties and
+other amounts payable by an employer under this Act are debts due to Her
+Majesty and are recoverable in the Federal Court or any other court of
+competent jurisdiction or in any other manner provided for by this Act.  (2)    Where an employer has deducted an amount from the remuneration
+of an insured person as or on account of any employee’s premium required to be
+paid by the insured person but has not remitted the amount to the Receiver
+General, the employer is deemed, notwithstanding any security interest (as
+defined in subsection 224(1.3)  of the Income Tax Act ) in the amount so
+deducted, to hold the amount separate and apart from the property of the
+employer and from property held by any secured creditor (as defined in
+subsection 224(1.3)  of the Income Tax Act ) of that employer that but for
+the security interest would be property of the employer, in trust for Her
+Majesty and for payment to Her Majesty in the manner and at the time provided
+under this Act.  (2.1)  Notwithstanding the Bankruptcy and Insolvency Act 
+(except sections 81.1 and 81.2 of that Act), any other enactment of Canada, any
+enactment of a province or any other law, where at any time an amount deemed by
+subsection (2) to be held by an employer in trust for Her Majesty in the manner
+and at the time provided under this Act, property of the employer and property
+held by any secured creditor (as defined in subsection 224(1.3)  of the Income
+Tax Act ) of that employer that but for a security interest (as defined in
+subsection 224(1.3)  of the Income Tax Act ) would be property of the
+employer, equal in value to the amount so deemed to be held in trust is deemed  (a)    to
+be held, from the time the amount was deducted by the employer, separate and
+apart from the property of the employer, in trust for Her Majesty whether or
+not the property is subject to such a security interest, and  (b)    to
+form no part of the estate or property of the employer from the time the amount
+was so deducted, whether or not the property has in fact been kept separate and
+apart from the estate or property of the employer and whether or not the
+property is subject to such a security interest  and is
+property beneficially owned by Her Majesty notwithstanding any security
+interest in such property or in the proceeds thereof, and the proceeds of such
+property shall be paid to the Receiver General in priority to all such security
+interests.  (2.2) For the purposes of subsections (2) and (2.1),
+a security interest does not include a prescribed security interest.  (c)     Civil Code of Québec, S.Q. 1991, c. 64  1637.  A creditor may assign to a third person all or part of a
+claim or a right of action which he has against his debtor.  He may not, however, make an assignment that is injurious to the
+rights of the debtor or that renders his obligation more onerous.  . . .  1643.  A debtor may set up against the assignee any payment
+made to the assignor before the assignment could be set up against him, as well
+as any other cause of extinction of the obligation that occurred before that
+time.  . . .  1671.  Obligations are extinguished not only by the causes of
+extinction contemplated in other provisions of this Code, such as payment, the
+expiry of an extinctive term, novation or prescription, but also by
+compensation, confusion, release, impossibility of performance or discharge of
+the debtor.  1672.  Where two persons are reciprocally debtor and creditor
+of each other, the debts for which they are liable are extinguished by
+compensation, up to the amount of the lesser debt.  Compensation may not be claimed from the State, but the State may
+claim it.  1673.  Compensation is effected by operation of law upon the
+coexistence of debts that are certain, liquid and exigible and the object of
+both of which is a sum of money or a certain quantity of fungible property
+identical in kind.  A person may apply for judicial liquidation of a debt in order to set
+it up for compensation.  . . .  1680.  A debtor who has acquiesced unconditionally in the
+assignment or hypothecating of claims by his creditor to a third person may not
+afterwards set up against the third person any compensation that he could have
+set up against the original creditor before he acquiesced.  An assignment or hypothec in which a debtor has not acquiesced, but
+which from a certain time may be set up against him, prevents compensation only
+for debts of the original creditor which come after that time.  1681.  Compensation may neither be effected
+nor be renounced to the prejudice of the acquired rights of a third person.   637.   If the affirmative declaration of the garnishee is not
+contested and does not show the existence of another seizure by garnishment in
+his hands, the clerk, upon an inscription by either party, orders the garnishee
+to pay to the seizing creditor the amounts which he owes to the judgment debtor
+to the extent of the amount of the judgment in capital, interest and costs.  To
+that extent the order of the clerk effects an assignment, in favour of the
+seizing creditor, of the judgment debtor’s claim, from the date of the
+seizure.  Such order must be served on the garnishee and becomes executory
+10 days later.  Appeal dismissed with costs, LeBel
+and Deschamps JJ. dissenting.  Solicitors for the appellant:  Langlois Kronström
+Desjardins, Lévis.  Solicitor for the respondent:  Canada Department of Justice,
+Montréal.    

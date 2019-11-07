@@ -1,0 +1,601 @@
+                                                   SUPREME
+COURT OF CANADA   Citation:  Mathew v. Canada, [2005] 2 S.C.R. 643, 2005 SCC 55  Date:  20051019 Docket:  30067  Between: Eugene Kaulius,
+Steven M. Cook, Charles E. Beil, Craig C. Sturrock,
+Amalio De Cotiis, John N. Gregory, 347059 B.C. Ltd.,
+Frank Mayer, John R. Owen, Verlaan
+Investments Inc., William John Millar, NSFC Holdings Ltd.,
+TFTI Holdings Limited, Douglas H. Mathew, Ian H. Pitfield,
+Estate of the late Lorne A. Green and Innocenzo De
+Cotiis Appellants v. Her Majesty the
+Queen Respondent  Coram:
+McLachlin C.J. and Major, Bastarache, Binnie, LeBel, Deschamps, Fish, Abella
+and Charron JJ.   Reasons for
+  Judgment: (paras. 1 to 64)  McLachlin C.J. and Major J. (Bastarache, Binnie, LeBel,
+  Deschamps, Fish, Abella and Charron JJ. concurring)    ______________________________ Mathew v.
+Canada, [2005] 2 S.C.R. 643, 2005 SCC 55  Eugene Kaulius,
+Steven M. Cook, Charles E. Beil, Craig C. Sturrock,
+Amalio De Cotiis, John N. Gregory, 347059 B.C.
+Ltd., Frank Mayer, John R. Owen, Verlaan Investments
+Inc., William John Millar, NSFC Holdings
+Ltd., TFTI Holdings Limited, Douglas H. Mathew, Ian H. Pitfield,
+Estate of the late Lorne A. Green and Innocenzo De Cotiis                                                                                        Appellants  v.  Her Majesty
+The Queen                                                                               Respondent  Indexed
+as:  Mathew v. Canada  Neutral
+citation:  2005 SCC 55.  File
+No.:  30067.  2005:  March 8;
+2005: October 19.  Present:  McLachlin
+C.J. and Major, Bastarache, Binnie, LeBel, Deschamps, Fish, Abella and
+Charron JJ.  on appeal from
+the federal court of appeal    Held: The appeal should be dismissed.    Cases Cited  Followed: Canada Trustco Mortgage Co. v. Canada, [2005] 2
+S.C.R. 601, 2005 SCC 54; not followed: OSFC Holdings Ltd.
+v. Canada, [2002] 2 F.C. 288, 2001 FCA 260.  Statutes and Regulations Cited  Income Tax Act,
+R.S.C. 1985, c. 1 (5th Supp .), ss. 18(13) , 96 , 245(1)  to
+(4) , 248(10) .  APPEAL from a judgment of the Federal Court of Appeal (Linden,
+Rothstein and Sexton JJ.A.), [2004] 1 C.T.C. 115,
+311 N.R. 172 (sub nom. Kaulius v. Minister of National Revenue),
+2003 D.T.C. 5644 (sub nom. Kaulius v. The Queen), [2003]
+F.C.J. No. 1470 (QL), 2003 FCA 371, affirming a decision of
+Dussault J.T.C.C., [2003] 1 C.T.C. 2045, 2002 D.T.C. 1637,
+[2002] T.C.J. No. 222 (QL).  Appeal dismissed.  Kim Hansen, for the appellants.   The judgment of the Court was delivered by  The Chief Justice and Major J.
+—  1.      Introduction  1                                  
+This appeal, like its companion case Canada Trustco Mortgage Co. v.
+Canada, [2005] 2 S.C.R. 601, 2005 SCC 54 (“Canada Trustco”)
+(released concurrently), raises the issue of the interplay between the general
+anti-avoidance rule (“GAAR”) of the Income Tax Act, R.S.C. 1985,
+c. 1 (5th Supp .), and specific provisions of the Act conferring tax
+benefits.  2                                  
+As discussed more fully in Canada Trustco, a tax benefit may be
+denied under the GAAR if allowing the tax benefit would frustrate or defeat the
+object, spirit or purpose of the provisions that are relied upon for the tax
+benefit.  The central issue in this appeal is the proper interpretation of  s.
+18(13)  and the provision that allows for loss sharing among partners under s.
+96(1).  For the reasons that follow, the appeal is dismissed with costs.  2.      Facts  3                                  
+As a result of a series of transactions, the appellants lowered their 
+incomes by deducting losses from the sale of mortgaged properties originally
+belonging to Standard Trust Company (“STC”). The overall arrangement  involved
+three stages. At the first stage, STC transferred a portfolio of mortgages with
+unrealized losses to a non-arm’s length partnership, Partnership A, thereby
+acquiring a 99 percent interest in it. At the second stage, STC relied on s.
+18(13)  to transfer the unrealized losses to Partnership A and then sold its 99
+percent interest in it  to an arm’s length party.  At the third stage,
+Partnership B was formed to acquire the 99 percent interest in Partnership A. 
+The appellants joined Partnership B and were thus able to claim their
+proportionate shares of the losses from the eventual sale or write-down of the
+mortgaged properties.  In this way, STC’s losses were transferred through s.
+18(13)  and the partnership vehicle to arm’s length taxpayers who offset them
+against their own incomes, while STC recovered a portion of the losses
+associated with the defaulted mortgages.  4                                  
+STC carried on a business which included the lending of money on the
+security of mortgages on real property.  By May 1991, STC was insolvent and
+Ernst & Young was appointed as its liquidator.  At that time, STC owned a
+portfolio of 17 non-performing loans with 9 underlying real estate properties
+having a fair market value of approximately $33 million, the “Portfolio
+Assets”.  The cost to STC of the Portfolio Assets was approximately $85
+million.  Since STC was being liquidated, it could not use the approximately
+$52 million in unrealized losses from the Portfolio Assets.  5                                  
+The liquidator devised and oversaw the execution of a series of
+transactions to realize maximum returns on the disposal of the Portfolio
+Assets.  The transactions are described in greater detail in a statement of
+admitted facts, which is reproduced at para. 5 of the decision of the Tax Court
+of Canada ([2003] 1 C.T.C. 2045).  In sum, the appellants who are partners in a
+relatively passive partnership that dealt with STC at arm’s length deducted
+over $10 million of STC’s losses against their own incomes.  6                                  
+On October 21, 1992, STC incorporated a wholly owned subsidiary, 1004568
+(the “subsidiary”).  On October 23, 1992, STC and its subsidiary entered into a
+partnership agreement to create the STIL II Partnership (“Partnership A”).  On
+that date, STC contributed the Portfolio Assets as capital for a 99 percent
+interest in Partnership A and the subsidiary borrowed $417,318 from STC to make
+its capital contribution for a 1 percent interest.  At its inception,
+Partnership A did not deal with STC at arm’s length.  7                                  
+Section 18(13)  of the Income Tax Act  prohibits a taxpayer whose
+ordinary business includes the lending of money from deducting a loss on the
+disposition of a mortgage if at the end of a specified period, the mortgage is
+owned by a partnership that does not deal at arm’s length with the transferor. 
+Under such circumstances, the loss is added to the cost of the mortgage to the
+partnership.  8                                  
+STC relied on s. 18(13)  to transfer the Portfolio Assets into
+Partnership A at their historical cost of $85 million.  From the outset, it was
+STC’s goal to use this transaction to preserve the unrealized losses of the
+Portfolio Assets of $52 million and to transfer them into Partnership A so that
+STC could eventually sell its 99 percent interest in Partnership A to an arm’s
+length party.  9                                  
+The partnership rules under s. 96 of the Act provide that a
+partnership’s income or losses flow through to its partners at the end of the
+taxation year. Partners are entitled to claim their proportionate shares of
+partnership losses, provided they are partners at the end of the taxation year,
+regardless of when they joined the partnership. 10                              
+It was STC’s plan to sell its 99 percent interest in Partnership A to an
+arm’s length party so that Partnership A would dispose of the Portfolio Assets
+and realize losses of up to $52 million, and the new partner would rely on s.
+96 of the Act to claim 99 percent of the losses.  Between August 1992 and
+January 1993, STC contacted 38 prospective purchasers for its 99 percent
+interest in Partnership A.  11                              
+In January 1993, STC began negotiations with OSFC Holdings Ltd.
+(“OSFC”), an arm’s length corporation.  On May 31, 1993, STC and OSFC agreed on
+the purchase and sale of the 99 percent interest in Partnership A.  One of the
+terms of the purchase agreement was that OSFC would pay to STC an adjustable
+“Additional Payment” of up to $5 million if Partnership A realized losses from
+the disposition of the Portfolio Assets for income tax purposes.  The result of
+this term was to convert STC’s $52 million in unrealized losses into up to $5
+million in cash for STC.  12                              
+OSFC had planned from the outset to syndicate its interest in
+Partnership A.  Before describing the remaining transactions, it is useful to
+describe the 4 corporate and 13 individual appellants.  13                              
+TFTI Holdings Ltd. (“TFTI”) and NSFC Holdings Ltd. (“NSFC”), are
+controlled by Peter Thomas, who also controlled OSFC.  Mr. Thomas, who is not a
+party to this appeal, is very experienced in real estate, having founded the
+Century 21 real estate firm in Canada.  14                              
+Mr. Kaulius is a chartered accountant by training and was, from 1992
+until 1998, president of OSFC, NSFC and TFTI.  15                              
+Verlaan Investments Inc. and 347059 B.C. Ltd. are real estate
+development companies.  16                              
+Messrs. Amalio and Innocenzo De Cotiis are brothers who are heavily
+involved in the real estate business.  17                              
+Mr. Mayer is an investment analyst who has been specializing in real
+estate for over 28 years.  18                              
+Mr. Gregory, Mr. Cook, and the seven remaining appellants were all
+lawyers with the firm of Thorsteinssons.  Mr. Gregory testified that he was
+fairly experienced in the real estate business and Mr. Cook testified that he
+was familiar with real estate through his training.  19                              
+On July 5, 1993, OSFC and TFTI formed the SRMP Realty & Mortgage
+Partnership (“Partnership B”), to acquire and manage OSFC’s 99 percent interest
+in Partnership A.  The capital of Partnership B was divided into 35 class A
+units and 15 class B units.  The class B units were allocated as follows:  Class B unitholder          No. of class
+B units OSFC                                                                                                12.0 TFTI                                                                                                    
+2.0 NSFC                                                                                                 
+0.5 Eugene Kaulius                                                                       
+0.5  20                              
+TFTI, NSFC and Eugene Kaulius were issued their class B units for $1 per
+class B unit.  OSFC was issued 12 class B units as part of its consideration
+for transferring its 99 percent interest in Partnership A to Partnership B. 
+OSFC was managing partner for Partnership B and was authorized to raise capital
+for Partnership B in order to purchase OSFC’s 99 percent interest in
+Partnership A by offering and selling class A units.  OSFC approached a number
+of potential investors to participate as partners in Partnership B, including
+the appellants.  21                              
+On July 7, 1993, OSFC sold its 99 percent interest in Partnership A to
+Partnership B for cash, 12 class B units in Partnership B, and other
+consideration.  Partnership B also assumed the obligation to pay the
+“Additional Payment” for realized losses to STC.  22                              
+On or about July 9, 1993, the class A unit holders described in
+Appendix A (see para. 5 of the Tax Court decision) subscribed for the
+stated number of class A units, for $110,000 per class A unit plus additional
+subscription proceeds to Partnership B to fund their proportionate shares of
+the “Additional Payment”.  23                              
+The appellants are class A and class B unit holders in Partnership B and
+their shares are set out in the following table:     Contribution  Closing
+  Balance Class
+  A     TFTI  $       
+  110,000 -$           
+  937,689  NSFC  $       
+  110,000 -$           
+  937,689  A. De Cotiis  $        
+  36,667 -$           
+  312,528  I. De Cotiis  $        
+  36,667 -$           
+  312,528  F. B. Mayer  $       
+  330,000 -$        
+  2,813,068  347059 B.C. Ltd. and Verlaan
+  Investments Inc.  $       
+  330,000 -$        
+  2,813,068  C. E. Beil  $        
+  88,000 -$           
+  750,152  S. M. Cook  $        
+  77,000 -$           
+  656,383  L. A. Green  $        
+  44,000 -$           
+  375,076  J. N. Gregory  $        
+  55,000 -$           
+  468,845  D. H. Mathew  $        
+  44,000 -$           
+  375,076  W. J. Millar  $        
+  55,000 -$           
+  468,845  J. R. Owen  $        
+  44,000 -$           
+  375,076  I. H. Pitfield  $        
+  55,000 -$           
+  468,845  C. C. Sturrock  $        
+  88,000 -$           
+  750,152  Total
+  Class A  $    
+  1,503,334  -$      
+  12,815,020     Class
+  B     TFTI  $                2 -$        
+  2,095,377  NSFC  $                1 -$           
+  523,844  Kaulius  $                1 -$           
+  523,844  Total
+  Class B   $                 4  -$        
+  3,143,065              
+  Total Class A and B  $    
+  1,503,338 -$      
+  15,958,085  24                              
+During the relevant period, neither Partnerships A nor B ever acquired
+or sold any property other than the Portfolio Assets.  25                              
+By September 30, 1993, as a result of the sale of some of the Portfolio
+Assets and the write-down of the remaining assets to fair market value,
+Partnership A realized losses in excess of $52 million. Partnership A allocated
+99 percent of its losses to Partnership B which then allocated these losses to
+its partners, including the appellants.  26                              
+The appellants together deducted over $10 million of the Partnership B
+losses against their own incomes in 1993 or 1994.  Some of the appellants, in
+addition to reducing their taxable incomes for the relevant year to NIL, also
+computed non-capital losses to be carried forward or back.  27                              
+The Minister of National Revenue reassessed the appellants, applied the
+GAAR, and disallowed the deduction of their share of the Partnership B losses.  3.      Legislative Provisions  28                              
+Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .)  18. . . .  (13) [Superficial loss] Subject to subsection
+138(5.2) and notwithstanding any other provision of this Act, where a taxpayer  (a)  who was a resident of Canada at any time in a taxation year
+and whose ordinary business during that year included the lending of money, or  (b)  who at any time in the year carried on a business of
+lending money in Canada  has sustained a loss on a disposition of property used or held in that
+business that is a share, or a loan, bond, debenture, mortgage, note, agreement
+of sale or any other indebtedness, other than a property that is a capital
+property of the taxpayer, no amount shall be deducted in computing the income
+of the taxpayer from that business for the year in respect of the loss where  (c)   during the period commencing 30 days before and ending 30
+days after the disposition, the taxpayer or a person or partnership that does
+not deal at arm’s length with the taxpayer acquired or agreed to acquire the
+same or identical property (in this subsection referred to as the “substituted
+property”), and  (d)  at the end of the period described in paragraph (c),
+the taxpayer, person or partnership, as the case may be, owned or had a right
+to acquire the substituted property,  and any such loss shall be added in computing the cost to the taxpayer,
+person or partnership, as the case may be, of the substituted property.   96. (1) [General Rules] Where a taxpayer is
+a member of a partnership, the taxpayer’s income, non-capital loss, net capital
+loss, restricted farm loss and farm loss, if any, for a taxation year, or the
+taxpayer’s taxable income earned in Canada for a taxation year, as the case may
+be, shall be computed as if                                                                     .
+. .  (g)  the amount, if any, by which  (i)  the loss of the partnership for a taxation year from any source or
+sources in a particular place,  exceeds  (ii) in the case of a specified member (within the meaning of the
+definition “specified member” in subsection 248(1) if that definition were read
+without reference to paragraph (b) thereof) of the partnership in the
+year, the amount, if any, deducted by the partnership by virtue of section 37
+in calculating its income for the taxation year from that source or sources in
+the particular place, as the case may be, and  (iii)    in any other case, nil  were the loss of the taxpayer from that source or from sources in that
+particular place, as the case may be, for the taxation year of the taxpayer in
+which the partnership’s taxation year ends, to the extent of the taxpayer’s
+share thereof.  245. (1) [Definitions] In this section,  “tax benefit” means a reduction, avoidance or
+deferral of tax or other amount payable under this Act or an increase in a
+refund of tax or other amount under this Act;                                                                     .
+. .  “transaction” includes an arrangement or event.   (3) [Avoidance transaction] An avoidance
+transaction means any transaction  (a)  that, but for this section, would result, directly or
+indirectly, in a tax benefit, unless the transaction may reasonably be
+considered to have been undertaken or arranged primarily for bona fide purposes
+other than to obtain the tax benefit; or  (b)  that is part of a series of transactions, which series, but
+for this section, would result, directly or indirectly, in a tax benefit,
+unless the transaction may reasonably be considered to have been undertaken or
+arranged primarily for bona fide purposes other than to obtain the tax
+benefit.  (4) [Where s. 2 does not apply] For greater
+certainty, subsection (2) does not apply to a transaction where it may
+reasonably be considered that the transaction would not result directly or
+indirectly in a misuse of the provisions of this Act or an abuse having regard
+to the provisions of this Act, other than this section, read as a whole.  4.      Judicial Decisions  4.1    Tax Court of Canada, [2003] 1 C.T.C.
+2045  29                              
+The appeal before the Tax Court of Canada proceeded solely on the issue
+of whether the GAAR could be applied to deny the tax benefit.  The Tax Court
+judge found (at para. 233) that the transactions at issue were “basically the
+same” as those that were considered in OSFC Holdings Ltd. v. Canada, 
+[2002] 2 F.C. 288, 2001 FCA 260 (“OSFC”).  The Tax Court judge followed
+the decision of the majority in OSFC and dismissed the appeal.  4.2    Federal Court of Appeal, [2004] 1
+C.T.C. 115, 2003 FCA 371  30                              
+The Federal Court of Appeal agreed that the facts in this case were
+essentially the same as those in OSFC; it followed the decision of the
+majority in OSFC and dismissed the appeal.  In OSFC, the Federal
+Court of Appeal applied a two-step approach to the GAAR: it held at the first
+step that s. 18(13)  and s. 96  allowed the appellants to claim the losses at
+issue, but held at the second step that the appellants should be denied those
+losses because allowing the tax benefit would contravene the overriding policy
+of the Income Tax Act  against the trading of losses between taxpayers.  5.      Analysis  5.1    The Interpretation and Application of the
+GAAR  31                              
+Our conclusions on the interpretation and application of the GAAR are
+summarized at para. 66 of the Canada Trustco appeal, released
+concurrently.  1.                                
+Three requirements must be established to permit application of the
+GAAR:  (1)   A tax benefit resulting from a
+transaction or part of a series of transactions (s. 245(1) and (2));  (2)   that the transaction is an avoidance
+transaction in the sense that it cannot be said to have been reasonably
+undertaken or arranged primarily for a bona fide purpose other than to
+obtain a tax benefit; and  (3)   that there was abusive tax avoidance in
+the sense that it cannot be reasonably concluded that a tax benefit would be
+consistent with the object, spirit or purpose of the provisions relied upon by
+the taxpayer.  2.                                
+The burden is on the taxpayer to refute (1) and (2), and on the Minister
+to establish (3).  3.                                
+If the existence of abusive tax avoidance is unclear, the benefit of the
+doubt goes to the taxpayer.  4.                                
+The courts proceed by conducting a unified textual, contextual and
+purposive analysis of the provisions giving rise to the tax benefit in order to
+determine why they were put in place and why the benefit was conferred.  The
+goal is to arrive at a purposive interpretation that is harmonious with the
+provisions of the Act that confer the tax benefit, read in the context of the
+whole Act.  5.                                
+Whether the transactions were motivated by any economic, commercial,
+family or other non-tax purpose may form part of the factual context that the
+courts may consider in the analysis of abusive tax avoidance allegations under
+s. 245(4) .  However, any finding in this respect would form only one part of
+the underlying facts of a case, and would be insufficient by itself to
+establish abusive tax avoidance.  The central issue is the proper
+interpretation of the relevant provisions in light of their context and
+purpose.  6.                                
+Abusive tax avoidance may be found where the relationships and
+transactions as expressed in the relevant documentation lack a proper basis
+relative to the object, spirit or purpose of the provisions that are purported
+to confer the tax benefit, or where they are wholly dissimilar to the
+relationships or transactions that are contemplated by the provisions.  7.                                
+Where the Tax Court judge has proceeded on a proper construction of the
+provisions of the Income Tax Act  and on findings supported by the
+evidence, appellate tribunals should not interfere, absent a palpable and
+overriding error.  (Emphasis in
+original.)  32                              
+As in the Canada Trustco appeal, the first two requirements, that
+there be a tax benefit and an avoidance transaction, were conceded. The tax
+benefits are the losses, in excess of $10 million, that were deducted by the
+appellants, who are unitholders in Partnership B (the “tax benefit”).  33                              
+A “series of transactions” is explained at paras. 25 and 26 of Canada
+Trustco.  The GAAR may apply to a tax benefit that is the result of a
+“series of transactions” which includes events “completed in contemplation of
+the series” (s. 248(10)  of the Income Tax Act ).  In the instant
+appeal, the series of transactions includes all the transactions, as described
+earlier, from the transfer of losses by STC into Partnership A to the losses
+claimed by the  unitholders in Partnership B.  The Tax Court judge found that
+the primary purpose of each transaction in the series was to obtain a tax
+benefit.  5.2    The Issue  34                              
+As stated, the primary purpose of each transaction in the series was to
+transfer STC’s losses into Partnership A so that Partnership A could serve as a
+vehicle to sell the losses to arm’s length taxpayers.  Ultimately, the
+appellants, who dealt with STC at arm’s length, purchased the tax losses
+through the use of Partnership B. The appellants deducted those losses against
+other income and some also computed non-capital losses to be carried forward or
+back.  In return they provided funds which found their way back to STC, which
+thus recovered a portion of its loss on the non-performing mortgages.  The
+appellants relied on a combination of s. 18(13)  and the partnership provisions
+of the Income Tax Act  to claim the losses.  This was essentially a
+series of transactions aimed at transferring unrealized losses from one arm’s
+length taxpayer to another.  The tax consequences of the transactions are the
+issue, not the status of the partnerships.  35                              
+The question is whether these transactions, which it is agreed are
+avoidance transactions giving rise to a tax benefit, result in abusive tax
+avoidance within s. 245(4) .  More specifically, in the context of this
+series of transactions, would allowing the appellants to deduct these losses
+frustrate the object, spirit or purpose of s. 18(13)  and the partnership
+provisions of the Act?  As stated at para. 44 of Canada Trustco,  “[t]he
+heart of the analysis . . . lies in a contextual and purposive
+interpretation of the provisions of the Act that are relied on by the taxpayer,
+and the application of the properly interpreted provisions to the facts.”  36                              
+Section 18(13) will apply to a partnership if the following conditions
+are met: (1) a taxpayer in the money-lending business disposes of a mortgage
+(or similar non-capital property); (2) a partnership owns or has a right to
+acquire the property at the end of the prescribed period; and (3) the
+partnership does not deal at arm’s length with the taxpayer.  37                              
+When s. 18(13) applies, it produces two tax consequences. First, the
+transferor cannot deduct the loss from the disposition.  Second, the loss is
+added to the cost of the property to the transferee.  38                              
+The effect of the first result is to prevent the transferor from
+claiming the loss that would ordinarily result from the transfer.  This result
+is not at issue in this case, since STC did not claim the losses on this
+transaction.  The second result, however, is at issue.  39                              
+The appellants, who ultimately claimed the losses, seek to rely in part
+on the loss-preservation aspect of s. 18(13).  They argue that all the
+conditions under s. 18(13) were met and that in particular, since
+Partnership A did not deal at arm’s length with STC at the end of the period
+prescribed, the unrealized losses were properly transferred to Partnership A. 
+Further, once the losses were preserved for the benefit of Partnership A under
+s. 18(13), they were entitled to claim losses in proportion to their interest
+in Partnership B, under the partnership provisions. The Minister, on the other
+hand, argues that the series of transactions results in abusive tax avoidance
+and should be precluded under the GAAR.  5.3      Interpretation of Section 18(13)  and Section 96(1)  of the
+Income Tax Act  5.3.1   The Proper Interpretive Approach  40                              
+To resolve the dispute arising from the combined operation of s. 18(13) 
+and s. 96  of the Income Tax Act , it is necessary to determine
+Parliament’s intention in enacting these provisions by interpreting them
+purposively, in light of their context. 41                              
+The majority of the Federal Court of Appeal in the related case of OSFC
+interpreted s. 18(13) and s. 96 of the Act in a literal manner at the first
+stage of its two-part test. It concluded that since s. 18(13)  does not on its
+face restrict the losses once they are transferred, the losses may be
+subsequently transferred to an arm’s length taxpayer.  Similarly, it reasoned
+that the partnership rules in s. 96 of the Act would allow the appellants to
+claim the losses on the basis that they provide for a distribution of income
+and losses from the partnership to the partners at the end of the partnership’s
+fiscal year, without any further restriction.  The Federal Court of Appeal then
+went on to disallow the benefits under the GAAR at the second stage of its
+analysis, where it considered the policy of the Act as a whole.  42                              
+In effect, the majority conducted a narrow textual analysis of the
+specific provisions at issue, s. 18(13)  and s. 96  (stage 1), and supplemented
+this by a broad purposive analysis having regard to what it considered to be a
+policy of the Act as a whole (stage 2).  While it reached the correct result,
+we reject its two-stage method in favour of a unified textual, contextual and
+purposive approach to interpretation.  There is an abiding principle of
+interpretation: to determine the intention of the legislator by considering the
+text, context and purpose of the provisions at issue.  This applies to the Income
+Tax Act  and the GAAR as much as to any other legislation.  43                              
+We add this. While it is useful to consider the three elements of
+statutory interpretation  separately to ensure each has received its due, they
+inevitably intertwine.  For example, statutory context involves consideration
+of the purposes and policy of the provisions examined.  And while factors
+indicating legislative purpose are usefully examined individually, legislative
+purpose is at the same time the ultimate issue — what the legislator intended.  5.3.2   The Text of the Provisions  44                              
+As outlined above, the appellants submit that they are entitled to
+deduct the losses because of the wording of s. 18(13)  and s. 96 . It is clear
+that the preservation of the loss under s. 18(13)  is for the benefit of a
+person or partnership who does not deal  at arm’s length with the transferor. 
+Since the words of s. 18(13)  do not expressly restrict the ability to claim the
+loss to the immediate non-arm’s length transferee, the appellants argue that
+they may use the partnership provisions to claim it.  The Minister, on the
+other hand, argues that the section addresses a non-arm’s length relationship
+and an arm’s length taxpayer cannot use the partnership provisions to claim the
+loss preserved by that section.  45                              
+On their face, the partnership provisions found in s. 96 of the Act
+impose no restrictions on loss sharing between partners, except for foreign
+partnerships under s. 96(8).  Accumulated losses are available to all partners,
+provided they entered the partnership before the end of the taxation year.  It
+is agreed that the appellants claimed losses in proportion to their interests
+in Partnership B.  Nevertheless, a question arises as to whether these
+provisions can apply in conjunction with s. 18(13)  to allow the appellants to
+claim losses that originated with the original transferor, STC.  46                              
+The requirement that a partnership “not deal at arm’s length with the
+taxpayer” under s. 18(13)  and the partnership rules must be purposively
+construed in relation to each other and in the context of other provisions of
+the Income Tax Act  that address the transfer of losses. The task is to
+determine, in light of the series of transactions, whether to allow the
+appellants to claim the losses would frustrate or defeat the object, spirit or
+purpose of the treatment of losses under s. 18(13)  and the partnership rules,
+notwithstanding that the tax benefit might arise from the application of a
+literal interpretation of these provisions.  5.3.3   The Context of the Provisions  47                              
+The basic rules of statutory interpretation require that the larger
+legislative context be considered in determining the meaning of statutory
+provisions.  This is confirmed by s. 245(4) , which requires that the question
+of abusive tax avoidance be determined having regard to the provisions of the
+Act, read as a whole.  48                              
+The question is whether other provisions of the Income Tax Act 
+shed light on whether Parliament intended s. 18(13)  and s. 96  to be used to
+preserve an unrealized loss for future sale to an arm’s length party.  The
+government argues that other provisions of the Act show that the transfer of
+losses to arm’s length parties is generally against the policy of the Act.  It
+is allowed only exceptionally in specific circumstances for specific purposes. 
+The appellants counter that where Parliament wished to prevent the transfer of
+losses to arm’s length parties, it did so explicitly, and that the absence of
+explicit prohibitions in s. 18(13)  and s. 96  permits the inference that
+Parliament intended to allow such transfers.  49                              
+The Federal Court of Appeal considered other provisions of the Income
+Tax Act  that address the transfer or sharing of losses between taxpayers. 
+It properly concluded that the general policy of the Income Tax Act  is
+to prohibit the transfer of losses between taxpayers, subject to specific
+exceptions.  It also correctly concluded that under such exceptions, Parliament
+intended to promote a  particular purpose concerning a distinct relationship
+between the transferor and the transferee under specifically described
+circumstances.  However, we note that it cannot be automatically inferred from
+the general policy against the transfer of losses between taxpayers that s.
+18(13)  must be read as preventing the appellants from claiming the losses in
+this case.  This policy is but one consideration to be taken into account in
+determining Parliament’s intent with respect to s. 18(13)  and s. 96 .  50                              
+In summary, the legislative context surrounding s. 18(13)  and s. 96  of
+the Income Tax Act , while perhaps not in itself conclusive, suggests
+that Parliament would not likely have intended arm’s length parties to be able
+to buy losses generated by s. 18(13)  transfers.  5.3.4   The Purpose of Section 18(13)  and
+Section 96  of the Income Tax Act  and Parliament’s Intent  51                              
+The partnership rules under s. 96  are predicated on the requirement that
+partners in a partnership pursue a common interest in the business activities
+of the partnership, in a non-arm’s length relationship.  Although, on its face,
+s. 96(1)  imposes no restriction on the flow of losses to its partners, except
+for the treatment of foreign partnerships under s. 96(8), it is implicit that
+the rules are applied when partners in a partnership carry on a business in
+common, in a non-arm’s length relationship.  52                              
+The purpose for the broad treatment of loss sharing between partners is
+to promote an organizational structure that allows partners to carry on a
+business in common, in a non-arm’s length relationship.  53                              
+The purpose of s. 18(13) in particular is to prevent a taxpayer who is
+in the business of lending money from claiming a loss upon the superficial
+disposition of a mortgage or similar non-capital property.  This purpose is
+achieved by confining the loss that would ordinarily be claimed by the
+transferor to a non-arm’s length transferee.  Where s. 18(13) does not apply,
+only the transferor may claim the loss on the disposition, which would be
+consistent with the general policy of the Act against the transfer of losses.  54                              
+Under s. 18(13), the loss is generally under the control of the
+transferor or traceable to the business of the transferor and is preserved
+because of its special relationship with the transferee partnership.  The
+section in effect denies the loss to the transferor because it originated and
+remains in the transferor’s control before and after the transfer.  To allow a
+new arm’s length partner to buy into the transferee partnership and thus to
+benefit from the loss would violate the fundamental premise underlying s.
+18(13) that the loss is preserved because it essentially remains in the
+transferor’s control.  It would contradict the main purpose of s. 18(13) and
+the premise on which it operates.  Section 18(13) allows the preservation and
+transfer of a loss because of the non-arm’s length relationship between
+transferor and transferee.  Absent that relationship, there is no reason for
+the provision to apply.  5.3.5   Conclusion on Interpretation of Section
+18(13) and Section 96 of the Act  55                              
+These observations suggest that the combined effect of s. 18(13) and the
+partnership provisions do not allow taxpayers to preserve and transfer
+unrealized losses to arm’s length parties. Section 18(13) relies on the premise
+that the partners in the transferee partnership pursue a business activity in
+common other than to transfer the loss and that the partnership and the
+transferor deal in a non-arm’s length relationship with respect to the
+property.  5.4    Application  56                              
+This brings us to the ultimate question of whether the only reasonable
+conclusion is that the series of transactions on which the appellants rely for
+the tax benefits they claim results in abusive tax avoidance when s. 18(13)  and
+s. 96(1)  are interpreted purposively, in the context of the Act as a whole.  57                              
+As stated at para. 59 of Canada Trustco, a determination of
+whether there was abusive tax avoidance under s. 245(4)  requires a close
+examination of the facts in order to determine whether allowing a tax benefit
+would be within the object, spirit or purpose of the provisions relied upon by
+the taxpayer.  Although no single factual element is in itself determinative of
+whether there was abusive tax avoidance, the GAAR may be applied to deny a tax
+benefit “where the relationships and transactions as expressed in the relevant
+documentation lack a proper basis relative to the object, spirit or purpose of
+the provisions that are purported to confer the tax benefit, or where they are
+wholly dissimilar to the relationships or transactions that are contemplated by
+the provisions” (Canada Trustco, at para. 60).  58                              
+We are of the view that to allow the appellants to claim the losses in
+the present appeal would defeat the purposes of s. 18(13) and the partnership
+provisions, and that the Minister properly denied the appellants the losses
+under the GAAR.  Interpreted textually, contextually and purposively, s. 18(13) 
+and s. 96  do not permit arm’s length parties to purchase the tax losses
+preserved by s. 18(13) and claim them as their own.  The purpose of s. 18(13)
+is to transfer a loss to a non-arm’s length party in order to prevent a
+taxpayer who carries on a business of lending money from realizing a
+superficial loss.  The purpose for the broad treatment of loss sharing between
+partners is to promote an organizational structure that allows partners to
+carry on a business in common, in a non-arm’s length relationship.  Section
+18(13) preserves and transfers a loss under the assumption that it will be
+realized by a taxpayer who does not deal at arm’s length with the transferor. 
+Parliament could not have intended that the combined effect of the partnership
+rules and s. 18(13) would preserve and transfer a loss to be realized by a
+taxpayer who deals at arm’s length with the transferor.    To use these
+provisions to preserve and sell an unrealized loss to an arm’s length party
+results in abusive tax avoidance under s. 245(4) .  Such transactions do not
+fall within the spirit and purpose of s. 18(13)  and s. 96 , properly construed.  59                              
+The appellants’ submission that nothing in s. 18(13) limits subsequent
+dispositions of the property to arm’s length parties depends on a literal
+interpretation of the section and fails to address the main inquiry under the
+GAAR, which rests on a contextual and purposive interpretation of the
+provisions at issue.  As discussed above, the text of the provision is open to
+a competing interpretation offered by the Minister and does not itself resolve
+the dispute. To do so, we must refer to the purposive construction of the
+provisions.  The interplay of s. 18(13)  and s. 96  requires us to look at the
+entire factual context of the series of transactions to determine whether it
+frustrates the object and spirit of these provisions.  60                              
+The backdrop to the impugned transactions was the failure of STC,
+leaving non-performing mortgages in its wake. STC transferred $52 million in
+unrealized losses to Partnership A in a notionally non-arm’s length
+transaction.  Partnership A was to serve as a holding tank for the unrealized
+losses and STC planned from the outset to sell its interest in Partnership A
+after the application of s. 18(13) so that the losses preserved in Partnership
+A could be transferred to arm’s length parties through a substitution of
+partners in Partnership A.  The subsequent transactions involving Partnership B
+were executed “in contemplation of” the transactions between STC and
+Partnership A.  61                              
+By these subsequent transactions, the losses preserved in Partnership A
+were transferred to Partnership B which sold units to the appellants, who dealt
+with STC at arm’s length.  The new partnership, Partnership B, was relatively
+passive.  From its inception, the purpose of Partnership B was simply to
+realize and allocate the tax losses, without any other significant partnership
+activity.  Nor are these conclusions negated by the fact that (1) the
+underlying properties to the mortgages were appraised and sold or written off,
+(2) the appellants paid substantial amounts in order to acquire their interests
+in Partnership B, or (3) the appellants sought to minimize their exposure to
+risk, should the tax losses not be accepted by the authorities.  62                              
+The abusive nature of the transactions is confirmed by the vacuity and
+artificiality of the non-arm’s length aspect of the initial relationship
+between Partnership A and STC.  A purposive interpretation of the interplay
+between s. 18(13)  and s. 96(1)  indicates that they allow the preservation and
+sharing of losses on the basis of shared control of the assets in a common
+business activity.  In this case, the absence of such a basis leads to an
+inference of abuse.  Neither Partnership A nor Partnership B ever dealt with
+real property, apart from STC’s original mortgage portfolio.  Nor was STC ever
+in a partnership relation with either OSFC or any of the appellants, having
+sold its entire interest to OSFC.  The only reasonable conclusion is that the
+series of transactions frustrated Parliament’s purpose of confining the
+transfer of losses such as these to a non-arm’s length partnership.  63                              
+As discussed in the companion case of Canada Trustco, where the
+Tax Court  judge has applied the law correctly and made findings and inferences
+supported by the evidence, an appellate court should not interfere.   Here the
+Tax Court judge, Dussault J.T.C.C., was obliged to apply the two-step approach
+mandated by the Federal Court of Appeal in OSFC.  He was also obliged,
+at the first step, to accept the majority’s conclusion that the avoidance
+transactions at issue did not violate the spirit and purpose of  s. 18(13). 
+However,  he went on to state at para. 304 that he preferred the minority view
+in OSFC that Parliament could not have intended for s. 18(13) to permit
+the transfer of losses between arm’s length taxpayers.  In the result, had it
+been open to him, he would have applied the GAAR to disallow the losses on the
+basis of his interpretation of s. 18(13).  We agree with these conclusions and
+endorse them.  6.      Conclusion  64                              
+We would dismiss the appeal with costs.  Appeal dismissed with costs.  Solicitor for the appellants:  Kim Hansen, Vancouver.  Solicitor for the respondent:  Deputy Attorney General of
+Canada, Ottawa.  

@@ -1,0 +1,337 @@
+R. v. Ling, [2002] 3 S.C.R. 814, 2002 SCC 74  Chee K. Ling                                                                                                    Appellant  v.  Her Majesty The Queen                                                                               Respondent  and  The Attorney General for Ontario, the Attorney General of Quebec and the Criminal Lawyers’ Association (Ontario)                                              Interveners  Indexed as:  R. v. Ling  Neutral citation:  2002 SCC 74.  File No.:  28315.  2002:  June 13; 2002:  November 21.   on appeal from the court of appeal for british columbia  Income tax — Administration and enforcement — Audits and
+investigations — Whether distinction can be drawn between audit and
+investigation under Income Tax Act — If so, circumstances in which tax
+official’s inquiry constitutes penal investigation — Whether evidence obtained
+during audit pursuant to ss. 231.1(1)  and 231.2(1)  of Income Tax Act
+can be used to further investigation or prosecution of  offences under
+s. 239(1) of the Act without violating taxpayer’s Charter rights —
+Canadian Charter of Rights and Freedoms, ss. 7 , 8  — Income Tax Act,
+R.S.C. 1985, c. 1 (5th Supp .), ss. 231.1 , 231.2 .  Constitutional law — Charter of Rights  — Exclusion of evidence — Tax
+evasion — Statements and documents obtained during inquiry by tax auditors 
+pursuant to ss. 231.1(1)  and 231.2(1)  of Income Tax Act  transferred
+to investigator — Investigator obtaining further information with requirement
+letters to various banks — Taxpayer charged with tax evasion — Whether evidence
+against taxpayer obtained in violation of his rights under Canadian Charter of
+Rights and Freedoms  — If so, whether evidence should be excluded — Canadian
+Charter of Rights and Freedoms, s. 24(2) .  Revenue Canada audited the appellant taxpayer with
+respect to his claim for farm losses for the taxation years 1990 through 1993.
+The auditors met the taxpayer’s accountant and examined books and records. 
+They also met the taxpayer and obtained receipt books from which they deduced
+that income had not been reported.  More meetings and further requests by the
+auditors led to the production of more information, including financial records
+and bank documents. On December 18, 1995, the auditors questioned the
+taxpayer extensively  and he admitted to mistakenly failing to report income. 
+A month later, the taxpayer’s file was transferred to the Special
+Investigations Section of Revenue Canada, which is responsible for criminal
+enforcement. Special investigations officials carried out further inquiries,
+interviewing witnesses and sending requirement letters to four banks and the
+taxpayer’s accountant.  They then met the taxpayer, informed him that he was
+under investigation and cautioned him as to his rights. The taxpayer declined
+to answer any questions.  He was later charged under s. 239(1)  of the Income
+Tax Act with tax evasion and making false or deceptive statements in income
+tax returns. The trial judge found that the evidence gathered by the auditors
+was not obtained in violation of the taxpayer’s  rights under the Canadian
+Charter of Rights and Freedoms  and denied a motion to exclude the evidence
+under s. 24(2)  of the Charter . The taxpayer was convicted.  The
+summary conviction appeal judge set aside the convictions.  He held that the
+investigation began after the December 18 meeting  and ordered a new trial
+in which the court would consider whether the auditors’ evidence gathered after
+that meeting should be excluded under s. 24(2) . The Court of Appeal
+affirmed the decision.  Held:  The
+appeal should be dismissed.  In light of the principles set out in R. v. Jarvis,
+[2002] 3 S.C.R. 757, 2002 SCC 73, Revenue Canada did not commence an
+investigation into the taxpayer’s penal liability until after the
+December 18 meeting.  The evidence gathered prior to and during that
+meeting in the proper exercise of an audit function could be shared with the
+Special Investigations Section and used in the subsequent  prosecution of the
+taxpayer for s. 239(1)  offences.  After the December 18 meeting, the
+predominant purpose of the inquiry was the determination of the taxpayer’s
+penal liability. All  evidence gathered after that meeting pursuant to the
+requirement powers was obtained as part of an investigation and in violation of
+the taxpayer’s Charter  rights. The admissibility of this evidence, and
+the evidence derived therefrom, will have to be considered in light of
+s. 24(2)  of the Charter . Cases Cited  Followed:  R.
+v. Jarvis, [2002] 3 S.C.R. 757, 2002 SCC 73.  Statutes and Regulations Cited  Canadian Charter of Rights and
+Freedoms, ss. 7 , 8 , 24(2) .  Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .), ss. 231.1(1) , 231.2(1) , 239(1) , (2) .  APPEAL from a judgment of the British Columbia Court
+of Appeal (2000), 149 C.C.C. (3d) 127, 144 B.C.A.C. 92, 236 W.A.C. 92, [2000]
+B.C.J. No. 2082 (QL), 2000 BCCA 562, affirming a judgment of Millward J.,
+[1999] 3 C.T.C. 386, [1998] B.C.J. No. 1512 (QL), setting aside the
+taxpayer’s convictions for tax offences and ordering a new trial.  Appeal
+dismissed.  Craig C. Sturrock and
+Thomas M. Boddez, for the appellant.  S. David Frankel, Q.C., Bruce Harper and Janet Henchey,
+for the respondent.  Trevor Shaw, for
+the intervener the Attorney General for Ontario.  Gilles Laporte and
+Monique Rousseau, for the intervener the Attorney General of
+Quebec.  Scott K. Fenton, for the intervener the Criminal Lawyers’ Association (Ontario).  The judgment of the Court was delivered by  Iacobucci and Major
+JJ. —  I.  Introduction  1                                  
+This appeal is determined by the principles set out in R. v. Jarvis,
+[2002] 3 S.C.R. 757, 2002 SCC 73, an appeal heard concurrently.  It
+raises a similar question, namely, in what circumstances an inquiry by an
+official of the Canada Customs and Revenue Agency (“CCRA”), formerly Revenue
+Canada, constitutes an investigation that implicates the Charter  rights
+of the taxpayer.  In Jarvis, we describe the circumstances in which an
+inquiry constitutes a criminal investigation as those that engage the
+adversarial relationship between the individual and the state, and we will use
+that phrase in the same context here.  Jarvis establishes that this
+relationship is engaged where the predominant purpose of an inquiry is the
+determination of a taxpayer’s penal liability under s. 239 of the Income Tax
+Act, R.C.S. 1985, c. 1 (5th Supp.) (the “Act”).  2                                  
+In performing an audit, the auditor may use the requirement powers,
+pursuant to ss. 231.1(1) and 231.2(1) of the Act.  These sections give the
+auditor the power to:  (a) enter a taxpayer’s place of business or place of
+record keeping; (b) require the taxpayer and third parties to answer questions
+put to them; and (c) require the taxpayer and third parties to furnish
+information and documents upon request.  3                                  
+If the audit reveals that the taxpayer has filed an incorrect tax
+return, he or she may be subject to reassessment and civil penalties.  In cases
+where the taxpayer has wilfully made false or deceptive statements or entries
+or attempted to evade the payment of a tax, he or she may be guilty of an
+offence pursuant to s. 239(1) of the Act  for which the punishments include
+fines and imprisonment for a maximum of five years.  4                                  
+The issue here as in Jarvis is when, if ever, can evidence
+obtained pursuant to the requirement powers of an audit be used to further an
+investigation or prosecution for a s. 239(1)  offence without violating the
+suspect’s Charter  rights?  This question is answered by Jarvis.  5                                  
+Though the factual circumstances and issue raised in the present appeal
+are less complicated than in Jarvis, the question of law is the same. 
+Evidence gathered by the CCRA pursuant to ss. 231.1(1)  and 231.2(1) , in the
+proper exercise of its audit function, may be used in a subsequent
+investigation or prosecution for a s. 239(1)  offence.  However, where the
+predominant purpose of a question or inquiry is the determination of penal
+liability, CCRA officials relinquish the authority to use ss. 231.1(1)  and
+231.2(1) .  Obtaining evidence under the requirement powers for such a purpose
+is a violation of a suspect’s Charter  rights.  Such evidence may thus be
+excluded from the prosecution of an offence.  6                                  
+The question, then, is in what circumstances is the predominant purpose
+of a question or inquiry the determination of penal liability?  In Jarvis,
+at para. 93, we held that no one factor is determinative but that the trial
+judge must assess the totality of the circumstances.  Applying the Jarvis
+test, we agree with Millward J. that the CCRA did not exercise its
+investigative function until after the meeting between Revenue Canada officials
+and the appellant on December 18, 1995.  7                                  
+Once the CCRA began to exercise its investigative function, the parties
+were put in an adversarial relationship.  The appellant is not entitled to
+immunity from evidence obtained pursuant to the requirement power prior to and
+during the December 18 meeting, or evidence derived therefrom.  However, the
+appellant is entitled to a new trial in which the court will consider
+the admissibility of evidence obtained under the requirement power for the
+predominant purpose of determining penal liability, and evidence derived
+therefrom, in accordance with s. 24(2)  of the Canadian Charter of Rights and
+Freedoms .  The appeal is dismissed and the order for a new trial is
+confirmed.  II.  Facts  8                                  
+Following an audit, Revenue Canada disallowed the appellant taxpayer’s
+claimed farm losses for the years 1987 through 1989.  The appellant’s taxes for
+those years were reassessed on the basis that his farming operations were a
+personal endeavour, not a business.  In 1994, James Edward Thatcher, a
+technical advisor with the Business Audit Section of Revenue Canada in
+Vancouver, conducted a computer check which revealed that the appellant claimed
+the same farming losses for the taxation years 1990 through 1993.  As a result,
+Thatcher selected those returns for a routine follow-up audit.  9                                  
+In November 1994, Thatcher informed the appellant, who was a doctor in
+Kitimat, B.C., that he was conducting an audit and would be there in the spring
+of 1995 to review his farming operations and medical practice.  Arvind Pacheco,
+of the Verification and Enforcement Division of Revenue Canada, was assigned to
+work on the audit with Thatcher.  10                              
+On June 5, 1995, Pacheco and Thatcher met with the appellant’s
+accountant, Carlyle Shepherd, at Shepherd’s office to examine the appellant’s
+books and records.  In reviewing those records, Thatcher determined that fees
+paid by the Medical Service Plan (“MSP”) were deposited directly to the
+appellant’s accounts twice each month.  There were other deposits into the same
+accounts which could not be identified by them.  11                              
+On June 7, 1995, Pacheco and Thatcher met with the appellant at the
+appellant’s office in the Kitimat General Hospital. Complying with a request by
+the auditors, the appellant produced two receipt books.  Comparing the receipt
+books to the bank records, the auditors deduced that office income had not been
+reported.  12                              
+Pacheco wrote to the appellant on June 21, 1995, requesting additional
+information and, on July 27, 1995, he wrote again stating that if the
+information was not forthcoming, requirements demanding it or a reassessment
+based on the information currently available would be issued.  13                              
+Pacheco met with the appellant at his farm in Delta, British Columbia on
+August 9, 1995.  On September 5 and 19, Shepherd provided further information
+to Pacheco on behalf of the appellant.  14                              
+On November 20, 1995, Pacheco telephoned the appellant to set up a
+meeting for December 18, 1995.  He also questioned the appellant about the
+unidentified deposits that he had proposed to include in income.  The appellant
+responded that they were loans.  15     
+Pacheco wrote to the appellant on December 7, 1995, asking him to
+provide further information and asking him to identify certain deposits before
+the December 18 meeting.  16                              
+The auditors met with the appellant on December 18 at the Vancouver
+District Office of Revenue Canada for over three hours.  The appellant was
+questioned extensively about the unidentified deposits and unreported income. 
+In the course of this meeting, the appellant admitted that he had mistakenly
+failed to report certain amounts as income.  17                              
+At no point did the auditors inform the appellant of any concern about
+tax evasion or about any rights he might have under the Charter  in
+relation to the inquiries being made of him.  The following documents and
+information had been obtained in the course of the audit:  (a)   the appellant’s filed income tax returns;  (b)   the working papers of the Revenue auditor
+who had previously examined the appellant’s farming loss claim for 1987-89;  (c)   two boxes of financial records at the
+appellant’s accountants;  (d)   a receipt book kept at the appellant’s
+office;  (e)   a journal recording cheques and cash
+received and petty cash, kept at the appellant’s office;  (f)    bank statements and bank deposit slips,
+some kept by the appellant and some obtained from the banks;  (g)   cheques from the Workers’ Compensation Board
+to the appellant, obtained from the Board;  (h)   oral and written responses by the
+appellant’s accountants to specific queries and requests for documents,
+including handwritten income and expense statements;  (i)    statements made by the appellant to the
+auditors in telephone conversations and in interviews on June 7 and December
+18, 1995.  18                              
+Following a meeting on December 29, 1995, the auditor, with the
+appellant’s consent, obtained documents from certain brokerage firms and
+chartered banks.  19                              
+After December 18, 1995, but before January 18, 1996, Pacheco met with
+Mr. Fleming, his group head, and Mr. Richard Olney, of Special Investigations,
+the criminal enforcement branch of Revenue Canada.  The outcome of the meeting
+was a referral of the appellant’s file to Special Investigations on January 18,
+1996, pursuant to instructions of Pacheco’s supervisor.  20                              
+On February 26 and 27, 1996, Olney and Fleming interviewed two witnesses
+who had previously been interviewed by the auditors.  Requirement letters were
+served on four banks and on the appellant’s accountant.  On February 28, 1996,
+Olney and Fleming met the appellant at his office.  They read him a caution
+from a card advising him generally that he was not obliged to make any statements
+but if he did so they might be used in evidence and that he had a right to
+retain and instruct a lawyer.  The appellant declined to answer any questions. 
+On February 28, 1996, a Prosecution Report was prepared.  The appellant was
+charged with six counts of committing an offence contrary to s. 239(1) of the
+Act on August 26, 1996.  III.  Relevant
+Statutory and Constitutional Provisions  21                              
+Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .)  231.1  (1)  An authorized person may, at all
+reasonable times, for any purpose related to the administration or enforcement
+of this Act,  (a)  inspect, audit or examine the books and records of a
+taxpayer and any document of the taxpayer or of any other person that relates
+or may relate to the information that is or should be in the books or records
+of the taxpayer or to any amount payable by the taxpayer under this Act, and  (b)  examine property in an inventory of a taxpayer and any
+property or process of, or matter relating to, the taxpayer or any other
+person, an examination of which may assist the authorized person in determining
+the accuracy of the inventory of the taxpayer or in ascertaining the
+information that is or should be in the books or records of the taxpayer or any
+amount payable by the taxpayer under this Act,  and for those purposes the authorized person may  (c)  subject to subsection (2), enter into any premises or place
+where any business is carried on, any property is kept, anything is done in
+connection with any business or any books or records are or should be kept, and  (d)  require the owner or manager of the property or business
+and any other person on the premises or place to give the authorized person all
+reasonable assistance and to answer all proper questions relating to the
+administration or enforcement of this Act and, for that purpose, require the
+owner or manager to attend at the premises or place with the authorized person.                                                                     .
+. .  231.2  (1)  Notwithstanding any other
+provision of this Act, the Minister may, subject to subsection (2), for any
+purpose related to the administration or enforcement of this Act, by notice
+served personally or by registered or certified mail, require that any person
+provide, within such reasonable time as is stipulated in the notice, (a)  any information or additional information, including a
+return of income or a supplementary return; or  (b)  any document.                                                                     .
+. .  239.  (1)  Every person who has  (a)  made, or participated in, assented to or acquiesced in the
+making of, false or deceptive statements in a return, certificate, statement or
+answer filed or made as required by or under this Act or a regulation,  (b)  to evade payment of a tax imposed by this Act, destroyed,
+altered, mutilated, secreted or otherwise disposed of the records or books of
+account of a taxpayer,  (c)  made, or assented to or acquiesced in the making of, false
+or deceptive entries, or omitted, or assented to or acquiesced in the omission,
+to enter a material particular, in records or books of account of a taxpayer,  (d)  wilfully, in any manner, evaded or attempted to evade
+compliance with this Act or payment of taxes imposed by this Act, or  (e)  conspired with any person to commit an offence described in
+paragraphs (a) to (d),  is guilty of an offence and, in addition to any penalty otherwise
+provided, is liable on summary conviction to  (f)  a fine of not less than 50%, and not more than 200%, of the
+amount of the tax that was sought to be evaded, or  (g)  both the fine described in paragraph (f) and
+imprisonment for a term not exceeding 2 years.  (2)  Every person who is charged with an offence
+described in subsection (1) may, at the election of the Attorney General of
+Canada, be prosecuted on indictment and, if convicted, is, in addition to any
+penalty otherwise provided, liable to  (a)  a fine of not less than 100% and not more than 200%, of the
+amount of the tax that was sought to be evaded; and  (b)  imprisonment for a term not exceeding 5 years.  Canadian
+Charter of Rights and Freedoms  7.  Everyone has the right to life, liberty
+and security of the person and the right not to be deprived thereof except in
+accordance with the principles of fundamental justice.  8.  Everyone has the right to be secure
+against unreasonable search or seizure.  24. (1)  Anyone whose rights or freedoms, as
+guaranteed by this Charter , have been infringed or denied may apply to a court
+of competent jurisdiction to obtain such remedy as the court considers
+appropriate and just in the circumstances.  (2) Where, in proceedings under subsection (1), a
+court concludes that evidence was obtained in a manner that infringed or denied
+any rights or freedoms guaranteed by this Charter , the evidence shall be
+excluded if it is established that, having regard to all the circumstances, the
+admission of it in the proceedings would bring the administration of justice
+into disrepute.  IV.  Judicial
+History  A.  Provincial
+Court of British Columbia — July 21, 1997  22                              
+Graham Prov. Ct. J. denied the appellant’s motion for a stay of
+proceedings, or, in the alternative, for an order under s. 24(2)  of the Charter 
+that evidence obtained from the appellant by auditors of Revenue Canada be
+excluded because the appellant’s Charter  rights had been breached.  23                              
+The trial judge found that the audit was continued throughout Pacheco’s
+involvement with the file and that he had not reached any conclusion that the
+appellant had evaded taxes before he was told by his supervisor to refer the
+file to Special Investigations after the December 18 meeting.  The appellant
+was found guilty of each count of tax evasion.  B.  Supreme
+Court of British Columbia, [1999] 3 C.T.C. 386 24                              
+The appellant sought an order under s. 24(2)  that all evidence obtained
+directly or indirectly through an audit conducted under the Income Tax Act 
+was inadmissible in a criminal proceeding.  25                              
+The summary conviction appeal judge found that there was no direct
+adversarial relationship between the taxpayer and the state prior to December
+18, 1995 and that the information requested by Revenue Canada up to that date
+was pre-existing business documents to which little Charter  protection
+applied.  He pointed out that, if information gathered in an audit could not be
+used in a later prosecution,  the tax evasion provisions would be ineffective
+to the point that even a search warrant might not be obtained.  26                              
+On the issue of whether the actions of Revenue Canada were part of an
+audit or an investigation, Millward J. noted that the parties were in
+agreement, supported by case law, that the appropriate test to apply was
+whether the predominant purpose of Revenue Canada’s actions was to further an
+audit or an investigation but he found the test to be artificial and
+inappropriate in these circumstances.  27                              
+Millward J. disagreed with the trial judge’s finding that an investigation
+had not commenced even after the December 18 meeting because Thatcher thought
+it was premature to refer the file to Special Investigations until the audit
+was completed. Instead, Millward J. found that the predominant purpose of the
+auditor’s actions after the December 18 meeting was to gather information to be
+used in their criminal investigation.  He allowed the appeal, set aside the
+convictions and ordered a new trial on all counts and in particular to consider
+the evidence obtained after the December 18 meeting in light of s. 24(2)  of the
+Charter .  C.  Court
+of Appeal for British Columbia (2000), 149 C.C.C. (3d) 127  28                              
+Rowles J.A., for the court, dismissed the appellant Ling’s appeal that
+Millward J. had erred in failing to make an order excluding all evidence
+obtained pursuant to the Income Tax Act  requirement power for use in
+criminal proceedings against the appellant.  V.  Issue  29                              
+This appeal raises a single issue:  Can the appellant claim use immunity for the compelled statements and
+derivative use immunity for the “product” of his compelled testimony?  VI.  Analysis  A.  Application
+of Jarvis Principles  30                              
+The answer to the above question hinges on whether Revenue Canada was
+conducting an investigation into the commission of an offence under the Act
+when it gathered evidence from the appellant pursuant to the requirement
+power.  At what point did the adversarial relationship crystallize?  As stated
+in Jarvis, an audit and an investigation are not mutually exclusive. 
+Revenue Canada may conduct both concurrently.  Revenue Canada must be careful,
+however, not to use the requirement power of the audit to gather further evidence
+for an investigation after it has commenced.  If it does so it violates the Charter 
+rights of the investigated taxpayer.  31                              
+Applying the factors set out in Jarvis to determine the
+commencement of an investigation, we come to the following conclusions based on
+the trial record:  (a)  The
+authorities did not have reasonable grounds to lay charges before December 18,
+1995.  (b)  It did
+not appear prior to the December 18 meeting that a decision to proceed with a
+criminal investigation could have been made.  (c)  The
+general conduct of the tax authorities was not such that it had decided the
+taxpayer was under investigation for s. 239 offences.  (d)  The
+auditors had not transferred their files and materials to the investigators
+until January 18, 1996.  (e)  The
+decision to proceed with a criminal investigation had only been made after
+December 18, 1995.  (f)  The
+conduct of the auditors was not such that they were effectively acting as
+agents for the investigators.  (g)  It does
+not appear that the investigators intended to use the auditors as their agent
+in the collection of evidence. B.  Conclusion  32                              
+We conclude, as did Millward J., that the audit was conducted properly
+as an audit and not as an investigation up to and including the December 18
+meeting.  However, after that meeting the officials began to investigate the
+appellant’s penal liability.  The information gathered pursuant to the
+requirement power on December 29, 1995 was gathered as part of an investigation
+and in violation of the appellant’s ss. 7  and 8  Charter  rights.  All
+evidence gathered prior to and during the meeting of December 18 was properly
+obtained as part of the audit process and could be shared with the Special
+Investigations Section.  All evidence gathered subsequent to that meeting from
+the appellant prior to warning him that he was the subject of an investigation
+for the purpose of furthering the investigation or prosecution for s. 239(1) 
+offences violates the appellant’s Charter  rights and will have to be
+considered in light of s. 24(2)  in the new trial as ordered by Millward J. and
+confirmed by the Court of Appeal.  VII.  Disposition  33                              
+The appeal is dismissed and the order for a new trial is confirmed.  Appeal dismissed.  Solicitors for the appellant:  Thorsteinssons, Vancouver.  Solicitor for the respondent:  The Department of Justice,
+Vancouver.  Solicitor for the intervener the Attorney General for
+Ontario:  The Ministry of the Attorney General, Toronto.   Solicitor for the intervener the Criminal Lawyers’ Association
+(Ontario):   Scott K. Fenton, Toronto.    

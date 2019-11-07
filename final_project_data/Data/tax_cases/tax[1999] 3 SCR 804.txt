@@ -1,0 +1,1089 @@
+65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804  65302 British Columbia Limited                                                       Appellant  v.  Her Majesty The Queen                                                                   Respondent  Indexed as:  65302 British Columbia Ltd. v. Canada  File No.:  26352.  1999:  April 20; 1999:  November 25.   on appeal from the federal court of appeal  Income tax – Deductions – Levies – Egg producer
+exceeding its quota from 1984 to 1988 and including profit from over-quota
+production in declaration of income – Over-quota levy paid by egg producer in
+1988 – Whether over-quota levy deductible as business expense – Whether
+over-quota levy can be characterized as capital outlay – Proper approach to
+deduction of fines, penalties or statutory levies from income – Income Tax Act,
+R.S.C., 1985, c. 1 (5th Supp .), s. 18(1) (a), (b).  The appellant carried on a poultry farm business in
+British Columbia.  It was a registered egg producer and, due to local market
+conditions, it decided to produce over-quota from 1984 to 1988.  In 1988, an
+inspector from the B.C. Egg Marketing Board discovered the over-quota layers on
+the appellant’s farm and the appellant paid an over-quota levy of approximately
+$270,000.  When filing its returns under the Income Tax Act , the
+appellant included the profit from its over-quota production in its income.  In
+1988, the appellant deducted the over-quota levy as a business expense pursuant
+to ss. 9(1) and 18(1)(a) of the Act, which resulted in a
+non-capital loss that was carried back to its 1985 taxation year. In its 1989
+taxation year, the appellant deducted the interest paid on the unpaid balance
+of the levy and legal expenses incurred for representation in respect of the
+over-quota levy.  Upon reassessment of its 1985, 1988, and 1989 tax returns,
+the Minister of National Revenue disallowed the deductions of the over-quota
+levy, loss carry back, interest and legal expenses.  In the Tax Court of
+Canada, the parties agreed that the deductibility of the loss carry back,
+interest, and legal expenses depended upon the deductibility of the over-quota
+levy. The Tax Court held that the over-quota levy was deductible as a business
+expense and that this deduction was not prohibited by s. 18(1)(b) of
+the Act.  The Federal Court of Appeal set aside the Tax Court’s decision.  The
+central question in this appeal is whether the over-quota levy may be deducted
+as a business expense from a taxpayer’s business income.  Held:  The appeal
+should be allowed.  Per Gonthier,
+McLachlin, Iacobucci, Major and Binnie JJ.:  The over-quota levy is an
+allowable deduction pursuant to ss. 9(1) and 18(1)(a).  The levy was
+incurred as part of the appellant’s day-to-day operations, and the decision to
+produce over-quota was a business decision made in order to realize income. 
+The characterization of the levy as a “fine or penalty” is of no consequence
+because the income tax system does not distinguish among levies, fines and
+penalties.  If the expense is incurred for the purpose of gaining
+or producing business income, it is deductible. There is nothing in the
+language of s. 18(1)(a) to suggest that a penalty or fine should be
+“unavoidable” in order to be deductible.  Nor should the deduction of fines and
+penalties incurred for the purpose of gaining or producing income from a
+business be disallowed for reasons of public policy. For courts to intervene in
+the name of public policy would only introduce uncertainty, as it would be
+unclear what public policy was to be followed, whether a particular fine or
+penalty was to be characterized as deterrent or compensatory in nature, and
+whether the body imposing the fine intended it to be deductible.  Moreover,
+allowing the deduction of fines is consistent with the tax policy goals of
+neutrality and equity.  Although it may be said that the deduction of such
+fines and penalties “dilutes” the impact of the sanction, this effect  does not
+introduce a sufficient degree of disharmony so as to lead this Court to
+disregard the ordinary meaning of s. 18(1)(a) when that ordinary
+meaning is harmonious with the scheme and object of the Act.  While fully alive
+to the need in general to harmonize the interpretation of different statutes,
+the question here arises in the specific context of a tax collection system
+based on self-assessment.  In this connection, it is up to Parliament to decide
+which expenses incurred for the purpose of earning business income should not
+be deductible, as it has so decided on other occasions.  In the absence of
+Parliamentary direction in the Income Tax Act  itself, outlays and
+expenses are deductible if made for the purpose of gaining or producing
+income.  However, while such a situation would likely be rare, it is
+conceivable that a breach could be so egregious or repulsive that the fine or
+penalty subsequently imposed could not be justified as being incurred for the
+purpose of producing income.  The appellant’s expenditures for the over-quota levy
+are best characterized as a current expense, the deduction of which is
+permitted by ss. 9(1)  and 18(1) (a) of the Income Tax Act ,
+rather than an outlay of capital prohibited by s. 18(1)(b) of the
+Act. Per L’Heureux-Dubé and
+Bastarache JJ.:  The over-quota levy incurred by the appellant can be deducted
+as a business expense for the purposes of the Income Tax Act  as it was a
+compensatory levy charged primarily to defray the costs of over-production and
+incurred for the purposes of gaining or producing income.  However, penal fines
+are not expenditures incurred for the purpose of gaining or producing income in
+the legal sense.  In order to be consistent with a realistic understanding of
+the accretion of wealth concept and the court’s duty to uphold the integrity of
+the legal system in interpreting the Act, the distinction between deductible
+and non-deductible levies and penalties must be determined on a case-by-case
+basis.  Absent an express  indication to the contrary, the presumption that
+Parliament would not intend to encourage the violation of other laws must be
+considered.  The main factor in determining whether a payment is deductible is
+whether the primary purpose of the statutory provision under which the payment
+is demanded would be frustrated or undermined.  Statutory provisions imposing
+payments either as punishment for past wrongdoing or as a general or specific
+deterrence against future lawbreaking would be undermined if the fine could
+then be deducted as a business expense.  This kind of deduction should be
+disallowed, not for reasons of public policy, but because deductions not
+specifically authorized by the Income Tax Act ,  would frustrate the
+expressed intentions of Parliament in other statutes.  In contrast, if the
+legislative purpose behind a provision is primarily compensatory, its operation
+would not be undermined by the deduction of the expense.  Where the purpose is
+mixed and the charging provisions have both a penal and a compensatory aim, a
+court should look for the primary purpose of the payment.  In approaching this
+task, the court should consider, in particular, the nature of the mischief that
+the provision was designed to address.  Cases Cited  By Iacobucci J.  Disapproved:  Amway
+of Canada Ltd. v. M.N.R. (1996), 193 N.R. 381;
+distinguished:  Imperial Oil Ltd. v. Minister of National Revenue,
+[1947] Ex. C.R. 527; Commissioners of Inland Revenue v. Alexander von Glehn
+& Co., [1920] 2 K.B. 553; Robinson v. Commissioner of Inland Revenue,
+[1965] N.Z.L.R. 246; Herald and Weekly Times v. Federal Commissioner of
+Taxation (1932), 2 A.T.D. 169; Mayne Nickless Ltd v. Federal
+Commissioner of Taxation (1984), 71 F.L.R. 168; Beresford v. Royal
+Insurance Co., [1938] 2 All E.R. 602; considered:  TNT Canada
+Inc. v. The Queen, [1988] 2 C.T.C. 91; Day & Ross Ltd. v. The Queen,
+[1977] 1 F.C. 780; Tank Truck Rentals, Inc. v. Commissioner of Internal
+Revenue, 356 U.S. 30 (1958); Commissioner of Internal Revenue v.
+Sullivan, 356 U.S. 27 (1958); referred to:  Reference re
+Agricultural Products Marketing Act, [1978] 2 S.C.R. 1198; Royal Trust
+Co. v. M.N.R., 57 D.T.C. 1055; Symes v. Canada, [1993] 4 S.C.R. 695;
+Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1 S.C.R. 27; Stubart
+Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536; Canada v. Antosko,
+[1994] 2 S.C.R. 312; M.N.R. v. Eldridge, [1964] C.T.C. 545; Espie
+Printing Co. v. Minister of National Revenue, [1960] Ex. C.R. 422; Royal
+Bank of Canada v. Sparrow Electric Corp., [1997] 1 S.C.R. 411; Canderel
+Ltd. v. Canada, [1998] 1 S.C.R. 147.  By Bastarache J.  Referred to: Symes
+v. Canada, [1993] 4 S.C.R. 695; Rizzo &
+Rizzo Shoes Ltd. (Re), [1998] 1 S.C.R. 27; Alberta (Treasury Branches)
+v. M.N.R., [1996] 1 S.C.R. 963; Friesen v. Canada, [1995] 3 S.C.R.
+103; Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536; Tank
+Truck Rentals, Inc. v. Commissioner of Internal Revenue, 356 U.S. 30
+(1958); McKnight (Inspector of Taxes) v. Sheppard, [1999] 3 All E.R.
+491; Hall v. Hebert, [1993] 2 S.C.R. 159.  Statutes and Regulations Cited  British
+Columbia Egg Marketing Board Standing Order (Rev.
+January 1989), ss. 6, 17(g).  British
+Columbia Egg Marketing Scheme, 1967, B.C. Reg.
+173/67, s. 37(v).  Income Tax Act, R.S.C., 1985, c. 1 (5th Supp .), ss. 9(1) , 18(1) (a),
+(b), (l.1), (m), (t) [ad. 1990, c. 39, s. 8], 67,
+67.5 [ad. 1994, c. 7, Sch. II, s. 46(1)], 111.  Income War Tax Act, R.S.C. 1927, c. 97, 6(a).  Internal Revenue Code § 162(f) [ad. P.L. 97-172, § 902(a)].  Natural Products Marketing (BC)
+Act, R.S.B.C. 1979, c. 296, ss. 12(1),
+13(1)(k), 20(1).   Authors Cited   Brooks, Neil. “The Principles
+Underlying the Deduction of Business Expenses”. In Brian G. Hansen, Vern
+Krishna and James A. Rendall, contributing eds., Canadian Taxation.
+Toronto:  Richard De Boo, 1981, 189.  Côté, Pierre-André. Interprétation
+des lois, 3e éd. Montréal: Thémis, 1999.  Driedger, Elmer. Construction
+of Statutes, 2nd ed. Toronto:  Butterworths, 1983.  Driedger on the Construction of
+Statutes, 3rd ed. By Ruth Sullivan. Toronto: 
+Butterworths, 1994.  Hogg, Peter W., and Joanne E.
+Magee. Principles of Canadian Income Tax Law, 2nd ed. Scarborough,
+Ont.:  Carswell, 1997.  Krasa, Eva M. “The Deductibility
+of Fines, Penalties, Damages, and Contract Termination Payments” (1990), 38 Can.
+Tax J. 1399.  Krever, Richard. “The
+Deductibility of Fines:  Considerations From Law and Policy Perspectives”
+(1984), 13 Austl. Tax Rev. 168.  Krishna, Vern. “Public Policy
+Limitations on the Deductibility of Fines and Penalties:  Judicial Inertia”
+(1978), 16 Osgoode Hall L.J. 19.   APPEAL from a judgment of the Federal Court of Appeal
+(1997), 221 N.R. 175, 98 D.T.C. 6002, [1998] 1 C.T.C. 131, [1997] F.C.J. No.
+1544 (QL), allowing an appeal from a judgment of the Tax Court of Canada,
+[1995] 2 C.T.C. 2294, [1995] T.C.J. No. 81 (QL), allowing an appeal from
+notices of reassessment. Appeal allowed.  S. Kim Hansen, for the
+appellant.  Gordon Bourgard and Brent
+Paris, for the respondent.  The reasons of L’Heureux-Dubé and Bastarache JJ. were
+delivered by  Bastarache J. --  I.  Introduction  1                                  
+This appeal raises the narrow question of whether a levy imposed
+pursuant to a provincial egg marketing scheme can be deducted as a business
+expense for the purposes of the Income Tax Act, R.S.C., 1985, c. 1 (5th
+Supp .) (the “Act ”).  The broader question posed by my colleague Justice
+Iacobucci is whether fines or other types of payments may be deductible from a
+taxpayer’s income.  While I agree with his answer to the narrow
+question, as well as with his characterization of the payment as a current
+expense rather than a capital outlay, and adopt his statement of the facts and
+judgments of the lower courts, I respectfully cannot agree that all types of
+fines and penalties are deductible as a matter of course.  II.  Analysis  1.  The
+Concept of Profit and the Scheme of the Income Tax Act  2                                  
+The Act sets out the mechanism for deducting expenses for the purpose of
+determining taxable income in broad language.  Section 9 provides that “a
+taxpayer’s income for a taxation year from a business or property is the
+taxpayer’s profit from that business or property for the year”.   The Act
+provides no definition of the term “profit”.  In Symes v. Canada, [1993]
+4 S.C.R. 695, this Court examined the calculation of profit in detail and
+determined that the correct approach is to begin by asking whether a particular
+expense would be deductible according to well accepted principles of business
+practice.  However, even if the deduction is otherwise consistent with the
+principles of commercial trading, it may still be disallowed through the
+express limitations in s. 18(1) .  In particular, s. 18(1) (a) prohibits
+deductions in respect of:  . . . an outlay or expense except to the extent that it was
+made or incurred by the taxpayer for the purpose of gaining or producing income
+from the business or property; . . . .  3                                  
+Symes, supra, explains that the calculation of
+profit is a question of law that does not necessarily coincide with generally
+accepted accounting principles.  As Iacobucci J. instructs, at p. 724, “the s.
+9(1)  test is a legal test rather than an accountancy test” (emphasis
+added).  While the definition of profit for balance sheet purposes and for
+income tax purposes may coincide, they are not necessarily identical.  4                                  
+Accordingly, the question of statutory interpretation raised in the
+present case is whether levies, fines and other payments should, in the
+legal sense, be considered to be “made or incurred by the taxpayer for the
+purpose of gaining income from the business”.  2.  Legislative Intention and Statutory Interpretation 5                                  
+It is well established that the correct approach to statutory
+interpretation is the modern contextual approach, set out by E. A. Driedger in Construction
+of Statutes (2nd ed. 1983), at p. 87:  . . . the words of an Act  are to be read in their entire
+context and in their grammatical and ordinary sense harmoniously with the
+scheme of the Act , the object of the Act , and the intention of Parliament.  The modern
+rule is again described in Driedger on the Construction of Statutes (3rd
+ed. 1994), by R. Sullivan, at p. 131:  There is only one rule in modern interpretation, namely, courts are
+obliged to determine the meaning of legislation in its total context, having
+regard to the purpose of the legislation, the consequences of proposed
+interpretations, the presumptions and special rules of interpretation, as well
+as admissible external aids.  In other words, the courts must consider and take
+into account all relevant and admissible indicators of legislative meaning.  See also P.-A.
+Côté, Interprétation des lois (3rd ed. 1999), at pp. 364-73.  Recent
+decisions have applied the modern approach in both tax and non-tax cases:  Rizzo
+& Rizzo Shoes Ltd. (Re), [1998] 1 S.C.R. 27, at para. 21; Alberta
+(Treasury Branches) v. M.N.R., [1996] 1 S.C.R. 963, at paras. 14-15; Friesen
+v. Canada, [1995] 3 S.C.R. 103, at para. 10; Symes, supra, at
+p. 744; Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, at
+p. 578.  6                                  
+When considering the operation of ss. 9 and 18 in their entire context,
+I am persuaded that it was not the intention of Parliament to allow all fines
+to be deductible.  I principally reach this conclusion for the simple reason
+that to so allow would operate to frustrate the legislative purpose of other
+statutes.  7                                  
+The statute book as a whole forms part of the legal context in which an
+act of Parliament is passed.  As Driedger notes in the second edition, at p.
+159, “one statute may influence the meaning of the other, so as to produce
+harmony within the body of the law as a whole”; see also Côté, supra, at
+pp. 433-40.  Sullivan in Driedger on the Construction of Statutes is
+even more explicit in this regard, at p. 288:  The meaning of words in legislation depends not only on their immediate
+context but also on a larger context which includes the Act  as a whole and the
+statute book as a whole.  The presumptions of coherence and consistency apply
+not only to Acts dealing with the same subject but also, albeit with lesser
+force, to the entire body of statute law produced by a legislature.  The
+legislature is presumed to know its own statute book and to draft each new
+provision with regard to the structures, conventions, and habits of expression
+as well as the substantive law embodied in existing legislation.  . . . It is presumed that the legislature
+does not intend to contradict itself or to create inconsistent schemes. 
+Therefore, other things being equal, interpretations that minimize the
+possibility of conflict or incoherence among different enactments are preferred. 
+[Footnotes omitted.]   She explains,
+at footnote 14, that the Act  as a whole combined with the statute book as a
+whole “constitutes the complete text of a legislative provision”.  Similarly,
+Côté, supra, explains, at p. 433, that:  [translation] 
+Different enactments of the same legislature are
+supposedly as consistent as the provisions of a single enactment.  All
+legislation of one Parliament is deemed to make up a coherent system.  Thus
+interpretations favouring harmony between statutes should prevail over
+discordant ones, because the former are presumed to better represent the
+thought of the legislator.  8                                  
+To allow all fines to be deductible as a matter of course would therefore be inconsistent with the modern contextual approach
+to statutory interpretation, which requires that weight be given to the total
+context of the Act , including its relationship to other statutes.  As N. Brooks
+argues in “The Principles Underlying the Deduction of Business Expenses”, in B.
+G. Hansen, V. Krishna and J. A. Rendall, eds., Canadian Taxation (1981),
+189, at pp. 242-43:  If the legislative bodies and the courts are perceived
+as engaged in a co-operative venture of law-making, then the courts must assume
+the task of ensuring, as much as possible, that the matrix of statutory
+instruments do not operate at cross-purposes.  9                                  
+This is similar to the approach adopted by the United States Supreme
+Court in Tank Truck Rentals, Inc. v. Commissioner of Internal Revenue,
+356 U.S. 30 (1958).  At issue there was whether fines imposed for violations of
+state maximum weight laws were deductible.  The court unanimously held they
+were not, explaining, at p. 35:  We will not presume that the Congress, in allowing deductions for
+income tax purposes, intended to encourage a business enterprise to violate the
+declared policy of a State.  To allow the deduction sought here would but
+encourage continued violations of state law by increasing the odds in favor of
+noncompliance.  This could only tend to destroy the effectiveness of the
+State’s maximum weight laws.  The court
+recognized, however, that this presumption against congressional intention to
+encourage violations of other laws had to be balanced against the intention to
+tax only the profits of a business.  10                              
+I observe the same complexity in the Canadian context. Nevertheless,  it
+would clearly frustrate the purposes of the penalizing statute if an offender
+was allowed to deduct fines imposed for violations of the Criminal Code,
+R.S.C., 1985, c. C-46 , or related statutes as business expenses.  The deduction
+of a fine imposed for a Criminal Code  violation would suggest that the
+decision to commit a criminal offence may be a legitimate business decision. 
+Moreover, such a deduction would have the unsavoury effect of reducing the
+penal and deterrent effect of the penalizing statute.  11                              
+The Act has since been amended to prohibit the deduction of illegal
+bribery expenses (s. 67.5 (added by S.C. 1994, c. 7, Sch. II, s. 46(1)) and
+fines imposed pursuant to the Act  itself (s. 18(1) (t) (added by S.C.
+1990, c. 39, s. 8)). It is argued that this indicates that Parliament did  not
+intend to prohibit the deduction of other fines and penalties.  In my view,
+this observation does not address the general consistency issue or require 
+that the principles sustaining the coherence of our statutory framework be set
+aside when deciding whether an expense is incurred for the purpose of producing
+income under s. 18(1) (a).  Côté, supra, explains the frailties of
+the type of a contrario argument proposed by the appellant, at p. 426:  [translation] 
+A contrario, especially in the form expressio unius est exclusio
+alterius, is widely used.  But of all the interpretative arguments, it is
+among those which must be used with the utmost caution.  The courts have often
+declared it an unreliable tool, and, as we shall see, it is frequently
+rejected.  He concludes,
+at p. 429:  [translation] 
+Since it is only a guide to the legislature’s intent, a contrario
+reasoning should certainly be set aside if other indications reveal that its
+consequences go against the statute’s purpose, are manifestly absurd, or lead
+to incoherence and injustice that could not have been the desire of
+Parliament.  [Footnotes omitted.]  12                              
+In this case, it is possible to interpret the Act  in a manner that is
+consistent with the object of other legislative enactments.  To adopt the
+position that fines are always or generally deductible, without reference to
+the Act  under which the fine was imposed, ignores the obligation to consider
+the intention of Parliament and to determine whether the deduction would defeat
+or impair the effectiveness of other legislative enactments.  Absent express
+provision to the contrary, the presumption that Parliament would not intend to
+encourage the violation of other laws must be considered.  13                              
+In my view, it is important not to overlook the importance of the
+characterization of the expenditure. When considering other types of payments,
+such as fees levied under regulatory regimes with compensatory aims, it might
+be wholly consistent with the scheme to allow the charges to be deductible. 
+Such charges, like user fees generally, are costs of engaging in a particular
+type of business and are levied to compensate for different types of regulated
+activities or to claw back profits earned in violation of the regulations. 
+Allowing such charges to be deducted does not undermine their function, as the
+money still goes to the compensatory scheme.  Thus, it would not undermine the
+charging statute for these levies to be deducted from a taxpayer’s income.  14                              
+The nature of the expenditure and the specific policy of the rule under
+which it became payable have also been recognized as the fundamental criteria
+for determining non-deductibility in a unanimous decision of the House of Lords
+in the very recent case of McKnight (Inspector of Taxes) v. Sheppard,
+[1999] 3 All E.R. 491, at p. 496.  In that case, Lord Hoffmann reviewed prior
+case law in which expenditures resulting from a taxpayer’s own misconduct had
+been disallowed because it constituted “behaviour outside the proper scope of
+his trade” or because they constituted “incidents which followed after the
+profits had been earned” (p. 495).  He agreed with those decisions but found
+the explanations given too uncertain. As noted above, he concluded that the
+divergent answers given by the courts in cases on fines, penalties, damages and
+costs could be explained by looking to the nature of the expenditure and the
+policy of the rule providing for its payment.  These criteria would permit the
+court to “easily conclude that the legislative policy would be diluted if the
+taxpayer were allowed to share the burden with the rest of the community by a
+deduction for the purposes of tax” (p. 496).  15                              
+The distinction between deductible and non-deductible payment must
+therefore be determined on a case-by-case basis.  The main factor in such a
+determination is whether the primary purpose of the statutory provision under
+which the payment is demanded would be frustrated or undermined.  Statutory
+provisions imposing payments either as punishment for past wrongdoing or as
+general or specific deterrence against future law-breaking would be undermined
+if the fine could then be deducted as a business expense.  16                              
+In contrast, if the legislative purpose behind a provision is primarily
+compensatory, its operation would not generally be undermined by the deduction
+of the expense.  Where the purpose is mixed and the charging provisions have
+both a penal and a compensatory aim, a court should look for the primary
+purpose of the payment.  In approaching this task, the court should consider,
+in particular, the nature of the mischief that the provision was designed to
+address.  17                              
+I agree with my colleague, Iacobucci J., that public policy
+determinations are best left to Parliament.  However, I am not suggesting that
+the deduction of penal fines be disallowed for public policy reasons, but
+instead because their deduction, not specifically authorized by the Act , would
+frustrate the expressed intentions of Parliament in other statutes if they were
+held to come under s. 18(1) (a) of the Act .  In my view, penal fines are
+not expenditures  incurred for the purpose of gaining or producing income in
+the legal sense.  This concern is not so much one of public policy, morality or
+legitimacy, but one consistent with a realistic understanding of the accretion
+of wealth concept and the court’s duty to uphold the integrity of the legal
+system in interpreting the Income Tax Act .  As explained by McLachlin J.
+in Hall v. Hebert, [1993] 2 S.C.R. 159, at p. 169, in finding that a
+court could bar recovery in tort on the ground of the plaintiff’s immoral or
+illegal conduct:  The basis of this power, as I see it, lies in duty of the courts to
+preserve the integrity of the legal system, and is exercisable only where this
+concern is in issue.  This concern is in issue where a damage award in a civil
+suit would, in effect, allow a person to profit from illegal or wrongful
+conduct, or would permit an evasion or rebate of a penalty prescribed by the
+criminal law.  The idea common to these instances is that the law refuses
+to give by its right hand what it takes away by its left hand.  [Emphasis
+added.]  3.  Application
+to the Facts  18                              
+The impugned levy in the case at bar was imposed under s. 6 of the British
+Columbia Egg Marketing Board Standing Order (Rev. January 1989), which
+derives its authority from s. 13(1)(k) of the Natural Products Marketing
+(BC) Act, R.S.B.C. 1979, c. 296 (the “Marketing Act”), permitting
+the Lieutenant Governor in Council to vest in a marketing board or commission
+the power to:  . . . fix and collect levies or charges from designated
+persons engaged in the production or marketing of the whole or part of a
+regulated product and for that purpose to classify those persons into groups
+and fix the levies or charges payable by the members of the different groups in
+different amounts, and to use those levies or charges and other money and
+licence fees received by the commission  (i) to carry out the purposes of the scheme;  (ii) to pay the expenses of the marketing board or
+commission;  (iii)       to pay costs and losses incurred in
+marketing a regulated product;  (iv)       to equalize or adjust returns received
+by producers of regulated products during the periods the marketing board or
+commission may determine; and  (v)       to set aside reserves for the purposes
+referred to in this paragraph;  19                              
+In contrast, penalties are authorized by s. 20 of the Marketing Act
+which contemplates both fines and imprisonment as punishment for failing to
+comply with the Act  or subordinate legislation:  (1)       Every person who fails to comply with
+this Act  or the regulations or an order, rule, regulation, determination or
+decision made by the Provincial board or a marketing board or commission or
+made by virtue of a power exercisable under the federal Act , is liable on
+conviction, to a fine of not less than $100 and not more than $500 or to
+imprisonment not exceeding 6 months or to both a fine and imprisonment.  20                              
+The comparison of these two provisions confirms that the over-quota levy
+assessed by the board pursuant to s. 13 of the Marketing Act was
+primarily compensatory and not penal.  I would thus accept the trial judge’s
+determination that this type of levy was akin to a “fee for service” incurred
+for the purpose of producing income:  . . . I do not view the levy imposed by the Board under the
+authority of paragraph 6(e) of the Standing Order, as a penalty.  Indeed, there
+is a specific section in the B.C. Act dealing with penalties (section 20), and
+I do not see that these levies are assessed as a punishment imposed by statute
+as a consequence of the commission of an offence, but rather as an additional
+cost to the producer in the carrying on of his business.  ([1995] 2 C.T.C. 2294, at p. 2304)  The deduction
+of such a levy does not operate to frustrate or undermine the purposes of the Marketing
+Act or of the British Columbia Egg Marketing Board Standing Order
+because such levies are not primarily geared towards punishment or deterrence,
+but instead to the efficient operation of the regulatory scheme.  21                              
+Thus, as the over-quota levy was a compensatory fee charged primarily to
+defray the costs of over-production and incurred for the purpose of gaining or
+producing income, I would allow its deduction for the purposes of the
+computation of profit.  III.  Disposition  22                              
+I would accordingly allow the appeal with costs in this Court and the
+court below.  The judgment of Gonthier, McLachlin, Iacobucci, Major and Binnie JJ.
+was delivered by  Iacobucci J. --  I.  Introduction  23                              
+At issue in the present appeal is whether levies, fines and penalties
+may be deducted as business expenses from a taxpayer’s income.  The resolution
+of this issue involves questions of statutory interpretation and the extent to
+which public policy considerations may enter into this interpretation.  It is
+my opinion that as a general principle, it is Parliament, and not the courts,
+who should decide which expenses incurred for the purpose of earning business
+income should not be deductible.  Parliament has made such decisions on many
+occasions; this is simply not one of them.  As such, levies, fines and
+penalties which are incurred for the purpose of earning income are deductible
+business expenses.  II.  Facts  24                              
+The appellant, 65302 British Columbia Ltd. (formerly Veekens Poultry
+Farms Ltd.), carries on a poultry farm business near Prince George, British
+Columbia. The farm produces both meat production chickens and egg-laying
+chickens that produce eggs for the table market.  At the relevant times, the
+appellant was a registered producer under British Columbia Regulation 173/67,
+otherwise known as the British Columbia Egg Marketing Scheme, 1967 (the
+“Scheme”).  The Scheme was enacted under the Natural Products Marketing (BC)
+Act, R.S.B.C. 1979, c. 296, previously R.S.B.C. 1960, c. 263, and
+established the British Columbia Egg Marketing Board (the “Board”) to
+administer the Scheme.  25                              
+Pursuant to its authority under the Scheme, the Board established a
+quota system whereby egg producers in the province are assigned quotas for egg
+production. The quota determines the number of layer hens that may be kept by
+each producer. Because of local market conditions, the appellant made a
+decision to operate over his allocated quota for the years 1984 to 1988.  The
+appellant was concerned that if it did not produce over quota, it would lose
+its major customer, Overwaitea Foods, which was expanding in the area. 
+Additional quota was not available for purchase in the Prince George area
+during these years, but quota was available in the Lower Mainland. However, the
+price was $50 per bird compared to $30 per bird in the Prince George area.  26                              
+The appellant did not inform the Board of its over-quota production.  In
+1988 an inspector from the Board, acting under a new policy requiring him to
+check all the barns on the appellant’s property, discovered an estimated 6,700
+more layers than permitted under the appellant’s quota.  The Board imposed an
+over-quota levy on the appellant pursuant to its authority under s. 6(e) of the
+British Columbia Egg Marketing Board Standing Order.  After negotiations
+with the Board, the appellant agreed to pay an over-quota levy of $269,629.69
+and to dispose of its excess layers.  In 1989 the appellant purchased
+additional quota.  27                              
+When filing its returns under the Income Tax Act, R.S.C., 1985,
+c. 1 (5th Supp .) (the “Act ”), the appellant included in its income the profit
+from its over-quota production.  In 1988, the appellant deducted the over-quota
+levy as a business expense pursuant to ss. 9(1)  and 18(1) (a) of the
+Act .  This deduction resulted in a non-capital loss of $61,876 that was carried
+back, pursuant to s. 111  of the Act , to its 1985 taxation year.  Subsequently,
+in its 1989 taxation year, the appellant deducted $9,704.50 for interest paid
+on the unpaid balance of the levy and legal expenses of $3,766 incurred for
+representation in respect of the over-quota levy.  28                              
+The appellant was reassessed in respect of its 1985, 1988, and 1989
+taxation years by Notices of Reassessment, dated November 14, 1991, which
+disallowed the deduction of the over-quota levy, loss carry back, interest and
+legal expenses.  The appellant appealed to the Tax Court of Canada, where the
+parties agreed that the deductibility of the loss carry back, interest, and
+legal expenses depended upon the deductibility of the over-quota levy.  The Tax
+Court held that the over-quota levy was deductible as a business expense and
+that this deduction was not prohibited by s. 18(1) (b) of the Act , which
+prevents taxpayers from deducting payments made on account of capital.  The
+Minister of National Revenue (the “Minister”) appealed this decision to the
+Federal Court of Appeal, which allowed the appeal and held that the over-quota
+levy was not deductible.  The appellant now appeals from that decision to this
+Court.  III.  Relevant
+Statutory Provisions  29                              
+Natural Products Marketing (BC) Act, R.S.B.C. 1979, c. 296   12. (1)  The Lieutenant Governor
+in Council may, in accordance with section 2, provide for the establishment of
+a marketing board to administer, under the supervision of the Provincial board,
+regulations for the marketing of a regulated product.  .
+. .  13. (1)  Without limiting the
+generality of other provisions of this Act , the Lieutenant Governor in Council
+may vest in a marketing board or commission any or all of the following powers:  .
+. .  (k)       to fix and collect levies or charges
+from designated persons engaged in the production or marketing of the whole or
+part of a regulated product and for that purpose to classify those persons into
+groups and  fix the levies or charges payable by the members of the different
+groups in different amounts, and to use those levies or charges and other money
+and licence fees received by the commission  (i)      to carry out the purposes of the scheme;  (ii)     to pay the expenses of the marketing board
+or commission;  (iii)    to pay costs and losses incurred in
+marketing a regulated product;  (iv)    to equalize or adjust returns received by
+producers of regulated products during the periods the marketing board or
+commission may determine; and  (v)     to set aside reserves for the purposes
+referred to in this paragraph;                                                                     .
+. .  20. (1)  Every person who fails to
+comply with this Act  or the regulations or an order, rule, determination or
+decision made by the Provincial board or a marketing board or commission or
+made by virtue of a power exercisable under the federal Act , is liable on conviction,
+to a fine of not less than $100 and not more than $500 or to imprisonment not
+exceeding 6 months or to both a fine and imprisonment.  British
+Columbia Egg Marketing Scheme, 1967, B.C. Reg. 173/67  37   The board shall have authority within
+the Province to promote, regulate and control the production, transportation,
+packing, storing and marketing, or any of them, of the regulated product,
+including the prohibition of such production, transportation, packing, storing
+and marketing, or any of them, in whole or in part, and without limiting the
+generality of the foregoing shall have the following authority:                                                                     .
+. .  (v)   to make orders fixing, imposing and
+collecting levies or charges from registered producers engaged in the marketing
+of any category of the regulated product, and for such purposes to classify
+registered producers into groups and to fix the levies or charges payable by
+the members of the different groups in different amounts, and to use such
+levies or charges for the board’s purposes, including the creation of reserves
+and the payment of expenses and losses resulting from the sale or disposal of
+regulated product and the equalization or adjustment among registered producers
+of moneys realized from the sale thereof during such period or periods of time
+as the board may determine.  British
+Columbia Egg Marketing Board Standing Order (Rev. Jan. 1989)  SECTION 6  LEVIES
+AND FEES  (a)   Levy - A levy (the provincial levy)
+is hereby imposed on each Registered Producer of an amount per dozen from time
+to time fixed by the Board, on the number of dozens of eggs marketed by him
+excluding any eggs, if any, marketed by him in interprovincial and export
+trade.  (b)  Levy-Layers - A levy is hereby imposed
+on each Registered Producer of an amount from time to time fixed by the Board
+for each layer which may be kept or maintained by the Registered Producer for a
+period less:  (i) The aggregate amount for that period fixed by
+the Board as the levy payable per dozen in respect of eggs marketed by him in
+intraprovincial trade, and:  (ii) If applicable, the amount for that period
+fixed by the Canadian Egg Marketing Agency as the federal levy payable per
+dozen in respect of eggs marketed by him in interprovincial and export trade.                                                                     .
+. .  (e)   Over-Quota Levy -- A levy is hereby
+imposed in the amount of $0.08 (eight cents) per day in respect of each layer
+kept or maintained by a Registered Producer or Commercial Hatching Egg Producer
+at any time in excess of the number of layers which may be kept or maintained
+by that Registered Producer or Commercial Hatching Egg Producer for the period
+in question.  The levy shall be calculated and payable for the entire period
+for which excess layers are kept or maintained until such date as it is
+established to the Board’s satisfaction that the excess layers have been
+disposed of by the Registered Producer or Commercial Hatching Egg Producer.  Income Tax
+Act, R.S.C., 1985, c. 1 (5th Supp .)  9. (1)  Subject to this Part, a
+taxpayer’s income for a taxation year from a business or property is the
+taxpayer’s profit from that business or property for that year.  .
+. .  18. (1)  In computing the income
+of a taxpayer from a business or property no deduction shall be made in respect
+of  (a) an outlay or expense except to the extent that it was made
+or incurred by the taxpayer for the purpose of gaining or producing income from
+the business or property;  (b) an outlay, loss or replacement of capital, a payment on
+account of capital or an allowance in respect of depreciation, obsolescence or
+depletion except as expressly permitted by this Part;                                                  . . .  67.  In computing income, no
+deduction shall be made in respect of an outlay or expense in respect of which
+any amount is otherwise deductible under this Act , except to the extent that
+the outlay or expense was reasonable in the circumstances.   IV.  Judicial
+History  A.  Tax
+Court of Canada, [1995] 2 C.T.C. 2294  30                              
+Lamarre J.T.C.C. noted that the Natural Products Marketing (BC) Act
+drew a distinction between the Board’s powers to fix and collect levies and
+charges (s. 13) and the power to impose a penalty (s. 20).  Further, when
+dealing with similar legislation in Reference re Agricultural Products
+Marketing Act, [1978] 2 S.C.R. 1198, the Supreme Court of Canada mentioned
+that the purpose of the levies was to fund the boards and to provide for
+surplus removal of over-quota production.  Laskin C.J. said the levies could be
+regarded as a “fee for services”.  In light of these considerations, Lamarre
+J.T.C.C. concluded that the levy imposed by the Board under s. 6(e) of the
+Standing Order was not a penalty.  Such levies are not assessed as a punishment
+imposed by statute as a consequence of the commission of an offence, but are
+instead an additional cost to a producer of carrying on his or her business. 
+In Lamarre J.T.C.C.’s view, both the regular and the over-quota levies can be
+characterized as “fees for services”.  Simply because the levy resulted in a
+loss to the appellant in 1988 is not proof that the Standing Order was
+penalizing in the legal sense.  31                              
+Even if the levy could be described as a penalty, Lamarre J.T.C.C.
+concluded that it could still be deductible as a business expense pursuant to
+s. 18(1) (a) of the Act .  In Imperial Oil Ltd. v. Minister of National
+Revenue, [1947] Ex. C.R. 527, a payment of damages and legal costs by the
+taxpayer company to the owners of a vessel sunk in a collision with one of the
+taxpayer company’s vessels was held to be deductible on the grounds that collisions
+were an “ordinary risk of the marine operations part of the appellant’s
+business and really incidental to it” (p. 539).  Likewise, in TNT Canada
+Inc. v. The Queen, [1988] 2 C.T.C. 91 (F.C.T.D.), and Day & Ross
+Ltd. v. The Queen, [1977] 1 F.C. 780 (T.D.), fines relating to trucking
+regulations were held to be deductible according to a two-part test.  The first
+part of the test asks whether the payment of the fines was an outlay for the
+purpose of producing income, pursuant to s. 18(1) (a).  The second part
+of the test asks whether public policy considerations preclude deductibility.  32                              
+Lamarre J.T.C.C. concluded that the over-quota levy at issue “resulted
+from the day-to-day operation of egg production business and was incurred as a risky
+but necessary expense” (p. 2306).  In her view, over-quota egg production was
+no more  an outrageous violation of public policy than the statutory
+infractions at issue in Day & Ross, supra, and TNT, supra. 
+The fact that the outlay did not result in income but rather caused a loss in
+the year it was assessed did not prevent it from being deductible, as it is the
+purpose of the expenditure that must be assessed: Royal Trust Co. v. M.N.R.,
+57 D.T.C. 1055 (Ex. Ct.).  33                              
+Lamarre J.T.C.C. also dismissed the argument that the over-quota levy
+was in fact an outlay on account of capital, the deduction of which would be
+prohibited by s. 18(1) (b) of the Act . It did not bring into existence an
+advantage of enduring benefit or provide an enduring advantage for the trade. 
+It was a recurrent expense likely to happen occasionally in the egg production
+business.  Nor was the over-quota levy an expenditure to preserve a capital
+asset, i.e., the quota.  There is only a possibility that a registered producer
+might lose its licence if the levy was not paid and in fact only once in the
+past was a producer’s quota suspended by the Board.  34                              
+Lamarre J.T.C.C. allowed the appeal with costs.  B.  Federal
+Court of Appeal, [1998] 1 C.T.C. 131  35                              
+Desjardins J.A., for the court, held that regardless of whether the levy
+is characterized as a penalty or not, it is imposed in order to carry out the
+purpose of the Scheme, which is the orderly production of eggs in British
+Columbia.  Further, Desjardins J.A. noted that the Federal Court of Appeal had
+previously held that business is to be carried on without any infraction of the
+law:  Amway of Canada Ltd. v. M.N.R. (1996), 193 N.R. 381.  In the
+instant case, the appellant could have carried on his business in such a way as
+to avoid the over-quota production it intentionally pursued.  36                              
+Desjardins J.A. also held that there is a strong public policy argument
+precluding the appellant from claiming the levy as a business expense.  She
+stated, at p. 132: It is clearly
+inconsistent with the purpose of such a marketing scheme if producers are able
+to take action similar to that of the respondent and  successfully claim as
+business expenses levies encountered in excess of permissible allotments.   37        
+Desjardins J.A. allowed the appeal with costs, set aside the Tax Court’s
+decision, and dismissed the appellant’s appeal of the Minister’s assessments
+for the taxation years 1985, 1988 and 1989.  V.  Issues  38        
+1.  What is the proper approach to the deduction of fines, penalties and
+statutory levies from income under the Act ?  2.     If statutory levies are deductible under s.
+18(1) (a) of the Act , is the levy here more properly characterized as a
+capital outlay or loss, the deduction of which is prohibited by s. 18(1) (b)
+of the Act ?  VI.  Analysis  A.  Section
+18(1)(a) of the Income Tax Act  (1) The Concept of Profit in Section 18(1)(a)  39                              
+The central question in this appeal is whether an over-quota levy may be
+deducted as a business expense from a taxpayer’s business income.  It has been
+argued that the levy was non-deductible because it was an “avoidable” fine or
+penalty.  For the reasons I give below, the characterization of the levy as a
+“fine or penalty” is of no consequence, because in my view, the income tax
+system does not distinguish among levies, fines and penalties.  If the expense
+is incurred for the purpose of earning business income, it is deductible. 
+Section 9(1)  of the Act  provides that a taxpayer’s business income for the tax
+year is the profit from that business.  It is well established that the concept
+of profit found in s. 9(1)  authorizes the deduction of business expenses, as
+profit is inherently a net concept, and such deductions are allowed under s.
+9(1)  to the extent that they are consistent with “well accepted principles of
+business (or accounting) practice” or “well accepted principles of commercial
+trading”: Symes v. Canada, [1993] 4 S.C.R. 695, at p. 723.  These expenses may nonetheless be prohibited by the
+limiting provisions found in s. 18(1) , although many of these provisions are
+also consistent with well accepted principles of business practice.  The
+present appeal concerns the language of s. 18(1) (a), which provides
+that, in computing taxable business income, no deduction may be made in respect
+of  an outlay or expense except to the extent that it was made or incurred
+by the taxpayer for the purpose of gaining or producing income from the
+business or property.  The majority
+of this Court in Symes, supra, at p. 736, stated:  . . .  no test has been proposed which improves upon or which
+substantially modifies a test derived directly from the language of s. 18(1)(a). 
+The analytical trail leads back to its source, and I simply ask the following:
+did the appellant incur [the impugned] expenses for the purpose of gaining or
+producing income from a business?  To rephrase
+this language in the context of the present appeal, the question to ask is: did
+the appellant incur the over-quota levy for the purpose of gaining or producing
+income from its business?  40                              
+On its face, I would answer this question in the affirmative.  I agree
+with Lamarre J.T.C.C., in the Tax Court, that the levy was incurred as part of
+the appellant’s day-to-day operations.  The decision to produce over-quota was
+a business decision made in order to realize income.  The appellant
+deliberately produced over-quota in order to maintain its major customer, who
+was then expanding in the area, until it could purchase additional quota at
+what it thought was an affordable price.  41                              
+However, the respondent urges this Court to follow Lord Sterndale’s
+distinction between “a loss connected with the business” and “a fine imposed
+upon the company personally”: Commissioners of Inland Revenue v. Alexander
+von Glehn & Co., [1920] 2 K.B. 553 (C.A.).  The argument is that the
+nature of the sanction is such that it is more properly viewed as attaching to
+the business entity itself rather than to the business of the entity. Alexander
+von Glehn has been followed in other common law jurisdictions:  see Robinson
+v. Commissioner of Inland Revenue, [1965] N.Z.L.R. 246 (S.C.); Herald
+and Weekly Times v. Federal Commissioner of Taxation (1932), 2 A.T.D. 169
+(H.C. Austl.); Mayne Nickless Ltd v. Federal Commissioner of Taxation
+(1984), 71 F.L.R. 168 (Vic. Sup. Ct.).  42                              
+I do not find these cases helpful to the present appeal given the
+differences in the applicable taxation statutes.  According to Lord Sterndale
+in Alexander von Glehn, supra, three rules of the Income Tax
+Act, 1842, governed the deductibility of the fine at issue in that case. 
+The third rule that he cited provided (at p. 563):  In estimating the balance of the profits or gains to be charged . . .
+no sum shall be set against or deducted from . . . such profits or gains, for
+any disbursements or expenses whatever, not being money wholly and
+exclusively laid out or expended for the purposes of such trade,
+manufacture, adventure, or concern, or of such profession, employment, or
+vocation. [Emphasis added.]  All three
+members of the Court of Appeal agreed that the penalty at issue was not wholly
+and exclusively laid out or expended for the purposes of trade or, what amounts
+to the same thing, that the penalties were not expenditures necessary to
+earn the profits (at pp. 565-66, 569 and 573).  43                             
+I note that the New Zealand and Australian cases cited by the
+respondent dealt with similarly worded taxation statutes to that at issue in Alexander
+von Glehn. Canada’s Income War Tax Act, R.S.C. 1927, c. 97, s. 6(a),
+also prohibited the deduction of expenses not “wholly, exclusively and
+necessarily laid out or expended for the purpose of earning the income”. 
+However, in 1948 this section was replaced with the precursor to our current s.
+18(1) (a) of the Act , dropping the language of  “wholly, exclusively and
+necessarily laid out or expended”. As this Court affirmed in Symes,
+at p. 732,  the current wording of s. 18(1) (a)
+is sufficient justification for the view that Parliament acted to amend its
+predecessor section in such a way as to broaden the scope for business expense
+deductibility.   In my view,
+following case law interpreting statutes that employed similarly restrictive
+language as our Income War Tax Act would be to ignore the clear
+intention exhibited by Parliament since 1948 to broaden the scope of deductible
+business expenses. Indeed, in Mayne Nickless, supra, the Supreme
+Court of Victoria declined to consider Canadian case law, stating at p. 183
+that it was not of any great assistance given the different legislation
+involved.  44                              
+The respondent also asks this Court to follow the Federal Court of
+Appeal’s decision in Amway, supra.  The central issue in Amway
+was also the deductibility of fines and penalties pursuant to s. 18(1) (a)
+of the Act . Strayer J.A. held, for the court,  that “one legitimate test of
+whether fines should be deductible as a business expense is that of
+avoidability of the offences”  (p. 389).  In support of this proposition,
+Strayer J.A. cited Alexander von Glehn, supra, Imperial Oil,
+supra, Day & Ross, supra, and TNT, supra.  45                              
+I have already mentioned why I do not find Alexander von Glehn, 
+helpful in the context of our current Act . For similar reasons, I would decline
+to follow Imperial Oil.  In that case, Thorson P. held that the damages
+and costs associated with a negligence action against the taxpayer were
+properly deducted as business expenses where “the nature of the operations is
+such that the risk of negligence on the part of the taxpayer’s servants in the
+course of their duties or employment is really incidental to such
+operations” (p. 546 (emphasis added)). However, Imperial Oil concerned
+the application of the Income War Tax Act which, as I have already
+outlined, required that an expense be “wholly, exclusively and necessarily”
+made for the purpose of earning income.  Thorson P.’s statement, at p. 546,
+must therefore be understood in context:  Where income is earned from certain operations, as it was by the
+appellant from its marine operations, all the expenses wholly, exclusively
+and necessarily incidental to such operations must be deducted as the total
+cost thereof in order that the amount of the profits or gains from such
+operations that are to be assessed may be computed.  Such cost includes not
+only all the ordinary operations costs but also all moneys paid in discharge of
+the liabilities normally incurred in the operations.  When the nature of the
+operations is such that the risk of negligence on the part of the taxpayer’s
+servants in the course of their duties or employment is really incidental to
+such operations, as was the fact in the present case, with its consequential
+liability to pay damages and costs, then the amount of such damages and costs
+is properly included as one of the items of the total cost of such operations. 
+It may, therefore, properly be described as a disbursement or expense that
+is wholly, exclusively and necessarily laid out as part of the process of
+earning the income from such operations. [Emphasis added.]  In the absence
+of similar language in the current Act , I find it difficult to endorse the
+requirement that expenses need be incidental, in the sense that they were
+unavoidable, in order to be deductible under s. 18(1) (a).  46                              
+Day & Ross, supra, is a more recent case, but at best
+I find it ambiguous on the issue.  While Dubé J. held (at pp. 794-95) that the
+fines at issue, levied for violations of provincial highway weight restriction
+laws, were in fact “necessary expense[s]” and “inevitable”, it is not clear
+whether these considerations went to establish that the fines fell within the
+wording of s. 12(1)(a) (now s. 18(1) (a)) of the Act  or that the
+fines were not “outrageous transgressions of public policy”.  47                              
+Indeed, in TNT, supra, Cullen J. purports to follow Day
+& Ross and yet appears not to follow the avoidability test. At issue in
+TNT were two types of fines.  The first type was held to fall clearly
+within the ratio of Day & Ross, as they were unavoidable. 
+With respect to the second type of fine, levied because a “foreign carrier
+[was] used in Canada and made more than one stop which conduct is prohibited by
+law” (p. 100), the Minister argued that the fines were avoidable and that the
+taxpayer was deliberately flouting the law. In response, Cullen J. stated, at
+p. 100:  Counsel also made this comment: “it may have been good economics and
+more expeditious but it was against public policy” (emphasis added).  That
+comment buttresses my own view that these actions were taken to earn income and
+therefore were a legitimate expense under paragraph 18(1) (a) of the Act .  The
+taxpayer has certainly met the “purpose test” vis-à-vis this penalty.   48                              
+With respect, I differ from Strayer J.A.’s interpretation of TNT
+in Amway, supra, as I do not read Cullen J.’s statement as a
+finding that the second type of fine was an unavoidable expense.  Rather, I
+interpret his statement to mean that so long as the fines were incurred in
+order to earn income, they fell within the meaning of s. 18(1) (a) of the
+Act . Cullen J. then held that the deduction of the fines should not be
+disallowed on the basis of public policy, since the amount of the second type
+of fine at issue was lumped together with the first type and could not easily
+be separated, and since the underlying offences were small in number (at p.
+101).  49                              
+Even if these cases clearly established a test of avoidability, I would
+decline to endorse it.  As Strayer J.A. indicated in Amway, supra,
+this test would only apply to fines and penalties and not the deductibility of
+other types of expenses (at p. 390).  With respect, I do not see how the
+language of s. 18(1) (a) can support a requirement of avoidability, let
+alone one that only attaches to fines and penalties.  (2) Statutory Interpretation and Public Policy  50                              
+This Court has on many occasions endorsed Driedger’s statement of the
+modern principle of statutory construction:  “the words
+of an Act  are to be read in their entire context and in their grammatical and
+ordinary sense harmoniously with the scheme of the Act , the object of the Act ,
+and the intention of Parliament”.  See Rizzo & Rizzo Shoes Ltd. (Re),
+[1998] 1 S.C.R. 27, at para. 21.  This rule is no different for tax statutes:  Stubart
+Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, at p. 578.  51                              
+However, this Court has also often been cautious in utilizing tools of
+statutory interpretation in order to stray from clear and unambiguous statutory
+language. In Canada v. Antosko, [1994] 2 S.C.R. 312, at pp. 326-27, this
+Court held:  While it is true that the courts must view discrete sections of the Income
+Tax Act  in light of the other provisions of the Act  and of the purpose of
+the legislation, and that they must analyze a given transaction in the context
+of economic and commercial reality, such techniques cannot alter the result
+where the words of the statute are clear and plain and where the legal and
+practical effect of the transaction is undisputed.  In discussing
+this case, P. W. Hogg and J. E. Magee, while correctly acknowledging that the
+context and purpose of a statutory provision must always be considered, comment
+that “[i]t would introduce intolerable uncertainty into the Income Tax Act  if
+clear language in a detailed provision of the Act  were to be qualified by
+unexpressed exceptions derived from a court’s view of the object and purpose of
+the provision”:  Principles of Canadian Income Tax Law (2nd ed. 1997),
+at pp. 475-76.  This is not an endorsement of a literalist approach to
+statutory interpretation, but a recognition that in applying the principles of
+interpretation to the Act , attention must be paid to the fact that the Act  is
+one of the most detailed, complex, and comprehensive statutes in our
+legislative inventory and courts should be reluctant to embrace unexpressed
+notions of policy or principle in the guise of statutory interpretation.  52                             
+The most compelling argument put to this Court in the present
+appeal is that Parliament could not have intended s. 18(1) (a) to permit
+the deduction of fines and penalties as such a result violates public policy. 
+Therefore, even if fines and penalties are allowable expenses within the
+ordinary meaning of s. 18(1) (a), this meaning must be modified in order
+to conform to a broader appreciation of Parliament’s intent, and thereby avoid
+a repugnant disharmony or absurdity.  In Amway, supra, the
+Federal Court of Appeal also took this approach, holding, at p. 390, that even
+if the fine or penalty in question is unavoidable, its deduction should be
+disallowed where “that fine or penalty is imposed by law for the purpose of
+punishing and deterring those who through intention or a lack of reasonable
+care violate the laws”.  Similarly, Professor
+Neil Brooks argues that this consideration is legitimate for courts to invoke
+even in the absence of statutory language to that effect, because of “the broad interpretative principle that in
+discharging their function they [courts] should not construe one statute in
+such a way that the objectives of another statute are frustrated”: “The
+Principles Underlying the Deduction of Business Expenses” in B. G. Hansen, V. Krishna and J. A. Rendall,
+eds., Canadian Taxation (1981), 189, at p. 242.  53                             
+The United States Supreme Court took this position in Tank
+Truck Rentals, Inc. v. Commissioner of Internal Revenue, 356 U.S. 30
+(1958).  At issue was whether fines imposed
+for the operation of trucks in violation of state maximum weight laws were “ordinary and necessary” business expenses under § 23(a)(1)(A) of the Internal Revenue Code of
+1939.  The court held at pp. 33-35 that:  A finding of “necessity”
+cannot be made . . . if allowance of the deduction would frustrate sharply
+defined national or state policies proscribing particular types of conduct,
+evidenced by some governmental declaration thereof. . . .       . . .  It is clear that
+assessment of the fines was punitive action and not a mere toll for use of the
+highways:  the fines occurred only in the exceptional instance when the
+overweight run was detected by the police. Petitioner’s failure to comply with the state laws obviously
+was based on a balancing of the cost of compliance against the chance of
+detection.  Such a course cannot be sanctioned, for judicial deference to state
+action requires, whenever possible, that a State not be thwarted in its
+policy.  We will not presume that the Congress, in allowing deductions for
+income tax purposes, intended to encourage a business enterprise to violate the
+declared policy of a State.  To allow the deduction sought here would but
+encourage continued violations of state law by increasing the odds in favor of
+noncompliance.  This could only tend to destroy the effectiveness of the State’s maximum weight laws.   However, the court recognized that this presumption
+against congressional intent to encourage the violation of declared public
+policy had to be balanced against the congressional intent to tax only net
+income.  The test for non-deductibility therefore turns on “the severity and immediacy of the frustration
+resulting from allowance of the deduction” 
+(p. 35).  I note that in 1969 Congress amended § 162 of the Internal Revenue Code to disallow, inter alia,
+the deduction of “any fine or similar
+penalty paid to a government for the violation of any law”.  54                              
+Invoking public policy concerns raises the question, as put by R.
+Krever, of whose public policy should be furthered by courts in
+disallowing the deduction of fines and penalties (“The Deductibility of Fines:
+Considerations From Law and Policy Perspectives” (1984), 13 Austl. Tax Rev.
+168, at p. 185).  As he notes, “[a] taxpayer may incur a fine in one
+jurisdiction as a result of activities producing assessable income that are undertaken
+on a nation-wide basis and allowed in all other States” (p. 185).  Further,
+Krever points out on the same page:       A more difficult problem arises with fines incurred in foreign
+jurisdictions where the illegal activity was carried out to earn assessable
+income that is taxed in Australia.  Does comity require our courts to give
+effect to the public policy of other jurisdictions?  If so, would this policy
+extend to situations where the fine was levied for actions not considered
+illegal in Australia or considered to be contrary to our public policy?  55                             
+To my mind, this difficulty, is
+highlighted by the United States Supreme Court’s decision in Commissioner of Internal Revenue v. Sullivan, 356
+U.S. 27 (1958), decided at the same time as Tank Truck, supra. 
+The issue in that case was the amount paid for wages and rent in the course of
+operating illegal bookmaking establishments.  Under Illinois law, the payment
+of rent and wages under such circumstances was illegal and so the case would
+appear to be similar in principle to Tank Truck.  However, the court
+allowed the deduction of rent and wages, stating, inter alia, at pp. 28-29:  At times the policy to disallow
+expenses in connection with certain condemned activities is clear. . . .   Any
+inference of disapproval of these expenses as deductions is absent here.  The
+Regulations, indeed, point the other way, for they make the federal excise tax
+on wagers deductible as an ordinary and necessary business expense.  This seems
+to us to be recognition of a gambling enterprise as a business for federal tax
+purposes. The policy that allows as a deduction the tax paid to conduct the business
+seems sufficiently hospitable to allow the normal deductions of the rent and
+wages necessary to operate it.   Therefore, federal policy was held to be
+sufficiently amenable to the deduction despite the possible frustration of
+state policy.  56                             
+In this connection, I note that in calculating income, it is well
+established that the deduction of expenses incurred to earn income generated
+from illegal acts is allowed.  For example, not only is the income of a
+person living from the avails of prostitution liable to tax, but the expenses
+incurred to earn this income are also deductible:  M.N.R. v. Eldridge,
+[1964] C.T.C. 545 (Ex. Ct.).  See also Espie Printing Co. v. Minister of
+National Revenue, [1960] Ex. C.R. 422.  Allowing a taxpayer to deduct
+expenses for a crime would appear to frustrate the Criminal Code,
+R.S.C., 1985, c. C-46 ; however, tax authorities are not concerned with
+the legal nature of an activity.  Thus, in my opinion, the same
+principles should apply to the deduction of fines incurred for the purpose of
+gaining income because prohibiting the deductibility of fines and penalties is
+inconsistent with the practice of allowing the deduction of expenses incurred
+to earn illegal income.  57                             
+This brings us to the crux of the issue.  While fully alive to
+the need in general to harmonize the interpretation of different statutes, the
+question here arises in the specific context of a tax collection system based
+on self-assessment.  Parliament designed the system and it is open to Parliament,
+as part of that design, to choose for itself to resolve any apparent conflicts
+between policies underlying tax provisions and other enactments.  Parliament
+has indicated its intention to perform this role, not only in the design of the
+self-assessment system, which requires individuals without legal training to
+work through a complex series of provisions to calculate net income, for which
+maximum explicit guidance is necessary, but more specifically in its
+identification in the Act  itself of certain outlays which the taxpayer is not
+permitted to deduct, as discussed below.  Having recognized the problem of
+potentially conflicting legislative policies, Parliament has provided the
+solution, which is that in the absence of Parliamentary direction in the Income
+Tax Act  itself, outlays and expenses are deductible if made for the purpose
+of gaining or producing income.  58                             
+The argument is also put to this Court that Parliament did not
+intend to dilute the deterrent effect of a fine or penalty.  If this Court is
+to accept this argument, then it would have to
+determine whether any particular fine or penalty was in fact meant to be
+deterrent in nature.  If a fine was instead meant to be compensatory then there
+is no public policy frustrated by allowing its deduction: see Brooks, supra,
+at pp. 244-45.  Furthermore, this argument requires a court to establish that
+the deduction of the fine or penalty would decrease its intended effect. As
+Professor Vern Krishna has noted, although concluding that certain fines and
+penalties should not be deductible, the dilution argument may be  turned around to ask whether the
+denial of a deduction may have the ultimate effect of increasing a civil or
+criminal penalty, which may or may not have been intended by the legislative
+policy behind the statute violated.  Thus, it is conceivable that
+indiscriminate judicial application of a public policy limitation to all
+situations may cause the legislative policy behind an enactment to be varied in
+an unintended manner.  (“Public Policy Limitations on the Deductibility of Fines and Penalties: 
+Judicial Inertia” (1978), 16 Osgoode
+Hall L.J. 19, at pp. 32-33.)   59                              
+These difficulties outlined above demonstrate that the public policy
+arguments ask courts to make difficult determinations with questionable
+authority. Moreover, they place a high burden on the taxpayer who is to engage
+in this analysis in filling out his or her income tax return and would appear
+to undermine the objective of self-assessment underlying our tax system:  see
+Hogg and Magee, supra, at p. 243.  In addition, it is my opinion that
+the fundamental principles and provisions of the Act  in the final analysis
+dictate that the rule be deductibility.  60                              
+Tax neutrality and equity are key objectives of our tax system.  Tax
+neutrality is violated by tax concessions, since the purpose of such
+concessions is to influence people’s behaviour through the tax system by
+providing incentives for engaging in certain types of behaviour.  For example,
+a deduction for an RRSP or a charitable contribution is a tax concession.  This
+is to be distinguished from deductions allowed for the purpose of gaining an
+accurate picture of a taxpayer’s net income.  One of the underlying
+premises of our tax system is that the state taxes only net, rather than gross,
+income because it is net income that measures a taxpayer’s ability to pay.  As
+has been pointed out, this results in business-related fines being deductible:
+see Hogg and Magee, supra, at p. 243.  Moreover, Hogg and Magee, at p.
+40, “in a system that is generally related to ability to pay, the provisions
+that violate neutrality (tax concessions) tend also to violate equity by
+abandoning the criterion of ability to pay in favour of other policy
+objectives”.  61                              
+Business expenses allowed under s. 18(1) (a) are deductible
+because of the concern to tax only net income, not in order to provide tax
+concessions to businesses. Such deductions are therefore consistent with the
+principles of tax neutrality and equity. The argument to disallow fines and
+penalties is thus an argument that the court should violate these principles in
+the name of public policy.  62                              
+While various policy objectives are pursued through our tax system, and
+do violate the principles of neutrality and equity, it is my view that such
+public policy determinations are better left to Parliament.  Particularly
+apposite is this Court’s statement in Royal Bank of Canada v. Sparrow
+Electric Corp., [1997] 1 S.C.R. 411, at para. 112, that “a legislative
+mandate is apt to be clearer than a rule whose precise bounds will become fixed
+only as a result of expensive and lengthy litigation”.  This statement was
+approved of by the Court  in Canderel Ltd. v. Canada, [1998] 1 S.C.R.
+147, at para. 41, adding that “[t]he law of income tax is sufficiently
+complicated without unhelpful judicial incursions into the realm of lawmaking. 
+As a matter of policy, and out of respect for the proper role of the
+legislature, it is trite to say that the promulgation of new rules of tax law
+must be left to Parliament”.  63                              
+This approach and conclusion are supported by the fact that Parliament
+has expressly disallowed the deduction of certain expenses on what appear to be
+public policy grounds.  For example, s. 67.5 (added by S.C. 1994, c. 7, Sch.
+II, s. 46(1)) prohibits the deduction of any outlay or expense made  for the purpose of doing anything that is an offence under any of
+sections 119  to 121 , 123  to 125 , 393  and 426  of the Criminal Code  or an
+offence under section 465 of that Act  as it relates to an offence described in
+any of those sections.   In the absence
+of s. 67.5, bribes to public officials would be deductible (and taxable in the
+hands of the “bribee”). This is a situation where Parliament, specifically
+chose to prohibit a deduction which would otherwise have been allowed.  In addition, taxpayers are prohibited from deducting payments of
+interest and penalties levied under the Act  itself (s. 18(1) (t) (added
+by S.C. 1990, c. 39, s. 8)), statutory royalties (s. 18(1) (m)), and
+payments required under the Petroleum and Gas Revenue Tax Act  (s. 18(1) (l.1)).  64                              
+These provisions in the Act  also reduce the force of the argument that
+allowing the deduction of fines and penalties permits the taxpayer to profit
+from his or her own wrongdoing.  This line of reasoning is often traced to the
+statement of Lord Atkin in Beresford v. Royal Insurance Co., [1938] 2
+All E.R. 602 (H.L.), at p. 607: “the absolute rule is that the courts will not
+recognise a benefit accruing to a criminal from his crime”.  However, as
+several commentators note, Beresford involved a payment under an
+insurance policy where the insured had committed suicide, at a time when
+suicide was characterized as a heinous crime. See E. M. Krasa, “The
+Deductibility of Fines, Penalties, Damages, and Contract Termination Payments”
+(1990), 38 Can. Tax J. 1399, at p. 1417, and Krishna, supra, at
+pp. 31-32. There is therefore little authority to extend Lord Atkin’s statement
+more generally, especially when one considers the clear authority, as mentioned
+above, to the effect that expenses incurred in the pursuit of illegal
+activities are deductible expenses.  65                              
+Moreover, given that Parliament has expressly turned its mind to
+the deduction of expenses associated with certain activities that are offences
+under the Criminal Code , outlined in s. 67.5  of the Act , I do not find a
+legitimate role for judicial amendment on the general question of deductibility
+of fines and penalties.  Since the Act  is not silent on the issue of restricting
+the deduction of some expenses incurred for the purpose of gaining income, this
+is a strong indication that Parliament did direct its attention to the question
+and that where it wished to limit the deduction of expenses or payments of
+fines and penalties, it did so expressly.  I am also sceptical
+that the deduction of fines and penalties provides the taxpayer with a
+“benefit” or “profit” –  indeed, their purpose is to calculate the taxpayer’s
+profit, which is then taxed.  (3) Conclusion Regarding Section 18(1)(a)  66                              
+I therefore cannot agree with the argument that the deduction of fines
+and penalties should be disallowed as being contrary to public policy.  First
+and foremost, on its face, fines and penalties are capable of falling within
+the broad and clear language of s. 18(1)(a).  For courts to intervene in
+the name of public policy would only introduce uncertainty, as it would be
+unclear what public policy was to be followed, whether a particular fine or
+penalty was to be characterized as deterrent in nature, and whether the body
+imposing the fine intended it to be deductible.  Moreover, allowing the deduction of fines and penalties is
+consistent with the tax policy goals of neutrality and equity.  Although
+it may be said that the deduction of such fines and penalties “dilutes” the
+impact of the sanction, I do not view this effect as introducing a sufficient
+degree of disharmony so as to lead this Court to disregard the ordinary meaning
+of s. 18(1)(a) when that ordinary meaning is harmonious with the scheme
+and object of the Act . When Parliament has chosen to prohibit the deduction of
+otherwise allowable expenses on the grounds of public policy, then it has done
+so explicitly.  67                              
+Although there are many points in my colleague Bastarache J.’s reasons
+with which I agree, there are others on which I would like to comment.  68                              
+My colleague proposes a test in which the distinction between deductible
+and non-deductible levies must be determined on a case-by-case basis.  In my
+view, such an approach would be quite onerous for the taxpayer who would be
+forced to undertake the difficult task of determining the object or purpose of
+the statute under which the payment was demanded whenever he or she filled out
+a tax return.  Indeed, he or she would have to ascertain whether the specific
+purpose of the section was meant to be deterrence, punishment or compensation. 
+Moreover, difficulties and uncertainties would undoubtedly arise where the
+purpose of the statutory provision is mixed.  While a taxpayer must inevitably
+make various determinations in filing a return in order to report all relevant
+income and expenses and estimate the amount of tax payable, the statutory
+interpretation inquiry into the purpose of a statute is one which even courts
+often find particularly challenging.  Consequently, it is inevitable that
+disputes will often require courts to determine whether a particular levy can
+be deducted from his or her income.  Undoubtedly, this would introduce a
+significant element of uncertainty into our self-reporting tax system.  On the
+other hand, Parliament could expressly prohibit the deduction of fines and
+penalties in a way compatible with the objectives of self-assessment and ease
+of administration.  69                             
+Finally, at para. 17, my colleague
+states that penal fines are not, in the legal sense, incurred for the purpose
+of gaining income.  It is true that s. 18(1)(a) expressly authorizes the deduction of expenses
+incurred for the purpose of gaining or producing income from that business. 
+But it is equally true that if the taxpayer cannot establish that the fine was
+in fact incurred for the purpose of gaining or producing income, then the fine
+or penalty cannot be deducted and the analysis stops here.  It is conceivable
+that a breach could be so egregious or repulsive that the fine subsequently
+imposed could not be justified as being incurred for the purpose of producing
+income.  However, such a situation would likely be  rare and requires no
+further consideration in the context of this case, especially given that
+Parliament itself may choose to delineate such fines and penalties, as it has
+with fines imposed by the Income Tax Act .  To repeat, Parliament may
+well be motivated to respond promptly and comprehensively to prohibit clearly
+and directly the deduction of all such fines and penalties, if Parliament so
+chooses.  B.  Section 18(1) (b) of the Income Tax Act  70                              
+The respondent also submits that the over-quota levy was in fact an
+outlay of capital prohibited by s. 18(1) (b) of the Act  because its
+payment allowed the taxpayer to retain its quota.  With respect, I do not find
+much merit to this argument.  Under s. 17(g) of the British Columbia Egg
+Marketing Board Standing Order, the Board has the discretion to cancel or
+suspend a producer’s licence and quota when any provision of a standing
+order has been violated.  Therefore the taxpayer would face the same threat of
+the loss of its quota if it failed to pay the within-quota levy imposed
+for each layer kept by a producer.  At trial the respondent conceded that this
+within-quota levy is deductible as a current expense. Given this, I do not see
+how the characterization of the over-quota levy as a capital outlay can
+rely upon the consequences of not paying the levy.  71                              
+Even without the respondent’s concession regarding the within-quota
+levy, I would not characterize the over-quota levy as a capital outlay.  As
+this Court stated in Canderel, supra, at para. 45:  Rather than
+trying to discern into which pigeonhole a particular income expenditure falls,
+the taxpayer’s focus should be on attempting to portray his or her income in
+the manner which best reflects his or her true financial position for the year,
+that is, which gives an “accurate picture” of profit.   The fine at
+issue in the present appeal is assessed on a per-day basis and is meant to
+remove the profit of over-quota production from the producer.  These
+considerations all point to characterizing the levy as a current expense.  The
+fact that there was a risk that the quota could be revoked upon failure to pay
+the fine is no more relevant to this analysis than the fact that if a factory’s
+electricity bill is not paid, there is a risk that the utility company will
+eventually cut off the power to the factory, thereby putting the existence of
+the business in jeopardy.  To declare the cost of electricity as a capital
+outlay on this basis would not provide an accurate picture of the taxpayer’s
+income for the year.  72        
+For these reasons, the appellant’s expenditures for the over-quota levy
+are best characterized as a current expense, the deduction of which is
+permitted by ss. 9(1)  and 18(1) (a) of the Act .  VII.  Disposition  73        
+The over-quota levy is an allowable deduction pursuant to s. 18(1) (a)
+of the Act .  I would therefore allow the appeal, with costs in this Court and
+the court below, set aside the judgment of the Federal Court of Appeal, and
+restore the order of Lamarre J.T.C.C.  Appeal allowed with costs.  Solicitors for the appellant:  Thorsteinssons Tax Lawyers,
+Vancouver.  Solicitor for the respondent:  The Department of Justice,
+Ottawa.        

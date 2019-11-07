@@ -1,0 +1,1618 @@
+SCC Case Information: 32041   SUPREME COURT OF
+CANADA  Citation:  Lipson v.
+  Canada, 2009 SCC 1, [2009] 1 S.C.R. 3 Date:  20090108 Docket:  32041  Between: Earl Lipson Appellant and Her Majesty the
+Queen Respondent And Between: Jordan B. Lipson Appellant and Her Majesty the
+Queen Respondent  Coram: Binnie, LeBel, Deschamps, Fish, Abella, Charron
+and Rothstein JJ.  Reasons for Judgment: (paras. 1 to 53)  Dissenting Reasons: (paras. 54 to 99)  Dissenting Reasons: (paras. 100 to 124)  LeBel J. (Fish, Abella and
+  Charron JJ. concurring)   Binnie J.
+  (Deschamps J. concurring)   Rothstein J. ______________________________ Lipson v. Canada, 2009 SCC 1, [2009] 1 S.C.R. 3  Earl Lipson                                                                                                                         Appellant  v.  Her Majesty the Queen                                                                                                  Respondent  - and -  Jordan B. Lipson                                                                                                               Appellant  v.  Her Majesty the Queen                                                                                                  Respondent  Indexed as:  Lipson v. Canada  Neutral citation:  2009 SCC 1.  File No.:  32041.  2008:  April 23; 2009:  January 8. Present:  Binnie, LeBel, Deschamps, Fish, Abella, Charron and
+Rothstein JJ.  on appeal from the federal court of appeal                     Taxation — Income tax — Tax avoidance — Series of
+transactions —  Series of transactions beginning with wife borrowing money to
+purchase shares in family corporation and leading to husband deducting interest
+on the couple’s home mortgage loan — Whether general anti-avoidance rule
+applicable to deny tax benefits — Whether series of transactions results in
+abuse and misuse of one or more provisions of Income Tax Act — Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .), s. 245(4) .                     The taxpayer E and his wife entered into an
+agreement of purchase and sale for a family residence.  The wife borrowed
+$562,500 from a bank to finance the purchase of shares in a family
+corporation.  She paid the borrowed money directly to the taxpayer who
+transferred the shares to her.  The taxpayer and his wife obtained a mortgage
+from a bank for $562,500.  That same day, they used the mortgage loan funds to
+repay the share loan in its entirety.  On his 1994, 1995 and 1996 tax returns,
+the taxpayer deducted the interest on the mortgage loan and reported the
+taxable dividends on the shares as income when applicable.  The brother of the
+taxpayer, J, conducted similar transactions.  The Minister of National Revenue
+disallowed the deductions for those taxation years and reassessed the taxpayers
+accordingly.  The Tax Court of Canada dismissed the taxpayers’ appeals, holding
+that the series of transactions constituted a misuse of ss. 20(1) (c),
+20(3) , 73(1)  and 74.1  of the Income Tax Act  and the taxpayers’ appeals
+were dismissed.  The Federal Court of Appeal upheld that decision.                    Held (Binnie, Deschamps and Rothstein JJ.
+dissenting): The appeals should be dismissed.                     Per LeBel, Fish,
+Abella and Charron JJ.:  It has long been a principle of tax law that taxpayers
+may order their affairs so as to minimize the amount of tax payable.  However,
+this principle has never been absolute, and Parliament has enacted the general
+anti-avoidance rule (“GAAR”) to limit the scope of allowable avoidance
+transactions while maintaining certainty for taxpayers.  The GAAR denies a tax
+benefit where three criteria are met:  the benefit arises from a transaction
+(ss. 245(1) and 245(2)); the transaction is an avoidance transaction as defined
+in s. 245(3); and the transaction results in an abuse and misuse within the
+meaning of s. 245(4).  The taxpayer bears the burden of proving that the first
+two of these criteria are not met, while the burden is on the Minister to
+prove, on the balance of probabilities, that the avoidance transaction results
+in abuse and misuse within the meaning of s. 245(4).   Here, all the
+transactions were conceded to result in two tax benefits and to be avoidance
+transactions.  [21-23]                     A two-part inquiry must be followed to determine
+whether a transaction results in a misuse and an abuse for the purposes of s.
+245(4) of the Act.  First, a court must conduct a unified textual, contextual
+and purposive analysis of the provisions giving rise to the tax benefit in
+order to determine their essential object, spirit and purpose.  It is important
+to identify which provision is associated with each tax benefit.  Here, the tax
+benefit of interest deductibility is associated with ss. 20(1) (c) and
+20(3)  and the tax benefit arising out of the use of the attribution rules by
+the taxpayer to reduce his income is linked with ss. 73(1)  and 74.1(1) . 
+Second, a court must determine whether the avoidance transaction frustrates the
+object, spirit or purpose of the relevant provisions.  In assessing a series of
+transactions, the misuse and abuse must be related to the specific transactions
+forming part of the series.  However, the entire series of transactions should
+be considered in order to determine whether the individual transactions within
+the series abuse one or more of the provisions of the Act.  Individual
+transactions must be viewed in the context of the series.  This approach is
+consistent with the wording of the GAAR provisions, in particular with ss.
+245(2) and 245(3)(b), which contemplate the denial of a tax benefit resulting
+from a series of transactions.  Further, the use of the words “directly or
+indirectly” in s. 245(4), indicates that Parliament intended the GAAR to apply
+even where abuse is an indirect result of a transaction and consequently, that
+regard may be had to the series of transactions when determining whether a
+transaction within the series is abusive.  It is preferable to refer to the
+“overall result” of the transactions which more accurately reflects the wording
+of s. 245(4), and the jurisprudence of this Court rather than “overall purpose”
+which may incorrectly imply that the taxpayer’s motivation or the purpose of
+the transaction is determinative. An avoidance purpose is needed to establish a
+violation of the GAAR when s. 245(3) is in issue, but is not determinative in
+the s. 245(4) analysis.  [25-28] [33-34] [36-38]                     The Minister has failed to establish that the
+purpose of ss. 20(1) (c) and 20(3)  have been misused and abused.  The
+series of transactions did not become problematic until the taxpayer and his
+wife turned to ss. 73(1)  and 74.1(1) , in order to obtain the result
+contemplated in the design of the series of transactions which resulted in the
+taxpayer applying his wife’s interest deduction to his own income.  The
+attribution by operation of s. 74.1(1) that allowed the taxpayer to deduct the
+interest in order to reduce the tax payable on the dividend income from the
+shares and other income, which he would not have been able to do were the wife
+dealing with him at arm’s length, qualifies as abusive tax avoidance.  It does
+not matter that s. 74.1(1) was triggered automatically when the taxpayer did
+not elect to opt out of s. 73(1) .  To allow s. 74.1(1) to be used to reduce the
+taxpayer’s income tax from what it would have been without the transfer to his
+wife frustrates the purpose of the attribution rules.  The GAAR was not at
+issue in Singleton, nor was s. 74.1 of the Act, and consequently Singleton
+is distinguishable.  [20] [41-42]                     Here, it is not open to the Court to consider the
+interpretation and application of the specific anti-avoidance rule in s.
+74.5(11) as it was expressly disavowed by all parties throughout the
+proceedings.  The GAAR’s application was the focus of the appeals and was the
+proper basis for the reassessments of the transactions.  These transactions are
+caught by the GAAR.  Courts should avoid extending the GAAR beyond its
+statutory purpose.  But, bearing this purpose in mind, where the language of
+and principles flowing from the GAAR apply to a transaction, the court should
+not refuse to apply it on the ground that a more specific provision — one that
+both the Minister and the taxpayers considered to be inapplicable throughout
+the proceedings — might also apply to the transaction.  [43-47]                     Finally, in determining the tax consequences of
+the GAAR’s application under s. 245(5), courts must be satisfied that an
+avoidance transaction has been found under s. 245(4), that s. 245(5) provides
+for the tax consequences and that they deny the tax benefits that would flow
+from the abusive transactions.  Courts must then determine whether these tax
+consequences are reasonable in the circumstances.  In the present case, the
+disallowance of the interest expense in computing the income or loss attributed
+to the taxpayer and allocation of that interest deduction back to his wife is a
+reasonable outcome.  [51]                     Per Binnie and
+Deschamps JJ. (dissenting):   The GAAR is a weapon that, unless contained by
+the jurisprudence, could have a widespread, serious and unpredictable effect on
+legitimate tax planning.  At the same time, the GAAR must be given a meaningful
+role.  That role is circumscribed by the requirement in s. 245(4) that the
+transactions not only be shown to be “avoidance transactions”, but in addition
+that the Minister demonstrate that the tax benefit results from a misuse/abuse
+of the provisions of the Income Tax Act  relied upon to produce it.  In
+the present case, the Minister has failed to make such a demonstration.   When
+the series of transactions at issue is properly characterized, it is a tax
+avoidance scheme that should not have been found to be abusive under the GAAR. 
+[55] [59] [64]                     Singleton illustrates the proposition that
+there is nothing abusive in principle for a taxpayer to rearrange his or her
+capital (borrowed or non-borrowed) in a tax efficient manner.  The Minister is
+not asking the Court to revisit Singleton.  He does not claim that GAAR
+would have applied in that case. The Minister acknowledges here that it is
+common ground that the interest was deductible.  Thus, applying Singleton,
+the only question is whether the deduction becomes “abusive” when income or
+losses are attributed back to the transferor by the spousal attribution rules
+in ss. 73(1)  and 74.1(1) .  [57-58] [60]                     If the tax plan in Singleton is not
+abusive, the Minister has failed to establish that Singleton with a
+spousal twist is abusive tax avoidance either.  There is nothing in the Act to
+discourage the transfer of property at fair market value between spouses. 
+Indeed, by allowing a spouse to transfer property to the other spouse at the
+transferor’s adjusted cost base, Parliament intended to make such inter-spousal
+transfers attractive.  The Minister has failed to identify a specific policy
+shown to be frustrated by the taxpayer’s plan as required by Canada Trustco
+and Kaulius.  The approbation by the Court of the Minister’s resort to
+vague generalities or “overriding policy” will only increase the element of
+uncertainty in tax planning that Canada Trustco and Kaulius
+sought to avoid.  [59] [67]                     Canada Trustco requires the Minister to
+identify the misuse and abuse of an “object, spirit or purpose” that is
+“anchored in a textual, contextual and purposive interpretation of the specific
+provisions that are relied upon for the tax benefit”.  By ignoring the initial
+sale of shares to the spouse and recharacterizing the interest payment in
+relation thereto as nothing more than interest on a house mortgage, and
+effectively arguing for a stand-alone prohibition on the deductibility of a
+house mortgage interest (despite Singleton), the Minister engages in the
+sort of vague appeal to “overriding policy” that Canada Trustco sought
+to eliminate from the GAAR analysis.  [65]                     In this case, as in Singleton, there was a
+change in the taxpayer’s position with real economic substance.  The share sale
+must be accepted as an essential part of the “series of transactions”.
+Parliament must have contemplated that by giving taxpayers a choice under s.
+73(1)  in the context of an inter-spousal transfer of property, they would
+exercise it in a tax-minimizing manner.  Far from offending the “object, spirit
+or purpose” of the spousal attribution rules, the taxpayer’s tax plan fulfilled
+them, or at a minimum did not abuse them.  It cannot be right that whenever a
+lower income spouse borrows money to purchase shares from a higher income
+spouse there is an abuse of the spousal attribution rules unless the
+transferring spouse opts out of ss. 73(1)  and 74.1(1) , and thereby forfeits a
+tax benefit clearly available under the Act.  While many spouses regard
+themselves as forming an economic unit, the rate at which spousal units implode
+serves as a reminder that the economic union of marriage is neither
+indissoluble nor free of risk.  [87] [91-93] [96]                     The “overall purpose” approach which the Tax Court
+judge adopted, and the Federal Court of Appeal accepted, was an error of law. 
+The principal focus in s. 245(4) is on results not purpose.  While the legal
+relationships actually created by the taxpayer do not control the application
+of the GAAR, they cannot be ignored.   Here,  the application of the GAAR would
+mean paying lip service to the principle that taxpayers are entitled to arrange
+their affairs to minimize the amount of tax payable, without taking seriously
+its role in promoting consistency, predictability and fairness in the tax
+system.  [86] [90] [98]                     Per Rothstein J.
+(dissenting):  There was no abuse of ss. 20(1)(c) and 20(3) of the Act. 
+There is no reason why a taxpayer may not arrange his or her affairs so as to
+finance personal assets out of equity and income earning assets out of debt. 
+With respect to the taxpayer’s use of s. 74.1(1), ss. 245(2) and 245(4) require
+that all other relevant provisions of the Act be read before the Minister may
+have recourse to the GAAR.  This Court held in Canada Trustco that the
+GAAR is a provision of last resort.  If there is a specific anti-avoidance rule
+that precludes the use of an enabling rule to avoid or reduce tax, then the
+GAAR will not apply.  The Minister did have other recourse in this case.  Section
+74.5(11) is a specific anti-avoidance rule that precludes the use of the
+attribution rules where one of the main reasons for the transfer of property
+was to reduce the amount of tax that would be payable on the income derived
+from the property.  Here, one of the main reasons for the transfer of shares to
+the wife was to reduce or eliminate the dividend income on the shares.
+Therefore because s. 74.5(11) applied, s. 245 did not apply, and could not be
+relied upon by the Minister.  The Minister should have resorted to s. 74.5(11)
+in order to reassess the taxpayer in respect of his use of s. 74.1(1).  The
+Minister’s failure to invoke s. 74.5(11) is fatal to his reassessment in
+respect of s. 74.1(1).  The Minister cannot preemptively rely on the GAAR to address
+the alleged abusive use of s. 74.1(1) as if s. 74.5(11) did not exist.  The
+fact that the parties did not rely on s. 74.5(11) — either as the basis for
+reassessment or as the reason why the Minister’s claim should fail — does not
+change the fact that the section applies in law.  If the Minister had
+reassessed the taxpayer by use of the relevant specific anti-avoidance
+provision, s. 74.5(11), then the tax benefit that resulted from the taxpayer’s
+use of the attribution rules would have been precluded.  The Minister could not
+invoke the GAAR to reassess in respect of the taxpayer’s use of s. 74.1 .  [100]
+[102] [104-105] [108-110] [114-115] [118] [122] [124]  Cases Cited  Cited by LeBel J.                     Distinguished:  Singleton v. Canada,
+2001 SCC 61, [2001] 2 S.C.R. 1046, aff’g [1999] 4 F.C. 484; referred to: 
+Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54, [2005] 2 S.C.R. 601;
+Mathew v. Canada, 2005 SCC 55, [2005] 2 S.C.R. 643; Commissioners of
+Inland Revenue v. Duke of Westminster, [1936] A.C. 1; Placer Dome Canada
+Ltd. v. Ontario (Minister of Finance), 2006 SCC 20, [2006] 1 S.C.R. 715; Ludco
+Enterprises Ltd. v. Canada, 2001 SCC 62, [2001] 2 S.C.R. 1082; Shell
+Canada Ltd. v. Canada, [1999] 3 S.C.R. 622; Thibaudeau v. Canada,
+[1995] 2 S.C.R. 627.  Cited by Binnie J. (dissenting)                     Canada Trustco Mortgage Co. v. Canada,
+2005 SCC 54, [2005] 2 S.C.R. 601; Commissioners of Inland Revenue v. Duke of
+Westminster, [1936] A.C. 1; Singleton v. Canada, 2001 SCC 61, [2001]
+2 S.C.R. 1046; Jabs Construction Ltd. v. The Queen, 99 D.T.C. 729; Mathew
+v. Canada, 2005 SCC 55, [2005] 2 S.C.R. 643.  Cited by Rothstein J. (dissenting)                     Canada Trustco Mortgage Co. v. Canada,
+2005 SCC 54, [2005] 2 S.C.R. 601.  Statutes and Regulations Cited  Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .), ss. 18(1) (a), (h),
+20 , 73(1) , 74.1  to 74.5 , 245 .  Authors Cited  Ahmed, Firoz, and Cassandra Priede.  “Case Comment — Lipson
+v. Canada” (2007), 17 Can. Curr. Tax 77.  Krishna, Vern.  The Fundamentals of Canadian
+Income Tax, 9th ed.  Toronto:  Thomson/Carswell, 2006.  McDonnell, Thomas E.  “The Relevance of ‘Overall
+Purpose’ in a GAAR Analysis” (2007), 55 Can. Tax J. 720.  Thivierge, Manon.  “GAAR Redux:  After Canada
+Trustco”, in Report of Proceedings of the Fifty-Eighth Tax Conference. 
+Toronto:  Canadian Tax Foundation, 2007, 4:1.                     APPEALS from a judgment of the Federal Court of
+Appeal (Décary, Noël and Sexton JJ.A.), 2007 FCA 113, [2007] 4 F.C.R. 641, 280
+D.L.R. (4th) 714, 361 N.R. 191, [2007] 3 C.T.C. 110, 2007 D.T.C. 5172, [2007]
+F.C.J. No. 402 (QL), 2007 CarswellNat 640, affirming a decision of Bowman
+C.J.T.C., 2006 TCC 148, [2006] 3 C.T.C. 2494, 2006 D.T.C. 2687, [2006] T.C.J.
+No. 174 (QL), 2006 CarswellNat 982.  Appeals dismissed, Binnie, Deschamps and
+Rothstein JJ. dissenting.                     Edwin G. Kroft and Rosemarie
+Wertschek, Q.C., for the appellants.                     Wendy Burnham and Daniel
+Bourgeois, for the respondent.                     The judgment of LeBel, Fish, Abella and Charron
+JJ. was delivered by                     LeBel J. —  I.       Introduction  [1]               These
+consolidated appeals raise the issue of what constitutes abusive tax avoidance
+for the purposes of the general anti-avoidance rule (“GAAR”) provided for in
+the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .) (“ITA ” or
+“Act ”).  More specifically at issue is whether a series of transactions
+beginning with a wife borrowing money to purchase shares in a family
+corporation and leading to the husband deducting the interest on the couple’s
+home mortgage loan results in an abuse and misuse of one or more provisions of
+the Act ,* as contemplated in s.
+245(4)  of the ITA .  [2]               The
+framework for identifying abusive tax avoidance was set out in the cases of Canada
+Trustco Mortgage Co. v. Canada, 2005 SCC 54, [2005] 2 S.C.R. 601, and Mathew
+v. Canada, 2005 SCC 55, [2005] 2 S.C.R. 643 (“Kaulius”).  In those
+companion cases, the Court held that, for the purposes of s. 245(4) , abusive
+tax avoidance occurs where the impugned transaction frustrates the
+object, spirit or purpose of one or more of the provisions relied on by the
+taxpayer.  [3]               For
+the reasons that follow, I agree with the courts below that the respondent has
+established abusive tax avoidance. The GAAR applies to one of the transactions
+within the series and can accordingly be used to deny one of the tax benefits
+sought by the appellants. As a result, the appeals should be dismissed.  II.      Facts  [4]               These
+appeals were heard on the basis of a statement of agreed facts and conclusion,
+on which I will rely in reviewing the relevant facts. The appellant Earl Lipson
+(“Mr. Lipson”) conducted a series of transactions whose purpose, he concedes,
+was to minimize his income tax. He also concedes that his transactions were
+avoidance transactions within the meaning of s. 245(3)  of the ITA .
+First, in April 1994, Mr. Lipson and his wife, Jordanna Lipson (“Mrs. Lipson”),
+entered into an agreement of purchase and sale for a family residence in
+Toronto. The purchase price was $750,000. On August 31, 1994, Mrs. Lipson
+borrowed $562,500 from the Bank of Montreal to finance the purchase at fair
+market value of 20 and 5/6 shares in Lipson Family Investments Limited, a
+family corporation.  Mrs. Lipson did not earn enough income to pay the interest
+on this loan (the “share loan”) and the bank would not have lent it to her on
+an unsecured basis but for the fact that Mr. Lipson had agreed to repay the
+loan in its entirety the following day. Mrs. Lipson paid the borrowed money
+directly to her husband, who transferred the shares to her. It should be noted
+that the brother of Earl Lipson, the appellant Jordan B. Lipson, conducted
+similar transactions. It was agreed in the courts below that the outcome in
+Earl Lipson’s appeal would be dispositive of his brother’s appeal. In this
+Court, the two appeals were consolidated and continued as one appeal in file
+No. 32041.  [5]               Mr.
+and Mrs. Lipson obtained a mortgage from the Bank of Montreal for $562,500 (the
+“mortgage loan”), which was advanced on the closing date of September 1, 1994. 
+They were joint chargers under the mortgage.  That same day, they used the
+mortgage loan funds to repay the share loan in its entirety.  [6]               Mr.
+Lipson relied on four provisions of the ITA  to claim a deduction of the
+mortgage loan interest on his 1994, 1995 and 1996 tax returns.  The first was
+s. 73(1) , pursuant to which a taxpayer may defer tax on interspousal transfers
+of property.  Mr. Lipson did not elect out of this provision, as he was
+entitled to do.  As a result, the transfer of shares from him to his wife was
+deemed to have occurred at his adjusted cost base rather than at fair market
+value, such that he neither sustained a loss nor realized a gain on the sale.  [7]               Second,
+s. 74.1 attributes any income or loss from property transferred from one spouse
+to another back to the transferring spouse for tax purposes.  Thus, although
+Mrs. Lipson owned the shares acquired from her husband, the dividend income and
+losses were attributed to Mr. Lipson.  [8]               The
+third provision, although the shares were paid for with the proceeds of the
+share loan rather than the mortgage loan, was s. 20(3) , which allows a
+deduction for interest on money borrowed to repay previously borrowed money if
+the interest on the original loan is deductible.  As the Tax Court judge noted,
+the purpose of this provision is to facilitate refinancing (2006 TCC 148,
+[2006] 3 C.T.C. 2494, at para. 20).  The mortgage loan was therefore treated as
+having funded the share purchase.  [9]               Finally,
+Mr. Lipson deducted the interest on the mortgage loan pursuant to s. 20(1) (c),
+which permits the deduction of interest on money borrowed “for the purpose of
+earning income from a business or property”.  It is not in dispute that the
+shares in Lipson Family Investments Limited were income-producing assets for
+Mrs. Lipson and that, were it not for the attribution rule of s. 74.1, she
+would be entitled, under s. 20(1) (c), to deduct the interest on the
+money borrowed to purchase the shares.  As a result of that attribution rule,
+however, the dividend income and the interest expense were attributed to Mr.
+Lipson.  [10]             On
+his 1994, 1995 and 1996 tax returns, Mr. Lipson deducted the interest on the
+mortgage loan and reported the taxable dividends on the shares as income where
+applicable.  The Minister of National Revenue (“Minister”) disallowed the
+interest expenses of $12,948.19, $47,370.55 and $44,572.95, respectively, for
+those years and reassessed Mr. Lipson accordingly.  The Minister originally
+disallowed the deductions on the basis that the true economic purpose for which
+the borrowed money was used was not to earn income and that the interest was therefore
+not deductible under s. 20(1) (c) of the ITA .  However, by the
+time the case reached the Tax Court of Canada, this Court had rejected the
+“true economic purpose” approach in Singleton v. Canada, 2001 SCC 61,
+[2001] 2 S.C.R. 1046, aff’g [1999] 4 F.C. 484.  The Minister therefore argued
+the case on the basis of the GAAR set out in s. 245  of the ITA  and
+submitted that the series of transactions amounted to abusive tax avoidance.  III.    Judicial History  [11]             The
+appellants appealed the Minister’s reassessments to the Tax Court of Canada. 
+The only issue at trial was whether the transactions, which the parties agreed
+were avoidance transactions resulting in a tax benefit, constituted abusive tax
+avoidance and were prohibited by the GAAR.  Bowman C.J.T.C. relied on the
+approach to the GAAR set out by this Court in Canada Trustco and Kaulius. 
+He held that “[t]he overall purpose as well as the use to which each individual
+provision was put was to make interest on money used to buy a personal
+residence deductible” (para. 23).  He emphasized this overall purpose in
+relation to the purposes of each of the provisions in question and found that
+the series of transactions resulted in a misuse of ss. 20(1) (c), 20(3) ,
+73(1)  and 74.1  of the ITA  (para. 23).  He therefore dismissed the
+appeals.  [12]             On
+appeal to the Federal Court of Appeal, the appellants claimed that Bowman
+C.J.T.C. had erred by relying on the overall purpose of the series of
+transactions in concluding that the transactions resulted in a misuse of
+specific ITA  provisions.  They added that Bowman C.J.T.C. had relied on
+the economic purpose and substance of the transactions, which is not the test
+for interest deductibility under s. 20(1) (c).  The proper approach,
+according to the appellants, would have been to assess each transaction, and
+the resulting legal relationships, separately, in which case the court could
+find no abuse and misuse of the provisions.  They argued that this approach was
+consistent with the Supreme Court’s rulings in Canada Trustco and Kaulius.  [13]             Noël
+J.A. agreed that, viewed separately and without regard to the overall purpose
+of the scheme, no single one of the transactions appeared abusive (2007 FCA
+113, [2007] 4 F.C.R. 641, at para. 33).  However, he concluded that Bowman
+C.J.T.C. was entitled to consider the transactions as a series. Indeed, both
+ss. 245(2)  and 245(3) (b) contemplate the denial of a tax benefit
+resulting from a “series of transactions”.  Further, Noël J.A. quoted para. 46
+of Kaulius, in which this Court spoke of assessing the “object, spirit
+or purpose” of the provision “in light of the series of transactions”.  He
+concluded that “the series cannot be ignored in conducting the abuse analysis”
+for the purposes of the GAAR (para. 45).  He held that it had been open to
+Bowman C.J.T.C. to find, as he did, that the transactions resulted in a misuse
+of several provisions of the ITA .  He dismissed the appeals.  IV.    Analysis  A.      Issues and Positions of
+the Parties  [14]             The
+appellants submit that the Minister has not established that abusive tax
+avoidance had occurred. They point out that it is not disputed that the share
+purchase transaction was a bona fide, legal transaction in which Mrs.
+Lipson acquired shares in Lipson Family Investments Limited.  She earned income
+on those shares and, were it not for s. 74.1  of the ITA , would have been
+required to report that income for tax purposes but would, pursuant to s.
+20(1) (c), have been entitled to deduct the interest paid on the money
+borrowed to purchase those shares.  The purpose of s. 20(1) (c) is to
+encourage the accumulation of income-producing assets.  The fact that the
+applicability of this provision depends on tracing (i.e., of the actual
+use of the borrowed funds) rather than on apportionment or ordering (based on
+assumptions about use) means that the provision is concerned with legal
+relationships rather than with the true economic purpose of the transaction or
+series of transactions (Appellants’ Factum, at paras. 72-76).  This principle
+was confirmed in Singleton, where a taxpayer was effectively permitted
+to deduct his home mortgage interest under s. 20(1) (c) because the
+direct use of the funds in issue was to acquire an income-producing asset, not
+to purchase a house.  Therefore, the transactions in that case did not
+frustrate the purpose of s. 20(1) (c).  [15]             Similarly,
+according to the appellants, the purposes of the other three provisions on
+which they rely are not frustrated.  Section 20(3)  contemplates the refinancing
+of a loan, and that was what the Lipsons did in using the mortgage loan to pay
+off the share loan.  Section 73(1)  applies automatically unless the taxpayer
+opts out, and s. 74.1  also applies automatically if the taxpayer does not elect
+out of s. 73(1) .  The provisions operated as intended.  It would have been a
+misuse had they not applied.  [16]             The
+appellants argue that the courts below erred in their analysis of the GAAR by
+relying on the “overall purpose” of the transactions, since an “overall
+purpose” test is not part of the inquiry under s. 245(4) .  Further, to the
+extent that “overall purpose” is synonymous with “true economic purpose”, this
+Court rejected the application of such a test under s. 20(1) (c) in Singleton
+and stated in Canada Trustco that “economic substance” is not
+determinative in the inquiry under s. 245(4)  (Canada Trustco, at paras.
+57 and 59).  The effect of adopting an “overall purpose” test under s. 245(4) 
+would be to cause uncertainty and inconsistency for taxpayers.  [17]             The
+respondent, on the other hand, submits that the appellants’ approach
+effectively reads the GAAR out of the ITA .  The very purpose of the GAAR
+is to negate arrangements that would result in a tax benefit “but for this
+section” (s. 245(2) ).  In other words, even if the provision being relied on
+allows a tax benefit, this does not preclude the transaction from being abusive
+under s. 245(4)  of the Act .  [18]             A
+contextual and purposive approach to the GAAR, as is mandated by Canada
+Trustco and Kaulius, requires a court to consider the purpose
+of each provision relied on and whether that purpose was defeated by the
+transaction or series of transactions.  According to the respondent, such an
+analysis leads inevitably to the conclusion that to allow the interest to be
+deducted in the case at bar would frustrate the purpose of the provisions being
+relied on.  Specifically, the deduction of mortgage interest frustrates the
+purpose of s. 20(1) (c) because personal expenses such as home mortgage
+interest are not deductible under s. 20(1) (c), as is clear from ss.
+18(1) (a) and 18(1) (h) of the ITA .  Such a deduction also
+frustrates s. 74.1 , because that provision is aimed at preventing income
+splitting.  Section 74.1  is an anti-avoidance provision, but it was used here
+precisely to avoid tax.  It cannot be consistent with the object, spirit or
+purpose of s. 20(1) (c), s. 73(1)  or s. 74.1  to permit one spouse to
+deduct interest on money borrowed to fund a personal expense for the benefit of
+both spouses.  The respondent therefore submits that the courts below were
+correct in finding that the transactions were prohibited by the GAAR.  B.      Applicability of the
+Singleton Case to the Present Situation  [19]             As
+I mentioned above, the appellants consider this Court’s decision in
+Singleton to weigh in their favour because of its focus on legal
+relationships. The Minister concedes that, were it not for the GAAR, Mr. Lipson
+could properly deduct the interest expense under s. 20(1) (c) (Statement
+of Agreed Facts and Conclusion, at para. 15). If, as in Singleton, the
+issue in the instant case were whether the deduction was properly available
+under s. 20(1) (c), the Minister’s concession would be fatal.  [20]             However,
+neither the GAAR nor s. 74.1  of the ITA  was at issue in Singleton,
+so the present case is distinguishable. By treating Singleton as
+dispositive of the present appeals, the appellants in effect read the GAAR out
+of the ITA .  C.      Interpretation of Tax
+Statutes and the Principle of Minimizing Tax Liability  [21]             It
+has long been a principle of tax law that taxpayers may order their affairs so
+as to minimize the amount of tax payable (Commissioners of Inland Revenue v.
+Duke of Westminster, [1936] A.C. 1 (H.L.)).  This remains the case. 
+However, the Duke of Westminster principle has never been absolute, and
+Parliament enacted s. 245  of the ITA , known as the GAAR, to limit the
+scope of allowable avoidance transactions while maintaining certainty for
+taxpayers (Canada Trustco, at para. 15).  In brief, the GAAR denies a
+tax benefit where three criteria are met: the benefit arises from a transaction
+(ss. 245(1)  and 245(2) ); the transaction is an avoidance transaction as defined
+in s. 245(3) ; and the transaction results in an abuse and misuse within the
+meaning of s. 245(4) .  The taxpayer bears the burden of proving that the first
+two of these criteria are not met, while the burden is on the Minister to
+prove, on the balance of probabilities, that the avoidance transaction results
+in abuse and misuse within the meaning of s. 245(4) .  [22]             The
+appellants argue that the courts below erred by disregarding the existence of
+two tax benefits stemming from the series of transactions. They contend and
+concede that the series of transactions involves two tax benefits: Mrs.
+Lipson’s entitlement to the interest deduction and the actual deduction of that
+interest from Mr. Lipson’s income by application of the attribution rules (see
+Transcript, at pp. 9, 10 and 17). I would add that, as specified in Canada
+Trustco, at para. 19, the existence of a tax benefit is a factual
+determination best left to the Tax Court judge. However, in the case at bar,
+the Tax Court judge did not clearly decide whether the series of transactions
+created more than one tax benefit. This Court must therefore make that
+determination. I agree that the GAAR analysis should be conducted in respect of
+each of those tax benefits. The appellants sought an overall result, that is,
+the deduction of the interest payments on the mortgage from their income.
+Nevertheless, the legal analysis required by the GAAR cannot stop at this
+level. Its focus must be on the individual benefits — which may in combination
+have led to the overall result — in the context of the series of transactions.  [23]             Mr.
+Lipson concedes that all the transactions were avoidance transactions (see
+Statement of Agreed Facts and Conclusion, at para. 16).  Therefore, the issue
+before us is whether any of the transactions result in a misuse and an abuse
+having regard to the provisions the taxpayers have relied on.  [24]             The
+GAAR is set out in s. 245  of the ITA .  The provision at issue in the
+present case, s. 245(4) , reads as follows:         Subsection (2) [i.e. the denial of a tax benefit] applies to
+a transaction only if it may reasonably be considered that the transaction  (a)       would, if this Act  were read without reference to
+this section, result directly or indirectly in a misuse of the provisions of
+any one or more of  (i)          
+this Act ,  (ii)    the Income Tax Regulations,  (iii)   the Income Tax Application Rules ,  (iv)   a tax treaty, or  (v)    any other enactment that is relevant in computing tax or any
+other amount payable by or refundable to a person under this Act  or in
+determining any amount that is relevant for the purposes of that computation;
+or  (b)       would result directly or indirectly in
+an abuse having regard to those provisions, other than this section, read as a
+whole.  [25]             In
+other words, a taxpayer will not be denied a tax benefit resulting from an
+avoidance transaction unless that transaction directly or indirectly results in
+the abuse and misuse of provisions of the Act  (or regulations, etc.).  The
+approach to determining whether a transaction results in a misuse and an abuse
+for the purposes of s. 245(4)  was set out in Canada Trustco, at
+paras. 44-62, the key portion of which reads as follows:         The heart of the analysis under s. 245(4)  lies in a
+contextual and purposive interpretation of the provisions of the Act  that are
+relied on by the taxpayer, and the application of the properly interpreted
+provisions to the facts of a given case. The first task is to interpret the
+provisions giving rise to the tax benefit to determine their object, spirit and
+purpose. The next task is to determine whether the transaction falls within or
+frustrates that purpose. The overall inquiry thus involves a mixed question of
+fact and law.  The textual, contextual and purposive interpretation of specific
+provisions of the Income Tax Act  is essentially a question of law but
+the application of these provisions to the facts of a case is necessarily
+fact-intensive.         This analysis will lead to a finding of abusive tax avoidance
+when a taxpayer relies on specific provisions of the Income Tax Act  in
+order to achieve an outcome that those provisions seek to prevent.  As well,
+abusive tax avoidance will occur when a transaction defeats the underlying
+rationale of the provisions that are relied upon.  An abuse may also result
+from an arrangement that circumvents the application of certain provisions,
+such as specific anti-avoidance rules, in a manner that frustrates or defeats
+the object, spirit or purpose of those provisions.  By contrast, abuse is not
+established where it is reasonable to conclude that an avoidance transaction
+under s. 245(3)  was within the object, spirit or purpose of the provisions that
+confer the tax benefit. [paras. 44-45]  [26]             In
+determining the purpose of the relevant provision(s) of the Act , a court must
+take a unified textual, contextual and purposive approach to statutory
+interpretation (Canada Trustco, at para. 47).  This approach is, of
+course, not unique to the GAAR.  As this Court confirmed in Kaulius, the
+approach to statutory interpretation is the same for provisions of the ITA 
+as for those of any other statute: it is necessary “to determine the intention
+of the legislator by considering the text, context and purpose of the
+provisions at issue” (para. 42; see also Placer Dome Canada Ltd. v. Ontario
+(Minister of Finance), 2006 SCC 20, [2006] 1 S.C.R. 715, at paras. 21-23).  [27]             Thus,
+the first analytical step is to interpret the four provisions at issue in the
+present case to determine their essential object, spirit and purpose.  The
+parties do not generally dispute Bowman C.J.T.C.’s analysis in this regard,
+although they emphasize different aspects of the provisions’ object, spirit and
+purpose.  For example, the Minister highlights the link between certain
+provisions and Parliament’s goal of regulating taxation within the spousal unit
+(Respondent’s Factum, at para. 47).  The appellants, on the other hand, submit
+that the Tax Court judge erred in his analysis of the purpose of s. 20(1) (c)
+by failing to appreciate the importance of “tracing” (Appellants’ Factum, at
+para. 33(c)).  [28]             At
+this step, it is important to identify which provisions are associated with
+each tax benefit. Here, it is clear that the tax benefit of deductibility of
+interest relates to ss. 20(1) (c) and 20(3) . On the other hand, the tax
+benefit arising out of Mr. Lipson’s use of the attribution rules, namely the
+possibility of deducting the interest to reduce his income, is linked with ss.
+73(1)  and 74.1(1) . By virtue of these provisions, Mr. Lipson retains, for tax
+purposes, the stream of income from the shares sold to his wife but is able to
+deduct the interest payments on the mortgage from his income.  [29]             Section
+20(1) (c) allows taxpayers to deduct interest on borrowed money used for
+a commercial purpose.  The purpose of this provision is to “create an incentive
+to accumulate capital with the potential to produce income” (Ludco
+Enterprises Ltd. v. Canada, 2001 SCC 62, [2001] 2 S.C.R. 1082, at para.
+63), or to “encourage the accumulation of capital which would produce taxable
+income” (Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622, at para. 57).  [30]             Section
+20(3)  was enacted “[f]or greater certainty” in order to make it clear that
+interest that is deductible under s. 20(1) (c) does not cease to be
+deductible because the original loan was refinanced.  It serves “a practical
+function in the commercial world of facilitating refinancing” (Tax Court
+judgment, at para. 20).  [31]             The
+effect of s. 73(1)  is to facilitate interspousal transfers of property without
+triggering immediate tax consequences (Tax Court judgment, at para. 21).  This
+is an exception to the general rule that capital gains and losses are
+recognized when property is disposed of.  According to Professor Vern Krishna:  The rationale for permitting a taxpayer to rollover assets is that
+it is undesirable, and perhaps unfair, to impose a tax on transactions that do
+not involve a fundamental economic change in ownership, even though there may
+be a change in form or legal structure.  (The Fundamentals of Canadian Income Tax (9th ed. 2006) at p.
+1112)  [32]             Finally,
+the attribution rules in ss. 74.1  to 74.5  are anti-avoidance provisions whose
+purpose is to prevent spouses (and other related persons) from reducing tax by
+taking advantage of their non-arm’s length status when transferring property
+between themselves.  The most common example of such a benefit is one derived
+from income splitting, but it is not the only example. In Canada, the unit of
+taxation is the individual: “Each individual is a taxpayer in his or her own
+right” (Krishna, at p. 16; see also Thibaudeau v. Canada, [1995] 2
+S.C.R. 627, at para. 93).  Thus, s. 74.1(1) is designed to prevent spouses from
+benefiting from their non-arm’s length relationship by attributing, for tax
+purposes, any income or loss from property transferred to a spouse back to the
+transferring spouse.  [33]             The
+second step in the s. 245(4)  analysis is to determine whether the avoidance
+transaction frustrates the object, spirit or purpose of the relevant
+provisions. The appellants submit that the courts below erred at this step of
+the analysis by relying on the “overall purpose” of the transactions in
+question, that is, by collapsing the series of legally effective transactions
+into a single transaction and recharacterizing them by attributing an overall
+purpose to them (Appellants’ Factum, at paras. 134-43).  As I interpret the
+appellants’ submissions, the objection to an “overall purpose” approach is
+twofold: First, transactions under s. 20(1) (c) should be assessed
+individually rather than as a series (Appellants’ Factum, at paras. 90-91). 
+This is an objection to the “overall” aspect of the “overall purpose” test. 
+Second, this approach is legally incorrect because the purpose of the
+transactions — whether in the sense of the taxpayer’s motivation, of the
+primary purpose or perhaps even of economic substance — is not determinative in
+the s. 245(4)  inquiry.  This is an objection to the “purpose” aspect of the
+“overall purpose” test.  [34]             It
+is true, as the appellants argue, that in assessing a series of transactions,
+the misuse and abuse must be related to the specific transactions forming part
+of the series. However, the entire series of transactions should be considered
+in order to determine whether the individual transactions within the series
+abuse one or more provisions of the Act . Individual transactions must be viewed
+in the context of the series. Consideration of this context will enable a
+reviewing court to assess and understand the nature of the individual parts of
+the series when analysing whether abusive tax avoidance has occurred. At the
+same time, care should be taken not to shift the focus of the analysis to the
+“overall purpose” of the transactions. Such an approach might incorrectly imply
+that the taxpayer’s motivation or the purpose of the transaction is determinative.
+In such a context, it may be preferable to refer to the “overall result”, which
+more accurately reflects the wording of s. 245(4)  and this Court’s judgment in Canada
+Trustco. I will now review the arguments of the parties from this
+perspective.  [35]             First,
+with regard to viewing transactions individually versus as a series (i.e., the
+“overall” aspect of the “overall purpose” test), the appellants argue that the
+results of a series of transactions are not relevant in an analysis under s.
+20(1) (c).  This submission is based both on the wording of s. 20(1) (c)
+itself, which does not refer to a series of transactions, and on the decisions
+of this Court and of the Federal Court of Appeal in Singleton.  [36]             It
+is true that this Court has held that no recourse may be had to a series of
+transactions in determining whether s. 20(1) (c) applies (Singleton,
+at para. 34).  However, at issue is not whether the series is relevant in a s.
+20(1) (c) analysis, but rather whether it is relevant to an analysis
+under s. 245(4) of the GAAR.  There is no question that a court may consider a
+series of transactions of which the transaction is a part in order to determine
+whether the transaction results in abuse and misuse of one or more provisions
+of the Act .  As Noël J.A. noted, this is clear from the wording of the GAAR
+provisions, and in particular from ss. 245(2)  and 245(3) (b), which
+contemplate the denial of a tax benefit resulting from a series of
+transactions.  [37]             Section
+245(3) (b) indicates that an avoidance transaction is not necessarily a
+transaction that results in a tax benefit on its own, but may instead be one
+that is part of a series of transactions that result in a tax benefit.  It
+would be odd if a court could not then consider the rest of that series in
+determining whether an avoidance transaction resulted in abuse and misuse of
+provisions of the Act .  Further, s. 245(4) states that a tax benefit may be
+denied if a transaction would result “directly or indirectly” in a misuse of
+the provisions of the Act  or in an abuse having regard to those provisions read
+as a whole.  The use of the words “directly or indirectly” indicates that
+Parliament intended the GAAR to apply even where abuse is an indirect result of
+a transaction.  It follows logically that regard may be had to the series of
+transactions when determining whether a transaction within the series is
+abusive; otherwise, the GAAR would apply only to transactions that directly
+result in abuse and misuse.  Finally, this Court agreed in Kaulius that
+the s. 245(4)  analysis may be conducted “in light of the series of
+transactions” (para. 46; see also para. 56).  [38]             The
+appellants raise another objection to an “overall purpose” approach. In their
+view, the Tax Court judge may have been relying on the taxpayers’ motivation,
+the true economic purpose of the transactions, or their economic substance when
+he adopted this approach.  They submit that none of these is determinative at
+this stage of the analysis (Appellants’ Factum, at para. 140).  The appellants
+are correct on this point: it is clear from Canada Trustco that the
+proper approach under s. 245(4) is to determine whether the transaction
+frustrates the object, spirit or purpose of the provisions giving rise to the
+tax benefit.  An avoidance purpose is needed to establish a violation of the
+GAAR when s. 245(3)  is in issue, but is not determinative in the s. 245(4)
+analysis.  Motivation, purpose and economic substance are relevant under s.
+245(4) only to the extent that they establish whether the transaction
+frustrates the purpose of the relevant provisions (Canada Trustco, at
+paras. 57-60).  [39]             Turning
+to the Tax Court judge’s reasons, it is not entirely clear what Bowman C.J.T.C.
+meant by “overall purpose”.  He cited and applied the Canada Trustco analysis
+(paras. 17-30), but also appeared, at times, to rely on the taxpayers’
+motivation and on the economic substance of the transactions.  For example, in
+para. 31, he mentioned that the primary objective of the transactions was to
+make the interest on the purchase of the house tax deductible.  However, as I
+mentioned above, Bowman C.J.T.C. seems to have focussed on the result of the
+series of transactions. I will now turn to a review of the specific
+transactions within the series at issue.  D.      Abuse and Misuse  [40]             According
+to the framework set out in Canada Trustco, a transaction can result in
+an abuse and misuse of the Act  in one of three ways: where the result of the
+avoidance transaction (a) is an outcome that the provisions relied on seek to
+prevent; (b) defeats the underlying rationale of the provisions relied on; or
+(c) circumvents certain provisions in a manner that frustrates the object,
+spirit or purpose of those provisions (Canada Trustco, at para. 45). One
+or more of these possibilities may apply in a given case. I should reiterate
+that in a case like the one at bar, the individual tax benefits must be
+analysed separately, but always in the context of the entire series of
+transactions and bearing in mind that each step may have an impact on the
+others, in order to determine whether any of the provisions relied upon for
+each tax benefit was misused and abused.  [41]             First
+of all, in accordance with the analytical approach described above, we must
+consider the tax benefit conferred on Mrs. Lipson by ss. 20(1) (c) and
+20(3) , namely the entitlement to deduct the interest. In my opinion, the
+respondent has not established that in view of their purpose, these provisions
+have been misused and abused. Mr. Lipson sold his shares to his wife and bought
+the residence with the proceeds of that sale (Statement of Agreed Facts and
+Conclusion, at para. 12). In the result, Mrs. Lipson financed the purchase of
+income-producing property with debt, whereas Mr. Lipson financed the purchase
+of the residence with equity. To this point, the transactions were
+unimpeachable. They became problematic when the parties took further steps in
+their series of transactions. The problem arose when Mr. Lipson and his wife
+turned to ss. 73(1)  and 74.1(1)  in order to obtain the result contemplated in
+the design of the series of transactions, namely to have Mr. Lipson apply his
+wife’s interest deduction to his own income. This was contrary to the purpose
+of s. 74.1(1).  [42]             As
+I mentioned above in para. 32, the purpose of s. 74.1(1) is to prevent spouses
+from reducing tax by taking advantage of their non-arm’s length relationship
+when transferring property between themselves. In this case, the attribution to
+Mr. Lipson of the net income or loss derived from the shares would enable him to
+reduce the dividend income attributed to him by the amount of the interest on
+the loan that financed his wife’s purchase of those shares. However, before the
+transfer, when the dividend income was in Mr. Lipson’s hands, no interest
+expense could have been deducted from it. It seems strange that the operation
+of s. 74.1(1) can result in the reduction of the total amount of tax payable by
+Mr. Lipson on the income from the transferred property. The only way the
+Lipsons could have produced the result in this case was by taking advantage of
+their non-arm’s length relationship. Therefore, the attribution by operation of
+s. 74.1(1) that allowed Mr. Lipson to deduct the interest in order to reduce
+the tax payable on the dividend income from the shares and other income, which
+he would not have been able to do were Mrs. Lipson dealing with him at arm’s
+length, qualifies as abusive tax avoidance. It does not matter that s. 74.1(1)
+was triggered automatically when Mr. Lipson did not elect to opt out of s.
+73(1) . His motivation or purpose is irrelevant. But to allow s. 74.1(1) to be
+used to reduce Mr. Lipson’s income tax from what it would have been without the
+transfer to his spouse would frustrate the purpose of the attribution rules.
+Indeed, a specific anti-avoidance rule is being used to facilitate abusive tax
+avoidance.  [43]             My
+colleague Rothstein J. agrees that the impugned transactions fall afoul of the Income
+Tax Act  but would nevertheless refer the reassessment back to the Minister
+on the ground that the Minister ought to have relied on the specific
+anti-avoidance rule in s. 74.5(11)  ITA  instead of the GAAR. In my
+respectful view, this approach is not open to the Court in this case. Both
+parties have contended from the outset and reasserted in this Court that s.
+74.5(11)  ITA , on which Rothstein J. rests his conclusion, does not apply
+on the facts of this case.  [44]             Although
+I agree with Rothstein J. that this Court is not bound to adopt, on a question
+of law, an interpretation on which the parties agree, it is quite another
+matter to settle their dispute on a basis of a construction and an application
+of the statute expressly disavowed by all parties throughout the proceedings.
+Our decision must turn on the issues as framed in the proceedings and litigated
+in the courts below and on appeal to this Court. The issue in these appeals was
+whether the GAAR applies to the impugned transactions.  [45]             In
+my view, for the reasons set out above, the GAAR applies to these transactions.
+It is true that courts should avoid extending the GAAR beyond its statutory
+purpose. But, bearing this purpose in mind, where the language of and
+principles flowing from the GAAR apply to a transaction, the court should not
+refuse to apply it on the ground that a more specific provision — one that both
+the Minister and the taxpayers considered to be inapplicable throughout the
+proceedings — might also apply to the transaction.  [46]             In
+this context, I need not decide whether the taxpayers could have succeeded
+under s. 74.5(11)  ITA . I seriously doubt that that provision would have
+properly addressed the complex series of transactions before this Court in the
+present appeals. It may have been mentioned in factums and in questions at the
+hearing, but its interpretation and application were not the issues litigated
+by the parties in this case. The GAAR was and remains the focus of the present
+appeals. I would leave the issue of the interpretation of s. 74.5(11)  ITA  for
+another day.  [47]             In
+the end, the parties focussed on the application of the GAAR, which was the
+proper basis for the reassessment. The GAAR is a residual provision, but it is
+designed to address the complexity of transactions which fall outside the scope
+of specific anti-avoidance provisions. As I mentioned above, it relates
+specifically to the impact of complex series of transactions which often depend
+on the interplay of discrete provisions of the ITA . The Minister could
+properly use the GAAR in respect of a series of transactions that had an impact
+on more than just one stream of income.  [48]             In
+summary, the tax benefit of the interest deduction resulting from the
+refinancing of the shares of the family corporation by Mrs. Lipson is not
+abusive viewed in isolation, but the ensuing tax benefit of the attribution of
+Mrs. Lipson’s interest deduction to Mr. Lipson is. It follows that this latter
+tax benefit can be denied under s. 245(2), which is triggered because the
+transactions in the series include the attribution of the interest deduction
+under s. 74.1(1) and this attribution frustrates the object, spirit and purpose
+of that provision. I must now briefly consider the tax consequences of the
+denial of the tax benefit and the application of the GAAR.  E.      Determination of the Tax
+Consequences of the Application of Section 245(2)  [49]             The
+Minister seeks to deny the deductibility of the interest expense in the hands
+of Mr. Lipson, while still attributing the dividend income back to him (see
+Transcript, at p. 40). The appellants respond that such an outcome is
+impossible, since s. 74.1(1) only attributes the income or loss back to the
+transferor (see Transcript, at p. 22). Thus, the tax consequences of the
+application of s. 245(2) are in issue here.  [50]             Section
+245(5), without restricting the generality of s. 245(2), sets forth a scheme
+for determining the tax consequences of the application of that provision.
+Section 245(5) reads as follows:  245. . . .         (5)       Without restricting the generality of subsection
+(2), and notwithstanding any other enactment,  (a)       any deduction, exemption or exclusion in computing
+income, taxable income, taxable income earned in Canada or tax payable or any
+part thereof may be allowed or disallowed in whole or in part,  (b)       any such deduction, exemption or exclusion, any
+income, loss or other amount or part thereof may be allocated to any person,  (c)       the nature of any payment or other amount may be
+recharacterized, and  (d)       the tax effects that would otherwise result from
+the application of other provisions of this Act  may be ignored,  in determining the tax consequences to a person as is reasonable in
+the circumstances in order to deny a tax benefit that would, but for this
+section, result, directly or indirectly, from an avoidance transaction.  [51]             When
+considering the application of s. 245(5), a court must be satisfied that there
+is an avoidance transaction that satisfies the requirements of s. 245(4), that
+s. 245(5) provides for the tax consequences and that the tax benefits that
+would flow from the abusive transactions should accordingly be denied. The
+court must then determine whether these tax consequences are reasonable in the
+circumstances. In the present case, disallowing the interest deduction in
+computing the income or loss attributed to Mr. Lipson and attributing that
+deduction back to Mrs. Lipson is a reasonable outcome.  F.       Uncertainty and the
+GAAR  [52]             The
+appellants and several commentators have warned of the potential for
+uncertainty should this Court find that the GAAR applies in the instant case. 
+The appellants argue that to maintain certainty for taxpayers, the direct use
+of the borrowed funds — as determined by tracing — should be determinative of
+whether the GAAR applies to deductions claimed under s. 20(1) (c)
+(Appellants’ Factum, at para. 82).  As I mentioned above, such an approach
+would effectively read the GAAR out of the ITA , since the “direct use”
+test applies only to determine whether interest is deductible under s. 20(1) (c)
+and involves an inquiry that is distinct from the one under s. 245 , in which it
+must be asked whether otherwise valid transactions, such as those in Singleton
+and in the present case, frustrate the object, spirit and purpose of the
+provisions relied on.  Indeed, contrary to the judgments in Canada Trustco
+and Kaulius, my colleague Binnie J. essentially guts the GAAR and reads
+it out of the ITA  under the guise of an exercise in legal
+interpretation. To the extent that it may not always be obvious whether the
+purpose of a provision is frustrated by an avoidance transaction, the GAAR may
+introduce a degree of uncertainty into tax planning, but such uncertainty is
+inherent in all situations in which the law must be applied to unique facts. 
+The GAAR is neither a penal provision nor a hammer to pound taxpayers into
+submission. It is designed, in the complex context of the ITA , to
+restrain abusive tax avoidance and to make sure that the fairness of the tax
+system is preserved. A desire to avoid uncertainty cannot justify ignoring a
+provision of the ITA  that is clearly intended to apply to transactions
+that would otherwise be valid on their face.  [53]             I
+would therefore dismiss the appeal of Earl Lipson with costs in this Court.
+Given the agreement between the parties, I would also dismiss the appeal of
+Jordan B. Lipson with costs in this Court.                     The reasons of Binnie and Deschamps JJ. were
+delivered by  [54]             Binnie J. (dissenting) — How healthy is
+the Duke of Westminster?  There is cause for concern.  Although this
+Court in Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54, [2005] 2
+S.C.R. 601, affirmed, at para. 11, the continuing viability of the principle
+that taxpayers are entitled to arrange their affairs to minimize the amount of
+tax payable (a principle enshrined in Commissioners of Inland Revenue v. Duke
+of Westminster, [1936] A.C. 1 (H.L.)), the traditional approach is now
+tempered by the application of the general anti-avoidance rule (“GAAR”).  The
+question in these appeals, as it was in Canada Trustco, is where the
+appropriate balance is to be struck.  [55]             The
+GAAR is a weapon that, unless contained by the jurisprudence, could have a
+widespread, serious and unpredictable effect on legitimate tax planning.  At
+the same time, of course, the GAAR must be given a meaningful role.  That role
+is circumscribed by the requirement in s. 245(4)  of the Income Tax Act,
+R.S.C. 1985, c. 1 (5th Supp .), that the transactions not only be shown to be
+“avoidance transaction[s]”, i.e. transactions structured primarily to obtain a
+tax benefit, but in addition that the Minister demonstrate that the tax
+benefit results from a misuse/abuse of the provisions of the Act  relied upon to
+produce it.  [56]             The
+tax plan at issue in this case is “Singleton with a spousal dimension” —
+or Singleton with a twist — see Singleton v. Canada, 2001 SCC 61,
+[2001] 2 S.C.R. 1046.  In that case, the taxpayer used $300,000 of existing
+equity in his law firm to purchase a house.  He refinanced his law firm equity
+with borrowed money.  He deducted the interest on the loan claiming that the
+borrowed money now represented his investment in the law firm.  Despite the
+Minister’s objection, our Court held that he was entitled to do so.  [57]             Singleton
+was not a GAAR case, and it did not involve the spousal attribution rules.  Its
+outcome turned on the Court’s view of s. 20(1) (c) interest
+deductibility.  Nevertheless, it is important to emphasize at the outset that
+the Minister is not asking the Court to revisit Singleton.  He does not
+claim that the GAAR would have applied on the facts of that case.  [58]             In
+the Statement of Agreed Facts and Conclusion, the Minister acknowledged that it
+is common ground that the interest was deductible (para. 15).  Applying Singleton,
+the only question is whether the deduction becomes “abusive” when income or
+losses are attributed back to the transferor (appellant) by the spousal
+attribution rules in ss. 73(1)  and 74.1(1) .  [59]             In
+my opinion, the spousal “twist” added to Singleton should not cause the
+entire series of transactions to be characterized as abusive.  After all, there
+is nothing in the Act  to discourage the transfer of property at fair market
+value between spouses. Indeed, by allowing a spouse to transfer property to the
+other spouse at the transferor’s adjusted cost base, Parliament intended to
+make such transfers attractive.  If the tax plan in Singleton is not
+abusive, I do not believe the Minister has established that Singleton
+with a spousal twist is abusive tax avoidance either.  I would therefore allow
+the appeals.  Overview  [60]             My
+colleague LeBel J. concludes that the series of transactions in the two appeals
+at issue here not only amounted to tax avoidance (which it was conceded to be)
+but abusive tax avoidance in the GAAR sense that the series of
+transactions initiated by the husband’s sale of dividend-producing shares to
+his wife, and ending with his deduction of the interest on the loan used to
+fund the share acquisition, frustrated “the object, spirit or purpose of one or
+more of the provisions relied on by the taxpayer” (para. 2).  It is true that by
+means of a series of transactions, the appellant turned the equity in his
+shares into the part purchase (with his wife) of a house, but as stated, Singleton
+illustrates the proposition that there is nothing abusive in principle for a
+taxpayer to rearrange his or her capital (borrowed or non-borrowed) in a tax
+efficient manner.  [61]             My
+colleague Rothstein J. finds in s. 74.5(11)  a sort of deus ex machina to
+dispose of the appeals on a basis not advanced by any of the parties.  When
+asked at the hearing of the appeal by Rothstein J. about the possible
+application of s. 74.5(11) , counsel for the Minister stated that in the
+Minister’s view s. 74.5(11)  “did not address the particular problem[s] of this
+case” because “the transfer of the shares by the appellant to the wife was not
+merely to reduce the tax payable on any future dividends.  It was really to get
+the interest expense up to the appellant” (Transcript, at p. 41).  The Minister
+was not prepared even to argue as a matter of fact “that one of the main
+reasons for the transfer or loan was to reduce the amount of tax that would,
+but for this subsection, be payable” within the meaning of s. 74.5(11) .  The
+appellant taxpayer was not called on to meet a case under s. 74.5(11)  and I do
+not believe we should assume a factual basis for the application of s. 74.5(11) 
+(“one of the main reasons”) which none of the parties was prepared to
+support.  The Minister defends the disputed reassessment squarely on the basis
+of the GAAR.  The appellant responds that the GAAR, in its own terms, has no
+application.  The proper limits of the GAAR raise questions of considerable
+interest to both taxpayers and tax collectors.  I believe we should respond to
+these questions and leave the more narrowly circumscribed role of s. 74.5(11) 
+to another day when one or other of the parties sees fit to allege a factual
+basis for its application.  [62]             The
+Minister  takes the selective view that while it was perfectly appropriate for
+s. 74.1(1) to attribute the net dividend income to increase the tax payable by
+the appellant, it was abusive for s. 74.1(1) to attribute the losses to him,
+even though, as I see it, (i) the losses and income were both associated with
+the same transferred shares, (ii) whether the transfer resulted in net income
+or loss depended on the fluctuating dividends generated by the shares from year
+to year and (iii) s. 74.1(1) itself draws no distinction between the
+attribution of “income or loss[es]”.  Counsel for the Minister maintains that
+“[i]t is perfectly logical that the attribution rule works to attribute back
+the net income and that application of the GAAR then denies the interest
+deduction, under 245(2)” (Transcript, at p. 40).  With respect, once it is
+accepted (as it was here by the Federal Court of Appeal) that the wife borrowed
+money from the bank to purchase the shares, which qualified the interest as
+deductible under s. 20(1) (c), and that the subsequent bank borrowing
+secured by a mortgage on the house constituted a refinancing of the original
+share purchase loan under s. 20(3) , which is the result anticipated by Singleton,
+I do not believe that the Minister has shown that the application of the
+spousal attribution rules to the appellant by operation of law was abusive even
+though, in the end result, it produced the intended tax benefit.  To hold
+otherwise is to say that whereas it is legitimate for a taxpayer to rearrange
+his or her capital (borrowed or non-borrowed) in a tax efficient manner, it
+becomes abusive when the rearrangement involves a sale of property at fair
+market value between spouses.  Introduction of the spousal element, according
+to the Minister, forfeits the s. 20(1) (c) interest deduction otherwise
+available under Singleton.  Neither spouse in this case is to be allowed
+the benefit even though, under our system of tax assessment, each spouse is
+taxed individually.  As observed in Jabs Construction Ltd. v. The Queen,
+99 D.T.C. 729 (T.C.C.): “Section 245  is an extreme sanction.  It should not be
+used routinely every time the Minister gets upset just because a taxpayer
+structures a transaction in a tax effective way, or does not structure it in a
+manner that maximizes the tax” (para. 48).  Identification of the Alleged Abuse  [63]             The
+GAAR declares that a transaction or series of transactions which comply with
+the letter of the Income Tax Act  may nevertheless be disallowed if the
+result is directly or indirectly “a misuse of the provisions [of the
+Act ] or . . . an abuse having regard to [the] provisions [of this Act ],
+other than this section, read as a whole” (s. 245(4) ).  The principles
+governing the application of the GAAR were considered by the Court in the
+companion cases of Canada Trustco, where the GAAR was held not to be
+applicable, and Mathew v. Canada, 2005 SCC 55, [2005] 2 S.C.R. 643 (“Kaulius”),
+where the GAAR was applied to disallow deductions claimed by the taxpayers.  Canada
+Trustco recognized that the line between legitimate tax minimization and
+abusive tax avoidance is “far from bright” (para. 16).  This has proven to be
+an understatement, and must be read together with the rule in Canada Trustco
+that  [i]f the existence of abusive tax avoidance is unclear, the benefit
+of the doubt goes to the taxpayer. [para. 66, point 3]  [64]             In
+my view, when the series of transactions at issue in this case is properly
+characterized, it is a tax avoidance scheme that falls on the Canada Trustco
+side of the line, and should not have been found to be abusive under the GAAR.  [65]             Here,
+as in Canada Trustco and Kaulius, it is clear that the series of
+transactions in question produced a tax benefit in some years for the
+appellant, and that the “shuffle of cheques” (as these schemes are sometimes
+characterized) was designed to obtain a tax benefit.  Nevertheless the following
+cautionary observations in Canada Trustco are pertinent:         The courts cannot search for an overriding policy of the Act 
+that is not based on a unified, textual, contextual and purposive
+interpretation of the specific provisions in issue. . . . To send the
+courts on the search for some overarching policy and then to use such a policy
+to override the wording of the provisions of the Income Tax Act  would
+inappropriately place the formulation of taxation policy in the hands of the
+judiciary . . . .         Second, to search for an overriding policy of the Income
+Tax Act  that is not anchored in a textual, contextual and purposive
+interpretation of the specific provisions that are relied upon for the
+tax benefit would run counter to the overall policy of Parliament that tax law
+be certain, predictable and fair, so that taxpayers can intelligently order
+their affairs. [Emphasis added; paras. 41-42.]  Counsel for the Minister argues that the appellant “wanted to take
+advantage of the tax-free rollover.  He wanted to sell the shares to his wife
+in order to trigger the income-earning use, but he didn’t want the consequences
+that a sale of shares would normally carry with it” (Transcript, at p. 47). 
+But this is precisely the outcome contemplated by Parliament when it enacted
+the spousal attribution rules. The outcome was not so much an abuse “of the
+specific provisions” as it was a fulfilment of them.  The Minister’s argument
+paints with too broad a brush.  Canada Trustco requires him to identify
+the misuse and abuse of an “object, spirit or purpose” that is “anchored in a
+textual, contextual and purposive interpretation of the specific
+provisions that are relied upon for the tax benefit” (para. 42 (emphasis
+added)).  By ignoring the initial sale of shares and recharacterizing the
+interest payment in relation thereto as nothing more than interest on a house
+mortgage, and effectively arguing for a stand-alone prohibition on the
+deductibility of a house mortgage interest (despite Singleton), the
+Minister, with respect, engages in the sort of vague appeal to “overriding
+policy” or “overarching policy” that Canada Trustco sought to eliminate
+from the GAAR analysis (para. 41).  [66]             The
+Minister argues that Mr. Lipson’s use of the attribution rules was abusive
+because he used them to reduce his tax.  At the same time, his counsel readily
+acknowledged at the hearing that s. 74.1(1) can operate to transfer a
+loss from the lower income spouse up to the higher income spouse (Transcript,
+at p. 46), thereby opening the door to the higher income spouse (in this case
+Mr. Lipson) to reduce his tax (see further para. 75 below).  Of course Mr.
+Lipson obtained a tax benefit in some years but the Minister’s proposition
+would, in this respect, further blur the distinction under the GAAR between tax
+avoidance and abusive tax avoidance.  As Canada Trustco states:         Even if an avoidance transaction is established under the s.
+245(3)  inquiry, the GAAR will not apply to deny the tax benefit if it may be
+reasonable to consider that it did not result from abusive tax avoidance under
+s. 245(4) , as discussed more fully below. [para. 35]  [67]             In
+my opinion the Minister has failed to identify a specific policy shown to be
+frustrated by the appellant’s plan.  The approbation by the Court of the
+Minister’s resort to vague generalities or “overriding policy” would only
+increase the element of uncertainty in tax planning that Canada Trustco
+sought to avoid.  The Series of Transactions  [68]             In
+order to gain a proper appreciation of the context in which abuse is alleged to
+have resulted, it is useful to identify each distinct legal step in the series
+of transactions, and relate that step to the relevant provision of the Income
+Tax Act .  Of course, in the GAAR analysis, the entire series of
+transactions must ultimately be taken into consideration to determine whether
+the tax benefit results from an abuse of the provisions relied upon.  [69]             Counsel
+for the Minister concedes that the GAAR does not permit the re-characterization
+of these individual transactions.  “[E]ach transaction has to be respected for
+what it is” (Transcript, at p. 35).  [70]             At
+the outset, the appellant owned a substantial block of stock in Lipson Family
+Investments Ltd. (which I will refer to as “Holdco”).  At the conclusion of the
+series of transactions, he was no longer the owner of $562,500 of the stock. 
+It had been sold to his wife, Jordanna, at what the Minister does not dispute
+was fair market value.  [71]             The
+wife did not have the cash on hand to buy the shares, so she took out a
+$562,500 bank loan.  I agree with the Federal Court of Appeal that, viewed in
+isolation, the interest on this loan was clearly deductible under s. 20(1) (c)
+of the Act  as money borrowed to acquire an income-producing asset, i.e. the
+shares in Holdco.  Noël J.A. wrote:         Jordanna having acquired an income producing asset and having
+financed the cost of acquisition, there is an obvious link between the borrowed
+money and a current eligible use.  As such, paragraph 20(1) (c) cannot be
+said to have been misused.                     (2007 FCA 113, [2007] 4 F.C.R. 641, at para. 40)  In other words, deductibility of the interest on the share purchase
+loan satisfied both the letter and the spirit of s. 20(1) (c).  [72]             Prior
+to the share purchase, but plainly as part of the same series of transactions,
+the appellant and his wife agreed to purchase a house for $750,000.  On
+closing, the Lipsons took out a $562,500 mortgage whose proceeds were used to
+pay off the wife’s bank loan.  The advantage to the bank of this refinancing
+was that the $562,500 loan was now secured by a $750,000 house.  The Minister
+concedes that the $562,500 mortgage loan is properly considered to be a
+refinancing of the $562,500 stock purchase loan.  (It is true that the husband
+was co-charger on the mortgage, but this was necessarily so, given his joint
+ownership interest in the $750,000 house.)  Interest payments were made from a
+joint account.  There is no evidence about the source of funds going into that
+account.  The Minister concedes that viewed in isolation s. 20(3)  properly
+applied to preserve the deductibility of the interest payments.  If the
+Minister’s position were otherwise, the parties would be arguing about
+deductibility under s. 20(3) , not the GAAR.  [73]             Deductibility
+is based on the use of the borrowed funds prior to the refinancing (in this
+case the purchase of income-producing shares), not on the nature of the
+security eventually provided to secure the refinanced borrowings.  Again, I
+agree with the Federal Court of Appeal that, viewed in isolation, the
+refinancing of the share purchase loan preserved the deductibility of the
+interest payments.  Noël J.A. wrote:         In this case, the mortgage loan was used to repay the money
+which had been previously borrowed to purchase the shares.  As such, the text,
+context and purpose of subsection 20(3) , is to attribute to the mortgage loan
+the same purpose as the demand loan.  Again, ignoring the overall purpose
+identified by Bowman C.J., I see no basis for holding that there has been an
+abuse or a misuse of that provision. [para. 42]  [74]             At
+this point, in the sequence of events, the choice offered by Parliament in s.
+73(1)  presents itself, as explained by Bowman C.J.T.C.:         Subsection 73(1)  has as its purpose the facilitation of
+inter-spousal transfers of property without immediate tax consequences.  Such
+transfers, in the case of non-depreciable property, are deemed to take place at
+the transferor’s [adjusted cost base] unless the transferor elects to have
+subsection 73(1)  not apply.  (2006 TCC 148, [2006] 3 C.T.C. 2494, at para. 21)  The appellant could have elected not to enjoy the s. 73(1) 
+rollover.  In that event, the disposition of the shares would have been subject
+to the capital gains tax provisions.  However, he did not make that election,
+and as the Federal Court of Appeal held, per Noël J.A.:         Subsection 73(1)  also operated as intended.  The shares were
+transferred from the appellant to Jordanna on a rollover basis (i.e., at the
+appellant’s [adjusted cost base]) and any future gain or loss resulting from
+the disposition of the shares by Jordanna will be attributed back to the
+appellant.  [para. 37]  [75]             Since
+the appellant did not opt out of s. 73(1) , any income or loss from the shares in
+the hands of Jordanna are deemed to be that of the appellant pursuant to s.
+74.1(1)  of the Income Tax Act .  This is understandable.  If for tax
+purposes there is no realization of the property, then for tax purposes
+Parliament has decided that the income or losses should stay with the
+transferor.  [76]             My
+colleague LeBel J. states that “the purpose of s. 74.1(1)  is to prevent spouses
+from reducing tax by taking advantage of their non-arm’s length relationship
+when transferring property between themselves” (para. 42). This concept of an
+abuse of s. 74.1(1)  is so broad that it would include interspousal transfers of
+assets at fair market value for bona fide economic reasons.  It offers,
+I think, too large a field of operation for the GAAR.  The reality is that such
+a reduction in the total amount of tax is the likely result of any interspousal
+rollover from a higher income spouse to a lower income spouse, a result that s.
+74.1  plainly contemplates.  Nowhere in the provisions at issue does Parliament
+indicate that attribution of a loss could only be made from lower income
+spouses to higher income spouses.  On the contrary, even counsel for the Minister
+acknowledged at the hearing that  there could be a situation where it is the lower-income spouse
+transferring a loss up to the higher-income spouse.  It can work both ways and
+that is why you have “income or loss.” [Transcript, at p. 46]  Further, it seems that my colleague’s definition of s. 74.1(1)  abuse
+is framed broadly enough to include any debt-financed transfer of assets
+between spouses where the tax consequences are attributed back to the
+transferor spouse, whether such attribution happens because the transferor
+fails to make the election out of s. 73(1)  or because the election is not
+available in the circumstances.  This too gives the GAAR too wide a field of
+potential operation, in my view.  [77]             The
+focus of my colleague’s analysis is the appellant’s ability to deduct the
+interest expense against dividend income, and thus to reduce his taxable income
+from what it would have been if the series of transactions had never taken
+place.  Yet the Minister seems to concede that the Singleton deduction per
+se is not abusive.  And as well, the Minister seems to accept that the
+deduction would not be abusive if the “income or loss” had been left in the
+wife’s hands. Before the transactions in Singleton occurred, it will be
+recalled, Singleton was responsible for the tax consequences of his partnership
+stake and there was no interest deduction.  Then he withdrew his stake, spent
+the proceeds on a house, and borrowed money to deposit back into the
+partnership.  The end result was that the partnership stake remained with
+Singleton — along with a new interest deduction.  If the interest deduction is
+not per se abusive, I do not believe the Minister has shown why it
+becomes abusive with the addition of a spousal rollover that operates precisely
+as it was intended by Parliament to operate.  [78]             When
+Parliament used the words “income or loss” in s. 74.1(1) , it expressly
+contemplated that regardless of the relative income of the spouses, interest
+expenses incurred by the transferee (here the wife) will in the circumstances
+dictated by Parliament be attributed to the transferor (here the appellant). 
+Section 74.1(1)  does not change the ownership of the property.  It simply
+attributes the net income or loss arising from the transferred property to the
+transferor in circumstances where the transferor has decided not to opt for a
+deemed disposition and thereby risk capital gains tax.  [79]             Parliament
+recognized that an attribution back to the transferor spouse might be
+inappropriate in some circumstances.  The attribution rules include an
+anti-avoidance provision.  Section 74.5(11)  provides that the spousal
+attribution rules  do not apply to a transfer or loan of property where it may
+reasonably be concluded that one of the main reasons for the transfer or loan
+was to reduce the amount of tax that would, but for this subsection, be payable
+under this Part on the income and gains derived from the property or from
+property substituted therefor.  The Minister made no attempt to bring this case within s. 74.5(11) 
+(Respondent’s Factum, at para. 45).  [80]             In
+an effort to identify the “object, spirit or purpose” of s. 74.1(1)  abused by
+the appellant’s plan, my colleague LeBel J. states, as mentioned, that “the
+attribution rules in ss. 74.1  to 74.5  are anti-avoidance provisions whose
+purpose is to prevent spouses (and other related persons) from reducing tax by
+taking advantage of their non-arm’s length status when transferring property
+between themselves” (para. 32).  In my respectful view, what LeBel J. believes
+s. 74.1(1)  is designed to prevent is actually a reasonable statement of
+what s. 74.1(1)  seeks to permit.  This case, as my colleague appears to
+acknowledge at para. 32, is not about income splitting.  The taxpayer’s evident
+purpose was to postpone capital gains tax on the transfer of property to the
+wife while in the meantime allowing any “income or loss[es]” to be attributed
+to himself.  [81]             My
+colleague further says at para. 42 that “[t]he only way the Lipsons could have
+produced the result in this case was by taking advantage of their non-arm’s
+length relationship.”  I agree, but, far from constituting an indicia of
+abuse, the spousal relationship is precisely the reason Parliament permits the
+attribution of income or loss back to the transferor.  In other words, in my
+respectful view, the tax consequence my colleague condemns is precisely the
+consequence called for by s. 74.1(1)  unless the taxpayer opts out.  Thus, in
+the view of Noël J.A. writing for the Federal Court of Appeal:         Considering the transactions as they unfolded, the
+purposes of subsections 74.1(1)  and 73(1)  were fulfilled.  The appellant
+(presumably in a higher tax bracket his counsel suggests) transferred the
+shares to his spouse with the result that (pursuant to subsection 74.1(1) ) any
+income or loss incurred by Jordanna with respect to the shares was attributed
+back to the appellant. [Emphasis added; para. 36.]  I agree with the Federal Court of Appeal to the extent that it
+recognized that the specific purposes of ss. 74.1(1)  and 73(1)  were fulfilled,
+not abused.  In my view, moreover, the additional fact that the attribution
+occurred as part of a Singleton “shuffle” does not render the “series of
+transactions” abusive unless the Singleton shuffle itself is abusive,
+which is a position the Minister declined to advance.  [82]             In
+one of the three years at issue, the appellant’s failure to opt out resulted in
+an increase in the appellant’s income.  In 1995, the taxable dividend
+paid on the transferred shares and attributed to him under s. 74.1(1)  exceeded
+the interest expense paid on the loan.  In the other two years (1994 and 1996),
+the interest expense exceeded the Holdco dividends.  Whether or not the
+appellant suffers a loss or gains additional income in any particular taxation
+year depends on the fluctuating amount of the dividends.  There was no evidence
+about the dividend practice or policy of Holdco.  [83]             In
+the Minister’s view, apparently, the spousal attribution rules provided in this
+case a narrow bridge over which income may pass, but not losses.  Identification of the “Overall Purpose”  [84]             Having
+accepted that none of the transactions in the series, taken in isolation,
+offended the letter or intent of the tax provisions relied upon by the
+appellant, the Federal Court of Appeal nevertheless upheld the Tax Court on the
+basis of the view of the trial judge that “[t]he overall purpose of the scheme
+obviously was to make the interest on the mortgage on the home deductible by
+Earl” (Bowman C.J.T.C., at para. 8).  Again, at para. 23, the Tax Court judge
+stated:  The overall purpose as well as the use to which each individual
+provision was put was to make interest on money used to buy a personal
+residence deductible.  This, of course, is the issue subsequently decided in the taxpayer’s
+favour by Singleton.  [85]             The
+Federal Court of Appeal saw nothing wrong with the “overall purpose” approach
+taken by the Tax Court judge:  Bowman C.J. was entitled to consider the transactions as a whole and
+their overall purpose in the conduct of his misuse and abuse analysis and to
+give this factor the weight that he did. [para. 43]  [86]             While
+Canada Trustco requires deference to Tax Court judges who have
+“proceeded on a proper construction of the provisions of the Income Tax Act ”
+(para. 66), in my view the “overall purpose” approach that he adopted, and the
+Federal Court of Appeal accepted, was an error of law that invites our
+intervention.  Identification of “purpose” is relevant to a determination under
+s. 245(3)  about whether the impugned transaction is or is not an “avoidance
+transaction”.  The appellant conceded before the Federal Court that it was
+a tax-avoidance scheme.  The focus therefore shifts to s. 245(4)  which
+disallows a tax benefit that would, but for the GAAR, “result directly
+or indirectly in a misuse [or] abuse”.  At that stage, the principal focus is
+on results, not purpose.  [87]             Moreover,
+it is not sufficient, in my view, for the Minister to offer a general “overall”
+conclusory snapshot of the series of transactions without regard to the legal
+relationships thereby created.  Here, as in Singleton, there was a
+change in the taxpayer’s position with real economic substance.  The wife
+became owner of the shares.  Apart from the spousal attribution rules, which
+applied automatically as a result of the appellant’s failure to opt out of s.
+73(1) , she would have been taxed on the dividends, and she would have been
+taxed on the capital gain or loss on the shares when she sold them.  While many
+spouses regard themselves as forming an economic unit, the rate at which
+spousal units implode serves as a reminder that the economic union of marriage
+is neither indissoluble nor free of risk.  As the Federal Court of Appeal
+wrote:         In this case, Jordanna borrowed money to acquire shares which
+had the potential to produce and did produce non-exempt income.  The change in
+the respective ownership positions of the appellant and his spouse is real from
+both a legal and an economic perspective, and this is unaltered by the distinct
+treatment which the attribution rules provide for the purposes of the Act .  The
+shares no longer belong to the appellant; they belong to Jordanna. [para. 39]  See also M. Thivierge, “GAAR Redux: After Canada Trustco”, in Report
+of Proceedings of the Fifty-Eighth Tax Conference (2007), 4:1; F. Ahmed and
+C. Priede, “Case Comment — Lipson v. Canada” (2007), 17 Can. Curr.
+Tax 77; and T. E. McDonnell, “The Relevance of ‘Overall Purpose’ in a GAAR
+Analysis” (2007), 55  Can. Tax J. 720.  The Spousal Attribution Rules  [88]             Section
+74.5(1) provides that the spousal attribution rules do not apply where an
+individual transfers property to his or her spouse at fair market value and
+elects out of the s. 73(1)  spousal rollover.  The spousal attribution rules do
+apply if the transferor does not elect out of the spousal rollover (as
+was the case here).  Thus, by operation of the spousal attribution rules in ss.
+73(1)  and 74.1(1) , the losses associated with the shares in Holdco were
+attributed to the appellant.  [89]             My
+colleague LeBel J. concludes that the only provision of the Income Tax Act 
+for which the Minister had established abuse contrary to the GAAR is s. 74.1(1) 
+because “the attribution by operation of s. 74.1(1)  that allowed Mr. Lipson to
+deduct the interest in order to reduce the tax payable on the dividend income
+from the shares and other income, which he would not have been able to do were
+Mrs. Lipson dealing with him at arm’s length, qualifies as abusive tax
+avoidance” (para. 42).  This conclusion it seems to me, with respect, gives the
+GAAR a sweeping effect not contemplated in Canada Trustco or Kaulius.  [90]             Counsel
+for the Minister says that in this case, unlike Singleton, there was no
+rearrangement of capital:  Unlike Mr. Singleton, who had cash sitting in his partnership and
+was then able to take a mortgage out on his house, Mr. Lipson doesn’t have
+those options because he has only one pot of money, and that is borrowed money. 
+At the end of the day he uses that borrowed money to buy the house.
+[Transcript, at p. 53]  The Minister’s argument simply ignores the initial step in the
+“series of transactions”, whereby the appellant did in fact and in law sell his
+dividend-generating shares to his wife at fair market value.  I do not believe
+that Singleton can be distinguished on the basis suggested by the
+Minister.  While the legal relationships actually created by the taxpayer do
+not control the application of the GAAR, they cannot be ignored.  [91]             Kaulius
+states that “the entire factual context of the series of transactions” must be
+considered and applied to the provisions, properly interpreted (para. 59).  If
+the Minister wished to contend that the share sale was a sham, it was open to
+him to make the argument, but he didn’t, and it must therefore be accepted as
+an essential part of the “series of transactions”.  Was There an Abuse of Section 74.1(1) ?  [92]             In
+my view, Parliament must have contemplated that by giving taxpayers a choice
+under s. 73(1) , they would exercise it in a tax-minimizing manner.  Once it is
+accepted that interest is deductible under Singleton, the Minister’s
+argument is simply that the appellant’s tax plan offended the “object, spirit
+or purpose” of the spousal attribution rules when the interest deduction was
+attributed to him by the operation of s. 73(1)  and the application of s.
+74.1(1) .  The appellant’s counsel suggests that “[t]he attribution rules will
+always offend the Crown when there is a reduction of tax by virtue of their
+application” (Transcript, at p. 23).  This seems a plausible summary of the
+Minister’s position in this case.  [93]             I
+have already stated the reasons for my conclusion that far from offending the
+“object, spirit or purpose” of the spousal attribution rules, the appellant’s
+tax plan fulfilled them, or at a minimum did not abuse them.  The Onus Is on the Minister to Establish Abuse  [94]             Canada
+Trustco is emphatic that the GAAR “was enacted as a provision of last
+resort” (para. 21), and Parliament “intends taxpayers to take full advantage of
+the provisions of the Income Tax Act  that confer tax benefits” (para.
+31).  The onus of establishing abuse is on the Minister to identify with some
+precision the “object, spirit or purpose” frustrated by the impugned series of
+transactions.  [95]             As
+mentioned earlier, the Minister in the Statement of Agreed Facts and
+Conclusion  acknowledged that the interest was deductible.  It is also clear
+that by virtue of s. 20(3) , what is being deducted (despite the refinancing) is
+correctly characterized for tax purposes as the interest on the original share
+purchase loan.  The only question was whether the deductions available to the
+wife became abusive when attributed by s. 74.1(1)  to the appellant.  [96]             My
+colleague LeBel J. says that the foregoing analysis would essentially “gu[t]”
+the GAAR provision and “reads it out of the ITA ” (para. 52), but, with
+respect, this seems a somewhat apocalyptic verdict on a disagreement about
+whether or not the Minister has met his onus of demonstrating abuse of a
+specific “object, spirit  or purpose” arising out of the “specific provisions”
+relied upon by the taxpayers to claim the tax benefit.  It cannot be right that
+whenever a lower income spouse borrows money to purchase shares from a higher
+income spouse there is an abuse of the spousal attribution rules unless the 
+transferring spouse opts out of ss. 73(1)  and 74.1(1) , and thereby forfeits a
+tax benefit clearly available under the Act .  As stated in Canada Trustco:  Where Parliament has specified precisely what conditions must be
+satisfied to achieve a particular result, it is reasonable to assume that
+Parliament intended that taxpayers would rely on such provisions to achieve the
+result they prescribe. [para. 11]  [97]             In
+Kaulius, at para. 58, the Court was satisfied that “[i]nterpreted
+textually, contextually and purposefully”, the partnership provisions of the Income
+Tax Act  were abused by a series of transactions under which a trust company
+purported to “sell” unrealized losses to unrelated parties who were entirely at
+arm’s length.  The Court stated that the “abusive nature of the transactions
+[in issue was] confirmed by the vacuity and artificiality” of the transactions
+which, in the result, “frustrated Parliament’s purpose of confining the
+transfer of losses such as these to a non-arm’s length partnership” (para.
+62).  In this case, the sale of the shares in Holdco was neither vacuous nor
+artificial.  No specific policy was frustrated or defeated by the series of
+transactions, for the reasons already discussed, in my opinion.  [98]             The
+question here is not whether the series of transactions constituted a tax
+avoidance scheme.  Clearly it did.  The appellant readily admits it.  However, Canada
+Trustco says that  a finding of abuse is only warranted where the opposite conclusion —
+that the avoidance transaction was consistent with the object, spirit or
+purpose of the provisions of the Act  that are relied on by the taxpayer —
+cannot be reasonably entertained.  In other words, the abusive nature of the
+transaction must be clear. [para. 62]  I do not believe the Minister has shown that the abusive nature of
+this transaction is “clear”.  The application of the GAAR in these
+circumstances, in my respectful view, means paying lip service to the Duke
+of Westminster principle without taking seriously its role in promoting
+consistency, predictability and fairness in the tax system.  Disposition  [99]             I
+would therefore allow the appeals, with one set of costs throughout.                     The following are the reasons delivered by                     Rothstein
+J. (dissenting) —  Introduction  [100]           I
+have had the benefit of reading the reasons of my colleagues Binnie J. and
+LeBel J.  I am in agreement with their analyses insofar as ss. 20(1) (c)
+and 20(3)  of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .) (“Act ”),
+are concerned.  There is no reason why taxpayers may not arrange their affairs
+so as to finance personal assets out of equity and income earning assets out of
+debt.  [101]           However,
+I am unable to agree with either of my colleagues’ approaches to the
+attribution rules.  [102]           With
+respect to the views of my colleague, LeBel J., I do not believe it was
+appropriate for the Minister to rely on the general anti-avoidance rule
+(“GAAR”) in this case.  In my opinion, the GAAR does not apply here because
+there is a specific anti-avoidance rule that pre-empted its application.  Had
+the Minister reassessed Mr. Earl Lipson using the relevant specific
+anti-avoidance provision, s. 74.5(11) , the tax benefit that resulted from Mr.
+Lipson’s use of the attribution rules would have been precluded. [103]           I
+agree with Binnie J. that the GAAR does not apply in this case.  However, I am
+unable to agree with his reasons because in my view they do not take account of
+s. 74.5(11)  of the Act .  He says, at para. 66:  . . . s. 74.1(1)  can operate to transfer a loss from the lower
+income spouse up to the higher income spouse (Transcript, at p. 46), thereby
+opening the door to the higher income spouse (in this case Mr. Lipson) to
+reduce his tax.  [Emphasis deleted.]  While s. 74.1(1) permits a net loss to be transferred between
+spouses, this section must be read harmoniously with s. 74.5(11) . I agree with
+Binnie J. that the attribution of a net loss from a lower income spouse to a
+higher income spouse can occur, in some cases.  However, this is not the case
+where, as here, s. 74.5(11)  precludes the attribution of the net loss because
+one of the main reasons for the transfer of the shares was to reduce the amount
+of tax that would be payable on the dividend income derived from the shares. By
+not addressing s. 74.5(11) , Binnie J.’s reasons leave the inaccurate impression
+that because the GAAR did not apply in this case, nothing in the Act  prevented
+the attribution of the net loss to Mr. Lipson.  Analysis  The Relationship Between the GAAR and Section 74.5(11)  [104]           In
+my opinion, the Minister could not reassess Mr. Lipson’s use of the attribution
+rules on the basis of the GAAR.   The Minister can only resort to the GAAR when
+he has no other recourse. In Canada Trustco Mortgage Co. v. Canada, 2005
+SCC 54, [2005] 2 S.C.R. 601, McLachlin C.J. and Major J. stated at para. 21:  The GAAR was enacted as a provision of last resort in order to
+address abusive tax avoidance, it was not intended to introduce uncertainty in
+tax planning.  In my respectful view, the Minister did have other recourse in this
+case.  [105]           Section
+74.5(11)  provides:         Notwithstanding any other provision of this Act, sections
+74.1  to 74.4  do not apply to a transfer or loan of property where it may
+reasonably be concluded that one of the main reasons for the transfer or loan
+was to reduce the amount of tax that would, but for this subsection, be payable
+under this Part on the income and gains derived from the property or from
+property substituted therefor.  Section 74.5(11)  is a specific anti-avoidance rule that precludes
+the use of the attribution rules where one of the main reasons for the transfer
+of property was to reduce the amount of tax that would be payable on the income
+derived from the property.  As I will explain, that is what occurred here.  [106]           The
+fact that the GAAR  is a provision of last resort is indicated by the words of
+s. 245  itself.  Section 245(2) provides:         Where a transaction is an avoidance transaction, the tax
+consequences to a person shall be determined as is reasonable in the
+circumstances in order to deny a tax benefit that, but for this section,
+would result, directly or indirectly, from that transaction or from a
+series of transactions that includes that transaction.  For the Minister to invoke the GAAR, a tax benefit must result
+unless the GAAR were applied to prevent it.  [107]           The
+wording of s. 245(4)  is to the same effect:         Subsection (2) applies to a transaction only if it may
+reasonably be considered that the transaction (a)       would, if this Act  were read without reference
+to this section, result directly or indirectly in a misuse of the
+provisions of any one or more of  (i)     this Act ,  . .
+.  (b)       would result directly or indirectly in an
+abuse having regard to those provisions, other than this section, read as a whole.  [108]           Again,
+it is apparent that in order for there to be a finding of misuse and abuse in
+respect of a transaction, the Act  must be read without reference to the GAAR. 
+In other words, s. 245(4)  requires that all other relevant provisions of the
+Act  be read before the Minister may have recourse to the GAAR.   This would
+include not only the enabling provision that is alleged to be misused and
+abused, but also provisions that themselves would prevent the use of the
+enabling provision for the purpose objected to by the Minister.   If there is a
+specific anti-avoidance rule that precludes the use of an enabling rule to
+avoid or reduce tax, then the GAAR will not apply.  The Application of Section 74.5(11)  [109]           The
+issue here is whether s. 74.5(11)  applies to preclude the attribution back to
+Mr. Lipson of the net income or loss with respect to the shares transferred to
+Mrs. Lipson.  As I read s. 74.5(11) , it provides that there can be no
+attribution under s. 74.1(1) when one of the main reasons for the transfer of
+property (the transfer of the shares from Mr. Lipson to Mrs. Lipson) was to
+reduce the amount of tax that would, but for s. 74.5(11) , be payable on the
+income (dividends less interest) derived from the property (the shares).  [110]           It
+is uncontroversial that one of the main reasons for the transfer of shares to
+Mrs. Lipson was to use mortgage interest on a loan to reduce or eliminate the
+income from the dividends on the shares.  There were other reasons, but
+certainly it is reasonable to conclude that this was one of the main reasons.  [111]           In
+1995, the dividend income exceeded the interest expense and so there was net
+income.  But that net income was less than what it would have been had the
+transfer not taken place.  Without the transfer, the dividends in Mr. Lipson’s
+hands would not have been reduced by any interest expense.  In 1994 and 1996,
+the interest expense exceeded the gross dividend income and no tax was payable
+on the dividends.  There was a net loss.  Again, there would have been tax
+payable by Mr. Lipson on the dividends had the transfer not taken place,
+whereas with the transfer, no tax was payable on the dividend income.  [112]           By 
+using s. 74.1(1), Mr. Lipson was presumably able to apply the net loss on the
+dividends in 1994 and 1996 to offset his other income in those years.  While
+reducing tax on income earned from sources other than the transferred property
+would not be caught directly by s. 74.5(11) , offsetting other income cannot
+take place without the income on the dividends first having been reduced to
+zero.  That is because under s. 74.1(1) the amount attributed back to the
+transferor, Mr. Lipson, would be the net income or loss from the property
+transferred.  Therefore, the transfer had to have as one of its main purposes
+the reduction of tax on the income from the transferred property, namely the
+dividends on the shares transferred to Mrs. Lipson.  [113]           In
+the circumstances, s. 74.5(11)  precluded the application of s. 74.1(1).  As a
+result, if it had been invoked by the Minister as the basis for reassessing in
+respect of the use of s. 74.1(1) by Mr. Lipson, the tax benefit in his hands
+would have been precluded. By the same reasoning, there could be no misuse and
+abuse of s. 74.1(1) for purposes of the GAAR because its use would have been
+pre-empted by s. 74.5(11) .  [114]           The
+Minister was obliged to resort to s. 74.5(11)  in order to reassess Mr. Lipson
+in respect of his use of s. 74.1(1).  Section 245  did not apply and could not
+be relied upon by the Minister.  The Minister’s failure to invoke s. 74.5(11) 
+is fatal to his reassessment in respect of s. 74.1(1).  Responses to LeBel J. and Binnie J.  [115]           LeBel
+J. (at  para. 47 of his reasons) says that the GAAR was the appropriate remedy
+in this case because, in his view, the GAAR  “relates specifically to the
+impact of complex series of transactions”.  I cannot agree.  In my respectful
+view, my colleague can only reach this conclusion by ignoring the relevant
+specific anti-avoidance rule contained in the Act, s. 74.5(11) , which precluded
+Mr. Lipson’s use of s. 74.1(1) .  The fact that a transfer of property between
+spouses, to which s. 74.1(1)  applied, was part of a “complex series of
+transactions” does not preclude a determination that one of the main reasons
+for the transfer of property between the spouses was to reduce or eliminate tax
+on the income derived from the property.  The fact that the transfer occurred
+as part of a series does not permit the Minister to ignore the specific
+anti-avoidance rule that would preclude the attribution of net income or loss
+under s. 74.1(1)  to the transferor.   Nothing in s. 74.5(11)  says that it does
+not apply where the transfer of property between spouses is part of a series of
+transactions.  On the contrary, by its express terms, it does apply.  The
+Minister cannot preemptively rely on the GAAR to address the alleged abusive
+use of s. 74.1(1)  as if s. 74.5(11)  did not exist.  [116]           LeBel
+J. writes (at para. 45) that “the court should not refuse to apply it [the
+GAAR] on the ground that a more specific provision . . . might also apply to
+the transaction”. This passage indicates that both the GAAR and s. 74.5(11)  may
+be concurrently applicable. That cannot be correct. This Court was clear in Canada
+Trustco that the GAAR is a provision of last resort.   It can only be
+relied upon by the Minister to address abusive tax avoidance when a relevant
+specific anti-avoidance rule in the Act  does not apply (see also V. Krishna, The
+Fundamentals of Canadian Income Tax (9th ed. 2006), at p. 1018). The GAAR
+is a supplementary rule.  It is not a catch-all provision that the Minister can
+choose to deploy any or every time that he suspects a taxpayer of abusive tax
+avoidance.  [117]           At
+para. 47 of his reasons, LeBel J. says that “[t]he Minister could properly use
+the GAAR in respect of a series of transactions that had an impact on more than
+just one stream of income”. This passage implies that the tax benefit from the
+series of transactions included the possibility that Mr. Lipson might set the
+net losses attributed to him against his other sources of income (other than
+the dividend income from the shares) to reduce tax and that, because s.
+74.5(11)  does not preclude this tax benefit, it is not the appropriate
+provision for the Minister to have relied on.  However, in the context of this
+case, the tax benefit of setting the attributed net losses against Mr. Lipson’s
+other sources of income was precluded by s. 74.5(11) .  Section 74.5(11) 
+precludes the operation of s. 74.1(1) where, as here, one of the main reasons
+that Mr. Lipson transferred the shares to Mrs. Lipson was to reduce the amount
+of tax payable on the dividends from those same shares.   No attributed loss
+could be set off against Mr. Lipson’s other sources of income unless the
+dividend income from the shares was first reduced to zero.  On the facts of
+this case, the Minister did not have to resort to the GAAR to preclude Mr.
+Lipson from setting off the attributed net losses against his other sources of
+income because s. 74.5(11)  precluded this tax benefit.  [118]           Finally,
+LeBel J. asserts at paras. 43-46 of his reasons that s. 74.5(11)  was not the
+focus of this litigation.  Rather, this case was litigated on the basis of the
+GAAR.  Binnie J. makes the same argument at para. 61 of his reasons.  While
+this is true, s. 74.5(11)  was referred to in both parties’ factums and counsel
+for both parties were questioned about s. 74.5(11)  in oral argument. The fact
+that the parties did not rely on s. 74.5(11)  — either as the basis for
+reassessment or as the reason why the Minister’s claim should fail — does not
+change the fact that the section applies in law.  In my view, the parties
+cannot avoid the proper application of the Act by conceding or asserting that
+the relevant provision does not apply.  It is not open to this Court to assist
+the Minister by allowing him to ignore the applicable specific anti-avoidance
+rule and instead rely on the GAAR.  [119]           Binnie
+J. says that the Court should deal with “[t]he proper limits of the GAAR” and
+leave s. 74.5(11)  to another day (para. 61).  At para. 46 of his reasons, LeBel
+J. also says that the “interpretation and application” of s. 74.5(11)  should be
+considered in another case. The problem with this argument is that, as noted
+above, the GAAR is only intended to operate as a provision of last resort.
+Debating the proper application of the GAAR without taking into account the
+specific anti-avoidance rule that displaces it ignores the words of the GAAR
+itself.  In my respectful view, it is impossible to define “[t]he proper limits
+of the GAAR” while failing to recognize the limits imposed by the express terms
+of the provision itself.  Binnie J.’s reliance on an overly broad foundation to
+base his opinion distorts the actual site of legal conflict.  This leads to an
+unhelpful legal analysis because it ignores the applicable limits that the
+legislature has chosen to impose on the operation of the GAAR in favour of an
+analysis that is based on the assumption that the GAAR would be the appropriate
+anti-avoidance rule where the Minister is able to establish Mr. Lipson’s abuse
+and misuse of s. 74.1(1).  [120]           Binnie
+J. also says that I am “assum[ing] a factual basis for the application of s.
+74.5(11)” (para. 61).  He asserts that s. 74.5(11) was inapplicable in this
+case because counsel for the Minister was of the view that the purpose of the
+transfer of shares from Mr. Lipson to Mrs. Lipson “was not merely to reduce the
+tax payable on any future dividends. It was really to get the interest expense
+up [from Mrs. Lipson] to the appellant [Mr. Lipson]” (Transcript, at p. 41). 
+With respect, s. 74.5(11) applies so long as “one of the main reasons
+for the transfer” was to reduce tax payable on the dividend income from the
+transferred shares.  I do not disagree that one of the main reasons for the
+transfer of shares from Mr. Lipson to Mrs. Lipson was “to get the interest
+expense up to the appellant”. However to accomplish that objective, the
+interest expense deduction first had to be applied to reduce the dividend
+income.  This is because the operation of s. 74.1(1) only attributes the net
+income or losses from Mrs. Lipson (the transferee) to Mr. Lipson (the
+transferor).  Section 74.1(1) mandates that the only way to “get the interest
+expense up to the appellant” was by first reducing or eliminating the dividend
+income from the transferred shares contrary to s. 74.5(11).  Thus, s. 74.5(11)
+was engaged by operation of law, not by reason of an assumed factual
+basis.  Conclusion  [121]           I
+accept that the tax benefit that the Minister sought to prevent was obtained by
+the series of transactions involving ss. 20(1) (c) and 20(3)  as well as
+s. 74.1(1).  If the Minister wished to reassess in respect of the transactions,
+relying on the use of all three sections, then his recourse was to reassess in
+respect of the alleged misuse and abuse of ss. 20(1) (c) and 20(3)  by
+invoking the GAAR and s. 74.1(1) by invoking s. 74.5(11).  [122]           Had
+the Minister reassessed on the basis of s. 74.5(11), his remedy would simply
+have been to disallow Mr. Lipson’s use of the attribution rules and leave the
+dividend income and interest deduction in the hands of Mrs. Lipson.  The
+rollover of the shares from Mr. to Mrs. Lipson at their adjusted cost base
+would not have been  affected.  [123]           It
+may seem anomalous that the rollover would be allowed to stand while the
+attribution rules would not apply.  However, that is the way in which s.
+74.5(11) must be interpreted.  It does not prevent the operation of s. 73(1) 
+which enables a taxpayer to elect either to rollover the shares to his or her
+spouse or sell them to him or her at fair market value and pay whatever tax may
+be applicable on any capital gains on the shares.  Section 74.5(11) is the
+Minister’s remedy when the attribution  rules are being used to reduce tax on
+income from transferred property and it applies “[n]otwithstanding any other
+provision of this Act ”, including the GAAR.  It is the remedy that Parliament provided
+in the circumstances.  If it does not go far enough in some cases, it is up to
+the Minister to ask Parliament to change it.  [124]           Because
+there was no abuse of ss. 20(1) (c) and 20(3)  of the Act  and because the
+Minister could not invoke the GAAR to reassess in respect of Mr. Lipson’s use
+of s. 74.1 , I am of the opinion that the appeals should be allowed with one set
+of costs in this Court and the courts below.  APPENDIX  Income Tax Act, R.S.C. 1985, c. 1 (5th
+Supp .)         18. (1) In computing the income of
+a taxpayer from a business or property no deduction shall be made in respect of  (a)       an outlay or expense except to the extent that it
+was made or incurred by the taxpayer for the purpose of gaining or producing
+income from the business or property;  . . .  (h)       personal or living expenses of the taxpayer, other
+than travel expenses incurred by the taxpayer while away from home in the
+course of carrying on the taxpayer’s business;         20. (1) Notwithstanding paragraphs 18(1)(a), (b)
+and (h), in computing a taxpayer’s income for a taxation year from a
+business or property, there may be deducted such of the following amounts as
+are wholly applicable to that source or such part of the following amounts as
+may reasonably be regarded as applicable thereto:  . . .  (c)       an amount paid in the year or payable in respect of
+the year (depending on the method regularly followed by the taxpayer in
+computing the taxpayer’s income), pursuant to a legal obligation to pay
+interest on  (i)     borrowed money used for the purpose of earning income from a
+business or property (other than borrowed money used to acquire property the
+income from which would be exempt or to acquire a life insurance policy),  (ii)    an amount payable for property acquired for the purpose of
+gaining or producing income from the property or for the purpose of gaining or
+producing income from a business (other than property the income from which
+would be exempt or property that is an interest in a life insurance policy),  (iii)   an amount paid to the taxpayer under  (A)   an appropriation Act  and on terms and conditions approved by
+the Treasury Board for the purpose of advancing or sustaining the technological
+capability of Canadian manufacturing or other industry, or  (B)   the Northern Mineral Exploration Assistance Regulations made
+under an appropriation Act  that provides for payments in respect of the
+Northern Mineral Grants Program, or  (iv)   borrowed money used to acquire an interest in an annuity
+contract in respect of which section 12.2 applies (or would apply if the
+contract had an anniversary day in the year at a time when the taxpayer held
+the interest) except that, where annuity payments have begun under the contract
+in a preceding taxation year, the amount of interest paid or payable in the
+year shall not be deducted to the extent that it exceeds the amount included
+under section 12.2 in computing the taxpayer’s income for the year in respect
+of the taxpayer’s interest in the contract,  or a reasonable amount in respect thereof, whichever is the lesser;  . . .         (3) For greater certainty, it is hereby declared that where a
+taxpayer has used borrowed money  (a)       to repay money previously borrowed, or  (b)       to pay an amount payable for property described in
+subparagraph (1)(c)(ii) previously acquired,  subject to subsection 20.1(6), the borrowed money shall, for the
+purposes of paragraphs (1)(c), (e) and (e.1), subsections
+20.1(1) and (2), section 21 and subparagraph 95(2)(a)(ii) and for the
+purpose of paragraph 20(1) (k) of the Income Tax Act , Chapter 148
+of the Revised Statutes of Canada, 1952, be deemed to have been used for the
+purpose for which the money previously borrowed was used or was deemed by this
+subsection to have been used, or to acquire the property in respect of which
+the amount was payable, as the case may be.         73. (1) For the purposes of this Part, where at any
+time any particular capital property of an individual (other than a trust) has
+been transferred in circumstances to which subsection (1.01) applies and both
+the individual and the transferee are resident in Canada at that time, unless
+the individual elects in the individual’s return of income under this Part for
+the taxation year in which the property was transferred that the provisions of
+this subsection not apply, the particular property is deemed  (a)       to have been disposed of at that time by the
+individual for proceeds equal to,  (i)     where the particular property is depreciable property of a
+prescribed class, that proportion of the undepreciated capital cost to the
+individual immediately before that time of all property of that class that the
+fair market value immediately before that time of the particular property is of
+the fair market value immediately before that time of all of that property of
+that class, and  (ii)    in any other case, the adjusted cost base to the individual
+of the particular property immediately before that time; and  (b)       to have been acquired at that time by the
+transferee for an amount equal to those proceeds.         74.1 (1) Where an individual has transferred or lent
+property (otherwise than by an assignment of any portion of a retirement
+pension pursuant to section 65.1  of the Canada Pension Plan  or a
+comparable provision of a provincial pension plan as defined in section 3 of
+that Act  or of a prescribed provincial pension plan), either directly or
+indirectly, by means of a trust or by any other means whatever, to or for the
+benefit of a person who is the individual’s spouse or common-law partner or who
+has since become the individual’s spouse or common-law partner, any income or
+loss, as the case may be, of that person for a taxation year from the property
+or from property substituted therefor, that relates to the period in the year
+throughout which the individual is resident in Canada and that person is the
+individual’s spouse or common-law partner, shall be deemed to be income or a
+loss, as the case may be, of the individual for the year and not of that
+person.  . . .         (3)       For the purposes of subsections (1) and (2), where,
+at any time, an individual has lent or transferred property (in this subsection
+referred to as the “lent or transferred property”) either directly or
+indirectly, by means of a trust or by any other means whatever, to or for the
+benefit of a person, and the lent or transferred property or property
+substituted therefor is used  (a)       to repay, in whole or in part, borrowed money with
+which other property was acquired, or  (b)       to reduce an amount payable for other property,  there shall be included in computing the income from the lent or
+transferred property, or from property substituted therefor, that is so used,
+that proportion of the income or loss, as the case may be, derived after that
+time from the other property or from property substituted therefor that the
+fair market value at that time of the lent or transferred property, or property
+substituted therefor, that is so used is of the cost to that person of the
+other property at the time of its acquisition, but for greater certainty
+nothing in this subsection shall affect the application of subsections (1) and
+(2) to any income or loss derived from the other property or from property
+substituted therefor.         74.5 . . .         (11)     Notwithstanding any other provision of this Act,
+sections 74.1  to 74.4  do not apply to a transfer or loan of property where it
+may reasonably be concluded that one of the main reasons for the transfer or
+loan was to reduce the amount of tax that would, but for this subsection, be
+payable under this Part on the income and gains derived from the property or
+from property substituted therefor.         245. (1) In this section,  “tax benefit” means a reduction, avoidance or
+deferral of tax or other amount payable under this Act  or an increase in a
+refund of tax or other amount under this Act , and includes a reduction,
+avoidance or deferral of tax or other amount that would be payable under this
+Act  but for a tax treaty or an increase in a refund of tax or other amount
+under this Act  as a result of a tax treaty;  “tax consequences” to a person means the amount of
+income, taxable income, or taxable income earned in Canada of, tax or other
+amount payable by or refundable to the person under this Act , or any other
+amount that is relevant for the purposes of computing that amount;  “transaction” includes an arrangement or event.         (2)       Where a transaction is an avoidance transaction,
+the tax consequences to a person shall be determined as is reasonable in the
+circumstances in order to deny a tax benefit that, but for this section, would
+result, directly or indirectly, from that transaction or from a series of
+transactions that includes that transaction.         (3)       An avoidance transaction means any transaction  (a)        that, but for this section, would result, directly
+or indirectly, in a tax benefit, unless the transaction may reasonably be
+considered to have been undertaken or arranged primarily for bona fide purposes
+other than to obtain the tax benefit; or  (b)       that is part of a series of transactions, which
+series, but for this section, would result, directly or indirectly, in a tax
+benefit, unless the transaction may reasonably be considered to have been
+undertaken or arranged primarily for bona fide purposes other than to
+obtain the tax benefit.         (4)       Subsection (2) applies to a transaction only if it
+may reasonably be considered that the transaction  (a)       would, if this Act  were read without reference to
+this section, result directly or indirectly in a misuse of the provisions of
+any one or more of  (i)     this Act ,  (ii)    the Income Tax Regulations,  (iii)   the Income Tax Application Rules ,  (iv)   a tax treaty, or  (v)    any other enactment that is relevant in computing tax or any
+other amount payable by or refundable to a person under this Act  or in
+determining any amount that is relevant for the purposes of that computation;
+or  (b)       would result directly or indirectly in an abuse
+having regard to those provisions, other than this section, read as a whole.         (5)       Without restricting the generality of subsection
+(2), and notwithstanding any other enactment,  (a)       any deduction, exemption or exclusion in computing
+income, taxable income, taxable income earned in Canada or tax payable or any
+part thereof may be allowed or disallowed in whole or in part,  (b)       any such deduction, exemption or exclusion, any
+income, loss or other amount or part thereof may be allocated to any person,  (c)       the nature of any payment or other amount may be
+recharacterized, and  (d)       the tax effects that would otherwise result from
+the application of other provisions of this Act  may be ignored,  in determining the tax consequences to a person as is reasonable in
+the circumstances in order to deny a tax benefit that would, but for this
+section, result, directly or indirectly, from an avoidance transaction.         (6) Where with respect to a transaction  (a)       a notice of assessment, reassessment or additional
+assessment involving the application of subsection (2) with respect to the
+transaction has been sent to a person, or  (b)       a notice of determination pursuant to subsection
+152(1.11) has been sent to a person with respect to the transaction,  any person (other than a person referred to in paragraph (a)
+or (b)) shall be entitled, within 180 days after the day of mailing of
+the notice, to request in writing that the Minister make an assessment,
+reassessment or additional assessment applying subsection (2) or make a
+determination applying subsection 152(1.11) with respect to that transaction.         (7)       Notwithstanding any other provision of this Act ,
+the tax consequences to any person, following the application of this section,
+shall only be determined through a notice of assessment, reassessment,
+additional assessment or determination pursuant to subsection 152(1.11) 
+involving the application of this section.         (8)       On receipt of a request by a person under
+subsection (6), the Minister shall, with all due dispatch, consider the request
+and, notwithstanding subsection 152(4), assess, reassess or make an additional
+assessment or determination pursuant to subsection 152(1.11) with respect to
+that person, except that an assessment, reassessment, additional assessment or
+determination may be made under this subsection only to the extent that it may
+reasonably be regarded as relating to the transaction referred to in subsection
+(6).                     Appeals dismissed with costs, Binnie, Deschamps and Rothstein
+JJ. dissenting.                     Solicitors for the appellants:  McCarthy
+Tétrault, Vancouver.                     Solicitor for the respondent:  Attorney General
+of Canada, Ottawa.  * 
+The relevant provisions of the Income Tax Act  are reproduced in the
+Appendix.  

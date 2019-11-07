@@ -1,0 +1,318 @@
+Supreme Court of Canada James Richardson & Sons, Ltd. v. Minister of
+National Revenue et al., [1984] 1 S.C.R. 614 Date: 1984-06-21 James Richardson
+& Sons, Limited Appellant; and The Minister of
+National Revenue Respondent; and The Attorney
+General for Alberta, the Attorney General for Ontario and the Attorney General for New Brunswick Interveners. File Nos.: 17152, 17168 and 17169. 1983: October 11; 1984: June 21. Present: Laskin C.J.[1] and Beetz, Estey, Mclntyre, Chouinard,
+Lamer and Wilson JJ. ON APPEAL FROM THE FEDERAL COURT OF APPEAL Taxation—Income tax—Compliance check of
+futures traders—Section 231(3) demand made for identity of appellant’s clients
+and for monthly statements—Demand challenged by certiorari and declaratory
+proceedings—Whether or not demand validly made pursuant to s. 231(3)—If
+so, whether or not s. 231(3) ultra vires or in violation of the Canadian
+Charter of Rights and Freedoms  or Canadian Bill of Rights—Income Tax Act,
+1970-71-72 (Can.), c. 63, ss. 221(l)(d), 231(3), 233, as amended. The Minister of National Revenue in a check
+on futures traders’ compliance with the Income Tax Act demanded and
+received from the appellant confidential information about the trading
+activities of its customers in 1977 but was not given the means to identify
+individual accounts. Although the appellant had been told that other commodity
+brokers would also be approached to participate in the project, demands for
+information were made only on the appellant. On appellant’s refusal to identify
+its customers’ accounts, respondent served a formal demand under s. 231(3)
+of the Act. Later, similar demands were made with respect to 1978 and 1979. The
+Minister acknowledged that neither the broker nor any of its customers were the
+subject of investigation by the Department in respect of their tax liability.
+Appellant attacked the validity of these demands in certiorari and
+declaratory proceedings in the Federal Court. These actions, which were con- [Page 615] solidated at trial, were dismissed by the
+trial judge. Appeals to the Federal Court of Appeal were also dismissed. Held: The
+appeals should be allowed. The Minister cannot under s. 231(3) of
+the Act conduct a “fishing expedition” into the trading activities of the
+customers of one broker. A demand can only be made for information relevant to
+the tax liability of a person or persons under that section if a genuine
+and serious inquiry is being conducted into the tax liability of such person or
+persons. The section does not authorize a general survey of compliance by
+a class of taxpayers. This can be effected under ss. 221(1)(d) and 233
+but only if the Minister has obtained a regulation under s. 221(1)(d)
+requiring all traders to file returns of their futures activities. Given the statutory interpretation of
+s. 231(3), it was not necessary to consider the constitutional questions
+arising out of this case. Canadian Bank of Commerce v. Attorney
+General of Canada, [1962] S.C.R. 729, applied; Pretty
+v. Solly (1859), 53 E.R. 1032, referred to. APPEALS from a judgment of the Federal Court
+of Appeal, [1983] 1 F.C. 257, dismissing appeals from a judgment of Smith D.J.
+dismissing applications for certiorari and declaratory relief. Appeals
+allowed. William C. Kushneryk and Robert F.
+Peters, for the appellant. Wilfrid Lefebvre, Q.C., Brian Meronek and
+Brian Hay, for the respondent. Lorraine E. Weinrib, for the intervener the Attorney General for Ontario. William Anderson, for the intervener the
+Attorney General for New Brunswick. Nolan Steed, for the intervener the
+Attorney General for Alberta. The judgment of the Court was delivered by WILSON J.—The issue in this case is the scope of
+the Minister of National Revenue’s power to demand information under
+s. 231 of the Income [Page 616] Tax Act, 1970-71-72
+(Can.), c. 63, as amended. The
+parts of the section with which we are concerned read as follows: 231. … (3) The Minister may, for any purposes
+related to the administration or enforcement of this Act, by registered letter
+or by a demand served personally, require from any person (a) any information or additional
+information, including a return of income or a supplementary return, or (b) production, or production on
+oath, of any books, letters, accounts, invoices, statements (financial or
+otherwise) or other documents, within such reasonable time as may be
+stipulated therein. (4) Where the Minister has reasonable and
+probable grounds to believe that a violation of this Act or a regulation has
+been committed or is likely to be committed, he may, with the approval of a
+judge of a superior or county court, which approval the judge is hereby
+empowered to give on ex parte application, authorize in writing any
+officer of the Department of National Revenue, together with such members of
+the Royal Canadian Mounted Police or other peace officers as he calls on to
+assist him and such other persons as may be named therein, to enter and search,
+if necessary by force, any building, receptacle or place for documents, books,
+records, papers or things that may afford evidence as to the violation of any
+provision of this Act or a regulation and to seize and take away any such
+documents, books, records, papers or things and retain them until they are
+produced in any court proceedings. (5) An application to a judge under
+subsection (4) shall be supported by evidence on oath establishing the
+facts upon which the application is based. 1. The Facts The events leading up to the demand for
+information from the appellant are relatively complex but the most relevant
+ones can be stated fairly simply. The appellant is a commodities futures market
+broker in Winnipeg. In October
+1974 the Department of National Revenue decided that it was necessary to check
+on compliance with the Income Tax Act by traders in the commodities
+futures market. In June 1979, after the appellant [Page 617] had queried the Department’s legal authority to
+demand from it confidential information about its clients’ affairs but had
+nevertheless participated in a feasibility study, the Department requested the
+appellant’s magnetic tape file of their clients’ commodity monthly statements
+for 1977 so that it could process the information on a test basis. The
+Department guaranteed confidentiality of the data during the test period and
+undertook to advise the appellant of any subsequent intention to use the information
+in an income tax compliance project. It also agreed to treat other Canadian
+commodity brokers in a similar way by inspecting their files for use in any
+such project. The appellant supplied the information but with
+clients’ account numbers only and no means of identifying them. In December
+1979 the respondent requested the following information: (a) a complete listing of office locations
+identifying each by the office number; and (b) a complete listing of customers’ names and
+addresses, identifying each by account number. The appellant refused to provide this additional
+information and in May 1980 the respondent served on the appellant a formal
+requirement under s. 231(3)(a) of the Income Tax Act requiring
+that this information, together with details of all monthly transactions in
+1977 as used in the preparation of clients’ commodity statements, be delivered
+on magnetic tape to the Department of National Revenue. In October 1980 similar
+requirements were made for the calendar years 1978 and 1979. The validity of these requirements was attacked
+by the appellant in certiorari and declaration proceedings in the
+Federal Court. These actions, which were consolidated at trial, were dismissed
+by the trial judge and an appeal to the Federal Court of Appeal was also
+dismissed. [Page 618] 2. The Federal Court: Trial Division At trial [reported at [1983] 1 F.C. 3]
+Mr. Justice Smith held that the demand for information was made for a
+purpose related to the administration and enforcement of the Income Tax Act.
+The raising of money through income taxation was undoubtedly within
+s. 91(3)  of the Constitution Act, 1867  and “raising” included not
+only the imposition and levying of taxes but also the taking of whatever steps
+were required to ascertain who owed taxes and to collect those taxes. The
+Minister was seeking information to verify the accuracy of income tax returns
+and this was clearly related to the administration and enforcement of the Act. The learned trial judge found that the
+Minister’s demand for information in this case represented a serious inquiry
+into a specific tax liability within the meaning of this Court’s decision in Canadian
+Bank of Commerce v. Attorney General of Canada, [1962] S.C.R. 729. A
+specific person or persons need not be named; it was sufficient if they were so
+described as to be readily identifiable. All the customers or clients of the
+appellant who had trading transactions in the commodity securities market
+during the three years in question represented an appropriately identifiable
+group. The learned trial judge also dealt with
+submissions made by the appellant under ss. 1(a) and 2(e) of
+the Canadian Bill of Rights. He held that the Minister’s demand for
+information did not interfere with anyone’s right to the enjoyment of property
+under s. 1(a) or threaten anyone with deprivation of that
+right. Morevover, the exception for due process of law would negative any such
+claim. As far as s. 2(e) was concerned, he held that the
+present proceedings were designed to ensure a fair hearing for the appellant. A
+conflict undoubtedly existed between the right of commodities futures traders
+to privacy concerning their securities transactions and the needs of the
+Department of National Revenue to obtain the information necessary to ascertain
+and collect income tax. The rights of the individual must, however, yield to
+the [Page 619] efficient operation of government where, as
+here, the situation was sufficiently serious to warrant it. 3. The Federal Court of Appeal In the Federal Court of Appeal [reported at [1983]
+1 F.C. 257] the appellant submitted, relying on the Canadian Bank of
+Commerce case, that a requirement for information under s. 231(3) was
+not for a purpose related to the administration or enforcement of the Act
+unless the purpose was to obtain information relevant to the tax liability of
+some specific person or persons whose tax liability was currently under
+investigation. It argued that the requirements in the present case did not meet
+this test. A requirement for information concerning all the customers of the
+appellant engaged in commodity trading was not, it submitted, a requirement
+related to some specific person or persons within the meaning of the Canadian
+Bank of Commerce decision. Mr. Justice Le Dain, speaking for a
+unanimous Court, held that the judgment in the Canadian Bank of Commerce case
+presented no obstacle to the Minister in this case. The verification of
+compliance with the Income Tax Act by the commodity trading customers of
+the appellant was undoubtedly a purpose related to the administration and
+enforcement of the Act within the meaning of s. 231(3), and s. 231(3)
+was within the legislative authority of Parliament under s. 91(3) of the Consitution
+Act, 1867. Moreover, the Department was engaged in a genuine and serious
+inquiry into the tax liability of some specific person or persons.
+Mr. Justice Le Dain said, at p. 270: The judgment in Canadian Bank of
+Commerce was based on the agreed fact that the requirement in that case
+related to a genuine and serious inquiry into the tax liability of some
+specific person or persons, but I do not read the judgment as purporting to
+treat that as the only valid purpose under what is now subsection 231(3).
+In any event I am far from certain that the present case is essentially
+distinguishable from that on which the majority of the Supreme Court based
+their conclusion. In the majority opinion of Cartwright J. (as he then [Page 620] was) the words “some specific person or
+persons” are obviously understood as referring not to named person but merely to
+existing identifiable persons. A reference to all of the commodity trading
+customers of the appellant comes within this meaning of the words. Leave to appeal to this Court was granted and
+the following questions settled by order of the Chief Justice: 1. Is Section 231(3) of the Income Tax
+Act, S.C. 1970-71-72 C. 63 as amended, intra vires the Parliament of
+Canada under the provisions of Section 91(3)  of the Constitution Act, 1867 ? 2. Are the Demands made upon the Appellant,
+James Richardson & Sons, Limited under Section 231(3) of the Income Tax
+Act S.C. 1970-71-72 C. 63 as amended, void under the provisions of the Canadian
+Charter of Rights and Freedoms ? 3. Are the Demands made upon the Appellant,
+James Richardson & Sons, Limited under Section 231(3) of the Income Tax
+Act, S.C. 1970-71-72 C. 63 as amended, void under the provisions of the Canadian
+Bill of Rights? The appellant appeals on four grounds, namely: (1) the requirements are not authorized by
+s. 231(3) of the Act; (2) section 231(3) of the Act is ultra
+vires the Parliament of Canada; (3) the requirements are void under the
+provisions of the Canadian Charter of Rights and Freedoms ; and (4) the requirements are void under the
+provisions of the Canadian Bill of Rights. If the appellant succeeds on the first ground as
+a matter of statutory interpretation then it is not necessary to consider the
+constitutional issues raised in the other three grounds. The argument on the first ground proceeds as
+follows. The requirements made in this case were for “information returns
+respecting… [a] class of information”. They therefore fell within the ambit [Page 621] of ss. 221(1)(d) and 233 of the Act.
+These sections provide: 221. (1) The
+Governor in Council may make regulations … (d) requiring any class of persons
+to make information returns respecting any class of information required in
+connection with assessments under this Act, … 233. Whether
+or not he has filed an information return as required by a regulation made
+under paragraph 221(1)(d), every person shall, on demand from the
+Minister, served personally or by registered mail, file with the Minister,
+within such reasonable time as may be stipulated in the demand, such prescribed
+information return as is designated therein. Because s. 221 (1)(d) when read in
+conjunction with s. 233 confers an authority on the Minister to demand
+only such information as is prescribed by regulation, it either constitutes a
+particular rule within the sense contemplated in Pretty v. Solly (1859),
+53 E.R. 1032, which rule is to be set up against the more general and less
+restrictive rule of s. 231(3), or else it constitutes an exception to
+s. 231(3). Romilly M.R. states the applicable principle in Pretty v.
+Solly, supra, at p. 1034, as follows: The rule is, that wherever there is a particular
+enactment and a general enactment in the same statute, and the latter, taken in
+its most comprehensive sense, would overrule the former, the particular
+enactment must be operative, and the general enactment must be taken to affect
+only the other parts of the statute to which it may properly apply. Applying that principle in this case the
+appellant submits that s. 231(3) only authorizes demands for information
+not contemplated under ss. 221(1)(d) and 233. If the demand is one which
+falls within ss. 221(1)(d) and 233 and requires the authority of a
+regulation, then it is excepted from the scope of s. 231(3). The appellant
+further argues that there is a good policy reason for the exception in that
+s. 231(3) is designed to confer wide powers on the Minister in order to
+facilitate investigations of [Page 622] specific taxpayers. These considerations do not
+apply to demands made to classes of persons for specific kinds of information
+required in connection with assessments generally. The respondent counters these arguments by
+saying that what is required from the appellant is not the “information
+returns” mentioned in s. 221(1)(d). Nor have the demands for
+information in this case been made of a “class of persons” as s. 221(1)(d)
+requires. The respondent says that s. 22l(1)(d) contemplates
+the filing of information returns by a general class of persons on a regular
+basis whereas s. 231(3) is “part of the Department’s investigating tools
+to obtain information”. Such tools are vital, the respondent submits, to a
+self-assessment system. Nothing, he says, in either s. 221(1)(d)
+or s. 233 prevents the respondent from requiring under s. 231(3)
+information from a specific commodities broker regarding the tradings of a
+specific group of traders in commodities futures in respect of a specified
+period of time. The respondent submits that the case is squarely covered by
+this Court’s decision in the Canadian Bank of Commerce case, supra. The language of s. 231(3) of the Income
+Tax Act is unquestionably very broad and on its face would cover any demand
+for information made to anyone having knowledge of someone else’s affairs
+relevant to that other person’s tax liability. It would, in other words, if
+construed broadly, authorize an exploratory sortie into any taxpayer’s affairs
+and require anyone having anything to contribute to the exploration to
+participate. It would not be necessary for the Minister to suspect
+non-compliance with the Act, let alone to have reasonable and probable grounds
+to believe that the Act was being violated as required in s. 231(4).
+Provided the information sought had a bearing (or perhaps even could
+conceivably have a bearing) on a taxpayer’s tax liability it could be called
+for under the subsection. [Page 623] The Canadian Bank of Commerce case, however,
+makes it clear that the subsection is not to be construed that broadly. It
+establishes through the majority judgment written by Mr. Justice
+Cartwright (as he then was) that: (a) the test of whether the Minister is acting
+for a purpose specified in the Act is an objective one and has to be decided on
+the proper interpretation of the subsection and its application to the
+circumstances disclosed; (b) the obtaining of information relevant to the
+tax liability of some specific person or persons whose liability to tax is
+under investigation is a purpose related to the administration or enforcement
+of the Act; (c) it is not necessary that the person from
+whom the information is sought be one whose liability to tax is under
+investigation; (d) the fact that the giving of the information
+may disclose private transactions involving persons who are not under
+investigation and may not be liable to tax does not invalidate the requirement. The respondent acknowledges that neither the
+appellant nor any of its customers is a person whose tax liability is under
+investigation within the meaning of the Canadian Bank of Commerce case.
+It submits however, that that is only one of the purposes contemplated by
+s. 231(3). The purpose in this case is to verify the accuracy of income
+tax returns made by the appellant’s customers who were traders in commodities
+futures. This also, it submits, is a purpose related to the administration or
+enforcement of the Act. I have some difficulty with the respondent’s
+submission in relation to the Canadian Bank of Commerce case. If,
+indeed, the ratio of that case is that a demand for information which meets the
+test of being related to a genuine and serious inquiry into the tax liability
+of some specific person or persons is a demand made for purposes [Page 624] of the administration or enforcement of the Act,
+how can it be said, consistent with that decision, that a demand which does not
+meet such a test is also for a purpose related to the administration or
+enforcement of the Act? If this is so, it was pointless for the Court in the Canadian
+Bank of Commerce case to make a genuine and serious inquiry into the tax
+liability of some specific person or persons a prerequisite of the validity of
+the requirement in that case. Yet Mr. Justice Cartwright makes it clear
+that his judgment is premised on that prerequisite being there. After referring
+to certain paragraphs in the stated case he states at p. 738, that it is
+common ground “that the requirement addressed to the appellant relates to a
+genuine and serious inquiry into the tax liabilitity of some specific person or
+persons”. He then makes the point that the fact that the answer to the
+requirement may disclose private transactions involving a number of persons who
+are not under investigation and may not be liable to tax will not invalidate
+the requirement. He reiterates the purpose of the requirement at p. 739: The purpose of the requirement, then, is to
+obtain information relevant to the tax liability of some specific person or
+persons whose liability to tax is under investigation; this is a purpose
+related to the administration or enforcement of the Act. Accordingly, while I agree with Le Dain J. that
+the Court in the Canadian Bank of Commerce case did not say that the
+purpose in that case, namely the obtaining of information relevant to someone’s
+tax liability, was the only purpose for which a requirement could validly be
+made under s. 231(3), it did nevertheless insist on a prerequisite to that
+particular purpose, namely that the someone’s tax liability be the subject of
+investigation, and it is that prerequisite which the appellant submits is
+missing in this case. The respondent acknowledges that neither the
+appellant nor its customers are under investigation. It submits, however, that
+the requirement is aimed [Page 625] at a specific class of taxpayers, namely clients
+of the appellant who trade on the commodities futures market. That may be so,
+but it does not in my view bring the Minister within the purview of
+s. 231(3). It seems to me that what the Minister is trying
+to do here, namely check generally on compliance with the statute by traders in
+the commodities futures market, cannot be done by conducting a “fishing
+expedition” into the affairs of one broker’s customers under s. 231(3) of
+the Act. If the Minister seriously thinks that traders in the commodities
+futures market generally are not reporting their transactions properly for
+income tax purposes, then he has s. 221(1)(d) available to
+him. He can obtain a regulation under that subsection requiring all such
+traders to file returns of their transactions in the commodities futures
+market. Having obtained such a regulation, he is then in a position to demand
+such returns at large without regard to whether or not any specific person or
+persons are currently under investigation. The very presence of those
+provisions in the Act serves, in my view, to support the approach taken in the Canadian
+Bank of Commerce case that s. 231(3) is only available to the Minister
+to obtain information relevant to the tax liability of some specific person or
+persons if the tax liability of such person or persons is the subject of a
+genuine and serious inquiry. It seems to me that if the Minister wishes to
+conduct the kind of survey he clearly had in mind in this case, it is right and
+proper that he obtain a regulation authorizing it. The business implications
+for the appellant are serious. It agreed to cooperate on the basis that the
+Minister was conducting a test and that other commodity brokers would also be
+participating. If its customers were less than happy with their broker’s role
+as conduit to the tax department, its competitors would be in the same
+position. It now finds that this is not the case. If the tax liability of its
+customers or one or more of them were the subject of a genuine inquiry, then
+the Minister would clearly be entitled under s. 231(3) to single out the
+appellant even although innocent taxpayers’ trading activities [Page 626] were disclosed in the process. But it cannot, in
+my opinion, be singled out otherwise. It cannot be compelled under
+s. 231(3) to provide the random sample for a check on general compliance
+by the entire class. This is the purpose of ss. 221(1)(d) and 233. Having found that the requirements are invalid
+under s. 231 (3) of the Act as a matter of statutory interpretation, it is
+unnecessary for me to consider whether or not they may also be invalid on the
+constitutional grounds alleged. I would allow the appeals with costs both here
+and in the courts below and declare the requirements directed to the appellant
+on May 8, 1980 and October 8, 1980 to be of no force and effect. Appeals allowed with costs. Solicitors for the appellant: Pitblado
+& Hoskin, Winnipeg. Solicitor for the respondent: R. Tassé,
+Ottawa. Solicitor for the intervener the Attorney
+General for Ontario: Archie G. Campbell, Toronto. Solicitor for the intervener the Attorney
+General for New Brunswick: Gordon F. Gregory, Fredericton. Solicitor for the intervener the Attorney
+General for Alberta: Ross W. Paisley, Edmonton.  [1] The Chief Justice took no part in the judgment.  

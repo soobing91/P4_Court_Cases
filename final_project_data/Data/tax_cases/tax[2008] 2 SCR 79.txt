@@ -1,0 +1,799 @@
+                                                   SUPREME
+COURT OF CANADA   Citation: Canada v. McLarty, [2008] 2
+  S.C.R. 79, 2008 SCC 26  Date:  20080522 Docket:  31516  Between: Her Majesty The
+Queen and Allan McLarty    Coram: McLachlin C.J. and Bastarache, Binnie, LeBel,
+Deschamps, Fish, Abella, Charron and Rothstein JJ.   Reasons for
+  Judgment: (paras. 1 to 76)  Joint Reasons Dissenting in
+  Part: (paras. 77 to 92)   Rothstein J. (McLachlin C.J. and Binnie, LeBel, Deschamps,
+  Fish and Charron JJ. concurring)  Bastarache and Abella JJ.    ______________________________ Canada v.
+McLarty, [2008] 2 S.C.R. 79, 2008 SCC 26   v.   Indexed
+as:  Canada v. McLarty  Neutral
+citation:  2008 SCC 26.  File
+No.:  31516.  2008:  January 28; 2008:  May 22.  Present:  McLachlin C.J. and Bastarache, Binnie,
+LeBel, Deschamps, Fish, Abella, Charron and Rothstein JJ.  on appeal from the federal court of appeal  Taxation — Income tax — Computation of income —
+Deductions — Canadian exploration expenses — Absolute or contingent liability —
+Limited recourse debt — Arm’s length transaction — Taxpayer purchasing interest
+in proprietary seismic data as participant in oil and gas joint venture —
+Interest acquired for $100,000, satisfied by cash of $15,000 and promissory
+note of $85,000, payable at future date — Taxpayer deducting $81,655 from
+income as Canadian exploration expense in 1992 and additional $14,854 in 1994 —
+Minister reassessing deductions on basis that seismic data had fair market
+value of $32,182, not $100,000 — Whether taxpayer’s liability under promissory
+note absolute or contingent — Whether taxpayer’s purchase transaction was at
+arm’s length — Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .),
+ss. 66.1(6)  “Canadian exploration expense” (a), 69(1)(a), 251(1).  On December 31, 1992, M purchased from C, an oil
+and gas exploration and development corporation, an interest in proprietary
+seismic data, as a participant in an oil and gas joint venture.  M acquired a
+1.57% interest in the data for the price of $100,000, satisfied by cash of
+$15,000 and a promissory note of $85,000 payable with interest to C on
+December 31, 1999.  The principal and interest was to be paid from 60% of
+the cash proceeds received from any future sales or licensing of the seismic
+data and from 20% of the production cash flow generated from petroleum rights
+from the drilling programs.  The note also provided that, should any principal
+or interest remain unpaid at the maturity of the note, a trustee was to be
+appointed to sell the seismic data with the proceeds of sale being allocated
+60% in reduction of amounts owing under the note and 40% to M.  On
+December 31, 2001, M signed an acknowledgment whereby C agreed to extend
+the due date of the promissory note to December 31, 2002.  On filing his
+income tax return for 1992, M treated his purchase of seismic data as a
+Canadian exploration expense and added $100,000 to his cumulative Canadian
+exploration expense pool.  In calculating his income, he deducted $81,655 as a
+Canadian exploration expense in 1992, and an additional $14,854 in 1994,
+reducing his pool accordingly.  The Minister reassessed M on the basis that the
+seismic data had a fair market value of $32,182, not $100,000.  M challenged
+the reassessment.  The Tax Court found that M was entitled to a $100,000
+deduction.  The Federal Court of Appeal set aside the decision, concluding that
+M was not dealing with C at arm’s length, and remitted the matter to the Tax
+Court for a determination of whether the fair market value of the seismic data
+exceeded $32,182.    Per McLachlin C.J.
+and Binnie, LeBel, Deschamps, Fish, Charron and Rothstein JJ.:  Under
+s. 66.1(6) of the Income Tax Act , a taxpayer may take a deduction
+where he has incurred an expense and, generally, a taxpayer incurs an expense
+when he has a legal obligation to pay a sum of money.  In this case, M is
+entitled to a deduction of $100,000 as a Canadian exploration expense under
+s. 66.1(6)  because he has incurred an expense.  The test for a contingent
+liability defines a contingency as an event which may or may not occur, and a
+contingent liability as a liability which depends for its existence upon an
+event which may or may not happen.  The test is simply whether a legal
+obligation comes into existence at a point in time or whether it will not come
+into existence until the occurrence of an event which may never occur.  Here,
+on December 31, 1992, M agreed to pay $85,000 together with interest at
+8%.  The obligation to repay the principal and the interest under the note came
+into existence at that time.  There was no certainty that there would be future
+sales or licensing of the seismic data, nor was there certainty that there
+would be production cash flow from petroleum rights from drilling programs. 
+Were these the only conditions upon which the note would be repaid, the
+liability would be contingent.  However, the note provided that should any
+amount be outstanding at maturity, C would have recourse to the security, that
+is, the data acquired by M.  Events are not uncertain at maturity.  The terms
+of the promissory note demonstrate that M’s liability was absolute, not
+contingent.  The fact that the value of the collateral security at maturity may
+not be sufficient for the creditor to make full recovery does not make the
+liability contingent.  Nor does the fact that the amount that will be paid at
+the end of the day is uncertain.  The present case involves limited recourse
+debt and a creditor’s limited recourse on default of a debt cannot make an
+otherwise absolute liability contingent, nor can it turn an otherwise
+contingent obligation into one that is absolute.  In other words, the extent of
+recourse has no bearing on the question of whether a liability is absolute or
+contingent.  The Minister’s arguments against absolute liability do identify
+uncertainties, but they are not uncertainties based on whether a future event
+will or will not occur and, therefore, they do not meet the test for contingent
+liability.  There was no basis to interfere with the trial judge’s
+findings that M’s dealings with C were at arm’s length.  The parties in this
+case were not related and it is a question of fact whether they were dealing at
+arm’s length.  With respect to the purchase of the seismic data, the
+appropriate relationship to assess was that between C and M.  While the initial
+focus is on the transaction between C as vendor and C as purchasing agent for
+the joint venture participants, all the relevant circumstances must be
+considered to determine if M was dealing with the vendor at arm’s length. 
+Here, the trial judge applied the relevant indicia for identifying dealings not
+at arm’s length and found that C and its principal did not influence M’s
+decision to invest, there was no evidence that C and M acted in concert without
+separate interests, and no party had the power to impose its will on the
+other.  The trial judge also placed significance on the limitations imposed on
+the purchase transaction by the Offering Memorandum, which limited the purchase
+price to not higher than the lowest valuation.  It was appropriate for the
+trial judge to have considered the entirety of the transactions by which M
+bound himself to purchase his interest in the seismic data and place
+limitations on C as his agent with respect to the purchase price of the data. 
+It was for the trial judge to draw inferences from these facts.  In the absence
+of palpable and overriding error, the Federal Court of Appeal was in error in
+interfering with the conclusion of the trial judge.  [45] [54] [61] [63] [68]
+[70] [73] [75]   Cases Cited  By Rothstein J.  Distinguished:  Global
+Communications Ltd. v. The Queen, 99 D.T.C. 5377; referred
+to:  Wawang Forest Products Ltd. v. The Queen, 2001 D.T.C.
+5212, 2001 FCA 80; Winter v. Inland Revenue Commissioners, [1963] A.C.
+235; Mandel v. The Queen, [1979] 1 F.C. 560, aff’d [1980] 1 S.C.R. 318; Hill
+v. The Queen, 2002 D.T.C. 1749; Swiss Bank Corp. v. M.N.R.,
+[1974] S.C.R. 1144; Peter Cundill & Associates Ltd. v. Canada,
+[1991] 1 C.T.C. 197, aff’d [1991] 2 C.T.C. 221.  By Bastarache and Abella JJ. (dissenting on the appeal)  Wawang Forest Products Ltd. v. The Queen, 2001 D.T.C. 5212, 2001 FCA 80; J. L. Guay Ltée v. M.N.R.,
+75 D.T.C. 5094, aff’g [1973] C.T.C. 506, aff’g [1971] C.F. 237; Winter v.
+Inland Revenue Commissioners, [1963] A.C. 235; Mandel v. The Queen,
+[1980] 1 S.C.R. 318, aff’g [1979] 1 F.C. 560, aff’g [1977] 1 F.C. 673.  Statutes and Regulations Cited  Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .), ss. 66.1(6) 
+“Canadian exploration expense” (a), 69(1)(a), 251(1).  Authors Cited   Hogg, Peter W., Joanne E.
+Magee and Jinyan Li.  Principles of Canadian Income Tax Law, 6th ed. 
+Toronto:  Thomson/Carswell, 2007.     The judgment of McLachlin C.J. and Binnie, LeBel,
+Deschamps, Fish, Charron and Rothstein JJ. was delivered by  Rothstein J. —  I.  Introduction  [1]    
+The issue in this appeal is whether a liability is absolute or
+contingent.  In the circumstances of this appeal, if it was absolute, it could
+be deducted as an expense for income tax purposes.  If it was contingent, it
+could not.  [2]    
+The issue in the cross-appeal is whether, in acquiring an asset, the
+purchaser was dealing with the vendor at arm’s length.  If he was, the purchase
+price of the asset could be deducted as an expense for income tax purposes.  If
+he was not, the Minister of National Revenue was entitled to reassess on the
+basis of the fair market value of the asset.  In that case, it would only be
+the fair market value that could be deducted as an expense for income tax
+purposes.  [3]    
+In my opinion, the appeal should be dismissed and the cross-appeal
+allowed.  II.  Facts  [4]    
+On December 31, 1992, the respondent, Allan McLarty, purchased from
+Compton Resource Corporation (“Compton” or  “CRC”) an interest in proprietary
+seismic data as a participant in an oil and gas joint venture, the CRC
+1992/1993 Oil and Gas Investment Fund.  [5]    
+McLarty acquired a 1.57% interest in the data for the price of $100,000,
+satisfied by cash of $15,000 and a promissory note of $85,000 payable with
+interest to Compton on December 31, 1999.  [6]    
+On December 31, 2001, McLarty signed an acknowledgment whereby Compton
+agreed to extend the due date of the promissory note to December 31, 2002.  [7]    
+As of the end of 2001, the balance owing on the promissory note was
+$93,242.  [8]    
+On filing his income tax return for 1992, McLarty treated his purchase
+of seismic data as Canadian exploration expense (“CEE”) and added $100,000 to
+his cumulative Canadian exploration expense pool.  In calculating his income,
+he deducted $81,655 as CEE in 1992, and an additional $14,854 in 1994, reducing
+his pool accordingly.  The Minister reassessed McLarty on the basis that the
+seismic data had a fair market value of $32,182, not $100,000.  [9]    
+The issues at trial were:  1.    Whether McLarty’s purchase of the seismic data
+was for the purpose of exploration for petroleum or natural gas as required by
+s. 66.1(6)  of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .).  2.    Whether McLarty’s liability under the
+promissory note was absolute or contingent.  3.    Whether, in purchasing the seismic data,
+McLarty was dealing with the vendor, Compton, at arm’s length.  4.    If the dealing was not at arm’s length, was
+the fair market value of the seismic data in excess of $32,182?  5.    Whether a deduction in excess of $32,182 was
+reasonable.  The trial judge
+found in favour of McLarty on all issues entitling him to a deduction of
+$100,000 ([2005] 1 C.T.C. 2875, 2005 TCC 55).  [10] Except
+for the issue of whether a deduction in excess of $32,182 was reasonable, which
+was not appealed, the Federal Court of Appeal dealt with the remaining four
+issues ([2006] 4 C.T.C. 16, 2006 FCA 152).  It found in favour of McLarty on
+the issue of the business purpose of the purchase and on the issue of the
+nature of the liability.  However, it found that McLarty was not dealing with
+Compton at arm’s length.  It therefore allowed the appeal and remitted the
+matter to the Tax Court for a determination of whether the fair market value of
+the seismic data exceeded $32,182.  [11] Before
+this Court, the only issues are whether McLarty’s liability under the
+promissory note was absolute or contingent and whether McLarty was dealing with
+Compton at arm’s length.  I deal first with the absolute/contingent liability
+issue.  III.  Provisions
+Under Which McLarty Claimed a Deduction  [12] Section
+66.1(6)  of the Income Tax Act  defines a Canadian exploration expense. 
+The definition provides in relevant part:  “Canadian exploration expense” of a taxpayer means any expense
+incurred . . . that is  (a)
+any expense including a geological, geophysical or geochemical expense incurred
+by the taxpayer . . . for the purpose of determining the existence, location,
+extent or quality of an accumulation of petroleum or natural gas . . . in
+Canada,  [13] An
+expense that qualifies as CEE is included in a taxpayer’s “cumulative Canadian
+exploration expense” pool that can be deducted in full in the year the expense
+was incurred or carried forward for deduction when needed.  Unlike many
+business expenses under the Income Tax Act , CEE is not tied to the
+source of the income in relation to which the expense is incurred, but may be
+deducted from any income of the taxpayer.  IV.  Analysis A.  Was the
+Appellant’s Liability Absolute or Contingent?  1.  Definition of a Contingent Liability  [14] As
+explained by Sharlow J.A. in Wawang Forest Products Ltd. v. The Queen,
+2001 D.T.C. 5212, 2001 FCA 80, at para. 9, generally a taxpayer incurs an
+expense when he has a legal obligation to pay a sum of money.  In the present
+case, in addition to his cash payment of $15,000, McLarty signed a promissory
+note for $85,000 on December 31, 1992 and deducted $81,655 in 1992 and a
+further $14,854 in 1994.  He could only deduct amounts in excess of his cash
+payment if the note for $85,000 constituted an expense incurred under s.
+66.1(6) .  [15] The
+Minister says the note for $85,000 was a contingent liability and was therefore
+not an expense incurred in 1992.  McLarty says the obligation he incurred on
+signing the note was absolute and therefore was an expense incurred under s.
+66.1(6)  in 1992.  [16] It is
+agreed that the expense will have been incurred if the liability is absolute
+and not if it is contingent.  [17] The
+well-accepted test for a contingent liability was described by Lord Guest in Winter
+v. Inland Revenue Commissioners, [1963] A.C. 235 (H.L.), at p. 262:  I should define
+a contingency as an event which may or may not occur and a contingent liability
+as a liability which depends for its existence upon an event which may or may
+not happen.  The focus is
+therefore on two particular types of uncertainty: (1) whether an event may or
+may not occur; and (2) whether a liability depends for its existence upon
+whether that event may or may not happen.  [18] What
+constitutes a contingent liability was further clarified by Sharlow J.A. in Wawang,
+at para. 15.  By themselves, three uncertainties will not determine whether a
+liability is contingent.  I paraphrase her reasons as follows:  a.    Uncertainty as to whether the payment will be
+made.  For example, a liability may be incurred when the taxpayer is in
+financial difficulty and there is a significant risk of non-payment.  That does
+not mean the obligation was never incurred;  b.    Uncertainty as to the amount payable.  There
+is always uncertainty as to the amount that may be payable.  There is never
+certainty that the borrower will be able to pay the amount owing when the note
+comes due.  That type of uncertainty does not make a liability contingent;  c.    Uncertainty as to the time by which payment
+shall be made.  An obligation is not contingent because payment may be
+postponed if certain events occur.  The test is
+simply whether a legal obligation comes into existence at a point in time or
+whether it will not come into existence until the occurrence of an event which
+may never occur.  2.  Is the Liability in This Case Absolute or Contingent?  [19] To
+determine the answer to this question, it is necessary to have regard to the
+terms of the promissory note signed by McLarty on December 31, 1992.  [20] The
+promissory note signed by McLarty was payable to Compton Resource Corporation. 
+It reads as follows:  The undersigned, FOR VALUE RECEIVED, hereby promises to pay to COMPTON
+RESOURCE CORPORATION (the “Noteholder”) on the 31st day of December, 1999, the
+sum of eighty-five thousand ($85,000) in lawful money of Canada together with
+any accrued and unpaid interest on any unpaid portion of the said principal
+sum, which interest shall accrue from and after December 31, 1992, at the rate
+of eight percent (8%) per annum calculated annually and not in advance.  The terms of repayment of this promissory note to the Noteholder shall
+be limited to those terms set out herein and no other action shall lie against
+the undersigned in respect of any covenant for payment.  The indebtedness of the undersigned shall be reduced only in
+accordance with the provisions set forth in Schedule 1 attached hereto, which
+schedule is incorporated into and forms part of this promissory note.  This promissory note shall be non-negotiable and non-assignable by the
+Noteholder without the prior written consent of the undersigned and the
+assignee first agreeing in writing with the undersigned to be bound by the
+terms hereof.  The Noteholder shall have no right of recourse against any legal
+person other than the undersigned in respect of the covenants contained herein
+and shall further have no greater rights hereunder than as are conferred
+hereunder and in Schedule 1 attached hereto.  DATED this
+30th day of December, 1992.  [21] The
+terms of repayment of principal and interest were set out in Schedule 1 to the
+promissory note, the relevant portions of which provide:  2.         The
+undersigned hereby assigns to the Noteholder, in reduction of the undersigned’s
+indebtedness under this promissory note, sixty (60%) percent of the cash
+proceeds received from any future sales or licensing net of commission of the
+Technical Assets (such 60% hereinafter referred to as the “Seismic Proceeds”).  3.         In
+addition to the provisions of Section 2, the undersigned hereby assigns to the
+Noteholder, in reduction of the undersigned’s indebtedness under this
+promissory note, twenty (20%) percent of the Production Cash Flow generated by
+the undersigned’s Participating Interest in Petroleum Rights acquired by the
+Joint Venture pursuant to the Drilling Program (such 20% hereinafter referred
+to as the “Drilling Proceeds”).  4.         The
+Seismic Proceeds and the Drilling Proceeds assigned pursuant to the provisions
+of Sections 2 and 3 hereof shall be used by the Noteholder to pay down the
+interest accrued under this promissory note on a monthly basis and when such
+amounts assigned exceed such interest accrued thereof, the excess shall be
+applied to the principal amount outstanding under this promissory note.  The
+provisions of Sections 2 and 3 and the rights of the Noteholder under such
+provisions shall, notwithstanding any other provisions of this agreement,
+wholly terminate on the earlier of the date upon which this promissory note is
+retired or the indebtedness hereunder is otherwise extinguished.  5.         The
+undersigned hereby grants a security interest in the Technical Assets to secure
+the undersigned’s liability to the Noteholder under this promissory note.  6.         To
+the extent there is interest outstanding on this promissory note, the
+Noteholder’s remuneration under the Joint Venture Agreement will be credited
+against this interest obligation on a monthly basis.  7.         If
+the indebtedness created hereby either with respect to principal or interest
+remains in whole or in part unpaid as of December 31, 1999, the Noteholder will
+appoint an independent trustee to sell for cash only:  a.  the Technical Assets; and  b.  an undivided 20% of the undersigned’s Participating Interest in
+Petroleum Rights acquired by the Joint Venture pursuant to the Drilling
+Program. The proceeds
+of the sale will be allocated as follows:  a.  Technical Assets:  i.  60% (net
+of commissions, if any) to the Noteholder as a reduction of amounts owing by
+the undersigned under this promissory note; and  ii.  40% (net
+of commissions, if any) to the undersigned;  b.  an undivided 20% of the undersigned’s Participating Interest in
+Petroleum Rights acquired by the Joint Venture pursuant to the Drilling
+Program:  100% to the
+Noteholder as a reduction of amounts owing by the undersigned under this
+promissory note, allocated firstly as to interest and the remainder as to
+principal.  Any balance
+owing by the undersigned on this note after the allocation of the proceeds of
+the sale as described above will be forgiven by the Noteholder and the
+undersigned will have no further liability under this promissory note.  [22] On its
+face, the note is for $85,000 plus interest at 8% per annum and it is due on
+December 31, 1999.  Without more, the promissory note constitutes an absolute
+liability.  However, the note is subject to other terms.  [23] Section
+2 of Schedule 1 to the note provides that 60% of the cash proceeds received
+from any future sales or licensing of technical assets is assigned to Compton. 
+Section 3 provides that 20% of the production cash flow generated from
+petroleum rights from drilling programs is assigned to Compton.  [24] There
+is no certainty that there will be future sales or licensing of technical
+assets, nor is there certainty that there will be drilling programs or that
+there will be production cash flow from petroleum rights from drilling
+programs.  Were these the only conditions upon which the note would be repaid,
+the liability would be contingent, because repayment was predicated on events
+which may or may not occur (see Mandel v. The Queen, [1979] 1 F.C. 560
+(C.A.), aff’d [1980] 1 S.C.R. 318).  [25] However,
+events are not uncertain at maturity.  Section 7 provides that, should any
+principal or interest remain unpaid at the maturity of the note, a trustee is
+to be appointed to sell the seismic data with the proceeds of sale being
+allocated 60% in reduction of amounts owing under the note and 40% to McLarty.  [26] The
+Minister relies on the decision of the Federal Court of Appeal in Global
+Communications Ltd. v. The Queen, 99 D.T.C. 5377, that in circumstances
+similar to the ones in this case, the liability was found to be contingent. 
+However, as the Court of Appeal in this case pointed out, it does not appear
+that in Global the court took account of the fact that on maturity of
+the note there was recourse to the asset pledged as security for repayment. 
+With respect, the decision in Global does not take account of all the
+terms of the note in that case and is not authoritative in circumstances such
+as in the case now before this Court.  [27] On
+December 31, 1992, McLarty agreed to pay $85,000 together with interest at 8%. 
+The obligation to repay the principal and the interest under the note came into
+existence at that time. The note provided that, should any amount be
+outstanding at maturity, Compton would have recourse to the security, that is,
+the data acquired by McLarty.  I agree with the Court of Appeal that the terms
+of the note demonstrate that McLarty’s liability was absolute and not
+contingent.  [28] In the
+Tax Court, Little J. found that there was an ongoing market for seismic data
+and that therefore the asset acquired by McLarty could be sold.  While
+difficult to envision, perhaps if there was a serious question of whether the
+asset could be sold, it might be necessary to consider whether there was a
+market for such property.  But I do not understand the Minister to argue that
+the asset might not be able to be sold.  Indeed the Minister found there was a
+fair market value for the data and by necessary implication a market for its
+sale.  Once the Minister conceded that the asset had a fair market value, it
+was unnecessary for Little J. to have considered whether there was a market for
+the seismic data.  3.  Minister’s Arguments   [30] The
+Minister and McLarty agree, as do I, that a creditor’s limited recourse on
+default of a debt cannot make an otherwise absolute liability contingent, nor
+can it turn an otherwise contingent obligation into one that is absolute.  In
+other words, the extent of recourse has no bearing on the question of whether a
+liability is absolute or contingent.  [31] Nonetheless,
+the nature of the Minister’s arguments are, in my respectful view, based on the
+promissory note in this case being non-recourse.  For example, the Minister
+says that “[a]n expense requires that there be certainty of quantum” and that
+the amount payable must be certain (Minister’s factum, at para. 24).  In making
+this argument, the Minister is focussing on the fact that the proceeds of the
+sale of the asset may not be sufficient to repay the outstanding amount of
+principal and interest under the note at maturity.  However, on December 31,
+1992, an obligation to repay $85,000 plus interest was incurred.  The fact that
+the amount that will be paid at the end of the day is uncertain does not make
+the liability contingent.  [32] In
+oral argument, Minister’s counsel agreed that if security in the form of a
+government bond worth $85,000 was pledged with no other recourse to the debtor,
+the obligation would be absolute.  However, if stock worth $85,000 was pledged
+with no other recourse to the debtor and the price of the stock went down such
+that it was only worth $40,000 when the note matured, the obligation would be
+contingent.  [33] The
+Minister seems to be saying that if there is risk to the value of the
+collateral security at maturity, liability is contingent because the creditor
+may not make full recovery of the total liability.  If the Minister were
+correct, all liability would be contingent.  Although highly unlikely, even a
+government might default on a bond.  And even in the case of a loan with full
+recourse to the debtor, there can never be absolute certainty that full
+repayment will always be made.  The debtor may go bankrupt.  But that does not
+make the liability contingent.  It is inherent in a promissory note that there
+is a risk of non-payment.  Indeed, interest rates are determined, in part, on
+the risk that repayment will not be made.  [34] What
+is at the root of the Minister’s difficulty in this case is that the Minister
+believes the price of the asset McLarty acquired was overvalued and that the
+data, as the only collateral security, was insufficient to cover repayment of
+the note.  In fact, in January 2006, McLarty’s 1.57% interest in the seismic
+data was sold through an independent receiver for approximately $17,600 of
+which 60% or only about $10,500 was used to repay the note.  There are remedies
+for the Minister where assets are overvalued solely to obtain a tax advantage. 
+Trying to characterize the loan portion of the purchase price as contingent in
+this case was not one of them.  [35] The
+Minister says that the requirement to surrender assets does not make the
+liability to repay $85,000 absolute.  Again this is an attack on non-recourse
+debt.  Just as in the case of a mortgage foreclosure where there is a certainty
+of sale and proceeds from that sale and recourse is limited to those proceeds,
+here there is a certainty that the asset will be sold and a fixed percentage of
+the proceeds will be available to repay the loan (see Hill v. The Queen,
+2002 D.T.C. 1749 (T.C.C.), at para. 37).  The only uncertainty, as in the case
+of a mortgage foreclosure, is as to the amount of the proceeds from the sale. 
+However, that does not make the liability contingent.  [36] The
+Minister argues that the mortgage foreclosure cases are distinguishable because
+the foreclosure only occurs once there is default under the mortgage whereas
+here, sale of the asset occurs as a term of the promise to repay.  I must admit
+to not being able to appreciate the difference.  Whether there is default
+because terms of repayment are breached or whether interim payments are not
+made because certain events do not occur, the result in each case is that the
+creditor looks to the collateral that secures the debt to satisfy the amount
+outstanding.  [37] The Minister
+says that until the proceeds of the sale of the security are ascertained,
+McLarty has only a liability “to become subject to an obligation to pay”
+(Minister’s factum, at para. 36).  This again is an argument that the quantum
+of repayment must be certain in order for a liability not to be contingent. 
+This is just another way of attacking non-recourse debt and looking at the
+value of security to test whether the liability was contingent or absolute. 
+That is not the test for contingent liability.  As already explained, there
+will always be uncertainty about the amount that will be repaid.  [38] The
+note provides that if any balance is owing after allocation of the proceeds of
+the sale of the security, the balance “will be forgiven by the Noteholder and
+the undersigned will have no further liability under this promissory note”.  If
+the liability in this case was contingent upon the happening of a future event
+and the event did not occur, there would be no surviving liability and nothing
+to forgive.  A forgiveness provision in a promissory note implies there is
+something to forgive, namely the absolute obligation that was initially
+incurred.  [39] The
+arguments of the Minister do identify uncertainties.  However, they are not
+uncertainties based on whether a future event will or will not occur.  They do
+not meet the Winter test for contingent liability.  4.  Reasons of Bastarache and Abella JJ.  [40] I have
+had the opportunity to read the reasons of Bastarache and Abella JJ.  They say
+that because the sale of the seismic data only occurs if there is insufficient
+revenue generated under ss. 2 and 3 of Schedule 1 to the note and because the
+generation of revenue is contingent, the sale of the seismic data under s. 7 of
+Schedule 1 is contingent and therefore the liability is contingent.  I cannot
+agree with their approach. The Winter definition of contingent liability
+is “a liability which depends for its existence upon an event which may
+or may not happen” (p. 262 (emphasis added)).  Whether liability under the note
+is to be satisfied from the generation of revenue or from the sale of the
+seismic data, when these events are viewed in the sequence they occur, it is
+clear the liability is to be repaid and thus its existence does not depend upon
+an event which may or may not happen.  The terms of Schedule 1 to the note
+provide that the liability is to be satisfied one way or the other, either from
+the generation of revenue or the sale of the seismic data if the revenue
+generation is insufficient.  The uncertainty identified by my colleagues is
+uncertainty as to the source from which the liability is to be repaid.  It does
+not affect the existence of the liability.  [41] My
+colleagues also say that because McLarty is only obliged to repay 60% of the
+proceeds of the sale of the security that this cannot be equated to an absolute
+liability to pay $85,000.  They say “[w]hat if the note had specified the
+“default” as Mr. McLarty owing 30% of the sale of the proceeds, or even 2%? 
+Would the note still be considered an absolute liability to repay $85,000?  We
+think not” (para. 90).  With respect, I think my colleagues, like the Minister,
+are conflating the issue of whether the security is sufficient to repay the
+full value of the note and implicitly, that the seismic data was overvalued,
+with the issue of whether the liability is absolute or contingent.  In an
+appropriate case, overvaluation to obtain a tax advantage may be attacked by
+the Minister on at least the basis that the valuation is unreasonable or that a
+note constitutes a sham or that the parties are not dealing at arm’s length. 
+The Minister is not without remedies for overvaluation, but trying to
+characterize the liability as contingent in this case is not one of them.  [42] I agree
+with the Federal Court of Appeal that the liability in this case is not
+contingent.  B.  Were the
+Parties Dealing at Arm’s Length?  1.  Statutory Provisions  [43] It has
+long been established that when parties are not dealing at arm’s length, there
+is no assurance that the transaction “will reflect ordinary commercial dealing
+between parties acting in their separate interests” (Swiss Bank Corp. v.
+M.N.R., [1974] S.C.R. 1144, at p. 1152).  The provisions of the Income
+Tax Act  pertaining to parties not dealing at arm’s length are intended to
+preclude artificial transactions from conferring tax benefits on one or more of
+the parties.  Where the parties are found not to be dealing at arm’s length,
+the taxpayer who has made an acquisition is deemed to have made the acquisition
+at fair market value regardless of whether the amount paid was in excess of
+fair market value.  Section 69(1) (a) provides:  69.  (1)  Except as expressly otherwise provided in this Act,  (a)
+where a taxpayer has acquired anything from a person with whom the taxpayer was
+not dealing at arm’s length at an amount in excess of the fair market value
+thereof at the time the taxpayer so acquired it, the taxpayer shall be deemed
+to have acquired it at that fair market value;   [44] Arm’s
+length is not defined in the Income Tax Act .  However, s. 251(1)
+provides:  251.  (1) For the purposes of this Act,  (a) 
+related persons shall be deemed not to deal with each other at arm’s length;
+and  (b)  it is a question of fact whether persons not related to each
+other were at a particular time dealing with each other at arm’s length.  [45] The
+parties in this case were not related.  It is therefore a question of fact
+whether they were dealing at arm’s length.  2.  Facts Specific to the Arm’s Length Issue  [46] In the
+fall of 1992, McLarty received an Offering Memorandum which outlined the
+proposed CRC joint venture.  The Offering Memorandum provided for the
+appointment of Compton as agent for the joint venture participants to acquire
+seismic data.  The Offering Memorandum provided that the acquisition of the
+data was subject to the condition that the purchase price “will not be higher
+than the lowest appraised value received from three experienced, independent
+valuators”.  The three independent appraisals were for $39,787,800, $41,930,760
+and $34,405,000.  [47] On
+December 30, 1992, Compton acquired the seismic data, a portion of which was to
+be offered to the joint venture participants.  On December 31, 1992, McLarty
+entered into a Subscription Agreement with Compton that incorporated three
+agreements, all dated December 31, 1992: the Subscription Agreement, the Joint
+Venture Agreement and the agreement to purchase the seismic data.  These
+agreements implemented the transaction outlined in the Offering Memorandum and
+McLarty’s subscription was subject to the terms of the Offering Memorandum.  [48] The
+joint venture participants collectively acquired a 30.35% undivided interest in
+the data from Compton for a total consideration of $6,373,335.  McLarty
+acquired a 1.57% undivided interest for $100,000.  3.  Decision of the Trial Judge  [49] The
+trial judge first noted that the Minister did not originally assess on the
+basis that McLarty and Compton were not dealing at arm’s length.  Therefore,
+the onus was on the Minister to prove the transactions were not at arm’s length
+(trial judge’s reasons, at para. 51).  [50] The
+trial judge found:  a.    The appropriate relationship to assess was
+that between Compton and McLarty.  b.    It was McLarty’s decision to invest. c.    There was no evidence that the principal of
+Compton, Ernie Sapieha, influenced the decision of McLarty to invest.  d.    There was no evidence that McLarty and Compton
+acted in concert without separate interests.  e.    There was no evidence that Compton or Sapieha
+imposed the purchase of the seismic data on McLarty or had the power to do so.  f.     There was no collusion to inflate the price
+of the seismic data because McLarty had accepted the terms of the Offering
+Memorandum which limited the purchase price to not higher than the lowest of
+three independent appraisals.  [51] The
+trial judge concluded that in acquiring his interest in the seismic data,
+McLarty was dealing with Compton at arm’s length.  4.  Decision of the Federal Court of Appeal  [52] The
+Court of Appeal was of the opinion that there were three issues to consider in
+deciding the arm’s length question.  a.    Did the trial judge consider the correct
+transaction for purposes of     s. 69(1)(a)? b.    Which entities needed to be at arm’s length
+for purposes of s. 69(1)(a)?  c.    Were the correct entities at arm’s length?  [53] In the
+view of the Court of Appeal, the trial judge failed to determine which
+transaction to analyse.  Sexton J.A., writing for the court, said that the
+question of selecting the appropriate transaction was a question of law
+reviewable on a correctness standard.  In his opinion, the key transaction was
+the purchase of the seismic data.  [54] In
+deciding the question of which entities had to be dealing at arm’s length, the
+Court of Appeal stated that it was not in dispute that McLarty and Compton were
+dealing at arm’s length when McLarty decided to invest in the joint venture. 
+However, with respect to the purchase of the seismic data, this transaction was
+between Compton as vendor and Compton as purchasing agent for the joint venture
+participants.  In the view of the Court of Appeal, when analysing whether
+parties are dealing at arm’s length, it is necessary to look beyond the legal
+relationship of principal and agent to see what actually happened.  Thus, it
+focussed on the relationship of Compton as vendor and Compton as agent for the
+participants in the joint venture.  [55] Since
+Compton was both vendor and agent for the participants in the joint venture, as
+the same entity, it was not acting with separate interests.  Further, Sapieha
+had de facto control over Compton both as vendor and as agent.  The
+Court of Appeal found that the trial judge erred by not considering the
+relationship between Compton as vendor and Compton as agent, since Sapieha was
+the directing mind of both.  [56] The
+Court of Appeal acknowledged that the Offering Memorandum provided that the
+purchase price of the seismic data was to be no higher than the lowest of three
+independent appraisals.  However, that was the extent of McLarty’s control over
+the terms.  The trial judge did not indicate that McLarty was involved in
+choosing the appraisers or that he even reviewed these evaluations prior to
+purchase.  The origin of the purchase price was unclear.  It was not reflective
+of the price paid for the data by purchasers prior to it being purchased by
+Compton.  [57] The
+Court of Appeal concluded that the parties to the transaction to acquire the
+data, Compton as vendor and Compton as purchasing agent for the joint venture
+participants, were not dealing at arm’s length.  Sexton J.A. therefore allowed
+this aspect of the Minister’s appeal and remitted the matter to the Tax Court
+for determination of the fair market value of the data.  5.  Was McLarty Dealing With the Vendor at Arm’s Length?  [58] Pursuant
+to s. 69(1)(a), the “dealing” must be between a taxpayer and the person
+from whom the taxpayer has made an acquisition.  If the taxpayer and the vendor
+are not dealing at arm’s length, the price at which the acquisition was made
+shall be deemed to be its fair market value irrespective of the actual price
+paid by the taxpayer.  [59] In
+this case, the acquisition transaction was the purchase of the seismic data. 
+This transaction was between Compton as vendor and Compton as agent for the
+participants in the joint venture.  Obviously, Compton was not dealing with
+itself at arm’s length.  However, this does not end the analysis.  [60]  Compton
+is not the taxpayer referred to in s. 69(1)(a).  The taxpayer is
+McLarty.  Therefore, the question is whether McLarty, as an acquirer of an
+interest in the seismic data, was dealing at arm’s length with Compton as
+vendor.  [61] In
+this case, while the initial focus is on the transaction between the vendor and
+the agent of the acquiring taxpayer, all the relevant circumstances must be
+considered to determine if the acquiring taxpayer was dealing with the vendor
+at arm’s length.  [62] The
+Canada Revenue Agency Income Tax Interpretation Bulletin IT-419R2 “Meaning of
+Arm’s Length” (June 8, 2004) sets out an approach to determine whether the
+parties are dealing at arm’s length.  Each case will depend on its own facts. 
+However, there are some useful criteria that have been developed and accepted
+by the courts: see for example Peter Cundill & Associates Ltd. v. Canada,
+[1991] 1 C.T.C. 197 (F.C.T.D.), aff’d [1991] 2 C.T.C. 221 (F.C.A.).  The Bulletin
+provides:  ¶ 22. .
+. . By providing general criteria to determine whether there is an arm’s length
+relationship between unrelated persons for a given transaction, it must be
+recognized that all-encompassing guidelines to cover every situation cannot be
+supplied.  Each particular transaction or series of transactions must be
+examined on its own merits.  The following paragraphs set forth the CRA’s
+general guidelines with some specific comments about certain relationships.  ¶ 23. 
+The following criteria have generally been used by the courts in determining
+whether parties to a transaction are not dealing at “arm’s length”:  ·           
+was there a common mind which directs the bargaining for both parties to
+a transaction;  ·           
+were the parties to a transaction acting in concert without separate
+interests; and  ·           
+was there “de facto” control.  [63] The
+trial judge paraphrased the Canada Revenue Agency criteria at para. 56 of his
+reasons.  He found that the appropriate relationship to assess was that between
+Compton and McLarty.  Applying the indicia for identifying dealings not at
+arm’s length, he found that Compton and Sapieha did not influence the decision
+of McLarty to invest, that there was no evidence that Compton and McLarty acted
+in concert without separate interests and that no party had the power to impose
+its will on the other.  [64] It
+appears that the trial judge had regard to the relevant indicia for determining
+the arm’s length question and applied these indicia to the evidence, or lack of
+evidence.  It is important to remember that in this case, the onus was on the
+Minister to prove that McLarty was not dealing with Compton at arm’s length. 
+His conclusion indicates that, in his view, the Minister did not satisfy that
+onus.  [65] The
+Minister states that “[i]t is the relationship between vendor and  purchaser at
+the time of purchase that must be examined, and not the relationship at any
+other time or with respect to any other transaction” (Minister’s factum on
+cross-appeal, at para. 26).  I am unable to agree with such a restrictive
+approach. Of necessity, where the acquisition is made by an agent of the
+purchaser, the purchaser’s connection to the acquisition transaction and to the
+question of whether the vendor and purchaser were dealing at arm’s length will
+require that the agreement between the agent and the purchaser be considered. 
+That agreement would normally precede the acquisition agreement (here all
+documents were signed on December 31, 1992).  Indeed, even the Court of Appeal,
+which primarily focussed on the agreement between Compton as vendor and Compton
+as agent for the joint venture participants, also had regard for McLarty’s
+involvement through the Subscription Agreement which incorporated the Offering
+Memorandum by reference.  The Offering Memorandum contained restrictions on
+Compton as agent in respect of the price to be paid for the data.  At paragraph
+57, the Court of Appeal noted:  The findings
+of the court below indicate that the respondent, and indeed, the Joint
+Venturers as a whole had minimal input into the terms of the Technical Data
+Base Purchase Agreement.  To be sure, the Memorandum required the purchase
+price of the Data to be no higher than the lowest appraised value received from
+three experienced, independent valuators.  However, that appears to be the
+extent of the respondent’s control over the terms of the bargain.  After all,
+Sapieha was responsible for obtaining the valuations.  The findings of the
+court below do not indicate that the respondent was involved in choosing the
+appraisers or that he even reviewed their evaluations prior to purchase.  [66] The
+Minister concedes that “[w]hile the surrounding circumstances form part of the
+factual underpinning, they may be relevant to a s. 69(1)(a) analysis, but only
+to the extent that they relate to the parties’ dealings with respect to the purchase
+of the seismic data itself” (Minister’s factum on cross-appeal, at para. 32). 
+The Minister also concedes that the “restrictions on an agent’s authority are
+relevant considerations in the arm’s length analysis” (Minister’s factum on
+cross-appeal, at para. 36).  However, in this case, the Minister believes “the
+control retained by the joint venturers was insignificant” (Minister’s factum
+on cross-appeal, at para. 36).  [67] The
+Minister says that McLarty exercised minimal oversight in the purchase of the
+data and did not exhibit due diligence, that the independent appraisals were
+unrealistic, that McLarty did not even look at the purchase price and that the
+price he paid was 10 times the price that the entire data, consisting of even
+more data than that acquired by the joint venture participants had traded for
+earlier in 1992, and that McLarty was indifferent to the price.  [68] As
+already noted, the trial judge placed significance on the limitations imposed
+on the purchase transaction by the Offering Memorandum.  He stated at para. 60
+of his reasons:  There was no collusion to inflate the price of the Venture Data because
+the Appellant had accepted the terms of the Memorandum which limited the
+purchase price to not higher than the lowest valuation.  [69] The
+trial judge and the Federal Court of Appeal have both considered the limitation
+on the purchase price in the Offering Memorandum, but each has placed different
+significance on it.  The trial judge considered it important; the Federal Court
+of Appeal did not.  [70] The
+Court of Appeal made no finding of palpable and overriding error by the trial
+judge in his findings of fact.  I am of the respectful view that the Federal
+Court of Appeal was in error in interfering with the factual findings and
+inferences drawn from the facts by the trial judge.  [71] I
+cannot agree with the Federal Court of Appeal that the trial judge erred in
+law.  It is true he placed more significance on the limitations on Compton
+imposed by the Offering Memorandum than did the Federal Court of Appeal.  But
+barring palpable and overriding error, he was entitled to do so.  [72] Had
+the trial judge found that McLarty had subordinated his entire decision making
+power to Compton as his agent, his dealings with Compton as vendor would not
+have been at arm’s length.  He would not have been making an independent
+decision about the purchase but would have left that completely to Compton. 
+But those are not the facts found or inferences drawn by the trial judge.  [73] It was
+appropriate for the trial judge to have considered the entirety of the 
+transactions by which McLarty bound himself to purchase his interest in the
+seismic data and place limitations on Compton as his agent with respect to the
+purchase price of the data.  It was for the trial judge to draw inferences from
+these facts.  The Federal Court of Appeal was in error in interfering with the
+conclusion of the trial judge. V.  Conclusion  [74] I am
+not unmindful that McLarty’s involvement in the determination of the purchase
+price was minimal.  The price paid was significantly in excess of the price
+paid for the data in transactions earlier in 1992.  Another trial judge may
+well have concluded that McLarty was indifferent to the purchase price and that
+he had effectively subordinated his decision making to Compton with the
+conclusion that Compton as vendor and McLarty as purchaser were not dealing at
+arm’s length.  However, these were factual decisions for the trial judge and
+are not open to reinterpretation by an appellate court, barring a finding of
+palpable and overriding error which was not made in this case.  [75] The
+Minister has numerous basis for challenging the deductions taken by a taxpayer.
+ He may rely on sham or the general anti-avoidance rule to name just two.  He
+did not do so in this case.  In reassessment cases, the role of the court is
+solely to adjudicate disputes between the Minister and the taxpayer.  It is not
+a protector of government revenue.  The court must decide only whether the
+Minister, on the basis on which he chooses to assess, is right or wrong.  In
+this Court, the Minister relied on contingent liability and non-arm’s length
+dealing.  The liability incurred by McLarty was not contingent and there was no
+basis to interfere with the findings of the trial judge that McLarty’s dealings
+with Compton were at arm’s length.  [76] In the
+result, the appeal should be dismissed with costs throughout.  The cross-appeal
+should be allowed with costs.  The decision of the Federal Court of Appeal
+should be set aside and the decision of the trial judge restored.  The following are the reasons delivered by  [77] Bastarache and Abella JJ. (dissenting
+on the appeal) — Mr. McLarty attempted to take a deduction of
+$100,000 on his income tax return for a “Canadian exploration expense” under s.
+66.1(6)  of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .).  Section
+66.1(6)  allows tax deductions for expenses incurred “for the purpose of determining
+the existence, location, extent or quality of an accumulation of petroleum or
+natural gas (other than a mineral resource) in Canada”.  The $100,000 amount
+claimed by Mr. McLarty consisted of two parts: $15,000 he paid up front in cash
+and $85,000 in the form of a promissory note.  Both the cash and note were
+given to Compton Resource Corporation (“CRC”) as consideration for seismic
+data, which is geophysical information used to locate oil and gas reserves. 
+CRC, in turn, purchased that data from a company called Seitel on the previous
+day, offering as consideration a cash payment and a promissory note; the latter
+had identical repayment terms to those in Mr. McLarty’s note.  The promissory
+notes, by their terms, were to be paid only out of revenues derived from the
+business venture.  If revenues proved insufficient, the noteholders would be
+entitled to receive no more than 60% of the value from the resale of the
+seismic data when the note came due.  As a result, there was no guarantee that
+Mr. McLarty would ever have to pay the full amount of the note.  [78] The
+Minister of National Revenue offered two arguments for disallowing the $85,000
+tax deduction based on the promissory note.  First, the Minister argued that
+the promissory note was not an “expense incurred” but a “contingent liability”,
+which is “a liability which depends for its existence upon an event which may
+or may not happen” (Wawang Forest Products Ltd. v. The Queen, 2001
+D.T.C. 5212, 2001 FCA 80, at para. 11).  Second, the Minister argued that the
+sale of seismic data to Mr. McLarty did not occur at arm’s length because the
+vendor acted as Mr. McLarty’s agent in the sale.  Under tax law, if a
+transaction does not occur at arm’s length, then the purchase price may be
+reassessed.  [79] While
+we agree with the majority’s holding that the transaction occurred at arm’s
+length, we are of the view, with respect, that Mr. McLarty’s promissory note is
+a contingent liability and therefore does not meet the requirements of s.
+66.1(6) .  [80] Under
+s. 66.1(6) of the Act, Mr. McLarty may take a tax deduction where he has
+incurred an expense.  The law is that “an expense is incurred for tax purposes
+when the taxpayer has a clear legal obligation to pay the amount in question”
+(P. W. Hogg, J. E. Magee and J. Li, Principles of
+Canadian Income Tax Law (6th ed. 2007), at p. 230).  This Court  propounded
+that principle in J. L. Guay Ltée v. M.N.R., 75 D.T.C. 5094 (S.C.C.),
+aff’g [1973] C.T.C. 506 (F.C.A.), aff’g [1971] C.F. 237 (T.D.).  [81] Expenses
+(absolute liabilities) are distinguished from contingent liabilities (which are
+not tax deductible) with reference to the “Winter test”.  In Winter
+v. Inland Revenue Commissioners, [1963] A.C. 235 (H.L.), Lords Reid and
+Guest discussed how to differentiate absolute from contingent liabilities.  In Winter,
+Lord Guest explained:  Contingent liabilities must . . . be something different from future
+liabilities which are binding on the company, but are not payable until a
+future date.  I should define a contingency as an event which may or may not
+occur and a contingent liability as a liability which depends for its existence
+upon an event which may or may not happen. [p. 262] [82] This
+approach was adopted by this Court in Mandel v. The Queen, [1980] 1
+S.C.R. 318, aff’g [1979] 1 F.C. 560 (C.A.), aff’g [1977] 1 F.C. 673 (T.D.).  [83] In Mandel,
+this Court held that a liability is contingent when it exists only in the event
+that a business generates profits.  Taxpayers acquired a movie for $577,892. 
+They did not, however, pay the full purchase price.  They made a down payment
+of $150,000 and agreed to pay the balance out of the profits to be generated
+once the movie was completed and distributed.  The taxpayers assumed no
+liability for the balance of the purchase price in the event that the movie
+failed to generate sufficient profits.  The Minister permitted a deduction, but
+only for the amount actually paid.  The Federal Court, Trial Division, the
+Federal Court of Appeal and the Supreme Court agreed with that assessment.  The
+taxpayers’ liability to pay the balance of the purchase price was found to be a
+contingent liability since they were liable only if an uncertain event
+occurred, namely, that the movie  generated sufficient profits.  [84] The
+definition in Winter was also adopted by the Federal Court of Appeal, per
+Sharlow J.A., in Wawang, as follows: “I should define a contingency as
+an event which may or may not occur and a contingent liability as a liability
+which depends for its existence upon an event which may or may not happen”
+(para. 11).    [85] Pursuant
+to Winter, we apply the following question to this note: Is the
+liability it creates to pay the full amount of $85,000 dependent for its
+existence on an event which may or may not happen?  In our view, the liability
+in this case is contingent because Mr. McLarty’s obligations (including whether
+he must resell the data when the note comes due) depend on whether the venture
+proves to be sufficiently profitable.  [86] Schedule
+1 to the promissory note provided that it would be paid out by way of
+assignment to CRC (the vendor) of 60% of Mr. McLarty’s share of any seismic
+licensing revenues and 20% of his share of the production cash flow from the
+drilling program.  Any payments were to be credited against accrued interest
+first and then against principal.  In the event that any portion of the
+principal or interest remained unpaid on December 31, 1999, the due date of the
+promissory note, then CRC would appoint an independent trustee to sell Mr.
+McLarty’s 1.57% interest in the seismic data and 20% of his interest in the
+joint venture’s petroleum rights, with any proceeds to be allocated against the
+outstanding debt as follows: (1) 60% of the sale proceeds from the disposition
+of Mr. McLarty’s interest in the seismic data; and (2) all of Mr. McLarty’s
+share of the sale proceeds from the disposition of 20% of his interest in the
+joint venture’s petroleum rights.  In sum, Mr. McLarty would never be
+personally liable for the $85,000.  The noteholder would only receive the full
+amount in the event that the venture proved sufficiently profitable (or the
+data, on resale, sufficiently valuable) to cover the debt.  [87] Mr.
+McLarty’s promissory note read in part as follows:  The terms of repayment of this promissory note to the Noteholder shall
+be limited to those terms set out herein and no other action shall lie against
+the undersigned in respect of any covenant for payment.  The indebtedness of the undersigned shall be reduced only in
+accordance with the provisions set forth in Schedule 1 attached hereto, which
+schedule is incorporated into and forms part of this promissory note.    [89] Both
+the Minister and Mr. McLarty agreed that a creditor’s limited recourse on
+default of debt cannot make an otherwise absolute liability contingent nor can
+it turn an otherwise contingent obligation into an absolute one.  As such, the
+fact that Mr. McLarty was to surrender 60% of the proceeds from the sale of the
+data does not render the note an absolute liability.  On the contrary, Mr.
+McLarty’s liability depends on whether the business venture generates
+revenues.  Mr. McLarty only needs to sell the seismic data if the venture has
+not generated sufficient revenues to cover the $85,000 face value of the
+promissory note.  Whether it will do so is uncertain.  This in turn makes the
+liabilities that depend on revenue generation uncertain and, accordingly,
+contingent.  This means that Mr. McLarty’s obligation to resell the venture
+data is also contingent, because it too depends on whether sufficient revenues
+have been generated to cover the face value of the promissory note.  [90] Moreover,
+the terms of the note specify that Mr. McLarty would only be obliged to repay
+60% of the sold data and that any balance owing after the allocation of the
+proceeds will be forgiven.  This cannot be equated to an absolute liability to
+pay $85,000.  What if the note had specified the “default” as Mr. McLarty owing
+30% of the sale of the proceeds, or even 2%? Would the note still be considered
+an absolute liability to repay $85,000?  We think not.  Mr. McLarty attempts to
+argue that this provision is the equivalent of debt forgiveness, which does not
+alter the status of a liability for tax purposes. It is erroneous to equate the
+two situations because in the present case, the “debt forgiveness” was
+specified within the loan arrangement.  The repayment of the $85,000 was
+thus contingent on whether the seismic data produced revenue or not. The
+“default” provisions cannot be considered to alter this contingency. The fact
+that Seitel characterized its note to CRC as contingent and that the repayment
+terms of this note are identical to those in the note between CRC and Mr.
+McLarty support this point.  [91] Section
+66.1(6)  of the Income Tax Act  offers deductions to taxpayers who have
+made themselves absolutely liable.  Mr. McLarty is not in that
+category.  In Mandel, this Court confirmed that where liabilities depend
+on whether a business venture generates revenues, they must be characterized,
+for tax purposes, as contingent.  How much Mr. McLarty will pay CRC, and by
+what means, depend on the uncertain success of his business venture.  Mr.
+McLarty may eventually claim a tax deduction, if he pays CRC some amount under
+the promissory note.  In other words, he may take the deduction when he incurs
+the expense.  Until then, it is difficult to see his liability as anything
+other than contingent.  [92] We
+would therefore allow the appeal and cross-appeal, both with costs.      

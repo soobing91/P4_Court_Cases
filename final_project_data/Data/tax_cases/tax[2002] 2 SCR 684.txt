@@ -1,0 +1,282 @@
+Walls v. Canada, [2002] 2 S.C.R. 684,
+2002 SCC 47  Her Majesty The Queen                                                                                  Appellant  v.  Jack Walls and Robert Buvyer                                                                   Respondents  Indexed as:  Walls v. Canada  Neutral citation:  2002 SCC 47.  File No.:  27724.  2001:  December 12; 2002:  May 23.   on appeal from the federal court of appeal  Income tax –  Source of income – Test to determine
+whether taxpayer has business or property source of income – Whether
+“reasonable expectation of profit” test appropriate test – Income Tax Act, S.C.
+1970-71-72, c. 63, s. 9.  The respondents were limited partners in a
+partnership.  A mini-warehouse was purchased from Fraser Storage Park Ltd.
+(“FSPL”) on behalf of the partnership for $2,200,000 payable in the form of $1
+in cash and the balance in the form of an agreement for sale with interest
+payable at 24 percent per annum.  The partnership also entered into agreements
+by virtue of which the partnership obligated itself to pay, on an annual basis,
+interest, service fees, and management fees, as well as 50 percent of the
+net operating profit of the operation to FSPL.  The partnership generated
+losses on the mini-warehouse of which the respondents deducted their
+proportionate share for income tax purposes in 1984 and 1985.  On reassessment,
+the Minister of National Revenue reduced the losses by reducing the purchase
+price of the mini-warehouse to reflect a fair market value of $1,180,000 and
+also reduced the allowable interest expense by disallowing interest on debt in
+excess of the fair market value and by  lowering the interest rate to
+16 percent.  The respondents filed notices of objection, but the Minister
+confirmed the reassessment.  The Federal Court, Trial Division dismissed the
+respondents’ appeals based solely on its finding that the partnership did not
+carry on business with a reasonable expectation of profit and, therefore, that
+the losses from the storage park operation were not losses from a business and
+thus could not be deducted by the respondents.  The Federal Court of Appeal set
+aside the judgment,  holding that the trial judge erred in applying the
+reasonable expectation of profit doctrine, and remitted the matter to the trial
+judge for a determination of the outstanding issues of whether there had been
+an arm’s length transaction and its fair market value.  The only issue in this
+appeal is whether the storage park operation constituted a source of income for
+the purposes of s. 9 of the Income Tax Act.  Held:  The
+appeal should be dismissed.  When the two-stage approach and the principles set out
+in the companion case Stewart v. Canada, [2002] 2 S.C.R. 645, 2002 SCC
+46, are applied, it is clear that the respondents’ storage park operation
+constituted a source of income for the purposes of s. 9 of the Income
+Tax Act.  It is self-evident that such an activity is commercial in nature,
+and there was no evidence of any element of personal use or benefit in the
+operation.  Where, as here, the activities have no personal aspect, reasonable
+expectation of profit does not arise for consideration.  Although the
+respondents were clearly motivated by tax considerations when they purchased
+their interests in the partnership, this does not detract from the commercial
+nature of the storage park operation or its characterization as a source of
+income.  A tax motivation does not affect the validity of transactions for tax
+purposes.  In addition, given the specific anti-avoidance provisions in the
+Act, courts should not be quick to embellish its provisions in response to tax
+avoidance concerns.  Cases Cited  Followed:  Stewart
+v. Canada, [2002] 2 S.C.R. 645, 2002 SCC 46; restricted: 
+Moldowan v. The Queen, [1978] 1 S.C.R. 480; distinguished:  Moloney
+v. The Queen, 92 D.T.C. 6570; referred to:  Tonn v. Canada,
+[1996] 2 F.C. 73; Mastri v. Canada (Attorney General), [1998] 1 F.C. 66;
+Backman v. Canada, [2001] 1 S.C.R. 367, 2001 SCC 10; Shell Canada
+Ltd. v. Canada, [1999] 3 S.C.R. 622; Canada v. Antosko, [1994] 2
+S.C.R. 312; Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536; Ludco
+Enterprises Ltd. v. Canada, [2001] 2 S.C.R. 1082, 2001 SCC 62; Neuman v.
+M.N.R., [1998] 1 S.C.R. 770.  Statutes and Regulations Cited  Income Tax Act, S.C. 1970-71-72, c. 63 [now R.S.C. 1985, c. 1 (5th Supp .)],
+ss. 9, 18(1) (a), 20(1) (c), 67 , 172(2) , 251 .  APPEAL from a judgment of the Federal Court of Appeal
+(1999), 250 N.R. 324, 2000 D.T.C. 6025, [2000] 1 C.T.C. 324, [1999] F.C.J.
+No. 1823 (QL), reversing a decision of the Trial Division (1996), 107
+F.T.R. 108, 96 D.T.C. 6142, [1996] 2 C.T.C. 14, [1996] F.C.J. No. 145
+(QL).  Appeal dismissed.  Brent Paris and Richard
+Gobeil, for the appellant.  Craig C. Sturrock
+and Thomas M. Boddez, for the respondents.  The judgment of the Court was delivered by  Iacobucci and
+Bastarache JJ.--  I.  Introduction  1                                  
+This appeal raises substantially similar issues to those considered by
+the Court in Stewart v. Canada, [2002] 2 S.C.R. 645, 2002 SCC 46, the
+decision and reasons in which are being released herewith.   Consequently, the
+reasoning set out by the Court in that case is applicable to this appeal.  As
+in Stewart, we conclude here that the taxpayers’ activities constituted
+a source of income for the purposes of s. 9 of the Income Tax Act, S.C.
+1970-71-72, c. 63 (the “Act”).  Accordingly, we agree with the disposition of
+the Federal Court of Appeal and would therefore dismiss the appeal.  II.  Facts  2                                  
+In July 1983 Fraser Storage Park Ltd. (“FSPL”) was incorporated under
+the laws of British Columbia.  One third of its issued shares were owned by
+Victor Bolton through a holding company.  One quarter of its issued shares were
+owned by Raymond Matty, also through holding companies.  3                                  
+In the fall of 1983, FSPL, represented by Raymond Matty and Victor
+Bolton, arranged to purchase a mini-warehouse from Twin Builders Ltd. for
+$1,180,000.  In October, Fraser Storage Park Partnership (the “Partnership”)
+was founded, with Brem Management Ltd. as the general partner and Matty
+Developments Ltd. as the founding partner.  Raymond Matty and Victor Bolton
+each owned 50 percent of the shares of Brem Management Ltd., and Raymond Matty
+owned all of Matty Developments Ltd.  In October, FSPL entered into an interim
+agreement to sell the mini-warehouse to Brem Management Ltd. on behalf of the
+Partnership for $2,200,000, payable in the form of $1 in cash and the balance
+in the form of an agreement for sale with interest payable to FSPL at 24 percent
+per annum.  Raymond Matty and Victor Bolton negotiated the purchase and sale of
+the mini-warehouse on behalf of both FSPL and the Partnership.  The transfer of
+the mini-warehouse from Twin Builders Ltd. to FSPL and the agreement for sale
+between FSPL and Brem Management Ltd. on behalf of the Partnership were all
+registered on December 30, 1983.  4                                  
+In addition to entering into the agreement for sale, the Partnership
+also entered into a management agreement and a services agreement with FSPL. 
+By virtue of these agreements and the agreement for sale, the Partnership
+obligated itself to pay, on an annual basis, $528,000 in interest, $140,000 in
+service fees, and $50,000 in management fees, as well as 50 percent of the net
+operating profit of the operation.  5                                  
+The respondents, Jack Walls and Robert Buvyer, were limited partners in
+the Partnership.   The Partnership generated losses on the mini-warehouse,
+which were allocated to the respondents and the other partners on a prorated
+basis.  The respondents deducted their proportionate share of the losses for
+income tax purposes.  The respondents were reassessed by the Minister of
+National Revenue for their 1984 and 1985 taxation years on the losses claimed
+by virtue of their being partners in the Partnership. The Minister reduced the
+losses by reducing the purchase price of the mini-warehouse to reflect a fair
+market value of $1,180,000, rather than the $2,200,000 paid by the
+Partnership.  The Minister also reduced the allowable interest expense by disallowing
+interest on debt in excess of $1,180,000, and by  lowering the interest rate
+from 24 percent to 16 percent on the basis that 24 percent was excessive.  The
+respondents filed notices of objection, but the Minister confirmed the notices
+of reassessment.  The respondents appealed, and the two appeals by each of the
+two respondents were heard together.  6                                  
+The respondents claimed that, owing to the depressed real estate market
+at the time, it was impossible to obtain conventional financing with respect to
+such projects without providing substantial equity in the project and full
+recourse financing.  They argued that, given the terms of the agreement, and
+since FSPL and the Partnership were at arm’s length, the interest expense was
+reasonable as required under s. 20(1)(c) and s. 67 of the Act.  The
+respondents also argued that $2,200,000 was the fair market value of the
+property at the material time.  7                                  
+The Minister argued that the Partnership did not carry on business with
+a reasonable expectation of profit such that the losses from the storage park
+operation were not losses from a business and thus could not be deducted under
+s. 18(1)(a) of the Act by the partners.  In the alternative, the
+Minister asserted that the amount of interest claimed by the Partnership was
+unreasonable pursuant to s. 20(1)(c) and s. 67 of the Act, that the fair
+market value of the mini-warehouse had been $1,180,000, and that Brem
+Management Ltd. and the Partnership were not dealing at arm’s length with FSPL
+pursuant to s. 251 of the Act.  8                                  
+The Federal Court, Trial Division, dismissed the appeals based solely on
+its finding that the Partnership did not carry on business with a reasonable
+expectation of profit and, therefore, that the losses from the storage park
+operation were not losses from a business and thus could not be deducted by the
+respondents.  The Federal Court of Appeal allowed the appeals, set aside the
+lower court judgments, and remitted the matter to the trial judge for a
+determination of the two outstanding issues of whether there had been an arm’s
+length transaction and its fair market value. III.  Relevant
+Statutory Provisions  9                                  
+Income Tax Act, S.C. 1970-71-72, c. 63 (now R.S.C. 1985, c. 1
+(5th Supp .))  9.  (1)  Subject to this Part, a taxpayer’s
+income for a taxation year from a business or property is his profit therefrom
+for the year.  18.  (1)  In computing the income of a
+taxpayer from a business or property no deduction shall be made in respect of  (a)  an outlay or expense except to the extent that it was made
+or incurred by the taxpayer for the purpose of gaining or producing income from
+the business or property;  20.  (1)  Notwithstanding paragraphs 18(1)(a),
+(b) and (h), in computing a taxpayer’s income for a taxation year
+from a business or property, there may be deducted such of the following
+amounts as are wholly applicable to that source or such part of the following
+amounts as may reasonably be regarded as applicable thereto:                                                                     .
+. .  (c)  an amount paid in the year or payable in respect of the
+year (depending upon the method regularly followed by the taxpayer in computing
+his income), pursuant to a legal obligation to pay interest on  (i)  borrowed money used for the purpose of earning income from a
+business or property . . .  or a reasonable amount in respect thereof, whichever is the lesser;  67.  In computing income, no deduction shall
+be made in respect of an outlay or expense in respect of which any amount is
+otherwise deductible under this Act, except to the extent that the outlay or
+expense was reasonable in the circumstances.   251.  (1)  For the purposes of this Act,  (a)  related persons shall be deemed not to deal with each other
+at arm’s length; and  (b)  it is a question of fact whether persons not related to
+each other were at a particular time dealing with each other at arm’s length.  IV.  Judgments
+Below  A.  Federal
+Court, Trial Division (1996), 107 F.T.R. 108  10                              
+Each of the two respondents brought appeals before the Federal Court,
+Trial Division, pursuant to s. 172(2) of the Income Tax Act with respect
+to the Minister’s reassessments for the 1984 and 1985 taxation years.  Pursuant
+to the order of Pinard J. dated August 17, 1995, all four appeals were heard
+together on the same evidence.  11                              
+Pinard J. began his assessment of the reasonable expectation of profit
+of the Partnership by referring to the following passage from the pivotal case
+of Moldowan v. The Queen, [1978] 1 S.C.R. 480, at pp. 485-86:  There is a vast case literature on what reasonable
+expectation of profit means and it is by no means entirely consistent.  In my
+view, whether a taxpayer has a reasonable expectation of profit is an objective
+determination to be made from all of the facts.  The following criteria should
+be considered:  the profit and loss experience in past years, the taxpayer’s training,
+the taxpayer’s intended course of action, the capability of the venture as
+capitalized to show a profit after charging capital cost allowance.  The list
+is not intended to be exhaustive.  The factors will differ with the nature and
+extent of the undertaking:  The Queen v. Matthews [(1974), 74 D.T.C.
+6193].  One would not expect a farmer who purchased a productive going
+operation to suffer the same start-up losses as the man who begins a tree farm
+on raw land.  12                              
+In applying the criteria laid out in Moldowan to the facts before
+him, Pinard J. found that the profit and loss experience was not particularly
+helpful in this case, given the enormous increase in the expenses of the
+storage park resulting from the agreement for sale, service agreement and
+management agreement, none of which existed prior to 1983.  He considered the
+key factor to be the capability of the venture as capitalized to show a profit
+after charging capital cost allowance.  Examining the financial state of the
+operation in considerable detail, Pinard J. concluded at para. 15 that: As things stood, the Partnership was unable to make
+a profit because it was effectively under capitalized.  No plan existed to
+raise additional capital to reduce the debts of the Partnership.  The inability
+of the venture as capitalized to show a profit, even before taking capital cost
+allowance, is a clear indication that the Partnership did not have a reasonable
+expectation of profit.  13                              
+With respect to the other Moldowan factors, Pinard J. noted that
+none of the partners had any previous experience running a storage park.  As
+well, no details had been provided on how to achieve the stated intended course
+of action of increasing the occupancy of the storage park and increasing the
+income in order to realize its inherent value.  Finally, he found no basis for
+claiming that the losses related to a start-up period, since the storage park
+was purchased as a “going operation”.  14                              
+Pinard J. concluded that on the facts before him, the Partnership did
+not carry on business with a reasonable expectation of profit.  In his view, at
+paras. 17 and 19:  . . . [the Partnership] was set up as a tax shelter, with the intention
+that the operation of the storage park would give rise to large initial losses
+in order to provide the limited partners with tax claims. . . .                                                                     .
+. .  The evidence in this case indicates that the only
+financial advantage that could reasonably have been expected by a purchaser of
+a limited partnership unit in this arrangement would have been by way of tax
+refunds as a result of claiming the inevitable losses from the arrangement. . .
+.  15                              
+As a result, Pinard J. found that the losses sustained were not losses
+from business and could not be deducted by the respondents to the extent of their
+proportionate interests.  The appeals were therefore dismissed.  B.  Federal
+Court of Appeal, [2000] 1 C.T.C. 324  16                              
+Robertson J.A., for the court, stated that, based on the facts of the
+case and the Federal Court of Appeal’s previous decisions in Tonn v. Canada,
+[1996] 2 F.C. 73, and Mastri v. Canada (Attorney General), [1998] 1 F.C.
+66, the trial judge had erred in applying the reasonable expectation of profit
+doctrine set out by the Supreme Court of Canada in Moldowan, supra. 
+He continued at para. 1:  For example, there is no “personal element” involved in the series of
+transactions under review.  The [respondents] were limited partners who
+purchased an ongoing commercial business.  The fact that the purchase was
+driven, in part, by favourable tax considerations does not detract from the
+ongoing commercial nature of the endeavour.  17                              
+Robertson J.A. therefore allowed the appeals, set aside the lower court
+judgments, and remitted the matter to the trial judge for a determination of
+the two outstanding issues of whether there was an arm’s length transaction and
+its fair market value.  V.  Issue  18                              
+Did the storage park operation constitute a source of income for the
+purposes of s. 9 of the Act?  VI.  Analysis  19                              
+The test to determine whether a taxpayer’s activities constitute a
+source of business or property income for the purposes of s. 9 of the Act is
+set out in Stewart, supra, at para. 50 as follows:  (i)    Is the activity of the taxpayer undertaken
+in pursuit of profit, or is it a personal endeavour?  (ii)   If it is not a personal endeavour, is the
+source of the income a business or property?  In addition,
+at para. 53 of that case, we emphasized that the first stage of this test will only
+be relevant when there is some personal or hobby element to the activity in
+question.  Where an activity is clearly commercial, the taxpayer is necessarily
+engaged in the pursuit of profit, and therefore a source of income exists.  20                              
+Applying these principles to this case, we find that it is clear that
+the storage park operation constituted a source of income for the purposes of
+s. 9 of the Act.  It is self-evident that such an activity is commercial in
+nature, and there was no evidence of any element of personal use or benefit in
+the operation.  Although we state in Stewart, supra, at para. 55,
+that reasonable expectation of profit may be used as one factor in making the
+overall determination as to whether or not the taxpayer’s activities are
+personal or commercial, where, as here, the activities have no personal aspect,
+reasonable expectation of profit does not arise for consideration.  21                              
+The trial judge referred to the storage park operation as a “tax
+shelter” and concluded that the reduction of tax was the sole motivation for
+its existence, citing Moloney v. The Queen, 92 D.T.C. 6570 (F.C.A.). 
+However, in that case, a circular scheme was set up for the sole purpose of
+obtaining tax refunds with no intention on the part of the taxpayer to carry on
+the business of marketing a speed reading course which was the ostensible
+purpose of the transactions.  It was in this context that Hugessen J.A. stated,
+at p. 6570:  While it is trite law that a taxpayer may so
+arrange his business as to attract the least possible tax, it is equally clear
+in our view that the reduction of his own tax cannot by itself be a
+taxpayer’s business for the purpose of the Income Tax Act. 
+[Emphasis added.]  With respect,
+the case at bar is distinguishable from Moloney. There, the taxpayer was
+not engaged in a commercial activity, but instead was involved in a sham set up
+to appear as though it was commercial in nature where in fact the only activity
+actually engaged in was that of obtaining tax refunds.  Here, in contrast, the
+Partnership purchased and maintained an ongoing commercial operation.  22                              
+Although the respondents in this case were clearly motivated by tax
+considerations when they purchased their interests in the Partnership, this
+does not detract from the commercial nature of the storage park operation or
+its characterization as a source of income for the purposes of s. 9 of the
+Act.  It is a well-established proposition that a tax motivation does not
+affect the validity of transactions for tax purposes: Backman v. Canada,
+[2001] 1 S.C.R. 367, 2001 SCC 10, at para. 22; Shell Canada Ltd. v. Canada,
+[1999] 3 S.C.R. 622; Canada v. Antosko, [1994] 2 S.C.R. 312; Stubart
+Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, at p. 540.  In
+addition, we reiterate the caution stated in Stewart, at para. 65 that,
+given the specific anti-avoidance provisions in the Act, courts should not be
+quick to embellish its provisions in response to tax avoidance concerns: see
+also Ludco Enterprises Ltd. v. Canada, [2001] 2 S.C.R. 1082, 2001
+SCC 62, at para. 39; Neuman v. M.N.R., [1998] 1 S.C.R. 770, at para. 63.  VII.  Conclusion  23                              
+For these reasons, we conclude that the storage park operation carried
+on by the Partnership, in which the respondents were limited partners,
+constituted a source of income for the purposes of s. 9 of the Act.  As a
+result, we would dismiss the appeal with costs.  Appeal dismissed with costs.  Solicitor for the appellant:  The Deputy Attorney General
+of Canada, Vancouver.  Solicitors for the respondents:  Thorsteinssons,
+Vancouver.   

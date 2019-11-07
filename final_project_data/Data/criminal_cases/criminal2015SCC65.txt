@@ -1,0 +1,314 @@
+   SUPREME
+COURT OF CANADA  Citation: R. v. Riesberry, 2015 SCC 65, [2015] 3 S.C.R. 1167 Date: 20151218 Docket: 36179  Between: Derek
+Riesberry Appellant and Her
+Majesty The Queen Respondent   Coram: Cromwell, Moldaver, Karakatsanis, Wagner, Gascon, Côté and
+Brown JJ.  Reasons
+  for Judgment: (paras. 1 to 34)  Cromwell J. (Moldaver, Karakatsanis,
+  Wagner, Gascon, Côté and Brown JJ. concurring) Appeal heard and
+Judgment rendered: October 13, 2015  Reasons delivered: December
+18, 2015    R.
+v. Riesberry,
+2015 SCC 65, [2015] 3 S.C.R. 1167 Derek Riesberry                                                                                              Appellant v. Her Majesty The Queen                                                                              Respondent Indexed as: R. v. Riesberry 2015 SCC 65 File No.: 36179. Hearing and
+judgment: October 13, 2015. Reasons delivered: December 18, 2015. Present: Cromwell, Moldaver, Karakatsanis, Wagner, Gascon, Côté and
+Brown JJ. on appeal from the court of appeal for ontario                     R
+tried to rig two horse races. He was caught drugging one horse and trying to
+sneak syringes with drugs into the track for the purpose of doing the same
+thing to another. Bets in excess of $5,000 had been placed on both races. R was
+charged with cheating while playing a game, defrauding the public, and
+attempting to commit the same offences. At trial, he was acquitted. The Court
+of Appeal allowed an appeal and set aside the acquittals. It ordered a new
+trial on the cheating counts and entered convictions on the fraud counts.                     Held:
+The appeal should be dismissed.                     The
+Court of Appeal was correct to order a new trial on the charges of cheating
+while playing a game. “Game” is defined as “a game of chance or mixed chance and
+skill” in s. 197(1)  of the Criminal Code . The Crown had to
+establish that a horse race is a game with a systematic resort to chance to
+determine outcomes. There was evidence that post position is determined at
+random and that certain post positions are more advantageous than others. The
+trial judge failed to consider this evidence upon which a trier of fact could
+find that there was systematic resort to chance which made the race a game of
+mixed chance and skill. Whether the evidence actually establishes this will be
+for the trier of fact at the new trial to determine.                     Fraud
+consists of dishonest conduct that results in at least a risk of deprivation to
+the victim. Fraudulent conduct for the purposes of a fraud prosecution is not
+limited to deception, such as misrepresentations of fact. Rather, fraud
+requires proof of deceit, falsehood or other fraudulent means. The term “other
+fraudulent means” encompasses all other means which can properly be stigmatized
+as dishonest. Where the alleged fraudulent act is not in the nature of deceit
+or falsehood, the causal link between the dishonest conduct and the deprivation
+may not depend on showing that the victim relied on or was induced to act by
+the fraudulent act. R’s conduct constituted other fraudulent means because it can
+properly be stigmatized as dishonest conduct that caused a risk of deprivation
+to the betting public. There is a direct causal relationship between R’s
+conduct and a risk of financial deprivation to the betting public. The trial
+judge erred in law by finding that the betting public was not put at risk of
+deprivation and that any risk of deprivation was too remote.                     The
+trial judge made the necessary findings of fact to support the fraud convictions
+entered by the Court of Appeal, including in relation to both required aspects
+of the required mens rea of fraud. The trial judge found that R knew
+that his acts were dishonest and, in the context of the cheating while playing
+a game charges, that he knew that his dishonest conduct put bettors at risk of
+deprivation. That, after all, is what cheating is. Cases Cited                     Distinguished:
+Harless v. United States, 1 Morris 169 (1843); referred to: Ross,
+Banks and Dyson v. The Queen, [1968] S.C.R. 786; R. v. Graveline,
+2006 SCC 16, [2006] 1 S.C.R. 609; R. v. Théroux, [1993] 2 S.C.R. 5; R.
+v. Zlatic, [1993] 2 S.C.R. 29; R. v. Olan, [1978] 2 S.C.R. 1175; Scott
+v. Metropolitan Police Commissioner, [1975] A.C. 819; Vézina and Côté v.
+The Queen, [1986] 1 S.C.R. 2; R. v. Cassidy, [1989] 2 S.C.R. 345. Statutes and Regulations Cited Ontario. Racing Commission. Rules of Standardbred Racing, 2008,
+r. 10.01.                     APPEAL
+from a judgment of the Ontario Court of Appeal (Simmons, Rouleau and Tulloch
+JJ.A.), 2014 ONCA 744, 122 O.R. (3d) 594, 316 C.C.C. (3d) 527, 325 O.A.C. 351,
+[2014] O.J. No. 5094 (QL), 2014 CarswellOnt 14907 (WL Can.), setting aside
+the accused’s acquittals and ordering a new trial. Appeal dismissed.                     Gregory Lafontaine, for the appellant.                     Michael Kelly and Matthew Asma, for the respondent.                     The
+judgment of the Court was delivered by                     Cromwell J. — I.             
+Introduction [1]                             
+This appeal was heard and dismissed, with
+reasons to follow, on October 13, 2015. These are the reasons. [2]                             
+The appellant, Mr. Riesberry, tried to rig two
+horse races by drugging two horses. The question at the bottom of this appeal
+is whether the provisions of the Criminal Code, R.S.C. 1985, c. C-46 ,
+under which he was charged can apply to this conduct. [3]                             
+Mr. Riesberry was a licensed trainer of
+Standardbred horses. He was caught on video drugging one horse, and caught
+trying to sneak syringes with drugs into the track for the purpose of doing the
+same thing to another.  For the drugging caught on tape, he was charged with
+cheating while playing a game (a horse race) with the intent to defraud the
+public wagering money on its outcome (s. 209  of the Criminal Code ) and
+with defrauding the public of money wagered on the outcome of a horse race (s.
+380(1) ).  For trying to sneak the drugs into the track, he was charged with
+attempting to commit the same offences. At trial, he was acquitted. However,
+the Ontario Court of Appeal allowed the Crown’s appeal, set aside the
+acquittals on all four counts, ordered a new trial on the cheating and
+attempted cheating counts (“cheating counts”) and entered convictions on the
+fraud and attempted fraud counts (“fraud counts”): 2014 ONCA 744, 122 O.R. (3d)
+594. [4]                             
+Mr. Riesberry appeals the fraud convictions as
+of right and the order for a new trial by leave of the Court. There are four
+main issues before us, two concern the cheating counts and two the fraud
+counts. [5]                             
+With respect to the cheating counts, the main
+questions are (i) whether the trial judge made a legal error in his interpretation
+of what constitutes a “game”; and (ii) whether there was any evidence that
+could establish that a horse race is a “game” as defined in s. 197  of the Criminal
+Code  for these offences.  I agree with the Court of Appeal that the trial
+judge erred in this respect and that there was evidence that could establish
+that a horse race is a game as defined for these offences. [6]                             
+The two issues in relation to the fraud
+convictions are (i) whether the Court of Appeal was wrong to reverse the trial
+judge’s finding that the betting public was not put at risk by his conduct; and
+(ii) whether, even if the trial judge made that error, the Court of Appeal was
+wrong to have entered convictions rather than ordering a new trial. I also
+agree with the Court of Appeal’s disposition of these issues. II.          
+Analysis A.          
+Brief Overview of the Facts [7]                             
+At trial, the judge found that, before a race,
+Mr. Riesberry injected a horse, “Everyone’s Fantasy”, with epinephrine and/or clenbuterol
+for the purpose of enhancing the horse’s performance in the race. The horse
+participated in the race and finished sixth. The trial judge also found that,
+on a later occasion, Mr. Riesberry tried to bring a syringe loaded with prohibited
+drugs onto raceway property at which another horse, “Good Long Life”, was to
+race later that day. Mr. Riesberry was arrested and the horse was scratched
+from the race. The trial judge found that Mr. Riesberry, as a licensed trainer,
+was bound by rules barring possession of syringes and use of the drugs in
+question in order to enhance performance: Ontario Racing Commission, Rules
+of Standardbred Racing, 2008, r. 10.01(a) and (b). The trial judge also
+found that, in both instances, Mr. Riesberry had breached those rules and
+attempted to create an unfair advantage for the horses in the race.
+Nonetheless, the trial judge acquitted on all charges. [8]                             
+It was undisputed on appeal that bets in excess
+of $5,000 had been placed on both races and that the trial judge erred in
+saying otherwise: Court of Appeal reasons, at para. 18. B.           
+The Cheating at Play Convictions [9]                             
+With respect to the cheating while playing a
+game charges, the trial judge concluded that a horse race is not a game as
+defined in the Criminal Code  and therefore the charges were not made
+out. The first issue is whether the trial judge erred in law in his legal
+interpretation of what constitutes a “game” for the purposes of this offence. [10]                         
+The charges against Mr. Riesberry arise under s.
+209  of the Criminal Code  which provides that everyone is guilty of an
+offence who, “with intent to defraud any person, cheats while playing a game”.
+“Game” is defined as “a game of chance or mixed chance and skill”: s. 197(1) .
+It follows that the Crown had to establish that a horse race is a game with at
+least some element of chance. The trial judge relied on the U.S. case of Harless
+v. United States, 1 Morris 169 (Iowa 1843), to conclude that a horse race
+is a game of pure skill. [11]                         
+It is somewhat unclear to what extent the trial
+judge relied on this authority as stating the law in Canada. However, to the
+extent that he did so, he made a legal error. The statute considered by the
+U.S. court divided games into only two categories, games of chance and games of
+skill. That case, therefore, did not address a point that must be addressed
+under the Criminal Code . That point is whether horse racing is a game of
+mixed chance and skill. The applicable Canadian law on this point is
+found in Ross, Banks and Dyson v. The Queen, [1968] S.C.R. 786. There
+must be a “systematic resort to chance” to determine outcomes, not merely the
+“unpredictables that may occasionally defeat skill”: p. 791. [12]                         
+Even if we were to accept that the trial judge
+was alive to this difference between the law as set out in Harless and
+Canadian law, he nonetheless erred by failing to consider evidence in the
+record upon which a trier of fact could find that there was systematic resort
+to chance which made the race a game of mixed chance and skill.  I therefore
+conclude that the trial judge erred in law on this aspect of the case. [13]                         
+The Court of Appeal’s finding of a legal error
+at trial does not, on its own, justify setting aside the acquittals and
+ordering a new trial. A new trial may be ordered only if the Crown satisfies
+the appellate court that the “error (or errors) of the trial judge might
+reasonably be thought, in the concrete reality of the case at hand, to have had
+a material bearing on the acquittal”: R. v. Graveline, 2006 SCC 16, [2006]
+1 S.C.R. 609, at para. 14, per Fish J. for the majority. Whether the Crown has
+satisfied this burden is the second issue. The answer depends in this case on
+whether there is in the trial record any evidence which could support a finding
+that horse racing has a sufficient element of chance to be considered a game of
+mixed chance and skill. Mr. Riesberry claims that there is not while the Crown
+says that there is. [14]                         
+I agree with the Court of Appeal that the record
+at trial contains evidence upon which horse racing, in the present
+circumstances, could be found to involve a systematic resort to chance. There
+was evidence that post position is determined by a computerized random post
+position generator and that certain post positions are more advantageous than
+others: Court of Appeal reasons, at para. 41. It follows that the Court of
+Appeal was correct to order a new trial on these charges. Of course, whether
+the evidence actually establishes this will be for the trier of fact at the new
+trial to determine. [15]                         
+Like the Court of Appeal, I would not address on
+appeal the Crown’s highly fact-driven alternative position that Mr. Riesberry’s
+conduct converted what would otherwise be a game of pure skill into one of
+mixed chance and skill. [16]                         
+To conclude on the cheating counts, the Court of
+Appeal correctly ordered a new trial on these charges. C.           
+The Fraud Charges [17]                         
+Fraud consists of dishonest conduct that results
+in at least a risk of deprivation to the victim. The trial judge found that the
+Crown had failed to prove that the betting public was at risk of deprivation
+due to Mr. Riesberry’s conduct. The trial judge also found that, even if the
+Crown had proved deprivation, there was no proof of any causal connection
+between Mr. Riesberry’s actions and any risk of loss of the money wagered by the
+betting public. [18]                         
+The Court of Appeal allowed the Crown’s appeal
+from the acquittals. On the fraud charges, the court identified a number of
+legal errors such that the acquittals had to be set aside. The court also
+concluded that if the trial judge had not made these legal errors, he would
+have convicted Mr. Riesberry of both fraud counts. [19]                         
+Mr. Riesberry submits first that his conduct did
+not put the betting public at risk of deprivation and that any risk of
+deprivation was too remote. His second submission is that, even if the trial
+judge was wrong about this, the Court of Appeal should not have entered
+convictions on the fraud charges, but ought instead to have ordered a new
+trial. I will address these points in turn. (1)          
+Did Mr. Riesberry’s Fraudulent Acts Cause a Risk
+of Deprivation That Was Not Too Remote? [20]                         
+Like virtually all offences, fraud consists of
+two main components, the prohibited act (actus reus) and the required
+state of mind (mens rea). Mr. Riesberry’s submission focuses on one of
+the two aspects of the actus reus. Those two aspects are: 1.  . . . an act
+of deceit, a falsehood or some other fraudulent means; and  2.   deprivation
+caused by the prohibited act, which may consist in actual loss or the placing of
+the victim’s pecuniary interests at risk.  (R. v.
+Théroux, [1993] 2 S.C.R. 5, at p. 20; R. v. Zlatic, [1993] 2 S.C.R.
+29, at p. 43) [21]                         
+The issue here concerns the aspect of
+deprivation. Mr. Riesberry contends that there was no evidence that his
+fraudulent conduct caused any risk of deprivation or that at least any such
+risk was too remote from his conduct. He submits that the Crown did not
+establish that anyone betting on the race had been induced to bet by, or would
+not have bet but for, his fraudulent conduct. [22]                         
+I cannot accept this position. Contrary to Mr.
+Riesberry’s contention, proof of fraud does not always depend on showing that
+the alleged victim relied on the fraudulent conduct or was induced
+by it to act to his or her detriment. What is required in all cases is proof
+that there is a sufficient causal connection between the fraudulent act and the
+victim’s risk of deprivation. In some cases, this causal link may be
+established by showing that the victim of the fraud acted to his or her
+detriment as a result of relying on or being induced to act by the accused’s
+fraudulent conduct. But this is not the only way the causal link may be
+established. [23]                         
+We should first be clear about what Mr.
+Riesberry’s fraudulent conduct was before turning to the question of whether it
+caused a risk of deprivation. Fraudulent conduct for the purposes of a fraud
+prosecution is not limited to deception, such as deception by
+misrepresentations of fact. Rather, fraud requires proof of “deceit, falsehood
+or other fraudulent means”: s. 380(1). The term “other fraudulent means”
+encompasses “all other means which can properly be stigmatized as dishonest”: R.
+v. Olan, [1978] 2 S.C.R. 1175, at p. 1180. The House of Lords made the same
+point in Scott v. Metropolitan Police Commissioner, [1975] A.C. 819, a
+case approved by the Court in Olan (p. 1181). Fraud, according to
+Viscount Dilhorne in Scott, may consist of depriving “a person
+dishonestly of something which is his or of something to which he is or would
+or might but for the perpetration of the fraud be entitled”: p. 839.  And as
+Lord Diplock said, the fraudulent means “need not involve fraudulent
+misrepresentation such as is needed to constitute the civil tort of deceit”: ibid.,
+at p. 841. [24]                         
+It follows that where the alleged fraudulent act
+is not in the nature of deceit or falsehood, such as a misrepresentation of
+fact, the causal link between the dishonest conduct and the deprivation may not
+depend on showing that the victim relied on or was induced to act by the
+fraudulent act. This is such a case. [25]                         
+Mr. Riesberry injected and attempted to inject the
+racehorses with performance-enhancing substances. The use of such drugs is
+prohibited and trainers such as Mr. Riesberry are prohibited even from
+possessing loaded syringes at a racetrack. This conduct constituted “other
+fraudulent means” because in the highly regulated setting in which he acted,
+that conduct can “properly be stigmatized as dishonest”: Olan, at
+p. 1180. He carried out these dishonest acts for the purpose of affecting the
+outcome of two horse races on which members of the public placed bets.  His
+dishonest acts, therefore, were intended to and in one case actually did result
+in the possibility that a horse that might otherwise have won would not. The
+conduct therefore caused a risk of deprivation to the betting public: it
+created the risk of betting on a horse that, but for Mr. Riesberry’s dishonest
+acts, might have won and led to a payout to the persons betting on that horse.
+To return to Viscount Dilhorne’s words in Scott, Mr. Riesberry’s
+dishonest conduct created a risk that bettors would be deprived dishonestly of
+something which, but for the dishonest act, they might have obtained. [26]                         
+There is a direct causal relationship between
+Mr. Riesberry’s dishonest acts and the risk of financial deprivation to the
+betting public. Simply put, a rigged race creates a risk of prejudice to the
+economic interests of bettors. Provided that a causal link exists, the absence
+of inducement or reliance is irrelevant. I agree with the Court of Appeal that
+Mr. Riesberry’s reliance on Vézina and
+Côté v. The Queen, [1986] 1 S.C.R. 2, is misplaced.
+That case made it clear that [f]raud
+consists of being dishonest for the purpose of obtaining an advantage and which
+results in prejudice or a risk of prejudice to someone’s “property, money or
+valuable security”. There is no need to target a victim . . . and the victim
+may not be ascertained. [p. 19] [27]                         
+This statement covers what Mr. Riesberry did. [28]                         
+I conclude that the trial judge erred in law by
+finding that the betting public was not put at risk of deprivation by Mr.
+Riesberry’s dishonest acts and that any risk of deprivation was too remote. (2)          
+Was the Court of Appeal Wrong to Enter Convictions
+Rather Than Order a New Trial? [29]                         
+Mr. Riesberry submits that the Court of Appeal
+erred by entering convictions because the trial judge had not made all of the
+necessary findings of fact to support those convictions: see R. v. Cassidy,
+[1989] 2 S.C.R. 345, at pp. 354-55. These submissions focus on what Mr.
+Riesberry contends is the absence of the necessary findings of fact in relation
+to the mental element or mens rea of fraud. [30]                         
+The mental element of fraud consists of two
+states of mind: 1.     
+subjective knowledge of the prohibited act; and  2.   subjective knowledge that the prohibited act could have as a consequence
+the deprivation of another (which deprivation may consist in knowledge that the
+victim’s pecuniary interests are put at risk).  (Théroux,
+at p. 20; Zlatic, at p. 43) [31]                         
+Mr. Riesberry’s position is that the trial judge,
+having dismissed the fraud charges on the basis of no proof of the actus
+reus, did not go on to make findings in relation to these two aspects of
+the required mens rea. However, I agree with the Court of Appeal that
+the trial judge in fact did make the necessary findings. [32]                         
+There can be no doubt that the trial judge found
+that Mr. Riesberry knew that his acts were dishonest, which is the first aspect
+of the mens rea. The trial judge found that his conduct was for the
+purpose of enhancing his horses’ performances, not for any legitimate medical
+purpose. As for the second aspect, the trial judge held, in his analysis of the
+same record in the context of the cheating while playing a game charges, that
+Mr. Riesberry’s conduct amounted to cheating. In other words, he intended to
+create an unfair advantage for his horses in their races. This is a finding of
+fact that Mr. Riesberry knew that his dishonest conduct put bettors at risk of
+deprivation.  That, after all, is what cheating is. (3)          
+Conclusion [33]                         
+In my view, Mr. Riesberry’s submissions in
+relation to the fraud charges cannot be accepted. III.       
+Disposition [34]                         
+As announced at the conclusion of the hearing of
+the appeal, the appeal is dismissed.                     Appeal
+dismissed.                     Solicitors
+for the appellant: Lafontaine & Associates, Toronto.                     Solicitor for the
+respondent: Attorney General of Ontario, Toronto.   

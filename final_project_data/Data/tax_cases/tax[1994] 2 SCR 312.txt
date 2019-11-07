@@ -1,0 +1,643 @@
+Canada v. Antosko, [1994] 2
+S.C.R. 312  H. Boris Antosko         Appellant  v.  Her Majesty The Queen                                                                   Respondent  and between  Stanley F. Trzop           Appellant  v.  Her Majesty The Queen                                                                   Respondent  and between  Stanley F. Trzop           Appellant  v.  Her Majesty The Queen                                                                   Respondent  Indexed as:  Canada v.
+Antosko  File Nos.:  23282, 23283,
+23284.  1994:  February 2;
+1994:  May 26.   on appeal from the federal court of
+appeal                        Interest on the
+debenture was treated as accruing daily from the date the board discharged the
+bank loan.  Interest on the four promissory notes also accrued daily.  In the
+1977 taxation year, the appellants each received $38,335 from the company in
+partial payment of interest which had accrued on the total debt and was owed to
+the board prior to the transfer.  The appellants included this interest as
+income pursuant to s. 12(1)(c) of the Income Tax Act, and
+then deducted these amounts pursuant to s. 20(14)(b).  In the 1980
+taxation year, the appellant Trzop received $283,363 from the company as a
+similar partial payment of interest.  This amount was also included as income
+and then claimed as a deduction.                     The Minister of
+National Revenue disallowed the deductions.  The appellants successfully
+appealed these disallowances to the Tax Court of Canada.  An appeal by the Minister
+to the Federal Court, Trial Division was allowed, and a further appeal by the
+appellants to the Federal Court of Appeal was dismissed, with the result that
+the deductions were disallowed.  At issue here was:  (1) whether the
+transaction fell within the ambit of s. 20(14) of the Income Tax Act;
+(2) if so, whether s. 20(14) was to be interpreted as stating that no
+deduction pursuant to s. 20(14)(b) is available to the transferee
+unless it is shown that the transferor included this same amount in the computation
+of its income, pursuant to s. 20(14)(a); and (3) whether all
+the interest sought to be deducted by the appellants, given completion of the
+other requirements for deduction, met the conditions set out in s. 20(14).                     Held:  The appeals should be allowed.                     A taxpayer is
+entitled to structure his or her affairs so as to avoid liability for tax. 
+Where the general standards legislated to determine unacceptable tax avoidance
+mechanisms are inapplicable, the court has no authority to legislate additional
+ones.  The courts, however, will not permit the taxpayer to take advantage of
+deductions or exemptions which are founded on a sham transaction.                     Two conditions must
+be met in order to come within the opening words of s. 20(14).  First,
+there must be an assignment or a transfer of a debt obligation.  Second, the
+transferee must become entitled, as a result of the transfer, to interest
+accruing before the date of the transfer but not payable until after that
+date.  These two conditions were met here.  A purchase of accrued interest by
+the appellants in the acquisition of debt obligations occurred and the
+agreement to postpone payment of interest until after the transfer was legally
+enforceable.                     The adequacy of the
+consideration is not relevant, absent allegations of artificiality or of a
+sham.  This transaction was not a sham.  The terms of the section were met in a
+manner that was not artificial.                     Where the words of
+the section are not ambiguous, this Court should not find that the appellants
+are nonetheless disentitled to a deduction because they do not deserve a
+"windfall".  In the absence of a situation of ambiguity, such that
+the court must look to the results of a transaction to assist in ascertaining
+the intent of Parliament, a normative assessment of the consequences of the
+application of a given provision is within the ambit of the legislature, not
+the courts.                     The purpose of
+s. 20(14) is to avoid double taxation by apportioning accrued interest
+between transferor and transferee.  The interest accrued prior to the transfer
+date is allocated to the transferor's calculation of income, presumably because
+the transferor, as owner of the debt obligation, will be legally entitled to
+interest up to the date of transfer and this fact will be reflected in the consideration
+to be paid by the transferee for the debt obligation.  The accrued interest is
+therefore part of the income of the transferor, and not of the income of the
+transferee.                     The ability of a
+taxpayer to claim a deduction pursuant to s. 20(14)(b) is not
+dependent on the inclusion by the transferor pursuant to s. 20(14)(a)
+of the same amount in his or her calculation of income.  Arguments to the
+contrary would transform the section from one meant to avoid double taxation
+into one designed to ensure taxation of the entire amount of interest accrued
+during the taxation year.  Where specific provisions of the Income Tax Act
+intend to make the tax consequences for one party conditional on the acts or
+position of another party, the sections are drafted so that this
+interdependence is clear.                      The appellants are
+entitled to the full amount of the deductions.  The legally enforceable
+agreement to suspend repayment of the interest during the two-year period meant
+that the accrued interest was not payable before the transfer; nor was it
+payable coincident with the transfer.  All the accrued interest became payable
+immediately after the transfer was completed, thus meeting the terms of s.
+20(14).  Cases Cited                     Distinguished:  Hill v. M.N.R., 81 D.T.C. 167;
+Courtright v. M.N.R., 80 D.T.C. 1609; disapproved:  Husain v.
+M.N.R., 91 D.T.C. 278; considered:  Stubart Investments Ltd. v.
+The Queen, [1984] 1 S.C.R. 536; referred to:  McClurg v. Canada,
+[1990] 3 S.C.R. 1020; Mattabi Mines Ltd. v. Ontario (Minister of Revenue),
+[1988] 2 S.C.R. 175; Symes v. Canada, [1993] 4 S.C.R. 695.  Statutes and
+Regulations Cited   Authors Cited   Dreidger,
+Elmer A.  Construction of Statutes, 2nd ed. Toronto:  Butterworths,
+1983.  Nadeau,
+Claude.  "The Interpretation of Taxing Statutes Since Stubart"
+(1990), 42 Can. Tax Found. 49:1.   Ulmer,
+John M.  "Taxation of Interest Income" (1990), 42 Can. Tax
+Found. 8:1.                      Eugene J.
+Mockler, Q.C.,
+for the appellants.                     Donald G.
+Gibson and Josée
+Tremblay, for the respondent.                     The judgment of the
+Court was delivered by                     Iacobucci
+J. -- These appeals
+concern the interpretation of s. 20(14) of the Income Tax Act, S.C.
+1970-71-72, c. 63.  This section permits a transferee of a debt instrument to
+deduct from the calculation of his or her taxable income the interest accruing
+on the instrument prior to the date of transfer.  The narrow issue in these
+appeals is whether, when the debt in question was transferred from a non-taxable
+government body to investors trying to rehabilitate a failing company, such a
+transaction came within the scope of s. 20(14).  As the three appeals are based
+on essentially identical facts, and indeed relate to the same transaction, I
+will refer to them collectively as "the appeal".  I.                 Facts                     Atlantic Forest
+Products Ltd. (the "company") was the owner of a plant, located in
+Minto, New Brunswick, which manufactured charcoal briquettes.  The New
+Brunswick Industrial Finance Board (the "board"), a provincially
+incorporated agency of the Province of New Brunswick, provided financing to the
+company.  The board became the controlling shareholder of the company, holding
+80% of its issued and outstanding shares.  In February and March 1971, the
+board guaranteed a $3 million loan from the Bank of Nova Scotia (the
+"bank") to the company.  The company executed in favour of the board
+a fixed and floating charge debenture securing the board's guarantee of the
+loan.  This debenture contained a covenant on the part of the company to repay
+all expenditures made by the board in protecting its security, together with
+interest, and to repay the bank loan according to a specified schedule.  The
+parties agreed that, in the event of default by the company on the repayment,
+the board could pay to the bank the amounts in default and these payments would
+then constitute a further charge on the lands and premises of the company.        Between January 1972 and July
+1973, the board made four direct loans to the company totalling $1.425
+million.  The board received four demand promissory notes for the principal
+amounts of these loans, with interest payable monthly at rates varying from 5
+to 9.5%.  In September 1974, the company defaulted on the bank loan, and the
+board was compelled to make good on its guarantee.  The board paid $3.375
+million to the bank in full satisfaction of all outstanding principal and
+interest on the loan.  By March 1975, the total indebtedness of the company to
+the board was approximately $5 million.        On March 1, 1975, the board
+entered into an agreement with the appellants, Antosko and Trzop, in which the
+appellants acquired all of the board's common shares in the company for a
+consideration of $1.  The board also covenanted to ensure that the company was
+debt free, except for the indebtedness to the board in the amount of $5 million
+plus accrued interest, and to postpone the obligation to repay this
+indebtedness, and interest thereon, for a period of two years.  In return, the
+appellants promised to operate the company during this two-year period in a
+good and business-like manner.  The board agreed that, upon expiration of the
+two-year period and if all its conditions were met, it would then sell to the
+appellants the $5 million debt plus accrued interest for the sum of $10.                     Following the
+execution of the above agreement, the appellants changed the name of the
+company to Resort Estates Limited.  In 1976, the obligations of the board
+passed to the Province of New Brunswick as represented by the Minister of
+Commerce and Development.  The agreement, however, remained unchanged.  The
+appellants satisfied their obligations under the agreement and thus, on July 6,
+1977, the board sold to them the total indebtedness of the company.  The
+Minister of Commerce and Development assigned to the appellants the debenture,
+promissory notes, realty mortgage and chattel mortgage that had been given as
+security for the outstanding indebtedness of the company to the board.                     Interest on the
+debenture issued by the company as security for the $3.375 million paid by the
+board to the bank in fulfilment of its loan guarantee was treated as accruing
+daily at a rate of 11.5% per annum from the date the bank was paid.  Interest
+on the four promissory notes had also accrued daily.  In the 1977 taxation year,
+the appellants each received $38,335 from the company in partial payment of
+interest which had accrued on the total debt prior to transfer.  The appellants
+included this interest as income pursuant to s. 12(1)(c) of the Income
+Tax Act, and then claimed deductions of these amounts pursuant to s.
+20(14)(b).  In the 1980 taxation year, the appellant Trzop received
+$283,363 from the company as a similar partial payment of interest.  This
+amount was also included as income and then claimed as a deduction.                     The Minister of
+National Revenue disallowed the deductions.  The appellants successfully
+appealed these disallowances to the Tax Court of Canada.  An appeal by the
+respondent Minister to the Federal Court, Trial Division was allowed, and a
+further appeal by the appellants to the Federal Court of Appeal was dismissed,
+with the result that the deductions were disallowed.  The appellants now appeal
+the decision of the Federal Court of Appeal to this Court.  II.                Relevant
+Statutory Provisions  Income Tax Act, S.C. 1970-71-72, c. 63                    12. (1) There shall be included in
+computing the income of a taxpayer for a taxation year as income from a
+business or property such of the following amounts as are applicable:                                                                     .
+. .  (c)
+any amount received by the taxpayer in the year or receivable by him in the
+year (depending upon the method regularly followed by the taxpayer in computing
+his profit) as, on account or in lieu of payment of, or in satisfaction of,
+interest;                                                                     .
+. .                            20. ...                     (14)
+Where, by virtue of an assignment or other transfer of a bond, debenture or
+similar security (other than an income bond or an income debenture), including
+for greater certainty an assignment or other transfer after June 18, 1971 of a
+bill, note, mortgage, hypothec or similar obligation, the transferee has become
+entitled to interest in respect of a period commencing before the time of
+transfer and ending after that time that is not payable until after the time of
+transfer, an amount equal to that proportion of the interest that the number of
+days in the portion of the period that preceded the day of transfer is of the
+number of days in the whole period  (a)
+shall be included in computing the transferor's income for the taxation year in
+which the transfer was made, and  (b)
+may be deducted in computing the transferee's income for a taxation year in the
+computation of which there has been included  (i)
+the full amount of the interest                                       under
+section 12, or  (ii)
+a portion of the interest                                       under
+paragraph (a).     III.               Judgments Below   Tax Court of Canada  (St-Onge T.C.J.)                      The Tax Court judge
+began his discussion by considering the decisions in Hill v. M.N.R., 81
+D.T.C. 167, and Courtright v. M.N.R., 80 D.T.C. 1609, relied upon by the
+respondent for the correct interpretation of s. 20(14).  The Tax Court judge
+held that these decisions were distinguishable; in Hill, no legal
+transfer of a debt took place, and in Courtright, there was no evidence
+to show that any accrued interest was due and transferred.  In this case, the
+existence of both of these factors was not in doubt.        The Tax Court judge interpreted
+s. 20(14) as stating that, when a transfer of a debt with accrued interest took
+place, the transferor was required to include this interest in his or her
+income in the year of transfer, while the transferee could deduct the amount of
+accrued interest that he or she received.  In the view of the Tax Court judge,
+the ability of the transferee to deduct the income was not dependent on the
+transferor's inclusion of it: This
+section does not say that the transferee has to inquire to know whether the
+transferor has included the said accrued interest in his income.  The taxpayer
+is not an employee nor an investigator for the Department of National Revenue.  Furthermore,
+a taxpayer has no means to know if another taxpayer has reported all his
+income.        Section 20(14) did not state
+that the right of the transferee to deduct the accrued interest was in any way
+affected in a case where the transferor was tax exempt.  The Tax Court judge
+concluded that the appellants met the terms of the exempting section, and
+allowed the taxpayers' appeals with costs.  Federal Court, Trial Division, 90 D.T.C. 6111 (McNair J.)                     McNair J. agreed
+with the factual finding of the Tax Court judge that interest had accrued on
+the debt during the time that its repayment was suspended.  However, McNair J.
+rejected the construction advanced by the appellants and accepted by the Tax
+Court judge as to the correct interpretation of s. 20(14).  Relying on the
+decision of this Court in Stubart Investments Ltd. v. The Queen, [1984]
+1 S.C.R. 536, he concluded at p. 6115:  . .
+.one cannot blithely ignore the mandatory requirement of paragraph 20(14)(a)
+that the amount of accrued interest must be included in the transferor's income
+before the transferee of the debt obligation can deduct it under paragraph
+20(14)(b).  In my view, the section was designed to provide for the
+apportionment of accrued interest as between the transferor and transferee of a
+bond or other debt obligation where the same is transferred between interest
+dates, thus avoiding the incidence of double taxation.                     The appellants were
+therefore not entitled to rely on the deduction provision, as there was no
+evidence that the interest sought to be deducted was included in the income of
+the transferor during the years in question.  Relying on the reasoning of the
+Tax Appeal Board in Courtright, supra, and in Hill, supra,
+McNair J. allowed the appeals.  Federal Court of Appeal, 92 D.T.C. 6388 (Isaac C.J., Heald
+and Stone JJ.A.)        Writing for the Federal Court of
+Appeal, Stone J.A. approached the matter by considering, in light of economic
+and commercial reality, the purpose of s. 20(14) at the time it was adopted. 
+Stone J.A. relied on the reasons of this Court in Stubart Investments Ltd.,
+supra, and McClurg v. Canada, [1990] 3 S.C.R. 1020, which
+indicated that the object and spirit of the section should be derived from the
+existing jurisprudence.  Stone J.A. found at p. 6393 that the purpose of s.
+20(14) was the avoidance of double taxation:  The
+effect is that, ordinarily, interest which accrues before the transfer date
+becomes taxable in the hands of the transferor only and that the transferee is
+taxable on the interest which accrues after that date.         In the view of Stone J.A., when
+this purpose was compared to the specific transaction at issue, it was clear
+that the board did not receive payment from the appellants for the interest
+which had accrued on the debt obligations during the two-year period
+immediately following the agreement to transfer these debts at a later date. 
+What bound the board to carry out the transfer was not the nominal monetary
+consideration received, but rather the fulfilment by the appellants of their
+promise to operate the company in a business-like manner.  Similarly, the
+objectives of the appellants were not to purchase accrued interest by acquiring
+debt obligations, but rather to take control of a company in distress and turn
+its fortunes around, to the benefit of themselves and its employees.  Stone
+J.A. stated at pp. 6393-94: In
+my opinion, the subsection was not intended to apply in such unique
+circumstances.  If, on the other hand, the debt obligation could be viewed as
+one to which the subsection applies, I would agree that a deduction under
+paragraph (b) is not available because it has not been shown that the
+Board, whose identity is unquestioned, included the same amount in computing
+its income.  In my view, the word "and" at the end of paragraph (a)
+and the object and spirit of the subsection support this construction.  Stone J.A. concluded that the
+deduction was not open to the appellants, and dismissed the appeals with costs.  IV.              Issues  1.Whether
+the transaction at issue in these appeals falls within the ambit of s. 20(14)
+of the Income Tax Act; and  2.If
+so, whether s. 20(14) is to be interpreted as stating that no deduction
+pursuant to s. 20(14)(b) is available to the transferee unless it is
+shown that the transferor included this same amount in the computation of its
+income, pursuant to s. 20(14)(a); and  3.Whether,
+if the appellants have otherwise fulfilled the requirements for deduction, all
+of the interest sought to be deducted by them meets the conditions set out in
+s. 20(14).  V.                Analysis  A.Does
+This Transaction Come Within the Ambit of Section 20(14) of the Income Tax Act?                     The Federal Court
+of Appeal, while agreeing with the conclusion of the Trial Division that the
+appellants were not entitled to a deduction of interest because the board, as a
+non-taxable entity, had not included that amount in the calculation of its own
+income, also found against the appellants on another ground.  The Court of
+Appeal held that the transaction in this appeal, within which the accrued
+interest was transferred, was not meant to give rise to a deduction pursuant to
+s. 20(14).                     For
+the purposes of analysis, I repeat the operative portion of s. 20(14):                            20. ...                     (14)
+Where, by virtue of an assignment or other transfer of a bond, debenture or
+similar security. . . the transferee has become entitled to interest in respect
+of a period commencing before the time of transfer and ending after that time
+that is not payable until after the time of the transfer, an amount equal to
+that proportion of the interest that the number of days in the portion of the
+period that preceded the day of transfer is of the number of days in the whole
+period                            (a) 
+shall be included in computing the transferor's income for     the taxation
+year in which the transfer was made, and  (b) 
+may be deducted in computing the transferee's income for a taxation year in the
+computation of which there has been included  (i) 
+the full amount of the interest under section 12, or  (ii) 
+a portion of the interest under paragraph (a).                     In order to come
+within the opening words of the subsection, two conditions must be satisfied. 
+First, there must be an assignment or a transfer of a debt obligation.  Second,
+the transferee must become entitled, as a result of the transfer, to interest accruing
+before the date of the transfer but not payable until after that date.  All of
+the courts below agreed that these two conditions were met in fact.                     However, the
+Federal Court of Appeal, the only court to deal with this point, took the view
+that the transaction in question in this appeal was nonetheless not included
+within the class of transactions giving rise to a deduction pursuant to this
+section.  The Court of Appeal held that this transfer of accrued interest was
+not in accord with the purpose of the section, when the section was viewed in
+light of economic and commercial reality.  In its view, the object or spirit of
+the provision was the avoidance of double taxation, and the transfer between
+the board and the appellants had nothing to do with such a purpose.  An
+evaluation of the correctness of this conclusion requires first, a review of
+the proper approach to the interpretation of taxing statutes and, second, a
+closer scrutiny of the transaction that took place between the appellants and
+the board.                     The starting point
+for this inquiry is the judgment of this Court in Stubart Investments Ltd.
+v. The Queen, supra.  That case concerned a sale of assets from one
+sister company to another.  The transferee ran the transferor's business as
+agent for the transferor, and sought to avail itself of a deduction of the
+transferor's loss carry-forward.  Estey J. reaffirmed the traditional position
+that the taxpayer is entitled to structure his or her affairs so as to avoid
+liability for tax.  He also noted that the legislature provided general
+standards for the determination of what sort of tax avoidance mechanisms are
+unacceptable.  Where these limitations are inapplicable, the court has no
+authority to legislate additional ones.                     However, the courts
+will not permit the taxpayer to take advantage of deductions or exemptions
+which are founded on a sham transaction.  Such a situation would arise where
+(at p. 572): The
+transaction and the form in which it was cast by the parties and their legal
+and accounting advisers [can] be said to have been so constructed as to create
+a false impression in the eyes of a third party, specifically the taxing
+authority.  In this case, the respondent agrees
+that this transaction cannot be characterized as a sham.  There was a legally
+valid transfer of the assets of the company to the appellants, and a subsequent
+transfer to them of the company's debt obligations.                     Estey J. went on to
+reject the submission that the courts should adopt a test which required a
+strict business purpose for the transaction, independent of the goal of tax
+avoidance, before an entitlement to a deduction or exemption would be
+recognized.  In his view, this would run counter to the modern legislative
+intent infusing the provisions of the Income Tax Act.  The statute had
+to be viewed as not only a tool for raising revenue, but also as a device for
+the attainment of certain economic policy objectives.  Estey J. concluded at p.
+576:  It
+seems more appropriate to turn to an interpretation test which would provide a
+means of applying the Act so as to affect only the conduct of a taxpayer which
+has the designed effect of defeating the expressed intention of Parliament.  In
+short, the tax statute, by this interpretive technique, is extended to reach
+conduct of the taxpayer which clearly falls within "the object and
+spirit" of the taxing provisions.                     In this appeal, the
+appellants argue that their transaction was not structured so as to defeat the
+intention of Parliament.  They sought to acquire the company's debt to preserve
+their economic control of the company.  The respondent argues that the conduct
+of the taxpayers in this case does not fall within the object and spirit of s.
+20(14), and that to interpret the section to cover the transaction in this appeal
+is to give to the appellants a windfall not intended by Parliament.                     In my view, this
+disagreement can be resolved by viewing the passage of Estey J. quoted above in
+the context of his subsequent comments on statutory interpretation.  After
+setting out the traditional approach of strict construction of taxing statutes,
+Estey J. notes at p. 578:  Gradually,
+the role of the tax statute in the community changed, as we have seen, and the
+application of strict construction to it receded.  Courts today apply to this
+statute the plain meaning rule, but in a substantive sense so that if a
+taxpayer is within the spirit of the charge, he may be held liable.  Estey J. relied at p. 578 on the
+following passage from Dreidger, Construction of Statutes (2nd ed.
+1983), at p. 87:                    Today
+there is only one principle or approach, namely, the words of an Act are to be
+read in their entire context and in their grammatical and ordinary sense
+harmoniously with the scheme of the Act, the object of the Act, and the
+intention of Parliament.                     It is this
+principle that must prevail unless the transaction is a sham or is so blatantly
+synthetic as to be effectively artificial.  As Estey J. concludes at p. 580: . .
+. where the substance of the Act, when the clause in question is contextually
+construed, is clear and unambiguous and there is no prohibition in the Act
+which embraces the taxpayer, the taxpayer shall be free to avail himself of the
+beneficial provision in question.  This principle is determinative of the
+present dispute.  While it is true that the courts must view discrete sections
+of the Income Tax Act in light of the other provisions of the Act and of
+the purpose of the legislation, and that they must analyze a given transaction
+in the context of economic and commercial reality, such techniques cannot alter
+the result where the words of the statute are clear and plain and where the
+legal and practical effect of the transaction is undisputed:  Mattabi Mines
+Ltd. v. Ontario (Minister of Revenue), [1988] 2 S.C.R. 175, at p. 194; see
+also Symes v. Canada, [1993] 4 S.C.R. 695.                     It is quite true
+that, as the respondent points out, this transaction was not one where a debt
+obligation was purchased on the open market.  It is equally true that the
+motivation of the parties was not specifically to buy and sell accrued
+interest.  The parties were concerned with returning the company to a solvent
+and stable position so as to generate profit and preserve jobs in a small
+community.  All this, however, is somewhat tangential to the application of s.
+20(14).  The section requires the transfer of a debt obligation whose value
+includes interest accruing before the date of transfer, but payable after that
+date.  The motives of the parties, and the setting in which the transfer took
+place, are simply not determinative of the application of the subsection.                     The respondent
+relies on two cases in which deductions under s. 20(14) were disallowed because
+of the nature of the transactions at issue.  In my view, these cases are
+distinguishable from the present appeal.  The first of these is Courtright
+v. M.N.R., supra. In that case the taxpayer purchased Government of
+Canada bonds with accrued interest shortly before maturity.  The taxpayer had
+the bonds delivered to his bank as collateral against a loan and, on maturity,
+the bonds were redeemed and credited to the taxpayer.  The taxpayer sought to
+deduct as an interest expense the interest accruing prior to the transfer.                     The Minister
+opposed this deduction on three grounds.  First, the Minister argued that the
+bonds were not "assigned" or "transferred" to the taxpayer
+within the meaning of s. 20(14).  Second, the Minister argued that the accrued
+interest on transfer was capital in the hands of the taxpayer such that no
+interest was earned from the ownership of the bonds within the meaning of s.
+12(1)(c) of the Income Tax Act.  Finally, the Minister argued
+that no interest was receivable in the 1975 taxation year within the meaning of
+s. 12(1)(c).  As is evident then, the issue in Courtright was
+whether the taxpayer met the terms of these sections on their face.  This
+required some consideration of the commercial reality of the transaction, but
+did not involve disallowing reliance on a provision when the factual
+requirements for its application were met.                     In this appeal,
+despite conceding that these factual elements are present, the respondent is
+asking the Court to examine and evaluate the transaction in and of itself, and
+to conclude that the transaction is somehow outside the scope of the section in
+issue.   In the absence of evidence that the transaction was a sham or an abuse
+of the provisions of the Act, it is not the role of the court to determine
+whether the transaction in question is one which renders the taxpayer deserving
+of a deduction.  If the terms of the section are met, the taxpayer may rely on
+it, and it is the option of Parliament specifically to preclude further
+reliance in such situations.                     The respondent also
+relies on another "bond flip" case, Hill v. M.N.R., supra. 
+There the taxpayer sold a quantity of bonds within four days of their
+purchase.  Again the Minister supported the disallowance of the deduction by
+arguing that there had been no assignment or transfer within the meaning of s.
+20(14), and that the taxpayer was not entitled to interest within the meaning
+of that section.  The Minister also argued that no interest was receivable
+within the meaning of s. 12(1)(c).  Chairman Cardin found at p. 170:                    The
+evidence forces me to conclude that what we have here is a classic example of
+so-called bond flip transactions, the very nature of which and indeed their
+ultimate purpose and use do not. . . meet the requirements of Section 20(14) of
+the Act.                     Chairman Cardin
+stated that there was no evidence that there had been any physical transfer and
+assignment of the bonds to the taxpayer.  After discussing the relationship of
+s. 20(14)(a) and s. 20(14)(b), an issue which is dealt with later
+in these reasons, he stated at p. 171: What
+I find to be contrary to the provisions of Section 20(14) of the Act is that
+the taxpayer in acquiring and in disposing of the bonds within a very short
+period of time, confers upon himself simultaneously the role of both the transferor
+and transferee of the bonds in each of the transactions.  This sort of
+artificial blending of the role of transferor and transferee by the taxpayer in
+the acquisition and disposition of bonds in bond flip cases does not, in my
+view, come within the wording and the meaning of the interest of Section 20(14)
+of the Act.                     The reasoning in
+this case does not assist the respondent herein.  The Tax Review Board in Hill
+was again faced with the basic question of the applicability of s. 20(14) on
+the terms of its own express wording.  This required an analysis of the
+transaction which occurred, but did not dilute or obscure the plain meaning of
+the requirements of the section.  The board found that no transfer or
+assignment had been proved.  The alternate conclusion of the board that this
+sort of transaction did not create a transfer of accrued interest was again
+based on an analysis of the transaction, and not a reinterpretation of a
+clearly drafted subsection.  The board found that the transfer was artificial,
+since the taxpayer acted as both transferor and transferee for bonds that were
+acquired and resold almost instantaneously.                      This transaction
+was obviously not a sham.  The terms of the section were met in a manner that
+was not artificial.  Where the words of the section are not ambiguous, it is
+not for this Court to find that the appellants should be disentitled to a
+deduction because they do not deserve a "windfall", as the respondent
+contends.  In the absence of a situation of ambiguity, such that the Court must
+look to the results of a transaction to assist in ascertaining the intent of
+Parliament, a normative assessment of the consequences of the application of a
+given provision is within the ambit of the legislature, not the courts. 
+Accordingly, I find that the transaction at issue comes within s. 20(14).  B.                Does Section
+20(14) Permit the Deductions?                     The respondent
+argues in the alternative that, even if s. 20(14) is prima facie
+applicable to the transaction in this case, the appellants are not entitled to
+claim a deduction pursuant to s. 20(14)(b), because the amount of
+interest accrued prior to the transfer was not included in the calculation of
+the income of the transferor, as required by s. 20(14)(a).  It is not
+disputed in this case that the board, as transferor, is a non-taxable entity
+which did not file a tax return in the time period in question.  The Trial
+Division found, and the Court of Appeal agreed, that these two paragraphs were
+to be interpreted conjunctively such that no deduction could be claimed under
+s. 20(14)(b) in the absence of evidence that the amount deducted had
+been included in the transferor's income under s. 20(14)(a).  The
+respondent points to the word "and", which links the two subsections,
+and argues that an interpretation which precludes a deduction, unless the
+interest is included in the transferor's income, best accords with the object
+and spirit of the provision.                     The respondent
+characterizes the purpose of s. 20(14) as the avoidance of double taxation.  I
+agree.  Section 20(14) operates to apportion accrued interest between
+transferor and transferee so as to avoid the double taxation that would occur
+if both parties included all the interest accrued in their respective
+calculations of income.  The interest that has accrued prior to the date of
+transfer is allocated to the transferor's calculation of income, based
+presumably on the reasoning that the transferor, as owner of the debt
+obligation, will be legally entitled to interest up to the date of transfer and
+that this fact will be reflected in the consideration to be paid by the
+transferee for the debt obligation.  The accrued interest is therefore part of
+the income of the transferor, and not of the income of the transferee.                     The respondent,
+however, goes on to argue that since amounts received or receivable as interest
+are included in the calculation of income under s. 12(1)(c), s. 20(14)
+acts to ensure not only that double taxation is avoided, but also that the
+entire amount of interest is included in someone's taxable income.  In my view,
+such an assertion transforms the proposition that the section is meant to avoid
+double taxation into one that the section is designed to ensure taxation of the
+entire amount of interest accrued during the taxation year.  This is, however, not
+true, since if the board as non-taxable owner of the debt obligation did not
+transfer it, none of the accrued interest would be taxable.  Parliament
+anticipates just such an outcome in creating a tax-exempt status for certain
+entities.  Section 20(14) deals with the allocation of interest.  Whether the
+government will ultimately recover tax on that interest is governed by other
+sections of the Act.                     In this regard I
+find helpful the comments of M. D. Templeton, in "Subsection 20(14) and
+the Allocation of Interest -- Buyers Beware" (1990), 38 Can. Tax J.
+85, at pp. 87-88, on the reasons of the Trial Division on this point: . .
+. no words in subsection 20(14) or the Act as a whole make paragraph (b) of the
+subsection conditional on the application of paragraph (a).  On the contrary,
+the grammatical construction of subsection 20(14) suggests that paragraphs (a)
+and (b) become applicable, independent of one another, once the conditions set
+out in the paragraph of subsection 20(14) that precedes paragraphs (a) and (b)
+are met.                     The
+grammatical structure of subsection 20(14) is similar to a number of other
+provisions in the Act in which Parliament lists the income tax consequences
+that arise when certain preconditions are met.  Usually, the preconditions are
+set out in an introductory paragraph or paragraphs and the consequences in
+separate subparagraphs.  We do not know of any canon of statutory
+interpretation that makes a tax consequence listed in the text of a provision
+subject to the taxpayer's compliance with all the other tax consequences listed
+before it. To carry this observation further,
+where specific provisions of the Income Tax Act intend to make the tax
+consequences for one party conditional on the acts or position of another
+party, the sections are drafted so that this interdependence is clear:  see, e.g.,
+ss. 68, 69(5), 70(2), (3) and (5).                     The respondent
+relies on the comments of the Tax Review Board in Courtright, supra,
+and in Hill, supra, that the entitlement to a deduction under
+s. 20(14)(b) is dependent upon inclusion by the transferor in income of
+the amount sought to be deducted, pursuant to s. 20(14)(a).  The
+statements of the Tax Appeal Board to that effect in those cases were obiter,
+and not necessary to the disposition of those appeals.  The "bond
+flips" were designed to give the taxpayer a double deduction under both s.
+20(14)(b) and s. 110.1 (now repealed).  They were wholly synthetic
+transactions that did not even meet the facial requirements of the section, let
+alone accord with its object and spirit when analyzed in light of economic and
+commercial reality:  see Claude Nadeau, "The Interpretation of Taxing
+Statutes Since Stubart" (1990), 42 Can. Tax Found. 49:1, at p.
+49:21.  As discussed above, the same cannot be said of the transaction in this
+case.  The interpretation of the relationship between paras. (a) and (b)
+was not necessary to the result reached in those cases and, in my view, should
+not be considered to be a correct statement of the law.                     The same can be
+said for the more recent decision of the Tax Court in Husain v. M.N.R.,
+91 D.T.C. 278.  There the court held that the taxpayer could not rely on s.
+20(14)(b) to claim a deduction of interest on Canada Savings Bonds which
+accrued prior to the date of transfer.  The taxpayer acquired the bonds under a
+testamentary disposition from her husband who, at the time of his death, was
+not a resident of Canada.  While the court may well have been correct in
+concluding that s. 20(14)(a) was inapplicable to the taxpayer's
+non-resident husband, it does not follow, for the reasons set out above, that
+the taxpayer should have been disentitled from relying on s. 20(14)(b).                     This conclusion is
+fortified by the consequences that would ensue were s. 20(14) not read in this
+straightforward manner.  Section 20(14) does not draw distinctions between the
+contexts in which debt instruments are transferred.  The interpretation
+advanced by the Trial Division and endorsed by the Court of Appeal would be
+equally applicable in open-market bond transactions.  It is simply unworkable
+to require market purchasers to discern whether the vendor of the bond is
+tax-exempt in order to be able to assess whether a s. 20(14)(b)
+deduction is permitted.  Without this knowledge, the prospective purchaser
+would thus be unable to gauge the true value of the security.                     Moreover, a debt
+instrument held by a non-taxable entity would be worth less than an identical
+instrument held by a body that was liable to tax.  Any taxpayer who purchased a
+security previously held by either the federal or the provincial Crown, or by
+one of the persons enumerated in s. 149(1) of the Act, would be disentitled
+from deducting.  Given that many of the bonds sold on the open market are sold
+by the Bank of Canada, a body to whom s. 20(14)(a) does not apply, the
+interpretation of the section advanced by the respondent would mean that these
+bonds would have to be sold at a discount compared with identical bonds sold by
+other parties:  Templeton, supra, at p. 88; see also John M.
+Ulmer, "Taxation of Interest Income" (1990), 42 Can. Tax Found.
+8:1, at p. 8:20.                     Therefore, I am of
+the view that, on the plain meaning of the section, the ability of a taxpayer
+to claim a deduction pursuant to s. 20(14)(b) is not dependent on the
+inclusion by the transferor pursuant to s. 20(14)(a) of the same amount
+in his or her calculation of income.  The consequences of this straightforward
+grammatical reading do not persuade me that it is incorrect.  In fact, the opposite
+is true.                     Given that the
+inability of the transferor to include the amount of accrued interest
+transferred in its calculation of income is irrelevant to the ability of the
+appellants to claim a deduction of that interest, and in light of the earlier
+finding that there was in this case a transfer of a debt obligation which
+included interest accruing before the transfer but not payable until after the
+transfer, I am of the view that the appellants are entitled to rely on s.
+20(14)(b) to claim a deduction of this interest.  C.What
+is the Amount of the Deduction to Which the Appellants Are Entitled?                     The respondent
+argued that, if the appellants were entitled to a s. 20(14)(b)
+deduction, the correct amount of the deduction was far less than the amounts
+claimed by the appellants.  The appellants each claimed a deduction of $38,335
+in the 1977 taxation year, and the appellant Trzop claimed a further
+$283,363 in 1980.  As will be explained below, the respondent argues that the
+total deduction to which the appellants were entitled was $3,345.                     It appears that
+this argument was raised for the first time before the Federal Court, Trial
+Division.  By the operation of the former s. 175(3), this appeal was deemed to
+be an action in the Trial Division, such that it was permissible to raise this
+new submission.  However, neither the Trial Division nor the Court of Appeal
+considered the argument, as it was unnecessary to do so, having found that no
+deduction under s. 20(14) was available.  The respondent argued before the Tax
+Court judge that the accrued interest on the debt was far less than the
+approximately $1,000,000 calculated by the appellants, because the promissory
+notes stated that interest was not payable between 1975 and 1977, pursuant to
+the agreement between the board and the appellants to suspend repayment of the
+debt.  The Tax Court judge rejected this argument, stating:  It
+is obvious from the evidence adduced that what happened in the period between
+1975 to 1977 was not a forgiveness of the accrued interest, but a suspension
+thereof.  The appellants had the right to sue the company and obtain the
+accrued interest that they did receive in the years under appeal.                     The reasons of the
+Tax Court judge do not indicate that he considered the alternate argument
+advanced by the respondent that most of the interest deducted by the appellants
+did not meet the requirement of s. 20(14) that it must have accrued prior to
+the transfer but be payable after the transfer.  The argument of the
+respondent, simply put, is that interest on the promissory notes accrued daily
+and was payable monthly, and that interest on the debenture accrued daily and
+was payable on demand.  Therefore, nearly all of the interest accruing during
+the two-year period during which repayment of the debt was suspended became
+payable on demand at the time of the transfer of the debt to the appellants. 
+The fact that the appellants chose not to collect on it immediately does not
+alter that fact.                     Therefore, the
+respondent argues, since this interest was payable at the time of, rather than
+after, the transfer, it does not meet the terms of s. 20(14).  The only
+interest which satisfies the opening words of the subsection is the interest
+accruing on the four promissory notes between the June and July payment dates. 
+The appellants are consequently entitled to deduct $3,325 as the amount which
+accrued prior to the transfer but was not payable until after the transfer.                     This argument
+cannot succeed.  The interest which accrued during the two-year period during
+which the debt was suspended was payable after the transfer and therefore meets
+the terms of s. 20(14).  This agreement to suspend repayment of accruing
+interest that would otherwise have been payable was legally enforceable by the
+appellants so long as they continued to fulfil their part of the agreement. 
+Therefore, the accrued interest was not payable before the transfer.                     Moreover, to say
+that the interest became payable at the very moment of the transfer, rather
+than after it, is somewhat artificial.  It must be remembered that the board,
+as transferor, could not collect that accrued interest at all, so long as the
+appellants met the terms of the agreement.  Therefore, the interest that
+accrued during that period became payable on demand immediately after the
+transfer of the debt to the appellants was completed.  I find it difficult to
+understand how the appellants could have made a valid demand for payment of the
+interest until after the debt had been fully transferred to them.  Therefore,
+this means that the interest accrued before the transfer but was payable after
+that time, and that it gave rise to a permissible deduction under s. 20(14)(b).  VI.              Conclusion and Disposition                     The appellants are
+entitled to a deduction of interest accruing prior to the transfer and payable
+thereafter.  The transaction between the appellants and the board meets the
+requirements of s. 20(14).  The interest which accrued during the period that
+repayment of the debt was suspended did not become payable until after the
+transfer.  However, the parties agree that this result may have other tax
+consequences for the appellants, such as a taxable capital gain pursuant to s.
+40(3).  In this connection, these and any other possible consequences can be
+taken into account by the respondent in reassessment.                     Therefore, the
+appeals are allowed, the judgment of the Federal Court of Appeal is set aside,
+and the matters referred back to the Minister for reassessment in accordance
+with these reasons.  The appellants shall have their costs here and in the
+courts below.                     Appeals allowed
+with costs.                     Solicitors for the
+appellants:  Mockler, Allen & Dixon, Fredericton.                     Solicitor for the
+respondent:  John C. Tait, Ottawa.  

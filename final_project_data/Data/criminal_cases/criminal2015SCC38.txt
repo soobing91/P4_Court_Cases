@@ -1,0 +1,652 @@
+  SUPREME
+COURT OF CANADA  Citation: R. v. Rodgerson, 2015 SCC 38, [2015] 2 S.C.R. 760 Date: 20150717 Docket: 35947  Between: Her Majesty The Queen Appellant and Jason Rodgerson Respondent   Coram: Abella, Rothstein, Cromwell, Moldaver and Karakatsanis JJ.  Reasons
+  for Judgment: (paras. 1 to 56) Moldaver J. (Abella, Rothstein, Cromwell
+  and Karakatsanis JJ. concurring)    R. v. Rodgerson, 2015 SCC 38, [2015] 2 S.C.R. 760 Her Majesty The Queen                                                                                 Appellant v. Jason Rodgerson                                                                                         Respondent Indexed as: R. v. Rodgerson 2015 SCC 38 File No.: 35947. 2015: January 14; 2015: July 17. Present: Abella, Rothstein, Cromwell, Moldaver and
+Karakatsanis JJ. on appeal from the court of appeal for ontario                     Held:
+The appeal should be dismissed.                     In
+order to establish that R was guilty of murder, rather than manslaughter, the
+Crown had to prove that he either intended to kill Y or to cause her bodily
+harm which he knew was likely to cause death. The cornerstone of its case was
+the nature and extent of Y’s injuries and the degree of force required to
+inflict them. The Crown asserted that the forensic evidence revealed a more
+prolonged and violent physical altercation than the version of events described
+by R. Cases Cited                     Referred
+to: R. v. Morin, [1988] 2 S.C.R. 345; R. v. White, [1998] 2
+S.C.R. 72; R. v. White, 2011 SCC 13, [2011] 1 S.C.R. 433; R. v. Daley,
+2007 SCC 53, [2007] 3 S.C.R. 523; R. v. Jack (1993), 88 Man. R. (2d) 93,
+aff’d [1994] 2 S.C.R. 310; R. v. Jacquard, [1997] 1 S.C.R. 314; R. v.
+Hebert, [1996] 2 S.C.R. 272; R. v. Mathisen, 2008 ONCA 747, 239
+C.C.C. (3d) 63; R. v. Pintar (1996), 30 O.R. (3d) 483; R. v. Mack,
+2014 SCC 58, [2014] 3 S.C.R. 3; R. v. McNeil (2006), 84 O.R. (3d) 125; R.
+v. Zebedee (2006), 81 O.R. (3d) 583. Statutes and Regulations Cited Authors Cited Granger, Christopher. The Criminal Jury Trial in Canada, 2nd
+ed. Scarborough, Ont.: Carswell, 1996. Watt, David. Helping Jurors Understand. Toronto: Thomson
+Carswell, 2007. Watt, David. Ontario Specimen Jury Instructions (Criminal).
+Toronto: Thomson Carswell, 2003.                     APPEAL
+from a judgment of the Ontario Court of Appeal (Doherty, Feldman and MacPherson
+JJ.A.), 2014 ONCA 366, 319 O.A.C. 254, 309 C.C.C. (3d) 535, [2014] O.J.
+No. 2232 (QL), 2014 CarswellOnt 5936 (WL Can.), setting aside the accused’s
+conviction for second degree murder and ordering a new trial. Appeal
+dismissed.                     Megan Stephens, for
+the appellant.                     Christopher Hicks
+and Kristin Bailey, for the respondent.                     The
+judgment of the Court was delivered by                     Moldaver J. — I.             
+Overview [1]                             
+Jason Rodgerson was charged with first degree
+murder in connection with the death of Amber Young. He was tried by a court
+composed of judge and jury, and convicted of second degree murder. [2]                             
+At trial, there was no dispute that Mr.
+Rodgerson caused Ms. Young’s death. Rather, his primary defence was that he was
+acting in lawful self-defence when he killed her. Secondarily, he relied on the
+defences of lack of intent and provocation to reduce the charge of murder to
+manslaughter. Finally, he maintained that the crime of first degree murder was
+not made out on the evidence. [3]                             
+In the context of his self-defence claim, Mr.
+Rodgerson conceded that he was applying force to Ms. Young at the time of her
+death. He maintained, however, that the force in question was moderate and designed
+solely to protect himself from death or grievous bodily harm. In using the
+force he did, it was not his intention to kill or seriously injure Ms. Young.
+The fact that she died from the force used was purely accidental. [4]                             
+The Crown sought to rebut Mr. Rodgerson’s
+position that the force he used was moderate and not designed to kill or
+seriously injure Ms. Young. To that end, Crown counsel relied in part on
+certain aspects of Mr. Rodgerson’s post-offence conduct — namely, his efforts
+to conceal her body in the backyard of his home and to clean up the scene of
+her death. [5]                             
+The Crown also led other post-offence conduct at
+trial. Specifically, the Crown adduced evidence that Mr. Rodgerson fled from
+the police when they came to search his home, and that he initially lied to the
+police about who was responsible for Ms. Young’s death. The parties acknowledge
+that this body of evidence had no bearing on the issue of Mr. Rodgerson’s
+intent. [6]                             
+At trial, Mr. Rodgerson argued that the evidence
+of concealment and clean-up also had no bearing on the issue of his intent. The
+trial judge disagreed. However, in his charge to the jury, the trial judge did
+not explain the limited and somewhat nuanced basis upon which the evidence of
+concealment and clean-up could be used to establish the requisite intent for
+murder. Nor did he direct the jury that the other post-offence conduct — Mr.
+Rodgerson’s flight from the police and his attempt to mislead them — could not
+be used to establish intent. Rather than limiting the use of this evidence, as
+he should have, to negating the defence of self-defence and establishing that
+Ms. Young died as a result of an unlawful act, the trial judge also left it to
+the jury to consider in deciding the issue of intent. By its verdict, the jury
+obviously concluded that Mr. Rodgerson had the requisite intent for murder. [7]                             
+On appeal to the Ontario Court of Appeal from
+his conviction, Mr. Rodgerson raised several grounds of appeal relating to the
+jury charge. Among them, he challenged the trial judge’s failure to properly
+instruct the jury on the various ways in which Mr. Rodgerson’s post-offence
+conduct could be used, and the ways in which it could not be used. [8]                             
+A majority of the Court of Appeal, per Doherty
+J.A., concluded that (1) evidence of Mr. Rodgerson’s flight from and lies to
+the police was irrelevant to determining whether he had the requisite intent
+for murder; (2) the trial judge erred by instructing the jury that it could
+consider evidence of his flight from and lies to the police in assessing the issue
+of intent; (3) evidence of Mr. Rodgerson’s concealment and clean-up was
+relevant to assessing the issue of intent, but the trial judge failed to
+instruct the jury on the limited way in which this evidence could be used for
+that purpose; and (4) the curative proviso, Criminal Code, R.S.C. 1985,
+c. C-46, s. 686(1) (b)(iii), did not apply (2014 ONCA 366, 319 O.A.C.
+254). As a result, the majority ordered a new trial. [9]                             
+Writing in dissent, MacPherson J.A. agreed with
+the majority that the trial judge erred in his instructions on the use of Mr.
+Rodgerson’s flight from and lies to the police. Standing alone, he considered
+this error to be minor. As regards the concealment and clean-up evidence, he
+disagreed with the majority that a more specific instruction was necessary. In
+his view, the trial judge’s general cautionary instruction about the dangers
+associated with evidence of post-offence conduct was sufficient. Finding only
+one minor error in the jury charge, he would have applied the curative proviso
+and dismissed the appeal. [10]                         
+The sole issue before this Court is whether the
+majority was correct in holding that the trial judge erred in his instructions
+on the concealment and clean-up, and if so, whether that error — in conjunction
+with the erroneous instructions on Mr. Rodgerson’s flight from and lies to the
+police — was fatal.  I conclude that the majority was correct on both counts,
+and I would affirm the order for a new trial. Before addressing these issues,
+however, it is necessary to review the circumstances of Ms. Young’s death and
+to summarize the pertinent evidence presented at Mr. Rodgerson’s trial. II.          
+Factual Background A.          
+Ms. Young’s Death [11]                         
+On October 26, 2008, Mr. Rodgerson and Ms. Young
+met for the first time in a bar in Oshawa, Ontario. Both had been drinking
+earlier in the day, and Ms. Young had also taken various prescription
+medications. They talked and drank together at the bar, and Ms. Young gave Mr.
+Rodgerson an ecstasy tablet. She told him it was worth five dollars. After
+leaving the bar, Ms. Young accompanied Mr. Rodgerson to his home. While in the
+living room, Ms. Young repeatedly asked Mr. Rodgerson about the five dollars
+she was owed. [12]                         
+Mr. Rodgerson was the sole witness to Ms.
+Young’s death. At trial, he testified that he and Ms. Young engaged in consensual
+sexual activity, first in the living room and then in his bedroom. According to
+Mr. Rodgerson, shortly after moving to the bedroom, he lost interest in Ms.
+Young and he suggested that they return to the bar. Ms. Young asked Mr.
+Rodgerson again about the money she was owed, to which he replied, “What are
+you? Some sort of whore?” Mr. Rodgerson testified that, in response, Ms. Young
+attacked him with a knife, and they engaged in a physical struggle. This
+struggle culminated in him pressing down on her face with his forearm until she
+appeared to pass out. Shortly thereafter, Mr. Rodgerson also passed out. He
+claimed that he did not know that Ms. Young was dead until he awoke the next
+day. B.           
+Mr. Rodgerson’s Post-Offence Conduct [13]                         
+Mr. Rodgerson made extensive efforts to conceal
+Ms. Young’s body and clean up the scene of her death. He purchased bleach,
+rubber gloves, and garbage bags, and dug a shallow grave in the backyard of the
+house. He then dragged Ms. Young’s body from the bedroom to the backyard. He removed
+her clothing and jewellery, placed her body in the grave, poured bleach into
+the hole and filled it up with dirt. He then returned to the house and removed
+his bloodstained mattress from the bedroom. He cut up the bloodstained carpet
+and placed it in garbage bags, along with Ms. Young’s shoes and remnants of
+their sexual activity. He also broke Ms. Young’s cellphone and removed the
+battery. Finally, he used bleach to clean up the blood, and other remnants of
+their sexual activity and physical altercation, located on the living room
+carpet, the kitchen floor, and the bedroom walls. [14]                         
+Several days after Ms. Young’s death, on October
+29, police officers executed a search warrant at Mr. Rodgerson’s home. When the
+police arrived, Mr. Rodgerson attempted to flee, but he was quickly caught and
+arrested near the front steps of his home. During his initial police interview,
+he made various false statements in which he attempted to deflect blame from
+himself by suggesting that someone else had killed Ms. Young. C.           
+Forensic Evidence [15]                         
+At trial, the Crown relied on the testimony of
+two key expert witnesses: Dr. Michael Pollanen, the forensic pathologist who
+conducted Ms. Young’s autopsy, and David Sibley, a forensic analyst who
+conducted a bloodstain pattern analysis at Mr. Rodgerson’s home. The Crown also
+put forward the testimony of Dr. Marie Elliot, a forensic toxicologist who
+analysed the drug and alcohol content of Ms. Young’s blood. [16]                         
+Dr. Pollanen described the injuries he found on
+Ms. Young’s head and face, including bruising, abrasions, and cuts on the
+inside of her lips. While he could not ascertain a conclusive cause of death,
+he testified that the types of injuries he observed were consistent with death
+by smothering. Mr. Sibley described the results of his bloodstain pattern
+analysis, which shed light on the nature of the physical altercation between
+Mr. Rodgerson and Ms. Young, as well as on Mr. Rodgerson’s efforts to clean up
+the scene after her death. III.       
+Analysis A.          
+The Relevance of the
+Post-Offence Concealment and Clean-Up in Determining Mr. Rodgerson’s Intent [17]                         
+The Crown concedes that the trial judge erred by
+instructing the jury that it could consider Mr. Rodgerson’s flight from and
+lies to the police on the issue of intent (A.F., at para. 5). It is the
+remaining post-offence conduct — Mr. Rodgerson’s concealment of Ms. Young’s
+body, and his clean-up of the scene of her death — which is at the heart of
+this appeal. [18]                         
+The Court of Appeal unanimously rejected Mr.
+Rodgerson’s assertion that the concealment and clean-up evidence was irrelevant
+to establishing the requisite intent for murder. The Court of Appeal was split,
+however, on whether the trial judge provided sufficient direction to the jury
+on how it could use that evidence in assessing the issue of intent.
+Before determining whether the majority was correct to find that the lack of
+instruction constituted a legal error, it is first necessary to clarify, as a
+preliminary matter, precisely how the post-offence concealment and clean-up
+evidence is probative on the issue of Mr. Rodgerson’s intent. [19]                         
+In order to establish that Mr. Rodgerson was
+guilty of murder, rather than manslaughter, the Crown had to prove that he
+either intended to kill Ms. Young, or he intended to cause her bodily harm
+which he knew was likely to cause death. In this regard, the cornerstone of the
+Crown’s case was the nature and extent of the injuries suffered by Ms. Young,
+and the degree of force required to inflict them. The more severe the injuries
+caused by Mr. Rodgerson, and the more force required to inflict them, the
+stronger the inference that he intended to kill Ms. Young or cause her serious
+injury. To show that the nature and extent of the injuries and the degree of
+force used pointed to murder, the Crown introduced Dr. Pollanen’s autopsy evidence
+and Mr. Sibley’s bloodstain pattern analysis. [20]                         
+It is relatively straightforward to understand
+how Mr. Rodgerson’s efforts at concealment and clean-up were capable of
+supporting the inference that he acted unlawfully. The jury could reasonably
+have concluded that he was attempting to conceal evidence of a crime that he
+had committed — that is, unlawfully causing Ms. Young’s death. However, these
+efforts were also capable of supporting the further inference that he was
+acting not merely to hide the fact that a crime had occurred, but to
+hide the extent of the crime. In other words, the jury might reasonably
+have concluded that he sought to conceal Ms. Young’s body and clean up the
+scene of her death in order to conceal the nature and extent of Ms. Young’s
+injuries and the degree of force required to inflict them. As indicated, the
+more severe the injuries, and the more force required to inflict them, the
+stronger the inference that he intended to kill Ms. Young or cause her bodily
+harm which he knew was likely to cause death. This is not the only inference
+that could be drawn from the concealment and clean-up, but it is one the jury
+was entitled to draw. [21]                         
+In this regard, the post-offence concealment and
+clean-up is simply some evidence that the jury could look to — in
+addition to the evidence of Dr. Pollanen and Mr. Sibley — in deciding the
+nature and extent of the injuries and the degree of force required to inflict
+them. While the meaning of the forensic evidence was vigorously contested at
+trial, the Crown’s interpretation was that it revealed a more prolonged and
+violent physical altercation than the version of events described by Mr.
+Rodgerson. It was open to the jury to look to the post-offence concealment and
+clean-up as evidence that tended to confirm this interpretation. [22]                         
+On this point, I reach the same conclusion as
+the Court of Appeal. Doherty J.A. summarized the necessary inferential
+reasoning in the following manner: Before the
+post-offence conduct relating to the hiding of the body and the clean-up of the
+homicide scene could assist the Crown in proving the appellant’s state of mind,
+the jury first had to be satisfied that there was a somewhat prolonged
+and bloody struggle during which the appellant struck Ms. Young in the head or
+face several times, or at least more than twice.  The jury could come to
+that conclusion only after a careful consideration of the competing
+interpretations of the forensic evidence placed before it. Second,
+the jury had to be satisfied that the appellant had engaged in the post-offence
+conduct to destroy evidence that would reveal an extensive struggle and assault
+well beyond that admitted by him in his evidence. [Emphasis added; para. 76.] [23]                         
+I do not disagree with this description of the
+different inferences required to make use of the concealment and clean-up
+evidence on the issue of intent. I am concerned, however, that this paragraph
+could be misinterpreted to suggest that, on this issue, it would have been
+impermissible for the jury to consider the concealment and clean-up evidence at
+all until it had first satisfied itself, based on other evidence,
+that the altercation between Mr. Rodgerson and Ms. Young had taken a particular
+form. I do not ascribe such an interpretation to Doherty J.A., but I wish to
+avoid any possible confusion on the matter. In my view, such an approach would
+needlessly complicate the jury’s already complicated analytical task. Moreover,
+it would represent an unwarranted requirement that the evidence be placed in
+artificial silos before being considered by the jury. The jurisprudence
+disfavours this type of evidentiary segregation: see R. v. Morin, [1988]
+2 S.C.R. 345. The jury was entitled to consider both the forensic evidence and
+the evidence of post-offence concealment and clean-up simultaneously, as a
+whole, in determining the nature and extent of Ms. Young’s injuries and the
+degree of force required to inflict them. B.           
+The Trial Judge Failed to Adequately Instruct
+the Jury on the Use of the Post-Offence Concealment and Clean-Up Evidence in
+Assessing Mr. Rodgerson’s Intent [24]                         
+I agree with the Court of Appeal majority that
+the trial judge erred in his instructions to the jury by failing to provide
+sufficient guidance on how to use the evidence of concealment and clean-up on
+the issue of intent. (1)          
+The Trial Judge’s Instructions on Post-Offence
+Conduct [25]                         
+The trial judge referred to Mr. Rodgerson’s
+concealment and clean-up on numerous occasions in his lengthy jury charge. He
+provided an initial, “general instruction” on post-offence conduct, in which he
+gave an overview of its various permissible uses and cautioned the jury about
+the dangers commonly associated with this type of evidence. In particular, as
+MacPherson J.A. observed in his reasons, the trial judge instructed the jury in
+accordance with the cautionary requirements set forth in this Court’s decisions
+in R. v. White, [1998] 2 S.C.R. 72 (“White 1998”), and R.
+v. White, 2011 SCC 13, [2011] 1 S.C.R. 433 (“White 2011”). The trial
+judge stated: 3. . . . I wish to caution
+you about a potential danger concerning post offence conduct. Post offence
+conduct may appear more probative than it really is, and may be, by its very
+nature, less reliable than it seems, or may be consistent with other less
+obvious explanations than the one advanced by Crown counsel. You must consider
+evidence of post offence conduct with care and the caution I have provided to
+you. I would also direct you to reserve your final judgment about . . . Jason
+Rodgerson’s post offence conduct until all the evidence has been
+considered during your deliberations.  4. What a person said or did after
+an offence was committed may indicate that he acted or spoke in a way
+which, according to human experience and logic, is consistent with the conduct
+of a person who committed the offence and inconsistent with the conduct of
+someone who did not do so. On the other hand, there may be other explanations
+for what Jason Rodgerson said or did afterwards, such that the conduct does not
+assist in deciding whether he acted unlawfully or whether or not he intended to
+kill Amber Young. [Emphasis in original; A.R., vol. IX, at p. 63.] [26]                         
+Throughout the charge, the trial judge
+repeatedly referred back to the evidence of concealment and clean-up in his
+instructions on the elements of the relevant offences and of Mr. Rodgerson’s
+defences. On each occasion, he provided the same type of generic instruction.
+He did not draw any distinction between using the concealment and clean-up
+evidence to evaluate whether Ms. Young died as a result of an unlawful act, and
+using it to evaluate Mr. Rodgerson’s intent. Each time, he simply instructed
+the jury that “[o]nce again you also have to consider the post offence conduct
+which I have previously outlined to you”, or words to that effect (A.R., vol.
+IX, at p. 119). On some occasions, the trial judge provided a brief factual
+summary of the relevant evidence, while on others he did not. At no point,
+however, did he assist the jury in understanding how it could use the
+concealment and clean-up evidence in determining whether Mr. Rodgerson had the
+requisite intent for murder. Nor did he explain how the inferential reasoning
+was different on this issue than on the question of whether Mr. Rodgerson had
+acted unlawfully. (2)          
+A More Specific Instruction Was Required [27]                         
+The jury was entitled to consider the concealment
+and clean-up evidence in respect of Mr. Rodgerson’s self-defence claim and
+whether he unlawfully killed Ms. Young. It was also entitled to consider
+this evidence in evaluating whether he had the requisite intent for murder.
+Regarding self-defence and unlawful killing, the relevance of the concealment
+and clean-up and the nature of the available inference was a matter of common
+sense: concealing the body and cleaning up the scene of Ms. Young’s death could
+be viewed as evidence that Mr. Rodgerson knew he had killed Ms. Young
+unlawfully and was acting to cover it up. Once the jury moved on to the issue
+of intent for murder, however, this simple inferential reasoning was no longer
+of any use. Rather, the limited relevance of this post-offence conduct on the
+issue of intent rested on the following, narrower inference: the jury might
+reasonably conclude that Mr. Rodgerson concealed Ms. Young’s body and cleaned
+up the scene of her death in order to conceal the nature and extent of her
+injuries and the degree of force required to inflict them. [28]                         
+In the sections of the jury charge relating to
+the issue of intent, the trial judge failed to link the evidence of concealment
+and clean-up to the nature and extent of Ms. Young’s injuries and the force
+required to inflict them. Rather, his charge merely reiterated the existence of
+the evidence, and instructed the jury to consider it along with all the other
+evidence adduced at trial. This was a legal error. Having first used the
+concealment and clean-up evidence in a common sense manner based on clear and
+readily accessible inferences, there was a risk that the jury might continue to
+rely on the evidence in this same manner on the issue of intent. The failure to
+instruct the jury on the narrower basis for using the evidence created a risk
+that the jury might convict Mr. Rodgerson for murder based only on the broader
+inference that had previously been sufficient: that the concealment and
+clean-up pointed to a consciousness of guilt and a desire to prevent discovery
+of an unlawful killing. [29]                         
+A more specific instruction was required. It
+need not have been long or complex. After first explaining to the jury the
+factual link between Mr. Rodgerson’s concealment and clean-up efforts and the
+resulting concealment of the injuries to Ms. Young’s body and the blood at the
+scene, the trial judge need only have added a few sentences, along these lines: The nature and extent of the injuries and the force used to inflict
+them are factors you may consider in assessing Mr. Rodgerson’s intent at the
+time he caused Ms. Young’s death. In this regard, you may take into account the
+evidence of Mr. Rodgerson’s concealment and clean-up in determining whether he
+intended to kill Ms. Young, or to cause her serious bodily harm which he knew
+was likely to cause death.  On this issue, you will need to consider this
+evidence in a different way than I have instructed you previously. You may
+conclude that Mr. Rodgerson sought to conceal Ms. Young’s body and clean up the
+scene of her death in order to conceal the nature and extent of Ms. Young’s
+injuries and the degree of force required to inflict them. You may or may not
+reach this conclusion — it is up to you — but if you do reach this conclusion,
+you may consider this along with all of the other pertinent evidence in
+determining whether Mr. Rodgerson had the requisite intent for murder. [30]                         
+In crafting the jury charge, a trial judge has a
+general duty to inform the jury of the relevant evidence, and to assist the
+jury in linking that evidence to the issues that it must consider in reaching a
+verdict. The level of detail that is required varies depending on the context.
+As the majority of this Court stated in R. v. Daley, 2007 SCC 53, [2007]
+3 S.C.R. 523, per Bastarache J.: The
+extent to which the evidence must be reviewed “will depend on each particular
+case.  The test is one of fairness.  The accused is entitled to a
+fair trial and to make full answer and defence.  So long as the evidence
+is put to the jury in a manner that will allow it to fully appreciate the
+issues and the defence presented, the charge will be adequate” . . . . [para.
+57]  (Quoting
+C. Granger, The Criminal Jury Trial in Canada (2nd ed. 1996), at p.
+249.) [31]                         
+I do not suggest that the evidence of
+concealment and clean-up in this case was technical or unusually involved.
+However, its relevance to the issue of intent was more than a matter of common
+sense, and a more specific instruction was required in order to present the
+evidence and the available inferences to the jury in a comprehensible form. As
+described in Daley, “the task of the trial judge is to explain the
+critical evidence and the law and relate them to the essential issues in plain,
+understandable language” (para. 57 (emphasis added), quoting R. v. Jack
+(1993), 88 Man. R. (2d) 93 (C.A.), at para. 39, aff’d [1994] 2 S.C.R. 310). The
+failure to do so here amounts to a legal error. (3)          
+Requiring a More Specific Instruction Is
+Consistent With This Court’s Jurisprudence on Post-Offence Conduct [32]                         
+MacPherson J.A., writing in dissent, found no
+error in the trial judge’s instructions related to the post-offence concealment
+and clean-up. He concluded that the jury charge conformed to the requirements
+for instructions on post-offence conduct established in White 1998 and White
+2011. [33]                         
+Those two cases relate to a trial judge’s
+obligation to caution the jury about the dangers associated with post-offence
+conduct in general. I agree with MacPherson J.A. that the jury charge in this
+case provided an adequate caution against those dangers. With respect, however,
+I do not share his view that this conclusion disposes of the appeal. [34]                         
+The legal error in the jury charge was the
+failure to assist the jury in understanding the limited and somewhat nuanced
+relevance of the concealment and clean-up evidence on the issue of intent for
+murder. This error is unrelated to the required caution on the dangers
+associated with post-offence conduct in general. White 1998 and White
+2011 do not serve to insulate jury instructions on post-offence conduct
+from challenge on other grounds. They do nothing to circumscribe the need to
+provide specific instructions where the relevance of the evidence on a
+particular issue is not readily apparent and where the natural inclinations of
+the jury might lead it down a wrong path. Correctly cautioning the jury in
+accordance with White 1998 and White 2011 is therefore necessary,
+but not always sufficient. (4)          
+The “Gaps” in the Jury Charge Were Not Filled by
+the Crown’s Closing Argument [35]                         
+The Crown asserts that its closing submissions
+at trial “arguably filled precisely the ‘gaps’ in the charge that concerned the
+majority at the Court of Appeal” (A.F., at para. 62). As the majority of this
+Court stated in Daley, the “charge to the jury takes place not in
+isolation, but in the context of the trial as a whole”, and therefore
+“[a]ppellate review of the trial judge’s charge will encompass the addresses of
+counsel as they may fill gaps left in the charge” (para. 58). On the facts of
+this case, however, I am unpersuaded that the Crown’s closing address was
+sufficient to remedy the deficiency in the jury charge. [36]                         
+The Crown made several statements during its
+closing submissions that were of some value in explaining to the jury how the
+evidence of concealment and clean-up related to the issue of intent. However,
+they were scattered throughout a lengthy closing argument, and many of them
+were vague and oblique. Most important, just like the trial judge, the Crown
+never hit the nail on the head. The Crown’s closing argument did not contain a
+clear and simple description of the way in which the concealment and clean-up
+evidence could be used in evaluating the issue of Mr. Rodgerson’s intent. The
+submissions lacked a direct explanation of the permissible inference, as
+described by Doherty J.A., that Mr. Rodgerson attempted to conceal Ms. Young’s
+body and clean up the scene of her death “because the injuries to the body and
+the blood at the scene would reveal an assault consistent only with an
+intention to cause bodily harm that would likely cause death” (para. 68). As
+such, the closing submissions do not suffice to fill the gap and correct the
+legal error in the jury charge. [37]                         
+I should also note, in regard to the
+instructions on Mr. Rodgerson’s flight from and lies to the police, that the
+legal error amounted to misdirection, not non-direction. The trial judge
+instructed the jury that it could use the evidence to infer that Mr. Rodgerson
+had the requisite intent for murder, when no such inference was available. The
+error was unrelated to a gap in the charge, and as such, the gap-filling
+principle contemplated by Daley could have no application. C.           
+The Curative Proviso Does Not Apply [38]                         
+The charge contained two legal errors. First, it
+is not disputed that the trial judge erred by instructing the jury to consider
+Mr. Rodgerson’s flight from and lies to the police on the issue of intent.
+Second, the trial judge erred in his instructions on Mr. Rodgerson’s
+concealment and clean-up efforts. [39]                         
+The Crown argues that, notwithstanding any such
+errors, the curative proviso should apply. I agree with Doherty J.A.’s analysis
+on this point. As he noted, after the jury rejected self-defence, the issue of
+Mr. Rodgerson’s intent was “the central issue at trial”, and these two errors
+“went directly to the jury’s consideration of that issue” (para. 79).
+Furthermore, the Crown’s case was not overwhelming. The curative proviso does
+not apply, and Mr. Rodgerson is entitled to a new trial for second degree
+murder. D.          
+The Jury Charge as a Whole [40]                         
+In his dissenting opinion, MacPherson J.A.
+expressed concern about requiring a more specific instruction on the
+concealment and clean-up evidence, in part because he did not wish to further
+fuel the trend towards lengthier and more complex jury charges. In his view, appellate courts should be very wary of
+expanding jury instructions . . . . A common theme of contemporary judicial and
+counsel discourse is that jury charges today are not as helpful to juries as in
+times past. That is because the modern jury charge is, especially in most
+murder cases, exceptionally long and complex, rendering doubtful a jury’s
+comprehension and comfort. [para. 103] In her factum, Ms.
+Stephens for the Crown echoes this concern, noting that “[t]his charge was
+already incredibly long and complex” (para. 71). Quoting from both Daley,
+at para. 56, and R. v. Jacquard, [1997] 1 S.C.R. 314, at para. 13, the
+Crown emphasizes that “[b]revity in the jury charge is desired” and “[t]he
+judge’s role is to ‘decant and simplify’” (para. 41). [41]                         
+While I differ on the disposition of this
+appeal, I share these concerns about the proliferation of long and
+unnecessarily complex jury charges. The jury charge in this case spans over 200
+pages and took a full day to present in court. I have concluded that the trial
+judge erred by failing to sufficiently aid the jury in understanding how to use
+the evidence of post-offence concealment and clean-up on the issue of intent. I
+emphatically reject any suggestion, however, that an even longer jury charge
+was required in this case. [42]                         
+I start with the observation that a jury charge
+may be “so unnecessarily confusing that it
+constitute[s] an error of law” (R. v. Hebert, [1996] 2 S.C.R.
+272, at p. 277). It is apparent that taming the unchecked expansion of jury
+charges is not merely advisable — it is a legal necessity. Mr. Rodgerson does
+not argue that the jury charge in this case was so complex and confusing that
+it meets the Hebert standard. However, having reviewed the charge in its
+entirety, I feel obliged to comment on the detrimental impact that increasingly
+long and complex jury charges are having on our criminal justice system. In
+doing so, I intend no disrespect to the trial judge, who obviously put a great
+deal of time and effort into preparing the charge. [43]                         
+The basic facts of Ms. Young’s death were not
+disputed at trial. Mr. Rodgerson’s testimony asserting self-defence and the
+Crown’s contradictory theory were both clear and readily comprehensible. In my
+respectful view, the length, repetitiveness, and complexity of the jury charge
+were unwarranted. The unwieldy final product resulted from a combination of
+decisions taken by the Crown, defence counsel, and the trial judge. Each of
+these actors, both in this case and in the justice system at large, bears a
+responsibility for ensuring that jury charges are as clear and comprehensible
+as possible. Rote, repetitive and generic charges are of little value, and are
+often harmful to the jury’s comprehension. Indeed, they can and do lead to
+instruction that is all but meaningless. Charges should be thoughtfully
+tailored to focus on the key evidence and the key issues that are relevant in
+the particular context of the case. (1)          
+The Role of the Crown [44]                         
+A significant contributing factor to the lengthy
+and convoluted jury charge in this case was the decision by Crown counsel at
+trial (not Ms. Stephens) to pursue a conviction for first degree murder. Ms.
+Stephens concedes that the first degree murder count was “entirely based on circumstantial evidence” (transcript, at p. 8). I would go further and suggest that the evidence supporting first
+degree murder was paper thin, and more a matter of speculation than of
+inferences that could reasonably be drawn from the circumstantial evidence. Put
+simply, I have difficulty seeing how it could pass the reasonable prospect of
+conviction threshold. The decision to proceed with first degree murder required
+the trial judge to include instructions on each of the four separate theories
+of constructive first degree murder advanced by the Crown: that Mr. Rodgerson
+intentionally killed Ms. Young in the course of (1) a sexual assault; or (2) an
+unlawful confinement; or (3) an attempted sexual assault; or (4) an attempted
+unlawful confinement. This increased the length of the jury charge by almost 40
+pages. [45]                         
+The jury in this case did not convict Mr.
+Rodgerson of first degree murder, but rather of the lesser included offence of
+second degree murder. As such, in a new trial, only the second degree murder
+charge will be before the jury. This will reduce the complexity of the jury
+charge. This same concern will arise in future cases, however. Certainly, it is
+within the Crown’s discretion to prosecute charges where the evidence would
+permit a reasonable jury to convict. However, some semblance of a cost-benefit
+analysis would serve the justice system well. Where the additional or
+heightened charges are marginal, and pursuing them would necessitate a
+substantially more complex trial process and jury charge, the Crown should
+carefully consider whether the public interest would be better served by either
+declining to prosecute the marginal charges from the outset or deciding not to
+pursue them once the evidence at trial is complete. [46]                         
+While trial judges must proceed with caution, I
+see no difficulty in questioning Crown counsel about the efficacy of proceeding
+with a more serious charge or charges in circumstances where the evidence
+surpasses the directed verdict threshold, but only barely. Apart from
+increasing the length and complexity of the jury charge and the burden on the
+jury in its deliberation process, charging a more serious offence risks
+deflecting the jury’s attention away from the crucial issue or issues upon
+which the case truly hinges. (2)          
+The Role of Defence Counsel [47]                         
+The defence theory of the case was relatively
+straightforward. Mr. Rodgerson, testifying in his own defence, asserted that
+Ms. Young attacked him unexpectedly with a knife causing him to fear for his
+life, that he used physical force only to protect himself, and that she died
+during the course of their struggle — a death which he did not intend to cause.
+This simple narrative generated jury instructions on the defence of
+“involuntary act” accident, and three different bases of self-defence under ss.
+34(1) , 34(2) , and 35  of the Criminal Code , as they then existed (amended
+S.C. 2012, c. 9, s. 2 ). Nearly a quarter of the jury charge was dedicated to
+instructions on these four topics, three of which were unnecessary and only
+served to complicate the charge. [48]                         
+To begin, there was no basis for providing
+instruction on the defence of “involuntary act” accident. While Mr. Rodgerson
+did testify that Ms. Young’s death was an accident, this was a case of accident
+going to mens rea — i.e., Mr. Rodgerson’s claim that he did not intend
+to kill Ms. Young. In oral submissions on behalf of Mr. Rodgerson, Mr. Hicks,
+who was not counsel at trial, acknowledged that there was no basis for an
+instruction on “involuntary act” accident, and indicated that none would be
+sought should the order for a new trial be upheld (transcript, at p. 53).[1] Mr. Hicks also
+acknowledged that s. 34(2)  alone would have encompassed the basis of
+self-defence asserted by Mr. Rodgerson’s testimony (pp. 53-54). Section 34(2) 
+was available if Mr. Rodgerson accidentally killed Ms. Young, or if he did so
+intentionally: see R. v. Pintar (1996), 30 O.R. (3d)
+483 (C.A.), at p. 497. Mr. Rodgerson received no benefit from having two
+additional forms of self-defence put to the jury. Such instruction could only
+serve to complicate the charge and confuse the jury (Pintar, p. 497). [49]                         
+Defence counsel, while of course seeking to
+advance the client’s defence by all lawful and ethical means, also has an
+obligation to assist the trial judge in crafting a jury charge that provides clear
+and comprehensible instructions on the defences that are actually implicated by
+the defence theory of the case. Had that been done here by defence counsel at
+trial, the charge could have been shortened by nearly 50 pages. (3)          
+The Role of the Trial Judge [50]                         
+While the Crown and defence counsel both have
+roles to play, the role of the trial judge is the most vital, and the most
+difficult, in formulating jury instructions. A trial judge must strike a
+crucial balance by crafting a jury charge that is both comprehensive and
+comprehensible. Recognizing the difficulty inherent in this task, this Court
+has “repeatedly endorsed” the functional approach to reviewing jury charges (R.
+v. Mack, 2014 SCC 58, [2014] 3 S.C.R. 3, at para. 49). This functional
+approach is designed to “ensure that the yardstick by which we measure the
+fitness of a [jury charge] does not become overly onerous”, in order to reduce
+“the proliferation of very lengthy charges in which judges often quote large
+extracts from appellate decisions simply to safeguard verdicts from appeal” (Jacquard,
+at para. 1). Under the functional approach, the trial judge’s duty is to
+“decant and simplify” (ibid., at para. 13). Over-charging is just as
+incompatible with this duty as is under-charging. [51]                         
+More than 15 years later, the concern expressed
+in Jacquard remains. However, rather than quoting large extracts from
+appellate decisions, trial judges have taken to quoting large extracts from
+model charge manuals to safeguard their verdicts from appeal. This has resulted
+in an overreliance on the rote reproduction of excerpts from model jury
+instructions. But model charge manuals do not necessarily translate into model
+charges. They are a tool, not the final product. They are there to guide, not
+govern. In my view, the failure to isolate the critical issues in a case and
+tailor the charge to them inevitably makes the instructions less helpful to the
+jury and adds unnecessarily to their length and complexity. [52]                         
+Courts have repeatedly
+emphasized that the jury charge must “be tailored to the facts of the
+specific case” (R. v. McNeil (2006), 84 O.R. (3d) 125
+(C.A.), at para. 21). While “[t]he model instructions are intended to
+provide a starting point for trial judges”, modification will frequently be
+required to provide the jury “with the applicable legal principles in a format
+that facilitates the application of those principles to the specific
+circumstances of the case” (ibid.). Trial judges must “separate the
+wheat from the chaff” when determining which defences may be applicable, and
+must engage in a “careful and considered culling . . . to avoid unnecessary,
+inappropriate and irrelevant legal instruction of a kind that might well divert
+the jury’s attention” from the primary disputed issues in the case (Pintar,
+at p. 494). [53]                         
+This principle was
+endorsed in Helping Jurors Understand (2007), at p. 82, by no less
+authority than Justice Watt of the Ontario Court of Appeal (then of the
+Superior Court of Justice), also the author of the Ontario Specimen Jury
+Instructions (Criminal) (2003): A specimen is a sample.  A specimen instruction is a sample
+instruction about its subject-matter.  Specimen instructions do not
+and cannot be expected to provide legally accurate directions for every set of
+circumstances that fall within their reach.  There are no
+one-size-fits-all jury instructions.  At best, specimen instructions
+provide the basic building blocks for finals and other instructions.  The
+twists and turns of individual cases will dictate the nature and extent of
+modification required to ensure legal accuracy. [Emphasis in original.] [54]                         
+In the present case, a few modest alterations
+would have saved this jury charge from legal error. At the same time, a great
+many of the instructions that were included could and should have been removed.
+In the event that Mr. Rodgerson’s new trial adduces substantially similar
+evidence, and the positions of the parties on that evidence remain the same, it
+is my view that a substantially more streamlined jury charge would suffice. Mr.
+Rodgerson would benefit from a jury keenly focused on the evidence and
+arguments forming the basis of his defence, and not distracted by hours of
+confusing and repetitive generic instruction. The Crown would also benefit from
+a simplified charge, with fewer unnecessary contours in which grounds for an
+appeal of conviction may lay hidden. I do not wish to appear naïve, and I
+recognize that such an everybody-wins approach is easier said than done.
+Nevertheless, I remain firmly of the view that “common sense and the law need
+not be strangers”, and that the fundamental purpose of the jury charge must be
+“to educate, not complicate” (R. v. Zebedee (2006), 81 O.R. (3d) 583
+(C.A.), at para. 82). IV.       
+Conclusion [55]                         
+It was open to the jury to conclude that Mr.
+Rodgerson sought to conceal Ms. Young’s body and clean up the scene of her
+death in order to conceal the nature and extent of her injuries and the degree
+of force required to inflict them. This in turn could have been relevant on the
+issue of whether Mr. Rodgerson had the requisite intent for murder: the more
+severe the injuries, and the more force required to inflict them, the stronger
+the inference that Mr. Rodgerson intended to kill, or to cause bodily harm
+which he knew was likely to cause death. [56]                         
+This chain of inferential reasoning was narrow,
+and the relevance of the evidence was attenuated. The trial judge should have
+assisted the jury with a specific instruction on how to link the concealment
+and clean-up evidence with the issue of intent. His failure to do so was a
+legal error, and one that is sufficiently serious, in conjunction with the
+erroneous instructions on Mr. Rodgerson’s flight from and lies to the police,
+that the curative proviso cannot apply. I would dismiss the Crown’s appeal and
+affirm the Court of Appeal’s judgment ordering a new trial on a charge of
+second degree murder.                     Appeal
+dismissed.                     Solicitor
+for the appellant: Attorney General of Ontario, Toronto.                     Solicitors for the
+respondent: Hicks Adams, Toronto. [1]   During the pre-charge conference, defence counsel relied on R. v. Mathisen, 2008
+ONCA 747, 239 C.C.C. (3d) 63, to support his request for an instruction on the
+defence of “involuntary act” accident. The trial judge expressed skepticism
+that this defence had an air of reality on the record, but agreed to include
+the instruction because Crown counsel did not oppose the request. In my view,
+the facts of this case on this issue bear little resemblance to Mathisen.
+On cross-examination, Mr. Rodgerson testified that he applied pressure to Ms.
+Young’s face with his arm using as much force as he thought was necessary in
+order to restrain her from stabbing him. In his closing submission to the jury,
+defence counsel reiterated that Mr. Rodgerson “was pressing down on her face as
+hard as [he] could” (A.R., vol. VIII, at p. 153). On this record and these
+submissions, there was no basis to instruct the jury on the defence of
+“involuntary act” accident.  

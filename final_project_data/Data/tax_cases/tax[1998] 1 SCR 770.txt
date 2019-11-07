@@ -1,0 +1,609 @@
+Neuman v. M.N.R. , [1998] 1 S.C.R. 770  Melville Neuman                                                                               Appellant  v.  Her Majesty The Queen                                                                   Respondent  Indexed as:  Neuman v. M.N.R.  File No.:  25565.  1998:  January 28; 1998:  May 21.   on appeal from the federal court of appeal  Income tax -- Dividends -- Attribution -- Taxpayer
+incorporating family holding company for tax planning and income splitting
+purposes -- Taxpayer’s wife elected sole director of company -- Wife declaring
+dividends on her own and on taxpayer’s shares -- Whether dividend income
+received by wife should be attributed to taxpayer for income tax purposes --
+Income Tax Act, S.C. 1970-71-72, c. 63, s. 56(2).  The appellant N incorporated a family holding company
+and immediately  sold all of his shares in another company to it on a
+tax-deferred basis for the same number of Class “G” voting shares in the
+holding company.  N’s wife was issued 99 non-voting Class “F” shares at $1 per
+share.  At the first annual meeting of shareholders N’s wife was elected sole
+director of the holding company and N and his wife were appointed as officers. 
+In 1982, the holding company received $20,000 in dividends on the shares it
+owned.  A board of directors meeting was held at which N’s wife, pursuant to a
+discretionary dividend clause in the company’s articles of incorporation,
+declared a dividend of $5,000 to be paid on N’s Class “G” shares and another
+dividend of $14,800 to be paid on her own Class “F” shares.  N’s wife
+immediately loaned him $14,800 and received a demand promissory note as
+security in return.  N’s wife died in 1988.  The loan was not repaid.  The
+dividend income paid to N’s wife in 1982 was attributed to N as being a payment
+or transfer of property made pursuant to the direction of or with the
+concurrence of N as described in s. 56(2) of the Income Tax Act (ITA)
+and he was assessed tax on this income.  N appealed his 1982 assessment to the
+Tax Court of Canada and in 1992 that assessment was vacated.  The respondent
+appealed to the Federal Court, Trial Division without success, but a further
+appeal to the Federal Court of Appeal was allowed.  Held:  The appeal should be allowed.  Section 56(2) of the ITA does not apply to the
+dividend income received by N’s wife.  While s. 56(2) strives to prevent
+tax avoidance through income splitting, it is a specific tax avoidance
+provision and not a general provision against income splitting.  It can only
+operate to prevent income splitting where the following preconditions to its
+application are specifically met:  (1) the payment must be to a person other
+than the reassessed taxpayer; (2) the allocation must be at the direction or
+with the concurrence of the reassessed taxpayer; (3) the payment must be for
+the benefit of the reassessed taxpayer or for the benefit of another person
+whom the reassessed taxpayer wished to benefit; and (4) the payment would have
+been included in the reassessed taxpayer’s income if it had been received by
+him or her.  McClurg v. Canada provides that as a general rule,
+s. 56(2) does not apply to dividend income since, until a dividend is
+declared, the profits belong to the corporation as retained earnings.  The
+declaration of a dividend therefore cannot be said to be a diversion of a
+benefit which the taxpayer otherwise would have received.  Such an entitlement
+requirement is consistent with the purpose of s. 56(2), which is to
+capture and attribute to the reassessed taxpayer receipts which he or she
+otherwise would have obtained.  Unless a reassessed taxpayer had a preexisting
+entitlement to the dividend income paid to the shareholder of a corporation,
+the fourth precondition cannot be satisfied and consequently s. 56(2)
+cannot operate to attribute the dividend income to that taxpayer for income tax
+purposes.  Assuming that proper consideration was given for the
+shares when issued, there is no exception to the rule that s. 56(2) does
+not apply to dividend income where the recipient of the dividend income in a
+non-arm’s length transaction has not made a legitimate contribution to the
+corporation.  The fact that a company is closely held or that no contribution
+is made to the company by a shareholder benefiting from a dividend in no way
+changes the underlying nature of a dividend.  Dividends are paid to
+shareholders as a return on their investment in the corporation.  Since the
+distribution of the dividend is not determined by the quantum of a
+shareholder’s contribution to the corporation, it would be illogical to use
+contribution as the criterion that determines when dividend income will be
+subject to s. 56(2).  Further, taxpayers are entitled to arrange their
+affairs for the sole purpose of achieving a favourable position regarding
+taxation and no distinction is to be made in the application of this principle
+between arm’s length and non-arm’s length transactions.  Cases Cited  Considered:  McClurg
+v. Canada, [1990] 3 S.C.R. 1020, aff’g [1988] 2 F.C. 356; distinguished: 
+Winter v. Canada, [1991] 1 F.C. 585; referred to:  Stubart
+Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536; Murphy v. The Queen,
+80 D.T.C. 6314; Fraser Companies, Ltd. v. The Queen, 81 D.T.C. 5051.  Statutes and Regulations Cited  Income Tax Act, S.C. 1970-71-72, c. 63, ss. 12(1)(j),
+56(2), 74.4 [ad. 1986, c. 6, s. 38], 82(1), 85(1), 245 [rep. & sub.
+1988, c. 55, s. 185].  Authors Cited  Krishna, Vern.  “Share Capital
+Structure of Closely-Held Private Corporations” (1996), 7 Can. Curr. Tax
+7.  Krishna, Vern, and J. Anthony Van
+Duzer.  “Corporate Share Capital Structures and Income Splitting:  McClurg
+v. Canada” (1992-93), 21 Can. Bus. L.J. 335.  APPEAL from a judgment of the Federal Court of Appeal,
+[1997] 1 F.C. 79, 201 N.R. 358, [1996] 3 C.T.C. 270, 96 D.T.C. 6464, [1996]
+F.C.J. No. 1108 (QL), allowing an appeal from a judgment of Rothstein J.,
+[1994] 2 F.C. 154, 72 F.T.R. 17, [1994] 1 C.T.C. 354, 94 D.T.C. 6094, [1993]
+F.C.J. No. 1332 (QL), dismissing an appeal from a judgment of Sarchuk T.C.C.J.,
+[1992] 2 C.T.C. 2074, 92 D.T.C. 1652, [1992] T.C.J. No. 288 (QL), allowing an
+appeal from an assessment of income tax.  Appeal allowed.  Joe E. Hershfield, Q.C.,
+Ralph D. Neuman and Christopher M. Paterson, for the appellant.  Roger Taylor and Robert
+Gosman, for the respondent.  //Iacobucci J.//  The judgment of the Court was delivered by  1                                  
+Iacobucci J. -- The
+principal question raised by this appeal is whether dividend income, paid by a
+closely held family corporation to a non-arm’s length shareholder who has not
+contributed to or participated in the business of the corporation, in this case
+Ruby Neuman, should be attributed to the shareholder’s spouse, the appellant
+Melville Neuman, for income tax purposes in accordance with s. 56(2) of the Income
+Tax Act, S.C. 1970-71-72, c. 63 as amended (the “ITA”).  I
+conclude that s. 56(2) does not apply to dividend income such that the dividend
+income received by Ruby Neuman cannot be attributed to the appellant for income
+tax purposes.  1.   Facts  2                                  
+The appellant was at all material times a lawyer with the firm of
+Neuman, MacLean in Winnipeg.  The appellant and his partners at the law firm
+each owned 1,285.714 common shares in Newmac Services (1973) Ltd. (“Newmac”),
+which owned commercial property in downtown Winnipeg, including the offices of
+Neuman, MacLean.  The appellant acted as secretary of Newmac.  The appellant’s
+wife, Ruby Neuman, had no involvement in the business of Newmac.  3                                  
+On April 29, 1981, the appellant incorporated Melru Ventures Inc.
+(“Melru”) as a family holding company.  Rothstein J. of the Federal Court,
+Trial Division found that Melru was incorporated for tax planning and income
+splitting purposes and that it had no other independent business purpose
+([1994] 2 F.C. 154, at p. 160).  4                                  
+The capital structure of Melru provided for different classes of shares
+with different rights and privileges.  The dividends were to be declared at the
+sole discretion of the directors; distributions could be done selectively among
+the various classes of shares. The rights and conditions of the Class “G” and
+“F” shares are as follows:  (a)   the holders of Class “G” shares shall in each year, in the
+discretion of the directors, be entitled out of any or all profits or surplus
+available for dividends to non-cumulative dividends at such rate as may from
+time to time be declared on any such shares but not exceeding the equivalent of
+1% per annum on “redemption price” above the maximum prime bank rates. . . .                                                                     .
+. .  (e)   all dividends paid or declared and set aside for payment in any
+fiscal year, after making payments on Class “G” shares and preference shares of
+dividends declared shall be paid firstly on Class “F” shares until dividends
+aggregating 1¢ per share on the Class “F” shares then outstanding have been
+paid and then any additional dividends shall be set aside for payment on common
+shares until the common shares then outstanding shall have received 1¢ per
+share and any additional dividends shall be paid on Class “F” shares until they
+receive that fraction of profits properly available for payment of dividends as
+the number of Class “F” shares then outstanding bear to the total number of
+Class “F” shares and common shares then outstanding and the balance shall in
+the discretion of the directors be paid on common shares or set aside for
+future payment on common shares at the discretion of the board of directors.   5                                  
+Pursuant to an agreement dated April 29, 1981, the appellant sold his
+shares in Newmac to Melru for 1,285.714 Class “G” shares of Melru.  The shares
+were sold on a tax-deferred basis pursuant to s. 85(1) of the ITA and
+they were described as having a fair market value of $120,000.  On May 1, 1981,
+a meeting of the first director was held at which the appellant was appointed
+president and Ruby Neuman was appointed secretary.  One voting common share of
+Melru was issued to the appellant for $1.   A special general meeting of the
+shareholders was held that same day at which the appellant resigned as first
+director and was elected director of Melru until the first annual meeting of
+the corporation.  Ruby Neuman acted as secretary at this meeting.  That same
+day there was a meeting of the board of directors which the appellant chaired. 
+A resolution was passed authorizing the issue of  1,285.714 Class “G” shares to
+the appellant in accordance with the agreement of sale.  A second resolution
+was passed authorizing the issue of 99 non-voting Class “F” shares to Ruby
+Neuman at $1 per share.  6                                  
+The first annual meeting of shareholders was held on August 12, 1982.  
+Ruby Neuman was elected sole director of Melru and the appellant and Ruby
+Neuman were appointed as officers.  7                                  
+In 1982, Melru received $20,000 in dividends on the Newmac shares. 
+These were the first dividends paid on the Newmac shares.  A board of directors
+meeting was held on September 8, 1982 at which time Ruby Neuman declared a
+dividend in the amount of $5,000 to be paid on the Class “G” shares and another
+dividend of $14,800 to be paid on the Class “F” shares.  The minutes indicate
+that the holder of the common shares (i.e., the appellant) was prepared to have
+money set aside for future payment on his shares.  8                                  
+Ruby Neuman immediately loaned $14,800 to the appellant and she received
+in return a demand promissory note as security.  Ruby Neuman died in 1988.  The
+loan was not repaid.  9                                  
+  Rothstein J. made the following relevant findings of fact (at
+pp.160-61):  1.                The dividends declared by Ruby
+Neuman on her own Class “F” shares and the appellant’s Class “G” shares were
+declared pursuant to a discretionary dividend clause in the Articles of
+Incorporation of Melru.  The dividends of $14,800 on the “F” shares and $5,000
+on the “G” shares were arbitrary numbers.  2.                Ruby Neuman made no contribution
+to Melru, nor did she assume any risks for the company.  3.                The appellant’s evidence was that
+when his wife was elected director of Melru, he explained to her the duties of
+a director, that directors manage the corporation, that they have a duty to the
+corporation, and that they make the decisions.  The appellant said that he made
+recommendations to his wife which she accepted but that the decision as to the
+declaration of dividends was hers.  10                              
+The dividend income paid to Ruby Neuman in 1982 was attributed to the
+appellant as being a payment or transfer of property made pursuant to the
+direction of or with the concurrence of the appellant as described in s. 56(2)
+of the ITA and he was assessed tax on this income.  11                              
+The appellant appealed his 1982 assessment to the Tax Court of Canada
+and in 1992 the assessment was vacated:  [1992] 2 C.T.C. 2074.  (Proceedings
+had been delayed pending the final determination in McClurg v. Canada,
+[1990] 3 S.C.R. 1020.)  The respondent appealed to the Federal Court,
+Trial Division without success, but a further appeal to the Federal Court of
+Appeal was successful:  [1997] 1 F.C. 79.  2.  Judicial
+History  A.    Tax
+Court of Canada  12                              
+Sarchuk T.C.C.J. allowed the appellant’s appeal and referred the
+assessment back to the respondent for reconsideration on the basis that the
+dividend income received by Ruby Neuman was not to be included in the
+appellant’s income under s. 56(2).  In reaching this conclusion, he relied on
+the opinion expressed by this Court in McClurg that as a general rule s.
+56(2) does not apply to dividend income.   Sarchuk T.C.C.J. acknowledged
+Dickson C.J.’s obiter dicta in  McClurg (at p. 1054):  . . . if a distinction is to be drawn in the application of s. 56(2)
+between arm’s length and non-arm’s length transactions, it should be made
+between the exercise of a discretionary power to distribute dividends when the
+non-arm’s length shareholder has made no contribution to the company (in which
+case s. 56(2) may be applicable), and those cases in which a legitimate
+contribution has been made.  13                              
+However, Sarchuk T.C.C.J. was of the view that since this comment was obiter
+he was not bound by it.  In his opinion, the Court had left open the question
+of the applicability of s. 56(2) to non-arm’s length transactions and the possibility of piercing the corporate
+veil to stop complex tax avoidance schemes.  However, the case at bar, in his
+view, did not warrant this action.  Although there were facts that would
+support the attribution of the income back to the appellant, the plan could not
+be described as a “blatant tax
+avoidance scheme” (p. 2085).  B.    Federal
+Court of Canada, Trial Division  14                              
+Rothstein J. dismissed the appeal from the decision of the Tax Court on
+the grounds that s. 56(2) was not designed to prevent income splitting in the
+context of the director-shareholder relationship.  15                              
+He first considered whether Ruby Neuman, in declaring the dividend, was
+acting under the direction or with the concurrence of the appellant.  Rothstein
+J. said he was “reluctant to presume that Ruby Neuman was acting pursuant to
+the direction of, or with the concurrence of, the [appellant] when she, as
+director, declared dividends on behalf of Melru” (p. 162).  Although this would
+determine the appeal, this point was not pressed by the parties, and Rothstein
+J. did not decide the case on this point.  16                              
+Rothstein J. went on to consider this Court’s holding in McClurg;
+the McClurg decision was critical to the outcome of the case at bar
+since the only material difference between the facts, in Rothstein J.’s view,
+is that Ruby Neuman made no contribution to Melru while Wilma McClurg did make
+contributions to the corporation from which she received dividend income.  17                              
+Applying McClurg, Rothstein J. concluded that the declaration of
+dividends pursuant to the discretionary dividend clause was valid and he then
+went on to consider the tax law issue.  Rothstein J. noted that in McClurg
+Dickson C.J. recognized two prerequisites to the application of s. 56(2): that
+the dividend income would otherwise have been obtained by the reassessed
+taxpayer, and that the payment must be a “benefit” for which there was no
+adequate consideration.   Dickson C.J. concluded that s. 56(2) did not
+generally apply to dividends since the reassessed taxpayer would not have
+received the money if it had not been paid to the shareholder because it would
+have been retained as earnings by the company.   Dickson C.J. also concluded
+that, on the facts in McClurg, the dividend income received by Wilma
+McClurg was consideration for the significant contribution which she
+made to the corporation; the dividend received by her was not, therefore, a
+“benefit”.  18                              
+Rothstein J. concluded that Dickson C.J. had not intended to dispose of
+the McClurg case on the basis of Wilma McClurg’s contributions to the
+corporation; rather, his comments about her contributions were intended to
+address the third precondition to the application of s. 56(2) articulated in
+the provision itself, i.e., was the money “for the benefit of the taxpayer or
+as a benefit that the taxpayer desired to have conferred on the other person”?  19                              
+Rothstein J. proceeded to consider Dickson C.J.’s suggested exception to
+the general rule that s. 56(2) does not apply to dividend income.  Rothstein J.
+recognized that this Court did not determine in McClurg whether a
+distinction can be made between non-arm’s length and arm’s length transactions
+because in McClurg the recipient of the dividend made a legitimate
+contribution to the company; therefore the dividend did not constitute a
+benefit to Wilma McClurg and s. 56(2) could not apply for that reason.  20                              
+The problem faced by Rothstein J. was whether, on the facts before him,
+where Ruby Neuman had made no contribution to the company and the receipt of
+the dividend was thus a “benefit” to her, a distinction must be drawn between
+non-arm’s length and arm’s length transactions.   He concluded, relying on 
+Urie J.’s  ruling in the Federal Court of Appeal in McClurg, [1988] 2
+F.C. 356 (which ruling had not been overturned by the reasons of Dickson
+C.J.), that there is nothing in s. 56(2) which contemplates a distinction
+between non-arm’s length and arm’s length transactions.    Rothstein J. noted
+that this Court found, in more general terms, that there was no distinction
+between arm’s length and non-arm’s length transactions (Stubart Investments
+Ltd. v. The Queen, [1984] 1 S.C.R. 536).  21                              
+Having found that a distinction cannot be drawn between non-arm’s length
+and arm’s length transactions in the application of s. 56(2), Rothstein J.
+decided that he need not consider whether a dividend payment is a benefit for
+the purposes of s. 56(2) where the recipient did not make a contribution to the
+corporation.  22                              
+Rothstein J. noted that there is nothing in the ITA which
+suggests an overall intention to prevent income splitting; an income splitting
+transaction must actually violate a section of the ITA in order for the
+Minister to challenge it.  23                              
+In the absence of sham, and with all corporate formalities having been
+observed, Rothstein J. held that the transaction was valid and he dismissed the
+appeal.  C.  Federal
+Court of Appeal  24                              
+The Federal Court of Appeal allowed the respondent’s appeal and held
+that the appellant was taxable on the dividend income received by Ruby
+Neuman.   The court held that the dictum of Dickson C.J. in McClurg
+regarding the possible application of s. 56(2) in non-arm’s length transactions
+was binding on the Trial Division.  The court relied, in reaching its
+conclusion, on the fact that the incorporation of Melru and the declaration of
+the dividend to Ruby Neuman had no bona fide business purpose and lacked
+commercial reality.   In reaching its conclusion, the court essentially pierced
+the corporate veil.  25                              
+The court was of the view that the respondent had satisfied the four
+elements necessary to invoke s. 56(2): (1) payment or transfer made to a person
+other than the taxpayer; (2) made at the direction of or with the concurrence
+of the taxpayer; (3) for the taxpayer’s benefit; and (4) the payment would have
+otherwise been included in the taxpayer’s income.  26                              
+More specifically, the court found that Ruby Neuman was acting with the
+concurrence of the appellant when she declared the dividends.  The court also
+held that the payment of the dividend was “for the benefit of the taxpayer” as
+required by s. 56(2).   The appellant benefited through a reduction in his own
+tax liability; he benefited a second time by having his wife lend him the money
+interest-free.  In addition, the court found that the property would have been
+included in the appellant’s income had it been received by him and not Ruby
+Neuman by operation of ss. 12(1)(j) and 82(1) of the ITA.  27                              
+Next the court had to deal with this Court’s ruling in McClurg
+that s. 56(2) does not generally apply to dividend income because the
+reassessed taxpayer would not have received that money had it not been paid to
+the shareholder.  In order to overcome that general rule, the court invoked the
+exception to the rule recognized by Dickson C.J. in obiter in McClurg:
+that where a non-arm’s length shareholder does not make a legitimate
+contribution to the corporation, a person who directed or concurred in the
+payment of a dividend to that shareholder could be assessed for taxes on the
+amount of the dividend under s. 56(2).  The court concluded (at p. 111) that
+the recognition by Dickson C.J. of this possible exception to the rule is
+binding on courts as it represents the “considered opinion of a majority” of
+the Supreme Court of Canada.  28                              
+The court then found that the facts before them fit within the exception
+detailed in McClurg.   Unlike Wilma McClurg, Ruby Neuman had made no
+contribution to Melru, a company which was incorporated solely for tax planning
+and income splitting purposes.  The court found that applying s. 56(2) “would
+not be contrary to the commercial reality of the declaration of the dividend to
+Ruby Neuman, since there was none” (p. 105).  29                              
+The appellant argued that the court should apply Winter v. Canada,
+[1991] 1 F.C. 585 (C.A.), which stands for the proposition that there is
+a fifth precondition to the application of s. 56(2) which requires proof that
+the payee would not be subject to tax on the dividend income.  The court
+declined to find that there was a fifth pre-condition to the application of s.
+56(2).  30                              
+As a result, the Federal Court of Appeal allowed the appeal and affirmed
+the Minister’s assessment attributing the dividend income received by Ruby
+Neuman to the appellant.  3.  Issues  31                              
+The central question raised by this appeal is whether the dividend
+income received by Ruby Neuman should be attributed to the appellant for tax
+purposes under s. 56(2) of the ITA.  Section 56(2) provides:  56. . . .  (2)       A payment or transfer of property made
+pursuant to the direction of, or with the concurrence of, a taxpayer to some
+other person for the benefit of the taxpayer or as a benefit that the taxpayer
+desired to have conferred on the other person shall be included in computing
+the taxpayer’s income to the extent that it would be if the payment or transfer
+had been made to him.  32                              
+In order for s. 56(2) to apply, four preconditions, each of which is
+detailed in the language of the s. 56(2) itself, must be present:  (1) the payment must be to a person other than the reassessed taxpayer;  (2) the allocation must be at the direction or with the concurrence of
+the reassessed taxpayer;  (3) the payment must be for the benefit of the reassessed taxpayer or
+for the benefit of another person whom the reassessed taxpayer wished to
+benefit; and  (4) the payment would have been included in the reassessed taxpayer’s
+income if it had been received by him or her.  I agree that
+these four prerequisites to attribution are an appropriate analytical framework
+for the interpretation of s. 56(2)  (see Cattanach J. in both  Murphy v. The
+Queen, 80 D.T.C. 6314 (F.C.T.D.), at pp. 6317-18, and in Fraser
+Companies, Ltd. v. The Queen, 81 D.T.C. 5051 (F.C.T.D.), at p. 5058).  33                              
+Because I conclude that s. 56(2) does not apply to dividend income since
+dividend income, by its very nature, cannot satisfy the fourth precondition
+absent a sham or other subterfuge, it is not necessary to discuss the other
+three prerequisites to the application of s. 56(2).  4.  Analysis  A.  Introduction.  34                              
+As the judicial history of this appeal reveals, the interpretation of
+this Court’s majority decision in McClurg lies at the heart of the present
+case.  This Court held in McClurg that generally s. 56(2) will
+not apply to dividend income.   However, Dickson C.J. suggested in obiter
+in McClurg that s. 56(2) may apply where dividend income is distributed
+through the exercise of a discretionary power to a non-arm’s length shareholder
+who has made no legitimate contribution to the company  (at p. 1054).  
+The Federal Court of Appeal felt bound by the potential exception articulated
+by Dickson C.J. in obiter since the facts in the present case were similar
+to the facts in McClurg with the only material difference being that
+Ruby Neuman, unlike Wilma McClurg, had not made any contribution to the
+corporation.  35                              
+ A large part of my analysis will involve a review of the holdings in McClurg. 
+Before I turn to McClurg, however, I wish to make some observations to
+place the present debate into its proper perspective.  First, s. 56(2) strives
+to prevent tax avoidance through income splitting; however, it is a specific
+tax avoidance provision and not a general provision against income splitting. 
+In fact, “there is no general scheme to prevent income splitting” in the ITA
+(V. Krishna and J. A. Van Duzer, “Corporate Share Capital Structures and Income
+Splitting: McClurg v. Canada” (1992-93), 21 Can. Bus. L.J. 335,
+at p. 367).   Section 56(2) can only operate to prevent income splitting where
+the four  preconditions to its application are specifically met.  36                              
+Second, this case concerns income received by Ruby Neuman during the
+1982 taxation year at which time the ITA did not provide specific
+guidelines to deal with corporate structures designed for the purposes of
+income splitting and tax minimization. 
+Professor V. Krishna, in an article entitled “Share Capital Structure of
+Closely-Held Private Corporations” (1996), 7 Can. Curr. Tax  7, at p. 9,
+made the following comment with respect to income splitting in the corporate
+context:  Except when specifically curtailed by the Income Tax Act (for
+example, by the attribution rules), income splitting per se is
+not a sanctioned arrangement.  Thus, corporate structures that facilitate
+income splitting in private companies should not be penalized without clear
+statutory language and intent.  [Emphasis added.]   Parliament has
+since fashioned legislation to regulate corporate income splitting (s. 74.4 of
+the ITA, introduced in 1985), but this legislation does not apply to the
+present appeal.  37                              
+Third, this appeal is limited to the interpretation and application of s.
+56(2) of the ITA; the appeal is not based on the general anti-avoidance
+rule set out in s. 245 of the ITA (“GAAR”).  GAAR came into force
+on September 13, 1988 and it applies only to transactions entered into on or
+after that date.  38                              
+Fourth, the respondent has not argued that the appellant was involved in
+a sham or an artificial transaction and this was acknowledged by counsel for
+the respondent during the hearing.  39                              
+Finally, it is important to remember that this Court held
+unanimously in Stubart, supra, at p. 575, that a transaction
+should not be disregarded for tax purposes because it has no independent or bona
+fide business purpose (Estey J. wrote for himself and  Beetz and McIntyre
+JJ.; Wilson J. wrote concurring reasons for herself and Ritchie J.).  Thus,
+taxpayers can arrange their affairs in a particular way for the sole purpose of
+deliberately availing themselves of tax reduction devices in the ITA. 
+Estey J. rejected the suggestion that a distinction must be drawn between
+non-arm’s length and arm’s length transactions in the application of this
+principle (at pp. 570-72).  According to Stubart, therefore, non-arm’s
+length arrangements can also be created for the sole purpose of taking
+advantage of tax reduction devices.  40                              
+With these points in mind, I now turn to the decision of the Court in McClurg.  B.  McClurg  41                              
+McClurg involved a taxpayer and business associate who were the
+sole directors of a corporation which they had set up and in which they and
+their wives were shareholders.  The corporation operated an International
+Harvester truck dealership. The capital structure of the corporation provided
+for three classes of shares with different rights and privileges: Class A
+shares were common, voting and participating shares; Class B shares were
+common, non-voting and participating where so authorized by the directors; and
+Class C shares were preferred non-voting shares.  The dividends were to be
+declared at the sole discretion of the directors; distributions could be done
+selectively among the three classes of shares.   Essentially, the capital
+structure was designed to permit income splitting.  42                              
+Jim McClurg and his associate held Class A and C shares whereas their
+wives held Class B shares.   In 1978, 1979, and 1980 the wives of the directors
+each received $100/share on their Class B shares: $10,000/year.  These were the
+only dividends declared in those years.  43                              
+Wilma McClurg made legitimate contributions to the business.  She
+exposed herself to extensive liability by assisting in the financing of the
+business.  She also worked as an administrative assistant, drove a truck when
+necessary, and generally fulfilled needs as they arose.  44                              
+The Minister reassessed Jim McClurg’s income for 1978 to 1980 on the
+basis that $8000 of the $10,000 in dividends paid to his wife each year was
+attributable to him through the operation of s. 56(2).   The Minister also
+challenged the validity of the discretionary dividend provision.  (i) The ratio in McClurg  45                              
+Dickson C.J., writing for himself and Sopinka, Gonthier and Cory JJ.
+(Wilson, La Forest and L’Heureux-Dubé JJ. in dissent), first dealt with the
+issue of whether the discretionary dividend provision was valid as a matter of
+corporate law; he concluded that it was.   He then turned to the tax issue and
+he held that the dividend income paid to Wilma McClurg was not
+attributable to her husband for income tax purposes through the operation of s.
+56(2).  46                              
+This Court concluded that, as a general rule, s. 56(2) does not apply to
+dividend income since, until a dividend is declared, the profits belong to the
+corporation as retained earnings.  The declaration of a dividend cannot be
+said, therefore, to be a diversion of a benefit which the taxpayer would
+have otherwise received (at p. 1052).  Dickson C.J. explained the ruling as
+follows (at p. 1052):  While it is always open to the Courts to “pierce the corporate veil” in
+order to prevent parties from benefitting from increasingly complex and
+intricate tax avoidance techniques, in my view a dividend payment does not fall
+within the scope of s. 56(2).  The purpose of s. 56(2) is to ensure that
+payments which otherwise would have been received by the taxpayer are not
+diverted to a third party as an anti-avoidance technique.  This purpose is not
+frustrated because, in the corporate law context, until a dividend is declared,
+the profits belong to a corporation as a juridical person: [B. Welling, Corporate
+Law in Canada (1984), at pp. 609-10].  Had a dividend not been declared and
+paid to a third party, it would not otherwise have been received by the
+taxpayer.  Rather, the amount simply would have been retained as earnings by
+the company.  Consequently, as a general rule, a dividend payment cannot
+reasonably be considered a benefit diverted from a taxpayer to a third party
+within the contemplation of s. 56(2).  [Emphasis added.]   47                              
+Although not explicitly stated, Dickson C.J.’s preceding comments
+concern the fourth precondition to the application of s. 56(2): that the
+payment would have been included in the reassessed taxpayer’s income if it had
+been received by him or her.  In essence, dividend income does not satisfy this
+prerequisite to attribution since the reassessed taxpayer would not have received
+the income had it not been paid to the shareholder.  In effect, this Court
+implicitly interpreted the fourth precondition to include an entitlement
+requirement; entitlement is used in the sense that the reassessed taxpayer
+would have otherwise received the payments in dispute.  This was correctly
+noted by Rothstein J. at the Federal Court, Trial Division in similar terms
+where he acknowledged that Dickson C.J. qualified the application of s. 56(2)
+by requiring that the payment in issue “would otherwise have been obtained by
+the reassessed taxpayer” (p. 164).  48                              
+An entitlement requirement in the sense I have described is consistent
+with the stated purpose of s. 56(2), which is to capture and attribute to the
+reassessed taxpayer “receipts which he or she otherwise would have obtained” (McClurg,
+at p. 1051).   Dividend income cannot pass the fourth test because the
+dividend, if not paid to a shareholder, remains with the corporation as
+retained earnings; the reassessed taxpayer, as either director or shareholder
+of the corporation, has no entitlement to the money.  49                              
+This is the only interpretation which makes sense and which avoids
+absurdity in the application of s. 56(2), as noted by Dickson C.J. (at p.
+1053):  . . . but for the declaration (and allocation), the dividend would
+remain part of the retained earnings of the company.  That cannot legitimately
+be considered as within the parameters of the legislative intent of s. 56(2). 
+If this Court were to find otherwise, corporate directors potentially could be
+found liable for the tax consequences of any declaration of dividends made to a
+third party. . . . this would be an unrealistic interpretation of the
+subsection consistent with neither its object nor its spirit.  It would violate
+fundamental principles of corporate law and the realities of commercial
+practice and would “overshoot” the legislative purpose of the section.  50                              
+I note that the decision in Winter, supra, which was
+rendered shortly before this Court’s ruling in McClurg, appears to
+challenge the view that where a taxpayer is not entitled to a payment that
+payment cannot be attributed to him or her under s. 56(2).  Winter,
+however, did not involve the attribution of dividend income.  51                              
+In Winter, the majority shareholder in an investment company
+caused the corporation to sell some of its shares to his son-in-law, who was
+also a shareholder in the corporation, for a price of $100 per share. The
+Minister calculated the fair market value of the shares at approximately $1,000
+per share and reassessed the majority shareholder under s. 56(2) by adding as
+income the difference between what the son-in-law paid for the shares and their
+market value.  52                              
+Marceau J.A., writing for the court, held that the fact that the taxpayer
+had no direct entitlement to the shares did not preclude attribution since
+there was no indication that s. 56(2) was intended to be so confined. Marceau
+J.A. concluded (at p. 593) that:  when the doctrine of “constructive receipt” is not clearly involved,
+because the taxpayer had no entitlement to the payment being made or the
+property being transferred, it is fair to infer that subsection 56(2) may
+receive application only if the benefit conferred is not directly taxable in
+the hands of the transferee.  [Emphasis added.]   Marceau J.A.
+distinguished the Federal Court of Appeal’s ruling in McClurg where Urie
+J. held that s. 56(2) does not apply to dividend income, which holding was
+affirmed by this Court, as follows (at pp. 591-92):  the McClurg decision was concerned with a declaration of
+dividend in accordance (in the views of the majority) with the powers conferred
+by the share structure of the corporation, and I do not see it as having
+authority beyond the particular type of situation with which it was dealing.    53                              
+I agree with Marceau J.A.: Winter concerned the conferral of a
+benefit which was not in the form of dividend income.  The application of s.
+56(2) to non-dividend income was not before this Court in McClurg and it
+is not before this Court in the present case.  But the entitlement requirement
+implicitly read into the fourth precondition of s. 56(2) in McClurg
+clearly applies to dividend income.  54                              
+I conclude that, unless a reassessed taxpayer had a preexisting
+entitlement to the dividend income paid to the shareholder of a corporation,
+the fourth precondition cannot be satisfied and consequently s. 56(2) cannot
+operate to attribute the dividend income to that taxpayer for income tax
+purposes.   (ii) The obiter dicta in McClurg and the exception to
+the general rule  55                              
+The finding that dividend income cannot satisfy the fourth precondition
+to the application of s. 56(2), as modified by the implicit entitlement
+requirement, was dispositive of the McClurg case.   La Forest J. agreed
+with the majority’s conclusion that bona fide dividend income does not
+fall within the scope of s. 56(2).  However, he dissented on the finding under
+corporate law that the discretionary dividend clause was valid; therefore the
+dividend income at issue in McClurg was not, in his view, bona fide and
+s. 56(2) applied (see p. 1073).  56                              
+Despite these conclusions, Dickson C.J. went on to consider the third
+precondition, that the payment must be for the benefit of the reassessed
+taxpayer or for the benefit of another person whom the reassessed taxpayer
+wished to benefit, and in so doing, he qualified his earlier interpretation of
+the fourth precondition.    In his view, Wilma McClurg’s receipt of the funds
+was not a “benefit” as required by s. 56(2) (the third precondition) since her
+contributions to the corporate enterprise could be described as a “legitimate quid
+pro quo and were not simply an attempt to avoid the payment of taxes” (p.
+1054).  Since Wilma McClurg had made legitimate contributions to the
+corporation, the application of s. 56(2) “would be contrary to the commercial
+reality of this particular transaction” (p. 1053).  57                              
+Dickson C.J. seemed to be of the view that the character of a
+shareholder’s dividend income is to be determined by that shareholder’s level
+of contribution to the corporation.  This approach ignores the fundamental
+nature of dividends; a dividend is a payment which is related by way of
+entitlement to one’s capital or share interest in the corporation and not to
+any other consideration.  Thus,  the quantum of one’s contribution to a
+company, and any dividends received from that corporation, are mutually
+independent of one another.  La Forest J. made the same observation in his
+dissenting reasons in McClurg (at p. 1073):       With respect, this fact is irrelevant to the issue before us.  To
+relate dividend receipts to the amount of effort expended by the recipient on
+behalf of the payor corporation is to misconstrue the nature of a dividend.
+As discussed earlier, a dividend is received by virtue of ownership of the
+capital stock of a corporation.  It is a fundamental principle of corporate law
+that a dividend is a return on capital which attaches to a share, and is in no
+way dependent on the conduct of a particular shareholder. [Emphasis added.]   58                              
+Dickson C.J.’s finding that Wilma McClurg’s contributions to the
+corporation resulted in the dividend being consideration for her efforts rather
+than a “benefit” as required by s. 56(2) opened the door to his obiter
+comments which have led to some confusion (at p. 1054):       In my opinion, if a distinction is to be drawn in the application
+of s. 56(2) between arm’s length and non-arm’s length transactions, it should
+be made between the exercise of a discretionary power to distribute dividends
+when the non-arm’s length shareholder has made no contribution to the company
+(in which case s. 56(2) may be applicable), and those cases in which a
+legitimate contribution has been made.   59                              
+Dickson C.J. is suggesting, it would seem, that where a non-arm’s length
+shareholder receives a dividend from a corporation to which he or she has made
+no contribution (the dividend income therefore constituting a “benefit” for the
+purposes of s. 56(2) in Dickson C.J.’s view), precondition four, interpreted by
+him to include an entitlement requirement, is automatically considered satisfied,
+or need not be satisfied, with the result that s. 56(2) applies.  60                              
+In my view, it is wrong to suggest that there may be an exception to the
+rule that s. 56(2) does not apply to dividend income where the recipient of the
+dividend income in a non-arm’s length transaction has not made a “legitimate
+contribution” to the corporation.   In so stating, I assume, of course, that
+proper consideration was given for the shares when issued.  I am not aware of
+any principle of corporate law that requires in addition that a so-called
+“legitimate contribution” be made by a shareholder to entitle him or her to
+dividend income and it is well accepted that tax law embraces corporate law
+principles unless such principles are specifically set aside by the taxing
+statute.  61                              
+Furthermore, there is no principled basis upon which this distinction
+can be drawn; the fact that a company is closely held or that no contribution
+is made to the company by a shareholder benefiting from a dividend in no way
+changes the underlying nature of a dividend.   Neither the fact that the
+transaction is non-arm’s length nor the fact that the shareholder has not
+contributed to the corporation serves to overcome the conclusion that dividend
+income cannot satisfy the fourth precondition to attribution under s. 56(2).  62                              
+Moreover, the obiter comments raise the difficult task of
+determining what constitutes a legitimate contribution.   What will be the
+criteria upon which one can ascertain with any degree of precision or certainty
+that a contribution is legitimate?  63                              
+Finally, the requirement of a legitimate contribution is in some ways an
+attempt to invite a review of the transactions in issue in accordance with the
+doctrines of sham or artificiality.  Implicit in the distinction between
+non-arm’s length and arm’s length transactions is the assumption that non-arm’s
+length transactions lend themselves to the creation of corporate structures
+which exist for the sole purpose of avoiding tax and therefore should be caught
+by s. 56(2).    However, as mentioned above, taxpayers are entitled to arrange
+their affairs for the sole purpose of achieving a favourable position regarding
+taxation and no distinction is to be made in the application of this principle
+between arm’s length and non-arm’s length transactions (see Stubart, supra).  
+The ITA has many specific anti-avoidance provisions and rules governing
+the treatment of non-arm’s length transactions.  We should not be quick
+to embellish the provision at issue here when it is open for the legislator to be
+precise and specific with respect to any mischief to be avoided.  64                              
+To summarize, it is inappropriate to consider the contributions of a
+shareholder to a corporation when determining whether s. 56(2) applies. 
+Dividends are paid to shareholders as a return on their investment in the
+corporation.   Since the distribution of the dividend is not determined by the
+quantum of a shareholder’s contribution to the corporation, it would be
+illogical to use contribution as the criterion that determines when dividend
+income will be subject to s. 56(2).   The same principles apply in the context
+of both non-arm’s length relationships such as often exist between small
+closely held corporations and their shareholders, and arm’s length
+relationships such as exist between publicly held corporations and their
+shareholders.  5.   Conclusion  65                              
+For the foregoing reasons, s. 56(2) does not apply to the dividend
+income received by Ruby Neuman.  The appeal is therefore allowed, the decision
+of the Federal Court of Appeal is reversed, and that portion of the
+respondent’s assessment which attributes the dividend income received by Ruby
+Neuman to the appellant is set aside with costs throughout.  Appeal allowed with costs.  Solicitors for the appellant:  Taylor, McCaffrey,
+Winnipeg.  Solicitor for the respondent:  The Attorney General of
+Canada, Ottawa.    

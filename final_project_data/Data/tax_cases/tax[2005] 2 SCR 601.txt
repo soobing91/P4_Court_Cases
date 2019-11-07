@@ -1,0 +1,977 @@
+                                                   SUPREME
+COURT OF CANADA   Citation:  Canada Trustco Mortgage Co. v.
+  Canada, [2005] 2 S.C.R. 601, 2005 SCC 54  Date:  20051019 Docket:  30290  Between: Her Majesty the
+Queen Appellant v. Canada Trustco
+Mortgage Company Respondent  Coram:
+McLachlin C.J. and Major, Bastarache, Binnie, LeBel, Deschamps, Fish, Abella
+and Charron JJ.   Reasons for
+  Judgment: (paras. 1 to 81)   McLachlin C.J. and Major J.
+  (Bastarache, Binnie, LeBel, Deschamps, Fish, Abella and Charron JJ. concurring)   ______________________________ Canada Trustco
+Mortgage Co. v. Canada, [2005] 2 S.C.R. 601, 2005 SCC
+54  Her Majesty
+The Queen                                                                                  Appellant  v.  Canada
+Trustco Mortgage Company                                                           Respondent  Indexed
+as:  Canada Trustco Mortgage Co. v. Canada  Neutral
+citation:  2005 SCC 54.  File
+No.:  30290.  2005:  March 8;
+2005:  October 19.  Present:  McLachlin
+C.J. and Major, Bastarache, Binnie, LeBel, Deschamps, Fish, Abella and
+Charron JJ.  on appeal from
+the federal court of appeal    Held:  The appeal should be dismissed.    Once the provisions of the Income Tax Act  are properly
+interpreted, it is a question of fact for the Tax Court judge whether the
+Minister, in denying the tax benefit, has established abusive tax avoidance
+under s. 245(4) .  Provided the Tax Court judge has proceeded on a proper
+construction of the provisions of the Act and on findings supported by the
+evidence, appellate tribunals should not interfere, absent a palpable and
+overriding error. [46]   Cases Cited  Not followed:  OSFC Holdings Ltd. v. Canada,
+[2002] 2 F.C. 288, 2001 FCA 260; referred
+to:  Mathew v. Canada, [2005] 2 S.C.R. 643,
+2005 SCC 55; 65302 British Columbia Ltd. v. Canada, [1999]
+3 S.C.R. 804; Commissioners of Inland Revenue v. Duke of
+Westminster, [1936] A.C. 1; Shell Canada Ltd. v. Canada, [1999]
+3 S.C.R. 622; Stubart Investments Ltd. v. The Queen, [1984]
+1 S.C.R. 536; Craven v. White, [1989] A.C. 398; W. T.
+Ramsay Ltd. v. Inland Revenue Commissioners, [1981] 1 All
+E.R. 865; Hickman Motors Ltd. v. Canada, [1997]
+2 S.C.R. 336; Water’s Edge Village Estates (Phase II) Ltd. v.
+Canada, [2003] 2 F.C. 25, 2002 FCA 291.  Statutes and Regulations Cited  Budget Implementation
+Act, 2004, No. 2, S.C. 2005, c. 19, s. 52 .  Income Tax Act, R.S.C. 1985, c. 1
+(5th Supp .), ss. 13(7.1) , (7.2) , 20(1) (a), 245(1)  to (5) ,
+248(10) .  Authors
+Cited  Canada.  Department of Finance.  Explanatory
+Notes to Legislation Relating to Income Tax.  Ottawa:  Queen’s Printer,
+1988.   Hogg, Peter W., and
+Joanne E. Magee.  Principles of Canadian Income Tax Law,
+4th ed.  Scarborough, Ont.:  Carswell, 2002.  APPEAL from a judgment of the Federal Court of Appeal (Rothstein, Evans
+and Pelletier JJ.A.) [2004] 2 C.T.C. 276,
+2004 D.T.C. 6119, [2004] F.C.J. No. 249 (QL),
+2004 FCA 67, affirming a decision of Miller J.T.C.C., [2003]
+4 C.T.C. 2009, 2003 D.T.C. 587, [2003] T.C.J. No. 271
+(QL), 2003 TCC 215.  Appeal dismissed.   Al Meghji, Monica Biringer and Gerald Grenon,
+for the respondent.  The judgment of the Court was delivered by  The Chief Justice and Major J.
+—  1.      Introduction  1                                  
+This appeal and its companion case, Mathew v. Canada, [2005] 2
+S.C.R. 643, 2005 SCC 55 (hereinafter “Kaulius”), raise the issue of the
+interplay between the general anti-avoidance rule (“GAAR”) and the application
+of more specific provisions of the Income Tax Act, R.S.C. 1985, c. 1
+(5th Supp .).  The Act continues to permit legitimate tax minimization;
+traditionally, this has involved determining whether the taxpayer brought
+itself within the wording of the specific provisions relied on for the tax
+benefit.  Onto this scheme, the GAAR has superimposed a prohibition on abusive
+tax avoidance, with the effect that the literal application of provisions of
+the Act may be seen as abusive in light of their context and purpose. The task
+in this appeal is to unite these two approaches in a framework that reflects
+the intention of Parliament in enacting the GAAR and achieves consistent,
+predictable and fair results.  2.      Facts  2                                  
+The respondent, Canada Trustco Mortgage Company (“CTMC”), carries on
+business as a mortgage lender.  As part of its business operations, CTMC
+enjoyed large revenues from leased assets.  In 1996 it purchased a number of
+trailers which it then circuitously leased back to the vendor, in order to
+offset revenue from its leased assets by claiming considerable capital cost
+allowance (“CCA”) on the trailers in the amount of $31,196,700 against $51,787,114
+for the 1997 taxation year.  The essence of the transaction is explained in the
+memorandum of Michael Lough, CTMC’s officer in charge of the recommendation to
+proceed: “The transaction provides very attractive returns by generating CCA
+deductions which can be used to shelter other taxable lease income generated by
+Canada Trust.”  This arrangement allowed CTMC to defer paying taxes on the
+amount of profits reduced by the CCA deductions which would be subject to
+recapture into income when the trailers were disposed of at a future date and
+presumably in excess of the amount claimed as CCA.  3                                  
+The details of the transaction are complex and described in greater
+detail in the Appendix.  Briefly stated, on December 17, 1996, CTMC, with the
+use of its own money and a loan of approximately $100 million from the Royal
+Bank of Canada, purchased trailers from Transamerica Leasing Inc. (“TLI”) at
+fair market value of $120 million.  CTMC leased the trailers to Maple Assets
+Investments Limited (“MAIL”) who in turn subleased them to TLI, the original
+owner.  TLI then prepaid all amounts due to MAIL under the sublease.  MAIL
+placed on deposit an amount equal to the loan for purposes of making the lease
+payments and a bond was pledged as security to guarantee a purchase option
+payment to CTMC at the end of the lease. These transactions allowed CTMC to
+substantially minimize its financial risk. They were also accompanied by
+financial arrangements with various other parties, not relevant to this appeal.  4                                  
+On October 18, 2002, the Minister of National Revenue reassessed CTMC on
+its 1997 taxation year and denied the CCA claim of $31,196,700 on the basis
+that CTMC had not acquired title to the trailers and, in the alternative, that
+the GAAR applied to deny the deduction.  CTMC appealed to the Tax Court of
+Canada.  5                                  
+The Crown abandoned the argument that CTMC had failed to obtain title to
+the trailers and the appeal before the Tax Court proceeded solely on the issue
+of whether the GAAR applied to deny the deduction.  A similar reassessment with
+respect to CTMC’s 1996 taxation year was statute-barred.  The Tax Court found in
+favour of CTMC, as did the Federal Court of Appeal.  For the reasons that
+follow, we would dismiss the Crown’s appeal.  3.      Legislative Provisions  6                                  
+This appeal and its companion case Kaulius were brought and
+argued under s. 245  of the Income Tax Act .  The relevant provisions of
+the Act, as they applied to the parties, read in part:  245. (1) [Definitions] In this section,  “tax benefit” means a reduction, avoidance or
+deferral of tax or other amount payable under this Act or an increase in a
+refund of tax or other amount under this Act;                                                                     .
+. .  “transaction” includes an arrangement or event.   (3) [Avoidance transaction] An avoidance
+transaction means any transaction  (a) that, but for this section, would result, directly or
+indirectly, in a tax benefit, unless the transaction may reasonably be
+considered to have been undertaken or arranged primarily for bona fide purposes
+other than to obtain the tax benefit; or  (b) that is part of a series of transactions, which series, but
+for this section, would result, directly or indirectly, in a tax benefit,
+unless the transaction may reasonably be considered to have been undertaken or
+arranged primarily for bona fide purposes other than to obtain the tax
+benefit.  (4)  [Where s. (2) does not apply] For greater
+certainty, subsection (2) does not apply to a transaction where it may
+reasonably be considered that the transaction would not result directly or
+indirectly in a misuse of the provisions of this Act or an abuse having regard
+to the provisions of this Act, other than this section, read as a whole.  (5)  [Determination of tax consequences] Without
+restricting the generality of subsection (2),  (a) any deduction in computing income, taxable income, taxable
+income earned in Canada or tax payable or any part thereof may be allowed or
+disallowed in whole or in part,  (b) any such deduction, any income, loss or other amount or part
+thereof may be allocated to any person,  (c) the nature of any payment or other amount may be
+recharacterized, and  (d) the tax effects that would otherwise result from the
+application of other provisions of this Act may be ignored,  in determining the tax consequences to a person as is reasonable in the
+circumstances in order to deny a tax benefit that would, but for this section,
+result, directly or indirectly, from an avoidance transaction.                                                                     .
+. .  248. . . .  (10) [Series of transactions] For the purposes of
+this Act, where there is a reference to a series of transactions or events, the
+series shall be deemed to include any related transactions or events completed
+in contemplation of the series.  7                                  
+A recent amendment to s. 245  (Budget Implementation Act, 2004, No. 2,
+S.C. 2005, c. 19, s. 52 ) has no application to the judgments under appeal. 
+Although this amendment was enacted to apply retroactively, it cannot apply at
+this stage of appellate review, after the parties argued their cases and the
+Tax Court judge rendered his decision on the basis of the GAAR as it read prior
+to the amendment.  Furthermore, even if this amendment were to apply, it would
+not warrant a different approach to the issues on appeal.  In our view, this
+amendment to s. 245  serves inter alia to make it clear that the GAAR
+applies to tax benefits conferred by Regulations enacted under the Income
+Tax Act .  The Tax Court judge in the instant case proceeded on this
+assumption, which was not challenged by the parties in submissions before us. 4.      Judicial Decisions  4.1    Tax Court of Canada, [2003] 4 C.T.C.
+2009, 2003 TCC 215  8                                  
+The Tax Court judge found an avoidance transaction giving rise to a tax
+benefit under s. 245(1) and (3) of the Act.  He inquired into the purpose of
+the CCA provisions of the Income Tax Act  as applied to sale-leaseback
+arrangements, in order to determine if the transaction was abusive under s.
+245(4) of the Act.  He held that the purpose of the CCA provisions permitted
+the deduction of CCA based on the “cost” of the trailers, as defined by the
+transactions documents.  He went on to conduct a detailed analysis of the legal
+transactions. He found that CTMC had acquired title and became the legal owner
+of the trailers, and declined to recharacterize the legal nature of the
+transaction.  The transactions in issue, in his view, amounted to an ordinary
+sale-leaseback.  The Tax Court judge found that the transaction fell within the
+spirit and purpose of the CCA provisions of the Act, and concluded that the
+GAAR did not apply to disallow the tax benefit.  4.2    Federal Court of Appeal, [2004] 2
+C.T.C. 276, 2004 FCA 67  9                                  
+The Federal Court of Appeal unanimously dismissed the appeal, relying on
+the reasons in OSFC Holdings Ltd. v. Canada, [2002] 2 F.C. 288, 2001 FCA
+260 (“OSFC”), in which the court had set out a two-stage analysis for
+abuse under the GAAR, focussed first on interpretation of the specific
+provisions at issue, second on the overarching policy of the Income Tax Act . 
+Evans J.A., for the court, held that the Tax Court judge had not erred in
+concluding that, for the purposes of s. 245(4) of the Act, the transactions at
+issue did not constitute a misuse of a provision of the Act or an abuse of the
+CCA scheme as a whole.  He noted that counsel for the appellant did not seek to
+recharacterize the transactions and did not allege that they were a sham, but
+argued instead that the policy underlying s. 20(1) (a) and the CCA
+provisions as a whole was “to permit taxpayers to claim CCA in respect of the
+‘real’ or ‘economic’ cost that they incurred in acquiring an asset, and not the
+‘legal’ cost, that is, on the facts of this case, the purchase price paid by
+the taxpayer” (para. 2).  Going on to consider policy, Evans J.A. found that
+there was no clear and unambiguous policy underlying s. 20(1) (a) or the
+CCA scheme read as a whole that rendered the transaction a misuse or abuse of
+those provisions.  5.      Analysis  5.1    General Principles of Interpretation  10                              
+It has been long established as a matter of statutory interpretation
+that “the words of an Act are to be read in their entire context and in their
+grammatical and ordinary sense harmoniously with the scheme of the Act, the
+object of the Act, and the intention of Parliament”: see 65302
+British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para. 50.  The
+interpretation of a statutory provision must be made according to a textual,
+contextual and purposive analysis to find a meaning that is harmonious with the
+Act as a whole.  When the words of a provision are precise and unequivocal, the
+ordinary meaning of the words play a dominant role in the interpretive
+process.  On the other hand, where the words can support more than one
+reasonable meaning, the ordinary meaning of the words plays a lesser role. The
+relative effects of ordinary meaning, context and purpose on the interpretive
+process may vary, but in all cases the court must seek to read the provisions
+of an Act as a harmonious whole.  11                              
+As a result of the Duke of Westminster principle (Commissioners of
+Inland Revenue v. Duke of Westminster, [1936] A.C. 1 (H.L.)) that taxpayers
+are entitled to arrange their affairs to minimize the amount of tax payable,
+Canadian tax legislation received a strict interpretation in an era of more
+literal statutory interpretation than the present. There is no doubt today that
+all statutes, including the Income Tax Act , must be interpreted in a
+textual, contextual and purposive way.  However, the particularity and detail
+of many tax provisions have often led to an emphasis on textual interpretation.
+Where Parliament has specified precisely what conditions must be satisfied to
+achieve a particular result, it is reasonable to assume that Parliament
+intended that taxpayers would rely on such provisions to achieve the result
+they prescribe.  12                              
+The provisions of the Income Tax Act  must be interpreted in order
+to achieve consistency, predictability and fairness so that taxpayers may
+manage their affairs intelligently.  As stated at para. 45 of Shell Canada
+Ltd. v. Canada, [1999] 3 S.C.R. 622:  [A]bsent a specific provision to the contrary, it is not the
+courts’ role to prevent taxpayers from relying on the sophisticated structure
+of their transactions, arranged in such a way that the particular provisions of
+the Act are met, on the basis that it would be inequitable to those taxpayers
+who have not chosen to structure their transactions that way. [Emphasis added.]  See also 65302
+British Columbia, at para. 51, per Iacobucci J. citing
+P. W. Hogg and J. E. Magee, Principles of Canadian Income Tax Law
+(2nd ed. 1997), at pp. 475-76:  It would introduce intolerable uncertainty into the Income Tax Act  if
+clear language in a detailed provision of the Act were to be qualified by
+unexpressed exceptions derived from a court’s view of the object and purpose of
+the provision.  13                              
+The Income Tax Act  remains an instrument dominated by explicit 
+provisions dictating specific consequences, inviting a largely textual
+interpretation. Onto this compendium of detailed stipulations, Parliament has
+engrafted quite a different sort of provision, the GAAR. This is a broadly
+drafted provision, intended to negate arrangements that would be permissible
+under a literal interpretation of other provisions of the Income Tax Act ,
+on the basis that they amount to abusive tax avoidance.  To the extent that the
+GAAR constitutes a “provision to the contrary” as discussed in Shell (at
+para. 45), the Duke of Westminster principle and the emphasis on textual
+interpretation may be attenuated.  Ultimately, as affirmed in Shell,
+“[t]he courts’ role is to interpret and apply the Act as it was adopted by
+Parliament” (para. 45).  The court must to the extent possible
+contemporaneously give effect to both the GAAR and the other provisions of the Income
+Tax Act  relevant to a particular transaction.  5.2    Interpretation of the GAAR  14                              
+The GAAR was enacted in 1988, principally in response to Stubart
+Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, which rejected a
+literal approach to interpreting the Act.  At the same time, the Court rejected
+the business purpose test, which would have restricted tax reduction to
+transactions with a real business purpose.  Instead of the business purpose
+test, the Court proposed guidelines to limit unacceptable tax avoidance
+arrangements.  Parliament deemed the decision in Stubart an inadequate
+response to the problem and enacted the GAAR.  15                              
+The Explanatory Notes to Legislation Relating to Income Tax issued
+by the Honourable Michael H. Wilson, Minister of Finance (June 1988)
+(“Explanatory Notes”) are an aid to interpretation.  The Explanatory Notes
+state at the outset that they “are intended for information purposes only and
+should not be construed as an official interpretation of the provisions they
+describe”.  They state the purpose of the GAAR at p. 461:  New section 245 of the Act is a general anti-avoidance rule which is
+intended to prevent abusive tax avoidance transactions or arrangements but at
+the same time is not intended to interfere with legitimate commercial and
+family transactions.  Consequently, the new rule seeks to distinguish between
+legitimate tax planning and abusive tax avoidance and to establish a reasonable
+balance between the protection of the tax base and the need for certainty for
+taxpayers in planning their affairs.  16                              
+The GAAR draws a line between legitimate tax minimization and abusive
+tax avoidance.  The line is far from bright.  The GAAR’s  purpose is to deny
+the tax benefits of certain arrangements that comply with a literal
+interpretation of the provisions of the Act, but amount to an abuse of the
+provisions of the Act. But precisely what constitutes abusive tax avoidance
+remains the subject of debate.  Hence these appeals.  17                              
+The application of the GAAR involves three steps.  The first step is to
+determine whether there is a “tax benefit” arising from a “transaction” under
+s. 245(1)  and (2) .  The second step is to determine whether the transaction is
+an avoidance transaction under s. 245(3), in the sense of not being “arranged
+primarily for bona fide purposes other than to obtain the tax benefit”. 
+The third step is to determine whether the avoidance transaction is abusive
+under s. 245(4).  All three requirements must be fulfilled before the GAAR can
+be applied to deny a tax benefit.  5.3    Tax Benefit  18                              
+The first step in applying the GAAR is to determine whether there is a
+tax benefit arising from a transaction or series of transactions of which the
+transaction is part.  19                              
+“Tax benefit” is defined in s. 245(1)  as “a reduction, avoidance or deferral
+of tax” or “an increase in a refund of tax or other amount” paid under the Act.
+Whether a tax benefit exists is a factual determination, initially by the
+Minister and on review by the courts, usually the Tax Court.  The magnitude of
+the tax benefit is not relevant at this stage of the analysis.  20                              
+If a deduction against taxable income is claimed, the existence of a tax
+benefit is clear, since a deduction results in a reduction of tax. In some
+other instances, it may be that the existence of a tax benefit can only be
+established by comparison with an alternative arrangement.  For example,
+characterization of an amount as an annuity rather than as a wage, or as a
+capital gain rather than as business income, will result in differential tax
+treatment.  In such cases, the existence of a tax benefit might only be
+established upon a comparison between alternative arrangements. In all cases,
+it must be determined whether the taxpayer reduced, avoided or deferred tax
+payable under the Act.  5.4    Avoidance Transaction  21                              
+The second requirement for application of  the GAAR is that the
+transaction giving rise to the tax benefit be an avoidance transaction within
+s. 245(3).  The function of this requirement is to remove from the ambit of the
+GAAR transactions or series of transactions that may reasonably be considered
+to have been undertaken or arranged primarily for a non-tax purpose.  The
+majority of tax benefits claimed by taxpayers on their annual returns will be
+immune from the GAAR as a result of s. 245(3).  The GAAR was enacted as a
+provision of last resort in order to address abusive tax avoidance, it was not
+intended to introduce uncertainty in tax planning.  22                              
+A “transaction” is defined under s. 245(1)  to include an arrangement or
+event.  Section 245(3) specifically defines “avoidance transaction” as a
+transaction that results in a tax benefit, either by itself or as part of a series
+of transactions, “unless the transaction may reasonably be considered to
+have been undertaken or arranged primarily for bona fide purposes
+other than to obtain the tax benefit”.  These two underlined expressions
+warrant further discussion.  5.4.1    Series of Transactions  23                              
+Section 245(2) reads:   24                              
+Section 245(3) reads in part:  (3) [Avoidance transaction] An avoidance
+transaction means any transaction  (a)  that, but for this section, would result, directly or
+indirectly, in a tax benefit . . .; or  (b)  that is part of a series of transactions, which
+series, but for this section, would result, directly or indirectly, in a tax
+benefit . . . .  25                              
+The meaning of the expression “series of transactions” under s. 245(2) 
+and (3)  is not clear on its face.  We agree with the majority of the Federal
+Court of Appeal in OSFC and endorse the test for a series of
+transactions as adopted by the House of Lords that a series of transactions
+involves a number of transactions that are “pre-ordained in order to produce a
+given result” with “no practical likelihood that the pre-planned events would
+not take place in the order ordained”: Craven v. White, [1989] A.C. 398,
+at p. 514, per Lord Oliver; see also W. T. Ramsay Ltd. v. Inland
+Revenue Commissioners, [1981] 1 All E.R. 865.  26                              
+Section 248(10) extends the meaning of “series of transactions” to
+include “related transactions or events completed in contemplation of the
+series”.  The Federal Court of Appeal held, at para. 36 of OSFC, that
+this occurs where the parties to the transaction “knew of the . . . series,
+such that it could be said that they took it into account when deciding to
+complete the transaction”.  We would elaborate that “in contemplation” is read
+not in the sense of actual knowledge but in the broader sense of “because of”
+or “in relation to” the series.  The phrase can be applied to events either
+before or after the basic avoidance transaction found under s. 245(3). As has
+been noted:  It is highly unlikely that Parliament could have intended to include in
+the statutory definition of “series of transactions” related transactions
+completed in contemplation of a subsequent series of transactions, but not
+related transactions in the contemplation of which taxpayers completed a prior
+series of transactions.   5.4.2    Primarily for Bona Fide Purposes  27                              
+According to s. 245(3), the GAAR does not apply to a transaction that “may
+reasonably be considered to have been undertaken or arranged primarily for bona
+fide purposes other than to obtain the tax benefit”.  If there are both tax
+and non-tax purposes to a transaction, it must be determined whether it was
+reasonable to conclude that the non-tax purpose was primary.  If so, the GAAR
+cannot be applied to deny the tax benefit.  28                              
+While the inquiry proceeds on the premise that both tax and non-tax
+purposes can be identified, these can be intertwined in the particular
+circumstances of the transaction at issue.  It is not helpful to speak of the
+threshold imposed by s. 245(3) as high or low.  The words of the section simply
+contemplate an objective assessment of the relative importance of the driving
+forces of the transaction.  29                              
+Again, this is a factual inquiry.  The taxpayer cannot avoid the
+application of the GAAR by merely stating that the transaction was undertaken
+or arranged primarily for a non-tax purpose. The Tax Court judge must weigh the
+evidence to determine whether it is reasonable to conclude that the transaction
+was not undertaken or arranged primarily for a non-tax purpose.  The
+determination invokes reasonableness, suggesting that the possibility of
+different interpretations of the events must be objectively considered.  30                              
+The courts must examine the relationships between the parties and the
+actual transactions that were executed between them.   The facts of the
+transactions are central to determining whether there was an avoidance
+transaction. It is useful to consider what will not suffice to establish an
+avoidance transaction under s. 245(3).  The Explanatory Notes state, at p. 464:  Subsection 245(3) does not permit the “recharacterization” of a
+transaction for the purposes of determining whether or not it is an avoidance
+transaction.  In other words, it does not permit a transaction to be considered
+to be an avoidance transaction because some alternative transaction that might
+have achieved an equivalent result would have resulted in higher taxes.  31                              
+According to the Explanatory Notes, Parliament recognized the Duke of
+Westminster principle “that tax planning — arranging one’s affairs so as to
+attract the least amount of tax — is a legitimate and accepted part of Canadian
+tax law” (p. 464).  Despite Parliament’s intention to address abusive tax
+avoidance by enacting the GAAR, Parliament nonetheless intended to preserve
+predictability, certainty and fairness in Canadian tax law.  Parliament intends
+taxpayers to take full advantage of the provisions of the Income Tax Act  that
+confer tax benefits.  Indeed, achieving the various policies that the Income
+Tax Act  seeks to promote is dependent on taxpayers doing so.  32                              
+ Section 245(3) merely removes from the ambit of the GAAR transactions
+that may reasonably be considered to have been undertaken or arranged primarily
+for a non-tax purpose.  Parliament did not intend s. 245(3) to operate simply
+as a business purpose test, which would have considered transactions that
+lacked an independent bona fide business purpose to be invalid.  33                              
+The expression “non-tax purpose” has a broader scope than the expression
+“business purpose”.  For example, transactions that may reasonably be
+considered to have been undertaken or arranged primarily for family or
+investment purposes would be immune from the GAAR under s. 245(3).  Section
+245(3) does not purport to protect only transactions that have a real business
+purpose.  Parliament wanted many schemes that do not have any business purpose
+to endure.  Registered Retirement Savings Plans (RRSPs) are one example. 
+Parliament recognized that many provisions of the Act confer legitimate tax
+benefits notwithstanding the lack of a real business purpose.  This is apparent
+from the general language used throughout s. 245 , as opposed to language which
+would have adopted a broad anti-avoidance test subject to exemptions for
+specific schemes like RRSP transactions.  34                              
+If at least one transaction in a series of transactions is an “avoidance
+transaction”, then the tax benefit that results from the series may be denied
+under the GAAR.  This is apparent from the wording of s. 245(3).  Conversely,
+if each transaction in a series was carried out primarily for bona fide
+non-tax purposes, the GAAR cannot be applied to deny a tax benefit.  35                              
+Even if an avoidance transaction is established under the s. 245(3)
+inquiry, the GAAR will not apply to deny the tax benefit if it may be
+reasonable to consider that it did not result from abusive tax avoidance under
+s. 245(4), as discussed more fully below.  5.5       Abusive Tax Avoidance  36                              
+The third requirement for application of the GAAR is that the avoidance
+transaction giving rise to a tax benefit be abusive.  The mere existence of an
+avoidance transaction is not enough to permit the GAAR to be applied.  The
+transaction must also be shown to be abusive under s. 245(4).  37                              
+It is this requirement that has given rise to the most difficulty in the
+interpretation and application of the GAAR.  A number of features have provoked
+judicial debate.  The section is cast in terms of a double negative, stating
+that the GAAR does “not apply to a transaction where it may reasonably be considered
+that the transaction would not result directly or indirectly in a misuse . . .
+or an abuse”.   It is tempered by the word “reasonably”, suggesting some
+ministerial and judicial leeway in determining abuse.   It does not precisely
+define abuse or misuse.  To further complicate matters, the English and French
+versions of s. 245(4) differ.  Overarching these particular difficulties is the
+central issue of the relationship between the GAAR and more specific provisions
+of the Act.  5.5.1    “Misuse and Abuse”: Two Different
+Concepts?  38                              
+We turn first to the debate about “misuse” and “abuse” which has arisen
+from the different English and French versions of s. 245(4).  This arises from
+the apparently disjunctive version of the subsection in English (“misuse of the
+provisions of this Act” or “abuse having regard to the provisions of this Act .
+. . read as a whole”) and the non-disjunctive French version (“d’abus dans
+l’application des dispositions de la présente loi lue dans son ensemble”). 
+This discrepancy led the majority of the Federal Court of Appeal to conclude in
+OSFC that s. 245(4) mandates two different inquiries.  The first was
+whether there was a misuse of the particular provisions of the Act that were
+relied upon to achieve the tax benefit.  The second was whether there was an
+abuse of any policy of the Act read as a whole.  The term “policy” was used to
+refer collectively to purpose, object, spirit, scheme or policy (OSFC,
+at para. 66).  39                              
+With respect, we cannot agree with this interpretation of s. 245(4).
+Parliament could not have intended this two-step approach, which on its face
+raises the impossible question of how one can abuse the Act as a whole without
+misusing any of its provisions.  We agree with the Tax Court judge, in the
+present case, at para. 90, that “[i]n effect, the analysis of the misuse of the
+provisions and the analysis of the abuse having regard to the provisions of the
+Act read as a whole are inseparable.”   As discussed more fully below,
+the interpretation of specific provisions of the Act cannot be separated from
+contextual considerations arising from other provisions.  The various
+provisions of the Income Tax Act  must be interpreted in their contextual
+framework, so that the Act functions as a coherent whole, with respect to the
+particular statutory scheme engaged by the transactions.  40                              
+There is but one principle of interpretation: to determine the intent of
+the legislator having regard to the text, its context, and other indicators of
+legislative purpose.  The policy analysis proposed as a second step by the
+Federal Court of Appeal in OSFC is properly incorporated into a unified,
+textual, contextual, and purposive approach to interpreting the specific
+provisions that give rise to the tax benefit.  41                              
+The courts cannot search for an overriding policy of the Act that is not
+based on a unified, textual, contextual and purposive interpretation of the
+specific provisions in issue.  First, such a search is incompatible with the
+roles of reviewing judges. The Income Tax Act  is a compendium of highly
+detailed and often complex provisions.  To send the courts on the search for
+some overarching policy and then to use such a policy to override the wording
+of the provisions of the Income Tax Act  would inappropriately place the
+formulation of taxation policy in the hands of the judiciary, requiring judges
+to perform a task to which they are unaccustomed and for which they are not
+equipped.  Did Parliament intend judges to formulate taxation policies that are
+not grounded in the provisions of the Act and to apply them to override the
+specific provisions of the Act?  Notwithstanding the interpretative challenges
+that the GAAR presents, we cannot find a basis for concluding that such a
+marked departure from judicial and interpretative norms was Parliament’s
+intent.  42                              
+Second, to search for an overriding  policy of the Income Tax Act  that
+is not anchored in a textual, contextual and purposive interpretation of the
+specific provisions that are relied upon for the tax benefit would run counter
+to the overall policy of Parliament that tax law be certain, predictable and
+fair, so that taxpayers can intelligently order their affairs.  Although
+Parliament’s general purpose in enacting the GAAR was to preserve legitimate
+tax minimization schemes while prohibiting abusive tax avoidance, Parliament
+must also be taken to seek consistency, predictability and fairness in tax
+law.  These three latter purposes would be frustrated if the Minister and/or
+the courts overrode the provisions of the Income Tax Act  without any
+basis in a textual, contextual and purposive interpretation of those
+provisions.  43                              
+For these reasons we conclude, as did the Tax Court judge, that the
+determinations of “misuse” and “abuse” under s. 245(4) are not separate
+inquiries.  Section 245(4) requires a single, unified approach to the textual,
+contextual and purposive interpretation of the specific provisions of the Income
+Tax Act  that are relied upon by the taxpayer in order to determine whether
+there was abusive tax avoidance.  5.5.2    Abusive Tax Avoidance: A Unified
+Interpretative Approach  44                              
+The heart of the analysis under s. 245(4) lies in a contextual and
+purposive interpretation of the provisions of the Act that are relied on by the
+taxpayer, and the application of the properly interpreted provisions to the
+facts of a given case. The first task is to interpret the provisions giving
+rise to the tax benefit to determine their object, spirit and purpose. The next
+task is to determine whether the transaction falls within or frustrates that
+purpose. The overall inquiry thus involves a mixed question of fact and law. 
+The textual, contextual and purposive interpretation of specific provisions of
+the Income Tax Act  is essentially a question of law but the application
+of these provisions to the facts of a case is necessarily fact-intensive.  45                              
+This analysis will lead to a finding of abusive tax avoidance when a
+taxpayer relies on specific provisions of the Income Tax Act  in order to
+achieve an outcome that those provisions seek to prevent.  As well, abusive tax
+avoidance will occur when a transaction defeats the underlying rationale of the
+provisions that are relied upon.  An abuse may also result from an arrangement
+that circumvents the application of certain provisions, such as specific
+anti-avoidance rules, in a manner that frustrates or defeats the object, spirit
+or purpose of those provisions.  By contrast, abuse is not established where it
+is reasonable to conclude that an avoidance transaction under s. 245(3)  was
+within the object, spirit or purpose of the provisions that confer the tax
+benefit.  46                              
+Once the provisions of the Income Tax Act  are properly
+interpreted, it is a question of fact for the Tax Court judge whether the
+Minister, in denying the tax benefit,  has established abusive tax avoidance
+under s. 245(4) .  Provided the Tax Court judge has proceeded on a proper
+construction of the provisions of the Act and on findings supported by the
+evidence, appellate tribunals should not interfere, absent a palpable and
+overriding error.  47                              
+The first part of the inquiry under s. 245(4) requires the court to look
+beyond the mere text of the provisions and undertake a contextual and purposive
+approach to interpretation in order to find meaning that harmonizes the
+wording, object, spirit and purpose of the provisions of the Income Tax Act . 
+There is nothing novel in this.  Even where the meaning of  particular
+provisions may not appear to be ambiguous at first glance, statutory context
+and purpose may reveal or resolve latent ambiguities.   “After all, language
+can never be interpreted independently of its context, and legislative purpose
+is part of the context.  It would seem to follow that consideration of legislative
+purpose may not only resolve patent ambiguity, but may, on occasion, reveal
+ambiguity in apparently plain language.”  See P. W. Hogg and J. E.
+Magee, Principles of Canadian Income Tax Law (4th ed. 2002), at p. 563. 
+In order to reveal and resolve any latent ambiguities in the meaning of
+provisions of the Income Tax Act , the courts must undertake a unified
+textual, contextual and purposive approach to statutory interpretation.  48                              
+As previously stated, the predominant issue in this and its companion  appeal
+is what constitutes abusive tax avoidance. The Explanatory Notes state in part,
+at pp. 464-65:  Subsection 245(4) recognizes that the provisions of the Act are
+intended to apply to transactions with real economic substance, not to transactions
+intended to exploit, misuse or frustrate the Act to avoid tax.  It also
+recognizes, however, that a number of provisions of the Act either contemplate
+or encourage transactions that may seem to be primarily tax-motivated. . . . 
+It is not intended that section 245  will apply to deny the tax benefits that
+result from these transactions as long as they are carried out within the
+object and spirit of the provisions of the Act read as a whole.  Nor is it
+intended that tax incentives expressly provided for in the legislation would be
+neutralized by this section.  Where a taxpayer carries out transactions primarily in order to obtain,
+through the application of specific provisions of the Act, a tax benefit that
+is not intended by such provisions and by the Act read as a whole, section 245 
+should apply.  This would be the case even though the strict words of the
+relevant specific provisions may support the tax result sought by the
+taxpayer.  Thus, where applicable, section 245  will override other provisions
+of the Act since, otherwise, its object and purpose would be defeated.  . . . Thus, in reading the Act as a whole, specific provisions
+will be read in the context of and in harmony with the other provisions of the
+Act in order to achieve a result which is consistent with the general scheme of
+the Act.  Therefore, the application of new subsection 245 must be determined by
+reference to the facts in a particular case in the context of the scheme of the
+Act. . . .  This can be discerned from a review of the scheme of the Act, its
+relevant provisions and permissible extrinsic aids.  49                              
+In all cases where the applicability of s. 245(4) is at issue, the
+central question is, having regard to the text, context and purpose of the
+provisions on which the taxpayer relies, whether the transaction frustrates or
+defeats the object, spirit or purpose of those provisions.  The following
+points are noteworthy:  (1) While the Explanatory Notes use the phrase “exploit, misuse or
+frustrate”, we understand these three terms to be synonymous, with their sense
+most adequately captured by the word “frustrate”.  (2) The Explanatory Notes elaborate that the GAAR is intended to apply
+where under a literal interpretation of the provisions of the Income Tax Act ,
+the object and purpose of those provisions would be defeated.  (3) The Explanatory Notes specify that the application of the GAAR must
+be determined by reference to the facts of a particular case in the context of
+the scheme of the Income Tax Act .  (4) The Explanatory Notes also elaborate that the provisions of the Income
+Tax Act  are intended to apply to transactions with real economic
+substance.  50                              
+As previously discussed, Parliament sought to address abusive tax
+avoidance while preserving consistency, predictability and fairness in tax law
+and the GAAR can only be applied to deny a tax benefit when the abusive nature
+of the transaction is clear.  51                              
+The interpretation of the provisions giving rise to the tax benefit
+must, in the words of s. 245(4) of the Act, have regard to the Act “read as a
+whole”. This means that the specific provisions at issue must be interpreted in
+their legislative context, together with other related and relevant provisions,
+in light of the purposes that are promoted by those provisions and their
+statutory schemes.  In this respect, it should not be forgotten that the GAAR
+itself is part of the Act.  52                              
+In general, Parliament confers tax benefits under the Income Tax Act 
+to promote purposes related to specific activities.  For example, tax benefits
+associated with business losses, CCA and RRSPs, are conferred for reasons
+intrinsic to the activities involved.  Unless the Minister can establish that
+the avoidance transaction frustrates or defeats the purpose for which the tax
+benefit was intended to be conferred, it is not abusive.  53                              
+Care must be taken in assessing the purposes for which the provisions at
+issue confer a tax benefit. “The [Income Tax Act ] is a complex statute
+through which Parliament seeks to balance a myriad of principles” (Shell,
+at para. 43).  The conferring of particular tax benefits can serve a variety of
+independent and interlocking purposes.  These range from imposing fair business
+accounting principles and promoting particular kinds of commercial activity, to
+providing family and social benefits.  54                              
+In interpreting the provisions of the Income Tax Act , the
+statutory language must be respected and should be interpreted according to its
+well-established legal meaning.  In some cases, a contextual and purposive
+interpretation may  add nuance to the well-established legal meaning of the
+statutory language. Section 245(4)  does not rewrite the provisions of the Income
+Tax Act ; it only requires that a tax benefit be consistent with the object,
+spirit and purpose of the provisions that are relied upon.  55                              
+In summary, s. 245(4) imposes a two-part inquiry.  The first step is to
+determine the object, spirit or purpose of the provisions of the Income Tax
+Act  that are relied on for the tax benefit, having regard to the scheme of
+the Act, the relevant provisions and permissible extrinsic aids. The second
+step is to examine the factual context of a case in order to determine whether
+the avoidance transaction defeated or frustrated the object, spirit or purpose
+of the provisions in issue.  56                              
+ The Explanatory Notes elaborate that the provisions of the Income
+Tax Act  are intended to apply to transactions with real economic
+substance.  Although the expression “economic substance” may be open to
+different interpretations, this statement recognizes that the provisions of the
+Act were intended to apply to transactions that were executed within the
+object, spirit and purpose of the provisions that are relied upon for the tax
+benefit.  The courts should not turn a blind eye to the underlying facts of a
+case, and become fixated on compliance with the literal meaning of the wording
+of the provisions of the Income Tax Act .  Rather, the courts should in
+all cases interpret the provisions in their proper context in light of the
+purposes they intend to promote.  57                              
+Courts have to be careful not to conclude too hastily that simply
+because a non-tax purpose is not evident, the avoidance transaction is the
+result of abusive tax avoidance.  Although the Explanatory Notes make reference
+to the expression “economic substance”, s. 245(4) does not consider a
+transaction to result in abusive tax avoidance merely because an economic or
+commercial purpose is not evident.  As previously stated, the GAAR was not
+intended to outlaw all tax benefits; Parliament intended for many to endure.  The
+central inquiry is focussed on whether the transaction was consistent with the
+purpose of the provisions of the Income Tax Act  that are relied upon by
+the taxpayer, when those provisions are properly interpreted in light of their
+context.  Abusive tax avoidance will be established if the transactions
+frustrate or defeat those purposes.  58                              
+Whether the transactions were motivated by any economic, commercial,
+family or other non-tax purpose may form part of the factual context that the
+courts may consider in the analysis of abusive tax avoidance allegations under
+s. 245(4).  However, any finding in this respect would form only one part of
+the underlying facts of a case, and would be insufficient by itself to
+establish abusive tax avoidance.  The central issue is the proper
+interpretation of the relevant provisions in light of their context and purpose. 
+When properly interpreted, the statutory provisions at issue in a given case
+may dictate that a  particular tax benefit may apply only to transactions with
+a certain economic, commercial, family or other non-tax purpose.  The absence
+of such considerations may then become a relevant factor towards the inference
+that the transactions abused the provisions at issue, but there is no golden
+rule in this respect.  59                              
+Similarly, courts have on occasion discussed transactions in terms of
+their “lack of substance” or requiring “recharacterization”.  However, such
+terms have no meaning in isolation from the proper interpretation of specific
+provisions of the Income Tax Act .  The analysis under s. 245(4)  requires
+a close examination of the facts in order to determine whether allowing a tax
+benefit would be within the object, spirit or purpose of the provisions relied
+upon by the taxpayer, when those provisions are interpreted textually,
+contextually and purposively.  Only after first, properly construing the provisions
+to determine their scope and second, examining all of the relevant facts, can a
+proper conclusion regarding abusive tax avoidance under s. 245(4)  be reached.  60                              
+A transaction may be considered to be “artificial” or to “lack substance”
+with respect to specific provisions of the Income Tax Act , if
+allowing a tax benefit would not be consistent with the object, spirit or
+purpose of those provisions.  We should reject any analysis under s. 245(4) 
+that depends entirely  on “substance” viewed in isolation from the proper
+interpretation of specific provisions of the Income Tax Act  or the
+relevant factual context of a case.   However, abusive tax avoidance may be
+found where the relationships and transactions as expressed in the relevant documentation
+lack a proper basis relative to the object, spirit or purpose of the provisions
+that are purported to confer the tax benefit, or where they are wholly
+dissimilar to the relationships or transactions that are contemplated by the
+provisions.  61                              
+A proper approach to the wording of the provisions of the Income Tax
+Act  together with the relevant factual context of a given case achieve
+balance between the need to address abusive tax avoidance while preserving
+certainty, predictability and fairness in tax law so that taxpayers may manage
+their affairs accordingly.  Parliament intends taxpayers to take full advantage
+of the provisions of the Act that confer tax benefits.  Parliament did not
+intend the GAAR to undermine this basic tenet of tax law.  62                              
+The GAAR may be applied to deny a tax benefit only after it is
+determined that it was not reasonable to consider the tax benefit to be within
+the object, spirit or purpose of the provisions relied upon by the taxpayer.
+The negative language in which s. 245(4) is cast indicates that the starting
+point for the analysis is the assumption that a tax benefit that would be
+conferred by the plain words of the Act is not abusive.  This means that a
+finding of abuse is only warranted where the opposite conclusion — that the
+avoidance transaction was consistent with the object, spirit or purpose of the
+provisions of the Act that are relied on by the taxpayer — cannot be reasonably
+entertained.  In other words, the abusive nature of the transaction must be
+clear.  The GAAR will not apply to deny a tax benefit where it may reasonably
+be considered that the transactions were carried out in a manner consistent
+with the object, spirit or purpose of the provisions of the Act, as interpreted
+textually, contextually and purposively.  5.6    Burden of Proof  63                              
+The determination of the existence of a tax benefit and an avoidance
+transaction under s. 245(1) , (2)  and (3)  involves factual decisions.  As such,
+the burden of proof is the same as in any tax proceeding where the taxpayer
+disputes the Minister’s assessment and its underlying assumptions of facts. 
+The initial obligation is on the taxpayer to “refute” or challenge the
+Minister’s factual assumptions by contesting the existence of a tax benefit or
+by showing that a bona fide non-tax purpose primarily drove the
+transaction: see Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, at
+para. 92.  It is not unfair to impose this burden, as the taxpayer would
+presumably have knowledge of the factual background of the transaction.  64                              
+By contrast, the inquiry into abusive tax avoidance under s. 245(4)
+involves a textual, contextual and purposive analysis of the provisions on
+which the tax benefit is based.  We see no reason to maintain the distinction
+between a theoretical and practical perspective on the burden of proof, adopted
+by the majority of the Federal Court of Appeal in OSFC.  The
+Federal Court of Appeal held that there is no burden on either party at the
+stage of interpreting the provisions at issue, since this is a question of law,
+which is ultimately for the court to decide. It went on to state at para. 68
+that “from a practical perspective, . . . [t]he Minister should set
+out the policy with reference to the provisions of the Act or extrinsic aids
+upon which he relies”.  65                              
+For practical purposes, the last statement is the important one.   The
+taxpayer, once he or she has shown compliance with the wording of a provision,
+should not be required to disprove that he or she has thereby violated the
+object, spirit or purpose of the provision.  It is for the Minister who seeks
+to rely on the GAAR to identify the object, spirit or purpose of the provisions
+that are claimed to have been frustrated or defeated, when the provisions of
+the Act are interpreted in a textual, contextual and purposive manner.  The
+Minister is in a better position than the taxpayer to make submissions on
+legislative intent with a view to interpreting the provisions harmoniously
+within the broader statutory scheme that is relevant to the transaction at
+issue.  5.7    Summary  66                              
+The approach to s. 245  of the Income Tax Act  may be summarized as
+follows.  1.                                
+Three requirements must be established to permit application of the
+GAAR:  (1)   A tax benefit resulting from a
+transaction or part of a series of transactions (s. 245(1)  and (2) );  (2)   that the transaction is an avoidance
+transaction in the sense that it cannot be said to have been reasonably
+undertaken or arranged primarily for a bona fide purpose other than to
+obtain a tax benefit; and  (3)   that there was abusive tax avoidance in
+the sense that it cannot be reasonably concluded that a tax benefit would be
+consistent with the object, spirit or purpose of the provisions relied upon by
+the taxpayer. 2.                                
+The burden is on the taxpayer to refute (1) and (2), and on the Minister
+to establish (3).  3.                                
+If the existence of abusive tax avoidance is unclear, the benefit of the
+doubt goes to the taxpayer.  4.                                
+The courts proceed by conducting a unified textual, contextual and
+purposive analysis of the provisions giving rise to the tax benefit in order to
+determine why they were put in place and why the benefit was conferred.  The
+goal is to arrive at a purposive interpretation that is harmonious with the
+provisions of the Act that confer the tax benefit, read in the context of the
+whole Act.  5.                                
+Whether the transactions were motivated by any economic, commercial,
+family or other non-tax purpose may form part of the factual context that the
+courts may consider in the analysis of abusive tax avoidance allegations under
+s. 245(4).  However, any finding in this respect would form only one part of
+the underlying facts of a case, and would be insufficient by itself to
+establish abusive tax avoidance.  The central issue is the proper
+interpretation of the relevant provisions in light of their context and
+purpose.  6.                                
+Abusive tax avoidance may be found where the relationships and
+transactions as expressed in the relevant documentation lack a proper basis
+relative to the object, spirit or purpose of the provisions that are purported
+to confer the tax benefit, or where they are wholly dissimilar to the
+relationships or transactions that are contemplated by the provisions.  7.                                
+Where the Tax Court judge has proceeded on a proper construction of the
+provisions of the Income Tax Act  and on findings supported by the
+evidence, appellate tribunals should not interfere, absent a palpable and
+overriding error.  6.      Application to the Facts of This Case  67                              
+The appellant Crown agreed with the finding of the Tax Court judge that
+there was a tax benefit and an avoidance transaction.  Therefore, the only
+issue is whether there was abusive tax avoidance under s. 245(4).  68                              
+The respondent purchased and leased trailers in order to generate CCA
+deductions, which were then used to shelter other taxable lease income
+generated by CTMC.  It is common ground that on their face, the CCA provisions
+permit the deductions claimed.  It is also common ground that a standard
+sale-leaseback transaction, involving qualifying assets, where the vendor is
+also the lessee, is consistent with the object, spirit or purpose of the CCA
+provisions.   However, the appellant submits that the manner in which the
+respondent structured and financed the purchase, lease and sublease of the trailers
+contravened the object, spirit or purpose of the CCA regime and resulted in
+abusive tax avoidance under s. 245(4)  of the Income Tax Act .  69                              
+As discussed above, the practical burden of showing that there was
+abusive tax avoidance lies on the Minister.  The abuse of the Act must be
+clear, with the result that doubts must be resolved in favour of the taxpayer. 
+The analysis focusses on the purpose of the particular provisions that on their
+face give rise to the benefit, and on whether the transaction frustrates or
+defeats the object, spirit or purpose of those provisions.  70                              
+The appellant submits that the object and spirit of the CCA provisions
+are “to provide for the recognition of money spent to acquire qualifying assets
+to the extent that they are consumed in the income-earning process”, relying on
+the reasons of Noël J.A. in Water’s Edge Village Estates (Phase II) Ltd. v.
+Canada, [2003] 2 F.C. 25, 2002 FCA 291, at para. 44.  The appellant submits
+that the transaction involved no real risk and that CTMC thus did not actually
+spend $120 million to purchase the trailers from TLI.  In the appellant’s view,
+CTMC created  a “cost for CCA purposes that is an illusion” without incurring
+any “real” expense.  This, the appellant argues, contravenes the object and
+spirit of the CCA provisions and constitutes abusive tax avoidance within s.
+245(4) of the Act.  The appellant summarizes its main submission as follows:  In this case, the pre-ordained series of
+transactions misuses and abuses the CCA regime because it manufactures a cost
+for CCA purposes that does not represent the real economic cost to CTMC of the
+trailers.  CTMC borrowed $97.4 million from the Royal Bank, but . . . the loan
+was effectively repaid in its entirety on the day it was made.  The assignment
+by CTMC to the Bank of MAIL’s rent payments under the lease continued the
+circular flow of money . . . . There was no risk at all that the rent
+payments would not be made.  Even the $5.9 million that CTMC apparently
+paid in fees was fully covered as it, along with the rest of CTMC’s
+contribution of $24.9 million in funding, will be reimbursed when the $19
+million bond pledged to CTMC matures in December 2005 at $33.5 million.  CTMC incurred no real economic cost, and thus
+was not entitled to any “recognition for money spent to acquire qualifying
+assets”.  [Emphasis added; paras. 80-81.]  71                              
+The respondent takes a different view of the purpose of the CCA
+provisions and the transaction.  It relies on the Tax Court judge’s conclusion
+that the transaction was a profitable commercial investment and fully
+consistent with the object and spirit of the Act.  The respondent submits that
+its deductions were permitted under the “Leasing Property Rules” and the
+“Specified Leasing Property Rules” of the Act.  It argues that the specific
+rules enacted by Parliament to address CCA on leased assets are plainly a vital
+part of the statutory scheme, and that the GAAR cannot be utilized to change
+the scope of those rules.  The respondent submits that it is the policy of the
+Act that “cost” means the price that the taxpayer gave up in order to get the
+asset, except in specific and precisely prescribed circumstances not here
+applicable.  The respondent argues that the GAAR cannot be used to override
+Parliament’s explicit policy decision to limit the scope of the rules.  72                              
+The respondent argues that the transaction was consistent with the
+object and spirit of the legislation.  The Act’s inclusion of specific provisions
+that take “cost” to mean the amount “at risk” in limited circumstances
+illustrates the general policy of the Act that the term “cost” outside of those
+specific provisions means cost as understood at law, namely the amount paid.  A
+cost is not reduced to reflect a mitigation of economic risk.  In the result,
+the respondent argues that on the facts of this case “it may reasonably be
+considered that the transaction would not result directly or indirectly in a
+misuse . . . or an abuse . . .” under s. 245(4) .  73                              
+We are of the view that the appellant’s arguments do not reflect a
+proper interpretation of the GAAR and that the respondent’s position should
+prevail.  We are led to this conclusion by a textual, contextual and purposive
+interpretation of the relevant provisions of the Income Tax Act .  74                              
+Textually, the CCA provisions use “cost” in the well-established sense
+of the amount paid to acquire the assets.  Contextually, other provisions of
+the Act support this interpretation.  Finally, the purpose of the CCA
+provisions of the Act, as applied to sale-leaseback transactions, was, as found
+by the Tax Court judge, to permit deduction of CCA based on the cost of the
+assets acquired.  This purpose emerges clearly from the scheme of the CCA provisions
+within the Act as a whole. The appellant’s argument was not that the purpose of
+these provisions was unclear, but rather that the GAAR ought to override their
+accepted purpose and effect, for reasons external to the provisions themselves.  75                              
+The appellant suggests that the usual result of the CCA provisions of
+the Act should be overridden in the absence of real financial risk or “economic
+cost” in the transaction.  However, this suggestion distorts the purpose of the
+CCA provisions by reducing them to apply only when sums of money are at
+economic risk.  The applicable CCA provisions of the Act do not refer to
+economic risk.  They refer only to “cost”.  Where Parliament wanted to
+introduce economic risk into the meaning of cost related to CCA provisions, it
+did so expressly, as, for instance, in s. 13(7.1) and (7.2) of the Act, which
+makes adjustments to the cost of depreciable property when a taxpayer receives
+government assistance.   “Cost” in the context of CCA is a well-understood
+legal concept.  It has been carefully defined by the Act and the
+jurisprudence.  Like the Tax Court judge, we see nothing in the GAAR or the
+object of the CCA provisions that permits us to rewrite them to interpret
+“cost” to mean “amount economically at risk” in the applicable provisions.  To
+do so would be to invite inconsistent results.  The result would vary with the
+degree of risk in each case.  This would offend the goal of the Act to provide
+sufficient certainty and predictability to permit taxpayers to intelligently
+order their affairs.  For all these reasons, we agree with the Tax Court
+judge’s conclusion that the “cost” was $120 million, not zero as argued by the
+appellant.  76                              
+The appellant’s submissions on this point amount to a narrow consideration
+of the “economic substance” of the transaction, viewed in isolation from a
+textual, contextual and purposive interpretation of the CCA provisions.  It did
+not focus on the purpose of the CCA provisions read in the context of the Act
+as a whole, to determine whether the tax benefit fell outside the object,
+spirit or purpose of the relevant provisions.  Instead, it simply argued that
+since there was (as it alleged) no “real economic cost”, the GAAR must apply. 
+As discussed earlier, the application of the GAAR is a complex matter of
+statutory interpretation in which the object, spirit and purpose of the
+provisions giving rise to the tax benefit are assessed in light of the
+requirements and wording of the GAAR.  While the “economic substance” of the
+transaction may be relevant at various stages of the analysis, this expression
+has little meaning in isolation from the proper interpretation of specific
+provisions of the Act.  Any “economic substance” must be considered in relation
+to the proper interpretation of the specific provisions that are relied upon
+for the tax benefit.  77                              
+The appellant originally suggested that the GAAR should be used to
+override the usual effect of the CCA provisions for a second reason — namely
+that the relationships and transactions that are expressed in the documents are
+abusive of the provisions of the Income Tax Act  and should be set
+aside.  It properly abandoned this argument and the submission that the
+transaction was a sham before the Federal Court of Appeal.  Here the documents
+detailing the transaction left no uncertainty as to the relationships between
+the parties.  CTMC paid $120 million to TLI for the equipment, partly with
+borrowed funds and partly with its own money.  Having become the owner of the
+equipment, it leased it to MAIL.  MAIL then subleased it back to the vendor,
+TLI.  The relationships between the parties as expressed in the relevant
+documentation were not superfluous elements; they were the very essence of the
+transaction.  78                              
+As the Tax Court judge concluded, under the CCA scheme, “[l]eases of
+such [exempt] properties will continue to be viewed as acceptable means of
+providing lower cost financing” (para. 67).  TLI’s use of the money ultimately
+reduced the risk, but a company in the financing business is expected to do
+what it can to reduce risk.  Therefore, the way the borrowed money was used
+provided no grounds for concluding that there was abusive tax avoidance.  The
+Tax Court judge, after considering all the circumstances, found that the
+transaction was not so dissimilar from an ordinary sale-leaseback to take it
+outside the object, spirit or purpose of the relevant CCA provisions of the Act
+and Regulations.  79                              
+In determining the result in this appeal, the Tax Court judge’s
+conclusions on matters of fact should not be displaced provided that they are
+based on the correct legal analysis and find support in the evidence.  80                              
+The Tax Court judge’s analysis on the issue of abuse under s. 245(4)  is
+largely consistent with the approach to the application of the GAAR we have
+adopted.  He rejected the two-stage overriding-policy approach to abuse and
+misuse.  He went on to inquire into the policy or purpose underlying the CCA
+treatment in sale-leaseback arrangements.  Construing the CCA provisions as a
+whole, he rejected the submission that “cost” in the relevant provisions of the
+Act should be reread as “money at risk”, and he also rejected the argument that
+the “economic substance” of the transaction determined that there was abusive
+tax avoidance.   He conducted a detailed analysis of the transactions to
+determine whether they fell within the object, spirit or purpose of the CCA
+provisions.  In the end, he concluded that a tax benefit was consistent with
+the object, spirit and purpose of the CCA provisions and held that the GAAR
+could not apply to disallow the tax benefit.  These conclusions were based on a
+correct view of the law and were grounded in the evidence.  They should be
+confirmed.  7.      Conclusion  81                              
+We would dismiss the appeal with costs.  APPENDIX  I.                 The following parties weave
+through the multiple transactions at one point or another:  Canada Trustco Mortgage Company (“CTMC” or “Purchaser” or “Lessor” or
+“Borrower”), respondent, was a large diversified financial institution carrying
+on business in Canada.  Royal Bank of Canada (Canadian branch) (“RBC” or “Lender”).  Transamerica Leasing Inc. (“TLI” or “Vendor” or “Sublessee”), a
+corporation in the United States.  Maple Assets Investments Limited (“MAIL” or “Lessee” or “Sublessor”), a
+limited liability company incorporated under the laws of England.  Maple Assets Charitable Trust (“MACT” or “Trust”), constituted by an
+instrument of trust dated December 17, 1996, owns 100 percent of the shares in
+MAIL.  Royal Bank of Canada Trust Company (Jersey) Limited (“RBC Jersey” or
+“Trustee”) is the trustee of MACT and is a wholly owned subsidiary of RBC,
+incorporated in Jersey.  Royal Bank of Canada Trust Corporation Limited (“RBCTC” or “Manager”),
+a company incorporated in England, undertook to manage and fulfil the affairs
+and obligations of MAIL under the relevant transactions and to provide the
+directors and officers of MAIL.  Transamerica Finance Corporation (“TFC” or “Guarantor”), the parent
+corporation of TLI, who guaranteed to MAIL the performance of all TLI’s
+obligations under the sublease agreement and to CTMC all TLI’s obligations
+under the “Equipment Purchase Agreement”.  Macquarie Corporate Finance (USA) Inc. (“Lease Arranger”). II.                CTMC held as part of its ongoing
+business a portfolio of loans and leases to generally larger corporations and
+government agencies.  CTMC testified that it was looking for a leasing
+arrangement in the range of $100 million.  It specified the type of equipment
+(long-term assets that were easy to value, such as tractors or trailers), the
+duration of the lease and the strength of the proposed lessee.  The structure
+of the leasing arrangement was left to the Lease Arranger.  The trailers
+remained in the possession of TLI and CTMC continued to own the trailers, to
+lease them out, and to earn income from them.  CTMC previously entered into
+similar arrangements to the one implemented in this case. The Lease Arranger
+arranged the TLI deal which was approved by CTMC’s Board of Directors.  The key
+transactions proceeded as follows:  The
+Purchase and Sale of the Trailers  III.               On December 17, 1996, CTMC and
+TLI entered into an agreement for the purchase and sale of trailers at a fair
+market value of $120 million.  TLI agreed to sell and CTMC agreed to purchase
+the trailers absolutely and ownership in the trailers passed from TLI to CTMC.  IV.              On December 17, 1996, for
+administrative convenience, CTMC appointed TLI as trustee and agent of CTMC to
+hold in TLI’s name, the certificate of title, certificate of ownership,
+registration and like documentation in respect of the trailers.  Lease of
+the Trailers to MAIL and the Option to Purchase V.                The terms of the Lease between
+CTMC and MAIL included the following:  1.    the term was for an initial period ending
+December 1, 2014;  2.    the rent payments under the Lease were based
+upon an effective interest rate of 8.5 percent;  3.    MAIL, as lessee, was required to make
+semi-annual payments to CTMC; and  4.    MAIL was provided with an option to purchase
+the trailers, $84 million being the First Option Value on December 1, 2005 and
+another option exercisable at the fair market value on December 1, 2014.  Sublease of
+the Trailers to TLI  VI.              Most of the terms of the Sublease
+to TLI are similar to those in the Lease to MAIL.  The Sublease provided TLI
+with purchase options similar to those provided to MAIL.  Security
+for the Sublease  VII.             On December 17, 1996, pursuant to
+the terms of the Sublease, TLI prepaid all amounts due to MAIL under the
+Sublease (approximately $120 million).  As a result of the prepayment, TLI had
+no ongoing Sublease payment obligations and there was no credit risk to MAIL
+under the terms of the Sublease.  TLI maintained certain obligations with
+respect to indemnities and early termination.  TLI retained a net present value
+benefit of 3.35 percent of the cost of the trailers being the difference between
+the payment TLI received from CTMC for the sale of the trailers and the
+prepayment of rent TLI paid to MAIL.  Security
+for the Lease  VIII.            On December 17, 1996, MAIL applied
+the prepayment it received from TLI as follows:  1.    MAIL placed on deposit with the RBC an
+amount equal to the Loan (approximately $100 million); and  2.    MAIL paid the balance of the prepayment
+(approximately $20 million) to RBC Jersey on the condition that RBC Jersey use
+these funds to purchase a Government of Ontario Bond (“Bond”), maturing on
+December 1, 2005.  IX.              On December 17, 1996, the Bond was
+pledged to CTMC as security for MAIL’s obligation to pay the Purchase Option
+Payments or the Termination Values under the Lease.  The risk of the inability
+of MAIL to pay the First Option Value was removed by the acquisition of the
+Bond and the provision to CTMC of a security interest in the Bond.  Security
+for the Loan  X.                On December 17, 1996, CTMC
+assigned to RBC the rent payments owed to CTMC from MAIL under the Lease.  CTMC
+also provided MAIL with an irrevocable instruction to pay the assigned rent
+payments to RBC such that RBC would apply the rent payments directly to the
+installment payments due by CTMC to RBC under the terms of the Loan Agreement. 
+RBC’s recourse under the Loan was limited to the rent payments assigned to it
+by CTMC.  XI.              The rent payments under the Lease
+and a portion of the First Option Value would be applied to pay off the RBC
+loan and the remainder of the purchase option price would be covered by the
+Bond.  The Effect
+of Non-Recourse Debt on Regulatory Capital Requirements  XII.             The use of non-recourse debt to
+finance the purchase of the trailers significantly improved CTMC’s management
+of regulatory capital requirements.  Guarantees  XIII.            On December 18, 1996, TFC, the
+parent corporation of TLI, unconditionally and irrevocably guaranteed to MAIL
+and to CTMC the performance of TLI’s obligations under the relevant
+transactions.  Reversibility
+of the Transactions  XIV.            The transactions in issue could be
+unwound if there were adverse changes affecting CTMC.  Return on
+Investment  XV.             CTMC would realize a before-tax
+return of approximately $8.5 million from the transactions.  Appeal dismissed with costs.  Solicitor for the appellant:  Deputy Attorney General of
+Canada, Ottawa.  Solicitors for the respondent:  Osler, Hoskin &
+Harcourt, Toronto.   

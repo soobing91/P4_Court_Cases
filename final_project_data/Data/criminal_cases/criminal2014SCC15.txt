@@ -1,0 +1,989 @@
+  SUPREME
+COURT OF CANADA  Citation: R. v. Sekhon, 2014 SCC 15, [2014] 1 S.C.R. 272 Date:
+  20140220 Docket:
+  35180  Between: Ajitpal
+Singh Sekhon Appellant and Her
+Majesty The Queen Respondent  Coram: McLachlin C.J. and LeBel, Abella, Rothstein, Moldaver,
+Karakatsanis and Wagner JJ.  Reasons for
+  Judgment: (paras. 1 to 58)  Dissenting
+  Reasons: (paras. 59 to 99):  Moldaver J. (Abella, Rothstein, Karakatsanis and Wagner
+  JJ. concurring)  LeBel J. (McLachlin C.J. concurring)   R. v. Sekhon, 2014 SCC 15, [2014] 1
+S.C.R. 272 Ajitpal Singh Sekhon                                                                                      Appellant v. Her Majesty The Queen                                                                              Respondent Indexed as:  R. v. Sekhon 2014 SCC 15 File No.:  35180. 2013:  November 8; 2014:  February 20. Present:  McLachlin C.J. and LeBel, Abella, Rothstein,
+Moldaver, Karakatsanis and Wagner JJ. on appeal from the court of appeal for british columbia                     S
+was convicted of importation and possession for the purposes of trafficking of
+50 kg of cocaine.  The cocaine was seized by border officers who found it
+hidden in a concealed compartment of a pickup truck S attempted to drive from
+the United States into Canada.  The case against S was entirely circumstantial
+and the only issue at trial was whether he knew of the cocaine in the truck.  S
+claimed that an acquaintance had asked him to drive the truck and that he had
+no knowledge of the cocaine.  The trial judge rejected S’s testimony in its
+entirety.  The judge found that S knew of the cocaine based on:  its amount and
+value; expert evidence from a police officer pertaining to the customs and
+habits of drug couriers, including the fact that in his many years’ experience
+he had never encountered a blind courier; and evidence that S had detached the
+fob that controlled access to the secret compartment from his key chain before
+handing the keys to the border officer.  The trial judge also relied on
+additional items of circumstantial evidence that pointed towards S’s guilty
+knowledge.  On appeal, S argued that the trial judge should not have admitted
+or relied on the expert evidence of the police officer and in particular, that
+portion of his evidence relating to his own experience with blind couriers.  A
+majority of the Court of Appeal dismissed the appeal.                     Held
+(McLachlin C.J. and LeBel J. dissenting):  The appeal should be
+dismissed.                     Per
+Abella, Rothstein, Moldaver, Karakatsanis and Wagner JJ.:  The police
+officer’s evidence relating to his own experience with blind couriers was
+inadmissible and the trial judge erred in relying upon it.  Admission of expert
+evidence depends on the Mohan criteria of relevance, necessity in
+assisting the trier of fact, absence of any exclusionary rule and a properly
+qualified expert.  It is not enough for a trial judge to simply consider the Mohan
+criteria at the outset of an expert’s testimony and make an initial ruling as
+to the admissibility of the evidence.  The judge must do his or her best to
+ensure that throughout, the expert’s testimony remains within the proper boundaries
+of expert evidence.  This includes ensuring, so far as possible, that the
+content of the evidence itself is properly the subject of expert evidence.  Where
+mistakes are made and the testimony strays beyond the proper scope of expert
+evidence, it is imperative that the trial judge not assign any weight to the
+inadmissible parts.                     In
+this case, the fact that the police officer had never encountered a blind
+courier in his many investigations was neither necessary nor relevant to the issue
+facing the trial judge — whether S knew about the cocaine.  The officer’s
+evidence was not necessary because determining whether S knew about the cocaine
+was not beyond the knowledge and experience of the judge and was not technical
+or scientific in nature.  Moreover, the guilt or innocence of accused persons
+that the police officer had encountered in the past was not legally relevant to
+S’s guilt or innocence. In other words, the officer’s testimony was of no
+probative value in determining whether S knew about the cocaine and its lack of
+relevance is sufficient to justify its exclusion.                     While
+the trial judge’s error in this case is not harmless, the evidence of S’s guilt
+is so overwhelming that a trier of fact would inevitably convict.  Hence, the
+second branch of the curative proviso can be applied to sustain S’s
+convictions.  The fob evidence on its own was devastating.  But it did not
+stand alone; it was part of a web of circumstantial evidence pointing towards
+S’s guilt.  When considering the second branch of the curative proviso in a
+circumstantial case, it is necessary to look at the whole of the admissible
+evidence in assessing the strength of the case.  It is not the task of an
+appellate court to parse each item of evidence in search of a possible innocent
+explanation.  If that were so, it would be impossible to ever satisfy the
+second branch.                     Per
+McLachlin C.J. and LeBel J. (dissenting):  The police officer’s
+evidence that in his many investigations he had never encountered a blind
+courier strayed from what would be admissible expert evidence.  His testimony
+was equivalent to a statement that individuals in S’s position always know
+about the drugs. It is a short step from such evidence to an inference that S
+must have known about the cocaine.  The evidence effectively amounted to an
+opinion that S possessed the mens rea for the offences with which he was
+charged, which was the issue in this trial.  Whether it was admissible
+therefore requires special scrutiny.                     Applying
+the Mohan criteria, the expert evidence should not have been admitted.  The
+evidence was not necessary, as it was open to the judge to infer what S knew or
+did not know.  Nor was it relevant.  The officer’s opinion invited the judge to
+find that S knew about the cocaine on the basis that all people driving
+vehicles containing hidden drugs know about the drugs.  In addition to usurping
+the trial judge’s role in resolving the issue of guilt or innocence, the
+opinion depended on an unacceptable and unfair inference.                     Given
+the trial judge’s error was not a harmless one that would have no impact on the
+verdict, this is not an appropriate case for application of the second branch
+of the curative proviso.  The issue in applying the second branch is not
+whether the trial judge could make the inference he did or whether that
+inference was determinative of guilt, but whether it was the only rational
+conclusion. In this case, it was not.                     While
+ordering a new trial places demands on judicial resources, this cannot override
+S’s right to a fair trial based solely on admissible evidence.  The trial judge
+relied on inadmissible evidence and this was a serious error.  If this Court
+excludes evidence described by the trial judge as one of the foundations of his
+conclusion that S was guilty, it cannot then hold that the evidence against S
+was nonetheless overwhelming without engaging in pure speculation.  Such a
+conclusion would contradict what the trial judge himself wrote and would rest
+on an improper reweighing of the remaining evidence.  The curative proviso does
+not permit this Court to deny a retrial in such circumstances. Cases Cited By Moldaver J. By LeBel J. (dissenting) Statutes and Regulations Cited Controlled
+Drugs and Substances Act, S.C. 1996, c. 19, ss. 5(2) , 6(1) . Authors Cited Béliveau, Pierre, et Martin Vauclair.  Traité général de
+preuve et de procédure pénales, 20e éd.  Cowansville,
+Qué.:  Yvon Blais, 2013. McCormick,
+Charles Tilford.  McCormick on Evidence, 3rd ed. by Edward W.
+Cleary.  St. Paul, Minn.:  West Publishing Co., 1984.                     APPEAL
+from a judgment of the British Columbia Court of Appeal (Finch C.J. and
+Newbury and Lowry JJ.A.), 2012 BCCA 512, 331 B.C.A.C. 170, 565 W.A.C. 170,
+[2012] B.C.J. No. 2675 (QL), 2012 CarswellBC 4005, affirming the accused’s
+convictions for importation and possession of cocaine for the purposes of
+trafficking.  Appeal dismissed, McLachlin C.J. and LeBel J.
+dissenting.                     Eric V.
+Gottardi and Kathleen M. Bradley, for
+the appellant.                     Martha M.
+Devlin, Q.C., and Chris Greenwood,
+for the respondent.                     The
+judgment of Abella, Rothstein, Moldaver, Karakatsanis and Wagner JJ. was
+delivered by                     Moldaver J.  — I.             
+Introduction [1]                             
+On January 25, 2005, the appellant, Ajitpal
+Singh Sekhon, was charged with unlawfully importing cocaine and unlawfully
+possessing cocaine for the purpose of trafficking.  He was arrested when he
+attempted to cross the border from Washington State into British Columbia.  The
+key issue at trial was whether Mr. Sekhon knew about the cocaine that was
+secreted in the pickup truck he was driving.  The trial judge found that he
+did.  He based his decision in part on the testimony of an expert police
+witness who testified about the customs and practices of the drug trade.  One
+aspect of the expert’s evidence strayed beyond the proper scope of expert
+testimony.  As such, it was inadmissible and should not have been relied on by
+the trial judge. [2]                             
+The flawed testimony upon which the trial judge
+relied forms one sentence of a 16-page judgment that is otherwise flawless.  In
+particular, the trial judge provided a long list of reasons for disbelieving
+the appellant and rejecting his testimony as incredible.  And apart from the
+one aspect of the expert’s evidence that he should not have considered, the
+trial judge provided an equally impressive list of reasons for concluding that
+the appellant was aware of the cocaine secreted in the pickup truck. [3]                             
+In the end, the only issue of concern is whether
+the curative proviso in s. 686(1) (b)(iii) of the Criminal
+Code, R.S.C. 1985, c. C-46 , can be applied to sustain the convictions.  I
+believe it can.  While the error relating to the flawed expert testimony cannot
+be swept aside as harmless, the evidence establishing the appellant’s guilty
+knowledge — and thus his guilt — is overwhelming.  Hence, the second
+branch of the curative proviso can safely be applied to sustain the
+convictions. [4]                             
+Because this case turns on the application of
+the second branch of the curative proviso, I find it necessary to review the
+evidence and the trial judge’s findings of fact in some detail. II.          
+Facts [5]                             
+On January 25, 2005, shortly after 4:30 p.m.,
+Mr. Sekhon attempted to drive a pickup truck across the border from Washington
+State into British Columbia.  He was the sole occupant of the truck. [6]                             
+The customs officer at the primary inspection
+booth noted that Mr. Sekhon appeared tense and was gripping the steering
+wheel.  When asked about the purpose of his trip, he told the customs officer
+that he had been delivering cheques to workers at a farm.  He was unable to
+produce any receipts or pay stubs to support his stated purpose for travel. [7]                             
+The customs officer referred Mr. Sekhon for a
+secondary examination.  Mr. Sekhon was told to park the vehicle in a secondary
+parking area and go to the customs office. [8]                             
+At the customs office, Mr. Sekhon was asked for
+the keys to the pickup truck.  He complied and turned them over to the customs
+officer. [9]                             
+Mr. Sekhon began to pace nervously around the
+customs office.  At one point, he attempted to leave the building but was
+directed to return.  Meanwhile, customs officers undertook an inspection of the
+truck.  This led to the discovery of packages of a white powdery substance,
+believed to be cocaine, hidden in a concealed compartment. [10]                         
+After the white powdery substance was
+discovered, Mr. Sekhon was informed that he was being detained.  He was advised
+of his rights and asked to empty his pockets.  Among the items produced were a
+key fob on a chain, a cellular phone, and an envelope. [11]                         
+The cellular phone began ringing and continued
+to ring for the duration of the time that it was in the possession of the
+customs officers. [12]                         
+Mr. Sekhon indicated that the key fob was his
+and that it was for the truck. [13]                         
+The envelope bore the name “Westhall Properties
+Ltd.”.  On the envelope were the following handwritten notations: “Combo lock
+34-11-20, time enterphone 204, Parking 284, locker 185” (A.R., vol. V, at p.
+82). [14]                         
+Mr. Sekhon was then arrested and escorted to a
+detention cell in the customs building.  He was once again advised of his
+rights and chose to speak to a lawyer over the phone.  After this phone call, a
+customs officer went to check on Mr. Sekhon.  He noticed a wet, partially
+chewed-up piece of green paper on the floor of Mr. Sekhon’s cell.  When asked
+about the paper, Mr. Sekhon told the customs officer that he had retrieved it
+from the commercial counter in the customs office.  Upon being confronted with
+the fact that there was no green paper in that area, Mr. Sekhon said it had
+come from the truck. [15]                         
+Further examination of the hidden compartment of
+the truck revealed the presence of 50 bricks of cocaine, each weighing one
+kilogram.  The hidden compartment was equipped with a hydraulic jack mechanism
+enabling the compartment to be opened and closed.  The key fob recovered from
+Mr. Sekhon had been engineered to open and close the compartment if the correct
+buttons were pressed in a particular sequence. [16]                         
+Mr. Sekhon was charged with unlawfully importing
+cocaine into Canada contrary to s. 6(1)  of the Controlled Drugs and
+Substances Act, S.C. 1996, c. 19 , and with unlawfully possessing cocaine
+for the purpose of trafficking contrary to s. 5(2) of that Act. III.       
+Proceedings Below [17]                         
+Judge Dohm, of the Provincial Court of British
+Columbia, presided over Mr. Sekhon’s trial.  The sole issue at trial was
+whether the Crown could prove beyond a reasonable doubt that Mr. Sekhon had the
+requisite mens rea for the two offences charged, that is, knowledge of
+the cocaine. A.          
+Crown Evidence [18]                         
+The Crown called a police officer, Sgt.
+Arsenault, to give expert evidence regarding the customs and practices of the
+drug trade.  Specifically, Sgt. Arsenault’s evidence was to focus on chains of
+distribution, distribution routes, means of transportation, methods of
+concealment, packaging, value, cost and profit margins.  Sgt. Arsenault had
+been a police officer for 33 years and had been involved in approximately 1,000
+cases involving the importation of cocaine.  His qualifications as an expert
+witness were admitted. [19]                         
+Sgt. Arsenault testified at length about the
+customs of the cocaine trade.  He valued the amount of cocaine found in the
+pickup truck to be worth between $1,500,000 and $1,750,000 at the wholesale
+level.  He explained that the recruitment of a drug courier takes time and that
+an organization will not typically entrust a first-time courier with a large
+shipment.  Instead, the courier’s reliability will be tested with smaller
+shipments.  He testified that it was significant that Mr. Sekhon had been given
+a fob that could open the hidden compartment; the fact that he “actually [ha]d
+hands-on access to the shipment itself” showed that he had “a lot more trust .
+. . within the group” (A.R., vol. III, at p. 151). [20]                         
+Towards the end of his examination-in-chief, the
+following exchange occurred between Crown counsel and Sgt. Arsenault: Q  Officer, you described earlier that you’ve been involved in
+approximately 1,000 investigations involving the importation of cocaine over
+your 33-year career?  A  That is correct, Your Honour,
+yes.[1]  Q  In approximately how many of those investigations were you able
+to determine that the person importing the cocaine did not know about the
+commodity that they were importing?  A  I have never encountered
+it, personally.  Q  Have you ever heard of a -- the use of a blind courier or a
+courier who doesn’t know about the commodity that he is driving?  A  I -- I’ve certainly heard that argument being raised on -- on
+occasion, primarily in court, not during my investigations.  [Footnote added;
+A.R., vol. III, at p. 144.] This brief exchange
+contains the problematic evidence that is central to this appeal. It comprises
+but a few lines of Sgt. Arsenault’s 34 pages of testimony. I shall refer to it
+as the “Impugned Testimony”. B.           
+Defence Evidence [21]                         
+The defence called two witnesses — Mr. Sekhon
+himself and Mr. Sekhon’s nephew, Mr. Grewal. [22]                         
+Mr. Sekhon presented the following version of
+events.  On the day of his arrest, he said that he had been working on one of
+his family farms in Abbotsford.  At some point in the afternoon, Mr. Grewal
+came to pick him up.  Mr. Grewal asked Mr. Sekhon if he would accompany Mr.
+Grewal to Washington State to deliver employee pay cheques and to check on some
+pruning.  While in Washington State, Mr. Sekhon received a phone call from his
+friend Chris, who was shopping at a nearby mall, and they agreed to meet at the
+mall for lunch.  On the way to the mall, Mr. Grewal received a telephone call
+asking him to return to one of the farms in Canada.  Mr. Grewal left Mr.
+Sekhon at the mall because he knew that Mr. Sekhon would be able to get back to
+Canada.  Over lunch, Chris told Mr. Sekhon that he had left his pickup truck in
+the area the night before.  He had been drinking and received a ride home to
+British Columbia with friends.  Since he had come back to the U.S. that day in
+another vehicle, Chris asked Mr. Sekhon to drive his truck back to Canada for
+him.  Mr. Sekhon agreed and Chris gave him a key attached to a fob.  Chris
+showed Mr. Sekhon how to use the fob to lock and unlock the truck and activate
+the truck alarm. [23]                         
+Mr. Sekhon and Chris drove to the border
+crossing in two separate vehicles.  Mr. Sekhon testified that after his release
+from custody, he attempted to find Chris but was unsuccessful.  He maintained
+that, even though he had known Chris for two years, he did not know Chris’s
+last name and only had his cell phone number, which had been disconnected. [24]                         
+Mr. Sekhon testified that he did not know that
+there was cocaine in the truck, and that he had no reason to be suspicious of
+Chris’s request. [25]                         
+Mr. Grewal corroborated most of Mr. Sekhon’s
+testimony up to the point of dropping Mr. Sekhon off at the mall. C.           
+Reasons of the Trial Judge (1)        
+The Trial Judge’s View of Mr. Sekhon’s Evidence [26]                         
+The trial judge found numerous difficulties with
+the version of events presented by Mr. Sekhon.  He discussed at length no less
+than 12 deficiencies inherent in his story.  Some of the more glaring of these
+are reviewed below. [27]                         
+First, the trial judge found that it made “no
+sense” (A.R., vol. I, at p. 18) that Chris would have left a vehicle containing
+$1.5 million worth of cocaine parked overnight on a city street while he went
+out drinking with friends.  Moreover, it would be “completely illogical” (p.
+19) for Chris to drive to Washington State the following day without having a
+firm plan, before leaving B.C., as to how the extra vehicle would be returned
+to Canada. [28]                         
+Second, the trial judge observed that importing
+50 kg of cocaine is clearly a risky venture and that Chris would logically want
+to take steps to reduce the risk if in fact he had chosen to use a blind
+courier.  Yet if Mr. Sekhon were asked at the border whether anyone had given
+him anything to bring back into Canada — the question being a common one — the
+truthful response would have been “the truck” (A.R., vol. I, at p. 20).  The
+fact that Mr. Sekhon did not even know Chris’s last name would likely have
+resulted in a referral for a secondary inspection and increased the risk that
+the cocaine would be found.  The trial judge found it unlikely that Chris would
+use Mr. Sekhon as a blind courier without providing him with more information
+about the truck, including the name of its owner. [29]                         
+Third, the trial judge noted that, according to
+Mr. Sekhon’s testimony, when Chris gave the truck keys to Mr. Sekhon, they were
+attached to the fob’s chain (A.R., vol. I, at p. 22).  The keys were connected
+to this chain by a clasp that was not prone to open accidentally.  Manual
+manipulation was required to separate the keys from the chain.  Significantly,
+there was no fob attached to the keys that Mr. Sekhon provided to the customs
+officer — the fob was only revealed later when Mr. Sekhon was asked to empty
+his pockets.  The trial judge conducted a thorough review of the circumstances
+surrounding the fob and concluded, based on all the evidence, that Mr. Sekhon
+had manually separated the key from the fob after turning off the ignition in
+the secondary inspection area.  Based on Mr. Sekhon’s version of the events,
+there would have been no reason for doing so.  If, on the other hand, Mr.
+Sekhon knew about the hidden compartment, he would logically want to distance
+the fob, which controlled access to the hidden compartment, from the truck. [30]                         
+Fourth, the trial judge rejected Mr. Sekhon’s
+explanation as to why, at the time of his arrest, he was in possession of the
+envelope on which a lock combination was handwritten.  Mr. Sekhon testified
+that the information related to a condominium unit he had been interested in
+renting.  The trial judge found that it was “completely unbelievable” (A.R.,
+vol. I, at p. 23) that information about the combination for a locker at that
+unit would be provided to a person who had only expressed an interest in
+renting.  The trial judge found it reasonable to conclude that the information
+related to a storage locker, and noted that the cocaine would likely need to be
+stored in Canada.  The trial judge also pointed out that the envelope was not
+in Mr. Sekhon’s wallet, but in the pocket of his farm clothes.  On Mr. Sekhon’s
+version of the events, there was no logical reason for having the envelope in
+his possession at the time of his arrest.  It made no sense that he would have
+put this envelope in his farm clothes; nor did it make any sense that he would
+have been wearing his farm clothes when he viewed the condominium unit. [31]                         
+Fifth, the trial judge identified “glaring
+inconsistencies” (A.R., vol. I, at p. 24) between what Mr. Sekhon told the
+customs officers and what he testified to in court.  For example, when Mr.
+Sekhon was initially asked by the customs officer whether he had any receipts
+or pay stubs available to support his stated purpose of travel to the U.S., Mr.
+Sekhon said he had given them to his accountant.  The trial judge pointed out
+that “[i]n court, there was no mention of any accountant, nor could there be,
+because it was Mr. Grewal and not the accused who dealt with the cheques and
+the workers” (p. 25).  Another example highlighted by the trial judge was the
+fact that Mr. Sekhon told a second customs officer that he took the cheques to
+his friend’s uncle at the Arco gas station in Linden.  The trial judge noted
+that “[t]he accused’s court testimony could not logically include a friend’s
+uncle and there was no mention of any Arco gas station” (ibid.).  The
+trial judge found that this was not simply an ordinary case of nerves that an
+average person might experience at a border crossing.  He noted that some of
+the inconsistent statements were made before the cocaine was found and that it
+was “difficult to understand” how a true blind courier could be so nervous at
+the border that he would misspeak to the extent of the inconsistencies in
+question (ibid.). [32]                         
+Sixth, the trial judge addressed the fact that
+Mr. Sekhon chewed up a piece of green paper while he was in the detention cell
+at the immigration office.  He found that Mr. Sekhon’s explanation regarding
+the origin of the paper was “simply unbelievable, as is the accused’s
+suggestion that he chewed the paper because it was a habit he had at the time”
+(A.R., vol. I, at p. 26).  On this point, the trial judge found that it was
+“not unreasonable to conclude that he chewed it up because it contained some
+potentially incriminating writing” (p. 33). [33]                         
+In the end, it is abundantly clear that the
+trial judge disbelieved Mr. Sekhon’s explanation as to how he came to be
+driving a truck, containing 50 kg of cocaine, across the border.  His reasons
+are replete with observations that Mr. Sekhon’s version of events made “no
+sense”, that it was “illogical”, “difficult to accept”, “difficult to
+comprehend”, “incredible”, “not at all convincing”, “not credible”, “completely
+unbelievable” and contained “glaring inconsistencies” (A.R., vol. I, at pp. 18,
+19, 23, 24, 26 and 27).  As stated earlier, he pinpointed and discussed at
+length no less than 12 problems with the evidence given by Mr. Sekhon.  He
+concluded that there were “far too many coincidences in the accused’s evidence
+to make his version of events plausible” (p. 27) and that “the likelihood that
+all these coincidences happened within this limited time frame is so remote as
+to render the accused’s evidence unbelievable.  These coincidences present as
+created to fit the evidence” (p. 28). (2)        
+The Trial Judge’s View of the Crown’s Case [34]                         
+The trial judge completed his assessment of Mr.
+Sekhon’s testimony as follows:    The net
+effect of these difficulties is that I do not believe the evidence presented by
+the accused, nor does it raise any reasonable doubt as to the accused’s guilt
+on the two charges, and specifically his knowledge of the cocaine in the
+truck’s hidden compartment. [A.R., vol. I, at p. 29] [35]                         
+The trial judge then went on to discuss the
+Crown’s evidence.  He found three pieces of circumstantial evidence to be “very
+significant” (A.R., vol. I, at p. 30).  First was the value of cocaine
+involved.  He concluded, in accordance with Sgt. Arsenault’s testimony, that
+the owners of such a significant amount of cocaine would want a trusted and
+reliable individual handling the shipment, and “[w]ith that proven reliability
+and trust naturally comes some knowledge” (ibid.). [36]                         
+The second significant piece of evidence also
+came from Sgt. Arsenault’s testimony, as follows: I conclude [Sgt. Arsenault] was a fair,
+unbiased witness. I accept his evidence. Included therein is his opinion that
+individuals tasked with importing controlled substances in amounts of this size
+would be part of a larger, closely-knit organization and they would know what
+commodity they were importing, as that would be factored into the fee they had
+negotiated.  Sgt. Arsenault also testified that in the thousand or more
+cocaine-importing investigations he has been involved in he has never
+encountered a blind courier, that being a person who does not know the nature
+or existence of the commodity being moved from one location to another. 
+[Emphasis added; A.R., vol. I, at pp. 30-31.] The last sentence of this
+passage references the Impugned Testimony. [37]                         
+The third piece of evidence that the trial judge
+found to be significant was the fob.  As mentioned earlier, the trial judge
+made a finding of fact that the fob and the ignition key were connected by the
+chain until Mr. Sekhon turned off the ignition in the secondary inspection
+area.  Prior to this point, there was no opportunity and no rational reason for
+separating them.  The trial judge concluded that Mr. Sekhon separated the two
+in an attempt to distance the fob from the truck because he knew that the fob controlled
+access to the hidden compartment.  Mr. Sekhon takes no issue with that finding. [38]                         
+In addition to these three significant pieces of
+evidence, the trial judge noted other circumstantial evidence that also
+supported his finding that Mr. Sekhon knew about the cocaine: the incessant
+ringing of Mr. Sekhon’s cell phone at a time when others within the
+organization would be wanting to know whether the drugs had crossed the border,
+the writing on the envelope that Mr. Sekhon had in his possession at the time
+he was arrested, Mr. Sekhon’s
+excessively nervous behaviour in the customs office, the fact that Mr. Sekhon
+chewed up the piece of green paper while in the detention cell, and the fact
+that Mr. Sekhon told a number of lies to the customs officers. [39]                         
+In the result, Mr. Sekhon was convicted of
+importing cocaine and possession of cocaine for the purpose of trafficking. D.          
+British Columbia Court of Appeal, 2012 BCCA 512,
+331 B.C.A.C. 170 [40]                         
+On appeal, Mr. Sekhon took issue with Sgt.
+Arsenault’s testimony.  He maintained that it was neither relevant nor
+necessary and that its prejudicial effect outweighed its probative value. [41]                         
+The majority of the B.C. Court of Appeal
+disagreed.  Newbury J.A., in dissent, viewed the matter differently.  While she
+accepted that the bulk of Sgt. Arsenault’s evidence was properly admissible,
+she found that the Impugned Testimony did not fall within this category.  In
+her view, it was “purely anecdotal evidence, not amenable to cross-examination
+in any real sense, from an officer who was not in a position to determine as a
+matter of fact whether in all [of the approximately] 1,000 cases he had
+investigated, the courier had been ‘blind’ or not” (para. 26).  Moreover, she
+held that the evidence “provided no assistance to the Court as to whether the
+accused had known what he was transporting”, but rather “tended to
+short-circuit that inquiry” (ibid. (emphasis in original)).  She
+provided strong words of caution in regards to such expert testimony: I see little difference
+between this situation and a police officer with experience in domestic
+disputes being permitted to testify that in all his or her experience, no such
+dispute has ever involved self-defence; or an officer experienced in
+investigating murder being permitted to testify that in all the cases he or she
+has investigated, the accused intended the death of his or her victim.       Anecdotal
+evidence of this kind is just that — anecdotal.  It does not speak to the
+particular facts before the Court, but has the superficial attractiveness of seeming
+to show that the probabilities are very much in the Crown’s favour, and of
+coming from the mouth of an “expert”.  If it can be said to be relevant to the
+case of a particular accused, it is also highly prejudicial.  [paras. 26-27] Newbury J.A. concluded
+that the Impugned Testimony “should not have been relied upon by the trial
+judge in reaching his verdict” (para. 25).  She would have allowed the appeal
+and ordered a new trial. IV.       
+Issues [42]                         
+At issue is whether the trial judge improperly
+admitted and relied upon the Impugned Testimony.  If the trial judge so erred,
+the remaining question is whether the curative proviso in s. 686(1) (b)(iii)
+of the Criminal Code  can be applied to sustain the convictions. V.          
+Analysis A.          
+Requirements for Expert Opinion Evidence [43]                         
+As set out R. v. Mohan, [1994] 2
+S.C.R. 9, at pp. 20-25, and affirmed in R. v. J.-L.J., 2000 SCC 51,
+[2000] 2 S.C.R. 600, and R. v. D.D., 2000 SCC 43, [2000] 2 S.C.R.
+275, the admission of expert evidence depends on the following criteria: (1)
+relevance; (2) necessity in assisting the trier of fact; (3) the absence of any
+exclusionary rule; and (4) a properly qualified expert. [44]                         
+With respect to the “relevance” criterion, Mohan
+states that the judge must conduct a cost-benefit analysis to determine
+“whether its value is worth what it costs” (p. 21, quoting McCormick on
+Evidence (3rd ed. 1984), at p. 544).  The cost-benefit analysis requires
+the judge to balance the probative value of the evidence against its
+prejudicial effect (Mohan, at p. 21). [45]                         
+As for the “necessity” criterion, Mohan
+holds that “[i]f on the proven facts a judge or jury can form their own
+conclusions without help, then the opinion of [an] expert is unnecessary” (p.
+23, quoting Lawton L.J. in R. v. Turner, [1975] 1 Q.B. 834, at p. 841). 
+The Court went on to note that the concern “inherent in the application of this
+criterion [is] that experts not be permitted to usurp the functions of the
+trier of fact” (p. 24). [46]                         
+Given the concerns about the impact expert
+evidence can have on a trial — including the possibility that experts may usurp
+the role of the trier of fact — trial judges must be vigilant in monitoring and
+enforcing the proper scope of expert evidence.  While these concerns are
+perhaps more pronounced in jury trials, all trial judges — including those in
+judge-alone trials — have an ongoing duty to ensure that expert evidence
+remains within its proper scope.  It is not enough to simply consider the Mohan
+criteria at the outset of the expert’s testimony and make an initial ruling as
+to the admissibility of the evidence.  The trial judge must do his or her best
+to ensure that, throughout the expert’s testimony, the testimony remains within
+the proper boundaries of expert evidence.  As noted by Doherty J.A. in R. v.
+Abbey, 2009 ONCA 624, 97 O.R. (3d) 330, at para. 62:         The admissibility inquiry is
+not conducted in a vacuum.  Before deciding admissibility, a trial judge must
+determine the nature and scope of the proposed expert evidence.  In doing so,
+the trial judge sets not only the boundaries of the proposed expert evidence
+but also, if necessary, the language in which the expert’s opinion may be
+proffered so as to minimize any potential harm to the trial process.  A
+cautious delineation of the scope of the proposed expert evidence and strict
+adherence to those boundaries, if the evidence is admitted, are essential. 
+The case law demonstrates that overreaching by expert witnesses is probably the
+most common fault leading to reversals on appeal . . . .  [Emphasis added;
+citations omitted.] [47]                         
+The trial judge must both ensure that an expert
+stays within the proper bounds of his or her expertise and that the content of
+the evidence itself is properly the subject of expert evidence. [48]                         
+It is foreseeable that mistakes will be made and
+that, as happened in the instant case, testimony that strays beyond the proper
+scope of the expert evidence will be given.  It is also foreseeable that
+defence counsel may fail to object to the testimony at the time the problematic
+statements are made.  In a jury trial, once the statements have been made, it
+may be somewhat more difficult to address the problem — but a remedial
+instruction advising the jury to disabuse their minds of the inadmissible
+evidence will generally suffice.  Judges, on the other hand, are accustomed to
+disabusing their minds of inadmissible evidence.  It goes without saying that
+where the expert evidence strays beyond its proper scope, it is imperative that
+the trial judge not assign any weight to the inadmissible parts. B.           
+Application to This Case [49]                         
+In my view, the trial judge erred in relying
+upon the Impugned Testimony.  The fact that Sgt. Arsenault did not personally
+encounter a blind courier over the course of his investigations is neither
+relevant nor necessary, within the meaning ascribed to those terms by this
+Court in Mohan, to the issue facing the trial judge — namely, whether
+Mr. Sekhon himself had knowledge of the drugs.  The Impugned Testimony, though
+perhaps logically relevant, was not legally relevant because the guilt or
+innocence of accused persons that Sgt. Arsenault had encountered in the past is
+legally irrelevant to the guilt or innocence of Mr. Sekhon (see Mohan,
+at pp. 20-21).  In other words, the Impugned Testimony was of no probative
+value in determining whether Mr. Sekhon knew about the cocaine in the
+hidden compartment.  It is trite to say that a fundamental tenet of our
+criminal justice system is that the guilt of an accused cannot be determined by
+reference to the guilt of other, unrelated accused persons.  Moreover, the
+Impugned Testimony was not necessary because determining whether Mr. Sekhon
+knew about the drugs is not beyond the knowledge and experience of the judge,
+and it is certainly not a matter that is technical or scientific in nature. [50]                         
+The lack of relevance or probative value is, in
+my view, sufficient to justify the exclusion of the Impugned Testimony. 
+However, it is worth noting the prejudicial effect that such evidence may have
+on a trial.  I agree with Newbury J.A. to the extent that she found little to
+no difference between the Impugned Testimony in this case and a homicide
+investigator being permitted to testify that in all of the cases she or he has
+worked on, the accused intended the death of his or her victim.  Nor do I see a
+difference between the Impugned Testimony and a stolen goods investigator
+testifying that he or she has never seen a case of innocent possession of
+stolen property, or an experienced fraud investigator testifying that he or she
+has never seen a case where a senior manager was not aware of fraudulent
+conduct occurring within the company (A.F., at para. 60).  The inherent danger
+of admitting such evidence is obvious — as Newbury J.A. pointed out:          Anecdotal evidence of this kind
+is just that — anecdotal.  It does not speak to the particular facts before the
+Court, but has the superficial attractiveness of seeming to show that the
+probabilities are very much in the Crown’s favour, and of coming from the mouth
+of an “expert”.  If it can be said to be relevant to the case of a particular
+accused, it is also highly prejudicial.  [para. 27] This type of anecdotal
+evidence would appear to require the accused to somehow prove that, regardless
+of a particular expert’s past experience, the accused’s situation is
+different.  Such a result is contrary to another fundamental tenet of our
+criminal justice system — that it is the Crown that bears the burden of
+proving the mens rea of an offence beyond a reasonable doubt.  As the
+appellant points out, “such evidence would logically trigger a defence need to
+call evidence to refute such opinions, such as a retired investigator who did
+experience an innocent person in similar circumstances, or a witness who could
+testify that he or she was in the same circumstances of the accused and was
+innocent” (A.F., at para. 61).  At that point, the trial would become a battle
+of experts — and a completely irrelevant battle at that. [51]                         
+For these reasons, I conclude that the Impugned
+Testimony was inadmissible. C.           
+The Curative Proviso Is Appropriate in These
+Circumstances [52]                         
+Section 686(1) (b)(iii) of the Criminal
+Code , known as the curative proviso, states:    686. (1)  On the hearing of an appeal against a conviction or against a
+verdict . . . the court of appeal     (a)  may allow the appeal where it is of the opinion that . . .  (ii)
+the judgment of the trial court should be set aside on the ground of a wrong
+decision on a question of law, or . . .     (b)  may dismiss the appeal where . . .  (iii)
+notwithstanding that the court is of the opinion that on any ground mentioned
+in subparagraph (a)(ii) the appeal might be decided in favour of the
+appellant, it is of the opinion that no substantial wrong or miscarriage of
+justice has occurred; . . . [53]                         
+As this Court has repeatedly asserted, the
+curative proviso can only be applied where there is no “reasonable possibility
+that the verdict would have been different had the error . . . not been made” (R.
+v. Bevan, [1993] 2 S.C.R. 599, at p. 617, aff’d in R. v. Khan, 2001
+SCC 86, [2001] 3 S.C.R. 823, at para. 28).  Flowing from this principle, this
+Court affirmed in Khan that there are two situations where the use of
+s. 686(1) (b)(iii) is appropriate: (1) where the error is harmless
+or trivial; or (2) where the evidence is so overwhelming that, notwithstanding
+that the error is not minor, the trier of fact would inevitably convict (paras.
+29-31). [54]                         
+In my view, this case falls squarely within the
+latter category.  As the trial judge ably demonstrated, Mr. Sekhon’s evidence
+is a contrivance from beginning to end and need not be considered.  With his
+evidence off the table, had the Impugned Testimony been excluded, the remaining
+admissible evidence pointing towards Mr. Sekhon’s guilt is overwhelming.  I
+have reviewed this evidence earlier and need not repeat it.  Suffice it to say
+that the circumstantial evidence bearing on Mr. Sekhon’s knowledge can lead to
+only one rational conclusion — that Mr. Sekhon was aware of the cocaine
+secreted in the truck. [55]                         
+The fob evidence on its own was devastating.  As
+noted earlier, Mr. Sekhon himself testified that when he was given the fob, it
+was attached to the ignition key.  As the trial judge noted, correctly in my
+view, “[t]he only logical conclusion to be drawn from [Mr. Sekhon’s deliberate
+act of separating the fob from the keys] is that the accused did this to
+distance the fob from the truck because he knew that the fob controlled access
+to the hidden compartment which he would not want discovered” (A.R., vol. I, at
+p. 31).  Standing alone, that finding was all but conclusive of Mr. Sekhon’s
+guilt. [56]                         
+But of course, it does not stand alone.  It is
+part of a web of circumstantial evidence enveloping Mr. Sekhon from which he
+cannot escape.  In this regard, it is important to note that when considering
+the second branch of the proviso in the context of a circumstantial case, it is
+necessary to look at the whole of the admissible evidence in assessing the
+strength of the case.  It is not the task of an appellate court to parse each
+item of evidence in search of a possible innocent explanation.  If that were
+so, it would be virtually impossible to ever satisfy the second branch of the
+proviso in a circumstantial case. [57]                         
+In conclusion, the thoughts expressed by Binnie
+J. in R. v. Jolivet, 2000 SCC 29, [2000] 1 S.C.R. 751, at para. 46, and
+restated in R. v. Sarrazin, 2011 SCC 54, [2011] 3 S.C.R. 505, at para.
+24, are in my view, apposite to the case at hand: Ordering a new trial raises significant
+issues for the administration of justice and the proper allocation of resources. 
+Where the evidence against an accused is powerful and there is no realistic
+possibility that a new trial would produce a different verdict, it is
+manifestly in the public interest to avoid the cost and delay of further
+proceedings.  Parliament has so provided. VI.       
+Disposition [58]                         
+For these reasons, I would dismiss the appeal.                     The reasons of McLachlin C.J.
+and LeBel J. were delivered by                     LeBel J.  (dissenting) — I.             
+Overview [59]                         
+Ajitpal Singh Sekhon appeals from convictions
+for unlawfully importing cocaine into Canada and unlawfully possessing cocaine
+for the purpose of trafficking. The appellant was stopped at a border crossing
+between the United States and Canada, and the vehicle he was driving had a
+hidden compartment in which 50 kg of cocaine was found. The sole issue at trial
+was whether the appellant knew the cocaine was there. The appellant’s defence
+was that he had been asked to drive the vehicle over the border for an
+acquaintance and had not known about the cocaine. [60]                         
+To rebut this defence, the Crown called an
+experienced RCMP investigator to give expert evidence on the customs of the
+drug trade. In his evidence, this officer stated that he had never encountered
+a case involving a “blind courier”, that is, a person who transported cocaine
+without knowing what it was, or that it existed (A.R., vol. III, at p. 144). [61]                         
+I agree with my colleague Moldaver J. that the
+Crown’s expert witness should not have been permitted to give opinion evidence
+concerning the guilt of other individuals he had investigated for drug
+importation. And the trial judge should not have relied on the comments in
+question in assessing the Crown’s case against the appellant. Given the nature
+and the impact of these errors, I do not agree that this is an appropriate case
+for applying the curative proviso: Criminal Code, R.S.C. 1985,
+c. C-46, s. 686(1) (b)(iii). The Crown’s case against the
+appellant was circumstantial, the errors of law were very serious, and I do not
+believe the evidence would inevitably have resulted in a verdict of guilt
+despite these errors. I would order a new trial. II.          
+Background Facts [62]                         
+On January 25, 2005, the appellant drove a
+pickup truck to the Aldergrove border crossing between British Columbia and
+Washington State. A search of the truck by customs officers uncovered 50 kg of
+cocaine hidden in a concealed compartment beneath the truck bed. [63]                         
+The appellant testified at trial that he had
+driven to Washington earlier that day with his nephew Mike Grewal. Mr. Grewal
+had to return to Canada, but the appellant stayed behind in Washington and met
+with a school acquaintance from British Columbia named Chris. Chris told the
+appellant he had left his truck in Washington the previous evening because he
+was too drunk to drive it home and that he had now driven back to Washington to
+retrieve it. According to the appellant, Chris asked him to drive the truck
+back to Canada but did not tell him that there were drugs in it. Mr. Grewal
+also testified and he corroborated the appellant’s evidence up to the point of
+his own return to Canada. [64]                         
+The Crown called an RCMP officer,
+Sgt. Vincent Joseph Arsenault. Sgt. Arsenault was qualified, with the
+consent of defence counsel, as an expert on the importation of cocaine into the
+Lower Mainland of British Columbia by vehicle and on foot, and on the
+trafficking and possession of cocaine in that part of British Columbia,
+including distribution routes, chain of distribution, means of transportation,
+methods of concealment, packaging, values, cost and profit margins, usage
+patterns and rates of consumption. [65]                         
+Sgt. Arsenault expressed the opinion that
+individuals who imported controlled substances would be part of a close-knit
+criminal organization and that they would negotiate a fee based on the volume
+of drugs being transported. He stated that he had participated in over 1,000
+investigations into cocaine importing and that none of them had involved a
+“blind courier”. [66]                         
+The appellant was convicted. His appeal was
+dismissed by the British Columbia Court of Appeal, with Newbury J.A.
+dissenting. He appeals to this Court as of right. III.       
+Judgments A.          
+Provincial Court [67]                         
+The only issue at trial was whether the
+appellant knew the cocaine was in the truck. Judge Dohm rejected the
+appellant’s evidence and held that it did not raise a reasonable doubt. [68]                         
+The Crown’s case was circumstantial. After
+finding that the appellant was not credible, Judge Dohm turned to the Crown’s
+case, highlighting three key pieces of evidence: (i) the amount of cocaine
+involved, which suggested that a known and trusted courier would have been
+used; (ii) Sgt. Arsenault’s evidence that an individual trusted with large
+amounts of cocaine would be part of a closely knit organization, that his or her
+fee would be negotiated on the basis of the amount being transported, and that
+in over 1,000 cases, he had never encountered a “blind courier”; and (iii) the
+appellant’s possession of an electronic key fob that he must have detached from
+the ignition key before handing the key to the customs officer, which suggested
+that he knew the fob controlled access to the hidden compartment and did not
+want the compartment to be discovered. The judge also found support for his
+conclusions in some other pieces of evidence, including the fact that the
+appellant’s cell phone rang at the time of his arrest, certain information
+written on an envelope and his nervous behaviour in the customs office (A.R.,
+vol. I, at pp. 31-32). Judge Dohm accordingly found the accused guilty. B.           
+Court of Appeal, 2012 BCCA 512, 331 B.C.A.C. 170 [69]                         
+Lowry J.A., with Finch C.J.B.C. concurring,
+dismissed the appeal. Lowry J.A. noted that Sgt. Arsenault had many years’
+experience in the investigation of drug trafficking and had participated in
+some 1,000 cocaine importing cases. He was qualified as an expert, and his
+status as such had not been challenged. [70]                         
+On the admissibility of Sgt. Arsenault’s
+evidence and the weight it should be given, Lowry J.A. noted that defence
+counsel had not objected to it at trial. The evidence was necessary and
+relevant to the issue of mens rea, and the trial judge’s reliance on it
+was well reasoned and was not inconsistent with the purpose for which it had
+been adduced without objection. [71]                         
+The appellant had also challenged Judge Dohm’s
+reliance on the evidence with respect to the key fob, arguing that the judge
+had placed too much weight on it and had engaged in speculative reasoning.
+Lowry J.A. found no error in the trial judge’s reliance on this evidence. The
+issue is not raised in this Court. [72]                         
+Newbury J.A., dissenting, found that Sgt.
+Arsenault’s evidence should have been excluded. She noted that defence counsel
+had conceded that Sgt. Arsenault’s evidence met the criteria laid down in R.
+v. Mohan, [1994] 2 S.C.R. 9, but had also stated that such evidence can
+tend to become anecdotal and to stray into inference drawing. Newbury J.A.
+concluded that the officer’s evidence that blind couriers are not used was
+objectionable and should have been excluded or, at least, not relied on by the
+trial judge in reaching his verdict. She stated that this was not “custom of the
+trade” evidence, but was purely anecdotal and not amenable to cross-examination
+in any meaningful sense (para. 26). Further, she noted that it “tended to
+short-circuit” the mens rea inquiry and essentially allowed the Crown to
+have its theory of the case come from the mouth of an expert witness (ibid.). IV.       
+Issues A.          
+Legitimate Scope of a Police Officer’s Expert
+Evidence on the Drug Trade [73]                         
+In argument before us, the appellant did not
+challenge the use of a police officer’s expert evidence as such. A substantial
+body of case law supports the admission of evidence from experienced police
+officers on such subjects as the organization of the illegal drug trade,
+methods of transporting and selling drugs, methods for avoiding the detection
+of drugs, and drug jargon: R. v. Joyal (1990), 55 C.C.C. (3d) 233 (Que.
+C.A.); R. v. Ballony-Reeder, 2001 BCCA 293, 88 B.C.L.R. (3d) 237; R.
+v. Klassen, 2003 MBQB 253, 179 Man. R. (2d) 115. [74]                         
+Although the admissibility of expert evidence
+must be assessed by the trial judge on a case-by-case basis, I am satisfied
+that Judge Dohm made no error in principle in finding that the expert evidence
+of experienced drug investigators is capable of satisfying the criteria —
+relevance, necessity, absence of any exclusionary rule, and a properly
+qualified expert — identified in Mohan. The customs of the illegal drug
+trade will generally be relevant to the matters at issue in drug trials. Such
+customs are likely to be outside the knowledge of the trier of fact, so
+evidence about them will be necessary to assist him or her in assessing the
+other evidence that has been adduced. Moreover, it is open to a trial judge to
+conclude that a police officer is qualified to give expert evidence on the
+basis of the officer’s experience and training in the investigation of
+drug-related crimes. [75]                         
+At the same time, this Court has repeatedly
+cautioned that expert evidence must not be allowed to usurp the role of the
+trier of fact. The trier of fact, whether a judge or a jury, is responsible for
+deciding the questions in issue at trial. Judges must be especially cautious
+where the testimony of police expert witnesses is concerned, as such evidence
+could amount to nothing more than the Crown’s theory of the case cloaked with
+an aura of expertise. The courts have clearly recognized the risk that expert
+evidence could usurp the role of the trier of fact in the assessment of
+credibility, and even in the decision on the ultimate issue of guilt or innocence.
+I see no reason to believe that this danger is less real where the evidence is
+given by a state agent like a police officer rather than by a scientific
+expert. [76]                         
+The Mohan requirement of necessity is the
+primary safeguard against the inappropriate proliferation of expert evidence.
+But even where the expert’s evidence is broadly necessary, as in this case, it
+should be assessed with special scrutiny as it approaches the “ultimate
+issue”: Mohan, at p. 24; R. v. J.-L.J., 2000 SCC 51, [2000] 2
+S.C.R. 600, at para. 37. The decision to qualify an expert witness does not end
+the need for scrutiny of the expert’s evidence. A properly qualified expert
+could stray into expressing inadmissible opinions about the guilt of an
+accused, and the trial judge must ensure that the expert’s testimony stays
+within the proper boundaries of such evidence and maintain the integrity and
+independence of his or her own fact-finding function as regards the credibility
+of witnesses and the guilt or innocence of the accused. B.           
+Application of These Principles to Sgt.
+Arsenault’s Evidence [77]                         
+Sgt. Arsenault was qualified as an expert,
+without being challenged, on the basis of his extensive experience and
+training, and most of his evidence was unobjectionable. He described the
+general background of cocaine importation schemes, including manufacturing
+sources and distribution chains, the primary importation routes, and points of
+entry into British Columbia from the United States. He noted that importers
+commonly use off-road, four-wheel-drive vehicles to transport cocaine over land
+and that the cocaine is usually packaged in one-kilogram bricks when brought
+into Canada. He also explained typical methods of concealment, including the
+use of sophisticated hidden compartments. He described common methods of
+payment for cocaine shipments, the reasons why drug couriers are used, and
+common practices in their recruitment. He talked about the instructions that
+would typically be given to a drug courier, including the development of cover
+stories, and stated that the courier’s fee is typically negotiated with
+reference to the nature and size of the shipment. Sgt. Arsenault described the
+risks associated with cross-border transportation of cocaine, and in particular
+the risk of losing a shipment either because it is detected by the authorities
+or because it is stolen by a rival group. The appellant’s trial counsel did not
+object to any of this evidence, and it was not challenged on appeal. [78]                         
+At issue in this appeal is the following
+exchange between Crown counsel and Sgt. Arsenault (A.R., vol. III, at p. 144): Q  Officer, you described earlier that you’ve been involved in
+approximately 1,000 investigations involving the importation of cocaine over
+your 33-year career?  A  That is correct, Your
+Honour, yes.  Q  In approximately how many of those investigations were you able
+to determine that the person importing the cocaine did not know about the
+commodity that they were importing?  A  I have never encountered
+it, personally.  Q  Have you ever heard of a -- the use of a blind courier or a
+courier who doesn’t know about the commodity that he is driving?  A  I -- I’ve certainly heard that argument being raised on -- on
+occasion, primarily in court, not during my investigations. [79]                         
+In my view, Sgt. Arsenault’s evidence that he
+had never, in over 1,000 investigations, personally encountered a blind courier
+and that he had never heard of one outside of a courtroom strayed from what
+would be admissible expert evidence. This testimony was equivalent to a
+statement that individuals in the appellant’s position always know about the
+drugs. It is a short step from such evidence to an inference that the appellant
+must have known about the cocaine. Sgt. Arsenault’s evidence effectively
+amounted to an opinion that the accused possessed the requisite mens rea
+for the offence with which he was charged, which was the ultimate issue in this
+trial. Whether it was admissible therefore requires special scrutiny. [80]                         
+Applying the Mohan criteria, I conclude
+that this line of questioning should not have been permitted. The evidence was
+not necessary, as it was open to the trier of fact to draw the necessary
+inference concerning what the appellant knew or did not know. Nor was it
+relevant. Sgt. Arsenault’s opinion invited the trier of fact to find that
+the appellant knew about the cocaine on the basis that all people driving
+vehicles containing hidden drugs know about the drugs. This appeared relevant
+only because it depended on an improper inference. Sgt. Arsenault’s opinion
+that other individuals he has encountered in his investigations knew they were
+transporting illegal drugs does not logically establish that this accused
+possessed the mens rea for the offences with which he was charged. In
+addition to usurping the court’s role in resolving the issue of guilt or
+innocence, the opinion depended on an unacceptable and unfair inference. C.           
+Should the Curative Proviso Be Applied? [81]                         
+Sgt. Arsenault’s evidence concerning his lack of
+personal experience with blind couriers should not have been admitted.
+Regardless of the fact that counsel did not object to the questions, the trial
+judge erred in law in admitting this evidence. He compounded this error by
+expressly relying on it in convicting the appellant. He wrote this in his
+reasons: Sgt. Arsenault also testified that in
+the thousand or more cocaine-importing investigations he has been involved in
+he has never encountered a blind courier, that being a person who does not know
+the nature or existence of the commodity being moved from one location to
+another. [A.R., vol. I, at pp. 30-31] [82]                         
+All that remains is to determine whether the
+error occasioned a substantial wrong or miscarriage of justice, or whether
+s. 686(1) (b)(iii) of the Criminal Code , known as the
+curative proviso, should be applied to affirm the appellant’s convictions: 686.
+(1) On the hearing of an appeal against a
+conviction or against a verdict that the appellant is unfit to stand trial or
+not criminally responsible on account of mental disorder, the court of appeal  . . .  (b)
+may dismiss the appeal where  . . .  (iii)
+notwithstanding that the court is of the opinion that on any ground mentioned
+in subparagraph (a)(ii) the appeal might be decided in favour of the
+appellant, it is of the opinion that no substantial wrong or miscarriage of justice
+has occurred, . . . [83]                         
+I respectfully disagree with my colleague’s
+position. This is not an appropriate case for application of the proviso. [84]                         
+The proviso applies in two situations. The first
+is where the error is so minor or harmless that it could not have had a serious
+impact on the verdict. The second is where, although a serious error has been
+made, the evidence is nevertheless so overwhelming that no other verdict would
+have been possible (R. v. Sarrazin, 2011 SCC 54, [2011] 3 S.C.R.
+505, at para. 25; R. v. Van, 2009 SCC 22, [2009] 1 S.C.R. 716, at
+para. 34). [85]                         
+In the instant case, the Crown rightly concedes
+that the error was not a harmless or minor one that would have no impact on the
+verdict. The admission of improper evidence in this case cannot be considered
+“an error that is harmless on its face or in its effect” (Van, at para.
+35). Sgt. Arsenault’s evidence was a key piece of the Crown’s case, and his
+statement that he had never encountered a blind courier was specifically relied
+on by the trial judge in convicting the appellant (A.R., vol. I, at
+pp. 30-31). The evidence of experts, like that of all witnesses, often
+contains comments or observations that are inconsistent with the rules of
+evidence. In this case, however, the impugned observations were not unprompted
+or unanticipated. Crown counsel clearly directed Sgt. Arsenault’s evidence
+toward this prejudicial and inadmissible topic. This could not have helped but
+increase its impact, as the trial judge’s reasons show. This standard should not be equated
+with the ordinary standard in a criminal trial of proof beyond a reasonable
+doubt. The application of the proviso to serious errors reflects a higher
+standard appropriate to appellate review. The standard applied by an appellate
+court, namely that the evidence against an accused is so overwhelming that
+conviction is inevitable or would invariably result, is a substantially higher
+one than the requirement that the Crown prove its case “beyond a reasonable
+doubt” at trial. This higher standard reflects the fact that it is difficult
+for an appellate court, in particular when considering a jury trial, since no
+detailed findings of fact will have been made, to consider retroactively the
+effect that, for example, excluding certain evidence could reasonably have had
+on the outcome. [87]                         
+The Court has constantly refused to lower this
+standard, even upon being invited to do so, as it was in Sarrazin. In
+that case, it strongly reaffirmed the need to safeguard the integrity of the
+criminal justice system (paras. 25-26). The language of the curative proviso
+reflects Parliament’s concern to prevent the risk of a substantial wrong or
+miscarriage of justice. The high standard the Court has set reflects this
+purpose. [88]                         
+The error in Trochym occurred in the
+context of a jury trial, but even in a case involving a trial by judge alone,
+an appellate court must acknowledge that it is difficult to speculate on what
+effect exclusion of the evidence might have had on the judge’s findings of
+fact. This is especially true in cases such as the one at bar in which the
+evidence is circumstantial. [89]                         
+I cannot say with certainty that the result in
+this case would have been the same without Sgt. Arsenault’s evidence. Judge
+Dohm rejected the appellant’s evidence in its entirety and found that it did
+not raise a reasonable doubt. His reasons accordingly focused on whether the
+Crown’s evidence was sufficient to prove the appellant’s guilt beyond a
+reasonable doubt. This Court must do the same, applying the higher standard of
+an inevitable verdict. [90]                         
+The trial judge in this case gave
+well-articulated reasons. They underline the importance he attributed to Sgt.
+Arsenault’s testimony. He referred to three “very significant pieces of
+evidence” in his decision to convict the appellant (A.R., vol. I, at p. 30).
+The first of these was the amount of cocaine involved. He found it unlikely
+that the owners of the cocaine would have taken the risk of using a blind
+courier to transport it into Canada. The second was Sgt. Arsenault’s evidence,
+and in particular his testimony that he had never encountered a blind courier
+in over 1,000 investigations involving cocaine importing (pp. 30-31). The third
+key piece of evidence in the Crown’s case related to the appellant’s possession
+of the key fob. [91]                         
+I have already concluded that the trial judge
+erred in making use of the second of these pieces of evidence. As to the first
+one, although the value of the cocaine might support an inference that the
+drugs would not have been entrusted to a stranger, that is not the only
+conclusion that could be drawn from it. [92]                         
+Turning to the third piece of evidence, when the
+appellant was detained, he was in possession of the key fob. This fob was
+identified at trial as a remote control for a “Clifford” alarm system installed
+on the truck. According to the evidence of Det. Shawn Robson, it could be used
+to lock and unlock the vehicle’s doors, and to arm and disarm the alarm system
+(A.R., vol. III, at p. 122). If the buttons on the fob were pressed in a
+specific sequence, the compartment between the bed and the frame of the truck
+in which the cocaine was found would open. [93]                         
+When the appellant was initially detained, he
+handed the ignition key over to the customs officers. He produced the fob only
+when subsequently asked to empty his pockets. At that time, he immediately
+admitted that it was for the truck. The trial judge found that the fob and the
+ignition key “obviously go together” and that they had been attached by a chain
+until the appellant detached them when he turned off the ignition in the
+secondary inspection area (A.R., vol. I, at p. 31). He concluded that the
+appellant detached the key from the fob at that time in an attempt to hide the
+fob or conceal its connection with the truck, because he knew the fob opened
+the compartment. [94]                         
+In the Court of Appeal, the appellant challenged
+the trial judge’s use of the evidence about the fob, arguing that the judge had
+placed too much weight on it and had engaged in speculative reasoning with
+respect to it. The Court of Appeal dismissed this argument, and the point was
+not raised in this Court. Moldaver J. finds that this inference was open to the
+trial judge and that it was essentially conclusive of guilt (para. 55). [95]                         
+In my view, however, the issue in applying the
+curative proviso is not whether the trial judge could make the inference he did
+or whether that inference was determinative of guilt, but whether it was the
+only rational conclusion. I agree that the trial judge did not err in using
+this evidence as he did, but this was not the only conclusion supported by the
+evidence with respect to the fob. The appellant testified that the key and the
+fob had been attached when he received them from Chris, and the trial judge
+found that he had detached the key from the fob moments before handing the key
+over to the secondary inspection officer. But it does not inevitably follow
+that the judge’s finding of guilt depended primarily on these additional
+inferences as to when and how the fob came to be detached from the key. There
+was no evidence on these points, and the trial judge could just as well have
+drawn no inference from the fact that the appellant had not produced the fob
+immediately. Moreover, it is simply not possible for an appellate court to say
+that the judge’s assessment of this evidence was not affected by his reliance
+on the inadmissible evidence that blind couriers are never used. I cannot
+accept that the conclusion drawn by the trial judge was inevitable or that this
+evidence was therefore determinative of the appellant’s guilt. [96]                         
+There was of course other evidence capable of
+supporting a verdict of guilt, including a chewed-up piece of paper, the
+envelope mentioned above and the appellant’s ringing cell phone. As with the
+key fob, although the trial judge was entitled to draw the inferences he did
+from each of these pieces of evidence, each such inference undeniably involved
+some speculation. There was no evidence concerning the identity of the person
+who called the appellant’s cell phone, nor was there evidence with respect to
+the meaning of the information written on the envelope. Again, this evidence
+was capable of supporting a finding of guilt beyond a reasonable doubt, but in
+my view it would not inevitably lead to such a finding. [97]                         
+At the same time, there was also evidence
+favourable to the accused. For instance, he was not the registered owner of the
+truck and there was no evidence that he had ever previously been in possession
+of the truck. Furthermore, Sgt. Arsenault testified that drug couriers
+typically do not have criminal records, but the appellant did in fact have a
+prior conviction for dangerous driving. [98]                         
+I agree that ordering a new trial places demands
+on judicial resources, but, with respect, this cannot override the appellant’s
+right to a fair trial based solely on admissible evidence. The trial judge
+relied expressly on inadmissible evidence, and I cannot untangle his other
+inferences unfavourable to the appellant from his acceptance of that evidence,
+as he attached great importance to it. As we have seen, this was a serious
+error. If this Court excludes evidence described by the trial judge as one of
+the foundations of his conclusion that the appellant was guilty, it cannot then
+hold that the evidence against the appellant was nonetheless overwhelming without
+engaging in pure speculation. Such a conclusion would contradict what the trial
+judge himself wrote and would rest on an improper reweighing of the remaining
+evidence. With respect, the curative proviso does not permit this Court to deny
+a retrial in such circumstances. V.          
+Conclusion [99]                         
+For these reasons, I cannot agree that no
+substantial injustice would result from affirming the convictions. I would
+accordingly allow the appeal and order a new trial.                     Appeal
+dismissed, McLachlin C.J.
+and LeBel J.
+dissenting.                     Solicitors for the
+appellant:  Peck and Company, Vancouver.                     Solicitor for the
+respondent:  Attorney General of Canada, Vancouver.  [1] The reference to “Your Honour” appears to be a mistake.  The record
+indicates that Sgt. Arsenault was responding to Crown counsel’s question.  

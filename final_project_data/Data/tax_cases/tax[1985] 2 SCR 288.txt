@@ -1,0 +1,357 @@
+ The Queen v. Imperial General Properties Ltd., [1985] 2 S.C.R.
+288  Her Majesty The Queen     Appellant;  and  Imperial General Properties Limited (formerly Speedway Realty
+Corporation Limited)     Respondent.  File No.: 17627.  1985: April 30; 1985: October 31.  Present: Beetz, Estey, McIntyre, Chouinard, Lamer, Wilson and
+La Forest JJ.   on appeal from the federal court of appeal                       Held (McIntyre, Lamer
+and Wilson JJ. dissenting): The appeal should be allowed.    Cases cited  By the majority                     Minister of National Revenue v. Dworkin Furs
+(Pembroke) Ltd., [1967] S.C.R. 223; Oakfield
+Developments (Toronto) Ltd. v. Minister of National Revenue, [1971] S.C.R.
+1032, considered; Buckerfield’s Ltd. v. Minister of National Revenue,
+[1965] 1 Ex. C.R. 299; British American Tobacco Co. v. Inland Revenue
+Commissioners, [1943] 1 All E.R. 13; Donald Applicators Ltd. v. Minister
+of National Revenue, [1971] S.C.R. v, 71 DTC 5202, affirming [1969] 2 Ex.
+C.R. 43, 69 DTC 5122; Himley Estates, Ltd. v. Commissioners of Inland
+Revenue (1932), 17 T.C. 367, referred to.  By the minority   Statutes and Regulations Cited  Income and Corporation
+Taxes Act 1970, 1970 (U.K.), c. 10, s. 302(2)(a),
+(b), (c).  Income Tax Act, R.S.C. 1952, c. 148, s. 39(4)(a), (b) as amended by
+1960 (Can.), c. 43, s. 11(1).                      APPEAL from a judgment of the Federal Court of
+Appeal, [1984] 1 F.C. 402, [1983] CTC 27, 83 DTC 5055, dismissing an appeal
+from a judgment of the Federal Court Trial Division allowing an appeal from a
+decision of the Tax Review Board allowing in part appeals of the Minister's
+assessments. Appeal allowed, McIntyre, Lamer and Wilson JJ. dissenting.                     Ian MacGregor
+and Harry Erlichman, for the appellant.                     Wolfe D. Goodman, Q.C.,
+and Joanne E. Swystun, for the respondent.                     The judgment of Beetz, Estey, Chouinard and La
+Forest JJ. was delivered by                      39. ...                     (4)
+. . . one corporation is associated with another . . . if
+. . .                     (a)
+one of the corporations controlled the other,  The issue is simply, what is the applicable rate of taxation of the
+respondent? This in turn calls for a determination as to whether the respondent
+is associated with another company (Validor Limited) during any of the taxation
+years in question.  2.                Immediately prior to the December 1960
+reorganization discussed below, the respondent had in its charter but one class
+of shares and these shares were issued and outstanding as follows:  The Wingold family group:                                                                    90
+shares Meyer Gasner:               10 shares  Gasner was unrelated by blood or marriage to the Wingold family. He was
+a friend and business associate of one member of that family. The 100 shares
+then outstanding were issued from treasury for the consideration of $1,000 in
+total.   Validor (the Wingold family):                                                                 90
+common (one vote per share)                                                                              shares  Meyer Gasner:                                                                                      10
+common (one vote per share)                                                                              shares  Mr. and Mrs. Gasner:                                                                           80
+preference (one vote per share)                                                                              shares  In the result, the Wingold group held common shares according them 90
+votes, and the Gasners held 10 common shares and 80 preference shares according
+them, in all, 90 votes.  4.                The taxation years in question are 1962,
+1963, 1966 and 1967. The shareholdings and voting rights in the respondent
+during those years were as set out above. During those years the Board of
+Directors of the respondent consisted of four directors. Prior to December 1960
+all the directors were members of the Wingold family. From December 1960 to
+October 1968 two of the four directors were members of the Wingold family and
+the other two were Mr. and Mrs. Gasner. On October 31, 1968, after the fiscal
+years in question, all the Gasner shares, common and preference, were
+transferred to Validor, the preference shares being transferred for a total
+consideration of $88 made up of $80 par value and $8 dividends.  5.                The holders of the preference shares
+were entitled to one vote per share and to a fixed cumulative preferential
+dividend at the rate of 10 per cent per annum. On the liquidation or winding up
+of the company, the holder of a preference share was entitled to recover the
+par value of the preference share and any accumulated but unpaid dividends in
+priority to the common shares. The preference shareholder, however, was not
+entitled to participate in the distribution of any surplus in the corporation.
+Perhaps of the greatest significance is the further provision in the corporate
+charter of the respondent that the company may be wound up on a resolution for
+that purpose supported by 50 per cent of all voting rights in the company. The
+effect of this provision is that either the Wingolds (and later, Validor) or
+the Gasners could bring about a winding up of the respondent without cause.
+Upon the happening of that event, the Gasner family would receive the par value
+of their preference shares and any accumulated but unpaid dividends, whereas
+the Wingolds, and Meyer Gasner to the extent of his 10 per cent holding in
+common shares, would receive all the remaining assets of the respondent. The
+significance of this right is emphasized by the fact that the business of the
+respondent company was carried on by the Wingold family along with some
+seventeen other companies, all of which were amalgamated into the respondent
+company in October 1968. Thus the pain normally associated with corporate
+liquidation would not be a very significant factor here because the undertaking
+carried on by the respondent corporation, less the 10 per cent interest to be
+paid out to Meyer Gasner, would remain substantially intact and within the
+orbit of the Wingold companies. The Gasners on the other hand, by a liquidation
+(apart from the aforementioned 10 per cent common share interest held by Meyer
+Gasner), would receive their $80 investment in the preference shares plus any
+accrued but unpaid dividends which, in fact, never exceeded $8. It is against
+this background of fact that we turn to the law.  6.                The single issue arising on the facts in
+this appeal is whether, during the relevant period of time, Validor controlled
+the respondent for the purposes of s. 39(4).  7.                It has been long decided that for the
+purposes of this section of the Income Tax Act ". . . the
+word `controlled' contemplates the right of control that rests in ownership of
+such a number of shares as carries with it the right to a majority of the votes
+in the election of the Board of Directors"; per Jackett P. in Buckerfield’s
+Ltd. v. Minister of National Revenue, [1965] 1 Ex. C.R. 299, at p. 303,
+which was adopted by this Court in Minister of National Revenue v. Dworkin
+Furs (Pembroke) Ltd., [1967] S.C.R. 223, at p. 228, per Hall J. Hall
+J. at the same time adopted a somewhat broader concept of control from British
+American Tobacco Co. v. Inland Revenue Commissioners, [1943] 1 All E.R. 13,
+at p. 15, per Viscount Simon L.C.:  The owners of the majority
+of the voting power in a company are the persons who are in effective control
+of its affairs and fortunes.   9.                In Dworkin, supra, the
+Court was required to determine the applicable tax rate for several
+corporations, 50 per cent of whose voting shares were held by each of two
+groups. In each case neither group had the right to wind up the company or
+indeed to do anything else with reference to the affairs of the company or to
+its structure without the support of the voting power of the other group. In
+some instances there was indeed a casting vote in the president or chairman,
+but we are not concerned with that problem here for no person held such a
+right. The Court in effect found that, applying the Buckerfield test,
+none of these corporations was controlled for the purpose of s. 39(4) because
+the governing authority in the corporation was deadlocked as between the two
+groups. The Buckerfield test, it should be noted, was applied by Hall J.
+at the level of shareholders and not directors (Dworkin, supra,
+at p. 236).  10.              In Oakfield Developments (Toronto) Ltd.
+v. Minister of National Revenue, [1971] S.C.R. 1032, the Court was faced
+with precisely the same issue as in Dworkin. In Oakfield there
+were two classes of shares, common and preferred, the voting rights in respect
+of which were equal. One group held all the common shares and the other group
+held all the preferred shares. The preferred shareholders, as is the case here,
+had a priority over common shareholders to the extent of recovery of the
+capital represented by the preferred shares on a winding up, together with
+accumulated dividends, and a 10 per cent premium. Similarly, either the common
+shareholders or the preferred shareholders could, acting by themselves as a
+class, bring about the surrender of the corporate charter. On the surrender,
+the residual assets, after the prior repayment of capital and premium and
+accrued dividends to the preferred shareholders, went to the common
+shareholders. There was no question but that the holders of the preferred
+shares were unrelated by blood or marriage to the holders of the common shares.
+As was the case here, the preferred shareholders received their shares some
+years after the corporation was established. Again, in Oakfield, supra,
+there was no casting vote in the hands of any officer or shareholder. After
+weighing the respective voting and other rights of the common and preferred
+shareholders, Judson J., speaking for a unanimous Court, stated at p. 1037:   11.              In determining the proper application of
+s. 39(4) to circumstances before a court, the court is not limited to a highly
+technical and narrow interpretation of the legal rights attached to the shares
+of a corporation. Neither is the court constrained to examine those rights in
+the context only of their immediate application in a corporate meeting. It has
+long been said that these rights must be assessed in their impact "over
+the long run". See Thurlow J. (as he then was) in Donald Applicators
+Ltd. v. Minister of National Revenue, [1969] 2 Ex. C.R. 43, at p. 51,
+affirmed by this Court at [1971] S.C.R. v, 71 DTC 5202.  12.              Some comfort was sought by the respondent
+here in the judgment in Oakfield, supra, at p. 1037, where Judson
+J. stated, in distinguishing the Dworkin case, supra:  ...the voting was split
+equally between two groups also, but there was only one class of shares. Each
+group had the same de jure rights, and each shareholder was entitled to
+share rateably in the profits and assets of the company by dividends or on
+winding up. In addition, neither group could itself wind up the company.   13.              As in Oakfield, the continued
+existence, after the 1960 reorganization, of the right to terminate the
+corporate existence should the presence of the minority common and preference
+shareholders become undesirable to the 90 per cent common stockholder, Validor,
+is, in my view, the linchpin of the tax plan introduced following the 1960
+amendments to the tax statute. Control, in the real sense of the term, was not
+surrendered by the Wingolds (and their successor, Validor) in 1960 upon the
+issuance to the Gasner group of $80 in preference shares. Accordingly, the
+respondent remains controlled by Validor within the meaning of the term as it
+is employed by Parliament in s. 39(4).  14.              Counsel for the respondent argued that a
+finding on the facts herein that Validor controlled the respondent would amount
+to the judicial establishment of a new principle of law which would be
+substantially identical to legislation introduced by Parliament in the United
+Kingdom, and now found in s. 302(2) of the Income and Corporation Taxes Act
+1970, 1970 (U.K.), c. 10, as amended. That subsection provides:                     302. ...   (a)  the
+greater part of the share capital or issued share capital of the company or of
+the voting power in the company; or  (b)  such part
+of the issued share capital of the company as would, if the whole of the income
+of the company were in fact distributed among the participators (without regard
+to any rights which he or any other person has as a loan creditor), entitle him
+to receive the greater part of the amount so distributed; or  (c)  such
+rights as would, in the event of the winding up of the company or in any other
+circumstances, entitle him to receive the greater part of the assets of the
+company which would then be available for distribution among the participators.  15.              This provision is much broader in reach
+than the principles enunciated with respect to `control' in these reasons.
+Furthermore, the respondent submits that this legislation was enacted by the
+U.K. Parliament to replace the predecessor provision, in response to the
+decision in Himley Estates, Ltd. v. Commissioners of Inland Revenue
+(1932), 17 T.C. 367 (C.A.) This may have been the case, although the new
+provision first appeared more than thirty years after that judgment. In any
+event, no such situation exists in the Canadian context. The approach to
+`control' here taken does not involve any departure from prior judicial
+pronouncements nor does it involve any `alteration' of the existing statute.
+The conclusions reached above merely result from applying existing case law and
+existing legislation to the particular facts of the case at bar. The
+application of the `control' concept, as earlier enunciated by the courts, to
+the circumstances now before the court is, in my view, the ordinary progression
+of the judicial process and in no way amounts to a transgression of the
+territory of the legislator.  16.              We were also invited by counsel for the
+respondent to consider other combinations of share interests and to consider
+those combinations in the light of varying economic circumstances of a
+taxpayer. We are here concerned only with the corporate structure of the
+respondent in the tax years in question. The courts will deal with other
+combinations and circumstances if and when those circumstances do indeed come
+before the courts in future appeals.  17.              I therefore would allow the appeal and
+would restore the order of the Tax Review Board dismissing the appeals of the
+respondent from income tax assessments in respect of the taxation years 1962,
+1963, 1966 and 1967, with costs in this Court, in the Federal Court of Canada
+Trial Division and in the Federal Court of Appeal to the appellant.                      The reasons of McIntyre, Lamer and Wilson JJ. were
+delivered by       23.              Both the English cases relied on in Vancouver
+Towing dealt with the meaning of the expression "controlling
+interest" in the context of the Finance Act of the United Kingdom.
+However, it is clear from the judgments that the controlling interest was held
+to be the interest of the persons who "controlled" the company's
+affairs and that those persons were held in both cases to be the persons who,
+having the requisite voting power, could decide how the business of the company
+was to be carried on. Viscount Simon in British American Tobacco
+concluded at p. 15 that:  The owners of the majority
+of the voting power in a company are the persons who are in effective control
+of its affairs and fortunes.  Lord Russell of Killowen expressed the same view in Bibby at p.
+669:  When the section speaks of
+directors having a controlling interest in a company, what it is immediately
+concerned with in using the words "controlling interest" is not the
+extent to which the individuals are beneficially interested in the profits of
+the company as a going concern or in the surplus assets in a winding up, but
+the extent to which they have vested in them the power of controlling by votes
+the decisions which will bind the company in the shape of resolutions passed by
+the shareholders in general meeting. In other words, the test which is to
+exclude a company's business from subsect. (9)(a) and include it in (9)(b),
+is the voting power of its directors, not their beneficial interest in the
+company.   Lord Macmillan agreed with Lord Russell of Killowen, stating at p. 670:                     The
+control of a company resides in the voting power of its shareholders. In the
+respondent company the ordinary shares alone confer a right to vote at a
+general meeting. The directors are the registered proprietors of a majority of
+the ordinary shares. It would, therefore, appear to follow that the directors
+have a controlling interest in the company.                      What,
+my Lords, constitutes a controlling interest in a company? It is the power by
+the exercise of voting rights to carry a resolution at a general meeting of the
+company. Can the directors of the respondent company by the exercise of their
+voting rights carry such a resolution? Yes: for they are the registered holders
+of more than half the ordinary shares of the company. Therefore they have a
+controlling interest in the company.                     From
+this result the Crown seeks an escape by the contention that shares held by a
+director as trustee should not be included for the purpose of computing the
+controlling interest. In the appellants' argument in this House and in their
+formal reasons this absolute veto is qualified by the suggestion that, if the
+director has not only the legal ownership of shares but also a predominating
+beneficial interest in them, they may be brought into the count.                     My
+Lords, in my opinion the Crown's contention cannot be sustained. Those who by
+their votes can control the company do not the less control it because they may
+themselves be amenable to some external control. Theirs is the control, though
+in the exercise of it they may be guilty of some breach of obligation whether
+of conscience or of law. It is impossible (an impossibility long recognised in
+company law) to enter into an investigation whether the registered holder of a
+share is to any and what extent the beneficial owner. A clean cut there must
+be.                      Many
+approaches might conceivably be adopted in applying the word
+"control" in a statute such as the Income Tax Act to a
+corporation. It might, for example, refer to control by "management",
+where management and the Board of Directors are separate, or it might refer to
+control by the Board of Directors. The kind of control exercised by management
+officials or the Board of Directors is, however, clearly not intended by
+section 39 when it contemplates control of one corporation by another as well
+as control of a corporation by individuals (see subsection (6) of section 39).
+The word "control" might conceivably refer to de facto
+control by one or more shareholders whether or not they hold a majority of
+shares. I am of the view, however, that, in section 39 of the Income Tax Act,
+the word "controlled" contemplates the right of control that rests in
+ownership of such a number of shares as carries with it the right to a majority
+of the votes in the election of the Board of Directors. See British American
+Tobacco Co. v. I. R. C.... where Viscount Simon L. C., at page 15, says:                     The
+owners of the majority of the voting power in a company are the persons who are
+in effective control of its affairs and fortunes.  See also Minister of
+National Revenue v. Wrights’ Canadian Ropes Ld....per Lord Greene M.R. at
+page 118, where it was held that the mere fact that one corporation had less
+than 50 per cent of the shares of another was "conclusive" that the
+one corporation was not "controlled" by the other within section 6 of
+the Income War Tax Act.  25.              In Vineland Quarries and Crushed Stone
+Ltd. v. Minister of National Revenue 66 DTC 5092 (Ex. Ct.), Cattanach J.
+considered whether, when making a determination of de jure
+control under s. 39(4)(b), the Court could "look through" the
+corporate names on the register to find out who actually controlled voting
+power. In that case half the shares of the appellant company were owned by one
+Sauder and the other half by Bold Investments, all of the shares of which were
+owned by one Thornborrow. Half the shares of the Sauder and Thornborrow Company
+were owned by Thornborrow and the other half by the McMaster Company, all of
+the shares of which were owned by Sauder. The shares of the Verben Company were
+held half by Sauder and half by Thornborrow. The Minister assessed the
+appellant company, the Sauder and Thornborrow Company and Verben as associated
+corporations on the basis that all three companies were controlled by the same
+group of persons, namely Sauder and Thornborrow. The appellant's appeal was
+dismissed. Cattanach J. noted that in Bibby and British American
+Tobacco Ltd. the test of beneficial ownership had been rejected and
+concluded at p. 5098:                     In my
+view the word "controlled" in section 39(4)(b) contemplates and
+includes such a relationship as, in fact, brings about a control by virtue of
+majority voting power, no matter how that result is effected, that is, either
+directly or indirectly.                                                                      ...                     It
+would seem pointless to me to call a halt on finding in the share register of
+the appellant company and the share register of Sauder and Thornborrow Limited
+that in each instance 50% of the shares are held respectively by Bold
+Investments (Hamilton) Limited and McMaster Investments Limited when an
+examination of the share register of Bold Investments (Hamilton) Limited and
+McMaster Investment Limited reveals that all (or nearly all) the shares in
+those companies are held by Vernon Thornborrow and Benjamin Sauder
+respectively.                     On the
+authority of the British American Tobacco case, I do not think it is
+appropriate to end the inquiry after looking at the share registers of the
+appellant and Sauder and Thornborrow Limited. It is proper and necessary to look
+at the share registers of Bold Investments (Hamilton) Limited and Sauder and
+Thornborrow Limited to obtain an answer to the inquiry whether the appellant
+and the two other companies are controlled by the same "group of
+persons". Where the registered shareholder in the first instance is a body
+corporate, you must look beyond the share register.                      The
+word controlled as used in this subsection was held by Jackett P. to
+mean de jure control and not de facto control and
+with this I agree. He said in Buckerfield’s Limited et al v. Minister of
+National Revenue...                     Many
+approaches might conceivably be adopted in applying the word
+"control" in a statute such as the Income Tax Act to a
+corporation. It might, for example, refer to control by "management",
+where management and the Board of Directors are separate, or it might refer to
+control by the Board of Directors. The kind of control exercised by management
+officials or the Board of Directors is, however, clearly not intended by
+section 39 when it contemplates control of one corporation by another as well
+as control of a corporation by individuals (see subsection (6) of section 39).
+The word "control" might conceivably refer to de facto
+control by one or more shareholders whether or not they hold a majority of
+shares. I am of the view, however, that, in section 39 of the Income Tax Act,
+the word "controlled" contemplates the right of control that rests in
+ownership of such a number of shares as carries with it the right to a majority
+of the votes in the election of the Board of Directors. See British American
+Tobacco Co. v. I.R.C. (1943) 1 A.E.R. 13 where Viscount Simon L.C., at p.
+15, says:  "The owners of the
+majority of the voting power in a company are the persons who are in effective
+control of its affairs and fortunes."                     See
+also Minister of National Revenue v. Wrights’ Canadian Ropes Ld. (1947)
+A.C. 109 per Lord Greene M.R. at page 118, where it was held that the mere fact
+that one corporation had less than 50 per cent of the shares of another was
+"conclusive" that the one corporation was not "controlled"
+by the other within section 6 of the Income War Tax Act.                     This
+definition of controlled applies to all five appeals.                      It is
+clear in the light of Buckerfield that in these circumstances Dworkin
+Furs (Pembroke) Limited was not controlled by Dworkin Furs Ltd.  Hall J. noted with respect to one of the corporations that an
+arrangement between two 50 per cent shareholders would give one of them de
+facto control. As to this he said at p. 229:                     The
+arrangement or agreement between Wagenaar and Jager, while it might be said to
+give Wagenaar de facto control, did not give him de jure
+control, which is the true test....                        I can
+deal with the alternative submission by saying that in my opinion de facto
+control is not to be taken into account, that de jure control is
+what is contemplated by the statute and that in determining association for the
+purposes of the statute control itself and not some mere element or fragment of
+it is required to support a conclusion that corporations are in fact
+associated. This submission, in my opinion, accordingly fails.                                                                      ...                     The
+statement of the President of this Court in Buckerfield’s case, (1965) 1
+Ex. C.R. 299 at page 303 [64 DTC 5301 at page 5303], when he said "I am of
+the view, however, that in section 39 of the Income Tax Act, the word
+controlled contemplates the right that rests in ownership of such a number of
+shares as carries with it the right to a majority of the votes in the election
+of the board of directors" should, I think, be read and understood as
+applying to a case where the directors when elected have the usual powers of
+directors to guide the destinies of the company.                      I am
+not here concerned with the proposition that a corporation is a distinct legal
+entity separate from its shareholders, nor with any question of corporate capacity
+or power. I readily accept the undisputed proposition that no shareholder, even
+though he holds all the shares in a corporation, has any property, legal or
+equitable, in the assets of the corporation and the proposition that a
+corporation is not, as such, the agent or trustee for its shareholders.                     The
+question here is who "controlled" the appellant and Sauder and
+Thornborrow Limited. Is it Benjamin Sauder and Vernon Thornborrow, or is it
+Benjamin Sauder and Bold Investment (Hamilton) Limited and Vernon Thornborrow
+and McMaster Investments Limited.   32.              Quite apart from considerations of equity
+and fairness, I believe that the respondent makes a very valid point that a
+test of de facto control based on an evaluation of de jure
+rights in different corporate contexts and under different economic and
+business conditions is fraught with uncertainty. Indeed, it seems perfectly
+conceivable to me that, if such a test were adopted, de facto
+control could move from one group of shareholders to another depending upon the
+condition of the company from time to time.  33.              I would dismiss the appeal with costs.                     Appeal allowed, McIntyre, Lamer and Wilson
+JJ. dissenting.                     Solicitor for the appellant: Roger Tassé, Ottawa.                     Solicitors for the respondent: Goodman & Carr,
+Toronto.   

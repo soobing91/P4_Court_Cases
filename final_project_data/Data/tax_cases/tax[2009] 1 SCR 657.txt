@@ -1,0 +1,386 @@
+                                                   SUPREME
+COURT OF CANADA   Citation:  United
+  Parcel Service Canada Ltd. v. Canada, 2009 SCC 20, [2009] 1 S.C.R. 657  Date:  20090423 Docket:  32546  Between: United
+Parcel Service Canada Ltd. Appellant -and- Her
+Majesty The Queen Respondent   Coram: McLachlin
+C.J. and Binnie, LeBel, Deschamps, Fish, Abella, Charron, Rothstein and
+Cromwell JJ.   Reasons
+  for Judgment: (paras. 1 to 38)   Rothstein J.
+  (McLachlin C.J. and Binnie, LeBel, Deschamps, Fish, Abella, Charron and
+  Cromwell JJ. concurring) ______________________________ United Parcel Service Canada Ltd. v. Canada, 2009 SCC 20,
+[2009] 1 S.C.R. 657  United Parcel Service Canada Ltd.                                                                                   Appellant  v.  Her Majesty The Queen                                                                                                 Respondent  Indexed as:  United Parcel Service Canada Ltd. v.
+Canada  Neutral citation:  2009 SCC 20.  File No.:  32546.  2009:  January 15; 2009:  April 23.  Present:  McLachlin C.J. and Binnie, LeBel, Deschamps,
+Fish, Abella, Charron, Rothstein and Cromwell JJ.  on appeal from the federal court of
+appeal   UPS, in its capacity as a licensed customs broker,
+overpaid $2,937,123 in GST from February 1, 1996 to
+December 31, 1997.  The overpayments were due to errors attributable
+either to UPS or to its customers.  They were not collected by UPS from its
+customers.  Instead, UPS reported the overpayments in its monthly GST returns
+by deducting the amount of the overpayments from its own GST liability as a
+supplier of goods and services.  The Minister of National Revenue reassessed
+UPS for the period of February 1, 1996 until December 31, 1997
+and disallowed the deductions.  UPS successfully appealed to the Tax Court. 
+The Federal Court of Appeal overturned the Tax Court’s decision and dismissed
+UPS’s appeal from the Minister’s reassessment.  Held:  The appeal should
+be allowed.  UPS was entitled to a rebate of the overpayment.  While
+UPS was not the person liable for the GST, it was the person that paid an
+amount on account of GST within the meaning of s. 261(1)  of the Excise
+Tax Act .  That provision does not require an inquiry into liability for
+payment.  The consignees of UPS may well have the liability to pay the GST on
+the imported goods, but s. 261(1)  is worded broadly and it would not be in
+accordance with the ordinary and grammatical meaning of the provision to read
+it in such a way as to preclude persons who have actually paid or overpaid GST
+in error from obtaining a rebate.  [14] [16-17] [20]   Lastly, the intermingling of rebates under
+s. 261(1)  for overpaid GST on imported goods and for tax collected and
+remittable by UPS under Division II as a remitting supplier is authorized by
+the Excise Tax Act  itself.  The definition of “net tax” in
+s. 225(1)  provides that “an amount that may be deducted by the person
+under this Part” (namely, Part IX of the Act which includes both
+Division II “Goods and Services Tax” and Division III “Tax on
+Importation of Goods”) may be set off against tax collected by a person as a
+remitting supplier under Division II.  Rebates under s. 261(1)  are
+amounts that may be deducted under Division III in Part IX of the Excise
+Tax Act .  [35]  Cases Cited  Referred to:  West
+Windsor Urgent Care Centre Inc. v. R., 2005 TCC 405, [2005] G.S.T.C. 179,
+aff’d 2008 FCA 11, [2008] G.S.T.C. 5.  Statutes and Regulations Cited  Customs Act, R.S.C. 1985, c. 1 (2nd Supp .), ss. 58(5) , (6) , 60  to 65 .   APPEAL from a judgment of the Federal Court of Appeal
+(Pelletier, Nadon and Sexton JJ.A.), 2008 FCA 48, 372 N.R. 347, [2008] G.S.T.C.
+34, 2008 G.T.C. 1182, [2008] F.C.J. No. 178 (QL), 2008 CarswellNat 248,
+reversing a judgment of Bowman C.J.T.C., 2006 TCC 450, [2006] G.S.T.C. 146,
+2007 G.T.C. 660, [2006] T.C.J. No. 516 (QL), 2006 CarswellNat 3980. 
+Appeal allowed.  Jeff W. Galway
+and David E. Spiro, for the appellant.  Wendy Burnham, David
+Jacyk and Bonnie F. Moon, for the respondent.  The judgment of the Court was delivered by  Rothstein J. —  I.     Overview  [1]                       
+From February 1, 1996 to December 31, 1997, United Parcel Service Canada
+Ltd. (“UPS”), in its capacity as a licensed customs broker, overpaid $2,937,123
+in GST to the Minister of National Revenue on goods brought into Canada on
+behalf of  persons to whom it had delivered shipments from outside of Canada. 
+UPS reported the overpayments in its monthly GST returns by deducting the
+amount of the overpayments from its own GST liability as a supplier of goods
+and services.  On reassessment, in March 2000, the Minister disallowed these
+deductions.  UPS was out of pocket for the overpayments and did not seek
+reimbursement from its customers.  The issue is whether, in the circumstances
+of this case, UPS is entitled to a rebate of the overpayments.  In my opinion, 
+UPS is entitled to the rebate and  I would allow the appeal.  II.   Facts  [2]                       
+UPS provides delivery services to among others: (i) persons outside of
+Canada who request a shipment be picked up outside of Canada and delivered to
+an address within Canada (“shippers”) and (ii) persons in Canada who have
+received delivery of a shipment that is located outside of Canada at an address
+that is within Canada (“consignees”).  The term “customers” includes both
+shippers and consignees of delivered goods.  [3]                       
+In carrying on its business as a courier, UPS acts as a licenced customs
+broker for goods entering Canada from a foreign country.  With some regular
+consignees, UPS acted as a broker under the authority of a general agency
+agreement with these consignees.  With other  consignees, UPS acted as a broker
+through a one-time power of attorney from these consignees.  Acting as a
+broker, UPS was authorized to take all steps necessary to clear Canadian
+customs and to pay or remit duties and taxes on behalf of its customers.  Only
+the overpayment of GST is at issue in this appeal.  [4]                       
+It was not uncommon for there to be errors that resulted in the
+overpayment of GST.  According to the statement of agreed facts, there were
+many reasons for these overpayments, including wrong value for duty, returned
+shipments, Canadian goods returning to Canada, GST free goods and others.  The
+errors were attributable either  to UPS or to its customers.  [5]                       
+Until late 1996, UPS used two different methods to recover overpaid GST.
+Where the consignee was not a GST registrant, UPS would credit the consignee’s
+account for the amount of the overpayment after the error was discovered so
+that, as between UPS and the consignee, the consignee was only charged the
+correct GST.  UPS would then deduct the same amount against its own GST
+liability as a supplier of goods and services. [6]                       
+When there was an error pertaining to a consignee who was a GST
+registrant, UPS would credit the consignee’s account with the amount of the
+overpayment as it did for consignees who were not GST registrants.  However,
+instead of deducting the amount of the overpayment from its own GST liability,
+UPS would file documentation with the Minister to recover the amount of the
+overpayment.  The time between the date the rebate application was made and the
+time when UPS would receive the rebate varied from 30 days to one year.  [7]                       
+Commencing in late December 1996, UPS began treating GST registrants and
+non-registrants alike.  When an overpayment was discovered, UPS credited the
+consignee’s account for the amount of the overpayment so that all consignees
+would be charged only the correct amount of GST.  In all cases, UPS would then
+deduct the overpayment of GST from its own GST liability.  Under this
+procedure, UPS no longer filed GST rebate claims on behalf of any of the
+consignees.  It simply deducted all of the overpayments from its own GST
+liability in its monthly GST returns.  [8]                       
+During the period of February 1, 1996 to December 31, 1997, the GST paid
+in error amounted to $2,937,123.  III.  Decisions Below  [9]                       
+The Minister assessed UPS for the period of February 1, 1996 until
+December 31, 1997 and disallowed the amount of $2,937,123 which UPS had 
+deducted from its own GST liability.  By Notice of Decision, the Minister
+allowed an adjustment of $36,265, leaving a reassessed balance of $2,900,858. 
+In addition, the Minister assessed interest of $456,606.20 and a penalty of
+$632,229.77.  [10]                   
+UPS appealed to the Tax Court.  Chief Justice Bowman allowed the appeal
+(2006 TCC 450, [2006] G.S.T.C. 146).  The Federal Court of Appeal overturned
+Chief Justice Bowman’s decision and dismissed UPS’s appeal from the Minister’s
+reassessment (2008 FCA 48, [2008] G.S.T.C. 34).  IV.  Issue  [11]                   
+The issue is whether UPS is entitled to a rebate of $2,900,858 for the
+period February 1, 1996 to December 31, 1997.  V.   Analysis  [12]                   
+The Statement of Agreed Facts states in its preamble and at para. 27:   The parties
+also agree that the word “overpayment” as used below [in the statement of
+agreed facts] reflects an amount of GST that would not have been payable had
+the errors described in paragraph 19 below [in the statement of agreed facts]
+not been made.  The Respondent does not agree that the word “overpayment” as
+used below implies any right to the repayment of that amount to UPS or to
+anyone else.  . . .  27.       The amount of the GST overpayments for the 1996/1997 period
+that was offset against the amount of GST reported by UPS as shown on line 105
+of its GST return was $2,937,120.00 [after adjustment $2,900,858].  UPS did not
+collect those overpayments as GST from its customers.   [13]                   
+From these agreed facts, four conclusions may be drawn.  First, there
+were overpayments of GST in the 1996-1997 period amounting to $2,937,123. 
+Second, it was UPS that paid the overpayments to the Minister.  Third, UPS did
+not collect these overpayments of GST from its customers and it was “out of
+pocket” for these overpayments.  And fourth, the Minister did not agree that
+the word “overpayment” implied any right of repayment.  However, this does not
+detract from the Minister’s factual concession that there was an overpayment. 
+In a statement of agreed facts, it is the facts that are agreed upon, not the
+legal consequences of those agreed facts.  [14]                   
+The first question, then, is whether UPS was entitled to a rebate of the
+overpayment of $2,900,858 (after adjustment by the Minister) under the
+provisions of the Excise Tax Act, R.S.C. 1985, c. E-15 .  Section 261(1) 
+of the Excise Tax Act  provides that:  261. (1) 
+Where a person has paid an amount  (a) as
+or on account of, or  (b)
+that was taken into account as,  tax, net tax,
+penalty, interest or other obligation under this Part in circumstances where
+the amount was not payable or remittable by the person, whether the amount was
+paid by mistake or otherwise, the Minister shall, subject to subsections (2)
+and (3), pay a rebate of that amount to the person.    [15]                   
+On its face, subject to subss. (2) and (3), s. 261(1)  would appear to 
+support UPS’s claim that it was entitled to a rebate of the GST overpayment. 
+UPS paid an amount on account of GST on imported goods in circumstances where
+the  amount was not payable or remittable because it was an overpayment.  The
+overpayment resulted from mistakes by UPS and its customers.  In these
+circumstances, s. 261(1)  provides that the Minister shall pay a rebate of the
+amount of the overpayment.  [16]                   
+However, the Minister says that s. 261(1)  cannot be interpreted in a
+contextual vacuum.  The Minister’s first argument is that UPS was not the
+person who paid the amount on account of GST.  He says UPS as customs broker
+acted as an agent for the consignees  and that it was the consignees  who were
+liable to pay the GST and not UPS.  The Minister says that, for the purposes of
+s. 261(1) , the person who “has paid an amount” is the person who has the legal
+liability to pay, not the person who simply transmitted the money to the
+Minister.  [17]                   
+I cannot agree.  This argument would impose an inquiry into liability
+for payment instead of actual payment where no such inquiry is mandated by the
+statute.  It may well be that it was the consignees of UPS who had the
+liability to pay the GST on the imported goods.  But that does not detract from
+the fact that in actuality it was UPS — and UPS alone — who paid and was out of
+pocket for the GST.  At first blush, the words “or other obligation” in
+s. 261(1)  might be thought to import the notion of liability to pay.  However,
+the words “other obligation” must be read in the context of the provision as a
+whole.  Section 261(1)  applies where a person pays an amount as or on account
+of “tax, net tax, penalty, [or] interest”.  These terms refer to categories of
+amounts that are to be paid as or on account of obligations established by the Excise
+Tax Act .  In this context, “other obligation” simply refers to an
+obligation under Part IX of the Excise Tax Act  that is not specifically
+enumerated in s. 261(1) .  Actual liability is not relevant in this context
+since there is no liability to pay tax that was paid in error.  If the
+Minister’s argument were correct, a stranger who mistakenly paid GST on goods
+imported by someone else (perhaps because the names of two importers were
+similar) could not obtain a rebate.  It cannot have been the intention of
+Parliament that persons who were not liable for GST but paid GST in error could
+not obtain a rebate.  [18]                   
+The Minister relies on West Windsor Urgent Care Centre Inc. v. R.,
+2005 TCC 405, [2005] G.S.T.C. 179, aff’d 2008 FCA 11, [2008] G.S.T.C. 5, to
+argue that the only person entitled to a rebate is the person who was liable to
+pay the GST.  West Windsor does not stand for that proposition.  Rather,
+it stands for the proposition that the person who in fact paid and was out of
+pocket for the GST is the person that can claim a rebate under s. 261(1) .  [19]                   
+In West Windsor, Hershfield J. found that the appellant — a
+remitting supplier who sought a rebate under s. 261(1)  — had collected GST and
+remitted it to the Minister, but had not in fact paid it.  The appellant was a
+clinic that supplied infrastructure to physicians who in turn provided medical
+services paid by their patients or, more commonly, by insurers such as the Ontario
+Health Insurance Plan.  The physicians, as recipients of the clinic’s services,
+paid a fee to the clinic including GST and the clinic remitted these GST
+payments to the Minister.  Hershfield J. found that it was the physicians, not
+the clinic, who in fact paid the GST (West Windsor, at para. 49).  The
+clinic therefore lacked standing to seek a rebate under s. 261(1)  since it had
+simply collected and remitted the GST.  In this case, there is no doubt that it
+was UPS and UPS only who in fact overpaid the GST in error.  The overpayments
+were not collected by UPS from its customers.  [20]                   
+Section 261(1)  is worded broadly.  There is no limitation of the kind
+argued for by the Minister in the language of the provision.  Nothing in the
+context of s. 261(1)  supports such a limitation, nor has the Minister pointed
+to any other provision of the Excise Tax Act  or Customs Act,
+R.S.C. 1985, c. 1 (2nd Supp .), to support such a limitation.  It would not be
+in accordance with the ordinary and grammatical meaning of the provision to
+read s. 261(1)  in such a way as to preclude persons who have paid or overpaid
+GST in error from obtaining a rebate from the Minister.  [21]                   
+I would therefore conclude that UPS was the person that paid an amount
+on account of GST within the meaning of s. 261(1)  of the Excise Tax Act .  [22]                   
+The Minister’s second argument is that, in order to invoke s. 261(1) ,
+the amount paid must be an amount that was “not payable”.  The Minister says
+that until a designated customs officer has revised the amount of GST owing as
+the result of a reappraisal of the value of the goods or a redetermination of
+their tax status, the amount reported by UPS, even if incorrect, is deemed to
+be correct and is not subject to review except through the processes provided for
+in the Customs Act  (s. 58(5)  and (6) ) and the Excise Tax Act  (s.
+216(2)  and (6) ).  [23]                   
+Putting aside for a moment the issue of the procedure to obtain a rebate
+under the Excise Tax Act  and Customs Act , which I deal with as a
+third argument by the Minister, I would only observe at this point that the
+Minister’s position is contradicted by the facts in the record.  The Minister
+has agreed that the sum of $2,900,858 constituted overpayment of GST and that
+this amount would not have been payable had errors not been made.  The facts
+agreed to by the Minister come squarely within s. 261(1)  (subject to subss. (2)
+and (3)).  UPS paid $2,900,858 which was not payable due to mistakes.  In these
+circumstances, s. 261(1)  requires the Minister to rebate that amount to UPS.  [24]                   
+I turn to the Minister’s third argument which is that UPS did not follow
+the required procedure for obtaining a rebate and therefore was not entitled to
+a rebate under s. 261(1) .  Payment of a rebate under s. 261(1)  is “subject to
+subsections (2) and (3)”.  Under s. 261(2)(c), no rebate is to be paid
+under s. 261(1)  to the extent it is payable under s. 215.1(1)  or (2)  or s.
+216(6) .  Section 261(2)(c) provides that:  261. .
+. .  (2) A rebate in respect of an amount shall not be paid under subsection
+(1) to a person to the extent that                                                                              .
+. .  (c) a
+rebate of the amount is payable under subsection 215.1(1)  or (2)  or 216(6)  . .
+. .   [25]                   
+Under s. 261(3) an application for rebate must be made within two years
+after the day the overpayment was made.  Section 261(3) provides:  261. .
+. .  (3) A rebate in respect of an amount shall not be paid
+under subsection (1) to a person unless the person files an application for the
+rebate within two years after the day the amount was paid or remitted by the
+person.  [26]                   
+The Minister says s. 215.1(1)  and s. 216(6)  could have applied had the
+importers made a claim under these provisions.  He submits that a rebate would
+have been payable under s. 216(6)  in a number of categories (e.g.  incorrect
+value for duty, incorrect tariff classification, non-taxable goods, goods
+returned to Canada) or possibly under s. 215.1(1)  (e.g. goods imported on
+consignment, approval, sale or return basis or other similar terms) had UPS
+followed the procedures provided in ss. 60  to 65  of the Customs Act  or
+s. 215.1  of the Excise Tax Act .  He says a reappraisal or a
+redetermination would have been conducted by a designated customs officer had
+an application for a reappraisal or a redetermination been made by the importer
+within the time specified.  The Minister further submits that since a
+reappraisal or a redetermination of the goods was available under the regime
+prescribed in the Customs Act , recourse for seeking a rebate by the
+importer was through s. 215.1(1)  and s. 216(6) , not s. 261(1)  and that UPS did
+not follow the prescribed procedure to obtain rebates under either s.  215.1(1) 
+or s. 216(6) .  [27]                   
+Section 261(2)(c) provides that a rebate shall not be paid under
+s. 261(1)  where a rebate “is payable under subsection 215.1(1)  . . . or
+216(6)”.   The Minister argues that s. 261(2)(c) prevents a rebate claim
+from being filed under s. 261 where a rebate is available under s.
+215.1(1)  or under s. 216(6) .  However,  s. 261(2)(c) does not say that a
+rebate is not to be paid under s. 261(1)  where a rebate is available through
+another enumerated rebate provision.  Rather, s. 261(2)(c) says that a
+rebate under s. 261(1)  is not to be paid where a rebate  “is payable under
+subsection 215.1(1)  or (2)  or s. 216(6) ”.  No rebate is payable under
+those provisions because UPS did not  seek a rebate under either of them.  [28]                   
+I do not read s. 261(1)  or 261(2) (c) as precluding payment of
+rebates under s. 261(1)  just because a rebate could have been claimed under s.
+215.1(1)  or 216(6) .  In my view, s. 261(2)(c) was intended to avoid the
+double payment of rebates.  Obviously no one may claim the same rebate under
+both s. 215.1(1)  or 216(6)  and s. 261(1) .  But s. 261(2)(c) does not say
+that the only way in which a rebate may be obtained is under s. 215.1(1)  or
+216(6) .  It only says that no rebate is to be paid under s. 261(1)   “to the
+extent that . . . (c) a rebate of the amount is payable under subsection
+215.1(1)  or (2)  or  216(6) ”.  It seems to me to follow that  the Minister is
+required to pay a rebate under s. 261(1)   if no rebate is payable under s.
+215.1(1)  or (2)  or s. 216(6)  and the Minister agrees that a person has paid or
+overpaid an amount on account of GST that was not payable by reason of mistake.  [29]                   
+Further, s. 296(2.1) provides that in the assessment process,  if the
+Minister determines that a rebate would have been payable had it been claimed
+in an application, that it was not so claimed and that the period for claiming
+the rebate has expired, the Minister shall, unless otherwise requested, apply
+the rebate against the net tax of the person.  Section 296(2.1) provides:  296. .
+. .  (2.1) Where, in assessing the net tax of a person for a reporting
+period of the person or an amount (in this subsection referred to as the
+“overdue amount”) that became payable by a person under this Part, the Minister
+determines that  (a) an
+amount (in this subsection referred to as the “allowable rebate”) would have
+been payable to the person as a rebate if it had been claimed in an application
+under this Part filed on the particular day that is  (i) if the
+assessment is in respect of net tax for the reporting period, the day on or
+before which the return under Division V for the period was required to be
+filed, or  (ii) if the
+assessment is in respect of an overdue amount, the day on which the overdue
+amount became payable by the person,  and, where
+the rebate is in respect of an amount that is being assessed, if the person had
+paid or remitted that amount,  (b)
+the allowable rebate was not claimed by the person in an application filed
+before the day notice of the assessment is sent to the person, and  (c)
+the allowable rebate would be payable to the person if it were claimed in an
+application under this Part filed on the day notice of the assessment is sent
+to the person or would be disallowed if it were claimed in that application
+only because the period for claiming the allowable rebate expired before that
+day,  the Minister shall apply all or part of the allowable rebate against that
+net tax or overdue amount as if the person had, on the particular day, paid or
+remitted the amount so applied on account of that net tax or overdue amount.  [30]                   
+As I read s. 296(2.1), even if no application for a rebate was made
+within the applicable limitation period, the rebate shall be applied by the
+Minister against the net tax owed by the taxpayer in the reassessment process
+if the Minister determines that a rebate would have been payable had it been
+claimed.  The section refers to “allowable rebate”.  Allowable rebate must mean
+a rebate that would have been allowable had the applicable procedure been
+followed.  In other words, where these procedures have not been followed, it is
+not fatal to the rebate claim.  [31]                   
+In the circumstances of this case, s. 215.1(1)  and s. 216(6)  were not
+applicable because no application was made under s. 215.1(1)  and no reappraisal
+or redetermination by a Customs officer was made under s. 216(6) .  Further, no
+application was filed by UPS within the time limit provided by s. 261(3).  [32]                   
+Because no application was made under s. 215.1(1) , s. 216(6)  or within
+the time limit provided by s. 261(3) , s. 261(1)  and s. 296(2.1)  were
+applicable.  Section 296(2.1)(c) expressly relieves against the time
+limit of two years provided for in s. 261(3).  [33]                   
+The Minister has agreed that $2,900,858 is an overpayment and was not
+payable. The Minister has also agreed that UPS did not collect the overpayment
+from its customers.  By necessary implication, these concessions must mean that
+had the appropriate procedures been followed, the rebate would have been
+allowable.  In these circumstances, the Minister was obliged to apply the
+rebate to the net tax assessed against UPS pursuant to s. 261(1)  and s.
+296(2.1) .  [34]                   
+In this case, the fact and the amount of the overpayment of GST by UPS 
+were conceded by the Minister in the Statement of Agreed Facts.  In another
+case, a party that has been reassessed and who wishes to rely on s. 261(1)  and
+s. 296(2.1)  may have to prove the fact and the amount of overpayment by leading
+evidence.  Although one might question why the Excise Tax Act  would
+permit a party to lead evidence to establish that there was an allowable rebate
+for the purposes of s. 261(1)  and s. 296(2.1)  instead of following other
+procedures provided for in the Excise Tax Act  or the Customs Act ,
+I am compelled to reach this conclusion based on the text and context of s.
+261(1)  and s. 296(2.1) .  [35]                   
+The Minister further submits that there is “no statutory basis for
+intermingling Division II tax collected in respect of the appellant’s own
+supplies of goods and services and deemed held in trust for Her Majesty, with
+Division III tax paid by importers on their importation of goods”.  However,
+this “intermingling” is provided for by the terms of the Excise Tax Act  itself.
+The definition of “net tax” in s. 225(1)  provides that “an amount that may be
+deducted by the person under this Part” — namely  Part IX of the Excise Tax
+Act  (which includes both Division II “Goods and Services Tax” and Division
+III “Tax on Importation of Goods”) — may be set off against tax collected by a
+person as a remitting supplier under Division II.  Rebates under s. 261(1)  are
+amounts that may be deducted under Division III in Part IX of the Excise Tax
+Act .  In other words, the “intermingling” of rebates under s. 261(1)  for
+overpaid GST on imported goods and tax collected and remittable by UPS as a
+remitting supplier is authorized by the Excise Tax Act  itself.  [36]                   
+One of the Minister’s concerns is that any of UPS’s customers could have
+claimed a rebate or input tax credit for the same rebate claim made by UPS and
+that there would be no way of knowing this without undertaking an audit of each
+and every customer.  He says that any agreement between UPS and its customers
+not to claim a rebate is simply a private agreement that cannot override
+statutory provisions.  I agree with the Minister that a private agreement
+cannot override statutory provisions.  But that is not the point.  The Minister
+is essentially arguing that a customer of UPS could fraudulently claim a rebate
+or an input tax credit knowing that UPS had already made a claim for the same
+rebate.  A person who fraudulently sought a rebate of a GST overpayment or an
+input tax credit would be subject to criminal sanctions.  With respect, I do
+not think it lies in the mouth of the Minister to raise such an argument on the
+facts of this case where he has agreed that there has been an overpayment and
+where his position is that he is entitled to retain overpaid  GST.  In any
+event, if this is a matter of concern to the Minister, he may ask Parliament to
+amend the Excise Tax Act  to address it.  [37]                   
+Where the Minister has admitted the underlying facts for a s. 261(1) 
+rebate and where subss. (2) and (3) of s. 261 were not applicable, the
+conclusion must be that there was an allowable rebate within the meaning of s.
+261(1)  and s. 296(2.1)  and that the rebate should be applied to reduce the net
+tax otherwise payable.  The Minister should have allowed the amount of the
+rebate of $2,900,858 to reduce the GST otherwise  remittable by UPS.  VI.  Conclusion  [38]                   
+I would allow the appeal, set aside the decision of the Federal Court of
+Appeal, restore the decision of the Tax Court and disallow the Minister’s
+reassessment in its entirety.  UPS is entitled to its costs in this Court and
+the courts below.  Appeal allowed with costs.  Solicitors for the appellant:  Blake, Cassels & Graydon,
+Toronto.  Solicitor for the respondent:  Department of Justice,
+Ottawa.    

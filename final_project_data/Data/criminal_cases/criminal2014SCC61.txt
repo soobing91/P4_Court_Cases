@@ -1,0 +1,1047 @@
+  SUPREME
+COURT OF CANADA  Citation:  R. v. Steele, 2014 SCC 61, [2014] 3 S.C.R. 138 Date: 20141009 Docket: 35364  Between: Her
+Majesty The Queen Appellant and John
+Melville Steele Respondent - and - Attorney
+General of Canada and Attorney General of Ontario Interveners  Coram: McLachlin C.J. and Abella, Rothstein, Cromwell, Moldaver,
+Karakatsanis and Wagner JJ.  Reasons
+  for Judgment: (paras. 1 to 72) Wagner J. (McLachlin C.J. and Abella,
+  Rothstein, Cromwell, Moldaver and Karakatsanis JJ. concurring)    r. v. steele, 2014
+SCC 61, [2014] 3 S.C.R. 138 Her Majesty The Queen                                                                                 Appellant v. John Melville Steele                                                                                     Respondent and Attorney General of Canada and Attorney General of Ontario                                                                       Interveners Indexed as:  R. v.
+Steele 2014 SCC 61 File No.:  35364. 2014:  April 17; 2014:  October 9. Present:  McLachlin C.J. and Abella, Rothstein, Cromwell, Moldaver,
+Karakatsanis and Wagner JJ. on appeal from the court of appeal for manitoba                     Criminal law — Sentencing — Dangerous
+offender — Application for remand for assessment — Meaning of “serious personal
+injury offence” — Whether robbery committed by using threats of violence to a
+person falls within the meaning of “serious personal injury offence” — Criminal
+Code, R.S.C. 1985, c. C-46, ss. 343 (a), 752  “serious personal injury offence”,
+752.1(1)                     S
+robbed a drugstore, telling the cashiers that he had a gun. There is no
+evidence that he actually had a gun or that physical force was used. No one was
+injured. One of the cashiers testified that she had been scared during the
+robbery, while the other described her reaction as one of shock. S was
+convicted of robbery under s. 343 (a) of the Criminal Code  on the
+basis that he had “use[d] . . . threats of violence to a person”. The
+Crown applied to the court to remand him for assessment pursuant to s. 752.1(1) 
+of the Criminal Code . Both the trial judge and the Court of Appeal found
+that a threat of violence does not on its own constitute “the use or attempted
+use of violence” in accordance with subpara. (a)(i) of the definition of
+“serious personal injury offence” in s. 752  of the Criminal Code .                     Held: 
+The appeal should be allowed.                     This case concerns the scope of the definition
+of a “serious personal injury offence” (SPIO) and, consequently, the threshold
+for entry into the dangerous and long-term offender system. A threat of
+violence that suffices to ground a conviction for robbery under s. 343 (a)
+does indeed constitute the use of violence against another person within the
+meaning of subpara. (a)(i) of the definition of an SPIO set out in s. 752 .                     Indeterminate
+detention and long-term supervision are exceptional sentences which are
+reserved for individuals who pose an ongoing threat to the public. There are a
+number of procedural steps and substantive requirements before a court can find
+that an offender is a dangerous offender or a long-term offender. Before the
+court remands an offender for assessment, it must be satisfied that the
+offender has been convicted of an SPIO as defined in s. 752 . There also must be
+reasonable grounds to believe that the offender might be found to be a
+dangerous offender under s. 753 or a long-term offender under s. 753.1. Thus,
+the SPIO requirement plays a crucial role in the operation of the dangerous and
+long-term offender scheme.                     The
+primary rationale for both indeterminate detention and long-term supervision
+under Part XXIV is public protection, and an overly narrow construction of the gateway
+provision would indeed undermine this purpose. However, the specific purpose of
+the SPIO requirement is to link the sentence to the predicate offence, and an
+overly broad construction would undermine this purpose and violate the
+fundamental principle of sentencing, that a sentence must be proportionate to
+the gravity of the offence and the degree of responsibility of the offender.
+The SPIO requirement helps safeguard the constitutionality of the scheme. In
+interpreting the definition of an SPIO, effect must be given to the overall
+protective purpose of Part XXIV, while also furthering the specific purpose of
+the SPIO requirement by tying the punishment to the predicate offence and
+safeguarding the objective of proportionality.                     Subparagraph
+(a)(i) of the definition in s. 752  does not invite a court to assess the
+seriousness of the violence the offender used or attempted to use; any level of
+violence is sufficient. The words “use or attempted use of violence” must be
+read in their grammatical and ordinary sense, having regard to their statutory
+context. Neither the purpose of the SPIO requirement nor that of Part XXIV
+warrants reading in a qualitative minimum level of violence. This
+interpretation is consistent with the gatekeeper function of the SPIO requirement.                     Unless
+the context or the purpose of the statute suggests a different approach, the
+prevailing definition of “violence” is a harm-based one that encompasses acts
+by which a person causes, attempts to cause or threatens to cause harm and not
+a force-based one. This is not to say that the definition of violence must be a
+harm-based one in every case. Context will be paramount and there may be
+situations in which the presumption of consistent expression is clearly
+rebutted by other principles of interpretation and, as a result, the intended
+meaning of violence may vary between statutes and even, in some circumstances,
+within them. The scope of the expression “use or attempted use of
+violence” must ultimately be determined having regard to the context in which
+it is used.                     There is no
+indication that the various parts of the definition of an SPIO in s. 752  are
+mutually exclusive. The fact that a proposed interpretation would bring some
+offences within the ambit of more than one part of the definition in s. 752 
+should not, in itself, justify narrowing the definition to avoid such overlaps.
+Subparagraph (a)(i) concerns violent acts — “the use or attempted use of
+violence” — and requires violent intent on the offender’s part. This part of
+the definition will apply to an offender who intentionally causes,
+attempts to cause or threatens to cause harm. Threats are included by virtue of
+the speaker’s intent that they be taken seriously. Subparagraph (a)(ii)
+relates solely to the effects of the conduct and, as such, will include offences
+involving negligence. Therefore, a harm-based approach to subpara. (a)(i)
+according to which threatening violence constitutes a form of use of violence
+is not inconsistent with the endangerment and psychological damage aspects of
+the definition in subpara. (a)(ii).                     The exclusion of
+robbery from the offences listed in para. (b) of the definition is not
+relevant to the determination of legislative intent. There is no indication
+that Parliament intended to create an exhaustive list of all offences
+constituting SPIOs in all cases.                     The Court
+of Appeal relied on the presumption that the use of different language suggests
+that the legislature intended different meanings and the principle that the
+same words have the same meaning throughout a statute; however, it failed to
+take into account the full context in which the expressions “uses violence” and
+“use of violence” appear in s. 343  and subpara. (a)(i) of the
+definition of an SPIO in s. 752 . The two provisions are in unrelated parts of
+the Criminal Code , and they have distinct purposes and legislative
+histories. The Court of Appeal’s approach is also inconsistent with the
+principles of statutory interpretation and would result in untold difficulties
+for trial judges seeking to establish the elusive dividing line between threats
+that are inherently violent and those that are not. It is
+moreover incompatible with the plain meaning and the purpose of the provision.
+All threats of violence are themselves violent, even though the seriousness of
+the violence may be quite limited. In seeking to distinguish violent from non-violent
+threats, courts are in effect reading in an objective minimum level of
+violence. The Court of Appeal’s interpretation is inconsistent with the clear
+language of subpara. (a)(i) of the definition, which requires violence,
+not serious violence, and it risks undermining the overall purpose of Part XXIV
+by precluding courts from remanding potentially dangerous offenders for
+assessment.                     Threats of violence
+to a person that are sufficient to ground a conviction for robbery under s. 343 (a)
+meet the “use . . . of violence” criterion in subpara. (a)(i)
+of the definition of an SPIO in s. 752 . By threatening to harm his victims while committing robbery, S used
+violence against them. Since the other requirements of the definition are
+clearly met, his offence qualifies as an SPIO. Cases Cited                     Discussed:
+R. v. C.D., 2005 SCC 78, [2005] 3 S.C.R. 668; referred to:  R. v. Neve, 1999 ABCA 206, 71 Alta. L.R. (3d) 92; R. v.
+Goforth, 2005 SKCA 12, 257 Sask. R. 123; R. v. Lebar, 2010 ONCA 220,
+101 O.R. (3d) 263; R. v. Thompson, 2009 ONCJ 359 (CanLII); R. v. Roy,
+2008 SKCA 41, 307 Sask. R. 276; R. v. Jolicoeur, 2011 MBQB 129, 265 Man.
+R. (2d) 225; R. v. Currie, [1997] 2 S.C.R. 260; R. v. Cepic, 2010
+ONSC 561, 93 M.V.R. (5th) 129; Hatchwell v. The Queen, [1976] 1
+S.C.R. 39; R. v. Lyons, [1987] 2 S.C.R. 309; R. v. Sipos, 2014
+SCC 47, [2014] 2 S.C.R. 423; R. v. Ipeelee, 2012 SCC 13, [2012] 1 S.C.R.
+433; R. v. Johnson, 2003 SCC 46, [2003] 2 S.C.R. 357; R. v.
+Smith, 2012 ONCA 645 (CanLII); R. v. McRae, 2013 SCC 68, [2013] 3 S.C.R. 931; R. v. Keegstra, [1990] 3 S.C.R. 697; R. v. Khawaja, 2012 SCC
+69, [2012] 3 S.C.R. 555; R. v. Goulet, 2011 ABCA 230, 52 Alta.
+L.R. (5th) 241; R. v. J.Y. (1996), 141 Sask. R. 132; R. v. O’Keefe,
+2011 NLCA 41, 309 Nfld. & P.E.I.R. 253. Statutes and Regulations Cited Canadian
+Charter of Rights and Freedoms, s. 2 (b). Criminal
+Code, R.S.C. 1985, c. C-46, ss. 249(3) , 264.1(1) (a), (2) (a), 343 ,
+344 , 742.1 , Part XXIV, 752 “serious personal injury offence”, 752.1(1), 753,
+753.1, 754(1)(a), (b). Youth
+Criminal Justice Act, S.C. 2002, c. 1, s. 39(1) (a). Authors Cited Driedger, Elmer A.  Construction of Statutes, 2nd ed. 
+Toronto:  Butterworths, 1983. Oxford English Dictionary, 2nd ed.  Oxford:  Clarendon Press, 1989, “violence”. Petit Robert:  dictionnaire alphabétique et analogique de la langue
+française, nouvelle éd.  Paris:  Le Robert,
+2012, “violence”. Scassa, Teresa.  “Violence Against Women in Law Schools” (1992), 30 Alta.
+L. Rev. 809. Sullivan, Ruth.  Sullivan on the Construction of Statutes,
+5th ed.  Markham, Ont.:  LexisNexis, 2008.                     APPEAL
+from a judgment of the Manitoba Court of Appeal (Scott C.J.M. and Beard and
+Monnin JJ.A.), 2013 MBCA 21, 288 Man. R. (2d) 304, 564 W.A.C. 304, [2013] 5
+W.W.R. 635, [2013] M.J. No. 77 (QL), 2013 CarswellMan 108, affirming a decision
+of McKelvey J., 2011 MBQB 181, 267 Man. R. (2d) 91, [2011] M.J. No. 250 (QL),
+2011 CarswellMan 403.  Appeal allowed.                     Ami Kotler and Neil Steen, for the appellant.                     J. David L. Soper and Amanda Sansregret, for the respondent.                     Jeffrey G. Johnston, for the intervener the
+Attorney General of Canada.                     Leslie Paine and Michelle Campbell, for the intervener the
+Attorney General of Ontario.                     The
+judgment of the Court was delivered by                     Wagner J. — I.             
+Introduction [1]                             
+Indeterminate detention and long-term
+supervision under Part XXIV of the Criminal Code, R.S.C. 1985, c. C-46 ,
+are exceptional sentences in our criminal justice system. They are reserved for
+individuals who pose an ongoing threat to the public and accordingly merit
+enhanced sentences on preventive grounds. Part XXIV outlines the process by
+which an offender may be designated as a dangerous offender or a long-term
+offender and be sentenced accordingly. Before either of these designations can
+be made, a number of conditions must be met. One such condition is that the
+offence that forms the basis for the dangerous offender or long-term offender
+application must be a “serious personal injury offence” as defined in s. 752  of
+the Criminal Code . [2]                             
+The term “serious personal injury offence”
+means, inter alia, an indictable offence involving “the use or attempted
+use of violence against another person” for which the offender may be sentenced
+to imprisonment for 10 years or more: s. 752 , subpara. (a)(i) of the
+definition of “serious personal injury offence” (“SPIO”). On application by a
+prosecutor, where an individual has been convicted of such an offence, and if
+the court finds that there are reasonable grounds to believe that the
+individual might be found to be a dangerous offender or a long-term offender,
+the court must remand the individual for a psychological assessment: s. 752.1(1) .
+This assessment then forms the basis for an application for a finding that the
+individual is a dangerous offender or a long-term offender. [3]                             
+This case concerns the scope of the definition
+of an SPIO and, consequently, the threshold for entry into the dangerous and
+long-term offender system. The offender, Mr. Steele, robbed a drugstore,
+telling the cashiers that he had a gun. There is no evidence that he actually
+had a gun or that physical force was used. Mr. Steele was convicted of robbery
+under s. 343 (a) of the Criminal Code  on the basis that he had
+“use[d] . . . threats of violence to a person”. The Crown, viewing
+this as an SPIO, gave notice of its intention to apply to the court to remand
+Mr. Steele for assessment pursuant to s. 752.1(1) . Mr. Steele’s offence
+clearly meets two of the requirements of the definition of an SPIO referred to
+above: robbery is an indictable offence for which the offender may be sentenced
+to imprisonment for 10 years or more (see s. 344 ). The question is whether the
+offence — which involved threats of violence to a person, but no physical force
+— meets the other requirement of that definition: that of involving “the use or
+attempted use of violence against another person”. [4]                             
+Both the trial judge and the Court of Appeal
+answered this question in the negative. They found, in essence, that a threat
+of violence does not on its own constitute “the use or attempted use of
+violence”. For the reasons that follow, I respectfully disagree. [5]                             
+A threat of violence that suffices to ground a
+conviction for robbery under s. 343 (a) does indeed constitute the use of
+violence against another person within the meaning of subpara. (a)(i) of
+the definition of an SPIO set out in s. 752 . By threatening to harm his victims
+while committing robbery, Mr. Steele used violence against them. Since the
+other requirements of the definition are clearly met, his offence qualifies as
+an SPIO. [6]                             
+In the result, I would allow the Crown’s appeal.
+The other requirements for the Crown’s application for remand for an assessment
+have not been contested, which means that all the requirements are met. I would
+therefore grant the application and order that Mr. Steele be remanded for
+assessment pursuant to s. 752.1(1)  of the Criminal Code . II.          
+Relevant Statutory Provisions [7]                             
+The dispute over the definition of an SPIO
+arises in the context of the Crown’s application for remand for an assessment,
+which is a step that must be taken before applying for a finding that an
+offender is a dangerous offender or a long-term offender: 752.1 (1) [Application for remand for assessment]
+On application by the prosecutor, if the court is of the opinion that there are
+reasonable grounds to believe that an offender who is convicted of a serious
+personal injury offence or an offence referred to in paragraph 753.1(2)(a)
+might be found to be a dangerous offender under section 753 or a long-term
+offender under section 753.1, the court shall, by order in writing, before
+sentence is imposed, remand the offender, for a period not exceeding 60 days,
+to the custody of a person designated by the court who can perform an
+assessment or have an assessment performed by experts for use as evidence in an
+application under section 753 or 753.1. [8]                             
+The requirements of the definition of an SPIO
+must be met both at the stage of the application for an assessment (s.
+752.1(1) ) and, subsequently, at that of the application for a finding that the
+offender is a dangerous offender (s. 753(1)). The definition reads as follows: 752. [Definitions] In this Part, . . .  “serious personal injury
+offence” means  (a)   an
+indictable offence, other than high treason, treason, first degree murder or
+second degree murder, involving  (i)
+the use or attempted use of violence against another person, or  (ii)
+conduct endangering or likely to endanger the life or safety of another person
+or inflicting or likely to inflict severe psychological damage on another
+person,  and
+for which the offender may be sentenced to imprisonment for ten years or more,
+or  (b)    an offence or attempt to commit an
+offence mentioned in section 271 (sexual assault), 272 (sexual assault with a
+weapon, threats to a third party or causing bodily harm) or 273 (aggravated
+sexual assault). [9]                             
+The offence of robbery under s. 343  encompasses
+a number of different acts. Section 343  reads as follows: 343. [Robbery]
+Every one commits robbery who  (a) steals, and for the purpose of extorting whatever is
+stolen or to prevent or overcome resistance to the stealing, uses violence
+or threats of violence to a person or property;  (b)
+steals from any person and, at the time he steals or immediately before or
+immediately thereafter, wounds, beats, strikes or uses any personal violence to
+that person;  (c)
+assaults any person with intent to steal from him; or  (d)
+steals from any person while armed with an offensive weapon or imitation
+thereof. III.       
+Background [10]                         
+The key facts are not in dispute. At
+approximately 1:35 p.m. on May 28, 2010, Mr. Steele entered a drugstore with
+his face concealed by a tightly drawn hoodie, as could be seen on a
+surveillance videotape. He approached the checkout counter and said something
+like, “Give me the money. It’s a robbery. I have a gun”. The cashier was unable
+to open the register and requested the assistance of another cashier, who
+opened it and positioned the cash tray so that Mr. Steele could reach it.  Mr.
+Steele left the store approximately one minute and ten seconds after entering
+it. He was at the checkout counter for 39 seconds. [11]                         
+No weapon was seen in Mr. Steele’s possession
+either inside or outside the store. No one was injured. One of the cashiers
+testified that she had been scared during the robbery, while the other
+described her reaction as one of shock. [12]                         
+Mr. Steele was convicted of robbery, disguise
+with intent and failure to comply with a probation order: 2011 MBQB 67. The
+Crown then applied to the court to remand him for assessment pursuant to s.
+752.1(1)  of the Criminal Code . A.          
+Manitoba Court of Queen’s Bench, 2011 MBQB 181, 267
+Man. R. (2d) 91 [13]                         
+McKelvey J. denied the Crown’s application. She
+began her analysis by noting that the legislature has not specified that
+robbery is an SPIO, as it has done in para. (b) of the definition of an
+SPIO with respect to certain sexually based offences. She then said that there
+was no evidence that Mr. Steele’s conduct had endangered or been likely to
+endanger the lives or safety of the cashiers or that severe psychological
+damage had been inflicted on them within the meaning of subpara. (a)(ii)
+of the definition. The case therefore turned on subpara. (a)(i). Did Mr.
+Steele’s conduct involve the use or attempted use of violence against the
+cashiers? [14]                         
+On this question, McKelvey J. acknowledged two
+lines of authority. According to the first, that of R. v. Neve, 1999
+ABCA 206, 71 Alta. L.R. (3d) 92, the “use or attempted use of violence”
+threshold requires that the violence be “objectively serious” (para. 76). The
+second, that of R. v. Goforth, 2005 SKCA 12, 257 Sask. R. 123, and R.
+v. Lebar, 2010 ONCA 220, 101 O.R. (3d) 263, rejects this requirement.
+McKelvey J. noted (at para. 11) that “[t]he case law is trending towards an
+acceptance of [the latter approach]”, according to which the expression “use or
+attempted use of violence” encompasses all violent conduct irrespective of how
+serious it is. [15]                         
+McKelvey J. nevertheless found that the “implied
+threat of violence” (para. 28) in the case at bar fell short of the subpara. (a)(i)
+threshold. She noted that no one had been injured. Although Mr. Steele’s hands
+were in his pockets when he uttered the threat, he had done nothing that could
+be likened to pulling out a weapon. McKelvey J. accepted that the two cashiers
+had experienced shock and fear as a result of Mr. Steele’s actions, but
+nevertheless concluded that those actions had not constituted the use or
+attempted use of violence. In reaching this conclusion, she relied on the
+reasoning of other courts that had found that similar threats of violence
+failed to meet the SPIO threshold:  e.g., R. v. Thompson, 2009 ONCJ 359
+(CanLII); R. v. Roy, 2008 SKCA 41, 307 Sask. R. 276; R. v. Jolicoeur,
+2011 MBQB 129, 265 Man. R. (2d) 225. B.           
+Manitoba Court of Appeal, 2013 MBCA 21, 288 Man.
+R. (2d) 304 (per Scott C.J.M. and Beard and Monnin JJ.A.) [16]                         
+The Manitoba Court of Appeal, per Scott
+C.J.M., unanimously upheld McKelvey J.’s decision. The definition of robbery in
+s. 343 (a) refers to a person who “uses violence” or “uses . . .
+threats of violence”, whereas subpara. (a)(i) of the definition of an
+SPIO in s. 752  refers to the “use . . . of violence” or the
+“attempted use of violence”. Scott C.J.M. reasoned that these differences in
+language imply that not all robberies involve the use or attempted use of
+violence. He discussed R. v. C.D., 2005 SCC 78, [2005] 3 S.C.R. 668, in
+which this Court had adopted a definition of the expression “violent offence”
+as used in s. 39(1) (a) of the Youth Criminal Justice Act, S.C.
+2002, c. 1  (“YCJA ”), that included threats to cause bodily harm,
+but found that that case should be distinguished. In his opinion, the fact that
+s. 343 (a) refers to the use of both violence and threats of violence
+means that there must be some difference between the two. [17]                         
+After surveying the various types of threats
+that might support a robbery conviction under s. 343 (a), Scott C.J.M.
+noted that whether or not violence was used or attempted is a factual
+determination, and a matter for the trial judge. He agreed with McKelvey J. in
+endorsing the holding in Goforth and Lebar that the issue is not
+whether the violence used in committing the predicate offence was objectively
+serious. What must be determined, according to the court in Lebar, is
+“whether the evidence proves that violence was actually used” (Scott C.J.M., at
+para. 70, quoting Lebar, at para. 50). Although he agreed in substance
+with this approach, Scott C.J.M. found that the court had sidestepped the
+distinction between the concepts of use of violence and attempted use of
+violence referred to in subpara. (a)(i) of the definition of an SPIO in
+s. 752 . The use of violence to a person in committing robbery will also
+constitute a use of violence within the meaning of that provision. Where, on
+the other hand, robbery is committed by the use of threats of violence
+against a person, the question is whether those threats also constitute the attempted
+use of violence within the meaning of subpara. (a)(i). [18]                         
+In this regard, Scott C.J.M. approved the
+approach adopted in Thompson, at para. 28: In the myriad of factual circumstances
+that can constitute criminal offences, there is often a threat of violence,
+sometimes explicit and sometimes implicit. There may be instances when that
+threat of violence is so real that one could reasonably characterize it as an
+attempted use of violence. In other words, very little more need be done by
+the offender before the threat becomes actual use. To try and distinguish an
+attempt from a threat on such facts may be nothing more than semantics. However,
+in other cases, the threat of violence may be so remote from any actual
+perpetration of violence such that it cannot reasonably amount to an attempted
+use. [Emphasis added.] [19]                         
+Scott C.J.M. proposed the following approach for
+determining whether a given threat amounts to an attempted use of violence
+(para. 85): [S]ome degree of physical action must
+be part of a threat for it to constitute the “attempted use of violence”. That
+is, there needs to be some indication of imminent apparent danger to a person
+or some overt act directed towards the actual use of violence against a person
+for a threat of violence to also constitute the attempted use of violence. [20]                         
+Finally, Scott C.J.M. noted that McKelvey J.’s
+findings of fact had not been challenged, and because the threat of violence
+was not associated with either imminent danger or “any, even minimal, overt
+physical act”, he upheld the trial judge’s decision (para. 86). The threat,
+while sufficient to ground a conviction for robbery under s. 343 (a), did
+not constitute the use or attempted use of violence for the purposes of the
+definition of an SPIO and did not trigger the sentencing procedures under Part
+XXIV. IV.       
+Issue [21]                         
+Does robbery committed by using threats of
+violence to a person within the meaning of s. 343 (a) of the Criminal Code 
+constitute an SPIO in accordance with subpara. (a)(i) of the
+definition of that expression set out in s. 752 ? V.          
+Analysis [22]                         
+To determine whether an offence constitutes an
+SPIO, it is necessary to review the elements of the offence, but it may also be
+necessary, if that review is insufficient, to consider the factual
+circumstances in which the offence was committed. Certain offences
+automatically constitute SPIOs regardless of the manner in which they are
+committed: s. 752 , para. (b) of the definition of “serious personal
+injury offence”; see R. v. Currie,
+[1997] 2 S.C.R. 260, at paras. 21-22. There are other offences that always
+constitute SPIOs in that one of their elements automatically satisfies the
+descriptive criteria set out in para. (a) of the definition of an SPIO. 
+One example would be where personal violence or endangerment forms part of the
+definition of the offence: see, e.g., R. v. Cepic, 2010 ONSC 561,
+93 M.V.R. (5th) 129, at para. 18. Robbery is clearly not one of this second
+type of offences, since it can involve the use of violence or threats of
+violence to a person or property, whereas subpara. (a)(i) of the
+definition of an SPIO refers only to the use or attempted use of violence against
+another person: see Lebar, at para. 65. [23]                         
+Thus, the question is whether a robbery
+committed as in the instant case — by using threats of violence to a person,
+but without using actual physical violence — satisfies the criterion of “use or
+attempted use of violence against another person” set out in the definition. I
+conclude that it does. I reach this conclusion in light of the modern principle
+of statutory interpretation that the words of legislation must be read “in
+their entire context and in their grammatical and ordinary sense harmoniously
+with the scheme of the Act, the object of the Act, and the intention of
+Parliament”: E. A. Driedger, Construction of Statutes (2nd ed. 1983), at
+p. 87. [24]                         
+I will begin by discussing the purpose of the
+SPIO threshold and its function within the scheme of Part XXIV. I will then
+consider the plain meaning of the term “violence” in the context of the Criminal
+Code  and other legislation. Finally, I will discuss the statutory context
+of the provision in which the phrase “use or attempted use of violence”
+appears, including the other provisions of the definition of an SPIO and the
+provision that defines the offence of robbery. Taken together, these
+considerations support the view that threats of violence to a person that
+suffice to ground a conviction for robbery meet the violence criterion in the
+definition of an SPIO. Because robbery is an indictable offence for which the
+offender may be sentenced to imprisonment for 10 years or more, all the
+criteria of subpara. (a)(i) of the definition of an SPIO are satisfied. A.          
+Purpose of the SPIO Requirement [25]                         
+The Crown emphasizes that the SPIO requirement
+serves as a gateway in that it is applied before an offender is assessed for
+dangerousness and before an application can be made for a finding that he or
+she is a dangerous offender or a long-term offender. The “use or attempted use
+of violence” criterion must therefore, the Crown argues, be interpreted broadly
+to ensure that offenders who might meet the criteria are not excluded from
+being assessed, which would undermine the goal of public protection. [26]                         
+Mr. Steele counters that the SPIO requirement
+performs an important function in Part XXIV by ensuring that offenders may only
+be sentenced to indeterminate detention for sufficiently serious crimes. He
+argues that an overly broad construction of this requirement would frustrate
+the scheme’s objective of proportionality. [27]                         
+As I will explain, both these purposive
+arguments have merit. The general purpose of Part XXIV is public protection,
+and an overly narrow construction of the gateway provision would indeed
+undermine this purpose. However, the specific purpose of the SPIO requirement
+is to link the sentence to the predicate offence, and an overly broad
+construction would undermine this purpose and jeopardize the objective of
+proportionality. My interpretive approach must be sensitive to both the general
+and the specific purpose.  I will now discuss each of these purposes in detail
+and will conclude that the seriousness requirement of subpara. (a)(i) of
+the definition of an SPIO is satisfied by a textual and contextual
+interpretation of the words “use or attempted use of violence”, and that it
+would be wrong to read in an objective minimum level of violence. (1)        
+General Purpose of the Dangerous and Long-term
+Offender Provisions [28]                         
+Part XXIV of the Criminal Code  authorizes
+the indeterminate detention of individuals who are found to be “dangerous
+offender[s]” on the basis that their past conduct and patterns of behaviour
+show that they constitute a threat to the life, safety or physical or mental
+well-being of other persons (s. 753(1) (a)), or that their failure to
+control sexual impulses means that they are likely to cause injury, pain or
+other evil to other persons (s. 753(1) (b)). It also authorizes the
+long-term supervision of individuals who are found to be “long-term
+offender[s]” where a sentence of imprisonment of two years or more would be
+appropriate, there is a substantial risk that the individuals will reoffend,
+and there is a reasonable possibility of eventual control of that risk in the
+community (s. 753.1(1) ). [29]                         
+The primary rationale for both indeterminate
+detention and long-term supervision under Part XXIV is public protection. Both
+sentences advance the “dominant purpose” of preventive detention identified by
+Dickson J. in Hatchwell v. The Queen, [1976] 1 S.C.R. 39, at p. 43,
+namely “to protect the public when the past conduct of the criminal
+demonstrates a propensity for crimes of violence against the person, and there
+is a real and present danger to life or limb”. When the constitutionality of
+the dangerous offender provisions came before this Court in R. v. Lyons,
+[1987] 2 S.C.R. 309, La Forest J., wrote at p. 329, “[Part XXIV] merely enables the court to accommodate its sentence to
+the common sense reality that the present condition of the offender is
+such that he or she is not inhibited by normal standards of behavioural
+restraint so that future violent acts can quite confidently be expected
+of that person” (emphasis in original). Lamer C.J. subsequently explained this
+rationale as follows in Currie, at para. 26: “Parliament has thus
+created a standard of preventive detention that measures an accused’s present
+condition according to past behaviour and patterns of conduct.” See also R.
+v. Sipos, 2014 SCC 47, [2014] 2 S.C.R. 423, at para. 19. [30]                         
+Parliament amended Part XXIV in 1997 to create
+the category of “long-term offenders” and make it possible to supervise such
+offenders in the community, thus establishing an alternative to the
+indeterminate detention of persons designated as “dangerous offenders”.
+Long-term offenders, those who meet the criteria specified in s. 753.1(1), may
+be ordered to be subject to supervision in the community for a specified period
+(maximum of 10 years) after the expiry of a determinate sentence, which must be
+for a term of two years or more: s. 753.1(3). The purpose of the long-term
+supervision provisions is twofold: to protect the public and to rehabilitate
+offenders and facilitate their reintegration into the community: R. v.
+Ipeelee, 2012 SCC 13, [2012] 1 S.C.R. 433, at para. 50. [31]                         
+In R. v. Johnson, 2003 SCC 46,
+[2003] 2 S.C.R. 357, Iacobucci and Arbour JJ. considered the purpose of the
+long-term supervision provisions and the relationship between them and the
+dangerous offender provisions. At the time, the use of the word “may” indicated
+that, even if all the criteria were met, designation as either a long-term
+offender or a dangerous offender was discretionary. The Court held that, in
+light of the discretionary nature of a finding that an offender was a dangerous
+offender and given the principles of sentencing in s. 718.2  of the Criminal
+Code , a judge was required to consider finding an offender to be a
+long-term offender — inquiring in particular into the possibility of eventual
+control of the risk posed by the offender in the community — before imposing
+the harsher punishment applicable to a dangerous offender (para. 28; Sipos,
+at para. 22). Subsequent to the Court’s decision in Johnson,
+Parliament acted in 2008 to eliminate the judge’s discretion in the context of
+a dangerous offender application. The word “shall” now indicates that if a
+court is satisfied that the criteria in s. 753(1)  have been met, it must find
+the offender to be a dangerous offender. In eliminating this discretion,
+however, Parliament built in a new flexibility regarding the consequences of
+such a finding. Before 2008, a court that found an offender to be a dangerous
+offender was obliged to (“shall”) impose a sentence of detention for an
+indeterminate period (Johnson, at para. 5). Today, a court that
+makes such a finding has the option of imposing an indeterminate sentence, a
+determinate sentence of two years or more combined with long-term supervision
+for up to 10 years, or a sentence for the offence for which the offender has
+been convicted: s. 753(4) . It may impose one of the latter two sentences only
+if it is satisfied that the sentence will adequately protect the public: s.
+753(4.1) . (2)        
+Specific Purpose of the SPIO Requirement in the
+Dangerous and Long-term Offender Scheme [32]                         
+There are a number of procedural steps that must
+be taken before a court can find that an offender is a dangerous offender or a
+long-term offender. First of all, the prosecutor must apply to have the
+offender remanded for assessment: s. 752.1(1) . An assessment report must then be
+filed before the prosecutor can apply for a finding that the offender is a
+dangerous offender or a long-term offender: ss. 753(1) or 753.1(1). The
+prosecutor must give notice to the offender outlining the basis on which it is
+intended to found the application: s. 754(1)(b). The Attorney General of
+the province must consent to the application: s. 754(1)(a). All these
+procedural protections enhance the overall fairness of the scheme. See Lyons,
+at pp 362-63, for a discussion of the procedural safeguards provided
+for in Part XXIV. [33]                         
+There are also substantive requirements to be
+met. Before the court remands an offender for assessment, it must be satisfied,
+first, that the offender has been convicted of an SPIO as defined in s. 752 .
+Second, there must be reasonable grounds to believe that the offender might be
+found to be a dangerous offender under s. 753 or a long-term offender under s.
+753.1. The SPIO requirement comes into play once again at the stage of the
+application for a finding that the offender is a dangerous offender, as the
+court must be satisfied that the offence is an SPIO before making such a
+finding: s. 753(1). [34]                         
+Thus, the SPIO requirement plays a crucial role
+in the operation of the dangerous and long-term offender scheme. The sentences
+that can be imposed under Part XXIV, including indeterminate detention and
+long-term supervision, serve the purposes of both prevention and punishment. To
+the extent that the sentence is based on a risk established in light of past
+conduct and patterns of behaviour, it is preventive. As La Forest J. held in Lyons,
+preventive detention under Part XXIV “represents a judgment that the
+relative importance of the objectives of rehabilitation, deterrence and
+retribution are greatly attenuated in the circumstances of the individual case,
+and that of prevention, correspondingly increased” (p. 329). [35]                         
+These sentences are also punitive, however, and
+in this regard, the function of the SPIO requirement is twofold: first, it
+serves as a “gatekeeper” for entry into the dangerous or long-term offender
+system (s. 752.1(1) ); second, if the Crown applies for a finding that the
+offender is a dangerous offender, it serves as a requirement for the making of
+such a finding (s. 753(1)). If the punitive purpose of these sentencing options
+were outweighed entirely by their preventive purpose, they might violate the
+fundamental principle of sentencing, that a sentence must be proportionate to
+the gravity of the offence and the degree of responsibility of the offender.
+The SPIO requirement helps safeguard the constitutionality of the scheme: Lyons,
+at p. 338. As Lamer C.J. put it in Currie, “[t]he [SPIO] requirement
+acts as a gatekeeper to ensure that the sentence is not disproportionate to the
+offence” (para. 31; see also Goforth, at para. 44). [36]                         
+These two purposes, one of them general and the
+other specific, are in conflict. In interpreting the definition of an SPIO, I
+must give effect to the overall protective purpose of Part XXIV, while also
+furthering the specific purpose of the SPIO requirement by tying the punishment
+to the predicate offence and safeguarding the objective of proportionality.
+Whereas an unduly narrow interpretation of the words “use or attempted use of
+violence” could preclude courts from remanding potentially dangerous offenders
+for assessment and thereby undermine the goal of public protection, an unduly
+broad interpretation of those words would dilute the gatekeeper function of the
+SPIO requirement and jeopardize the scheme’s objective of proportionality. [37]                         
+The Crown relies on the Court’s statement in Currie
+that the SPIO requirement “merely triggers the [s. 753(1)(b)]
+application process. There remains a second stage to [s. 753(1)(b)], at
+which point the trial judge must be satisfied beyond a reasonable doubt of the
+likelihood of future danger that an offender presents to society before he or
+she can impose the dangerous offender designation and an indeterminate
+sentence” (Currie, at para. 25). This comment was made in the
+context of a finding that an offender is a dangerous offender on the basis of
+s. 753(1)(b) — that is, in relation to the commission of one of the
+sexual offences enumerated in para. (b) of the definition of an SPIO in
+s. 752  — but the same logic applies to a finding made under s. 753(1)(a),
+which provides that the predicate offence must “for[m] a part” of a pattern of
+behaviour underlying the threat the offender constitutes or be “associated
+with” particularly brutal behaviour relied on as evidence of that threat. In
+every case, the sentence is based on past conduct or patterns of behaviour, but
+it cannot be divorced entirely from the predicate offence. (3)        
+Words “Use or Attempted Use of Violence” Do Not
+Include a Requirement of Objective Seriousness [38]                         
+This Court’s statement in Lyons (at p.
+324) that the offences falling within the definition of an SPIO are “very
+serious violent crimes” reflects the importance of the SPIO requirement in the
+overall scheme. Some courts took this statement to mean that in every case the
+predicate offence must on its own warrant the kind of punishment imposed under
+Part XXIV, but this represents an incorrect reading of Lyons. As this
+Court explained in Currie, at para. 28, the words “very serious
+violent crime” were used in relation to the specific facts of Lyons and
+did not require that all predicate offences fit that description. A predicate
+offence must be serious, but the degree of seriousness intended by Parliament
+is exhaustively set out in the definition of an SPIO in s. 752 . [39]                         
+Paragraph (a) of the definition in s. 752 
+requires, first, that the offence be an indictable offence, second, that the
+maximum sentence for the offence be imprisonment for 10 years or more and,
+third, that the offence involve (i) the use or attempted use of violence
+against another person, or (ii) conduct endangering or likely to endanger the
+life or safety of another person or inflicting or likely to inflict severe
+psychological damage on another person. In subpara. (a)(i), the word
+“violence” is not qualified, which means that the criteria may be satisfied even
+if the violence in question is not in itself “serious” (see Goforth, at
+para. 21; Lebar, at para. 67; R. v. Smith, 2012
+ONCA 645 (CanLII), at para. 2). The degree of seriousness intended by
+Parliament exists if all three requirements of the definition are met. Thus, an
+offence that involves the use or attempted use of violence against another
+person is not an SPIO under para. (a) of the definition if it is not an
+indictable offence or if it is not punishable by a sentence of imprisonment for
+10 years or more. Just as para. (b) of the definition does not invite
+the court to assess the manner of commission of the enumerated offences,
+subpara. (a)(i) does not invite it to assess the seriousness of the
+violence the offender used or attempted to use; any level of violence is
+sufficient. [40]                         
+This interpretation is consistent with the
+gatekeeper function of the SPIO requirement. An offender who commits an indictable
+offence for which he or she may be sentenced to imprisonment for 10 years or
+more and that involves the use or attempted use of violence against a person
+commits what Parliament has defined as an SPIO; it is not necessary to further
+inquire into the level of the violence in question. If the offender is remanded
+for assessment and is then found, on the basis of past conduct and patterns of
+behaviour, to be a dangerous offender or a long-term offender, it cannot be
+said that the offender was “picked up off
+the street because of his past criminality (for which he has already been
+punished), or because of fears or suspicions about his criminal proclivities,
+and then subjected to a procedure in order to determine whether society would
+be better off if he were incarcerated indefinitely” (Lyons, at p.
+328). Rather, the punishment “flows from the actual commission of a specific
+crime, the requisite elements of which have been proved to exist beyond a
+reasonable doubt” (ibid.). See also Johnson, at para. 23, in which
+the Court mentioned that dangerous and long-term offender proceedings form part
+of the sentencing process. [41]                         
+This statutory framework enables courts to
+properly sentence dangerous offenders who have committed SPIOs “without having
+to wait for them to strike out in a particularly egregious way” (Currie,
+at para. 26). For our purposes, the jurisprudence confirms that the words
+“use or attempted use of violence” must be read in their grammatical and
+ordinary sense, having regard to their statutory context. Neither the purpose
+of the SPIO requirement nor that of Part XXIV warrants reading in a qualitative
+minimum level of violence. B.           
+Plain Meaning of the Term “Violence” in the
+Context of the Criminal Code  and Other Legislation [42]                         
+The question of what constitutes violence is as
+old as the criminal law itself. It is a moral question as much as a legal one,
+and no doubt society’s answer to it has changed in tandem with evolving social
+mores. I will not attempt — nor am I required — to answer it definitively. However,
+in interpreting the words “use or attempted use of violence” in subpara. (a)(i)
+of the definition of an SPIO, I must endeavour to ascertain their “plain
+meaning”. In this regard, I am aided by dictionary definitions as well as by
+judicial interpretations from a variety of contexts involving both the Criminal
+Code  and other legislation. I will explain a conflict that exists between harm-based
+definitions of violence that focus on acts by which a person causes, attempts
+to cause or threatens to cause harm, and force-based definitions that
+focus on the physical nature of the act. Building upon this Court’s reasoning
+in C.D. and subsequent cases, I conclude that the prevailing definition
+of violence is a harm-based one. [43]                         
+In C.D., Bastarache J. began his discussion
+of the definition of “violence” by noting that there is disagreement with
+respect to its grammatical and ordinary meaning. After quoting one dictionary
+definition of “violence”, namely “[t]he exercise of physical force so as to
+inflict injury on, or cause damage to, persons or property” (The Oxford
+English Dictionary (2nd ed. 1989), at p. 654), Bastarache J. noted that
+violence is ordinarily understood not only in terms of the use of force, but
+also in terms of the effects of that use. This conflict is reflected in
+judicial definitions, as Prof. Teresa Scassa explains: It
+is significant that the Criminal Code , which one might assume to be the “bible”
+of the control of violence in society, offers no definition of violence. It is,
+surprisingly, perhaps the most “assumed” term within the entire Code. Offences
+which one might consider the most “violent” of all crimes, such as murder and
+assault, do not mention violence. Rather, they talk about concrete, measurable
+things like “death” and “bodily harm.”  (T. Scassa,
+“Violence Against Women in Law Schools” (1992), 30 Alta. L. Rev.
+809, at p. 816, cited in C.D., at para. 30.) [44]                         
+I would add that even dictionary definitions of “violence”
+vary, reflecting both harm-based and force-based approaches. For instance, Le
+Petit Robert dictionary (new ed. 2012) contains the following definition
+of the French expression “faire violence” (do violence): “agir sur
+[quelqu’un] ou le faire agir contre sa volonté, en employant la force ou
+l’intimidation” ([translation]
+“act so as to influence a person or to cause the person to act in a manner
+contrary to his or her wishes, by using force or intimidation”) (p. 2717
+(emphasis added)). The variance among definitions of violence — both those
+found in dictionaries and those adopted by judges — highlights the need to
+interpret the word in the context in which it is used. [45]                         
+In C.D., the Court was being asked
+to interpret the scope of the term “violent offence” as used in s. 39(1) (a)
+of the YCJA  with respect to the imposition of custodial sentences on
+young persons. Bastarache J. concluded that in the context of the YCJA ,
+the term “violent offence” means “an offence in the commission of which
+a young person causes, attempts to cause or threatens to cause bodily harm”
+(para. 17). This definition is notable for its emphasis on the harmful effects
+of violence rather than on the nature of the force that was applied. Thus,
+threats of bodily harm are included even if physical force has not been used.
+Bastarache J. explained that a harm-based approach encompasses both physical
+and psychological harm, whereas a force-based approach would apply only to
+those “harm-causing” offences that also involve the use, attempted use or
+threatened use of force (para. 66). This definition of “violent offence” also
+excludes certain acts that might otherwise fall within the ordinary meaning of
+the word “violence”. For instance, it excludes crimes against property even
+though such offences are generally considered to involve “violence” to property
+(paras. 33 and 51). It also excludes relatively minor assaults committed
+without causing, attempting to cause or threatening to cause bodily harm,
+whereas a force-based definition would tend to encompass such assaults (para.
+64). [46]                         
+Some of the reasoning in C.D. was statute-specific.
+For instance, Bastarache J. favoured a harm-based approach in part to include
+certain offences — e.g. murder committed without the direct application of
+physical force — that in his view ought to fall within the definition of
+“violent offence” but that might not be included by a force-based approach
+(paras. 58-65). However, he also made some general observations in support of
+his adoption of a harm-based definition. He stated that such a definition
+“better accords with . . . the ‘usual’ definition of violence, which
+tends to focus on its effects (i.e. harm) rather than on the means employed to
+produce the effects (i.e. force)” (para. 67). The inclusion of threats of
+bodily harm in the definition of “violent offence” “accords with the commonly
+held view that a threat to cause bodily harm is, at base, an act of violence”
+(para. 85). He added the following: The view that threats of bodily harm
+are essentially acts of violence is likely based on the fact that threatening
+to cause bodily harm can often perform the same function as actually causing
+it, in that both can instill the level of fear in the victim that is needed to
+achieve the offender’s goal: see [R. v. McCraw, [1991] 3 S.C.R. 72], at
+pp. 81-82. In this sense, it can be said that irrespective of whether an
+offender threatens to cause bodily harm or actually causes bodily harm, in both
+cases he or she is “wielding violence” to satisfy his or her object(s). [para.
+85] I would endorse these
+observations of Bastarache J. and would note that the harm-based approach he
+articulated draws additional support from several recent decisions rendered by
+this Court in a variety of contexts, including those of the offence of uttering
+threats, the violence exception to freedom of expression, and the offence of
+robbery. [47]                         
+First, a recent case concerning the offence of
+uttering threats provided for in s. 264.1(1) (a) of the Criminal Code  supports
+the proposition that threats of violence are inherently violent, not
+simply a means of communicating future violence. In R. v. McRae,
+2013 SCC 68, [2013] 3 S.C.R. 931, the Court confirmed the elements of the
+offence of uttering threats: [I]t is not necessary to prove that the
+threats were conveyed to their intended recipients (prohibited act) or that the
+accused intended the threats to be so conveyed (fault element). Further, it is
+not necessary to prove that anyone was actually intimidated by the threats
+(prohibited act) or that the accused specifically intended to intimidate anyone
+(fault element). The concept of the “closed circle” is therefore legally wrong.
+ Threats are tools of intimidation and violence.  As such, in any
+circumstance where threats are spoken with the intent that they be taken
+seriously, even to third parties, the elements of the offence will be made out.
+[Emphasis added; para. 24.] In other words, the act
+of threatening harm can itself be an act of violence even if the threats are
+not conveyed to their intended recipients or are not intended to be so
+conveyed, so long as they are intended to be taken seriously. [48]                         
+Incidentally, this does not mean that the
+offence of uttering threats under s. 264.1(1) (a) is an SPIO. Even if the
+offence were found to meet the violence requirement (“use or attempted use of
+violence”) of subpara. (a)(i) of the definition of an SPIO, it is not
+punishable by a sentence of imprisonment for 10 years and therefore fails to
+meet the seriousness requirement: s. 264.1(2) (a). [49]                         
+Second, in C.D., Bastarache J. discussed
+this Court’s decisions with respect to freedom of expression and the question
+whether threats of violence fall outside the scope of constitutionally
+protected speech (para. 31). In R. v. Keegstra, [1990] 3 S.C.R. 697,
+Dickson C.J. had held that only “expression communicated directly through
+physical harm” could be considered violence and be excluded from the protection
+of s. 2 (b) of the Canadian Charter of Rights and Freedoms  on that
+basis (p. 732). It was unclear from the early cases whether the “violence
+exception” extended to threats of violence, but any lingering uncertainty was
+eliminated in R. v. Khawaja, 2012 SCC 69, [2012] 3 S.C.R. 555, in which
+McLachlin C.J. held: “This Court’s jurisprudence supports the proposition that
+the exclusion of violence from the s. 2 (b) guarantee of free expression
+extends to threats of violence” (para. 70). The same rationale for excluding
+expression conveyed by physical violence from the protection of s. 2 (b)
+also applies to threats of violence. [50]                         
+Third, Bastarache J. in C.D. discussed
+the different forms of robbery under s. 343. Regarding s. 343(b), he
+mentioned that the expression “personal violence” in the phrase “wounds, beats,
+strikes or uses any personal violence” had been interpreted to require something
+more than a mere technical assault. On the other hand, the phrase “uses
+violence or threats of violence” in s. 343(a) had been interpreted to
+include simple assault (para. 32). Putting aside, for a moment, technical
+arguments about the construction of each of the provisions, I would note that
+Parliament included threats of violence among the violent acts that elevate the
+offence of theft to that of robbery. In this regard, I agree with the comment
+of Epstein J.A. in Lebar: “Section 343(a) applies to a robbery
+committed with violence. It is categorically a crime of violence — violence is
+an essential element of an offence under that section” (para. 33). [51]                         
+This brief survey of judicial interpretations of
+the term “violence” suggests that the focus is on the harm caused, attempted or
+threatened rather than on the force that was applied. I do not suggest that the
+definition of violence must be a harm-based one in every case. Context will be
+paramount. As I mention below (see para. 65), there may be situations in which
+the presumption of consistent expression is clearly rebutted by other
+principles of interpretation and, as a result, the intended meaning of violence
+may vary between statutes and even, in some circumstances, within them: R.
+Sullivan, Sullivan on the Construction of Statutes (5th ed.
+2008), at p. 222. However, unless the context or the purpose of the
+statute suggests a different approach, the prevailing definition of “violence”
+is a harm-based one that encompasses acts by which a person causes, attempts to
+cause or threatens to cause harm. C.           
+Statutory Context Supports a Harm-Based
+Definition That Encompasses Threats of Violence [52]                         
+Having established that the purposive arguments
+are in conflict, that it is therefore necessary to consider the plain meaning
+of the words as well as the statutory context, and that the plain meaning
+generally favours a harm-based definition of violence that includes threats, I
+will now discuss the context in detail. The scope of the expression “use or
+attempted use of violence” must ultimately be determined having regard to the
+context in which it is used: C.D., at para. 33; Lebar, at
+para. 38. [53]                         
+Currently, the definition of an SPIO is relevant
+only to the dangerous and long-term offender scheme in Part XXIV of the Criminal
+Code , but this was not always the case. Between 2007 and 2012, s. 742.1  of
+the Criminal Code  referred to that definition for the purpose of
+excluding certain offenders from the imposition of conditional sentences. In
+interpreting the definition for this purpose, some courts reasoned that the
+context of s. 742.1  called for a different interpretive approach: see, for
+example, Lebar; R. v. Goulet, 2011 ABCA 230, 52 Alta. L.R.
+(5th) 241. I mention this in passing because, although some of the SPIO
+jurisprudence was developed in that context, the definition of an SPIO is no
+longer relevant to the imposition of such sentences and must therefore be
+interpreted solely in the context of its role in the dangerous and long-term
+offender scheme. [54]                         
+Mr. Steele relies heavily, as did the Court of
+Appeal, on contextual arguments and the corresponding principles of statutory
+interpretation, and in particular on the presumption against tautology and the
+presumption of consistent expression. I must address the following arguments: 
+First, it is argued that the words “conduct . . . inflicting or
+likely to inflict severe psychological damage” in subpara. (a)(ii) of
+the definition of an SPIO would be redundant if the words “use or attempted use
+of violence” in subpara. (a)(i) are not interpreted narrowly. Second,
+according to the Court of Appeal, the fact that robbery is excluded from the
+offences enumerated in para. (b) of the definition of an SPIO indicates
+that not every robbery is an SPIO. Third, the Court of Appeal stated that
+because the definition of robbery in s. 343(a) refers to the use of both
+violence and threats of violence, there must be some difference between the two
+and that, in light of the presumption of consistent expression, the reference
+to the use of violence in the definition of an SPIO therefore excludes threats
+of violence. With respect, I disagree with each of these arguments, for the
+following reasons. (1)        
+Subparagraph (a)(ii) of the Definition of
+an SPIO in Section 752 [55]                         
+Subparagraph (a)(ii) of the definition of
+an SPIO refers to “conduct endangering or likely to endanger the life or safety
+of another person or inflicting or likely to inflict severe psychological
+damage on another person”. Mr. Steele argues that if subpara. (a)(i) of
+the definition is interpreted more broadly, it would apply to less serious
+instances of the very conduct to which subpara. (a)(ii) applies, thereby
+rendering the “severe psychological damage” portion of the definition
+redundant. If this argument is taken a step further, it might be argued that
+subpara. (a)(ii) targets violent activity on the basis of its harm or
+effects — i.e. danger to life or safety or severe psychological damage —
+whereas subpara. (a)(i) targets violent activity on the basis of the
+force that was applied — i.e. use or attempted use of violence. [56]                         
+With respect, after considering the relationship
+between subparas. (a)(i) and (a)(ii) of the definition, I am led
+to the opposite conclusion. As a preliminary matter, there is no indication
+that the various parts of the definition of an SPIO in s. 752  are mutually
+exclusive: see R. v. J.Y. (1996), 141 Sask. R. 132 (C.A.), at para. 22.
+On the contrary, I can think of many scenarios in which an offence causing the
+harms outlined in subpara. (a)(ii) would clearly also involve “the use
+or attempted use of violence”. The same can be said about para. (b) of
+the definition, which lists a number of sexual offences to include them in the
+definition of an SPIO. The offences enumerated in para. (b) will of
+course often also meet the qualitative criteria of subparas. (a)(i) and
+(a)(ii). The fact that a proposed interpretation would bring some
+offences within the ambit of more than one part of the definition in s. 752 
+should not, in itself, justify narrowing the definition to avoid such overlaps. [57]                         
+Furthermore, to the extent that redundancy is a
+problem in the case at bar, I would suggest that the Court of Appeal’s
+interpretation of subpara. (a)(i) adds to the redundancy rather than
+reducing it. By confining the expression “use or attempted use of violence” to
+physical action or danger, the Court of Appeal has rendered it largely
+indistinguishable from the expression “conduct endangering or likely to
+endanger the life or safety of another person” in subpara. (a)(ii). The
+Court of Appeal held that there must be “some degree of physical action” for a
+threat to amount to an attempted use of violence: “[T]here needs to be some
+indication of imminent apparent danger to a person or some overt act directed
+towards the actual use of violence against a person for a threat of violence to
+also constitute the attempted use of violence” (para. 85). Scott C.J.M.
+endorsed the reasoning in Thompson, in which a similar distinction was
+made between violent and non-violent threats on the basis of proximity to the “actual
+perpetration of violence” (para. 77). With respect, this interpretation
+artificially limits the ordinary harm-based meaning of the “violence” concept
+in subpara. (a)(i) and transforms that provision into a replication of
+the dangerousness portion of subpara. (a)(ii). As Bastarache J. stated
+in C.D., “[t]he fact that violent conduct is different from dangerous
+conduct is made quite clear in . . . s. 752 ” (para. 79). [58]                         
+I agree that the effect of my interpretation
+will be to include certain offences causing less-than-severe psychological
+damage within the scope of subpara. (a)(i). However, this does not
+render the reference to “severe psychological damage” in subpara. (a)(ii)
+redundant. In other words, the endangerment and severe psychological damage
+referred to in subpara. (a)(ii) do not merely form a narrower subset of
+“the use or attempted use of violence”. In my view, the two provisions are
+qualitatively different owing, in part, to the required level of intent. 
+Subparagraph (a)(i) concerns violent acts — “the use or attempted use of
+violence” — and requires violent intent on the offender’s part. This part of
+the definition will apply to an offender who intentionally causes,
+attempts to cause or threatens to cause harm. Threats are included by virtue of
+the speaker’s intent that they be taken seriously.  Subparagraph (a)(ii),
+on the other hand, relates solely to the effects of conduct. It does not refer
+to violence in general, or even to intent. Thus, numerous courts have properly
+included offences involving negligence — for example, dangerous operation of a
+motor vehicle, vessel or aircraft causing bodily harm (s. 249(3) ) — within the
+scope of subpara. (a)(ii) on the basis that they caused one of the
+effects in question: see, e.g., Cepic; R. v. O’Keefe, 2011 NLCA
+41, 309 Nfld. & P.E.I.R. 253. Conversely, although I will not decide this
+issue, I would have difficulty concluding that a negligence-based offence
+involves “the use or attempted use of violence”. [59]                         
+I would note that in C.D., Bastarache
+J. excluded offences for which bodily harm need merely be reasonably
+foreseeable from the definition of “violent offence”. He reasoned: “. . . I do
+not support the inclusion of a ‘reasonable foreseeability of bodily harm’
+aspect in the definition of ‘violent offence’ because, in my view, whether
+an offence is likely to result in bodily harm is really a question of whether
+the offence is dangerous rather than whether it is violent, and these two
+concepts are quite distinct from one another” (para. 79 (emphasis added)).
+He relied on s. 752  in support of this proposition. [60]                         
+In conclusion, a harm-based approach to subpara.
+(a)(i) according to which threatening violence constitutes a form of use
+of violence is not inconsistent with the endangerment and psychological damage
+aspects of the definition in subpara. (a)(ii). (2)        
+Paragraph (b) of the Definition [61]                         
+I have already briefly addressed the argument
+that the exclusion of robbery from the offences listed in para. (b) of
+the definition is relevant to the determination of legislative intent. With
+respect, this argument is based on two false premises. First, robbery may be
+committed by way of threats of violence to property and such threats are
+clearly excluded from the definition of an SPIO, which means that Parliament
+could not have categorically defined robbery as an SPIO even if it considered
+the threats to be violent. Second, Parliament identified three sexual offences
+each of which categorically qualifies as an SPIO in para. (b). There is
+no indication that Parliament intended to create an exhaustive list of all
+offences constituting SPIOs in all cases. Rather, as this Court stated in Currie,
+para. (b) serves to make it clear that the enumerated sexual
+offences, whatever form they may take, are inherently serious and may trigger a
+dangerous offender application (para. 22). [62]                         
+The reason why Parliament included a list of
+sexual offences is surely not that sexual offences are not otherwise covered by
+the expression “use or attempted use of violence”. The more reasonable view is
+that Parliament included the list to make it clear that such offences will
+constitute SPIOs in all circumstances, even those that are committed with
+minimal physical force and that do not result in bodily harm. Furthermore, the
+view that Parliament, in enacting para. (b) of the definition, was
+rejecting a narrow approach that might exclude some sexual offences is
+consistent with my interpretation of subpara. (a)(i), which rules out a
+similarly narrow approach in the context of threats of violence. (3)        
+Section 343(a) [63]                         
+The Court of Appeal relied heavily on the need
+for consistency in the interpretation of s. 343(a) and subpara. (a)(i)
+of the definition of an SPIO in s. 752 . This argument is appealing at first
+glance. It can be summarized as follows: Section 343(a) refers to the
+use of violence and the use of threats of violence. Subparagraph (a)(i)
+of the definition refers to the use of violence and the attempted use of
+violence. Threats of violence are not mentioned in subpara. (a)(i). If
+s. 343(a) is read disjunctively, there must be some difference between
+the use of violence and the use of threats of violence. As a result, the
+question is whether the expression “uses . . . threats of violence”
+in s. 343(a) is equivalent to the expression the “attempted use of violence”
+in subpara. (a)(i) of the definition. The Court of Appeal cited the
+presumption that the use of different language suggests that the legislature
+intended different meanings and the principle that the same words have the same
+meaning throughout a statute. [64]                         
+With respect, I find this argument to be an
+overly technical one that fails to take into account the full context in which
+the expressions “uses violence” and “use of violence” appear in the two
+provisions. First, the argument is based on a strictly disjunctive reading of
+the words “uses violence or threats of violence” in s. 343(a) that
+suggests that the expressions “violence” and “threats of violence” have
+different meanings. But in s. 343(b), the list “wounds, beats, strikes
+or uses any personal violence” is clearly not disjunctive — the words “uses any
+personal violence” encompass the other acts in the list. In my view, the
+contextual information from s. 343(b) suggests that Parliament may well
+have included threats of violence in s. 343(a) as a way to make it clear
+that threats of violence were to be included among the violent acts that would
+be included in the definition of robbery (see Sullivan, at p. 214). [65]                         
+Second, even a strictly disjunctive reading of
+the words “uses violence or threats of violence” in s. 343(a) does not
+lead inexorably to the conclusion that the expression “use . . . of
+violence” in subpara. (a)(i) of the definition of an SPIO means the same
+thing as “uses violence” in s. 343(a). The two provisions are in
+unrelated parts of the Criminal Code , and they have distinct purposes
+and legislative histories. As Ruth Sullivan notes, “[s]ome statutes, like Insurance Acts or the Criminal
+Code , are frequent[ly] amended decade after decade. It is not surprising,
+then, that inadvertent variations occur within a single Act. It is even more
+likely that they would occur within the statute book as a whole” (p. 222). If s. 343(a) were to be interpreted disjunctively, the use of
+violence would have to be understood as the use of physical violence in
+order to exclude threats of violence from the definition. As I mentioned above,
+however, the meaning of the word “violence” is not limited to physical violence
+everywhere it appears in the Criminal Code  or in other legislation. For
+instance, as this Court stated in McRae (at para. 24), threats are
+themselves “tools of intimidation and violence” in the context of s. 264.1(1) (a).
+Thus, even if the word “violence” in s. 343 (a) is interpreted using a
+force-based definition, that is, as meaning uses physical violence or
+threats of physical violence, this need not preclude courts from
+interpreting the same word in a contextually sensitive manner in subpara. (a)(i)
+of the definition of an SPIO in s. 752 . [66]                         
+In short, I find that threats of violence to a
+person (and not threats to property) that are sufficient to ground a conviction
+for robbery under s. 343(a) meet the “use . . . of violence”
+criterion in subpara. (a)(i) of the definition of an SPIO in s. 752 .
+This approach is consistent with the broader understanding of robbery as the
+crime of theft committed with violence. D.          
+Conclusion: Robbery Committed by Using Threats
+of Violence to a Person is a Serious Personal Injury Offence [67]                         
+Not all robberies are SPIOs. Robbery committed
+by using violence or a threat of violence to property is clearly
+excluded. Robbery committed by using violence to a person is clearly
+included. In the case bar, in the context of a robbery committed by using a threat
+of violence to a person, the trial judge and the Court of Appeal
+attempted to draw a line. Although the Court of Appeal was not prepared to
+conclude categorically that threats are not violent, it held that some, but not
+all, threats are violent. Something more than a mere verbal threat is required:
+“[T]here needs to be some indication of imminent apparent danger to a
+person or some overt act directed towards the actual use of violence”
+(para. 85 (emphasis added)). [68]                         
+I have rejected this view for the numerous
+reasons given above. In short, a threat of violence is itself a form of
+violence, and the respondent’s context-based arguments have not persuaded me to
+depart from this premise in interpreting subpara. (a)(i) of the
+definition of an SPIO. [69]                         
+Finally, the Court of Appeal’s interpretation
+would have undesirable consequences. In seeking to distinguish between violent
+and non-violent threats, the Court of Appeal referred to a number of cases in
+which courts have grappled with this very question. Threatening to “splat” the
+clerk of a cheque cashing business (Thompson), raising a baseball bat in
+a threatening manner in confronting two police officers (Roy), and
+saying “[m]oney and cigarettes in the bag” while making an implied threat of
+violence if this demand were not met (Jolicoeur, at para. 25), have all
+been held not to satisfy the “use or attempted use of violence” criterion,
+because they lacked the requisite physical act or danger. On the other hand, an
+offender who had committed robbery by producing a knife and holding it close to
+the victim satisfied the criterion despite the absence of physical injury (Lebar).
+It would be possible to list other examples of cases in which trial judges have
+endeavoured to distinguish violent from non-violent threats on the facts of the
+cases before them. At the end of the day, however, I conclude that such an
+exercise is not just difficult, but pointless. [70]                         
+The Court of Appeal’s approach is inconsistent
+with the principles of statutory interpretation I discussed above. It would
+result in untold difficulties for trial judges seeking to establish the elusive
+dividing line between threats that are inherently violent and those that are
+not. Finally, in my view, it is incompatible with the plain meaning and the
+purpose of the provision. All threats of violence are themselves violent, even
+though the seriousness of the violence may be quite limited. In seeking to distinguish
+violent from non-violent threats, courts are in effect reading in an objective
+minimum level of violence. This is inconsistent with the clear language of
+subpara. (a)(i) of the definition, which requires violence, not serious
+violence, and it risks undermining the overall purpose of Part XXIV by
+precluding courts from remanding potentially dangerous offenders for
+assessment. [71]                         
+When, in committing the robbery, Mr. Steele
+threatened the cashiers by saying “I have a gun”, he used violence against another
+person within the meaning of subpara. (a)(i) of the definition of an
+SPIO. VI.       
+Disposition [72]                         
+I would allow the appeal without costs. Mr.
+Steele was convicted under s. 343(a) of robbery, an offence that
+satisfies the criterion set out in subpara. (a)(i) of the definition of
+a “serious personal injury offence” in s. 752 . Since the other requirements for
+the Crown’s application for remand for an assessment have not been contested, I
+would grant the application and order that Mr. Steele be remanded for assessment
+pursuant to s. 752.1(1) .                     Appeal
+allowed.                     Solicitor for the
+appellant:  Attorney General of Manitoba, Winnipeg.                     Solicitors for the
+respondent:  Walsh & Company, Winnipeg; Legal Aid Manitoba, Winnipeg.                     Solicitor for the
+intervener the Attorney General of Canada:  Attorney General of Canada, Ottawa.                     Solicitor for the
+intervener the Attorney General of Ontario:  Attorney General of Ontario,
+Toronto.  

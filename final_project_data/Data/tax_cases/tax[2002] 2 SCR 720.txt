@@ -1,0 +1,569 @@
+First Vancouver Finance v. M.N.R., [2002] 2 S.C.R. 720, 2002
+SCC 49  Her Majesty The Queen in Right of Canada, as represented by the Minister of National Revenue                                                             Appellant  v.  First Vancouver Finance                                                                               Respondent  and  Great West Transport Ltd.                                                                           Respondent  Indexed as:  First Vancouver Finance v. M.N.R.  Neutral citation:  2002 SCC 49.  File No.:  28062.  Hearing and judgment:  March 12, 2002.  Reasons delivered:  May 23, 2002.  Present:  McLachlin C.J. and Gonthier, Iacobucci, Major,
+Bastarache, Binnie and LeBel JJ.  on appeal from the court of appeal for saskatchewan  Income tax — Administration and enforcement —
+Collection — Source deductions — Trust for moneys deducted — Employer failing
+to remit payroll deductions — Accounts receivable sold to third party — Whether
+property acquired by tax debtor after statutory deemed trust arises subject to
+trust — If so, whether sale of trust property to third party releases property
+from trust — Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .),
+s. 227(4) , (4.1) .  The respondent, First Vancouver Finance, entered into
+a factoring agreement with Great West Transport whereby it would purchase Great
+West’s accounts receivable at a discount.  After purchase, the Great West
+invoices were forwarded to Great West’s debtors, along with notification that
+the accounts had been sold and that subsequent payments should be made directly
+to First Vancouver.  Among the accounts purchased were several owing by Canada
+Safeway Limited.  As of the date of the factoring agreement, Great West owed
+money to the Minister of National Revenue because of unremitted payroll
+deductions.  First Vancouver had made arrangements with the Minister to forward
+part of the purchase price of the accounts to be applied to Great West’s
+arrears.  The Minister served Canada Safeway with Enhanced Requirement to Pay
+Notices (“RTPs”) as authorized by the Income Tax Act  (“ITA ”).  In
+response, Canada Safeway made payments to the Minister relating to accounts
+which Great West had assigned to First Vancouver.  First Vancouver brought an
+application to recover the amounts paid by Canada Safeway to the Minister
+pursuant to the RTPs.  The Court of Queen’s Bench granted the application in
+part, holding that First Vancouver was entitled to the moneys owing on accounts
+factored before the RTPs were issued.  The Court of Appeal upheld that
+decision.  Held:  The
+appeal should be dismissed.  The ITA requires employers to deduct and
+withhold amounts from their employees’ wages (“source deductions”) and remit
+these amounts to the Receiver General by a specified due date.  Under
+s. 227(4), when source deductions are made, they are deemed to be held
+separate and apart from the property of the employer in trust for Her Majesty. 
+If the source deductions are not remitted to the Receiver General by the due
+date, the deemed trust in s. 227(4.1) becomes operative and attaches to
+property of the employer to the extent of the amount of the unremitted source
+deductions.  The trust is deemed to have existed from the moment the source
+deductions were made.  The s. 227(4.1) deemed trust is similar in
+principle to a floating charge over all the tax debtor’s assets in favour of
+Her Majesty.  As long as the tax debtor continues to be in default, the trust
+continues to float over the tax debtor’s property.  At any given point in time,
+whatever property then belonging to the tax debtor is subject to the deemed
+trust.  As property comes into possession of the tax debtor, it is caught by
+the trust and becomes subject to Her Majesty’s interest.  Similarly, property
+which the tax debtor disposes of is thereby released from the deemed trust. 
+The mutuality of treatment between incoming and outgoing property relating to
+the deemed trust is supported by both the plain language of the provisions as
+well as their purpose and intent.  Her Majesty’s interest in the tax debtor’s
+property is protected because, while property which is sold to third party
+purchasers is released from the trust, at the same time, the proceeds of
+disposition of the alienated property are captured by the trust.  Commercial
+certainty is promoted owing to the fact that third party purchasers are free to
+transact with tax debtors or suspected tax debtors without fearing that Her
+Majesty may subsequently assert an interest in the property so acquired.  Since the deemed trust created by ss. 227(4) and
+227(4.1) encompasses property which comes into the hands of the tax debtor
+after the trust arises, when Great West came into possession of the Canada
+Safeway invoices, the deemed trust, which had already arisen as a consequence
+of Great West’s default in remittances, successfully attached to those
+invoices.  However, the deemed trust does not operate over assets which a tax
+debtor has sold in the ordinary course to third party purchasers. Once the
+Canada Safeway invoices had been factored to First Vancouver, the Minister was
+prevented from asserting its interest in these invoices.  Cases Cited  Approved:  Royal Bank v. Tuxedo Transport Ltd. (2000),
+79 B.C.L.R. (3d) 1, rev’g (1999), 6 C.B.R. (4th) 285; referred
+to:  Alberta (Treasury Branches) v. M.N.R., [1996] 1
+S.C.R. 963; Pembina on the Red Development Corp. v. Triman Industries Ltd.
+(1991), 85 D.L.R. (4th) 29; Royal Bank of Canada v. Sparrow Electric Corp.,
+[1997] 1 S.C.R. 411.  Statutes and Regulations Cited   Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .), ss. 153(1) , 224 ,
+224(1.2) , 227(4)  [repl. 1998, c. 19, s. 226(1)], (4.1) [en. idem].  APPEAL from a judgment of the Saskatchewan Court of
+Appeal (2000), 199 Sask. R. 9, [2000] 8 W.W.R. 386, [2000] 3 C.T.C. 93, [2001]
+G.S.T.C. 55, [2000] S.J. No. 330 (QL), 2000 SKCA 58, affirming a decision
+of the Court of Queen’s Bench (1999), 190 Sask. R. 286, [2000] 1 W.W.R. 713,
+[2000] 1 C.T.C. 99, [2001] G.S.T.C. 54, [1999] S.J. No. 738 (QL), 1999
+SKQB 166.  Appeal dismissed. Edward R. Sojonky,
+Q.C., and Mark Kindrachuk, for the appellant.  Joel A. Hesje and David M.
+A. Stack, for the respondent First Vancouver Finance.  The judgment of the Court was delivered by  Iacobucci
+J. —  I.       
+Introduction  1                                  
+This appeal concerns the interpretation of the deemed trust provisions
+in ss. 227(4)  and 227(4.1)  of the Income Tax Act, R.S.C. 1985, c. 1 (5th
+Supp .) (“ITA ”).  At the hearing of this appeal, the Court dismissed the
+appeal with reasons to follow.  The dispute is over certain property which came
+into the hands of the tax debtor after a deemed trust under s. 227(4.1)  arose.  The
+property was subsequently sold to a third party, after which time the Minister
+of National Revenue (“Minister”) asserted an interest in the property on the
+basis that it continued to be subject to the deemed trust even after its sale.  2                                  
+As a result, the two specific issues to be resolved on this appeal are,
+first, whether property which comes into the tax debtor’s hands after the
+deemed trust arises is subject to the trust, and, second, if so, whether the
+sale of trust property to third parties serves to release this property from
+the ambit of the trust.  3                                  
+Section 153(1)  of the ITA  requires employers to deduct and
+withhold amounts from their employees’ wages (“source deductions”) and remit
+these amounts to the Receiver General by a specified due date.  By virtue of s.
+227(4) , when source deductions are made, they are deemed to be held separate
+and apart from the property of the employer in trust for Her Majesty.  If the
+source deductions are not remitted to the Receiver General by the due date, the
+deemed trust in s. 227(4.1)  of the ITA  becomes operative and attaches to
+property of the employer to the extent of the amount of the unremitted source
+deductions.  As well, the trust is deemed to have existed from the moment the
+source deductions were made.  4                                  
+For the reasons set forth below, I find that the s. 227(4.1)  deemed
+trust is  similar in principle to a floating charge over all the tax debtor’s
+assets in favour of Her Majesty.  The trust arises the moment the tax debtor
+fails to remit source deductions by the specified due date, but is deemed to
+have been in existence from the moment the deductions were made.  As long as
+the tax debtor continues to be in default, the trust continues to float over
+the tax debtor’s property.  Thus, at any given point in time, whatever property
+then belonging to the tax debtor is subject to the deemed trust.  5                                  
+Viewed in this way, it is clear that, as property comes into possession
+of the tax debtor, it is caught by the trust and becomes subject to Her
+Majesty’s interest.  Similarly, property which the tax debtor disposes of is
+thereby released from the deemed trust.  This mutuality of treatment between
+incoming and outgoing property relating to the deemed trust is supported by
+both the plain language of the provisions as well as their purpose and intent. 
+Most importantly, Her Majesty’s interest in the tax debtor’s property is
+protected because, while property which is sold to third party purchasers is
+released from the trust, at the same time, the proceeds of disposition of the
+alienated property are captured by the trust.  Moreover, commercial certainty
+is promoted owing to the fact that third party purchasers are free to transact
+with tax debtors or suspected tax debtors without fearing that Her Majesty may
+subsequently assert an interest in the property so acquired.  6                                  
+Accordingly, I would dismiss the appeal on the basis that, although the
+property acquired by the tax debtor after the deemed trust arose became subject
+to the trust, when this property was sold to a third party, it was thereby
+released from the ambit of the deemed trust.  As such, after the sale, Her
+Majesty could no longer assert an interest in the property.  II.    Facts  7                                  
+The respondent, First Vancouver Finance (“First Vancouver”), is engaged
+in the business of factoring accounts receivable.  Great West Transport Ltd.
+(“Great West”) is in the transportation business.  On November 6, 1997, First
+Vancouver and Great West entered into a factoring agreement providing for the
+purchase by First Vancouver of Great West’s accounts receivable at a discount. 
+Pursuant to the agreement, First Vancouver became the owner of certain debts
+due to Great West.  8                                  
+Under the terms of the factoring agreement, First Vancouver purchased
+accounts through assignments entered into from time to time at Great West’s
+option.  First Vancouver did not purchase an individual account until it was
+submitted for approval, and it was not bound to purchase it up to that point. 
+After purchase, the Great West invoices were forwarded to Great West’s debtors,
+along with notification that the accounts had been sold and that subsequent
+payments should be made directly to First Vancouver.  Among the accounts
+purchased were several owing by Canada Safeway Limited or its associated
+undertakings (“Canada Safeway”).  9                                  
+As of the date of the factoring agreement, Great West owed money to the
+Minister because of unremitted payroll deductions and goods and services tax
+(“GST”).  First Vancouver was aware from the time it began dealing with Great
+West in November of 1997 that Great West was in arrears in respect of its
+payroll deductions and GST accounts.  First Vancouver had, as of November 10,
+1997, made arrangements with the Minister to forward part of the purchase price
+of the accounts, in the form of semi-monthly payments of $10,000, to the
+Minister which were to be applied to the arrears of Great West then
+outstanding.  In addition, Great West remained directly responsible to the
+Minister for its ongoing payroll deductions and GST remittances as they became
+due.  While First Vancouver regularly made payments pursuant to its arrangement
+with the Minister, Great West failed to meet its ongoing tax obligations.  10                              
+In January and February of 1999, Great West made 10 individual
+assignments to First Vancouver, relating to accounts receivable payable by
+Canada Safeway and its associated undertakings.  On February 10, 1999, the
+Minister served Canada Safeway with Enhanced Requirement to Pay Notices
+(“RTPs”), as authorized  by s. 224(1.2)  of the ITA  and s. 317(3)  of the Excise
+Tax Act, R.S.C. 1985, c. E-15 , as amended.  In response, Canada Safeway
+made payments totalling $187,444.66 to the Minister relating to accounts which
+Great West had assigned to First Vancouver between January 4 and February 17,
+1999.  Two of the sets of Canada Safeway accounts, totalling $31,086.43, were
+assigned to First Vancouver on February 11 and February 17, 1999, after the
+RTPs had been issued.  However, the remainder of the accounts had already been assigned
+to First Vancouver before February 10, 1999 when the RTPs were issued.  At no
+time prior to the payments from Canada Safeway to the Minister did First
+Vancouver receive any notice that the Minister was claiming an interest in any
+Great West accounts purchased by First Vancouver.  11                              
+In response to the Minister’s actions, First Vancouver brought an
+application in the Saskatchewan Court of Queen’s Bench to recover the amounts
+paid by Canada Safeway to the Minister pursuant to the RTPs.  12                              
+Wimmer J. of the Court of Queen’s Bench held that the monies owing on
+accounts factored prior to February 10, 1999, the date upon which Canada
+Safeway was served with the RTPs, were not subject to garnishment or to the
+deemed trust provisions of the ITA , or to any claim pursuant to the Excise
+Tax Act , and therefore that First Vancouver was entitled to these amounts. 
+However, he held that the RTPs had captured the two accounts assigned after the
+RTPs were issued (“post-RTP accounts”).  13                              
+On appeal, the Saskatchewan Court of Appeal dismissed the appeal of the
+Minister and the cross-appeal of First Vancouver on the issue of the post-RTP
+accounts.  III.   Relevant Statutory Provisions  14                              
+Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .)  227. . . .  (4) [Trust for moneys deducted] Every person who
+deducts or withholds an amount under this Act is deemed, notwithstanding any
+security interest (as defined in subsection 224(1.3)) in the amount so deducted
+or withheld, to hold the amount separate and apart from the property of the
+person and from property held by any secured creditor (as defined in subsection
+224(1.3)) of that person that but for the security interest would be property
+of the person, in trust for Her Majesty and for payment to Her Majesty in the
+manner and at the time provided under this Act.  (4.1) [Extension of trust]  Notwithstanding any
+other provision of this Act, the Bankruptcy and Insolvency Act  (except
+sections 81.1 and 81.2 of that Act), any other enactment of Canada, any
+enactment of a province or any other law, where at any time an amount deemed by
+subsection (4) to be held by a person in trust for Her Majesty is not paid to
+Her Majesty in the manner and at the time provided under this Act, property of
+the person and property held by any secured creditor (as defined in subsection
+224(1.3) ) of that person that but for a security interest (as defined in
+subsection 224(1.3) ) would be property of the person, equal in value to the
+amount so deemed to be held in trust is deemed  (a) to be held, from the time the amount was deducted or
+withheld by the person, separate and apart from the property of the person, in
+trust for Her Majesty whether or not the property is subject to such a security
+interest, and  (b) to form no part of the estate or property of the person from
+the time the amount was so deducted or withheld, whether or not the property
+has in fact been kept separate and apart from the estate or property of the
+person and whether or not the property is subject to such a security interest  and is property beneficially owned by Her Majesty notwithstanding any
+security interest in such property and in the proceeds thereof, and the
+proceeds of such property shall be paid to the Receiver General in priority to
+all such security interests.  IV.   Judgments Below  A.       
+Saskatchewan Court of Queen’s Bench, [2000] 1 W.W.R. 713  15                              
+On the preliminary issue of the ownership of the factored accounts,
+Wimmer J. relied upon the definition of a factoring agreement from Alberta
+(Treasury Branches) v. M.N.R., [1996] 1 S.C.R. 963, at paras. 30-31.   In
+that case, Cory J. stated at para. 31 that, “A factoring of accounts receivable
+is based upon an absolute assignment of them.  It is in effect a sale by a
+company of its accounts receivable at a discounted value to the factoring
+company for immediate consideration.”  16                              
+Wimmer J. observed that, according to  Alberta (Treasury Branches),
+an absolute and unconditional assignment of book debts is beyond the reach of
+the Minister under garnishment provisions.  He held further that the
+assignments from Great West to First Vancouver were absolute and unconditional
+because, upon completion of the assignments, Great West had no residual rights
+in the property and could not redeem or recover the accounts and, in that
+circumstance, Canada Safeway had no liability to Great West after there was a
+completed transfer of accounts.  Although the Minister argued that the
+assignments were not absolute because under the factoring agreement First Vancouver
+had recourse to Great West if a customer disputed or failed to pay an account,
+Wimmer J. noted that the definition of factoring approved by Cory J.
+contemplated that a factor may acquire an absolute interest in book debts with
+or without recourse (p. 718).  17                              
+As a result, monies owing on accounts factored prior to February 10,
+1999, the date upon which Canada Safeway was served with the RTPs, were not
+subject to garnishment under s. 224  of the ITA  or s. 317  of the Excise
+Tax Act .  However, the two accounts factored after February 10 were
+effectively intercepted by the RTPs.  18                              
+With respect to the deemed trust under s. 227(4.1)  of the ITA ,
+Wimmer J. applied the reasoning of Burnyeat J. of the British Columbia Supreme
+Court in Royal Bank v. Tuxedo Transport Ltd. (1999), 6 C.B.R. (4th)
+285.  Since the Canada Safeway invoices came into existence after the Great
+West payroll deduction delinquencies arose and were assessed, the invoices were
+“after-acquired property” not subject to a s. 227(4.1)  deemed trust in favour
+of Her Majesty.  Wimmer J. acknowledged that Tuxedo Transport was under
+appeal.  However, he stated that, since the judgment came from a court of
+comparable jurisdiction, and as he was not satisfied it was wrong, he was
+prepared to follow that decision.  19                              
+As a result, Wimmer J. held that amounts owing on accounts factored
+prior to February 10, 1999, the date upon which the Minister served Canada
+Safeway with the RTPs, were not subject to garnishment or to a deemed trust
+pursuant to ss. 224  and 227  of the ITA , or to any claim pursuant to s.
+317  of the Excise Tax Act . Consequently, a declaration was made
+confirming First Vancouver’s entitlement to the funds already paid by Canada
+Safeway to the Minister, with the exception of  the funds covered by the two
+Canada Safeway accounts factored after February 10, 1999, along with costs.  B.  Saskatchewan
+Court of Appeal, [2000] 8 W.W.R. 386  20                              
+In a very brief oral decision, the Saskatchewan Court of Appeal
+dismissed the Minister’s appeal, and First Vancouver’s cross-appeal, both with
+costs, finding that the trial judge had not erred in the interpretation of the
+relevant statutory provisions or in the application of those provisions to the
+facts of the case.  V.       
+Issues  21            
+A.     Is property acquired by an employer after a default in remitting
+payroll deductions (“after-acquired property”) subject to the deemed trust in
+s. 227(4.1)  of the ITA ?  B.       Does the deemed trust under s. 227(4.1) 
+continue to attach to property which has been sold by the tax debtor to a third
+party purchaser for value?  VI.   Analysis  A.       
+General Scheme and Background of the Section 227(4.1)  Deemed Trust  22                              
+The collection of source deductions has been recognized as “at the
+heart” of income tax collection in Canada: see Pembina on the Red
+Development Corp. v. Triman Industries Ltd.  (1991), 85  D.L.R. (4th) 29
+(Man. C.A.), at p. 51, per Lyon J.A. (dissenting), quoted with approval
+by Gonthier J. (dissenting on another issue) in Royal Bank of Canada v.
+Sparrow Electric Corp., [1997] 1 S.C.R. 411, at para. 36.  Because of the
+importance of collecting source deductions, the legislation in question gives
+the Minister the vehicle of the deemed trust to recover employee tax deductions
+which employers fail to remit to the Minister.  23                              
+It has also been noted that, in contrast to a tax debtor’s bank which is
+familiar with the tax debtor’s business and finances, the Minister does not
+have the same level of knowledge of the tax debtor or its creditors, and cannot
+structure its affairs with the tax debtor accordingly.  Thus, as an
+“involuntary creditor”, the Minister must rely on its ability to collect source
+deductions under the ITA : Pembina on the Red Development, supra,
+at pp. 33-34, per Scott C.J.M., approved by Cory J. in Alberta
+(Treasury Branches), supra, at paras. 16-18.  For the above reasons,
+under the terms of the ITA , the Minister has been given special priority
+over other creditors to collect unremitted taxes.  24                              
+This Court had occasion to interpret the deemed trust provisions in  Sparrow
+Electric, supra.  At that time, the relevant provisions were ss.
+227(4)  and 227(5)  of the ITA  which read as follows:  227. . . .  (4) Every person who deducts or withholds any amount
+under this Act shall be deemed to hold the amount so deducted or withheld in
+trust for Her Majesty.  (5) Notwithstanding any provision of the Bankruptcy
+Act, in the event of any liquidation, assignment, receivership or
+bankruptcy of or by a person, an amount equal to any amount  (a) deemed by subsection (4) to be held in trust for Her Majesty
+. . .  shall be deemed to be separate from and form no part of the estate in
+liquidation, assignment, receivership or bankruptcy, whether or not that amount
+has in fact been kept separate and apart from the person’s own moneys or from
+the assets of the estate.  25                              
+In Sparrow Electric, both Royal Bank and the Minister claimed an
+interest in the proceeds of inventory of the tax debtor.   In characterizing
+the nature of the deemed trust provisions, Gonthier J. (dissenting, but not on
+this issue) stated at para. 34 that, even if collateral was subject to a fixed
+charge at the time of a triggering event such as bankruptcy or liquidation, the
+deemed trust operated to attach the Minister’s interest  to such collateral as
+long as it was not subject to the fixed charge at the time the source
+deductions were made:  Thus, s. 227(5) [now s. 227(4.1) ] alternatively permits Her Majesty’s
+interest to attach retroactively to the disputed collateral if the competing
+security interest has attached after the deductions giving rise to Her
+Majesty’s claim in fact occurred.  Conceptually, the s. 227(5) deemed trust
+allows Her Majesty’s claim to go back in time and attach its outstanding s.
+227(4)  interest to the collateral before that collateral became subject to a
+fixed charge. [Emphasis in original.]  Royal Bank’s
+interest was characterized as a fixed and specific charge over the inventory of
+the tax debtor.  This had the effect of making the bank the legal owner of
+inventory as it came into possession of the tax debtor, subject to the debtor’s
+equitable right of redemption.  The majority of the Court concluded that, since
+the inventory was subject to the bank’s security interest before the deductions
+giving rise to the deemed trust occurred, the bank’s interest attached to the
+inventory in priority to Her Majesty’s interest under the deemed trust.  26                              
+However, in reaching this conclusion, the majority of the Court noted at
+para. 112 that Parliament was free to grant absolute priority to the deemed
+trust by adopting the appropriate language:  Finally, I wish to emphasize that it is open to
+Parliament to step in and assign absolute priority to the deemed trust.  A
+clear illustration of how this might be done is afforded by s. 224(1.2)  ITA ,
+which vests certain moneys in the Crown “notwithstanding any security interest
+in those moneys” and provides that they “shall be paid to the Receiver General
+in priority to any such security interest”.  All that is needed to effect the
+desired result is clear language of that kind.  27                              
+In response to Sparrow Electric, the deemed trust provisions were
+amended in 1998 (retroactively to 1994) to their current form.  Most notably,
+the words “notwithstanding any security interest . . . in the
+amount so deducted or withheld” were added to s. 227(4) .  As well, s. 227(4.1)
+(formerly s. 227(5)) expanded the scope of the deemed trust to include
+“property held by any secured creditor . . . that but for a security
+interest . . . would be property of the person”.  Section 227(4.1)
+was also amended to remove reference to the triggering events of liquidation,
+bankruptcy, etc., instead deeming property of the tax debtor and of secured
+creditors to be held in trust “at any time an amount deemed by subsection (4)
+to be held by a person in trust for Her Majesty is not paid to Her Majesty in
+the manner and at the time provided under this Act”.  Finally, s. 227(4.1) now
+explicitly deems the trust to operate “from the time the amount was deducted or
+withheld”.  28                              
+It is apparent from these changes that the intent of Parliament when
+drafting ss. 227(4)  and 227(4.1)  was to grant priority to the deemed trust in
+respect of property that is also subject to a security interest regardless of
+when the security interest arose in relation to the time the source deductions were
+made or when the deemed trust takes effect.  This is clear from the use of the
+words “notwithstanding any security interest” in both ss. 227(4)  and 227(4.1) . 
+In other words, Parliament has reacted to the interpretation of the deemed
+trust provisions in Sparrow Electric, and has amended the provisions to
+grant priority to the deemed trust in situations where the Minister and secured
+creditors of a tax debtor both claim an interest in the tax debtor’s property.  29                              
+As noted above, Parliament has also amended the deemed trust provisions
+in regard to the timing of the trust.  Reference to events triggering operation
+of the deemed trust such as liquidation or bankruptcy have been removed. 
+Section 227(4.1) now states that the deemed trust begins to operate “at any
+time [source deductions are] . . . not paid to Her Majesty
+in the manner and at the time provided under this Act” (emphasis added).  Thus,
+the deemed trust is now triggered at the moment a default in remitting source
+deductions occurs.  Further, pursuant to s. 227(4.1)(a), the trust is
+deemed to be in effect “from the time the amount was deducted or withheld”. 
+Thus, while a default in remitting source deductions triggers the operation of
+the trust, the trust is deemed to have been in existence retroactively to the
+time the source deductions were made.  It is evident from these changes that
+Parliament has made a concerted effort to broaden and strengthen the deemed
+trust in order to facilitate the collection efforts of the Minister.  30                              
+In light of this overview of the context and operation of the s.
+227(4.1) deemed trust, it remains to be determined, first, whether the trust
+captures property that the tax debtor acquires after the trust is deemed to
+come into existence, and, second, whether the sale by the tax debtor of trust
+property effectively releases such property from the purview of the deemed
+trust.  B.     Does
+the Deemed Trust Attach to After-Acquired Property of the Tax Debtor?  31                           
+As noted above, in coming to the conclusion that the deemed trust did
+not attach to after-acquired property of the tax debtor, the courts below
+relied on the B.C. Supreme Court decision in Tuxedo Transport, supra. 
+That decision has since been overturned by the B.C. Court of Appeal: Royal
+Bank v. Tuxedo Transport Ltd. (2000), 79 B.C.L.R. (3d) 1.  In that case,
+Donald J.A., speaking for the court, characterized the trust as follows, at
+para. 11:  Subsection 227(4)  makes the trust operative at the
+time of the deductions.  Subsection 227(4.1) acts to ensure that if deductions
+are still unpaid when assets come into the hands of the taxpayer, those assets
+will be deemed to be part of the trust.  Beginning with the date the deductions
+are made the trust continues forward in time and attaches to any property of
+the debtor as it comes into existence.  The Court of
+Appeal based this conclusion on the plain meaning of the language used in the
+statute, and was bolstered by its view that, to hold otherwise, would lead to
+“unacceptable results” (at para. 15), such as the following:  Take the example of a company that makes a payroll deduction one day
+and receives a large payment the next.  The company could carry on business
+using the unremitted deductions for its operating expenses and the deemed trust
+could not attach to the monies received shortly after the payday.  32                           
+I am in essential agreement with the view taken by the B.C. Court of
+Appeal in Tuxedo Transport.  In my view, the plain language of the
+provisions leads to the inevitable conclusion that the deemed trust attaches to
+after-acquired property.  Most notably, s. 227(4.1) refers expressly to the
+“proceeds” of property which is subject to the trust and directs that “the
+proceeds of such property shall be paid to the Receiver General in priority to
+all . . . security interests [in the property]”.  In addition, the
+section states that where, at any time, the debtor is in default to the
+Minister, that “property of the person . . . equal in value to the
+amount so deemed to be held in trust is deemed” to be held in trust for Her
+Majesty (emphasis added).  This language implies that Parliament has
+contemplated a fluidity with respect to the assets of the debtor to which the
+trust attaches.  In particular, reference to the “proceeds” of trust property
+is an explicit indication that property acquired through the disposition of
+trust property by the tax debtor after the trust arises is included within the
+ambit of the trust. 33                           
+I find additional support for this view in the fact that s. 227(4.1)
+deems the trust to be in effect “at any time [source deductions are] not
+paid to Her Majesty in the manner and at the time provided under this Act”
+(emphasis added).  Further, in the event of default, the trust extends back
+“from the time the amount was deducted or withheld by the person”.  These words
+indicate that the intent of the section is to allow the trust to operate in a
+continuous manner, attaching to any property which comes into the hands of the
+debtor as long as the debtor continues to be in default, and extending back in
+time to the moment of the initial deduction.  The language Parliament has
+chosen belies the suggestion that the deemed trust only captures property of
+the tax debtor in existence at some particular moment in time.  34                           
+I find no contradiction in coming to the conclusion that after-acquired
+property can be subject to the trust even though the trust reaches back in time
+to a point before the acquisition of the property by the tax debtor.  This is
+because the property so acquired will presumably have been taken in exchange
+for property of equal value which the debtor has disposed of.  Thus, the
+acquired property can simply be viewed as replacing the initial subject matter
+of the trust.  Moreover, since the trust is a deemed statutory trust, it is not
+governed by common law requirements, and, in this regard, the ongoing
+acquisition of trust property does not present a conceptual difficulty.  I
+emphasize that it is open to Parliament to characterize the trust in whatever
+way it chooses; it is not bound by restraints imposed by ordinary principles of
+trust law.  35                           
+In addition to being supported by the clear wording of the provisions,
+this view accords with the purpose of the s. 227(4.1) deemed trust.  In this
+respect, I agree with the B.C. Court of Appeal that Parliament could not have
+intended an employer who is in default one day and comes into a significant
+payment the next to thereby largely escape the operation of the deemed trust
+and continue to use the misappropriated funds in its business dealings.  This
+would not accord with the Parliamentary intention to grant broad powers of
+collection to the Minister under the deemed trust.  36                           
+As well,  if the deemed trust were limited to property held by the
+employer at the time of the default, the Minister would have difficulty
+establishing that any particular part of the employer’s property was subject to
+the deemed trust, and would be forced to engage in a significant degree of
+tracing.  However, as noted by Gonthier J. in Sparrow Electric, at
+para. 37, one of the purposes of the deemed trust is to eliminate the need for
+tracing:  After considering the matter, it is my view that
+it is not accurate to describe the mechanism of s. 227(5) as a means of
+“tracing”; indeed, it would seem that this subsection is antithetical to
+tracing in the traditional sense, to the extent that it requires no link at
+all between the subject matter of the trust and the fund or asset which the
+subject matter is being traced into. . . . [Emphasis added.] 37                           
+This observation holds true despite the subsequent amendments to the
+deemed trust provisions.  As with the previous enactment of the section, s.
+227(4.1) refers to property “equal in value to the amount so deemed to
+be held in trust” (emphasis added), and states that this property is subject to
+the trust “whether or not the property has in fact been kept separate and
+apart”.  Indeed, if anything, by deeming the trust to be effective “at any
+time” the debtor is in default, the amendments serve to strengthen the
+conclusion that the Minister is not required to trace its interest to assets
+which belonged to the tax debtor at the time the source deductions were made. 
+In this regard, the remarks of Gonthier J. in Sparrow Electric, at para.
+31, are apposite:  The trust is not in truth a real one, as the subject matter of the
+trust cannot be identified from the date of creation of the
+trust. . . . However, s. 227(5) [now s. 227(4.1)] has the effect
+of revitalizing the trust whose subject matter has lost all identity.  This
+identification of the subject matter of the trust therefore occurs ex post
+facto.  In this respect, I agree with the conclusion of Twaddle J.A. in Roynat,
+supra, where he states the effect of s. 227(5) as follows, at p. 647: “Her
+Majesty has a statutory right of access to whatever assets the employer then
+has, out of which to realize the original trust debt due to Her”. [Emphasis
+added.]  The reasoning
+adopted by the courts below would require substantial tracing, as the deemed
+trust would be restricted to include only property held by the tax debtor on
+the date the source deductions were made.  With respect, this is not in accord
+with the language or purpose of the deemed trust.  38                           
+In conclusion, based on the plain language of ss. 227(4)  and 227(4.1)  as
+supported by the purpose of the provisions and intentions of Parliament, the
+deemed trust created by these sections encompasses property which comes into
+the hands of the tax debtor after the trust arises.  As a result, when Great
+West came into possession of the Canada Safeway invoices, the deemed trust,
+which had already arisen as a consequence of Great West’s default in
+remittances, successfully attached to those invoices.  C.     Does
+the Deemed Trust Continue to Operate on Property Which Has Been Sold by the Tax
+Debtor to Third Parties?  39                           
+As a preliminary matter, I note that the Minister does not take issue
+with the chambers judge’s holding, following Alberta (Treasury Branches),
+supra, that First Vancouver is not a secured creditor of Great West, but
+a third party purchaser of book debts.  Thus, the question of the priority of
+secured creditors does not arise.  The issue here is whether the alienation by
+Great West of the Canada Safeway invoices, which were subject to the deemed
+trust under ss. 227(4)  and 227(4.1) , served to release that property from the
+scope of the trust.  40                           
+In my view, the scheme envisioned by Parliament in enacting ss. 227(4) 
+and 227(4.1)  is that the deemed trust is in principle similar to a floating
+charge over all the assets of the tax debtor in the amount of the default.  As
+noted above, the trust has priority from the time the source deductions are
+made, and remains in existence as long as the default continues.  However, the
+trust does not attach specifically to any particular assets of the tax debtor
+so as to prevent their sale.  As such, the debtor is free to alienate its
+property in the ordinary course, in which case the trust property is replaced
+by the proceeds of sale of such property.  41                           
+This interpretation finds support in both the words used in ss. 227(4) 
+and 227 (4.1)  and the purpose of the deemed trust.  In my opinion, s. 227(4.1)
+explicitly restricts the trust to property owned by the tax debtor by stating
+that the property of the tax debtor held in trust for Her Majesty “is property
+beneficially owned by Her Majesty . . . and the proceeds of such
+property shall be paid to the Receiver General” (emphasis added).  This
+reference to the proceeds of trust property is an acknowledgment in the very
+words of the ITA  that Parliament contemplated that a tax debtor is free
+to alienate its property and that, when it does so, the trust releases the
+disposed-of property and attaches to the proceeds of sale.  In addition, as
+discussed above, the trust does not attach to any specific property.  Instead,
+by s. 227(4.1) , the trust attaches to “property of the [tax debtor]
+. . . equal in value to the amount [of the tax debt]”.  This language
+indicates, first, that the subject matter of the trust is focussed solely on
+the tax debtor’s property, and, second, that it is anticipated that the
+character of the tax debtor’s property will change over time.  42                           
+Indeed, it is the logical corollary to my conclusion on the first issue,
+namely that the deemed trust attaches to after-acquired property of the tax
+debtor, that the trust also releases property alienated by the tax debtor.  In
+this way, when an asset is sold by the tax debtor, the deemed trust ceases to
+operate over that asset; however, the property received by the tax debtor in
+exchange becomes subject to the deemed trust.  As such, the trust is neither
+depleted nor enhanced; it simply floats over the property belonging to the tax
+debtor at any given time, for as long as the default in remittances continues.  43                           
+Although it would be open to Parliament to extend the trust to property
+alienated by the tax debtor, such an interpretation is simply not supported by
+the language of the ITA .  It is significant in this regard that
+purchasers for value are not included in ss. 227(4)  and 227(4.1)  whereas
+secured creditors are. In Pembina on the Red Development, supra,
+Twaddle J.A. took note of the “long-established principle of law that, in the
+absence of clear language to the contrary, a tax on one person cannot be
+collected out of property belonging to another” (p. 46).  In Sparrow
+Electric, supra, at para. 39, Gonthier J. also referred to this
+principle, stating that:  [T]his provision does not permit Her Majesty to attach Her beneficial
+interest to property which, at the time of liquidation, assignment,
+receivership or bankruptcy, in law belongs to a party other than the tax
+debtor.  Section 227(4)  and (5)  are manifestly directed towards the property of
+the tax debtor, and it would be contrary to well-established authority to
+stretch the interpretation of s. 227(5) [now s. 227(4.1)] to permit the
+expropriation of the property of third parties who are not specifically
+mentioned in the statute. [Emphasis added.]  Thus, in the
+absence of an express reference to third party purchasers, there is no basis
+upon which to allow the Minister’s interest in the tax debtor’s property to
+continue once such property has been sold to third parties.  44                           
+Although it is not necessary to resort to policy arguments, in my view
+it is worthwhile noting that to allow s. 227(4.1) to override the rights of
+purchasers for value would result in an unprecedented level of uncertainty.  In
+fact, in oral argument, counsel for the Minister conceded that such an
+interpretation would, in theory, allow the Minister to go so far as to assert
+an interest in assets sold by tax debtors to ordinary consumers.  In my view,
+it is no exaggeration to say that adopting this interpretation of the deemed
+trust would have a general chilling effect on commercial transactions.  45                           
+Furthermore, to allow the deemed trust to attach to property sold to
+third parties would be more likely to hinder, rather than help, the Minister’s
+collection efforts.  For example, in the case at bar,  if First Vancouver had
+thought that it could not purchase Great West’s assets free and clear of Her
+Majesty’s claim, it would have been unlikely to have entered into the factoring
+agreement with Great West.  As a result, Her Majesty would not have received
+the semi-monthly payments of $10,000 from First Vancouver.  More generally, the
+interpretation advocated by the Minister would likely frustrate the ability of
+a tax debtor to convert hard assets into cash in order to pay “the proceeds of
+such property . . . to the Receiver General” as contemplated by
+s. 227(4.1), because prospective purchasers would fear that the Minister would
+assert an interest in these assets.  The practical effect of this would be to
+freeze the tax debtor’s assets and prevent it from carrying on business.  In my
+view, this is clearly not a result intended by Parliament.  46                           
+In summary, the deemed trust does not operate over assets which a tax
+debtor has sold in the ordinary course to third party purchasers.  As such,
+once the Canada Safeway invoices had been factored to First Vancouver, the
+Minister was prevented from asserting its interest in these invoices.  VII.   Conclusion  47                              
+For the foregoing reasons, I would dismiss the appeal with costs.  Appeal dismissed with costs.  Solicitor for the appellant:  The Attorney General of
+Canada, Ottawa.  Solicitors for the respondent First Vancouver
+Finance:  McKercher McKercher & Whitmore, Saskatoon.   

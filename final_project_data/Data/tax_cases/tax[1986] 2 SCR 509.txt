@@ -1,0 +1,250 @@
+ Ensite Ltd. v. R., [1986] 2 S.C.R. 509  Ensite Limited    Appellant  v.  Her Majesty The Queen    Respondent  indexed as: ensite ltd. v. r.  File No.: 18005.  1986: May 21; 1986: November 6.  Present: Dickson C.J. and Beetz, McIntyre, Chouinard and Wilson JJ.   on appeal from the federal court of appeal                      Appellant, which had to finance its plant in the
+Philippines with foreign currency in order to comply with Philippine law,
+became involved in an elaborate arrangement to minimize the risks of
+devaluation and currency controls. Appellant made U.S. dollar deposits with the
+commercial banks, which then made the peso loans in an equivalent amount to
+appellant at its Philippine branch and in return received certificates of
+deposit for the U.S. dollar deposits which were then used to secure the peso
+loans. The certificates were "enforceable" against any branch of the
+commercial banks outside the United States. The pesos were obtained in exchange
+for U.S. dollars by the commercial banks from the Central Bank of the
+Philippines under agreements guaranteeing the rate of exchange of any
+conversion back to U.S. dollars.                     In 1976, appellant claimed a "dividend
+refund" under s. 129(1)(a). The tax scheme contemplated that an
+increase in a corporation's "foreign investment income" might result
+in an increase in its "dividend refund". Appellant included the
+interest from its U.S. dollar deposits in the Philippines in the calculation of
+its "foreign investment income".                     The Minister reassessed the return and refused to
+recognize the interest as "foreign investment income", as defined in
+s. 129(4)(b), because it was "income from property used or held by
+the corporation in the year in the course of carrying on a business".
+Appellant's dividend refund was therefore reduced. The Federal Court, Trial
+Division, allowed an appeal from that reassessment but its judgment was
+overturned on appeal.                     Held: The appeal should
+be dismissed.                     The test to distinguish income from carrying on a
+business from income derived from property is whether or not the property was
+used to fulfil a requirement which had to be met in order to do business and
+not whether or not the taxpayer was forced to use a particular property to do
+business. The property must be truly employed and risked in the business and
+"risk" must mean more than a remote risk and more than a business
+purpose for the use of property. The threshold of the test is met when the
+withdrawal of the property would "have a decidedly destabilizing effect on
+the corporate operations themselves". The investment of profits from trade
+in order to achieve some collateral purpose is therefore distinguishable from
+an investment made in order to fulfil a mandatory condition precedent to trade.
+Here, the property was not for any collateral purpose but rather was employed
+and risked in the taxpayer's business in the most intimate way. It was used or
+held in the business and fulfilled a mandatory condition precedent to trade.  Cases Cited                     Considered: The
+Queen v. Marsh & McLennan, Ltd., [1984] 1 F.C. 609, reversing [1982] 2
+F.C. 131; distinguished: Vancouver Pile Driving & Contracting Co.
+v. Minister of National Revenue, 63 D.T.C. 1007; referred to: March
+Shipping Ltd. v. Minister of National Revenue, 77 D.T.C. 371; Canadian
+Marconi Co. v. The Queen, [1986] 2 S.C.R. 522; Bank Line Ltd. v.
+Commissioner of Inland Revenue (1974), 49 T.C. 307; Liverpool and London
+and Globe Insurance Co. v. Bennett, [1913] A.C. 610; Owen v. Sassoon
+(1951), 32 T.C. 101; The Queen v. Brown Boveri Howden Inc., 83 D.T.C.
+5319.  Statutes and Regulations Cited     Authors Cited  Scace, Arthur R. A. The
+Income Tax Law of Canada, 3rd ed. Toronto: Law Society of Upper Canada,
+1976.                      APPEAL from a judgment of the Federal Court of
+Appeal, 83 D.T.C. 5315, [1983] C.T.C. 296, allowing the Crown's appeal from a
+judgment of Jerome A.C.J., 81 D.T.C. 5326, [1981] C.T.C. 445, allowing an
+appeal from reassessment by the Minister of National Revenue under the Income
+Tax Act. Appeal dismissed.                     John T. Morin, Q.C.,
+and Stephen S. Ruby, for the appellant.                     Ian MacGregor
+and Gaston Jorré, for the respondent.                     The judgment of the Court was delivered by   1. The Facts  2.                Ensite, which carries on the business of
+manufacturing and selling automobile engines, is a private corporation within
+the meaning of s. 89(1) of the Income Tax Act. In 1972 Ensite decided to
+invest in a stamping plant in the Philippines. In order to comply with
+Philippine law it had to bring foreign currency into the Philippines to finance
+the stamping plant. In case the Philippine peso might be devalued or the
+Philippine government might prevent Ensite from taking foreign funds out of the
+Philippines, an elaborate arrangement was made in an attempt to minimize these
+risks while at the same time satisfying Philippine law. It involved the
+investment by Ensite of up to $5 million of its own money in the stamping plant
+and the obtaining of loans to provide the balance of the capital requirement
+for the plant. The precise details of the arrangements implemented by Ensite,
+which are important to the disposition of the appeal, are set out in the
+reasons for judgment of Le Dain J. in the Federal Court of Appeal, 83 D.T.C.
+5315, at p. 5317:                     The
+loans were made available through "swap arrangements" between the
+Central Bank of the Philippines and the commercial banks which made the loans
+to the Philippine branch of Ensite. The commercial banks obtained Philippine
+pesos from the Central Bank at the prevailing exchange rate upon depositing
+U.S. dollars with the Central Bank under arrangements that ensured that the
+pesos could be reconverted to U.S. dollars in the future at an agreed exchange
+rate, thus affording protection against the risk of devaluation. Ensite made
+U.S. dollar deposits with the commercial banks, which then made the peso loans
+in an equivalent amount to the Philippine branch. Ensite received certificates
+of deposit for the U.S. dollar deposits with the commercial banks which it
+turned over to the banks as security for repayment of the peso loans. The
+schedule for repayment or withdrawal of the U.S. dollar deposits corresponded
+to the schedule for repayment of the peso loans, which was to begin at the end
+of an initial period of five years and continue in six annual instalments. The
+certificates were declared to be "enforceable" against any branch of
+the commercial banks outside of the United States thus ensuring against the
+risk of foreign exchange controls that would prevent U.S. dollars from being
+taken out of the Philippines. It was not essential to the swap arrangements
+that Ensite make the U.S. dollar deposits with the commercial banks. The
+required U.S. dollars could have been made available by the commercial banks on
+other terms. But the U.S. dollar deposits permitted Ensite to obtain interest
+rates that reduced the net cost of the borrowing.  3.                In its return for the 1976 taxation year
+Ensite claimed a "dividend refund" under s. 129(1)(a) of the Income
+Tax Act. The amount of the refund is, according to the section:  ... equal to the lesser of  (i) 1/3 of all taxable
+dividends paid by it in the year on shares of its capital stock, and  (ii) its refundable
+dividend tax on hand at the end of the year; ...  The "refundable dividend tax on hand" of a corporation is
+calculated following the formula set out in s. 129(3). One of the amounts
+included in this complex formula is a corporation's "foreign investment
+income", defined in s. 129(4) as follows:                     (4) In
+subsection (3),  (a) "Canadian
+investment income" of a corporation for a taxation year means the amount,
+if any, by which the aggregate of  (i) the amount, if any, by
+which the aggregate of such of the corporation's taxable capital gains for the
+year from dispositions of property as may reasonably be considered to be income
+from sources in Canada exceeds the aggregate of such of the corporation's
+allowable capital losses for the year from dispositions of property as may
+reasonably be considered to be losses from sources in Canada,  (ii) all amounts each of
+which is the corporation's income for the year (other than exempt income or any
+dividend the amount of which was deductible under section 112 from its income
+for the year) from a source in Canada that is a property (other than a property
+used or held by the corporation in the year in the course of carrying on a
+business), determined, for greater certainty, after deducting all outlays and
+expenses deductible in computing the corporation's income for the year to the
+extent that they may reasonably be regarded as having been made or incurred for
+the purpose of earning the income from that property,  (iii) all amounts each of
+which is the corporation's income for the year (other than exempt income) from a
+source in Canada that is a business other than an active business, determined,
+for greater certainty, after deducting all outlays and expenses deductible in
+computing the corporation's income for the year to the extent that they may
+reasonably be regarded as having been made or incurred for the purpose of
+earning the income from that business,  exceeds the aggregate of
+amounts each of which is a loss of the corporation for the year from a source
+in Canada that is a property or business other than an active business; and  (b) "foreign
+investment income" of a corporation for a taxation year means the amount,
+if any, by which  (i) the amounts that would
+be determined under paragraph (a) in respect of the corporation for the
+year if the references in paragraph (a) to "in Canada" were
+read as references to "outside Canada",  exceeds  (ii) the aggregate of all
+amounts deductible under section 113 from the corporation's income for the
+year.  4.                As can be seen from this legislative
+framework an addition made to a corporation's "foreign investment
+income" may well increase the "refundable dividend tax on hand"
+of a corporation which may result in an increase in the size of the
+"dividend refund" under s. 129(1)(a).  5.                In this case Ensite included interest of
+$2,323,140 from its U.S. dollar deposits in the Philippines in its calculation
+of "foreign investment income" for the 1976 taxation year. This
+inclusion made the amount calculated under paragraph (i) of s. 129(1)(a)
+less than the amount under paragraph (ii) of the subsection and so it claimed a
+refund of $2,498,931. The Minister, in his reassessment, refused to recognize
+the interest as "foreign investment income" as defined in s. 129(4)(b)
+because it was income from an active business or was "income from property
+used or held by the corporation in the year in the course of carrying on a
+business". Ensite's dividend refund was therefore reduced by $972,860.
+Ensite appealed the Minister's reassessment.  2. The Courts Below   ... I am of the view that
+these benefits were not sufficient to integrate the transaction with the
+taxpayer's main business, or to use the language of the statute, to warrant a
+finding that these funds were "property used or held by the corporation in
+the year in the course of carrying on a business". It is, to me, extremely
+significant that the return from these investments would carry on at the
+negotiated rate, independent entirely of success or failure of the plant and
+that the taxpayer enjoyed the right to recall the invested funds at any time
+and to do so in American currency and through offshore rather than Philippines
+branches of the banks concerned. These were prima facie
+investment transactions. As a result of these precautions, they were insulated
+from the taxpayer's main business. In terms of the attention required to manage
+them or their effect on the total income, they remain clearly secondary or
+incidental to the taxpayer's main business.  7.                The Federal Court of Appeal (83 D.T.C.
+5315) allowed the Crown's appeal on the issue whether the dollar deposits were
+property used or held by the corporation in the course of carrying on its
+business. Le Dain J., with whom Heald J. and Clement D.J. agreed, based his
+reasons on the Federal Court of Appeal's decision in The Queen v. Marsh
+& McLennan, Ltd., supra, which had reversed Jerome A.C.J.'s
+decision below. Le Dain J. was of the view that the case at hand was analogous
+to that case. He stated at p. 5319:                     For the
+reasons which I briefly indicated in Marsh & McLennan I am of the
+opinion that the same view must be taken of the interest on the U.S. dollar
+deposits in the present case. Whether or not it was essential to do so, the
+fund represented by the U.S. dollar deposits was in fact committed to the
+carrying on of Ensite's business in the Philippines. It was employed and risked
+in the business because it was an integral part of the arrangements by which
+the business was being financed. The U.S. dollar deposits were the means by
+which the peso loans were obtained on the most favourable terms, including a
+reduced cost of borrowing, and they were security for the repayment of the
+loans. For these reasons they were in my opinion property used or held by
+Ensite in the carrying on of its business, and the interest earned on them was,
+therefore, not foreign investment income within the meaning of section 129.  8.                Leave to appeal was granted by the
+Supreme Court of Canada on December 15, 1983.  3. The Issue   10.              In the course of his reasons for judgment
+Clement D.J. stated at p. 638:  To use words employed by
+Rowlatt J. in Scales (H.M. Inspector of Taxes) v. George Thompson &
+Company, Limited (1927), 13 T.C. 83 (Eng. Q.B.) [sic], on the facts of this
+case there was between the Broker's business and the investments an
+interconnection, an interlacing, an interdependence, a unity embracing the
+investments and the business.  Le Dain J. concurred in the result but proposed at p. 621 a differently
+worded test:  Was the fund employed and
+risked in the business? In my opinion it was, because an amount equivalent to
+this notional fund was committed to the carrying on of the business in order to
+meet the company's obligations to the insurers.   ... it is only property
+that is in one way or another employed in the carrying on of the business and
+thus in the earning of the profits of that business that falls within the
+exception.                                                                      ...                                                                       ...  Not only were they not
+made in the course of carrying on the business, they were not used to pay its
+obligations. Nor were they capital invested in or at risk in the business.  11.              The precise difference in substance
+between the test employed by Le Dain J. and that of Clement D.J. is not easy to
+discern. In many instances property which is "employed or risked" in
+the business will be "interconnected, interlaced and interdependent"
+with the business. However, the wording of the test employed by Le Dain J.
+seems more specific and therefore preferable because it emphasizes that the
+holding or using of the property must be linked to some definite obligation or
+liability of the business. The test applied by Clement D.J., on the other hand,
+is worded so broadly that it might prevent the exception from applying where a
+company simply failed to put in place certain organizational and accounting
+mechanisms in order to create the formal appearance of a separate and distinct
+concern.   13.              It would seem to follow that the
+legislative intention underlying the amendment was to catch income from
+property that is employed or risked in the taxpayer's business to such an
+extent that the income from it could be characterized as active business
+income. The use of words such as "employed" and "risked"
+appropriately implement Parliament's intention.  14.              Counsel for the appellant argued that in
+this case the dollar deposits could be said to be "risked" in the
+sense that if the business failed they could be seized. He submitted that this
+demonstrated that the test is too wide. If "risked" was the right
+test, then all property would meet the test since ultimately all property is
+available to the creditors of a corporation. But "risked" means more
+than a remote risk. A business purpose for the use of the property is not
+enough. The threshold of the test is met when the withdrawal of the property
+would "have a decidedly destabilizing effect on the corporate operations
+themselves": March Shipping Ltd. v. Minister of National Revenue, supra,
+at p. 374. This would distinguish the investment of profits from trade in order
+to achieve some collateral purpose such as the replacement of a capital asset
+in the long term (see, for example, Bank Line Ltd. v. Commissioner of Inland
+Revenue (1974), 49 T.C. 307 (Scot. Ct. of Session)) from an investment made
+in order to fulfil a mandatory condition precedent to trade (see, for example, Liverpool
+and London and Globe Insurance Co. v. Bennett, [1913] A.C. 610 (H.L.), and Owen
+v. Sassoon (1951), 32 T.C. 101 (Eng. H.C.J.) Only in the latter case would
+the withdrawal of the property from that use significantly affect the operation
+of the business. The same can be said for a condition that is not mandatory but
+is nevertheless vitally associated with that trade such as the need to meet
+certain recurring claims from that trade: see, for example, The Queen v.
+Marsh & McLennan, Ltd., supra, and The Queen v. Brown Boveri
+Howden Inc., 83 D.T.C. 5319 (F.C.A.)  15.              It is true that in this case the taxpayer
+could have done business and fulfilled the Philippine requirement that foreign
+currency be brought into the country by a means not involving the use of
+property. It could have borrowed the U.S. currency abroad and brought it into
+the Philippines. But this consideration is irrelevant to our inquiry. The test
+is not whether the taxpayer was forced to use a particular property to do
+business; the test is whether the property was used to fulfil a requirement
+which had to be met in order to do business. Such property is then truly
+employed and risked in the business. Here the property was used to fulfil a
+mandatory condition precedent to trade; it is not collateral, but is employed
+and risked in the business of the taxpayer in the most intimate way. It is
+property used or held in the business.  16.              Counsel for the appellant also referred us
+to Vancouver Pile Driving & Contracting Co. v. Minister of National
+Revenue, 63 D.T.C. 1007 (Ex. Ct.), which suggests that bonds put up as
+security are not trading income. There the security was required by the
+government if the taxpayer was to be allowed to do construction work. But the
+issue in that case was simply whether the proceeds from the sale of the bonds
+were capital or income. It was correctly held that they constituted capital.
+The issue whether these bonds were used or held in the taxpayer's business was
+not in issue. I do not see therefore how the appellant draws any comfort from
+that decision.  4. Disposition  17.              For the reasons given I would dismiss the
+appeal with costs.                     Appeal dismissed with costs.                     Solicitors for the appellant: Campbell, Godfrey
+& Lewtas, Toronto.                     Solicitor for the respondent: Roger Tassé, Ottawa.   

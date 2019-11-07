@@ -1,0 +1,332 @@
+Supreme Court of Canada R. v. Melford Developments Inc., [1982] 2 S.C.R. 504 Date: 1982-09-28 Her Majesty The
+Queen Appellant; and Melford
+Developments Inc. Respondent. File No.: 16482. 1982: June 1; 1982: September 28. Present: Ritchie, Estey, McIntyre, Lamer and
+Wilson JJ. ON APPEAL FROM THE FEDERAL COURT OF APPEAL Taxation—Income tax—Guarantee
+fees—Non-resident—Withholding tax—International Tax Convention—Domestic Tax
+Law—Conflict—Whether guarantee fees paid to non-resident bank subject to
+taxation—Whether the Income Tax can override the provisions of the tax
+treaty—Income Tax Act, 1970-71-72 (Can.), c. 63 as amended, ss. 212(1)(b),
+214(15)(a)—Canada-Germany Income Tax Agreement Act, 1956 (Can.), c. 33,
+s. 3—Canada-Germany Tax Convention, Articles II(2), III(1), (5). Held: The
+appeal should be dismissed. The guarantee fees were not “interest”,
+within the terms of the Canada-Germany Tax Convention. The Canada-Germany
+Income Tax Agreement Act, 1956, being the legislative adoption of the
+international tax Agreement, had not been amended by the income tax amendment
+of 1974. There is no doubt that the effect of s. 3 of the 1956 Act was to
+make the operation of any other law of Parliament, including the Income Tax
+Act, subject to the terms of the 1956 Act and the incorporation Agreement.
+The guarantee fees were consequently not taxable as Article III(1) of the
+Agreement did not [Page 505] authorize the taxation of commercial profits
+of a nonresident where those profits were not earned through a permanent
+establishment in Canada. Re: Farm Security Act, [1947] S.C.R. 394; Bennett and White Construction Co. v. Minister
+of National Revenue, [1949] S.C.R. 287; Associates Corporation of North
+America v. The Queen, [1980] 2 F.C. 377 affirmed [1980] 2 F.C. 382; Inland
+Revenue Commissioners v. Collco Dealings Ltd., [1962] A.C. 1; Woodend
+(K.V. Ceylon) Rubber and Tea Co. v. Commissioner of Inland Revenue, [1971]
+A.C. 321, referred to. APPEAL for a judgment of the Federal Court of Appeal (1981),
+36 N.R. 9, [1981] 2 F.C. 627, [1981] C.T.C. 30, affirming a judgment of the
+Trial Division, [1980] 2 F.C. 713, [1980] C.T.C. 141. Appeal dismissed. John R. Power, Q.C., and Jane Meagher,
+for the appellant. John R. Dingle, for the respondent. The judgment of the Court was delivered by ESTEY J.—This appeal raises for settlement the
+principles applicable to the interpretation of domestic tax law and
+international tax conventions where their provisions are said to be competing.
+The appellant seeks to recover under the Income Tax Act, 1970-71-72
+(Can.), c. 63, s. 1, as amended, withholding tax on a payment made by the
+respondent to a resident in Germany. The parties agree that the recipient of
+the payment does not carry on business in Canada and that the susceptibility to
+taxation of the payments in question depends entirely upon the application of
+Part XIII of the Income Tax Act, supra, relating to the taxation of
+non-residents and the Canada-Germany Tax Convention brought into the laws of
+this country by statute: The Canada-Germany Income Tax Agreement Act, 1956, 1956
+(Can.), c. 33. The payment in question was made by the
+respondent as a fee payable for the delivery by the [Page 506] PART XIII 212. (1)
+Every non-resident person shall pay an income tax of 25% on every amount that a
+person resident in Canada pays or credits, or is deemed by Part I to pay or
+credit, to him as, on account or in lieu of payment of, or in satisfaction of, … (b) interest except… Section 214(15) (15) For the purposes of this Part, (a) where a non-resident person has
+entered into an agreement under the terms of which he agrees to guarantee the
+repayment, in whole or in part, of the principal amount of a bond, debenture,
+bill, note, mortgage, hypothec or similar obligation of a person resident in
+Canada, any amount paid or credited as consideration for the guarantee shall be
+deemed to be a payment of interest on that obligation; (Added by 1974-75-76 (Can.), c. 26,
+s. 119(2)). The respondent takes the view that whatever the Income
+Tax Act may provide, it cannot override the provisions of the tax treaty
+and, more particularly, the provisions of the Canadian statute introducing the
+tax treaty to the domestic law of Canada. Section 3 of that Act (which section alone in that statute
+relates to the issues arising on this appeal) provides as follows: 3. In the
+event of any inconsistency between the provisions of this Act, or the
+Agreement, and the operation of any other law, the provisions of this Act and
+the Agreement prevail to the extent of the inconsistency. [Page 507] By Article III(1) the contracting
+countries, Germany and Canada, agreed that industrial or commercial profits of
+an enterprise in Germany would not be subject to tax in Canada unless it
+carried on business in Canada through a permanent establishment here.
+Subsection (5) of Article III on the other hand excludes from such
+immunity income derived from within Canada by a German resident where the income arises, for example, from
+“dividends[,] interest, rents or royalties”. Article II(2) of the
+Convention provides that undefined terms in the Convention shall take the
+meaning which they have in the laws in force in the contracting countries.
+These provisions in the treaty it is convenient to set out in full, and they
+are as follows: Article III (1) The industrial or commercial profits of
+an enterprise of one of the territories shall not be subject to tax in the
+other territory unless the enterprise carries on a trade or business in the
+other territory through a permanent establishment situated therein. If it
+carries on a trade or business in that other territory through a permanent
+establishment situated therein, tax may be imposed on those profits in the
+other territory but only on so much of them as is attributable to that
+permanent establishment. … Article II (2) In the application of the provisions of
+this Convention by one of the contracting States any term not otherwise defined
+in this Convention shall, unless the context otherwise requires, have the
+meaning which it has under the laws in force in the territory of that State
+relating to the taxes which are the subject of this Convention. It will be seen from the combined effect of
+these provisions that Parliament in 1974, when s. 214(15) was introduced
+into the Income Tax Act, sought to extend withholding tax, theretofore [Page 508] referable to interest, to payments by way of
+guaranty fees or standby charges. The simple issue here arising is whether or
+not the 1974 legislation amends the Treaty so as to expose the respondent to
+the burden of withholding tax at the prescribed rate when making payment of the
+guaranty fees to the non-resident guarantor. Urie J., writing on behalf of the Federal Court
+of Appeal, found that the above-mentioned sections of the Income Tax
+Act did not, when applied to the guaranty fee here in question, have the
+effect of converting that fee into “interest” for the purpose of s. 212
+thereby necessitating the withholding of tax by the respondent pursuant to
+s. 215. His Lordship stated: I am unable to agree with this contention.
+Whatever is the meaning of the phrase concluding the subsection, namely, “shall
+be deemed to be a payment of interest on that obligation” (presumably
+that obligation referring to the repayment of the mortgage) it is clear that it
+does not deem that the guarantee fee is “interest” but only that the payment
+of it shall be deemed to be “a payment of interest”. Clearly the deeming of
+the payment to be what it is not does not change the character or nature of the
+thing that was paid. It could never in fact be a payment of interest because it
+was always a payment of a fee as consideration for the provision of the
+guarantee. (Emphasis that of Urie J.) With the greatest respect, I reach the opposite
+conclusion and for the purposes of this appeal would construe these
+sections of the Income Tax Act so as to obligate the respondent to
+effect the withholding but at the rate prescribed in the Act, namely 25 per
+cent rather than 15 per cent as claimed by the appellant. However, this does
+not by any means dispose of the appeal. The critical issue on this appeal is whether or
+not Article III(5) of the Canada-Germany Agreement and s. 3 of the
+enacting statute interrupt the application of the Income Tax Act to this
+transaction. As regards the definition of interest, counsel
+for the respondent placed reliance upon the comments of Rand J. in Re: Farm
+Security Act, [1947] S.C.R. 394 at p. 411 where His Lordship stated: [Page 509] Interest is, in general terms, the return
+or consideration or compensation for the use or retention by one person of a
+sum of money, belonging to, in a colloquial sense, or owed to, another. Read literally, this statement would not require
+the payment of interest to be made to the owner of the capital advanced to the
+borrower. Indeed, it may be broad enough to embrace the very transaction now
+before the Court, namely a guaranty fee for the procurement of the money of
+another. If this indeed was the meaning in 1956 in the law of Canada of the
+term “interest”, then it can be argued that the 1974 Tax Act amendments
+are not in conflict with the 1956 statute. However, when the observation of
+Rand J., supra, is read in the context of the issue then before the
+Court it becomes apparent that no attempt was there being made to determine the
+extent of the definition of the term “interest” and I do not believe the
+comment should be taken as meaning that interest relates to anything other than
+the payment for the use of the principal advanced to the payor by the payee.
+Some light is shed on the above quoted passage from Rand J. when reference is
+made to the decision of this Court in Bennett and White Construction Co. v.
+Minister of National Revenue, [1949] S.C.R. 287 in which the taxpayer
+argued that guaranty fees, like interest, were current expenses. The Court
+unanimously rejected the argument and Rand J., in his reasons, made the
+following observation at p. 293: Now the Crown has allowed the deduction of
+interest paid to the bank, and it must have been either on the footing that the
+day-to-day use of the funds was embraced within the business that produced the
+profit, or that the interest was within section 5, paragraph (b). But
+setting up that credit right or providing the banking facilities is quite
+another thing from paying interest; it is preparatory to earning the income and
+is no more part of the business carried on than would be the work involved in a
+bond issue. See also the judgment of Locke J. (Rinfret C.J.
+and Kellock J. concurring) at pp. 289-90: While the amounts paid to the guarantors
+were described as interest in the various resolutions which [Page 510] authorized their payment, this was clearly
+inaccurate. Interest is paid by a borrower to a lender: a sum paid to a third
+person as the consideration for guaranteeing a loan cannot be so described. Admittedly the issue in that case was different
+from that here raised, and the provisions of the Income Tax Act then
+before the Court were quite different. The principal question there was whether
+the payments in question were laid out by the taxpayer to “earn income”, but
+none of the members of the Court suggested the payment of the guaranty fees was
+deductible as “interest” under the specific provision of the Income Tax Act relating
+to the payment of interest by the taxpayer. Turning to the interpretation of “income” in
+Article III(5) of the Agreement, subsection (1) of Article III
+exempts “industrial or commercial profits” of a German enterprise wherever
+those profits are earned unless that German enterprise “carries on a trade or
+business” in Canada through a “permanent establishment” situated in Canada.
+This exemption of industrial and commercial profits is reduced by subs. (5) of
+the same Article which enables Canada (to transpose the terms of the
+subsection to the realities of this transaction), to tax the income of the
+German enterprise when it is “derived from sources within” Canada if such
+income (a) “is not attributable to a permanent establishment in” Canada, and
+(b) is “e.g. dividends[,] interest, rents or royalties”. The first question
+arising from this analysis of the wording of the subsection is whether or
+not the parenthetical expression after “income” creates a genus so as to
+limit the word “income” to like quantities or elements of income. The second
+question is whether or not the presence of the letters “e.g.” is limitative or
+expansive with reference to the preceding word “income”. Turning back to the
+first question, each of the four words describes a payment made in respect of
+an underlying or related property interest. Each is associated with the concept
+of income in the sense of receipts from or by reason of the ownership of shares
+in the case of dividends, principal in the case of interest, property in the
+case of rents, and rights or proper- [Page 511] ties in the case of royalties. To that extent at
+least there is a class created which might lead to the attribution by analogy
+to the word “income” of a meaning which would include guaranty fees. The
+guaranty payment received by the German bank from the respondent was made by
+the respondent in order to place the credit of the German bank within reach of
+the Canadian lending bank, the Bank of Nova Scotia, so as to obtain the loan in
+question. The asset of the German bank might by analogy be considered to be its
+credit worthiness and the “income” earned by that asset might be said to be the
+guaranty fee. In this sense Parliament, by revising the Income Tax Act so
+as to extend income to include guaranty fees received by a non-resident
+enterprise, would not contravene the provisions of subs. (5). This would be so
+not because the word “interest” has been expanded to include something else but
+because the word “income” has been expanded to include elements of income
+falling generically within the class of four but not being identical with any
+one and which included element is not to be excluded by the letters “e.g.”. However, the presence of the letters “e.g.” may
+interrupt the application of this method of interpreting and discerning the
+sense of subs. (5). In my view the proper interpretation to be placed upon the
+parenthetical expression in subs. (5) is that it catalogues by way of
+illustration those items which ordinarily would be included in the exceptional
+term “income”, it being that type of revenue excised from industrial and
+commercial profits otherwise exempted by subs. (1). That being so, the
+illustrations must be taken in the context of the ordinary usage of the
+language at the time of the Agreement, in which case one can find no
+justification in any of the four words for excluding a fee in the nature of a
+guaranty fee from the previously exempted industrial and commercial profits.
+Further support for the view that “income” has no independent force apart from
+the four parenthetical illustrations can be drawn from an examination of the
+succeeding articles in which [Page 512] specific regimes are set up for the taxation of
+dividends (Article VI), certain interest (Article VII), royalties
+(Article VIII) and rents (Article XIII). These articles provide
+maximum rates of taxation which may be imposed by the state in which they
+arise. On this question I am in respectful agreement with the conclusions of
+Urie J.: It will immediately be seen that
+Article VI deals with dividends, Article VII with “interest on bonds,
+securities, notes, debentures or any other form of indebtedness (exclusive of
+…)”, Article VIII with copyright and industrial property and
+Article XIII with income from immovable property. All of the types of
+income referred to in those Articles are referred to parenthetically in
+paragraph 5 of Article III and as such they exemplify the kinds of income
+which Canada could tax notwithstanding that each might also be considered
+“industrial or commercial profits”. The paragraph does not enable Canada to
+declare that a kind of income that was accorded exemption in the Convention as
+such profits and is not specifically provided for in the Articles that follow
+shall be taxable. The next question is, with reference to
+Article II(2) of the Agreement, whether the term “laws in force” in Canada
+“relating to the taxes which are the subject of this Convention” means the laws
+as they existed in 1956 or the laws of Canada from time to time in force.
+Specifically the question is whether or not that expression includes the 1974
+amendments to the Income Tax Act. This takes us first of all to an
+interpretation of the expression “relating to the taxes which are the subject
+of this Convention” as found at the end of subs. (2). The Convention makes
+industrial and commercial profits earned by a permanent establishment taxable
+in the country where the permanent establishment exists and where those
+earnings arose, and it also authorizes the taxation of “income” including
+dividends, interest etc. However, the Treaty does not authorize the taxation of
+industrial and commercial profits of a non-resident where those profits were
+not earned through a permanent establishment in Canada. The guaranty fee falls
+into the latter category. The revenue received by the non-resident bank by
+reason of its guaranty of a Canadian lender represents industrial and
+commercial profits received from within Canada but [Page 513] not earned in an entreprise carried on through a
+Canadian permanent establishment. Laws enacted by Canada to redefine taxation
+procedures and mechanisms with reference to income not subjected to taxation by
+the Agreement are not, in my view, incorporated in the expression “laws in
+force” in Canada as employed by the Agreement. To read this section otherwise
+would be to feed the argument of the appellant, which in my view is without
+foundation in law, that subs. (2) authorizes Canada or Germany to unilaterally
+amend the tax Treaty from time to time as their domestic needs may dictate. It is well to remind ourselves in analysing
+these statutes and the subtended tax Agreement that the international Agreement
+does not itself levy taxes but simply authorizes the contracting parties,
+within the terms of the Agreement, to do so. As I have already mentioned, s. 3 of the
+ratifying statute of 1956 anticipates at least in part the problem with which
+the Court is today faced. There is, of course, no room for debate on the
+proposition that Parliament is supreme and can neither bind itself nor any
+successor of Parliament when acting within its constitutionally-assigned
+sovereign jurisdiction. Obviously it follows that s. 3 or any other part
+of the 1956 statute can be repealed or amended. The question is not that, but
+whether the collateral legislative action in connection with the Income Tax
+Act has the effect of amending the 1956 statute. The suggestion that it
+does have such an effect is startling. There are 26 concluded and 10 proposed
+tax conventions, treaties or agreements between Canada and other nations of the
+world. If the submission of the appellant is correct, these agreements are all
+put in peril by any legislative action taken by Parliament with reference to
+the revision of the Income Tax Act. For this practical reason one finds
+it difficult to conclude that Parliament has left its own handiwork of 1956 in
+such inadvertent jeopardy. That is not to say that before the 1956 Act can be
+amended in substance it must be done by Parliament in an Act entitled “An Act
+to Amend the [Page 514] Act of 1956”. But neither is the converse true,
+that is that every tax enactment, adopted for whatever purpose, might have the
+effect of amending one or more bilateral or multilateral tax conventions
+without any avowed purpose or intention so to do. There is no doubt, in my view, that the effect
+of s. 3 is to make the operation of any other law of Parliament, including
+the Income Tax Act, subject to the terms of the 1956 Act and the
+incorporated Agreement. The only exception to this result would be where
+Parliament has expressly set out to amend the 1956 statute. Then, of course,
+there is no conflict between the 1956 Act and “any other law”. This
+interpretation has the necessary result of embodying in the Agreement, by
+reason of Article II(2), as definitions of the words not therein defined,
+the meaning of those words at the time the Agreement was adopted. Thus any
+legislative action taken for whatever reason which results in a change or
+expansion of a definition of a term such as “interest” does not prevail over
+the terms of the 1956 statute because of the necessary meaning of s. 3
+thereof. [Page 515] What the position of the appellant amounts to is
+an assertion that Canada can simply amend the Agreement by the device of
+redefining the term interest. As has already been noted, interest in the
+ordinary commercial usage of that term simply means the payment of rent by a
+borrower for the use of the principal of the lender to whom the rent is paid.
+It may be that the money flow will be different than this simple definition
+would indicate by reason of directions or special circumstances, but
+essentially the payment is made by the payor for the use of the payee’s
+principal. Here the respondent was not a borrower from the guarantor and it has
+made no payment to the guarantor for the use of the guarantor’s principal. The
+consequence of the 1974 tax amendment therefore, as urged by the appellant, is
+simply a purported exercise of a unilateral right to effectively amend the
+Agreement deliberately entered into and implemented by legislation by Canada in
+1956. The Agreement provides, as for example in Article XXIII(2), for
+alterations to it by unilateral action but these are exceptional and explicit.
+That same Article establishes a procedure for termination by notice
+terminating the Agreement effective the 1st day of January next following the
+giving of notice. Subsection (2) provides a method for termination of
+rates established in Article VII, supra, and other Articles. This
+requires the giving of notice by one country to the other on or before the 30th
+day of June in any year so as to revise the rate effective the 1st of January
+following. No notice of termination appears in the record here. It is in lieu
+of all these procedures enacted by Parliament that the appellant directs our
+attention to the above sections of the 1974 Income Tax Act as
+producing the same result. On this leg of the argument, therefore, I
+conclude that the 1956 statute has introduced into our domestic law the terms
+of the international Agreement and that properly construed that Agreement does
+not authorize the taxation by domestic law of the guaranty fee by Canada. I
+also reach the conclusion that the introduction of provisions relating to
+interest by the amendments of 1974 to the Income Tax Act of Canada
+evidences no intention by Parliament to amend the 1956 statute. I [Page 516] note also that this conclusion is in accord with
+that reached by Mahoney J. when considering the Canada-U.S. Convention in Associates
+Corporation of North America v. The Queen, [1980] 2 F.C. 377 aff’d [1980] 2
+F.C. 382. In his reasons for judgment Mr. Justice Mahoney concluded [at
+p. 381]: The Court was directed to a number of cases from
+the United Kingdom dealing with the relationship said to exist between
+legislatively-adopted treaties and domestic statutes generally. Only a few of
+these authorities can be said to have any bearing on the issue raised in this
+appeal. I refer firstly to Inland Revenue Commissioners v. Collco Dealings
+Ltd., [1962] A.C. 1 in which the House of Lords considered an amendment to
+United Kingdom income tax legislation which was intended to put an end to the
+practice of “dividend stripping”, the paying of dividends out of profits
+accumulated before the date on which the shares were acquired. The precise
+issue before their Lordships was whether the opening words of the provision, “…
+a person entitled under any enactment to an exemption from income tax which
+extends to dividends … ”, should be read to include a resident of Ireland whose
+dividends would otherwise be exempted by a U.K.-Irish Agreement. Their
+Lordships concluded, affirming the Court of Appeal and Vaisey J., that the
+plain words of the enactment extended to the exemption for Irish residents.
+Viscount Simonds, at p. 19, declared: [Page 517] It would not, I think, be possible to state
+in clearer language and with less ambiguity the determination of the
+legislature to put an end in all and every case to a practice which was a gross
+misuse of a concession. Similarly in Woodend (K.V. Ceylon) Rubber and
+Tea Co. v. Commissioner of Inland Revenue, [1971] A.C. 321, the Privy
+Council concluded that the Legislature of Ceylon had intended the expression
+“non-resident company” to apply so as to override any inconsistencies with a
+1950 U.K. Agreement, holding that “the general words must receive their full
+meaning” (per Lord Donovan at p. 335). These cases add little to
+the analysis of the present appeal as the terms of the 1974 amendments to the
+Canadian Income Tax Act evidence no comparable intention by the Canadian
+Parliament to override the 1956 Agreement. In the final analysis the appellant must fail
+because the 1956 statute, being the legislative adoption of the international
+tax Agreement, has not been amended by the income tax amendments of 1974 and
+accordingly Article III(1) of the Agreement prevents the application of
+the Income Tax Act to the guaranty fees paid by the respondent to the
+non-resident bank. Accordingly the appeal should be dismissed with costs. Appeal dismissed with costs. Solicitor for the appellant: R. Tassé,
+Ottawa. Solicitors for the respondent: Blaney,
+Pasternak, Smela and Watson, Toronto.   

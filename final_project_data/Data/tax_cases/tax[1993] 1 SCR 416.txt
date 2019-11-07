@@ -1,0 +1,1091 @@
+Baron v. Canada, [1993] 1
+S.C.R. 416  Her Majesty The Queen, the Attorney General of Canada and the Honourable Otto Jelinek in his capacity as Minister of National
+Revenue                                       Appellants  v.  Berl Baron and Howard Baron, C.A.                                                Respondents  and  The Attorney General for Ontario and the Attorney General of Quebec                                                       Interveners  Indexed as:  Baron v.
+Canada  File No.:  22298.  1992:  February 6;
+1993:  January 21.   on appeal from the federal court of
+appeal                      Revenue Canada
+officers believed certain documents belonging to the respondents could afford
+evidence of the commission of various alleged offences under the Income Tax
+Act.  The Federal Court, Trial Division, issued warrants under
+s. 231.3 of the Act to search respondents' residences and business
+premises and a large number of documents were seized.  This section provided
+that the judge hearing the application "shall issue the warrant" where
+the judge is satisfied that there are reasonable grounds to believe an offence
+under the Act has been committed, a document or thing that may afford evidence
+of the commission of the offence is likely to be found, and the place to be
+searched is likely to contain such a document or thing.                     In 1989,
+respondents brought three motions and instituted an action in the Federal
+Court, Trial Division, seeking orders setting aside the search warrants,
+declaring s. 231.3 contrary to ss. 7 , 8  and 15  of the Canadian
+Charter of Rights and Freedoms , ordering the return or destruction of the
+items seized and of any summaries, notes or diagrams made from those items, and
+prohibiting the department from using such material.                     The proceedings
+were dismissed with a single set of reasons.  The Federal Court of Appeal
+considered the four appeals together and held s. 231.3 of the Income
+Tax Act to be contrary to ss. 7  and 8  of the Charter , allowing
+the appeals and quashing the search warrants on the basis that s. 231.3 of the
+Act violated ss. 7  and 8  of the Charter .  On consent, the Minister
+appealed only one of the Court of Appeal's judgments to this Court.  The
+constitutional question before the Court queried whether s. 231.3 limited
+the rights and freedoms guaranteed by ss. 7  and 8  of the Charter .                     Held:  The appeal should be
+dismissed.  Section 231.3 of the Income Tax Act violates s. 8  of
+the Charter  and is of no force or effect.                     A residual
+discretion in the judiciary to refuse to issue a search warrant in appropriate
+circumstances even though the statutory criteria for its issuance have been met
+is required by s. 8  of the Charter  and s. 231.3(3)  removed
+this residual discretion.                     The exercise of a
+judicial discretion in the decision to grant or withhold authorization for a
+search warrant was fundamental to the scheme of prior authorization which is an
+indispensable requirement for compliance with s. 8 .  The decision to grant or
+withhold the warrant requires the balancing of two interests:  that of the
+individual to be free of intrusions of the state and that of the state to
+intrude on the privacy of the individual for the purpose of law enforcement. 
+The circumstances in which these conflicting interests must be balanced will
+vary greatly.  The strength of the interests will be affected by matters such
+as the nature of the offence alleged, the nature of the intrusion sought
+including the place to be searched, the time of the search and the person or
+persons who are the subjects of the search.  In order to take account of the
+various factors affecting the balancing of the two interests, the authorizing
+judge must be empowered to consider all the circumstances.  No set of criteria
+will always be determinative or sufficient to override the right of the
+individual to privacy.  It is imperative, therefore, that a sufficient degree
+of flexibility be accorded to the authorizing officer in order that justice be
+done to the respective interests involved.  The requirement that the officer
+authorizing the seizure be independent and capable of acting judicially is
+inconsistent with the notion that the state can dictate to him or her the
+precise circumstances under which the right of the individual can be overborne.                     Section 231.3(3)
+provides that a judge "shall" issue the warrant once satisfied that
+the three statutory conditions set out therein have been satisfied.  The word
+"shall" is normally to be construed as imperative unless such an
+interpretation would be utterly inconsistent with the context in which it has
+been used and would render the sections irrational or meaningless.  Nothing in
+the context of s. 231.3 renders an imperative interpretation of the word
+"shall" in s. 231.3(3) inconsistent with the balance of the
+section or makes it irrational or meaningless.                     Due to this imperative
+language, the issuing judge's discretionary power to attach pre-conditions to
+the issue of the warrant cannot be exercised once the statutory criteria for
+the issue of the warrant have been met.  Moreover, a judge's inherent power to
+prevent an abuse of the court's process or a violation of a constitutional
+right does not confer on an issuing judge the discretion to refuse to issue a
+warrant in those circumstances.  If the conditions set out in the subsection
+are exhaustive of all the conditions precedent of a reasonable search, an
+application which meets all of those conditions cannot be an abuse of the
+process.                     The removal of the
+discretion to refuse to issue a warrant when all statutory criteria are met
+takes away the issuing judge's "balance wheel" function.  In order to
+fulfil properly the "balance wheel" role required by s. 8  of the
+Charter , a judge must be able to weigh all the surrounding
+circumstances to determine whether in each case the interests of the state are
+superior to the individual's right to privacy.  By restricting the factors that
+a judge may consider, Parliament has improperly restricted a judge's ability to
+assess the reasonableness of a search.                     Section 231.3(3)
+denies the issuing judge the discretion to refuse to issue a warrant where in
+all the circumstances a search or seizure would be unreasonable and, indeed,
+may require a judge to authorize an unreasonable search or seizure.  By using
+the word "shall" the subsection violates s. 8  of the Charter .                     Classifying a
+statute as regulatory, while it may affect the exercise of discretion by the
+authorizing judge, is not a basis for reading the requirement for a residual
+discretion out of s. 8 .  What is ultimately important are not labels
+(though these are undoubtedly useful), but the values at stake in the
+particular context.  Given the intrusive nature of searches and the
+corresponding purpose of such a search to gather evidence for the prosecution
+of a taxpayer, there is no reason for a radical departure from the guidelines
+and principles expressed in Hunter v. Southam Inc., [1984] 2 S.C.R.
+145.   The effect of any lessened expectation of privacy by reason of the
+character of the Income Tax Act will affect the authorizing judge's
+exercise of discretion but cannot justify eliminating it.                     The argument was
+rejected that the "reasonable grounds" standard in s. 231.3(3) is
+constitutionally insufficient as being a lower standard than "reasonable
+and probable grounds", while only the latter satisfies s. 8  of the Charter . 
+Nothing turns on the omission of the word "probable" from
+s. 231.3(3) .  The standard that the subsection sets out is one of credibly
+based probability, which is the standard required by s. 8 . 
+"Reasonable" is the same as "reasonable and probable" and
+imports the same standard.  "Reasonable" comprehends a requirement of
+probability.  The use of an interpretative "gloss" on the word to
+make it conform to constitutional requirements is an unnecessary strain on the
+meaning of the word.  The alleged distinction between the two phrases was a
+"refined distinction" of the type found in American constitutional
+jurisprudence and is to be avoided in the interpretation of s. 8  of the Charter .                     Section 231.3(3)(b),
+requiring the authorizing judge to be satisfied that a document or thing which
+"may afford evidence" is "likely to be found", does not
+water down the minimum constitutional standard for the probability that the
+search will unearth evidence.  The need to protect individuals against
+unreasonable searches in the form of "fishing expeditions" by the
+state has been recognized.  A standard of credibly based probability rather
+than mere suspicion must be applied in determining when an individual's
+interest in privacy is subordinate to the needs of law enforcement.  The
+formulation in s. 231.3(3)(b) meets the "credibly based
+probability" standard required by s. 8  through its use of the word
+"likely" which imports the criterion of probability.  The use of the
+word "may" regarding the use of the thing found as evidence in a
+prosecution simply reflects one of the realities of the investigation of
+offences.  It is impossible to know with certainty at an early stage in
+any investigation what particular items will provide evidence in a
+trial.                     The issue of
+whether s. 231.3(5) allowed the same kind of "wholesale search and
+seizures" without prior authorization which was found under the
+predecessor legislation to violate s. 8  of the Charter  should be
+left to be resolved until such time as this Court is presented with a situation
+in which the provision was relied upon to seize documents.                     No analysis under
+s. 1  of the Charter  was undertaken.  The burden was on the government
+to establish that the law constituted a reasonable limit, and it made no
+attempt to do so.  Cases Cited                     Considered:  Hunter v. Southam Inc.,
+[1984] 2 S.C.R. 145; R. v. McKinlay Transport Ltd., [1990] 1 S.C.R. 627;
+Descôteaux v. Mierzwinski, [1982] 1 S.C.R. 860; Canadian Broadcasting
+Corp. v. Lessard, [1991] 3 S.C.R. 421; Canadian Broadcasting Corp.
+v. New Brunswick (Attorney General), [1991] 3 S.C.R. 459; referred to:  
+Kourtessis v. M.N.R., S.C.C., No. 21654, on appeal from  (1989), 39
+B.C.L.R. (2d) 1; Solvent Petroleum Extraction Inc. v. Canada (M.N.R.),
+[1990] 1 F.C. 20 (C.A.), aff'g [1988] 3 F.C. 465 (leave to appeal refused,
+[1989] 2 S.C.R. xi);  Minister of National Revenue v. Kruger Inc.,
+[1984] 2 F.C. 535; R. v. Simmons, [1988] 2 S.C.R. 495;  Re Print
+Three Inc. and The Queen (1985), 20 C.C.C. (3d) 392, leave to appeal
+refused, [1985] 2 S.C.R. x; Kohli v. Moase (1987), 86 N.B.R. (2d) 15,
+aff'd on other grounds (1989), 55 D.L.R. (4th) 740;  R. v. Thompson,
+[1990] 2 S.C.R. 1111; Minister of National Revenue v. Paroian, [1980]
+C.T.C. 131; Selye v. Quebec, [1982] R.D.F.Q. 173; Beauregard v.
+Canada, [1986] 2 S.C.R. 56; Re Manitoba Language Rights, [1985] 1
+S.C.R. 721; R. v. Wholesale Travel Group Inc., [1991] 3 S.C.R. 154; Thomson
+Newspapers Ltd. v. Canada (Director of Investigation and Research, Restrictive
+Trade Practices Commission), [1990] 1 S.C.R. 425; R. v. Rao (1984),
+12 C.C.C. (3d) 97, leave to appeal refused, [1984] 2 S.C.R. ix; R. v. Debot,
+[1989] 2 S.C.R. 1140, aff'g (1986), 30 C.C.C. (3d) 207; Goguen v. Shannon
+(1989), 50 C.C.C. (3d) 45; Nima v. McInnes (1988), 45 C.C.C. (3d) 419; Wiens
+v. The Queen (1973), 24 C.R.N.S. 341; R. v. Burnett, [1985] 2 C.T.C.
+227; Danson v. Ontario (Attorney General), [1990] 2 S.C.R. 1086; MacKay
+v. Manitoba, [1989] 2 S.C.R. 357; R v. Edwards Books and Art Ltd.,
+[1986] 2 S.C.R. 713; Slaight Communications Inc. v. Davidson, [1989] 1
+S.C.R. 1038; Osborne v. Canada (Treasury Board), [1991] 2 S.C.R. 69; Schachter
+v. Canada, [1992] 2 S.C.R. 679.  Statutes and Regulations Cited  Canadian
+Bill of Rights,
+R.S.C., 1985, App. III, s. 2.  Canadian
+Charter of Rights and Freedoms, ss. 1 , 7 , 8 , 11 (d), 15 .    Constitution
+Act, 1982,
+s. 52(1) .   Customs
+Act, R.S.C., 1985,
+c. 1 (2nd Supp .), s. 111(1) .                       APPEAL from a
+judgment of the Federal Court of Appeal, [1991] 1 F.C. 688, [1991] 1 C.T.C. 125
+(1990), 91 D.T.C. 5055, 122 N.R. 47, supplementary reasons, [1991] 1 F.C. 712,
+[1991] 1 C.T.C. 408 (1991), 91 D.T.C. 5134) granting an appeal from a judgment
+of Reed J., [1990] 2 F.C. 262, [1990] 1 C.T.C. 84 (1989), 30 F.T.R. 188, 
+90 D.T.C. 6040.  Appeal dismissed.  Section 231.3(3) of the Income Tax Act
+violates s. 8  of the Charter  and is of no force or effect.                     John R. Power,
+Q.C., Pierre Loiselle, Q.C., and Robert Frater, for the appellants.                     Guy Dupont, Basile
+Angelopoulos and Ariane
+Bourque, for the respondents.                     Janet E. Minor and Tanya Lee, for the
+intervener the Attorney General for Ontario.                     Yves Ouellette,
+Judith Kucharsky and Diane
+Bouchard, for the intervener the Attorney General of Quebec.  //Sopinka J.//                     The judgment of the
+Court was delivered by                     Sopinka
+J. --  I.  Introduction                     This appeal was
+heard concurrently with Kourtessis v. M.N.R., S.C.C., No. 21654.  Both
+appeals address the validity of search warrants issued and executed under s.
+231.3 of the Income Tax Act, S.C. 1970-71-72, c. 63, as amended
+[hereinafter ITA].  In each case the persons subjected to search and
+seizure applied in court to have the searches and seizures invalidated and set
+aside, and the things seized returned, on the ground that s. 231.3 of the ITA
+violates ss. 7  and 8  of the Canadian Charter of Rights and Freedoms  and
+that consequently, the section and the impugned warrants, searches and seizures
+are of no force or effect.  Kourtessis also raises an additional issue
+as to the jurisdiction of the Court of Appeal and of this Court to hear the
+appeal.  Judgment in that appeal will be released in due course.                     The nub of this
+appeal is the ITA's limitation of the judicial discretion of the issuing
+judge by use of the word "shall" in s. 231.3(3).  I conclude, for
+reasons I will state below, that s. 231.3 of the ITA violates s. 8  of
+the Charter  in so far as it removes the residual discretion of the
+issuing judge to refuse to issue a search warrant in the proper circumstances,
+notwithstanding that the statutory criteria for its issuance have been met.  By
+reason of this violation and pursuant to s. 52(1)  of the Constitution Act,
+1982 , s. 231.3 is of no force or effect and the search warrants issued and
+executed thereunder against the respondents are also invalid and of no force or
+effect.                     In my view, the
+appeal can be disposed of entirely on the basis of s. 8  of the Charter . 
+It is therefore not necessary to consider the respondents' argument that s. 7 
+was also violated.  Nor do I propose to consider separately the question of
+whether the impugned section improperly interferes with judicial independence. 
+In my view, this is merely another ground which supports my conclusion with
+respect to the importance of a residual judicial discretion.                     Neither the parties
+nor the interveners have made arguments or referred to any evidence either in
+this appeal or in Kourtessis in relation to s. 1  of the Charter 
+or capable of demonstrating that the violation of s. 8  is justified within the
+meaning of s. 1 .  It will therefore not be necessary to consider whether this
+legislation permitting unreasonable searches can be demonstrably justified as a
+reasonable limit on the right to be secure against unreasonable searches.  II.  The Facts                     After an
+investigation, Revenue Canada officers formed the opinion that certain
+documents belonging to the respondents Berl and Howard Baron could afford
+evidence of the commission of various alleged offences under the ITA. 
+The allegation was that Xentec Laboratories Inc. had made false or deceptive
+entries in its books of account and evaded or attempted to evade compliance
+with the ITA, in violation of ITA ss. 239(1)(c) and (d). 
+On August 7, 1986, Strayer J. of the Federal Court, Trial Division, issued
+warrants to search the Barons' residences and business premises (the law firm
+Baron and Abrams, and the accounting firm Baron, Merton).  The warrants were
+executed and a large number of documents were seized.                     On June 21, 1989
+Berl and Howard Baron brought three motions and instituted an action in the
+Federal Court, Trial Division.  The motions sought orders:                     (a)setting
+aside the search warrants;                     (b)declaring
+s. 231.3 ITA of no force or effect pursuant to s. 52  of the Constitution
+Act, 1982 , because it is inconsistent with ss. 7 , 8  and 15  of the Charter ;                     (c)ordering
+the return to the Barons of all the items seized and extracts or copies
+thereof;                     (d)ordering
+the return of all summaries, notes or diagrams taken from the items seized;                     (e)prohibiting
+the Department from using the items or summaries, notes, diagrams or
+information taken thereof; and                     (f)ordering
+the destruction of all summaries, copies, notes or diagrams not returned to the
+Barons.  The ground for the motions was that
+the searches and seizures were unreasonable because s. 231.3 ITA is
+inconsistent with ss. 7 , 8  and 15  of the Charter  and consequently is of
+no force or effect.                     The relief
+requested in the action instituted at the same time as the motions was to the
+same effect.  The Barons sought a declaration that s. 231.3 ITA was
+inconsistent with ss. 7 , 8  and 15  of the Charter  and of no force or
+effect, and that the warrants and searches and seizures which followed were
+unreasonable and consequently of no force or effect.  They also sought an order
+compelling the return, non-use or destruction of items seized and copies and
+summaries thereof corresponding to paragraphs (c) through (f) of the relief
+sought in the motions, above.                     As the trial judge,
+Reed J., summarized, [1990] 2 F.C. 262, at pp. 266-67, the respondents
+contended that the search and seizure provisions in s. 231.3 were invalid because:  . .
+. (1)         subsection 231.3(3) allows no discretion to a judge to guard
+against abusive searches and seizures -- it requires a judge to issue a
+warrant if satisfied that there are reasonable grounds to believe that an
+offence has been committed and that evidence of that offence is likely to be
+found in certain premises; (2) subsection 231.3(5) allows wholesale searches
+and seizures, without adequate authorization, and therefore does not meet the
+requirements of a constitutionally valid search and seizure power, as set out
+in Hunter v. Southam Inc., [1984] 2 S.C.R. 145, ... ; (3) the
+requirements under subsection 231.3(3) do not meet the requirements of Hunter
+v. Southam (supra) because they only require that there be
+reasonable grounds to believe that an offence has been committed -- this is a
+lesser test than one requiring that there be "reasonable and
+probable" grounds; (4) the provisions of section 231.3 offend section 15 
+of the Canadian Charter of Rights and Freedoms  ... because there are two
+avenues by which warrants can be obtained ... and the appeal provisions differ
+depending upon which route is chosen ....  [Emphasis in original.]  The respondents also attacked some of
+the warrants on the basis that they did not contain a clause protecting
+documents which were subject to solicitor-client privilege or which arose in
+the course of an accountant-client confidential relationship.                     The motions and
+action for a declaration were dismissed with a single set of reasons by Reed
+J.  These judgments were appealed to the Federal Court of Appeal, which allowed
+all four appeals:  Baron v. Canada, [1991] 1 F.C. 688.  Hugessen J.A.
+(for the court) dealt with all four appeals together as they raised identical
+issues.  He held that s. 231.3 violated ss. 7  and 8  of the Charter  and
+was consequently of no force or effect, and quashed the search warrants.  With
+the consent of the Barons, the Minister sought to appeal only one of the Court
+of Appeal's judgments to this Court.  Leave to appeal to this Court was granted
+on May 16, 1991 at which time it was ordered that Baron be heard on the
+same day as Kourtessis.  III.  The Issues                     On June 20, 1991,
+Chief Justice Lamer stated the following constitutional question for the
+consideration of the Court:  Whether
+s. 231.3 of the Income Tax Act, S.C. 1970-71-72, c. 63, as amended by
+S.C. 1986, c. 6, limits the rights and freedoms guaranteed by ss. 7  and 8  of
+the Canadian Charter of Rights and Freedoms , Part I of the Constitution
+Act, 1982 , being Schedule B of the Canada Act, 1982 (U.K.), 1982, c.
+11, and is consequently of no force or effect pursuant to s. 52  of the Constitution
+Act, 1982 , Schedule B, Canada Act, 1982 (U.K.), 1982, c. 11.  It is to be noted that only ss. 7  and
+8  of the Charter  are invoked before this Court.  The argument based on
+the s. 15  equality guarantee has been abandoned as a basis on which to attack
+s. 231.3 and the warrants.  Section 231.3 is alleged to infringe ss. 7  and 8  of
+the Charter  in the following respects:  1.subs.
+(3) is invalid in that it removes from the authorizing judge a residual
+discretion;  2.subs.
+(3) is invalid in that "reasonable grounds" fails to meet the minimum
+constitutional standard of "reasonable and probable grounds";  3.subs.
+(3)(b) is invalid in that the words "may afford evidence" fail
+to meet the minimum constitutional standard for the discovery of evidence;  4.subs.
+(5) is invalid in that it authorizes a wholesale search and seizure.  IV.  Pertinent Legislation  A.Income
+Tax Act, S.C. 1970-71-72, c. 63, as amended by S.C. 1986, c. 6, s. 121.                     The provision under
+which the search warrants in both cases were sought and issued and which forms
+the centrepiece of the present litigation is s. 231.3 of the ITA,
+which I reproduce here in its entirety.                     231.3 (1)  A judge may, on ex parte
+application by the Minister, issue a warrant in writing authorizing any person
+named therein to enter and search any building, receptacle or place for any
+document or thing that may afford evidence as to the commission of an offence
+under this Act and to seize and, as soon as practicable, bring the document or
+thing before, or make a report in respect thereof to, the judge or, where the
+judge is unable to act, another judge of the same court to be dealt with by the
+judge in accordance with this section.                     (2) 
+An application under subsection (1) shall be supported by information on oath
+establishing the facts on which the application is based.                     (3) 
+A judge shall issue the warrant referred to in subsection (1) where he is
+satisfied that there are reasonable grounds to believe that  (a) 
+an offence under this Act has been committed;  (b) 
+a document or thing that may afford evidence of the commission of the offence
+is likely to be found; and  (c) 
+the building, receptacle or place specified in the application is likely to
+contain such a document or thing.                     (4) 
+A warrant issued under subsection (1) shall refer to the offence for which it
+is issued, identify the building, receptacle or place to be searched and the
+person alleged to have committed the offence and it shall be reasonably
+specific as to any document or thing to be searched for and seized.                     (5) 
+Any person who executes a warrant under subsection (1) may seize, in addition
+to the document or thing referred to in subsection (1), any other document or
+thing that he believes on reasonable grounds affords evidence of the commission
+of an offence under this Act and shall as soon as practicable bring the
+document or thing before, or make a report in respect thereof to, the judge who
+issued the warrant or, where the judge is unable to act, another judge of the
+same court to be dealt with by the judge in accordance with this section.                     (6) 
+Subject to subsection (7), where any document or thing seized under subsection
+(1) or (5) is brought before a judge or a report in respect thereof is made to
+a judge, the judge shall, unless the Minister waives retention, order that it
+be retained by the Minister, who shall take reasonable care to ensure that it
+is preserved until the conclusion of any investigation into the offence in
+relation to which the document or thing was seized or until it is required to
+be produced for the purposes of a criminal proceeding.                     (7) 
+Where any document or thing seized under subsection (1) or (5) is brought
+before a judge or a report in respect thereof is made to a judge, the judge
+may, of his own motion or on summary application by a person with an interest
+in the document or thing on three clear days notice of application to the
+Deputy Attorney General of Canada, order that the document or thing be returned
+to the person from whom it was seized or the person who is otherwise legally
+entitled thereto if the judge is satisfied that the document or thing  (a) 
+will not be required for an investigation or a criminal proceeding; or  (b) 
+was not seized in accordance with the warrant or this section.                     (8) 
+The person from whom any document or thing is seized pursuant to this section
+is entitled, at all reasonable times and subject to such reasonable conditions
+as may be imposed by the Minister, to inspect the document or thing and to
+obtain one copy of the document at the expense of the Minister.  B.  Canadian Charter of Rights and
+Freedoms                     8.  Everyone has the right to be secure
+against unreasonable search or seizure.  V.  Judgments Below  A.  Federal Court, Trial Division
+(Reed J.)                     Reed J. dealt with
+each of the respondents' attacks on s. 231.3 in turn.  First came the issue of
+judicial discretion.  She felt bound by the Federal Court of Appeal's decision
+in Solvent Petroleum Extraction Inc. v. Canada (M.N.R.), [1990] 1 F.C.
+20 (C.A.), aff'g [1988] 3 F.C. 465, leave to appeal refused, [1989] 2 S.C.R. xi
+[hereinafter Solvent Petroleum], in which Desjardins J.A. (Pratte and
+Stone JJ.A., concurring) said, at p. 24, that if the statutory conditions are
+met, the issuing judge must issue the warrant.  Reed J. then cited other
+decisions and authorities on the interpretation of the word "shall",
+some holding it to be mandatory, others holding it to have been a slip by the
+legislature, which had intended to say "may".  She then reproduced a
+long excerpt from the British Columbia Court of Appeal's reasons in Kourtessis
+v. M.N.R. (1989), 39 B.C.L.R. (2d) 1, in which Locke J.A. concluded that
+while s. 231.3(3) deprives the issuing judge of the discretion to refuse a
+warrant once the statutory criteria are met, it preserves the judge's crucial
+"balance wheel" function of deciding whether the facts before him or
+her are sufficient to warrant an intrusion of privacy, and thus does not defeat
+the standards of Hunter v. Southam Inc., [1984] 2 S.C.R. 145.  In any
+event, Locke J.A. held the judge may attach conditions to the execution of the
+warrant.  Reed J. thought that perhaps s. 2 of the Canadian Bill of Rights,
+R.S.C., 1985, App. III, or the court's inherent control over the abuse of its
+own process, might allow an issuing judge to refuse to issue an abusive
+warrant.  She agreed that certainly the issuing judge could attach conditions
+to the warrant.  But ultimately she declined to decide the question of whether
+ss. 231.3(3) removed the issuing judge's discretion to refuse to issue a
+warrant where to do so would be abusive, since in her view no abusive search or
+seizure in violation of s. 8  of the Charter  had occurred in this case
+and there was no factual underpinning for the argument (at p. 275).                     Then came the issue
+of wholesale search and seizure under s. 231.3(5).  Reed J. referred to the
+general requirement of prior authorization enunciated in Hunter, supra,
+and the Federal Court of Appeal's judgment in Minister of National Revenue
+v. Kruger Inc., [1984] 2 F.C. 535, striking down as too wide and general
+the search power in s. 231.3's predecessor (s. 231(4), which allowed the
+seizure of anything that may afford evidence of the violation of any
+provision of the ITA or a regulation).  She then quoted extensively
+from Solvent Petroleum, supra, in which the Federal Court of Appeal held
+that the "plain view" seizure permitted by the ITA met the
+test of reasonableness and therefore of validity.  Reed J. held that decision
+to be binding on her.                     The next issue was
+whether it was sufficient to require only "reasonable grounds to
+believe" (s. 231.3(3)) instead of "reasonable and probable
+grounds".  Reed J. referred extensively to the British Columbia Court of
+Appeal's decision in Kourtessis, supra, which held that
+"reasonable" in the context of s. 231.3(3) satisfied the
+"more-probable-than-not test" required by Hunter, supra.  She
+then referred to R. v. Simmons, [1988] 2 S.C.R. 495, at p. 523, which
+stated the Hunter test to be "reasonable and probable
+grounds", and juxtaposed that with the conclusion reached in Solvent
+Petroleum, supra (adopting Lysyk J.'s conclusion in Kourtessis, supra)
+that the absence of a statutory requirement for probable as well as reasonable
+grounds for belief was not constitutionally fatal since the only explicit
+requirement in s. 8  is that of reasonableness which comprehended a requirement
+of probability.                     Reed J. then went
+on to reject the respondents' s. 15  argument and their arguments based on
+solicitor-client or accountant-client privilege.  She dismissed the application
+with one set of costs.  B.Federal
+Court of Appeal (Hugessen J.A., Pratte and Marceau JJ.A., concurring)                     Hugessen J.A. wrote
+the reasons for the court's decision.  He started by considering the
+characterization of the search and seizure provisions of the ITA for the
+purposes of determining the taxpayer's reasonable expectation of privacy under
+s. 8  of the Charter .  He rejected the contention that the procedures
+constituted an administrative enforcement mechanism as described in R. v.
+McKinlay Transport Ltd., [1990] 1 S.C.R. 627, holding instead that they
+were concerned with the detection and prosecution of crime.  No easing of Charter 
+standards was therefore justified; on the contrary, "nothing less than the
+full panoply of Charter  protection is appropriate" (at p. 694).                     Hugessen J.A. then
+broached the substantive issues.  On the first question of judicial discretion
+and the use of the words "shall issue" in s. 231.3(3), he held that
+any text which specifically excludes the residual discretion to refuse to issue
+a warrant where the circumstances do not justify an invasion of privacy
+"will, for that reason alone, run afoul of sections 7  and 8  of the Charter 
+as authorizing an unreasonable search and seizure and one that is in breach of
+the principles of fundamental justice" (at pp. 694-95).  He rejected the
+trial judge's suggestion that s. 231.3(3) could be "read down" to
+preserve a residual discretion and held that the context of s. 231.3 and the
+fact that the section's use of "shall" is unique in Canadian search
+warrant legislation show that the word was intended to be mandatory and
+imperative.  He referred to but rejected the British Columbia Court of Appeal's
+holding in Kourtessis, supra, that the judge's discretion to determine
+whether the statutory criteria are met satisfies the Hunter standard and
+that in any event the issuing judge may attach conditions to the warrant.  He
+placed considerable emphasis on this Court's decision in Descôteaux v.
+Mierzwinski, [1982] 1 S.C.R. 860, deriving from that case the proposition
+that the existence of judicial discretion is a prerequisite to the
+reasonableness of a search and to our notions of fundamental justice. 
+Moreover, in his view, Descôteaux establishes that any legislative
+attempt to define exhaustively when a search will be reasonable is impossible. 
+He concluded that the ultimate protection for the citizen against unreasonable
+searches resides in the power to refuse to issue a warrant even when all the
+conditions prescribed by Parliament are met.                     Hugessen J.A. went
+on to consider the other grounds of appeal.  He cited, inter alia,
+Dickson J.'s (as he then was) statement in Hunter, supra, at
+p. 167, that the standards in s. 443 of the Criminal Code, R.S.C.
+1970, c. C-34, ("reasonable ground") and the U.S. Fourth
+Amendment ("probable cause") are identical.  From this he held at p.
+707 that the words "reasonable grounds" in s. 231.3(3) met the
+"more likely than not" standard of probability required for a search
+to be reasonable.  Next, he held at p. 708 that s. 231.3(3)(b) did not
+pass constitutional muster, since by using the words "may afford
+evidence" it failed to meet the standard of Hunter, supra that
+there be reasonable grounds to believe that evidence will be found. 
+Finally, he held that there was no reason to interfere with the court's
+previous holding in Solvent Petroleum, supra, that s. 231.3(5) does not
+authorize unreasonable "wholesale" searches and seizures.  As a
+result, the appeals were allowed, s. 231.3 was declared of no force or effect
+and the search warrants were quashed.  VI.  Analysis:  The Constitutional
+Validity of s. 231.3  A.  Legislative History                      Section 231.3 was
+enacted by Parliament in 1986 in response to a number of appellate court
+decisions finding that the previous search warrant provisions of the ITA
+violate s. 8  of the Charter .  The predecessor to s. 231.3 read as
+follows:                     231. ...                     (4) 
+Where the Minister has reasonable and probable grounds to believe that a
+violation of this Act or a regulation has been committed or is likely to be
+committed, he may, with the approval of a judge of a superior or county court,
+which approval the judge is hereby empowered to give on ex parte
+application, authorize in writing any officer of the Department of National
+Revenue, together with such members of the Royal Canadian Mounted Police or
+other peace officers as he calls on to assist him and such other persons as may
+be named therein, to enter and search, if necessary by force, any building,
+receptacle or place for documents, books, records, papers or things that may
+afford evidence as to the violation of any provision of this Act or a
+regulation and to seize and take away any such documents, books, records,
+papers or things and retain them until they are produced in any court
+proceedings.                     (5)
+An application to a judge under subsection (4) shall be supported by evidence
+on oath establishing the facts upon which the application is based.                     In Minister of
+National Revenue v. Kruger Inc., supra, s. 231(4) was held to
+contravene s. 8  of the Charter  in that it gave the Minister, when he or
+she believed one offence to have been committed, the power to authorize a general
+search and seizure relating to the violation of any of the provisions of
+the Act or its regulations.   The Ontario Court of Appeal agreed with this
+holding in Re Print Three Inc. and The Queen (1985), 20 C.C.C. (3d) 392,
+leave to appeal refused [1985] 2 S.C.R. x, and found additional reasons that
+the section violated s. 8  (at p. 396):                     In
+our view, there are additional reasons to those relied upon by the Federal
+Court of Appeal for holding the subsection to be in breach of s. 8 .  It is
+clear that to meet the standards of reasonableness there must first be an
+independent arbiter (judge) who is satisfied that there are reasonable grounds
+for believing that an offence has been committed (see Hunter et al v.
+Southam Inc., supra).  In s. 231(4) and (5), it is the Minister who has to
+have the reasonable and probable grounds and there is no standard or conditions
+precedent set out for the judge on which to base his assessment of whether the
+Minister's belief is properly founded.  Mr. Kelly argued that the only
+reasonable construction of s-s. 5 is that facts must be laid before the judge
+so he can be satisfied that the Minister has reasonable and probable grounds. 
+Even if the subsection could be so construed, there are, as we have noted,
+additional flaws in s. 231(4) and (5).  There is no requirement that the
+Minister have grounds to believe that evidence is likely to be found at the
+place of the search and there is no requirement that he present such grounds to
+the judge.  There is, equally, no direction as to what is to be issued by the
+judge in granting his "approval".  It is the Minister who issues what
+is, in essence, the warrant.  Finally, the Minister is not required in the
+authorization to specify the things to be searched for.                     The new version
+addresses these defects.  Subsection 231.3(3) now makes it clear that prior to
+the issuance of a search warrant under the Act a judge must be satisfied that
+there are reasonable grounds to believe that a particular offence has been
+committed under the Act and that a document or thing that may afford evidence
+of the commission of that offence is likely to be found in the building,
+receptacle or place specified in the application.  Moreover, s. 231.3(4)
+requires particulars to be stated within the warrant as to what may be searched
+for and seized.                     The
+constitutionality of s. 231.3 of the ITA has been considered in a number
+of lower court and appellate court decisions.  The majority of these have
+upheld s. 231.3: see for example Kohli v. Moase (1987), 86 N.B.R. (2d)
+15 (Q.B.), aff'd on other grounds (1989), 55 D.L.R. (4th) 740 (N.B.C.A.), Solvent
+Petroleum, supra, and Kourtessis, supra.  In my view, however, the
+amended legislation is still inadequate.  B.  Applying Section 8 of the
+Charter                     (1)  Denial of
+Residual Discretion:  Subs. (3)                     This issue requires
+a decision as to whether legislation which authorizes a search or seizure must
+provide for a residual discretion in the judicial officer who issues the
+warrant.  It is contended by the respondents and the Federal Court of Appeal so
+held that legislation that fails to do so violates s. 8  of the Charter . 
+Reliance is placed on this Court's decision in Hunter, supra, and cases
+that have followed it.  The appellants contend that this was not one of the
+conditions laid down by Hunter, that if it was it does not apply here
+and in any event the impugned section does provide a discretion that satisfies
+the dictates of s. 8 .                     In my view, an
+analysis of the principles on which Hunter was based shows that the
+exercise of a judicial discretion in the decision to grant or withhold
+authorization for a warrant of search was fundamental to the scheme of prior
+authorization which Dickson J. prescribed as an indispensable requirement for
+compliance with s. 8  in that case.  The judgment makes very clear that the
+decision to grant or withhold the warrant requires the balancing of two
+interests:  that of the individual to be free of intrusions of the state and
+that of the state to intrude on the privacy of the individual for the purpose
+of law enforcement.  At pages 158-60 of the judgment, Dickson J. stated:                     In
+my view the interests protected by s. 8  are of a wider ambit than those
+enunciated in Entick v. Carrington.  Section 8  is an entrenched
+constitutional provision.  It is not therefore vulnerable to encroachment by
+legislative enactments in the same way as common law protections.  There is,
+further, nothing in the language of the section to restrict it to the
+protection of property or to associate it with the law of trespass.  It
+guarantees a broad and general right to be secure from unreasonable search and
+seizure.                                                                      ...                     Like
+the Supreme Court of the United States, I would be wary of foreclosing the
+possibility that the right to be secure against unreasonable search and seizure
+might protect interests beyond the right of privacy, but for purposes of the
+present appeal I am satisfied that its protections go at least that far.  The
+guarantee of security from unreasonable search and seizure only protects
+a reasonable expectation.  This limitation on the right guaranteed by s.
+8 , whether it is expressed negatively as freedom from "unreasonable"
+search and seizure, or positively as an entitlement to a "reasonable"
+expectation of privacy, indicates that an assessment must be made as to whether
+in a particular situation the public's interest in being left alone by
+government must give way to the government's interest in intruding on the
+individual's privacy in order to advance its goals, notably those of law
+enforcement.  [Emphasis in original.]                     The circumstances
+in which these conflicting interests must be balanced will vary greatly.  The
+strength of the interests will be affected by matters such as the nature of the
+offence alleged, the nature of the intrusion sought including the place to be
+searched, the time of the search and the person or persons who are the subjects
+of the search.  The variability of the factors affecting the decision of the
+authorizing judge was stressed by Lamer J. (as he then was) in Descôteaux v.
+Mierzwinski, supra.  This was a pre-Charter  case in which
+this Court held that s. 443  (now s. 487 ) provided for a discretion when a
+warrant is sought before a justice under the Criminal Code .  At page 889
+Lamer J. said:                     I
+come down on the side of the discretion, as it allows more effective judicial
+control of the police.  Searches are an exception to the oldest and most
+fundamental principles of the common law, and as such the power to search
+should be strictly controlled.  It goes without saying that the justice may
+sometimes be in a poor position to assess the need for the search in advance. 
+After all, searches, while constituting a means of gathering evidence, are also
+an investigative tool.  It will often be difficult to determine definitively
+the probative value of a particular thing before the police investigation has
+been completed.  Be that as it may, there are places for which authorization to
+search should generally be granted only with reticence and, where necessary,
+with more conditions attached than for other places.  One does not enter a
+church in the same way as a lion's den, or a warehouse in the same way as a
+lawyer's office.  One does not search the premises of a third party who is not
+alleged to have participated in the commission of a crime in the same way as
+those of someone who is the subject of such an allegation.                     In order to take
+account of the various factors affecting the balancing of the two interests,
+the authorizing judge must be empowered to consider all the circumstances.  No
+set of criteria will always be determinative or sufficient to override the
+right of the individual to privacy.  It is imperative, therefore, that a
+sufficient degree of flexibility be accorded to the authorizing officer in
+order that justice be done to the respective interests involved.                     In Canadian
+Broadcasting Corp. v. Lessard, [1991] 3 S.C.R. 421, and Canadian
+Broadcasting Corp. v. New Brunswick (Attorney General), [1991] 3 S.C.R.
+459, this Court considered the factors that should be taken into consideration
+by a justice of the peace when determining whether to issue a warrant for the
+search of the premises of a media organization pursuant to s. 487  of the Criminal
+Code, R.S.C., 1985, c. C-46 .  It was submitted that two requirements were
+constitutionally entrenched, namely that the Justice of the Peace must be
+satisfied that there was no investigative alternative for obtaining the
+material and, if one existed, that it had been pursued.  In the course of
+rejecting the constitutional entrenchment of these two requirements, a majority
+of this Court stressed the importance of evaluating the reasonableness of a
+search in light of all the surrounding factors.  Cory J. stated in Canadian
+Broadcasting Corp. v. New Brunswick (Attorney General), at p. 475:                     Any
+search of premises is certain to be disquieting and upsetting.  The invasion of
+privacy rights which a search entails is an important concern for all members
+of a democratic society.  Some searches are obviously more intrusive and
+upsetting than others.  For example, the search of a residence is likely to
+have graver consequences than a search of commercial premises which may be
+subject to statutory regulation and inspection.  Because of its intrusive
+nature, a warrant to search any premises must only be issued when a justice of
+the peace is satisfied that all the statutory requirements have been met.  In
+those situations where all the statutory prerequisites have been established,
+the justice of the peace should still consider all of the circumstances in
+determining whether to exercise his or her discretion to issue a warrant.  It
+is not a step that can be taken lightly. This is particularly true when a
+warrant is sought to search the offices of a news media organization, where the
+consequences are likely to be disruptive of the media's role of gathering and
+publishing news.  [Emphasis added.]  Moreover, in response to the argument
+that these two requirements are constitutionally entrenched prerequisites to
+the search of media offices, Cory J. commented at p. 478:                     In
+my view, the assessment of the reasonableness of a search cannot be said to
+rest only upon these two factors.  Rather all factors should be evaluated in
+light of the particular factual situation presented.  The factors which may be
+vital in assessing the reasonableness of one search may be irrelevant in
+another.  Simply stated, it is impossible to isolate two factors from the
+numerous considerations which bear on assessment of the reasonableness of a
+search and label them as conditional prerequisites.  The essential question can
+be put in this way: taking into account all the circumstances and viewing them
+fairly and objectively can it be said that the search was a reasonable one?                     It
+is the overall reasonableness of a search which is protected by s. 8  of the Charter . 
+Certainly the potentially damaging effect of a search and seizure upon the
+freedom and the functioning of the press is highly relevant to the assessment
+of the reasonableness of the search.  Yet neither s. 2 (b) nor s. 8  of
+the Charter  requires that the two factors set out in Pacific Press
+[Re Pacific Press Ltd. and The Queen (1977), 37 C.C.C. (2d) 487
+(B.C.S.C.)] must always be met in order for a search to be permissible and
+constitutionally valid.  It is essential that flexibility in the balancing
+process be preserved so that all the factors relevant to the individual case
+may be taken into consideration and properly weighed.  [Emphasis added.]                     In some situations
+this discretion will only be exercised subject to specified conditions being
+met and subject to restrictions and conditions with respect to the execution of
+the warrant that are specified in the authorization.  This would apply, for
+example, in the case of the prospective search of a private dwelling.  I
+referred to this in R. v. Thompson, [1990] 2 S.C.R. 1111, in connection
+with authorizations to wiretap in a dwelling.  The authorizing judge must
+consider imposing conditions.  The importance of the power to impose conditions
+and restrictions was emphasized by Lamer J. in Descôteaux at p.
+891, the exercise of which was dependent on the existence of a residual
+discretion.                     Not only is the
+existence of a discretion indispensable to the balancing of interests which Hunter
+envisaged but the requirement that the officer authorizing the seizure be
+independent and capable of acting judicially is inconsistent with the notion
+that the state can dictate to him or her the precise circumstances under which
+the right of the individual can be overborne.  I agree with the statement of
+Morden J.A. in Minister of National Revenue v. Paroian, [1980] C.T.C.
+131, at p. 138 that "The function of the judge is the most important
+safeguard.  It is implicit in the provision that the judge is not to act as a
+rubber stamp."  This statement was quoted with approval in Selye v.
+Quebec, [1982] R.D.F.Q. 173, at p. 176.  This statement, which was made in
+a pre-Charter  case, would apply with greater force in the era of the Charter . 
+The concept of a rubber stamp role would be completely inconsistent with the
+role assigned to the judiciary as expressed by Dickson J. in Beauregard v.
+Canada, [1986] 2 S.C.R. 56, at p. 72:                     Secondly,
+the enactment of the Canadian Charter of Rights and Freedoms  (although
+admittedly not relevant to this case because of its date of origin) conferred
+on the courts another truly crucial role:  the defense of basic individual
+liberties and human rights against intrusions by all levels and branches of
+government.  Once again, in order to play this deeply constitutional role,
+judicial independence is essential.                     Having found that a
+residual discretion is a constitutional requirement, the next question is
+whether s. 231.3(3) removes or impermissibly restricts this discretion.  It is
+clear to me that the answer is yes.  I would adopt the reasoning of the Federal
+Court of Appeal on this point, in preference to that of the British Columbia
+Court of Appeal in Kourtessis, supra.  Section 231.3(1) states
+that, on an ex parte application, a judge "may" issue a
+warrant for the search of premises.  However, s. 231.3(3) provides that a judge
+"shall" issue the warrant once satisfied that the three statutory
+conditions set out therein have been satisfied.  As Hugessen J.A. pointed out,
+the word "shall" is normally to be construed as imperative.  This
+rule of construction is embodied in s. 11  of the Interpretation Act,
+R.S.C., 1985, c. I-21 .  The plain effect of the use of the word in s. 231.3(3)
+is as the Federal Court of Appeal held in Solvent Petroleum, supra, at
+p. 24 (excerpted in Baron at p. 695):                     Subsection
+231.3(1) states that "A judge may".  Subsection 231.3(3) states that
+"A judge shall".  It would therefore appear from the language of
+subsection 231.3(3) that if the issuing judge comes to the conclusion that the
+conditions of paragraphs 231.3(3)(a), (b) and (c) are met,
+he need not nor is he permitted to consider whether there has been a previous
+substantive voluntary compliance by the taxpayer, whether further documents
+might be remitted voluntarily, or whether the applicant for the warrants has
+taken all reasonable steps to obtain the information from an alternative source
+before applying for the warrants.  In brief, if the conditions are met, he must
+issue the warrant.                     As this Court said
+in Re Manitoba Language Rights, [1985] 1 S.C.R. 721, at p. 737, the
+presumption that the word "shall" is intended to be mandatory should
+be followed unless:  such
+an interpretation of the word "shall" would be utterly inconsistent
+with the context in which it has been used and would render the sections irrational
+or meaningless.  Hugessen J.A. found no reason to
+depart from the presumption, and I would adopt what he said in this regard, at
+p. 697:                     There
+is, as it seems to me, absolutely nothing in the context of section 231.3 of
+the Income Tax Act which would render an imperative interpretation of
+the word "shall" in subsection 231.3(3) inconsistent with the balance
+of the section or make it irrational or meaningless.  Indeed, I can see nothing
+in the section which would point to a permissive or discretionary meaning for
+"shall".  On the contrary, the draughtsman has clearly used the
+permissive "may" where this is appropriate (as for example in
+subsection 231.3(1) and (5)) and the use of "shall" in subsection
+231.3(3) (as well, it may be noted, as in subsection 231.3(6)) has every
+appearance of being a deliberate choice.                     Furthermore,
+the whole of section 231.3 represents a change from the previous law [s.
+231(4)] which was couched in terms that were clearly permissive and left a
+discretion in the hands of the judge authorizing the seizure.  Also, as noted
+above, the text of subsection 231.3(3) is unique and differs remarkably from
+all other Canadian search warrant provisions [which are invariably
+permissive].  I cannot view such a change from both previous and current
+practice as being anything but intentional.                     I also agree with
+Hugessen J.A. that the existence of a discretion is indispensable to the
+imposition of conditions to the issue of the warrant.  As he states, this
+conclusion follows from what was said by Lamer J. in Descôteaux, supra. 
+Although I would not go so far as to hold that Parliament had, in the absence
+of express language, removed the power to specify the terms upon which the
+warrant is executed, I agree that the power to attach pre-conditions to the
+issue of the warrant cannot be exercised once the statutory criteria for the
+issue of the warrant have been met.                     Moreover, I do not
+accept the position taken by Reed J. at trial and adopted by the appellants
+that a judge's inherent power to prevent an abuse of the court's process or a
+violation of a constitutional right continues to confer on an issuing judge the
+discretion to refuse to issue a warrant in those circumstances.  As Hugessen
+J.A. concluded, at p. 698, if the conditions set out in the subsection are
+exhaustive of all the conditions precedent of a reasonable search, "an
+application which meets all of those conditions cannot be an abuse of the
+process".                     Finally, I observe
+that the British Columbia Court of Appeal held in Kourtessis, supra,
+that s. 231.3(3) preserved the crucial "balance wheel" function of
+the issuing judge, and the removal of the discretion to refuse to issue a
+warrant when all statutory criteria are met is of no consequence.  I agree with
+Hugessen J.A. in rejecting this line of reasoning.  As I have already
+indicated, in order to fulfil properly the "balance wheel" role
+required by s. 8  of the Charter , a judge must be able to weigh all
+the surrounding circumstances to determine whether in each case the interests
+of the state are superior to the individual's right to privacy.  By restricting
+the factors that a judge may consider, Parliament has improperly restricted a
+judge's ability to assess the reasonableness of a search.  For example, as Reed
+J. noted, s. 231.3(3) precludes a judge from taking into consideration whether
+reasonable alternative sources for obtaining information sought from the search
+of a lawyer's office exist, notwithstanding the requirement in Descôteaux,
+supra, that this factor be considered before a search warrant under what is
+now s. 487  of the Criminal Code, R.S.C., 1985, c. C-46 , is issued.                     Bearing all this in
+mind, I conclude that s. 231.3(3), by using the words "shall issue",
+denies the issuing judge the discretion to refuse to issue a warrant where in
+all the circumstances a search or seizure would be unreasonable.  In fact, the
+subsection makes it possible for a judge to be statutorily bound to authorize
+an unreasonable search or seizure.  For this reason the use of the word
+"shall" brings s. 231.3(3) into conflict with s. 8  of the Charter .                     It was submitted,
+however, that the above conclusion, while it might be correct in a Hunter v.
+Southam Inc. situation, has no application to the ITA because it is
+a regulatory statute and the criteria of Hunter must be relaxed.  I
+accept that the majority characterized the ITA as a regulatory statute
+in McKinlay Transport Ltd. v. The Queen, supra.  In my opinion, however,
+in the very different circumstances of this case, while that classification may
+affect the exercise of discretion by the authorizing judge, it is not a basis
+for reading the requirement for a residual discretion out of s. 8 .  The
+distinction between the nature of the state intrusion in McKinlay and
+this case was clearly drawn by Wilson J. in her majority reasons.  At pages
+649-50, she states:                     In
+my opinion, s. 231(3) [sic] provides the least intrusive means by which
+effective monitoring of compliance with the Income Tax Act can be
+effected.  It involves no invasion of a taxpayer's home or business premises. 
+It simply calls for the production of records which may be relevant to the
+filing of an income tax return.  At page 649, Wilson J. recognized that
+relaxation of the Hunter standards with respect to the demand provisions
+by reason of the characterization of the statutory provision as regulatory
+would not validate all forms of searches and seizures under the ITA. 
+She continued:  The
+state interest in monitoring compliance with the legislation must be weighed
+against an individual's privacy interest.  The greater the intrusion into the
+privacy interests of an individual, the more likely it will be that safeguards
+akin to those in Hunter will be required.  Thus, when the tax
+officials seek entry onto the private property of an individual to conduct a
+search or seizure, the intrusion is much greater than a mere demand for
+production of documents.  [Emphasis added.]                     The point is that
+the characterization of certain offences and statutory schemes as
+"regulatory" or "criminal", although a useful factor, is
+not the last word for the purpose of Charter  analysis.  In R. v.
+Wholesale Travel Group Inc., [1991] 3 S.C.R. 154, a case in which the
+false/misleading advertising offence in the Competition Act, R.S.C.
+1970, c. C-23, as amended, was attacked under ss. 7  and 11 (d) of the Charter ,
+Justice La Forest said at p. 209 that "what is ultimately important are
+not labels (though these are undoubtedly useful), but the values at stake in
+the particular context", and held that the potential five-year prison term
+upon conviction of the offence was a deprivation of liberty requiring much
+greater safeguards to conform with s. 7  or 11 (d) than the provisions at
+issue in Thomson Newspapers Ltd. v. Canada (Director of Investigation and
+Research, Restrictive Trade Practices Commission), [1990] 1 S.C.R. 425.                     This logic, in my
+view, applies in the present case.  Section 231.3 contemplates and authorizes
+the physical entry and search, against the will of the occupant, of private
+premises, even those occupied by innocent third parties against whom no
+allegation of impropriety is levelled.  The purpose of the search is to provide
+evidence to be used in the prosecution of ITA offences.  Physical search
+of private premises (I mean private in the sense of private property,
+regardless of whether the public is permitted to enter the premises to do
+business) is the greatest intrusion of privacy short of a violation of bodily
+integrity.  It is quite distinct from compelling a person to appear for
+examination under oath and to bring with them certain documents, under a subpoena
+duces tecum (Thomson Newspapers, supra), or to produce documents on
+demand (McKinlay Transport, supra).  Both Justices La Forest and
+L'Heureux-Dubé acknowledged in Thomson Newspapers, supra, at pp. 520 and
+594, respectively, that the power to search premises is more intrusive of an
+individual's privacy than the mere power to order the production of documents.                     The intrusive
+nature of a physical search has been acknowledged by this Court on various
+occasions: see for example Canadian Broadcasting Corp. v. New Brunswick
+(Attorney General), supra.  Warrants for the search of any premises
+constitute a significant intrusion on the privacy of an individual that is both
+upsetting and disruptive.  Confidences, unrelated to the offence being
+investigated, may be subject to scrutiny by strangers.  One should not lose
+sight of the fact that s. 231.3 allows for the search not only of business
+premises but also of the homes of the taxpayers as well as the premises of
+innocent third parties.  Moreover, the premises of individuals whose
+relationship with the impugned taxpayer may be subject to professional
+privileges and whose offices may also contain confidential information regarding
+other individuals might also be subject to a search.                     Given the intrusive
+nature of searches and the corresponding purpose of such a search to gather
+evidence for the prosecution of a taxpayer, I see no reason for a radical
+departure from the guidelines and principles expressed in Hunter, supra. 
+The effect of any lessened expectation of privacy by reason of the character of
+the ITA will no doubt affect the exercise of discretion by an
+authorizing judge but cannot justify elimination of it.                     This is enough to
+dispose of the appeal.  I will go on, however, to consider the other grounds on
+which the section was attacked and defended, as these were fully argued.  The
+resolution of these additional grounds could affect the remedy which is
+appropriate.                     (2)  "Reasonable
+Grounds" to Believe:  Subs. (3)                     The second argument
+raised by the taxpayers in these two appeals revolves around a distinction
+between "reasonable grounds" and "reasonable and probable
+grounds".  The argument is that the requirement in s. 231.3(3) of
+"reasonable grounds" to believe the statutory criteria are met is
+constitutionally insufficient, since it is a lower standard than
+"reasonable and probable grounds", and only the latter will satisfy
+s. 8 .  The argument owes its (precarious) existence in part to passages in Hunter,
+supra, which are invoked by both sides.  On the one hand, Dickson J. (as he
+then was) said, at p. 168, that "reasonable and probable grounds, . . .
+constitutes the minimum standard".  On the other, he said, at p. 167, that
+the phrases "reasonable grounds to believe" in s. 443 of the Criminal
+Code, R.S.C. 1970, c. C-34 (now R.S.C., 1985, c. C-46, s. 487 ) and
+"probable cause" in the American Fourth Constitutional Amendment were
+identical.                     In my view nothing
+turns on the omission of the word "probable" from s. 231.3(3).  The
+standard that the subsection sets out is one of credibly based probability,
+which is the standard required by s. 8  of the Charter .  I respectfully
+disagree with Locke J.A.'s holding in Kourtessis, supra, that
+"reasonable" is not the same as "reasonable and probable",
+and I find that his use of an interpretative "gloss" on the word to
+make it conform to constitutional requirements is an unnecessary strain on the
+meaning of the word.  I prefer the reasoning of Lysyk J. in the British
+Columbia Supreme Court on this point.  Lysyk J. noted that Hunter, supra,
+cast no doubt on the formulation "reasonable grounds" in s. 443  (now
+s. 487 ) of the Criminal Code , which is identical in that respect to s.
+231.3(3) of the ITA.  He held that the distinction relied on by the
+taxpayers was a "refined distinction" of the type found in American
+jurisprudence under the Fourth Amendment, with its "probable cause"
+warrant clause, to be avoided in the interpretation of s. 8  of the Charter :
+ R. v. Rao (1984), 12 C.C.C. (3d) 97 (Ont. C.A.), leave to appeal
+refused, [1984] 2 S.C.R. ix.                      To my mind, Hunter,
+supra, does not give rise to legitimate controversy on this point.  That
+decision required reasonable "and probable" grounds and
+simultaneously established that the two words import the same standard. 
+"Reasonableness" comprehends a requirement of probability.  As Wilson
+J. said in R. v. Debot, [1989] 2 S.C.R. 1140, at p. 1166, aff'g (1986),
+30 C.C.C. (3d) 207 (Ont. C.A.), at p. 219, the standard to be met in order to
+establish reasonable grounds for a search is "reasonable
+probability".  It appears that the normal statutory phrase in Canada is
+"reasonable grounds", and that some of the remaining exceptions
+requiring "reasonable and probable grounds" have been amended in
+recent years, one imagines for the sake of uniformity, by deleting "and
+probable":  see Locke J.A.'s reasons in Kourtessis, supra, at pp.
+24-25.  This use of "reasonable grounds" as the basis for the
+issuance of search warrants is not constitutionally fatal.  Rather, it meets
+the requirements of s. 8 .                     (3)  Standard
+for the Discovery of Evidence: Para. (3)(b)                     The next point
+raised by the taxpayers is that s. 231.3(3)(b) waters down the minimum
+constitutional standard for the probability that the search will unearth
+evidence.  This argument was accepted by the Federal Court of Appeal.  The
+taxpayers rely on the following passage from the reasons of Dickson J. in Hunter,
+at p. 167:  The
+problem is with the stipulation of a reasonable belief that evidence may
+be uncovered in the search.  Here again it is useful, in my view, to adopt a
+purposive approach.  The purpose of an objective criterion for granting prior
+authorization to conduct a search or seizure is to provide a consistent
+standard for identifying the point at which the interests of the state in such
+intrusions come to prevail over the interests of the individual in resisting
+them.  To associate it with an applicant's reasonable belief that relevant
+evidence may be uncovered by the search, would be to define the proper
+standard as the possibility of finding evidence.  This is a very low
+standard which would validate intrusion on the basis of suspicion, and
+authorize fishing expeditions of considerable latitude.  It would tip the
+balance strongly in favour of the state and limit the right of the individual
+to resist, to only the most egregious intrusions.  I do not believe that this
+is a proper standard for securing the right to be free from unreasonable search
+and seizure.                     This passage
+underscores the need to protect individuals against unreasonable searches in
+the form of "fishing expeditions" by the state.  This Court
+established in Hunter that a standard of credibly based probability
+rather than mere suspicion should be applied in determining when an
+individual's interest in privacy is subordinate to the needs of law
+enforcement.                    In my view, the
+taxpayers' argument and Hugessen J.A.'s holding that s. 231.3(3)(b)
+fails to meet this criterion is based on a misreading of the paragraph.  There
+are important differences between the statutory language at issue here and in Hunter. 
+The impugned section in Hunter provided that where the Director of
+Investigation and Research of the Combines Investigation Branch believed there
+"may be evidence" relevant to an inquiry, officers may search for and
+seize anything that "may afford ... evidence":  Combines
+Investigation Act, R.S.C. 1970, c. C-23, s. 10(1).  The provision at issue
+in the present litigation requires reasonable grounds to believe, inter alia,
+that something that "may afford evidence" is "likely to be
+found".  This formulation does not make the standard the "possibility
+of finding evidence", which was rejected as too low in Hunter (at
+p. 167; emphasis in original).  Rather, it meets the "credibly based
+probability" standard required by s. 8 .  The paragraph, by using the word
+"likely" in respect of the chance of finding the thing sought,
+imports the criterion of probability.  The legislation in Hunter, supra
+employed the lower threshold of "may" in respect of the chance of
+finding the thing sought, which was held to be unacceptable.  When Dickson J.
+stated that at a minimum there must be reasonable and probable grounds to believe
+there is evidence to be found at the place of search (at p. 168), it must be
+remembered that he was addressing himself to the legislative requirement that
+"evidence may be found", which made mere possibility of finding
+evidence the criterion.  Dickson J.'s reasons in Hunter make it clear
+that the controlling standard is credibly-based probability, not mere
+possibility.  The word "likely" meets this standard.  Its use in s.
+231.3(b) is reinforced by the explicit terms of s. 231.3(c).                     The word
+"may" is used in a different sense in s. 231.3(3)(b), namely
+regarding the evidential value of the thing sought.  The use of the word
+"may" regarding the use of the thing found as evidence in a
+prosecution does not detract from the standard of probability of finding the
+thing sought; rather, it recognizes the nature of the investigative process. 
+The concern in Hunter was with the probability of finding the things
+sought, not with the certitude that the things found will be used as evidence. 
+The taxpayers do not restrict their argument to Hunter, however.  They
+also refer to decisions striking down s. 111(1)  of the Customs Act,
+R.S.C., 1985, c. 1 (2nd Supp .), which employed the words "there may be
+found":  see, for example, Goguen v. Shannon (1989), 50 C.C.C. (3d)
+45 (N.B.C.A.); Nima v. McInnes (1988), 45 C.C.C. (3d) 419 (B.C.S.C. in
+Chambers).  Their reliance on these decisions is misplaced, however.  The
+objectionable language in the Customs Act  had to do with the standard
+for finding the things sought, not for affording evidence of the offence.                     The use of the word
+"may" regarding the use of the thing found as evidence in a
+prosecution simply reflects one of the simple realities of the investigation of
+offences.  It is impossible to know with certainty at an early stage in
+any investigation what particular items will provide evidence in a
+trial.  I concede that in some police or other official investigations there
+will be some items the evidential value of which is known beforehand and of
+which it can be said with confidence that "this thing will probably be
+found and if found, will be used as evidence at trial".   But this
+standard cannot be expected of every item that may be relevant to the
+commission of the offence.  Moreover, even in what appear to be the clear cases,
+it is often impossible to know with certainty the evidential value of the
+things sought.  That will often depend on further investigation and analysis
+after the search warrant is executed.  Accordingly, to exact a higher standard
+would unduly restrict investigation and could not have been intended as a
+prerequisite to a valid search and seizure.                     I conclude,
+therefore, that the standard "may afford evidence", when coupled with
+a requirement of credibly based probability that the things sought are likely
+to be found, passes constitutional muster.  I find support for this conclusion
+in the fact that, at common law, "may afford evidence" was considered
+a sufficient test for the issue of a warrant.  As one judge put it in a fraud
+case:  It
+is not necessary for the magistrate to satisfy himself that the documents
+sought to be searched in the case before this Court can prove the fraud alleged
+to have been committed.  He need not adjudicate upon the question whether the
+offence was committed at the time he issued the search warrant, nor does he
+need to adjudicate on the question whether the documents sought can in fact
+assist in establishing the commission of the offence.  He need only satisfy
+himself that there were reasonable grounds for believing that such documents could
+be of assistance in establishing the commission of the offence and that they
+were in the premises in respect of which the search warrant is sought.  [Wiens
+v. The Queen (1973), 24 C.R.N.S. 341 (Man. Q.B.), at p. 347.]  [Emphasis
+added.]                     Although counsel
+for the Attorney General of Canada is right in conceding, as he does in his
+factum, that the common law standard cannot dictate the constitutional
+standard, I agree with his submission that the logic of the common law
+decisions applies with added force to the complex commercial fraud and tax
+evasion cases of the modern era.  As Hartt J. said in R. v. Burnett,
+[1985] 2 C.T.C. 227 (Ont. H.C.), at pp. 238-39:  Where
+the alleged misconduct is of a complex nature in which funds are allegedly
+funnelled through a number of interrelated companies with a view to hiding
+their disposition, it seems to me that the number of documents that may afford
+evidence of such a violation may well be very great indeed.  In such a case, an
+entire class of documents may in fact be necessary to trace the transactions. 
+Granted, many documents in a file may not, in the final analysis, be relevant
+to any tax violation.  However, it may be impossible to preclude their
+relevance without a detailed examination of all the documents seized.  And, in Re Print Three Inc., supra,
+at p. 397, McKinnon A.C.J.O. for the court (Martin and Thorson JJ.A.
+concurring) stated:  ...
+because of the extent and complexity of business affairs, made possible by
+modern technology and merchandising methods, it is impossible to define with
+exact precision the documents sought in cases involving fraud or tax evasion.  Given the inherent problems in
+specifying the particular items sought to be seized and determining how they
+fit into a complex pattern of economic activity, the appropriateness of the
+"may afford evidence" standard in the context of income tax
+investigations is apparent.                     I therefore
+respectfully disagree with Hugessen J.A.'s accession to the taxpayers' argument
+on this point (at p. 708), and hold that the language of s. 231.3(3)(b)
+is consistent with the right to be secure against unreasonable search or
+seizure in s. 8  of the Charter .                     (4)  Wholesale Search
+And Seizure: Subs. (5)                     Finally, s.
+231.3(5) is attacked for allowing the same kind of "wholesale search and
+seizures" without prior authorization found under the predecessor
+legislation to violate s. 8  of the Charter .  The Attorney General of
+Canada and the interveners argued that given the nature of the documents
+involved the provision is a reasonable extension if not a reflection of the
+"plain view" doctrine permitting the seizure of articles in plain
+view.  The taxpayers submit that s. 231.3(5)  goes beyond plain view seizures
+since it will rarely be apparent whether a particular document constitutes
+evidence of a violation of the ITA.  The difficulty in dealing with this
+question is that we face it in a factual vacuum since there is no indication that
+documents were seized in reliance on this provision.  We are always loathe to
+adjudicate constitutional issues in the absence of a factual foundation:  Danson
+v. Ontario (Attorney General), [1990] 2 S.C.R. 1086; MacKay v. Manitoba,
+[1989] 2 S.C.R. 357, at pp. 361 and 366; R v. Edwards Books and Art Ltd.,
+[1986] 2 S.C.R. 713, at pp. 762 and 767-68.  I think the issue should be left
+to be resolved until such time as this Court is presented with a situation in
+which the provision was relied upon to seize documents.  In view of the remedy
+which I have adopted, s. 231.3 will have to be re-enacted and therefore the
+terms of this subsection may warrant reconsideration.  Moreover, I believe that
+the provision is couched in language that is susceptible to interpretation so
+as to confine it within constitutional limits on the basis outlined by
+Lamer J. (as he then was) in Slaight Communications Inc. v. Davidson,
+[1989] 1 S.C.R. 1038, at p. 1078.  On this basis, the authority to seize might
+be limited to documents that could be seized on the basis of the "plain
+view" doctrine with appropriate refinements to comport with the special
+circumstance of income tax investigation.  C.  Section 1                     As I said at the
+outset of my reasons, I do not intend to engage in any s. 1  analysis since
+neither the appellants nor the interveners in this appeal, nor, indeed, the
+respondent or the interveners in Kourtessis, have made any submissions
+or directed us to any evidence capable of demonstrating that s. 231.3, if
+unreasonable for the purposes of s. 8 , is yet reasonable and demonstrably
+justified for the purposes of s. 1 .  The burden was on the government to
+establish that the law constituted a reasonable limit, and it has made no
+attempt to do so.  As observed by Dickson J. in Hunter, it is
+problematic as to "what further balancing of interests, if any, may be
+contemplated by s. 1 , beyond that envisaged by s. 8 " (at pp. 169-70). 
+Presumably for the same reason, other cases in this Court which have considered
+s. 8  of the Charter  have not addressed s. 1 .  D.  Remedy                     The Federal Court
+of Appeal by its formal order quashed the search warrants and declared and
+ordered the return of the documents seized under the authority of the warrant. 
+The reasons, however, include "a declaration that s. 231.3 of the Income
+Tax Act is of no force or effect".  This declaration is omitted from
+the formal judgment but I assume this was an oversight.  No submissions were
+made by the appellants to the effect that, if the appeal failed, the relief
+granted by the Court of Appeal should be varied.  The order sought in the
+appellants' factum is that "the appeal be allowed, with costs, and the
+application to set aside the search warrant be dismissed".  The Attorney
+General of Canada also submits that the constitutional question be answered in
+the negative.  Technically, therefore, the issue of a remedy other than that
+which was granted by the Court of Appeal is not properly before us.                     Furthermore, there
+is no question that striking out s. 231.3 is an appropriate, if not the most
+appropriate remedy.  The subsection I have found constitutionally inadequate is
+the one prescribing the conditions precedent for the issuance of a warrant. 
+Issuing the warrant is the linchpin of the whole scheme, and all the other
+parts of the section depend for their relevance upon, and are inextricably
+caught up with, the valid issuance of a search warrant.  Without the power to
+issue a warrant, the rest of the section is meaningless.  "Reading
+down" by amending the clear intent of a statutory provision may be
+appropriate in some cases.  The decision to do so requires a determination that
+this remedy will constitute the lesser intrusion into the role of the
+legislature consistent with upholding the values and objectives of the Charter . 
+See Osborne v. Canada (Treasury Board), [1991] 2 S.C.R. 69, at
+p. 104, and Schachter v. Canada, [1992] 2 S.C.R. 679, at p. 707. 
+This is a determination that I am not prepared to make in the absence of
+submissions by the Attorney General of Canada on behalf of the Government of
+Canada that reading down will constitute a lesser intrusion.  VII.  Disposition                     I would dismiss the
+appeal with costs.  The judgment of the Court of Appeal is restored but its
+formal order should be amended to include the declaration with respect to the
+invalidity of s. 231.3.  I would answer the constitutional question as follows:  Question:Whether
+s. 231.3 of the Income Tax Act, S.C. 1970-71-72, c, 63, as amended by
+S.C. 1986, c. 6, limits the rights and freedoms guaranteed by ss. 7  and 8  of
+the Canadian Charter of Rights and Freedoms , Part I of the Constitution
+Act, 1982 , being Schedule B of the Canada Act, 1982 (U.K.), 1982, c.
+11, and is consequently of no force or effect pursuant to s. 52  of the Constitution
+Act, 1982 , Schedule B, Canada Act, 1982 (U.K.), 1982, c. 11.  Answer:Yes,
+in that s. 231.3(3) violates s. 8 .                     Appeal dismissed
+with costs.  Section 231.3(3) of the Income Tax Act violates s. 8  of the
+Charter  and is of no force or effect.                     Solicitor for the
+appellants:  John C. Tait, Ottawa.                     Solicitors for the
+respondents:  Phillips & Vineberg, Montreal.                     Solicitor for the
+intervener the Attorney General for Ontario:  The Attorney General
+for Ontario, Toronto.                     Solicitor for the
+intervener the Attorney General of Quebec:  The Attorney General of
+Quebec, Montreal.       *      Stevenson J. took no part in the judgment.  

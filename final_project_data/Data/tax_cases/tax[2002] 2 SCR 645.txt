@@ -1,0 +1,928 @@
+Stewart v. Canada, [2002] 2 S.C.R. 645,
+2002 SCC 46  Brian J. Stewart                                                                                                Appellant  v.  Her Majesty The Queen                                                                               Respondent  Indexed as:  Stewart v. Canada  Neutral citation:  2002 SCC 46.  File No.:  27860.  2001:  December 12; 2002: May 23.   on appeal from the federal court of appeal    Held:  The appeal
+should be allowed.      Cases Cited  Restricted:  Moldowan
+v. The Queen, [1978] 1 S.C.R. 480; referred to: 
+Mohammad v. Canada, [1998] 1 F.C. 165; Landry v. Ministre du
+Revenu national (1994), 173 N.R. 213; Hugill v. The Queen, 95 D.T.C.
+5311; Sirois v. M.N.R., 88 D.T.C. 1114; Tonn v. Canada, [1996] 2
+F.C. 73; Corbett v. Canada, [1997] 1 F.C. 386; Allen v. The Queen,
+99 D.T.C. 968, aff’d 2000 D.T.C. 6559 (sub nom. The Queen v. Milewski); Nichol
+v. The Queen, 93 D.T.C. 1216; Bélec v. The Queen, 95 D.T.C. 121; Kaye
+v. The Queen, 98 D.T.C. 1659; Dorfman v. M.N.R., [1972] C.T.C. 151; Smith
+v. Anderson (1880), 15 Ch. D. 247; Terminal Dock and Warehouse Co.
+v. M.N.R., [1968] 2 Ex. C.R. 78, aff’d 68 D.T.C. 5316; Erichsen v. Last
+(1881), 4 T.C. 422; Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336; Ludco
+Enterprises Ltd. v. Canada, [2001] 2 S.C.R. 1082, 2001 SCC 62; Canderel
+Ltd. v. Canada, [1998] 1 S.C.R. 147; Roopchan v. The Queen, 96
+D.T.C. 1338; Royal Bank of Canada v. Sparrow Electric Corp., [1997] 1
+S.C.R. 411; Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622; Engler
+v. The Queen, 94 D.T.C. 6280; Neuman v. M.N.R., [1998] 1 S.C.R. 770;
+Walls v. Canada, [2002] 2 S.C.R. 000, 2002 SCC 47.  Statutes and Regulations Cited  Income
+Tax Act, R.S.C. 1985, c. 1 (5th Supp .),
+ss. 18(1) (a), (h), 248(1)  “personal or living expenses” [am.
+2000, c. 12, s. 142 (sch. 2, s. 9 (r))].   Income War Tax Act, R.S.C. 1927, c. 97 [previously S.C. 1917, c. 28], ss. 2
+“personal and living expenses” [ad. 1939, c. 46, s. 2], 6(f).  Authors Cited  Fien, Cy.  “To Profit or Not To
+Profit:  A Historical Review and Critical Analysis of the ‘Reasonable
+Expectation of Profit’ Test” (1995), 43 Can. Tax J. 1287.  Krishna, Vern.  The
+Fundamentals of Canadian Income Tax, 6th ed.  Scarborough, Ont.:  Carswell,
+2000.   Owen, John R.  “The Reasonable
+Expectation of Profit Test:  Is There a Better Approach?” (1996), 44 Can.
+Tax J. 979.  Silver, Sheldon.  “Great
+Expectations:  Are They Reasonable?”, Corporate Management Tax Conference 1995,
+Real Estate Transactions:  Tax Planning for the Second Half of the 1990s. 
+Toronto:  Canadian Tax Foundation, 1996, 6:1.  APPEAL from a judgment of the Federal Court of Appeal
+(2000), 254 N.R. 326, 2000 D.T.C. 6163, [2000] 2 C.T.C. 244, [2000] F.C.J. No.
+238 (QL), affirming a decision of the Tax Court of Canada, 98 D.T.C. 1600,
+[1998] 3 C.T.C. 2662, [1998] T.C.J. No. 310 (QL).  Appeal allowed.  Richard B. Thomas
+and Lisa Wong, for the appellant.  Richard Gobeil and Donald G.
+Gibson, for the respondent.  The judgment of the Court was delivered by  Iacobucci and
+Bastarache JJ. –  I.  Introduction  1                                  
+This appeal requires the Court to consider the appropriate use of what
+has come to be known as the “reasonable expectation of profit” test.  The test
+originated with the following comments of Dickson J. (as he then was) in the
+seminal case of Moldowan v. The Queen, [1978] 1 S.C.R. 480, at p. 485:  Although originally disputed, it is now accepted
+that in order to have a “source of income” the taxpayer must have a profit or a
+reasonable expectation of profit.  Source of income, thus, is an equivalent
+term to business ....   2                                  
+Since then, decisions have varied in the application of this test. 
+Although some cases have held that the reasonable expectation of profit test
+should only be used at the threshold stage of distinguishing between commercial
+and personal activities, others have used the test as a tool to assess the
+profitability of various bona fide commercial ventures in order to
+determine whether the taxpayer has a source of income, and is therefore
+entitled to deduct losses relating to that source.  3                                  
+The present appeal is just such a case.  The appellant, Brian Stewart,
+purchased four condominium units from which he earned rental income.  For the
+tax years in question, the appellant incurred losses, mainly as a result of
+significant interest expenses.  These losses were disallowed by the Minister on
+the basis that the taxpayer had no reasonable expectation of profit, and
+therefore no source of income.  4                                  
+In our view, the reasonable expectation of profit analysis cannot be
+maintained as an independent source test.  To do so would run contrary to the
+principle that courts should avoid judicial innovation and rule-making in tax
+law.  Although the phrase “reasonable expectation of profit” is found in the Income
+Tax Act , S.C. 1970-71-72, c. 63 (the “Act”), its statutory use does not
+support the broad judicial application to which the phrase has been subjected. 
+In addition, the reasonable expectation of profit test is imprecise, causing an
+unfortunate degree of uncertainty for taxpayers.  As well, the nature of the
+test has encouraged a hindsight assessment of the business judgment of
+taxpayers in order to deny losses incurred in bona fide, albeit
+unsuccessful, commercial ventures.  5                                  
+It is undisputed that the concept of a “source of income” is fundamental
+to the Canadian tax system; however, any test which assesses the existence of a
+source must be firmly based on the words and scheme of the Act.  As such, in
+order to determine whether a particular activity constitutes a source of
+income, the taxpayer must show that he or she intends to carry on that activity
+in pursuit of profit and support that intention with evidence.  The purpose of
+this test is to distinguish between commercial and personal activities, and
+where there is no personal or hobby element to a venture undertaken with a view
+to a profit, the activity is commercial, and the taxpayer's pursuit of profit
+is established.  However, where there is a suspicion that the taxpayer's
+activity is a hobby or personal endeavour rather than a business, the
+taxpayer's so-called reasonable expectation of profit is a factor, among
+others, which can be examined to ascertain whether the taxpayer has a commercial
+intent.  6                                  
+In the present appeal, the taxpayer purchased four rental properties
+which he rented to arm’s length parties in order to obtain rental income. 
+There was no personal element to the taxpayer’s endeavour, and its commercial
+nature was never questioned.  As a result, the appellant’s rental activities
+constitute a source of income from which he is entitled to deduct his rental
+losses.  We would therefore allow the appeal.  II.  Facts  7                                  
+The appellant held senior positions with the Toronto Transit Commission
+in the years 1990 to 1992, the tax years relevant to this appeal. Between 1986,
+and 1992, his annual income ranged from $65,000 to over $90,000.  The appellant
+was also an experienced real estate investor and had in the past acquired and
+disposed of several rental properties.  8                                  
+In 1986, the appellant acquired the four condominium rental units that
+are the subject of this appeal. The properties were part of a syndicated real
+estate development promoted by the Reemark Group, and were sold on the basis
+that the purchaser would be provided with a turnkey operation, that management
+would be provided, and that a rental pooling agreement would be entered into. 
+The Reemark Group also arranged financing for the projects.  9                                  
+The first two units, the “White Oaks” units, located in London, Ontario,
+were purchased for $72,990 each.  These units were financed by a first mortgage
+of $52,553, initially amortized over a 30-year period.  Additional financing
+came in the form of two promissory notes totalling $19,437.  The second two
+units, the “Park Woods” units, located in Surrey, British Columbia, were
+purchased for $74,990 and $58,990 and were similarly financed. All units were
+highly leveraged with the appellant paying only $1,000 cash for each unit.  The
+appellant was provided with projections of rental income and expenses in
+respect of each of the properties.  The projections contemplated payout of the
+promissory notes over a period of years terminating in 1994.  They also projected
+negative cash flow and income tax deductions for a ten-year period in all
+cases.  However, the actual rental experience of the four units ended up being
+worse than what had been set out in the projections provided by Reemark to the
+appellant, owing to worse than expected rental and vacancy rates.  10                              
+ The appellant tried to reduce the amount of financing on the units.  In
+1991, he increased the frequency of first mortgage payments on the units from
+monthly to weekly, thereby reducing the amortization period significantly.  He
+sold one of the Park Woods units in 1991 and used the proceeds to pay down the
+debt on the other unit.  By 1994, the appellant had paid off the promissory
+notes on all of the units.  The appellant also exited the White Oaks rental
+pool arrangement in 1995 because of high vacancies and poor management and set
+up his own management company.  In 1996, he changed management companies for
+the Park Woods unit.  11                              
+  For the taxation years 1990, 1991 and 1992, the appellant claimed
+losses of $27,814, $18,673 and $12,306, respectively.  The losses resulted
+primarily from interest expenses on money borrowed to acquire the units.  The
+Minister of National Revenue reassessed the appellant, disallowing his losses
+on the units for these taxation years solely on the basis that he had no
+reasonable expectation of profit for the years in question.  12                              
+The appellant argued that the fact that the purchases were almost 100
+percent financed was not determinative of whether he had a reasonable expectation
+of profit, and he argued that he should be able to deduct the carrying charges
+for monies borrowed to finance the rental losses.  The respondent argued that
+the appellant had had no reasonable expectation of profit but had purchased the
+properties as a tax shelter, attracted by the promises of income tax deductions
+and capital gains projections promoted by the vendor Reemark.  The appellant
+had followed the vendor’s plan instead of following his usual investment
+practices, and chose not to pay down the debt owing at times when he clearly
+had money with which to do so.  13                              
+The Tax Court of Canada found that the appellant’s rental losses were
+not deductible in computing his income for income tax purposes because there
+was no reasonable expectation of profit.  The Federal Court of Appeal dismissed
+the appeal.  III.  Relevant
+Statutory Provisions  14                              
+Income Tax Act , S.C. 1970-71-72, c. 63 (now R.S.C. 1985, c. 1
+(5th Supp .))  9. (1)  Subject to this Part, a taxpayer’s income
+for a taxation year from a business or property is his profit therefrom for the
+year.  18. (1)  In computing the income of a
+taxpayer from a business or property no deduction shall be made in respect of  (a) an outlay or expense except to the extent that it was made
+or incurred by the taxpayer for the purpose of gaining or producing income from
+the business or property;                                                                      ...                   (h) personal or living
+expenses of the taxpayer, other than travelling expenses incurred by the
+taxpayer while away from home in the course of carrying on his business;  20. (1)  Notwithstanding paragraphs 18(1)(a),
+(b) and (h), in computing a taxpayer’s income for a taxation year
+from a business or property, there may be deducted such of the following
+amounts as are wholly applicable to that source or such part of the following
+amounts as may reasonably be regarded as applicable thereto:                                                                      ...  (c)   an amount paid in the year or payable in respect of the
+year (depending upon the method regularly followed by the taxpayer in computing
+his income), pursuant to a legal obligation to pay interest on  (i)  borrowed money used for the purpose of earning income from a
+business or property...                                                                      ...  or a reasonable amount in respect thereof, whichever is the lesser;   248. (1) In this Act,  ...  “personal or living expenses” includes  (a)  the expenses of properties maintained by any person for the
+use or benefit of the taxpayer or any person connected with the taxpayer by
+blood relationship, marriage or adoption, and not maintained in connection with
+a business carried on for profit or with a reasonable expectation of profit
+....   IV.  Judgments
+Below   A.  Tax
+Court of Canada, 98 D.T.C. 1600   15                              
+McArthur J.T.C.C. characterized the issue as whether the appellant had
+a  reasonable expectation to profit from the subject rental properties such
+that there existed a source of income from which he could deduct rental losses
+incurred in the years under appeal.  While recognizing that the comments of
+Robertson J.A. in Mohammad v. Canada, [1998] 1 F.C. 165 (C.A.), in
+respect to reasonable expectation of profit were obiter, McArthur
+J.T.C.C. found them to be instructive and of assistance in determining the
+outcome.  In light of these comments, he considered the crux of the appeal to
+be whether the appellant possessed the intention to pay down the principal on
+the rental units, regardless of whether this actually occurred. Without an
+intention to reduce the amount of the principal owing on each unit, there could
+be no reasonable expectation of profit. 16                              
+According to McArthur J.T.C.C., the effect of the Reemark plan was to
+use rental losses to offset income and then to realize a gain at the end of the
+day from the expected capital appreciation of the properties.  Accordingly, the
+Reemark plan held out no expectation of profit from rental income.  17                              
+While noting that the appellant deviated from the Reemark plan somewhat,
+McArthur J.T.C.C. found instructive the fact that the appellant had deviated
+from his usual practice of paying down 25 percent of the purchase price on his
+prior rental property investments in order to reduce the risk that income
+expenses would exceed rental income.  He also emphasized that in 1988 the
+appellant chose to advance $40,000 in principal toward the purchase of a
+condominium for his own use, and, in 1990, he sheltered $50,000 in an RRSP
+rather than paying down more of the indebtedness. Thus, he had several
+opportunities to reduce the outstanding indebtedness and chose not to. 
+McArthur J.T.C.C. concluded that having considered all the evidence, he was not
+satisfied that the plan the appellant followed was realistic in its ability to
+pay down a sufficient portion of the principal on the subject properties so as
+to create a positive cash flow.  As a result, he concluded that the reasonable
+expectation of profit test was not satisfied, and therefore that the appellant
+had no source of income from which to deduct expenses under s. 20(1) (c).  B.  Federal
+Court of Appeal (2000), 254 N.R. 326  18                              
+Rothstein J.A. for the court noted that the reasonable expectation of
+profit test derives from the well-known case of Moldowan, supra. 
+In that case, Dickson J. determined that in order to have a source of income
+for purposes of the Act, the taxpayer must have a profit or a reasonable
+expectation of profit.  The appellant argued that the Moldowan test only
+applied where there was an element of personal use, and so did not pertain to
+the properties in question.  Rothstein J.A. disagreed, saying, at para. 7 that
+“[t]he Moldowan principle is that in order to have a source of income, the
+taxpayer must have a profit or a reasonable expectation of profit.”  19                              
+Rothstein J.A. commented that the reasonable expectation of profit test
+is not an opportunity for the Minister to second-guess the business judgement
+of the taxpayer, but found that this was not why the learned Tax Court judge
+found that there was no reasonable expectation of profit in this case.
+According to Rothstein J.A., the lower court’s finding was based on the fact
+that the Reemark plan held out no expectation of profit from the rental income,
+and instead offered rental losses to offset other income and eventually realize
+a gain from the appreciation in value of the property.  Rothstein J.A. also
+accepted the Tax Court judge’s finding that the appellant did not have a
+realistic plan to produce a profit.  It followed that there was no source of
+income, and therefore that the interest expenses claimed by the appellant were
+not deductible pursuant to s. 20(1) (c).  V.  Issues  20                              
+1.              Is the “reasonable expectation of profit” test set out
+by the Court in Moldowan the test for determining whether the taxpayer has
+a business or property source of income under the Act?  If not, what is the
+test?  2.                 Did the courts below err in
+disallowing the appellant’s interest expense deductions pursuant to the
+provisions of s. 20(1)(c) of the Act on the basis that there was no
+source of income?  VI.  Analysis  A.                A. 
+The Test to Determine Whether the Taxpayer has a Business or Property Source
+of         Income Under the Act  (1)  A Brief Overview of the Cases Leading up to Moldowan  21                              
+It well accepted that the Canadian tax system adopted the concept of
+“source” from the English taxation statutes, and that the Act has always
+referred to income from various “sources”: see V. Krishna, The Fundamentals
+of Canadian Income Tax (6th ed. 2000), at pp. 102-3.  However, the term
+“source” is not defined in the Act, and it has been left to courts to determine
+the nature and scope of the various sources of income in the Act.  22                              
+With respect to the phrase “reasonable expectation of profit”, this
+wording first appeared in the Income War Tax Act, R.S.C. 1927, c. 97
+(previously S.C. 1917, c. 28) (“IWTA”), through a 1939 amendment which
+added a definition of “personal and living expenses” to the IWTA:  S.C.
+1939, c. 46, s. 2.   That amendment defined “personal and living expenses” to
+include:  . . . the expenses of properties maintained by any person for the use
+or benefit of any taxpayer or any person connected with him by blood
+relationship, marriage or adoption, and not maintained in connection with a
+business carried on bona fide for a profit and not maintained with a
+reasonable expectation of a profit;   This
+definition was relevant to s. 6(f) of the IWTA which read, “[i]n
+computing the amount of the profits or gains to be assessed, a deduction shall
+not be allowed in respect of ... personal and living expenses”.  The phrase
+“reasonable expectation of profit” still appears in the virtually unaltered
+definition of “personal or living expenses” (now found in s. 248(1)), which in
+turn relates to s. 18(1)(h).  Section 18(1)(h) disallows the
+deduction of personal or living expenses from business or property income.  It
+can be seen, therefore, that the statutory use of the phrase “reasonable
+expectation of profit” has changed little since its introduction into the IWTA.  23                              
+Despite this fairly restrictive statutory use of the term “reasonable
+expectation of profit” (to disallow deductions for expenses of properties not maintained
+in connection with a business carried on with a reasonable expectation of
+profit), one author notes that several cases began to expand the use of the
+phrase in viewing “reasonable expectation of profit” as a general requirement
+of the “source of income” concept:  The first suggestion to this effect actually
+appears in the 1964 decision of J.S. Stewart v. MNR, a case
+concerning the raising of dogs for use in a display advertising business, in
+which the court stated (in obiter) that a business must be “carried out in good
+faith with a reasonable expectation of profit.” [[1964] C.T.C. 45, at p. 51
+(Ex. Ct.)]  Seven years later, in 1971, the Federal Court — Trial Division in CBA
+Engineering Ltd. v. MNR [71 D.T.C. 5282, at p. 5286] stated that farming could
+be either a hobby or an “operation with the expectation of profit,” in which
+case it would be a source.  CBA Engineering Ltd. was followed in 1972 by
+O. Dorfman v. MNR, another farming case, in which the Federal Court —
+Trial Division stated, “In my view the words [source of income] are used in the
+sense of a business, employment, or property from which a net profit might
+reasonably be expected to come” [[1972] C.T.C. 151, at p. 154].  (C. Fien, “To Profit or Not to Profit:  A Historical Review and Critical
+Analysis of the ‘Reasonable Expectation of Profit’ Test” (1995), 43 Can. Tax
+J. 1287., at p. 1298)   From this, the
+author concludes at p. 1299 that “[i]t appears that CBA Engineering Ltd.,
+Dorfman, and [D.A.] Holley [v. MNR, [1973] C.T.C.
+539 (F.C.T.D.)] may well have been the springboard to Revenue Canada’s
+adoption of a broadly based ‘reasonable expectation of profit’ test.”  In any
+event, these early cases were certainly germane to the decision in Moldowan.  24                              
+In Moldowan, the taxpayer carried on a horse-racing activity. 
+The Minister had conceded that this activity constituted a business; the issue
+before the Court was whether the taxpayer’s farming was his chief source
+of income such that he could fully deduct his losses under s. 13 of the Act. 
+As such, the following comments of Dickson J. at pp. 485-86 relating to
+“reasonable expectation of profit” were obiter:  Although originally disputed, it is now accepted
+that in order to have a “source of income” the taxpayer must have a profit or a
+reasonable expectation of profit.  Source of income, thus, is an equivalent
+term to business:  Dorfman v. M.N.R. [[1972] C.T.C. 151].  See also s.
+139(1) (ae) of the Income Tax Act  which includes as “personal and
+living expenses” and therefore not deductible for tax purposes, the expenses of
+properties maintained by the taxpayer for his own use and benefit, and not
+maintained in connection with a business carried on for profit or with a
+reasonable expectation of profit.  If the taxpayer in operating his farm is
+merely indulging in a hobby, with no reasonable expectation of profit, he is
+disentitled to claim any deduction at all in respect of expenses incurred.  There is a vast case literature on what reasonable expectation
+of profit means and it is by no means entirely consistent.  In my view, whether
+a taxpayer has a reasonable expectation of profit is an objective determination
+to be made from all of the facts.  The following criteria should be
+considered:  the profit and loss experience in past years, the taxpayer’s
+training, the taxpayer’s intended course of action, the capability of the
+venture as capitalized to show a profit after charging capital cost allowance. 
+The list is not intended to be exhaustive.  The factors will differ with the
+nature and extent of the undertaking:  The Queen v. Matthews [(1974), 74
+D.T.C. 6193].  One would not expect a farmer who purchased a productive going
+operation to suffer the same start-up losses as the man who begins a tree farm
+on raw land.   25                              
+Since this Court’s decision in Moldowan, the “reasonable
+expectation of profit” or “REOP” test has been applied by the Minister and the
+courts in a variety of situations in order to determine whether a taxpayer has
+a source of income, whether business or property.  However, as the above
+discussion indicates, equating the phrase “reasonable expectation of profit”
+with a “source” of income for the purposes of the Act is a case law expansion
+of the use of that phrase in the definition of “personal or living expenses” in
+the Act.  As such, it is appropriate to examine the REOP test closely in order
+to determine whether it should be accepted as a stand-alone source test, or
+whether there is a better approach to assessing the existence of a source. 
+Indeed, the wide range of approaches that courts have taken to the REOP test
+alone calls for clarification.  (2) Post-Moldowan REOP Cases  26                              
+Since Moldowan, courts have differed in their acceptance of the
+REOP analysis as the appropriate test for the source of income determination,
+and a brief survey of some of these cases is a useful starting point for an
+evaluation of the Moldowan test.  27                              
+Although cases where the Minister has disallowed deductions or losses on
+a “no reasonable expectation of profit” basis have taken a range of positions,
+they can generally be categorized into two groups:  those which accept the use
+of the test where there is no personal element to the taxpayer’s activities,
+and those which hold that the test has no application unless there is a
+personal or hobby aspect to the endeavour.  28                              
+In Landry v. Ministre du Revenu national (1994), 173 N.R. 213 at
+paras. 1 and 3,  the majority of the Federal Court of Appeal held that the
+taxpayer who had come out of retirement to practice law at the age of 71 did
+not satisfy the REOP test and thus had no source of income from which to deduct
+the losses that his practice had incurred.  Writing for the majority, Décary
+J.A. quoted and accepted the Tax Court judge’s application of the test:  I see no reason why the reasonable expectation of profit test should
+not apply to any profession, liberal or otherwise, any occupation or activity
+which purports to be in the course of carrying on a business.  As I see it, the
+reasonable expectation of a profit is a general rule applicable to any
+activity which may give rise to business income.... [Emphasis added.]  Décary J.A.
+then concluded that: It is possible for someone, with the best will in
+the world, to practise an activity that takes all his or her time and that
+activity may still not be a business for the purposes of the Income Tax Act .... 
+For the purposes of determining whether there is a source of income, only an
+activity that is profitable or that is carried on with a reasonable
+expectation of profit is a business.... [Emphasis added.]  29                              
+This decision was followed in Hugill v. The Queen, 95 D.T.C. 5311
+(F.C.A.), in which the taxpayer’s deductions in respect of rental properties
+were disallowed.  At p. 5311, the Federal Court of Appeal affirmed the Tax
+Court of Canada’s determination that the taxpayer’s business plan was
+unrealistic and therefore that there was no reasonable expectation of profit:  In reaching this
+decision, the Tax Court judge had regard to:  the constant losses suffered by
+the taxpayer since 1984; the lack of improvements required if the properties
+were to be rented during both the summer and winter seasons; and the fact that
+the venture “has been, and continues to
+be, under capitalized”. It is true that
+the applicant had a “plan” which if realized might reasonably have resulted in
+a profit but unfortunately it was a plan which changed from year to year as his
+personal financial circumstances changed. In the circumstances, the reasoning
+of Mr. Justice Décary in Landry [v.
+Ministre du Revenu national (1994), 173 N.R. 213, at paras. 1 and 3] is
+particularly apt:   “There comes a time
+in the life of any business operating at a deficit when the Minister must be
+able to determine objectively ... that a reasonable expectation of profit has
+turned into an impossible dream.”  30                              
+A similar approach was taken in Sirois v. M.N.R., 88 D.T.C. 1114
+(T.C.C.), where the taxpayer ran a restaurant business that suffered losses
+from 1976 to 1984.  The Minister disallowed the losses for the 1981 and 1982
+taxation years.  Couture C.J.T.C. reviewed the operations of the business,
+including seating capacity and opening hours in order to determine whether a
+reasonable expectation of profit existed so as to allow the taxpayer to deduct
+the losses.  At pp. 1115-16, he concluded that:  . . . for the 1981 taxation year, considering that the restaurant was operated
+with seating for only twenty (20), four days a week, and that since 1976 the
+operations had shown a loss, there was no realistic reasonable expectation of
+profit in these circumstances.  For the 1982 taxation year, however, when the
+situation was entirely different, I am of the opinion that the respondent ...
+was not justified in presuming that there was no reasonable expectation of
+profit in such circumstances.   31                              
+Although cases such as Landry, Hugill, and Sirois evidenced
+a willingness on the part of the Tax Court of Canada and the Federal Court of
+Appeal to reassess the business decisions of taxpayers, in Tonn v. Canada,
+[1996] 2 F.C. 73, the Federal Court of Appeal appeared to temper this approach
+somewhat.  In that case, the taxpayers purchased a rental property which
+incurred losses.  In allowing the taxpayers to deduct these losses, Linden
+J.A., at paras. 26 and 28, made the following remarks with respect to the REOP
+test:  But do the Act’s purposes suggest that deductions
+of losses from bona fide businesses be disallowed solely because the
+taxpayer made a bad judgment call?  I do not think so.  The tax system has
+every interest in investigating the bona fides of a taxpayer’s dealings
+in certain situations, but it should not discourage, or penalize, honest but
+erroneous business decisions.  The tax system does not tax on the basis of a
+taxpayer’s business acumen, with deductions extended to the wise and withheld
+from the foolish....                                                                      ...  The Moldowan test, therefore is a useful
+tool by which the tax- inappropriateness of an activity may be reasonably
+inferred when other, more direct forms of evidence are lacking.  Consequently,
+when the circumstances do not admit of any suspicion that a business loss was
+made for a personal or non-business motive, the test should be applied
+sparingly and with a latitude favouring the taxpayer, whose business judgment
+may have been less than competent.  However, to
+this Linden J.A. added that it was open for courts to determine that “though
+the taxpayer genuinely intended the pursuit of profit through a purely
+commercial activity, the intention was unrealistic, the expectation of profit
+unreasonable, and hence, the activity was not a business” (para. 36). 32                              
+In Corbett v. Canada, [1997] 1 F.C. 386 (C.A.), Linden
+J.A. applied the REOP test to a situation where the taxpayer had defaulted on
+mortgage payments in respect of a rental property which was subsequently
+ordered to be sold to the mortgagee.  The Minister disallowed the deduction of
+interest payments on the mortgage in respect of the interim period before the
+mortgagee acquired the property on the basis that the taxpayer had no
+reasonable expectation of profit.  At para. 20, Linden J.A. upheld the
+Minister’s assessment and the application of the REOP test to these facts:  In cases such as this, therefore, where it is clear that no profit
+could be earned in the year or forever after because of the judicial sale
+proceedings, Moldowan is applicable....  This is not a case of
+second-guessing poor business decisions that do not yield profit, which was the
+case in Tonn.  33                              
+In contrast to the above cases, other decisions, particularly those of
+Bowman A.C.J. of the Tax Court of Canada, have taken a different view of the
+applicability REOP test.  In Allen v. The Queen, 99 D.T.C. 968 (T.C.C.),
+aff’d 2000 D.T.C. 6559 (F.C.A.) (sub nom. The Queen v. Milewski), Bowman
+J.T.C.C. (as he then was) held at paras. 18-25 that the REOP test had no
+application in a situation similar to the one at bar, where, with near 100
+percent financing, the taxpayers formed a partnership which carried on a rental
+business and incurred losses:  In my opinion, the respondent has misapplied the
+[REOP] doctrine.  We are dealing here with two individuals who have invested,
+through a limited partnership, in a perfectly viable business that started
+making a profit in the second year.  There was no personal element involved —
+neither appellant has any intention of residing in the apartments....                                                                     ...  How then does the fact that the acquisition of the
+limited partnership interests was financed substantially by the borrowing of
+money through the Equity Notes and Second Equity Notes at what, on the
+evidence, was a favourable interest rate, turn a viable and profitable business
+into one that had no reasonable expectation of profit and was, therefore, not a
+business and not a source of income?  The investment was clearly long term and bona
+fide, with the expectation that in the fullness of time the debt would be
+paid down and ultimately paid off and the appellants would have a lasting
+investment.  The Minister’s position, as revealed in the portions of the
+examination for discovery that were read in, is that once the income from the
+partnership exceeded the interest charges, the non-business will become a
+business and the Minister will start to tax.                                                                      ...   Whatever else may be said about 99% financing of an
+investment, it certainly cannot be said that its result is that the vehicle in
+which the taxpayer has invested did not carry on a business.  This is wrong as
+a matter of logic, law and common sense.  The Minister is seeking to limit the
+deduction of the amount of interest which is permitted by paragraph 20(1) (c)
+by intoning the ritual incantation [REOP], where it is obvious and admitted
+that the partnership is carrying on a profitable business.                                                                      ...  The [REOP] principle may have some application
+where a person tries to write off losses from a hobby such as horseracing (Rai
+v. The Queen, February 8, 1999, file number 98-925(IT)I); or from
+collecting antique Coca-Cola bottles (Kaye v. The Queen, 98 DTC 1659);
+or renting a portion of the basement of that person’s dwelling to a relative
+and trying to write off 2/3 of the costs of the house.  It operates at the
+liminal stage of questioning the existence of a business.  Where there is no
+personal element and a genuine business exists the [REOP] doctrine has no
+application.... [Emphasis added.]  Bowman
+J.T.C.C. has expressed a similar view in a variety of cases:  see, for example,
+Nichol v. The Queen, 93 D.T.C. 1216 (T.C.C.); Bélec v. The Queen,
+95 D.T.C. 121 (T.C.C.); Kaye v. The Queen, 98 D.T.C. 1659 (T.C.C.).  34                              
+It is evident from this brief review that the REOP test has not been
+interpreted and applied in a consistent manner.  The cases dealing with this
+concept fall along a spectrum.  At one end are the decisions which consider
+REOP to be the test by which the viability of the taxpayer’s business plan is
+assessed, whatever the activity in question happens to be, and to determine
+whether this activity deserves to be considered a “source of income”.  At the
+other end of the spectrum are the cases which use the REOP analysis only where
+the activity in question contains a personal or hobby element, and then only as
+a factor in determining whether this activity is sufficiently commercial to be
+labelled a “source of income”.  The only coherent message that emerges from a
+survey of the cases which have followed Moldowan is that the proper role
+of “reasonable expectation of profit” is in need of clarification.  (3) Problems with the REOP Test  35                              
+Since Moldowan, there has been a fair amount of judicial and
+academic criticism of the alleged misuse of the REOP test.  These comments can
+be generally classified into two types.  First, some critics allege that there
+is no statutory foundation for using “reasonable expectation of profit” as the
+test to determine whether a source of income exists.  Second, it is argued
+that, even if Moldowan did set out a legitimate “source” test, the test
+is problematic and should be rejected.  36                              
+In Dickson J.’s obiter comments with respect to reasonable
+expectation of profit, he cites Dorfman v. M.N.R., [1972] C.T.C. 151
+(F.C.T.D.), as authority for the proposition that in order to have a source of
+income the taxpayer must have a reasonable expectation of profit.  However,
+several commentators have pointed out that Dorfman stands for a slightly
+different proposition.  In particular, in Dorfman, the Federal Court,
+Trial Division was dealing with an argument by the Minister that because the
+taxpayer had not realized net farming income for the year, that farming could
+not be a source of the taxpayer’s income.  In rejecting that argument, Collier
+J., at p. 154, stated that:  I cannot accept the interpretation put by counsel
+for the Minister in this case on the words “source of income”:  that there must
+be net income before there can be a source.  In my view the words are used in
+the sense of a business, employment, or property from which a net profit might
+reasonably be expected to come.   In other
+words, the court was addressing the contention that the phrase “source of
+income” required a net profit.  In response to this particular argument, the
+court held that, where an activity had a reasonable expectation of net
+profit, this was enough to constitute a source of income.  Put in other terms,
+the fact that an activity is being carried on with a reasonable expectation of
+profit is sufficient for the activity to constitute a source of income.  37                              
+It has been pointed out that, as a matter of logic, the fact that an
+activity carried on with a reasonable expectation of profit is a sufficient
+requirement for a source of income (the proposition from Dorfman) does
+not entail that a reasonable expectation of profit is a necessary
+requirement for a source of income (the proposition from Moldowan):  see
+B. S. Nichols, “Chants and Ritual Incantations: Rethinking the Reasonable
+Expectation of Profit Test”, 1996 Conference Report, Report of Proceedings
+of the Forty-Eighth Tax Conference, vol. 1, 28:1, at pp. 28:4-28:5; S.
+Silver, “Great Expectations:  Are they Reasonable?”, Corporate Management Tax
+Conference 1995, 6:1, at pp. 6:6-6:7.  In other words, it is argued that by
+taking the comments from Dorfman out of their particular context and
+applying them generally, Moldowan mistakenly equated “source of income”
+with “reasonable expectation of profit”.  38                              
+Indeed, equating the term “business” with the phrase, “reasonable
+expectation of profit” does not accord with the traditional common law
+definition of business, which is that “anything which occupies the time and
+attention and labour of a man for the purpose of profit is business” (Smith
+v. Anderson (1880), 15 Ch. D. 247 (C.A.), at p. 258; Terminal Dock and
+Warehouse Co. v. M.N.R., [1968] 2 Ex. C.R. 78, aff’d 68 D.T.C. 5316
+(S.C.C.)).  In addition, early cases dealing with the proper definition of a
+business rejected looking exclusively at one factor.  For example, in Erichsen
+v. Last (1881), 4 T.C. 422, at p. 423, the English Court of Appeal stated:  I do not think there is any principle of law which lays down what
+carrying on of trade is.  There are a multitude of incidents which together
+make the carrying on [of] a trade, but I know of no one distinguishing incident
+which makes a practice a carrying on of trade, and another practice not a
+carrying on of trade.  If I may use the expression, it is a compound fact made
+up of a variety of incidents.  Thus, to
+equate “source of income” with “reasonable expectation of profit”, at least in
+the instance of a business source, is not in line with these earlier
+characterizations of “business”.  39                              
+The view has also been taken that Dickson J. did not intend to set out a
+broadly applicable source test in Moldowan, but instead that he was
+simply distinguishing between mere hobbies and bona fide businesses: 
+see J. R. Owen, “The Reasonable Expectation of Profit Test: Is There a Better
+Approach?” (1996), 44 Can. Tax J. 979, at p. 1002.  This view stems from
+the fact that in the same paragraph where Dickson J. equates a business with a
+reasonable expectation of profit, he states “[i]f the taxpayer in operating his
+farm is merely indulging in a hobby, with no reasonable expectation of profit,
+he is disentitled to claim any deduction at all in respect of expenses
+incurred”: Moldowan, supra, at p. 485.  As well, various cases
+have held that the Moldowan test is only applicable where there is some
+personal element to the taxpayer’s endeavour: Hickman Motors Ltd. v. Canada,
+[1997] 2 S.C.R. 336, at paras. 69 and 72; Allen, supra; Nichol,
+supra; Bélec, supra.  40                              
+In light of the definition of “business” developed in earlier cases, as
+well as the dubious scope of Dickson J.’s obiter reference to
+“reasonable expectation of profit” in Moldowan, which may also have been
+a mistaken application of that phrase as used in Dorfman, the REOP test
+should not be blindly accepted as the correct approach to the “source of
+income” determination.  This conclusion is strengthened by the fact that
+subsequent cases have run the gamut with respect to the application of the REOP
+concept.  41                              
+It has also been argued that the limited use of the phrase, “reasonable
+expectation of profit” in the Act, does not support its use as a stand-alone
+source test.  As mentioned above, the phrase first appeared in the Act in the
+definition of “personal or living expenses”.  The current version of that
+definition, in s. 248(1) (R.S.C. 1985, c. 1 (5th Supp .)), reads:  “personal or living expenses” includes  (a)  the expenses of properties maintained by any person for the
+use or benefit of the taxpayer or any person connected with the taxpayer by
+blood relationship, marriage or common-law partnership or adoption, and not
+maintained in connection with a business carried on for profit or with a
+reasonable expectation of profit;  The phrase
+“personal or living expenses” relates to s. 18(1)(h) of the Act which
+now reads:  18. (1)  In computing the income of a taxpayer from a business
+or property no deduction shall be made in respect of                                  ...                            (h) personal or
+living expenses of the taxpayer, other than travel  expenses incurred by the
+taxpayer while away from home in the course of carrying on the taxpayer’s
+business;  Silver, supra,
+at p. 6:4, contrasts this limited statutory use of the phrase “reasonable
+expectation of profit” with its broader judicial application:  In any event, while the definition of “personal or
+living expenses” in subsection 248(1) is inclusive rather than exhaustive, it
+is clear that the provision and paragraph 18(1)(h) have limited application. 
+The legislation establishes a “reasonable expectation of profit” test only in
+connection with expenses incurred in the maintenance of properties and only in
+connection with expenses from which the taxpayer may derive some use or
+benefit.  It can be seen, therefore, from an examination of
+the Act that the statutory provisions that employ a “reasonable expectation of
+profit” test are specific in nature and would not appear to support a broad
+application of this test by Revenue Canada and the courts.  42                              
+Thus, the only way to accept “reasonable expectation of profit”
+as the test to determine whether a taxpayer has a source of income is to adopt
+an interpretive rule of law which is independent of the provisions of the Act. 
+As this Court observed in Ludco Enterprises Ltd. v. Canada, [2001]
+2 S.C.R. 1082, 2001 SCC 62, at para. 53, “this Court has repeatedly stated that
+in matters of tax law, a court should always be reluctant to engage in judicial
+innovation and rule making”.  Although it is true that the term “source” is
+undefined in the Act, and courts must frequently determine whether a taxpayer
+has the requisite source of income, there is a distinction between judicial
+interpretation and judicial rule-making, and, in our respectful view, several
+cases have crossed the line between use of  REOP as an interpretive aid to
+assess whether a source of income exists and use of REOP as a stand-alone
+“source” test.  The fact that the REOP test has been applied to both business
+and property sources, activities with completely different natures, indicates
+that the test has transcended its use as a mere interpretive tool, and has
+taken on a life of its own.  Indeed, in Tonn, supra, at para. 25, the Moldowan test was described as a “common law formulation respecting the purposes of
+the Act” which was “ideally suited to situations where a taxpayer is
+attempting to avoid tax liability by an inappropriate structuring of his or her
+affairs.”  43               
+As stated by this Court in Canderel Ltd. v. Canada, [1998] 1
+S.C.R. 147, at para. 41, “[t]he law of income tax is sufficiently complicated
+without unhelpful judicial incursions into the realm of lawmaking.”  In our
+view, the range of uses and interpretations that courts have given to the
+phrase “reasonable expectation of profit”, and the corresponding uncertainty
+this has created for the taxpayer, are illustrative of the dangers inherent in
+this type of judicial exercise.  Moreover, even if one were to accept the use
+of the REOP test as a legitimate source of income standard, there are numerous
+practical difficulties which arise in its application that suggest to us that
+the test is ill-suited for this purpose.  44               
+It has been pointed out that it is unclear what exactly the REOP test
+refers to by the term “profit”.  For example, it is unclear whether the
+capacity for profit should be determined after taking into account depreciation
+and, if so, whether capital cost allowance or accounting depreciation should be
+used:  see Roopchan v. The Queen, 96 D.T.C. 1338 (T.C.C.), at p. 1341. 
+Even if the basis for calculating profit was clear, it is still uncertain how
+much expected profit would be required, in what time frame, and whether the
+amount of expected profit should vary with the risk of the venture:  see Fien, supra,
+at pp. 1304-6.  For example, a high-risk venture may incur substantial losses
+which may be disallowed by virtue of a reasonable expectation of profit
+analysis; however, it is highly unlikely that, where such a venture does pay
+off, the Minister would abstain from an assessment on the ground that there was
+no reasonable expectation of profit and therefore no business.  45               
+The vagueness of the REOP test encourages a retrospective application
+which, as pointed out by Bowman J.T.C.C. in Nichol, supra, at p.
+1219, causes uncertainty and unfairness:  [The taxpayer] made what might, in retrospect, be seen as an error in
+judgment but it was a matter of business judgment and it was not one so
+patently unreasonable as to entitle this Court or the Minister of National
+Revenue to substitute its or his judgment for it, or penalize him for having
+made a judgment call that, with the benefit of 20-20 hindsight, that Monday
+morning quarterbacks always have, I or the Minister of National Revenue might
+not make today....  46               
+In addition, the way in which a particular venture is capitalized may
+have significant effects on its profitability.  The extent of capitalization,
+rates of interest, and level at which a venture is capitalized (for example
+partner financing versus partnership financing, or corporate financing versus
+shareholder financing) may have significant effects on the bottom line, and it
+is difficult to see why the characterization of a commercial venture as a
+source should depend on the extent or method of financing:  see  Fien, supra,
+at pp. 1306-7.  47               
+To summarize, in recent years the Moldowan REOP test has become a
+broad-based tool used by both the Minister and courts in any manner of
+situation where the view is taken that the taxpayer does not have a reasonable
+expectation of profiting from the activity in question.  From this it is
+inferred that the taxpayer has no source of income, and thus no basis from
+which to deduct losses and expenses relating to the activity.  The REOP test
+has been applied independently of provisions of the Act to second-guess bona
+fide commercial decisions of the taxpayer and therefore runs afoul of the
+principle that courts should avoid judicial rule-making in tax law:  see Ludco,
+supra; Royal Bank of Canada v. Sparrow Electric Corp., [1997] 1
+S.C.R. 411; Canderel, supra; Shell Canada Ltd. v. Canada,
+[1999] 3 S.C.R. 622.  As well, the REOP test is problematic owing to its
+vagueness and uncertainty of application; this results in unfair and arbitrary
+treatment of taxpayers.  As a result, “reasonable expectation of profit” should
+not be accepted as the test to determine whether a taxpayer’s activities
+constitute a source of income.  (4)   “Source of Income”:  The Recommended
+Approach  48               
+In our view, the determination of whether a taxpayer has a source of
+income, must be grounded in the words and scheme of the Act.  49               
+The Act divides a taxpayer’s income into various sources.  Under the
+basic rules for computing income in s. 3, the Act states:  3. The income of a taxpayer for a taxation
+year for the purposes of this Part is his income for the year determined by the
+following rules:  (a) determine the aggregate of amounts each of which is the
+taxpayer’s income for the year ... from a source inside or outside
+Canada, including, without restricting the generality of the foregoing, his
+income for the year from each office, employment, business and property;
+[Emphasis added.]  With respect
+to business and property sources, the basic computation rule is found in s. 9 : 9. (1) Subject to this Part, a taxpayer’s
+income for a taxation year from a business or property is his profit therefrom
+for the year.  (2) Subject to section 31, a taxpayer’s loss for a
+taxation year from a business or property is the amount of his loss, if any,
+for the taxation year from that source computed by applying the provisions of
+this Act respecting computation of income from that source mutatis mutandis.    50               
+It is clear that in order to apply s. 9 , the taxpayer must first
+determine whether he or she has a source of either business or property
+income.  As has been pointed out, a commercial activity which falls short of
+being a business, may nevertheless be a source of property income.  As well, it
+is clear that some taxpayer endeavours are neither businesses, nor sources of
+property income, but are mere personal activities.  As such, the following
+two-stage approach with respect to the source question can be employed:  (i)    Is the activity of the taxpayer undertaken
+in pursuit of profit, or is it a personal endeavour?  (ii)    If it is not a personal endeavour, is the
+source of the income a business or property?  The first
+stage of the test assesses the general question of whether or not a source of
+income exists; the second stage categorizes the source as either business or
+property.  51               
+Equating “source of income” with an activity undertaken “in
+pursuit of profit” accords with the traditional common law definition of
+“business”, i.e., “anything which occupies the
+time and attention and labour of a man for the purpose of profit”: Smith, supra, at p. 258; Terminal Dock,
+supra.  As well, business income is generally distinguished from property
+income on the basis that a business requires an additional level of taxpayer
+activity:  see Krishna, supra, at p. 240.  As such, it is logical
+to conclude that an activity undertaken in pursuit of profit, regardless of the
+level of taxpayer activity, will be either a business or property source of
+income.  52               
+The purpose of this first stage of the test is simply to distinguish
+between commercial and personal activities, and, as discussed above, it has
+been pointed out that this may well have been the original intention of Dickson
+J.’s reference to “reasonable expectation of profit” in Moldowan. 
+Viewed in this light, the criteria listed by Dickson J. are an attempt to
+provide an objective list of factors for determining whether the activity in
+question is of a commercial or personal nature.  These factors are what Bowman
+J.T.C.C. has referred to as “indicia of commerciality” or “badges of
+trade”:  Nichol, supra, at p. 1218.  Thus, where the nature of a
+taxpayer’s venture contains elements which suggest that it could be considered
+a hobby or other personal pursuit, but the venture is undertaken in a
+sufficiently commercial manner, the venture will be considered a source of
+income for the purposes of the Act.  53               
+We emphasize that this “pursuit of profit” source test will only require
+analysis in situations where there is some personal or hobby element to the
+activity in question.  With respect, in our view, courts have erred in the past
+in applying the REOP test to activities such as law practices and restaurants
+where there exists no such personal element:  see, for example,  Landry,
+supra; Sirois, supra; Engler v. The Queen, 94
+D.T.C. 6280 (F.C.T.D.).  Where the nature of an activity is clearly commercial,
+there is no need to analyze the taxpayer’s business decisions.  Such endeavours
+necessarily involve the pursuit of profit.  As such, a source of income by
+definition exists, and there is no need to take the inquiry any further.  54               
+It should also be noted that the source of income assessment is not a
+purely subjective inquiry.  Although in order for an activity to be classified
+as commercial in nature, the taxpayer must have the subjective intention to
+profit, in addition, as stated in Moldowan, this determination should be
+made by looking at a variety of objective factors.  Thus, in expanded form, the
+first stage of the above test can be restated as follows: “Does the taxpayer
+intend to carry on an activity for profit and is there evidence to support that
+intention?”  This requires the taxpayer to establish that his or her
+predominant intention is to make a profit from the activity and that the
+activity has been carried out in accordance with objective standards of
+businesslike behaviour.  55               
+The objective factors listed by Dickson J. in Moldowan, at p.
+486, were:  (1) the profit and loss experience in past years; (2) the
+taxpayer’s training; (3) the taxpayer’s intended course of action; and (4) the
+capability of the venture to show a profit.  As we conclude below, it is not
+necessary for the purposes of this appeal to expand on this list of factors. 
+As such, we decline to do so; however, we would reiterate Dickson J.’s caution
+that this list is not intended to be exhaustive, and that the factors will
+differ with the nature and extent of the undertaking.  We would also emphasize
+that although the reasonable expectation of profit is a factor to be considered
+at this stage, it is not the only factor, nor is it conclusive.  The overall
+assessment to be made is whether or not the taxpayer is carrying on the
+activity in a commercial manner.  However, this assessment should not be used
+to second-guess the business judgment of the taxpayer.  It is the commercial
+nature of the taxpayer’s activity which must be evaluated, not his or her
+business acumen.  56               
+In addition to restricting the source test to activities which contain a
+personal element, the activity which the taxpayer claims constitutes a source
+of income must be distinguished from particular deductions that the taxpayer
+associates with that source.  An attempt by the taxpayer to deduct what is
+essentially a personal expense does not influence the characterization of the
+source to which that deduction relates.  This analytical separation is mandated
+by the structure of the Act.  While, as discussed above, s. 9  is the provision
+of the Act where the basic distinction is drawn between personal and commercial
+activity, and then, within the commercial sphere, between business and property
+sources, the characterization of deductions occurs elsewhere.  In particular,
+s. 18(1)(a) requires that deductions be attributed to a particular
+business or property source, and s. 18(1)(h) specifically disallows the
+deduction of personal or living expenses of the taxpayer:  18. (1) In computing the income of a taxpayer
+from a business or property no deduction shall be made in respect of  (a) an outlay or expense except to the extent that it was made
+or incurred by the taxpayer for the purpose of gaining or producing income from
+the business or property;                                                                      ...  (h) personal or living expenses of the taxpayer ....  57               
+It is clear from these provisions that the deductibility of expenses
+presupposes the existence of a source of income, and thus should not be
+confused with the preliminary source inquiry.  If the deductibility of a
+particular expense is in question, then it is not the existence of a source of
+income which ought to be questioned, but the relationship between that expense
+and the source to which it is purported to relate.  The fact that an expense is
+found to be a personal or living expense does not affect the characterization
+of the source of income to which the taxpayer attempts to allocate the expense,
+it simply means that the expense cannot be attributed to the source of income
+in question.  As well, if, in the circumstances, the expense is unreasonable in
+relation to the source of income, then s. 67 of the Act provides a mechanism to
+reduce or eliminate the amount of the expense.  Again, however, excessive or
+unreasonable expenses have no bearing on the characterization of a particular
+activity as a source of income.  58               
+In addition to the fact that the deductibility, or otherwise, of an
+expense is a separate question from the existence of the underlying source of
+income, it is also true that the profitability of the activity to which the
+expense relates does not affect the deductibility of the expense.  In
+particular, there have been a number of cases where a taxpayer’s large interest
+expenses have resulted in net losses, which in turn have caused the Minister to
+conclude that there is no reasonable expectation of profit, and therefore no
+source of income from which the interest expenses can be deducted.  However, as
+stated above, reasonable expectation of profit is but one factor to consider in
+determining whether an activity has a sufficient degree of commerciality to be
+considered a source of income.  Once that determination has been made, then the
+deductibility inquiry is undertaken according to whether the expense in
+question falls within the words of the relevant deduction provision(s) of the
+Act.  Although it is true that the phrase “personal or living expenses” in s.
+18(1)(h) is defined with reference to the phrase “reasonable expectation
+of profit”, as we pointed out above, this definition has a narrow scope.  In
+addition, it has been pointed out that the definition refers to a business
+carried on “for profit or with a reasonable expectation of profit”.  However,
+since, to get to s. 18, it must already have been determined under s. 9  that a
+business or property source exists, and since a business is defined as an
+activity undertaken “in pursuit of profit”, it is hard to imagine a situation
+where the phrase “business carried on for profit or with a reasonable
+expectation of profit” would add any further restrictions to the activity in
+question:  see Owen, supra, at p. 1009.  59               
+The comments of Bowman J.T.C.C. in Allen, supra, at paras.
+20 and 22, aptly illustrate the problems which result from intermingling the
+question of the existence of a source of income with the issue of the
+deductibility of expenses, in particular, interest expenses, and are worth
+repeating:  How then does the fact that the acquisition of the
+limited partnership interests was financed substantially by the borrowing of
+money through the Equity Notes and Second Equity Notes at what, on the
+evidence, was a favourable interest rate, turn a viable and profitable business
+into one that had no reasonable expectation of profit and was, therefore, not a
+business and not a source of income?...                                                                      ...  Whatever else may be said about 99 % financing of an
+investment, it certainly cannot be said that its result is that the vehicle in
+which the taxpayer has invested did not carry on a business.  This is wrong as
+a matter of logic, law and common sense.  The Minister is seeking to limit the
+deduction of the amount of interest which is permitted by paragraph 20(1) (c)
+by intoning the ritual incantation [REOP], where it is obvious and admitted
+that the partnership is carrying on a profitable business.   Clearly the
+existence of financing does not indicate that the underlying activity should
+not be characterized as a source of income.  On the contrary, the fact that an
+activity has been financed  externally is an indication that the taxpayer is
+operating his or her activity in a businesslike manner.  As such, the existence
+of financing is an element which adds to the commerciality of a venture,
+and thus operates in favour of characterizing the activity as a source
+of income.  60               
+In summary, the issue of whether or not a taxpayer has a source of
+income is to be determined by looking at the commerciality of the activity in
+question.  Where the activity contains no personal element and is clearly
+commercial, no further inquiry is necessary.  Where the activity could be
+classified as a personal pursuit, then it must be determined whether or not the
+activity is being carried on in a sufficiently commercial manner to constitute
+a source of income.  However, to deny the deduction of losses on the simple
+ground that the losses signify that no business (or property) source exists is
+contrary to the words and scheme of the Act.  Whether or not a business exists
+is a separate question from the deductibility of expenses.   As suggested by
+the appellant, to disallow deductions based on a reasonable expectation of
+profit analysis would amount to a case law stop-loss rule which would be
+contrary to established principles of interpretation, mentioned above, which
+are applicable to the Act.  As well, unlike many statutory stop-loss rules,
+once deductions are disallowed under the REOP test, the taxpayer cannot carry
+forward such losses to apply to future income in the event the activity becomes
+profitable.  As stated by Bowman J.T.C.C. in Bélec, supra, at p.
+123:  “It would be ... unacceptable to permit the Minister [to say] to the
+taxpayer ‘The fact that you lost money ... proves that you did not have a
+reasonable expectation of profit, but as soon as you earn some money, it proves
+that you now have such an expectation.’”  B. Application
+of the Source Test to the Case at Bar  61               
+As stated above, whether or not a taxpayer has a source of income from a
+particular activity is determined by considering whether the taxpayer intends
+to carry on the activity for profit, and whether there is evidence to support
+that intention.  As well, where an activity is clearly commercial and lacks any
+personal element, there is no need to search further.  Such activities are
+sources of income.  62               
+In this case, the appellant was engaged in property rental activities. 
+He owned four rental condominium units from which he earned rental income.  The
+fact that there was no personal element to these properties was never
+questioned.  The units were all rented to arm’s length parties and there was no
+evidence that the appellant intended to make use of any of the properties for
+his personal benefit.  In our view, a property rental activity which lacks any
+element of personal use or benefit to the taxpayer is clearly a commercial
+activity.  For what purpose would the taxpayer have spent his time and money in
+this activity if not for profit?  As a result, the appellant satisfies the test
+for source of income.  Although this is sufficient to dispose of the appeal, in
+our view a few additional remarks are warranted.  63               
+Even if the appellant had made use of one or more of the properties for
+his personal benefit, the Minister would not be entitled to conclude that no
+business existed without further analysis.  A taxpayer in such circumstances
+would have the opportunity to establish that his or her predominant intention
+was to make a profit from the activity and that the activity was carried out in
+accordance with objective standards of businesslike behaviour.  Whether a
+reasonable expectation of profit existed may be a factor that is taken into
+consideration in that analysis.  64               
+The Minister and the courts below made much of the fact that the
+appellant anticipated a capital gain from the eventual sale of the properties. 
+It was argued that it was this anticipated gain, and not rental profits, which
+motivated the taxpayer.  As well, the Minister argued that an anticipated capital
+gain should not be included in assessing whether the taxpayer had a reasonable
+expectation of profit.  As such, it was the Minister’s submission that the
+appellant should not have been allowed to deduct his interest payments
+under s. 20(1) (c)(i) as amounts paid in respect of borrowed money used
+to produce income from a business or property.  The application of the REOP
+test by the Minister was motivated by the policy concern that Canadian
+taxpayers should not have to subsidize mortgage payments made in respect of
+properties where the primary motivation is a long-term capital gain.  65               
+In response to this argument, it must be remembered that s. 20(1) (c)(i)
+is not a tax avoidance mechanism, and it has been established that, in light of
+the specific anti-avoidance provisions in the Act, courts should not be quick
+to embellish provisions of the Act in response to tax avoidance concerns:  Ludco,
+supra, at para. 39; Neuman v. M.N.R., [1998] 1 S.C.R. 770, at
+para. 63.  In addition, in Walls v. Canada, [2002] 2 S.C.R. 000, 2002
+SCC 47, the companion to this case, we point out at para. 22 that a tax
+motivation does not affect the validity of transactions for tax purposes.  As
+such, the appellant’s hope of realizing an eventual capital gain, and expectation
+of deducting interest expenses do not detract from the commercial nature of his
+rental operation or its characterization as a source of income.  Moreover, in Ludco,
+supra, at para. 59, this Court specifically stated that s. 20(1) (c)(i)
+does not require the taxpayer to earn a net profit in order for interest to be
+deductible:  The plain meaning of s. 20(1) (c)(i) does not support an
+interpretation of “income” as the equivalent of “profit” or “net income”. 
+Nowhere in the language of the provision is a quantitative test suggested.  Nor
+is there any support in the text of the Act for an interpretation of “income”
+that involves a judicial assessment of sufficiency of income.  Such an
+approach would be too subjective and certainty is to be preferred in the area of
+tax law.  Therefore, absent a sham or window dressing or similar vitiating
+circumstances, courts should not be concerned with the sufficiency of the
+income expected or received. [Emphasis added.]  66               
+Indeed, a clear analogy can be drawn between the facts in Ludco,
+and the facts in the case at bar.  In Ludco, the taxpayer deducted
+approximately $6 million in interest charges on borrowed money used to purchase
+shares which yielded some $600,000 in dividends.  On disposition of the shares
+the taxpayer realized a significant capital gain.  The Minister disallowed the
+deduction of interest under s. 20(1) (c) on the basis that the borrowed
+money was not used for the purpose of earning income from property.  This Court
+held at para. 54 that, in order to come within the scope of s. 20(1) (c)(i),
+the taxpayer had to show that “considering all the circumstances, the taxpayer
+had a reasonable expectation of income at the time the investment was made”. 
+The taxpayer satisfied this test, and the Court allowed the interest deduction.  67               
+Similarly, in this case, the taxpayer’s interest payments exceeded his
+rental income for the years in question.  Although the taxpayer only disposed
+of one of the properties during the relevant time period, the Reemark plan held
+out the prospect of an eventual capital gain on disposition.  As in Ludco,
+the appellant used borrowed money to engage in a bona fide investment
+from which he had a reasonable expectation of income, and thus, he falls within
+the scope of s. 20(1) (c)(i).  68               
+With respect to whether or not an anticipated capital gain should be
+included in assessing whether the taxpayer has a reasonable expectation of
+profit, we reiterate that the expected profitability of a venture is but one
+factor to consider in assessing whether the taxpayer’s activity evidences a
+sufficient level of commerciality to be considered either a business or a
+property source of income.  Having said this, in our view, the motivation of
+capital gains accords with the ordinary business person’s understanding of
+“pursuit of profit”, and may be taken into account in determining whether the
+taxpayer’s activity is commercial in nature.  Of course the mere acquisition of
+property in anticipation of an eventual gain does not provide a source of income
+for the purposes of s. 9 ; however, an anticipated gain may be a factor in
+assessing the commerciality of the taxpayer’s overall course of conduct.  VII.      Conclusion  69               
+For these reasons, we conclude that the appellant’s rental activities constituted
+a source of income.  As a result, we would allow the appeal with costs
+throughout, set aside the judgment of the Federal Court of Appeal and refer the
+assessments for the taxation years in issue back to the Minister for
+reassessment on the basis that the taxpayer had a source of income from which
+he was entitled to deduct losses from the rental properties in question.  Appeal allowed with costs.  Solicitors for the appellant:  McMillan Binch, Toronto.  Solicitor for the respondent:  The Deputy Attorney General
+of Canada, Ottawa.   

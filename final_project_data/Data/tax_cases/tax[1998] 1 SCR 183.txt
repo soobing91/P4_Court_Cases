@@ -1,0 +1,272 @@
+Toronto College Park Ltd. v. Canada, [1998] 1 S.C.R. 183  Toronto College Park Limited                                                          Appellant  v.  Her Majesty The Queen                                                                   Respondent  Indexed as:  Toronto College Park Ltd. v. Canada  File No.:  25559.  1997:  December 2; 1998:  February 12.  Present:  Gonthier, Cory, Iacobucci, Major and
+Bastarache JJ.  on appeal from the federal court of appeal    Held:  The appeal should be allowed.    Cases Cited  Followed:  Canderel
+Ltd. v. Canada, [1998] 1 S.C.R. 147, rev’g [1995] 2 F.C. 232; referred
+to: Ikea Ltd. v. Canada, [1998] 1 S.C.R. 196; Cummings v. The
+Queen, 81 D.T.C. 5207; M.N.R. v. Tower Investment Inc.,
+[1972] F.C. 454.  Statutes and Regulations Cited  Income Tax Act, S.C. 1970-71-72, c. 63, ss. 9(1), 18(1)(a), (9) [ad. 1980-81-82-83, c. 48, s. 9],  (a)
+[idem], (b) [idem].  APPEAL from a judgment of the Federal Court of Appeal,
+[1996] 3 F.C. 858, 96 D.T.C. 6407, [1996] 3 C.T.C. 94, 199 N.R. 147, [1996]
+F.C.J. No. 893 (QL), allowing an appeal from a judgment of Simpson J. (1993),
+94 D.T.C. 6172, [1994] 1 C.T.C. 194, 71 F.T.R. 30, [1993] F.C.J. No. 1275
+(QL).  Appeal allowed.  Michael E. Barrack and Thomas
+B. Akin, for the appellant.  J. S. Gill and Elizabeth
+Chasson, for the respondent. The judgment of the Court was delivered by  1                                  
+Iacobucci J. -- This
+appeal was heard together with those in Canderel Ltd. v. Canada, [1998]
+1 S.C.R. 147, and Ikea Ltd. v. Canada, [1998] 1 S.C.R. 196, and raises
+precisely the same issue as that in Canderel: for income taxation
+purposes, may a tenant inducement payment (“TIP”) be deducted from the
+taxpayer’s income entirely in the year made or incurred, or must it be
+amortized over the term of the lease to which it relates?  Applying the
+reasoning in Canderel to this case, I have concluded that it was open to
+the taxpayer to deduct the entire payment immediately.  I.  Facts  2                                  
+In 1983, Toronto College Park Ltd. (“TCPL”), a corporation engaged in
+the business of development, sale, and rental of real estate, suffered start-up
+rental losses in the amount of $4,853,000 in respect of a new commercial
+building which it owned in Toronto.  The building was ready for occupancy but
+no tenants had been secured.  Also in 1983, TCPL made twoTIPs: one in the
+amount of $3,569,419, which was paid directly to Maclean Hunter Ltd. and
+expressed to be for the purpose of leasehold improvements (although there was
+no obligation on Maclean Hunter to use it for that purpose), and another in the
+amount of $1,723,289, paid to contractors employed by the Ministry of
+Government Services of Ontario (the “Ministry”), for the benefit of the
+Ministry.  It was agreed by the parties that the payments were made in the
+ordinary course of TCPL’s business and for the purpose of earning income. 
+Certain other payments and financial concessions were made to these recipients
+as well, including rent-free periods and lease pick-up costs, and TIPs were
+also made to other, smaller tenants.  3                                  
+TCPL deducted the entire cost of the TIPs from its 1983 business income,
+but its tax return was reassessed to disallow the deduction on the basis that
+the payments were capital in nature.  It was later conceded by the Minister of
+National Revenue (the “Minister”) that the payments were indeed on income
+account, but the Minister then took the position that they were not deductible
+in the year paid and instead should have been deferred and amortized over the
+life of the respective leases: in the case of Maclean Hunter, a 25-year
+amortization, reflecting the agreed-upon 20-year lease plus a five-year renewal
+period, and in the case of the Ministry, a period of 11 years and five months,
+the entire term of its lease.  TCPL appealed the reassessment to the Federal
+Court--Trial Division, arguing that it was entitled to deduct the payments in
+full from its business income in the year in which they were made.  4                                  
+The Federal Court--Trial Division allowed TCPL’s appeal, but this
+decision was reversed by a unanimous panel of the Federal Court of Appeal.  5                                  
+II.  Relevant Statutory Provisions  Income Tax Act, S.C. 1970-71-72, c. 63 (now R.S.C.,
+1985, c. 1 (5th Supp .)) 9. (1)   Subject to this Part, a taxpayer's
+income for a taxation year from a business or property is his profit therefrom
+for the year.  18. (1) In computing the income of a
+taxpayer from a business or property no deduction shall be made in respect of  (a)  an outlay or
+expense except to the extent that it was made or incurred by the taxpayer for
+the purpose of gaining or producing income from the business or property;                                                                     .
+. .  (9) Notwithstanding
+any other provision of this Act,  (a) in computing a
+taxpayer’s income for a taxation year from a business or property (other than
+income from a business computed in accordance with the method authorized by
+subsection 28(1)), no deduction shall be made in respect of an outlay or
+expense to the extent that it can reasonably be regarded as having been made or
+incurred  (i)     as consideration
+for services to be rendered after the end of the year,  (ii)    as, on account or
+in lieu of payment of, or in satisfaction of, interest, taxes ..., rent or
+royalty in respect of a period after the end of the year, or  (iii)   as consideration
+for insurance in respect of a period after the end of the year ...;  (b) such portion of
+each outlay or expense made or incurred as would, but for paragraph (a),
+have been deductible in computing a taxpayer’s income for a taxation year shall be
+deductible in computing his income for the subsequent year to which it can
+reasonably be considered to relate. . . .  III.  Judicial History  1.  Federal Court--Trial Division (1993), 71
+F.T.R. 30  6                                  
+Simpson J. began by reviewing the decision in Cummings v. The Queen,
+81 D.T.C. 5207, where the Federal Court of Appeal decided that a lease pick-up
+payment made by the taxpayer was made on income account and constituted a
+“running expense” which was fully deductible in the year in which it was made. 
+Also in that decision, Heald J.A. referred to certain TIPs as analogous to
+lease pick-ups.  Simpson J. rejected the Minister’s contention that Cummings
+was predicated on the impossibility of matching the payments there considered
+with future lease revenues because the property in question had been sold, and
+that the case should therefore serve as a precedent only in situations where
+matching cannot occur, noting that nowhere in his reasons did Heald J.A. make
+any reference to the impossibility of matching as a factor.  As for the
+argument that Cummings should be restricted only to lease pick-up cases,
+Simpson J. acknowledged that the comments regarding other types of TIPs were obiter
+dicta, but identified three general propositions for which she took  Cummings
+to stand: (1) TIPs may in some cases be classified as running expenses; (2)
+running expenses may, in some cases, be deducted in the year of the expense;
+and (3) the matching principle does not apply to running expenses.  7                                  
+Thus, Simpson J. was of the opinion that the proper approach in this and
+similar cases was first to determine whether the expense in question was a
+running expense, which could not be allocated to a specific item of revenue. 
+If so, then it must be decided whether the expense was on current account or
+whether the benefit extended beyond the year of payment even though it could
+not be matched.  If it so extended, then the taxpayer would have the option
+either to deduct the expense from income in the year it was made, or to defer
+the deduction if such deduction were in accordance with generally accepted
+accounting principles (“GAAP”) and would yield a truer income picture.  8                                  
+In the circumstances of this case, Simpson J. found the TIPs to be
+running expenses, as there was no evidence that the final rent charged included
+specific amounts attributable to such payments.  Further, because their primary
+objective, the inducement of tenants to rent space in the building, was
+achieved in the year of the expenses, the TIPs were to be considered current
+expenses.  Therefore, because she saw no obligation imposed either by the case
+law or by the Income Tax Act (the “Act”) to defer the deduction of a
+current running expense, Simpson J. allowed the complete deduction of the expense
+in the 1983 taxation year.  9                                  
+Although the parties had agreed that no argument would be directed at
+which method of accounting provided a truer picture of income, Simpson J. found
+that “the search for a truer picture is not relevant in the case of a running
+expense which the taxpayer does not elect to defer”.  2.  Federal
+Court of Appeal (Robertson J.A., for the court), [1996] 3 F.C. 858  10                              
+Robertson J.A. began by noting that two years after the trial decision
+in the instant case, the Federal Court of Appeal rendered its decision in Canada
+v. Canderel Ltd., [1995] 2 F.C. 232. In that case, it was decided that TIPs
+are not running expenses, as they relate to a particular source of
+income and, therefore, can and must be matched to such income for tax
+purposes.  He pointed out at para. 2 that in Canderel, the court
+distinguished Cummings, supra, “on the basis that the
+characterization therein of a lease-pick up payment as a running expense was obiter”.  11                              
+The Minister argued that, applying the law as stated in Canderel,
+TCPL was clearly not entitled to deduct the entire amount of the TIPs in the
+year in which they were paid. In response to TCPL’s argument that Canderel
+was wrongly decided because the effect of s. 18(9) of the Act (which requires
+the amortization of certain prepaid expenses but not TIPs) was not considered,
+Robertson J.A. began by considering TCPL’s understanding of the law as it stood
+before Canderel.  TCPL had maintained that prior to this decision,
+taxpayers were not, as a general rule, required to defer and amortize current
+expenses, that the general rule was one of full deductibility in the year the
+expense is incurred and made, and that this general rule was now codified in s.
+18(9), which also enumerates specific exceptions thereto.  However, Robertson
+J.A. rejected the submission that if amortization of TIPs were automatically
+required under Canderel, s. 18(9) would become redundant.  Specifically,
+he disputed the suggestion that the provision was intended to codify this
+“general rule”, finding instead that it was a specific clarification by
+Parliament of certain prepaid expenses which are required to be amortized.  12                              
+Additionally, in the view of Robertson J.A. at para. 10:  . . . it does not follow that the promulgation of a judicial
+exception to a rule has the effect of rendering the statutory exceptions
+redundant.  At most, it could be said that Canderel had the effect of
+adding another exception to the statutory list of expenses which require
+amortization.  13                              
+Robertson J.A. acknowledged that, if TCPL’s argument was premised on the
+assumption that the prepaid expenses specified in s. 18(9) and the TIPs here at
+issue fell into the same category, i.e., “non-running expenses”, then it could
+be argued that Canderel therefore stood for the proposition that
+expenses which can be matched must be amortized and, in this light, that
+there would have been no need for s. 18(9) to list specific expenses which met
+this criterion.  However, he did not accept that the expenses dealt with by the
+statutory provision could be classified as non-running expenses.  Indeed, in
+his view (at para. 11), “simply because an expense can be amortized does not
+mean it can be matched” and the expenses enumerated in s. 18(9), prepaid rents
+and prepaid service contracts, were good examples of non-matchable expenses
+which could nonetheless be amortized.  Accordingly, he found that the decision
+in Canderel did not render s. 18(9) meaningless.  14                              
+As to the argument that the Minister failed to establish that the
+deferral and amortization of the TIPs provided a truer picture of TCPL’s net
+income than immediate deduction, a burden of proof which was said to arise from
+the Minister’s initial characterization of the payments as capital expenses for
+the purposes of the reassessment, Robertson J.A. observed that the analysis in Canderel
+did not require a determination of which of the various acceptable options
+under GAAP was most accurate.  Rather, it established that if an expense can be
+matched with a specific source of revenue, then it must be amortized.  In that
+case, the court held that TIPs could be so matched and, according to Desjardins
+J.A. at p. 270, that “[t]he amortization method is the only method acceptable
+for income tax purposes”.  This proposition was wholly unaffected by any expert
+evidence as to which would be the preferable method of accounting under GAAP,
+as the calculation of “profit” for income tax purposes is a question of law.  15                              
+Finally, Robertson J.A. held that in amortizing the TIP paid to Maclean
+Hunter over the period of its lease, the relevant period would be the initial
+period of the lease, not including the renewal period.  Because the option to
+renew was within the exclusive control of the tenant, it would be mere
+speculation as to whether the renewal option would ever be exercised and
+therefore the TIP should be matched with revenues only for the term during
+which the tenant had an existing obligation to pay rent.  16                              
+Therefore, the appeal was allowed and the matter remitted back to the
+Minister for reconsideration and reassessment.  IV.  Issue  17                              
+Was it open to the taxpayer to deduct the entire amount of the TIPs from
+its taxable business income in 1983, or should the payments have been amortized
+over the terms of the leases to which they related?  V.  Analysis  1.  General
+Principles of Profit Computation 18                              
+In Canderel, I set out an analysis of the general method to be followed
+by taxpayers in computing their income for a particular taxation year.  I do
+not propose to repeat that discussion here. For ease of reference, however, I
+reproduce here the summary provided therein at para. 53 of the general
+principles of profit computation:  (1)       The determination of profit is a
+question of law.  (2)       The profit of a business for a taxation
+year is to be determined by setting against the revenues from the business for
+that year the expenses incurred in earning said income: M.N.R. v. Irwin,
+supra, Associated Investors, supra.  (3)       In seeking to ascertain profit, the goal
+is to obtain an accurate picture of the taxpayer’s profit for the given year.  (4)       In ascertaining profit, the taxpayer is
+free to adopt any method which is not inconsistent with  (a)  the provisions of the Income Tax Act;  (b) established case law principles or “rules of law”; and  (c) well-accepted business principles.  (5)       Well-accepted business principles, which
+include but are not limited to the formal codification found in GAAP, are not
+rules of law but interpretive aids.  To the extent that they may influence the
+calculation of income, they will do so only on a case-by-case basis, depending
+on the facts of the taxpayer’s financial situation.  (6)       On reassessment, once the taxpayer has
+shown that he has provided an accurate picture of income for the year, which is
+consistent with the Act, the case law, and well-accepted business principles,
+the onus shifts to the Minister to show either that the  figure provided does not
+represent an accurate picture, or that another method of computation would
+provide a more accurate picture.  [Emphasis in original.]  19                              
+In Canderel, this Court set aside the Federal Court of Appeal’s
+decision in Canderel because of its inappropriate treatment of the
+matching principle of accounting as a rule of law.  As this Court made clear in
+its reasons, it is for Parliament, not the courts, to make such rules of law. 
+Therefore, the analytical framework employed by the Court of Appeal in the
+instant case, to the extent that it applied the matching principle without
+regard to its actual effect on the portrayal of the taxpayer’s income, was
+clearly erroneous.  The crucial question in such a case where the method of profit
+computation is at issue is whether the method adopted by the taxpayer yielded
+an accurate picture of its profit for tax purposes.  If so, then the onus
+shifts to the Minister to prove the propriety of the alternative method
+contended for, as above.  20                              
+In light of this analysis, then, I now turn to consider the particular
+circumstances of the instant appeal.  2.  Application
+of General Principles to this Case  21                              
+As in Canderel, it is clear that the method of computation
+adopted by TCPL in this case was not inconsistent with any express provision of
+the Act, and was also in accordance with the treatment of TIPs in the case law:
+see Cummings, supra; see also M.N.R. v. Tower
+Investment Inc., [1972] F.C. 454 (T.D.).  22                              
+As to the question of conformity with well-accepted business principles,
+it is, in my opinion, determinative that the trial judge in the instant case
+found that the primary purpose of the TIPs was to achieve a benefit which was
+realized entirely in 1983: the inducement of prospective tenants to lease space
+in the building.  This being the case, and I can find no reason, on the
+evidence, to dispute this finding, the amortization of the payments over the
+terms of the various leases would seem to make little sense.  The most that can
+be said in favour of the matching principle is that in cases where expenses can
+be related directly to specific items of future revenue, it may yield a more
+accurate picture of income to offset the expenses against the future revenue,
+notwithstanding that the actual expenditures were made or incurred in another
+year.  This is not always the case, however, and the matching principle
+certainly should not be applied in a case such as the present one, where no
+linkage to future revenue has been found.  23                              
+Indeed, this is even a stronger case for immediate deduction than Canderel,
+where the trial judge found several different benefits yielded by the TIPs,
+some of which were realized in the year of the expenditure and some over the
+term of the lease.  Matching is simply not an issue when all benefits related
+to an expenditure are realized in the year in which the expenditure is made.  24                              
+In light of the decision of this Court in Canderel, I obviously
+cannot agree with the Court of Appeal’s holding that the matching principle is
+to be applied irrespective of accounting evidence or of the search for an
+accurate picture of the taxpayer’s income.  With respect, the accuracy of the
+income picture is the only issue to be considered, once it has been
+established that the method used by the taxpayer to arrive at this picture is
+consistent with the provisions of the Act, with the judicial interpretation
+thereof, and with the well-accepted business principles, including but not
+limited to GAAP, which are found to be applicable in the particular case. 
+While accounting evidence is not determinative of the legal question of profit,
+it is certainly relevant and may in many cases be highly persuasive.  The
+approach taken by the Court of Appeal is, in my view, unsupported by any
+previous authority other than its own decision in Canderel, which has
+now been set aside.  25                              
+I have not been persuaded by the Minister that the amortization of the
+TIPs would present even as accurate a picture of income as the method adopted
+by TCPL, let alone a more accurate picture.   Therefore, I conclude that
+TCPL was entitled to deduct the payments entirely in 1983, the year in which
+they were made.  26                              
+In light of this conclusion, it is unnecessary to consider the question
+of what the appropriate term of amortization would be.  However, I would
+nonetheless indicate my agreement with the holding of Robertson J.A. in this
+regard.  Because the renewal period was speculative and exercisable at the sole
+option of the tenant, it would not be proper to include it as part of the
+period over which the TIP was to be amortized.  Only the initial term of the
+lease, to which both parties were contractually bound, should be taken into
+account for the purposes of amortization.  VI.  Disposition  27                              
+For the foregoing reasons, I would allow the appeal, set aside the
+judgment of the Federal Court of Appeal, and restore the judgment of the
+Federal Court--Trial Division.  The appellant shall have its costs throughout.  Appeal allowed with costs.  Solicitors for the appellant:  McCarthy Tétrault, Toronto.  Solicitor for the respondent:  The Attorney General of
+Canada, Ottawa.    

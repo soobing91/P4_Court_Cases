@@ -1,0 +1,491 @@
+SCC Case Information: 35590   SUPREME
+COURT OF CANADA  Citation: Canada
+  (National Revenue) v. Thompson, 2016 SCC 21, [2016] 1 S.C.R. 381 Appeal
+  heard: December 4, 2014 Judgment
+  rendered: June 3, 2016 Docket: 35590  Between: Minister
+of National Revenue Appellant  and  Duncan
+Thompson Respondent  - and -  Federation
+of Law Societies of Canada, Canadian
+Bar Association and Criminal Lawyers’ Association Interveners   Coram: McLachlin C.J. and Abella, Rothstein,[*] Cromwell, Karakatsanis,
+Wagner and Gascon JJ.  Joint Reasons
+  for Judgment: (paras. 1 to 42) Wagner and Gascon JJ. (McLachlin C.J. and
+  Abella, Cromwell and Karakatsanis JJ. concurring)     Canada
+(National Revenue)
+v. Thompson,
+2016 SCC 21, [2016] 1 S.C.R. 381 Minister of National Revenue                                                                        Appellant v. Duncan Thompson                                                                                      Respondent and Federation of Law Societies of Canada, Canadian Bar Association and Criminal Lawyers’ Association                                                                   Interveners Indexed as: Canada (National
+Revenue) v. Thompson 2016 SCC 21 File No.: 35590. 2014: December 4; 2016: June 3. Present: McLachlin C.J. and Abella, Rothstein,[†] Cromwell, Karakatsanis,
+Wagner and Gascon JJ. on appeal from the federal court of appeal                     Held: The appeal should be allowed solely to set aside
+the Federal Court of Appeal’s disposition. The Minister’s application for a
+compliance order is dismissed. Cases Cited Statutes and Regulations Cited Act to amend the Income Tax Act, S.C.
+1956, c. 39, s. 28. Canadian Charter of Rights and Freedoms,
+ss. 1 , 8 . Personal Information Protection and Electronic Documents Act, S.C. 2000, c. 5, ss. 12  [am. 2010, c. 23,
+s. 83], 12.1 [ad. idem]. Authors Cited Canada. House of Commons. House of Commons Debates,
+vol. III, 3rd Sess., 26th Parl., June 25, 1965, p. 2875. Driedger, Elmer A. Construction of Statutes, 2nd ed.
+Toronto: Butterworths, 1983. Sullivan, Ruth. Sullivan on the Construction of Statutes, 6th
+ed. Markham, Ont.: LexisNexis, 2014.                     Christopher Rupar and Daniel Bourgeois, for the appellant.                     Michael A. Feder and Emily MacKinnon, for the respondent.                     John B. Laskin and Yael S. Bienenstock, for the intervener the
+Federation of Law Societies of Canada.                     Mahmud Jamal, Pooja Mihailovich (née Samtani) and W. David Rankin, for the intervener the
+Canadian Bar Association.                     Michal Fairburn and Carlo Di Carlo, for the intervener the Criminal Lawyers’ Association.                     The
+judgment of the Court was delivered by                     Wagner and Gascon JJ. — I.             
+Overview [1]                             
+In the course of an audit and an enforcement
+action pursuant to the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .) (“ITA ”),
+the Canada Revenue Agency (“CRA”) has broad powers to require individuals to
+provide the appellant, the Minister of National Revenue (“Minister”), with
+information and documents relating to a particular taxpayer. Information that
+is protected by solicitor-client privilege is normally exempt from disclosure.
+For the purposes of the ITA , however, the definition of
+“solicitor-client privilege” in s. 232(1)  expressly excludes “an accounting
+record of a lawyer”. The Minister argues that this specific exclusion exempts a
+lawyer’s accounting records from the protection of solicitor-client privilege
+and means that the lawyer can be compelled to disclose them. The Minister has
+taken action against the respondent, Duncan Thompson, to obtain accounting
+records relating to his law practice. Mr. Thompson argues that the records in
+question are privileged. [2]                             
+The Federal Court concluded that the definition
+of “solicitor-client privilege” in s. 232(1)  ITA  validly abrogates the
+privilege in respect of Mr. Thompson’s accounting records, and ordered him to
+comply with the Minister’s request. The Federal Court of Appeal disagreed, finding
+that, s. 232(1)  notwithstanding, solicitor-client privilege can attach to
+individual documents and to client names contained in those documents. It
+therefore sent the matter back to the Federal Court to have it determine
+whether that was actually so in this case. [3]                             
+In our view, Parliament’s intention to exclude
+“an accounting record of a lawyer” from the scope of solicitor-client privilege
+in s. 232(1)  is clear and unequivocal. The language used in the exception, the
+legislative history of the definition and the context of the scheme in which
+this exception appears lead us to conclude that Parliament’s goal in defining
+“solicitor-client privilege” as it did in the ITA  was to permit the
+disclosure of otherwise confidential information to the Minister. At first
+glance, therefore, Mr. Thompson cannot refuse to disclose his accounting
+records on the basis that the information contained in them might be
+privileged. [4]                             
+However, in the companion appeal to this case, Canada
+(Attorney General) v. Chambre des notaires du Québec, 2016 SCC 20, [2016]
+1 S.C.R. 336, we conclude that this exception is
+constitutionally invalid because it violates s. 8  of the Canadian Charter of
+Rights and Freedoms . The Minister’s request for Mr. Thompson’s documents is
+consequently now foreclosed.  In the end, we would allow this appeal solely to
+set aside the Federal Court of Appeal’s disposition. Given the circumstances,
+we would dismiss the Minister’s application. II.          
+Facts [5]                             
+Mr. Thompson is a lawyer from a small Alberta
+town against whom the Minister took enforcement action under the ITA . [7]                             
+The details of the scheme under which the CRA
+may request such information from taxpayers and third parties are laid out in
+ss. 231.2  and 231.7  ITA . We provide a more thorough description of the
+procedure by which the CRA can demand disclosure by sending a person a
+“requirement to provide documents or information” in our reasons in Chambre
+des notaires. In the instant case, we will focus on the requirement scheme
+as a whole and how it accounts for documents and information that are protected
+by solicitor-client privilege. [8]                             
+When the CRA sends a requirement to a taxpayer
+or a third party in order to obtain the disclosure of documents and the
+recipient of the requirement does not comply with it, the Minister may, by way
+of a summary procedure established in s. 231.7(1)  ITA , apply to a judge
+of the Federal Court for an order that the recipient provide the documents in
+question. Section 231.7(1) (b) specifies that the judge may make such an order
+only if he or she is satisfied that “the information or document is not
+protected from disclosure by solicitor-client privilege (within the meaning of
+subsection 232(1) )”. [9]                             
+Section 232(1)  ITA  is a general
+definition provision that states: 232 (1) In this section,  . . .  solicitor-client
+privilege means the right, if any, that a
+person has in a superior court in the province where the matter arises to
+refuse to disclose an oral or documentary communication on the ground that the
+communication is one passing between the person and the person’s lawyer in
+professional confidence, except that for the purposes of this section an
+accounting record of a lawyer, including any supporting voucher or cheque,
+shall be deemed not to be such a communication. Thus, where the Minister
+applies for a compliance order under s. 231.7(1) , the party against whom the
+order is sought must prove to the judge hearing the application that the
+requested documents fall within this definition of “solicitor-client privilege”
+in order to have them exempted from disclosure. [10]                         
+In the course of its enforcement action against
+Mr. Thompson, the CRA sent him a requirement pursuant to s. 231.2(1)  ITA ,
+requesting various documents pertaining to his personal finances as well as his
+current accounts receivable listing. Mr. Thompson provided the CRA with certain
+material, but the CRA determined that he had complied with the requirement only
+in part, particularly given that he had provided no details about his accounts
+receivable aside from a general indication of the balance owing. Mr. Thompson
+claimed that further details with respect to his accounts receivable, such as
+the names of his clients, were protected by solicitor-client privilege and were
+therefore exempt from disclosure. [11]                         
+The Minister applied to the Federal Court for a
+compliance order pursuant to s. 231.7  ITA . Mr. Thompson objected to the
+issuance of this order in regard to his accounts receivable, reiterating that
+the information being sought was protected by solicitor-client privilege. Mr.
+Thompson filed a notice of constitutional question, asking the Federal Court to
+rule on whether the ITA , and in particular s. 231.2(1) , may be
+interpreted and applied such that a lawyer on whom the CRA has served a
+requirement must divulge privileged information about his or her clients. It
+was Mr. Thompson’s position that the definition of “solicitor-client privilege”
+in s. 232(1)  could not be interpreted as abrogating this privilege in relation
+to a particular class of documents, in this case that of a lawyer’s accounting records.
+In addition, Mr. Thompson claimed that the requirement issued by the CRA
+constituted an unreasonable search or seizure contrary to s. 8  of the Charter . III.       
+Judicial History A.          
+Federal Court (Russell J.) [12]                         
+Russell J. found that the law does not support a
+view that client names and financial information can be shielded from
+disclosure to the Minister on the basis of solicitor-client privilege (No.
+T-1180-12, October 31, 2012). He explained that the CRA was seeking not
+information as to the content of solicitor-client communications but, rather,
+financial records that set out Mr. Thompson’s payables and receivables. Such
+records are included in the “accounting record[s]” that s. 232(1)  ITA 
+excludes from the application of solicitor-client privilege. Although client
+names contained within them might be privileged in certain situations, Mr.
+Thompson had failed to establish that this was actually the case for any of the
+documents being sought such that the client names in question had to be
+excluded from disclosure. Nor had he established a breach of s. 8  of the Charter . B.           
+Federal Court of Appeal (Pelletier, Trudel and
+Mainville JJ.A.) [13]                         
+The Federal Court of Appeal allowed Mr.
+Thompson’s appeal in part (2013 FCA 197, 448 N.R. 339). It held that although
+accounting records generally constitute evidence of a transaction or an act
+rather than a privileged communication and are therefore not normally capable
+of revealing the history of a file, there may be rare circumstances in which
+such records do contain privileged information, possibly with respect to
+clients’ names. Where that is the case, it will be incumbent on the court asked
+to grant the Minister a compliance order under s. 231.7  ITA  to verify
+the records in question before ordering an individual to disclose any information. [14]                         
+The Federal Court of Appeal held that although
+the Federal Court judge had been right to conclude that there is no blanket
+privilege applicable to all accounting records, he had failed to consider
+whether solicitor-client privilege might apply to any individual client names
+in the accounts receivable listing. If that were the case, the clients whose
+names were in fact privileged would be owed the opportunity to assert and
+defend this privilege, and Mr. Thompson should be given the opportunity to assert
+the privilege on their behalf at the hearing for a compliance order. The
+Federal Court of Appeal consequently sent the matter back to the Federal Court
+for a new hearing to establish whether any client names in Mr. Thompson’s
+accounts receivable listing were protected by solicitor-client privilege.
+Moreover, it dismissed Mr. Thompson’s Charter  arguments on the basis
+that there was no breach of s. 8 , given that a class privilege does not attach
+to accounting records and client names. IV.       
+Issues [15]                         
+The Minister sought leave to appeal the Federal
+Court of Appeal’s decision to this Court. The Minister did not raise the s. 8  Charter 
+issue as a ground of appeal, but focused solely on the proper interpretation of
+s. 232(1)  ITA . Mr. Thompson filed a motion to state a constitutional
+question, but the motion was dismissed. Accordingly, the constitutional
+argument that had been raised by Mr. Thompson did not constitute a ground of
+appeal in this Court, and the constitutional validity of ss. 231.2 , 231.7  and
+232(1)  ITA  is addressed only in the companion appeal, Chambre des
+notaires. The sole issue raised in this appeal is the statutory
+interpretation of the purported exclusion of lawyers’ accounting records from
+the protection of “solicitor-client privilege”, as that term is defined in s.
+232(1) . V.          
+Analysis A.          
+Solicitor-Client Privilege [16]                         
+Given that this appeal turns on the
+interpretation of a statutory provision purporting to define solicitor-client
+privilege in a particular manner for the purposes of the ITA , it will be
+important to make some preliminary remarks about the nature of this privilege
+as developed by the courts. [17]                         
+Solicitor-client privilege has evolved from
+being treated as a mere evidentiary rule to being considered a rule of
+substance and, now, a principle of fundamental justice (Foster
+Wheeler Power Co. v. Société intermunicipale de gestion et d’élimination des
+déchets (SIGED) inc., 2004 SCC 18, [2004] 1
+S.C.R. 456, at para. 34; Lavallee, Rackel & Heintz v.
+Canada (Attorney General), 2002 SCC 61, [2002] 3 S.C.R. 209, at para. 49; Maranda
+v. Richer, 2003 SCC 67, [2003] 3 S.C.R. 193, at para. 11; Solosky v. The
+Queen, [1980] 1 S.C.R. 821, at p. 839; Descôteaux v. Mierzwinski,
+[1982] 1 S.C.R. 860, at p. 875; Canada (Attorney General) v. Federation of
+Law Societies of Canada, 2015 SCC 7, [2015] 1 S.C.R. 401, at paras. 8 and
+84). The obligation of confidentiality that springs from the right to
+solicitor-client privilege is necessary for the preservation of a lawyer-client
+relationship that is based on trust, which in turn is indispensable to the continued
+existence and effective operation of Canada’s legal system. It ensures that
+clients are represented effectively and that the legal information required for
+that purpose can be communicated in a full and frank manner (R. v. Gruenke,
+[1991] 3 S.C.R. 263, at p. 289 . . .).  (Foster
+Wheeler, at para. 34) [18]                         
+In Descôteaux, one of the earliest cases in which this Court acknowledged that
+solicitor-client privilege involves a substantive right, Lamer J., as he then
+was, elaborated on the various aspects of the privilege as follows: 1.   The confidentiality of communications between solicitor and client
+may be raised in any circumstances where such communications are likely to be
+disclosed without the client’s consent.  2.   Unless the law provides otherwise, when and to the extent that the
+legitimate exercise of a right would interfere with another person’s right to
+have his communications with his lawyer kept confidential, the resulting
+conflict should be resolved in favour of protecting the confidentiality.  3.   When the law gives someone the authority to do something which, in
+the circumstances of the case, might interfere with that confidentiality, the
+decision to do so and the choice of means of exercising that authority should
+be determined with a view to not interfering with it except to the extent
+absolutely necessary in order to achieve the ends sought by the enabling
+legislation.  4.   Acts providing otherwise in situations under paragraph 2 and
+enabling legislation referred to in paragraph 3 must be interpreted
+restrictively. [p. 875] The third and fourth
+elements of this substantive rule have together been interpreted to support the
+proposition that an intrusion on solicitor-client privilege must be permitted
+only if doing so is absolutely necessary to achieve the ends of the enabling
+legislation (Goodis v. Ontario (Ministry of Correctional Services), 2006
+SCC 31, [2006] 2 S.C.R. 32, at para. 24). [19]                         
+Although Descôteaux appears to limit the
+protection of the privilege to communications between lawyers and their
+clients, this Court has since rejected a category-based approach to
+solicitor-client privilege that distinguishes between a fact and a
+communication for the purpose of establishing what is covered by the privilege
+(Maranda, at para. 30). While it is true that not everything that
+happens in a solicitor-client relationship will be a privileged communication,
+facts connected with that relationship (such as the bills of account at issue
+in Maranda) must be presumed to be privileged absent evidence to the
+contrary (Maranda, at paras. 33-34; see also Foster Wheeler, at
+para. 42). This rule applies regardless of the context in which it is invoked (Foster
+Wheeler, at para. 34; R. v. Gruenke, [1991] 3 S.C.R. 263, at p.
+289). [20]                         
+In the case at bar, therefore, we cannot conclude at the outset that Mr.
+Thompson’s communications with his clients are distinct from financial records
+that disclose various facts about their relationships in order to determine
+whether solicitor-client privilege covers those facts. Absent proof to the
+contrary, all of this information is prima facie privileged, and
+therefore confidential. [21]                         
+With these general principles in mind, we will now turn to the
+interpretation of the purported exception to “solicitor-client privilege”
+contained in the definition of that term in s. 232(1)  ITA . B.           
+Blood Tribe Criteria for Statutory Interpretation [22]                         
+The Minister contends that s. 232(1)  ITA ,
+particularly when read in conjunction with ss. 231.2  and 231.7 , evinces a clear
+and unambiguous parliamentary intent to abrogate solicitor-client privilege
+over information found in “accounting record[s] of a lawyer”. Mr. Thompson
+disputes this position. The parties’ disagreement turns primarily on whether,
+as is required by this Court’s decision in Canada (Privacy Commissioner) v.
+Blood Tribe Department of Health, 2008 SCC 44, [2008] 2 S.C.R. 574, an
+appropriately restrictive interpretation of the impugned definition can lead to
+the conclusion that the legislature intended to define solicitor-client
+privilege so as to exclude a class of documents from its protection. [23]                         
+Blood Tribe was a
+case that involved statutory interpretation. The issue was whether s. 12  of the
+Personal Information Protection and Electronic Documents Act, S.C. 2000,
+c. 5  (“PIPEDA ”), could be read so as to permit the Privacy Commissioner
+to have access, for the purpose of ensuring compliance with the PIPEDA ,
+to information that would otherwise be protected by solicitor-client privilege.
+Section 12  (now s. 12.1 ) gave the Privacy Commissioner the authority to compel
+a person to produce any records the Commissioner considered necessary for the
+investigation of a complaint “in the same manner and to the same extent as a
+superior court of record”, and “whether or not [they are] or would be
+admissible in a court of law”. The Commissioner argued that this language
+should be read as permitting her to have access to documents which would
+otherwise be confidential by virtue of being privileged. [24]                         
+Binnie J., writing for the Court, held that such
+an interpretation of s. 12  was untenable in light of the shift of
+solicitor-client privilege from being merely a rule of evidence to becoming one
+of substance (Blood Tribe, at para. 2). He explained that legislative language that may (if
+broadly construed) allow incursions on solicitor-client privilege must be
+interpreted restrictively.  The privilege cannot be abrogated by
+inference.  Open-textured language governing production of documents will
+be read not to include solicitor-client documents: Lavallee, at para.
+18; Pritchard, at para. 33.  This case falls squarely within that
+principle. [Emphasis deleted; para. 11.] This conclusion aligned
+perfectly with the Court’s earlier pronouncement in Pritchard v. Ontario
+(Human Rights Commission), 2004 SCC 31, [2004] 1 S.C.R. 809, that
+“[l]egislation purporting to limit or deny solicitor-client privilege will be
+interpreted restrictively” and that this privilege may not be abrogated by
+inference (para. 33). [25]                         
+The parties therefore agree that it is only
+where legislative language evinces a clear intent to abrogate solicitor-client
+privilege in respect of specific information that a court may find that the
+statutory provision in question actually does so. Such an intent cannot simply
+be inferred from the nature of the statutory scheme or its legislative history,
+although these might provide supporting context where the language of the provision
+is already sufficiently clear. If the provision is not clear, however, it must
+not be found to be intended to strip solicitor-client privilege from
+communications or documents that this privilege would normally protect. [26]                         
+In contrast to s. 12  of the PIPEDA , which
+did not explicitly grant the Privacy Commissioner the power to obtain and
+review documents in respect of which solicitor-client privilege was claimed,
+the definition of “solicitor-client privilege” in s. 232(1)  ITA  is
+unequivocal. It lays out what is protected when the privilege is invoked to
+oppose a compliance order under s. 231.7 . The definition includes the words “except
+that for the purposes of this section an accounting record of a lawyer,
+including any supporting voucher or cheque, shall be deemed not to be . . .  a
+communication” covered by solicitor-client privilege, which means that
+accounting records are explicitly excluded from the scope of the privilege for
+the purpose of the ITA . [27]                         
+Consequently, once a court has determined that a
+document over which solicitor-client privilege is being asserted is an
+accounting record of a lawyer, s. 232(1)  is clearly intended to bypass the
+traditional protection associated with solicitor-client privilege, which means
+that the document can then be seized and inspected by the Minister. We will
+disregard for now the issue of whether this definition of the privilege
+corresponds to the broader scope of the right that has been established in the
+jurisprudence since s. 232(1)  (then s. 126A(1) of the Income Tax Act,
+R.S.C. 1952, c. 148) was amended in 1965 (An Act to amend the Income Tax Act
+and the Federal-Provincial Fiscal Arrangements Act, S.C. 1965, c. 18, s.
+26). Whether Parliament may define what is privileged generally, in light of
+the evolving and expanded understanding of this right, is a different question,
+to which we will return below. [28]                         
+The legislative history of s. 232(1)  lends
+further support to an interpretation to the effect that Parliament intended to
+exempt a lawyer’s accounting records from the protection of solicitor-client
+privilege. Parliament introduced a general definition of “solicitor-client
+privilege” into the ITA  by enacting s. 126A(1)  (now s. 232(1) ) in 1956 (An
+Act to amend the Income Tax Act, S.C. 1956, c. 39, s. 28). At that time,
+the definition was functionally the same as the one now found in s. 232(1) , but
+without the accounting records exception: (e)     “solicitor-client privilege” means the right, if any,
+that a person has in a superior court in the province where the matter arises
+to refuse to disclose an oral or documentary communication on the ground that
+the communication is one passing between him and his lawyer in professional
+confidence. [29]                         
+However, in the 1962 case In re Income Tax
+Act, [1963] C.T.C. 1 (“Brown”), leave to appeal to this Court
+refused, [1965] S.C.R. 84, the British Columbia Supreme Court concluded that to
+the extent that trust account records and other accounting or bookkeeping
+records maintained by lawyers might contain privileged information, the
+Minister could not obtain them by means of an order made by a court under what
+was then s. 126A(5)(b) (pp. 5-7). Sullivan J. pointed out that “[i]f it
+were the intention of Parliament to make all records of a solicitor available
+to inspection by taxation people then it would be a simple matter to so provide
+by appropriate legislation” (p. 5). [30]                         
+Not too long after that, in 1965, Parliament
+amended the definition of “solicitor-client privilege” to introduce the current
+exemption for accounting records. When asked to explain why the exemption was
+being added, the Minister of Finance stated: “. . . it became evident as a
+result of a court decision that the definition of solicitor-client privilege
+was deficient” (House of Commons Debates, vol. III, 3rd Sess., 26th
+Parl., June 25, 1965, at p. 2875). It is thus difficult to consider the
+intention behind this amendment to be anything other than to address the
+refusal in Brown to require the disclosure of privileged information by
+enacting an express legislative provision permitting such a disclosure. [31]                         
+We would add that to find that s. 232(1)  ITA 
+is not indicative of a clear legislative intent to exempt certain documents
+from the protection of solicitor-client privilege would be to deprive the ITA ’s
+definition of this privilege of any functional meaning. The ITA creates
+a self-assessment system which “depends for its success upon the taxpayers’
+honesty and integrity in preparing their returns. While most taxpayers
+undoubtedly respect and comply with the system, the facts of life are that
+certain persons will attempt to take advantage of the system and avoid their
+full tax liability” (R. v. McKinlay Transport Ltd., [1990] 1 S.C.R. 627,
+at p. 648). A system that enables the Minister to have access to books and records
+in relation to a taxpayer’s personal and business affairs is thus crucial to
+the Minister’s ability to verify the veracity of a taxpayer’s return (Redeemer
+Foundation v. Canada (National Revenue), 2008 SCC 46, [2008] 2 S.C.R. 643,
+at para. 20). Yet as the Minister points out, excluding some of these records
+from the Minister’s scrutiny could enable lawyers and their clients to hide
+misreporting and tax evasion behind the veil of solicitor-client privilege.
+According to the Minister, access to the records, such as client names, is
+necessary to effectively determine their financial liability to the taxpayer
+for collection purposes. [32]                         
+It is thus clear to us that if Parliament’s
+intent in defining “solicitor-client privilege” in s. 232(1)  ITA  as it
+has were not to exempt accounting records from the protection of this
+privilege, that definition and the apparent exemption would essentially serve
+no purpose. This would violate the presumption against tautology, according to
+which “[i]t is presumed that the legislature avoids superfluous or meaningless
+words, that it does not pointlessly repeat itself or speak in vain” (R.
+Sullivan, Sullivan on the Construction of Statutes (6th ed. 2014), at p.
+211, citing Attorney General of Quebec v. Carrières Ste-Thérèse Ltée, [1985]
+1 S.C.R. 831, at p. 838). Instead, every word has “a
+specific role to play in advancing the legislative purpose” (Sullivan, at p.
+211). Given that legislation must be read in its entire context and having
+regard to the legislative purpose and scheme (E. A. Driedger, Construction
+of Statutes (2nd ed. 1983), at p. 87; Stubart Investments Ltd. v. The
+Queen, [1984] 1 S.C.R. 536, at p. 578), it is at the very least important
+to ensure that our characterization of the legislative intent underlying the definition
+of solicitor-client privilege in s. 232(1)  is not incompatible with the purpose
+of the Minister’s audit and enforcement powers as they are structured in the ITA . [33]                         
+If we consider the express language of the
+definition of “solicitor-client privilege” in s. 232(1)  together with the
+provision’s legislative history, Parliament’s intent to define this privilege
+so as to exclude a lawyer’s accounting records from its protection could hardly
+be clearer. Even the most restrictive interpretation of the provision leads to
+this conclusion, as the definition in s. 232(1)  must be read in tandem with the
+ITA ’s other provisions relating to the production of documents. In this
+regard, we note that, contrary to what the intervener the Canadian Bar
+Association suggests, it would be inappropriate to read the definition so
+restrictively as to conclude that it can apply only to documents that are
+already not protected by solicitor-client privilege. As we explained above,
+such an interpretation would disregard the legislative intent behind the
+definition and render it functionally meaningless. [34]                         
+In short, in contrast to how the statutory
+provision at issue in Blood Tribe could be interpreted, the only
+interpretation of the definition of “solicitor-client privilege” in s. 232(1) 
+that takes account of the history of the provision and the purpose of the
+broader scheme into which it is incorporated is that the provision is intended
+to permit the Minister to have access to lawyers’ accounting records even if
+they contain otherwise privileged information. C.           
+Nature of the Remedy [35]                         
+That said, this case arises in unusual
+circumstances. Whereas Mr. Thompson’s challenge to the Minister’s power to
+require disclosure is based solely on the argument that the definition of
+“solicitor-client privilege” in s. 232(1)  does not satisfy the Blood Tribe
+criteria, in the companion appeal, Chambre des notaires, the validity of
+this definition is being challenged on constitutional grounds. As we mentioned
+above, Parliament’s intent and its ability, in constitutional terms, to define
+solicitor-client privilege in a particular way for the purposes of the
+administration of the ITA  are not necessarily equivalent. The question
+whether a legislature can, simply by using clear and unambiguous language,
+abrogate this privilege over a class of documents in a scheme in which the
+seizure of such documents is permitted cannot be answered on the basis of Blood
+Tribe alone. When a seizure is involved, s. 8  of the Charter  comes
+into play. Thus, in Chambre des notaires, we conclude that the purported
+abrogation in s. 232(1)  is constitutionally invalid because it permits the
+state to obtain information that would otherwise be privileged to a far greater
+extent than is absolutely necessary for the administration of the ITA . [36]                         
+It is equally important to note that in Chambre
+des notaires we hold that the ITA ’s requirement scheme, insofar as
+it applies to lawyers and notaries, infringes s. 8  of the Charter  and
+that the infringement cannot be justified under s. 1 . Given that the scheme is
+invalid to that extent, the request made to Mr. Thompson under that scheme is
+now foreclosed. [37]                         
+It is possible that Parliament will amend ss.
+231.2  and 231.7  to remedy the constitutional defects of the requirement scheme.
+Even if it does not do so, however, there are other situations in which courts
+could be asked to determine whether certain information is covered by solicitor-client
+privilege and, if they find that the privilege does not apply, to order that
+the information be disclosed. As a result, we find that it will be helpful in
+the instant case to address the appropriateness of the remedy granted to Mr.
+Thompson by the Federal Court of Appeal. [38]                         
+In light of our conclusions in Chambre des
+notaires that the purported exception in the
+definition of “solicitor-client privilege” in s. 232(1)  ITA  is
+constitutionally invalid and that any court order for the disclosure of documents
+cannot be taken to include privileged information, we are of the view that the
+Federal Court of Appeal acted appropriately in sending Mr. Thompson’s case back
+to the Federal Court to have it determine whether any information in the
+accounting records sought by the CRA was privileged and therefore exempt from
+disclosure. [39]                         
+Still, solicitor-client privilege is a right
+that belongs to, and can only be waived by, a client of a legal professional (Lavallee,
+at para. 39; Chambre des notaires, at para. 45). In both Lavallee,
+at para. 40, and Federation of Law Societies of Canada, at paras. 48-49,
+this Court noted that a lawyer is not the alter ego of his or her client, so it
+is the client and not the lawyer who must be given an opportunity to assert the
+privilege over the information sought by the state. A court must act to
+facilitate the client’s ability to do so. [40]                         
+The Federal Court of Appeal’s order would
+therefore have been insufficient to safeguard the rights of Mr. Thompson’s
+clients. In order to properly afford clients the opportunity to raise their
+right to solicitor-client privilege, they must be notified when a court
+considers making any order requiring the disclosure of what might be privileged
+information. They must also be afforded the opportunity to decide whether they
+wish to contest the disclosure of the information requested by the state, and
+if they do wish to do so, they must be permitted to make submissions in that
+regard on their own behalf. Thus, should Parliament choose to modify the
+existing ITA  disclosure scheme in order to remedy its constitutional
+defects, a court assessing a request for access to presumptively privileged
+information will need to ensure that the clients whose information is being
+sought can participate in the process of asserting the protections that apply
+to them. VI.       
+Conclusion [41]                         
+Given our holding in Chambre des notaires that
+the exception contained in the definition of “solicitor-client privilege” in s.
+232(1)  ITA  is constitutionally invalid, the Minister’s request that Mr.
+Thompson be compelled to disclose the documents he has been withholding must be
+rejected. The information contained in those documents is presumptively
+privileged, and its disclosure cannot be required unless a court first
+determines whether solicitor-client privilege actually applies. Because we
+conclude in Chambre des notaires that the ITA ’s requirement
+scheme is unconstitutional insofar as it applies to lawyers like Mr. Thompson,
+it is unnecessary to return the matter to the Federal Court. [42]                         
+In light of the above, we would allow the appeal
+solely to set aside the Federal Court of Appeal’s order, and we would dismiss
+the Minister’s application. On the basis of this outcome, we would award costs
+to Mr. Thompson throughout.                     Appeal
+allowed.                     Solicitor for the
+appellant: Attorney General of Canada, Ottawa.                     Solicitors for the
+respondent: McCarthy Tétrault, Vancouver.                     Solicitors for the
+intervener the Federation of Law Societies of Canada: Torys, Toronto.                     Solicitors for the
+intervener the Canadian Bar Association: Osler, Hoskin & Harcourt,
+Toronto.                     Solicitors for the
+intervener the Criminal Lawyers’ Association: Stockwoods, Toronto.  [*] Rothstein J. took no part in the judgment. [†] Rothstein J. took no part in the judgment.  

@@ -1,0 +1,674 @@
+SCC Case Information: 36410   SUPREME
+COURT OF CANADA  Citation: R. v. Anthony-Cook, 2016 SCC 43, [2016] 2 S.C.R. 204 Appeal
+  heard: March 31, 2016 Judgment
+  rendered: October 21, 2016 Docket: 36410  Between: Matthew
+John Anthony-Cook Appellant  and  Her
+Majesty The Queen Respondent  - and -  Director
+of Public Prosecutions of Canada, Attorney
+General of Ontario, Criminal
+Lawyers’ Association (Ontario), Association
+des avocats de la défense de Montréal and British
+Columbia Civil Liberties Association Interveners   Coram: Abella, Moldaver, Karakatsanis, Wagner, Gascon, Côté and
+Brown JJ.  Reasons for Judgment: (paras. 1 to
+  67) Moldaver J. (Abella, Karakatsanis,
+  Wagner, Gascon, Côté and Brown JJ. concurring)     R.
+v. Anthony-Cook, 2016 SCC 43, [2016]
+2 S.C.R. 204 v. Her Majesty The Queen                                                                              Respondent and Director of Public Prosecutions of
+Canada, Attorney General of Ontario, Criminal Lawyers’ Association (Ontario), Association des avocats de la défense de
+Montréal and British Columbia Civil
+Liberties Association                                             Interveners 2016 SCC 43 File No.: 36410. 2016: March 31; 2016: October 21. Present: Abella, Moldaver, Karakatsanis, Wagner, Gascon, Côté and
+Brown JJ. on appeal from the court of appeal for british columbia                     Criminal law — Sentencing — Sentencing procedure — Guilty
+plea — Joint submission on sentence from Crown and defence counsel — Whether
+trial judge erred in departing from joint submission — Proper legal test trial
+judges should apply in deciding whether it is appropriate in a particular case
+to depart from joint submission.                     Held: The appeal should be allowed and the sentence varied to bring it
+into conformity with the joint submission.                     There
+is a lack of consensus regarding the legal test trial judges should apply in
+deciding whether it is appropriate in a particular case to depart from a joint
+submission. There are four possible approaches: the
+fitness test; the demonstrably unfit test; the public interest test; and, the
+approach that treats the fitness and public interest tests as essentially the
+same. The public interest test is the proper legal test that trial
+judges should apply. Under the public interest test, a trial judge should not
+depart from a joint submission on sentence unless the proposed sentence would bring
+the administration of justice into disrepute or would otherwise be contrary to
+the public interest. For joint submissions to be possible, the parties must
+have a high degree of confidence that they will be accepted. The public interest test, by being more stringent than the other tests proposed, best reflects
+the many benefits that joint submissions bring to the criminal justice system
+and the corresponding need for a high degree of certainty in them.                     Crown
+and defence counsel are well placed to arrive at a joint submission that
+addresses the interests of both the public and the accused. Trial judges should
+not reject a joint submission lightly. They should only do so where the
+proposed sentence would be viewed by reasonable and informed persons as a
+breakdown in the proper functioning of the justice system. A lower threshold
+than this would cast the efficacy of resolution agreements into too great a
+degree of uncertainty. Cases Cited                     Not
+followed: R. v. Douglas (2002), 162 C.C.C. (3d) 37; referred to:
+R. v. Nixon, 2011 SCC 34, [2011] 2 S.C.R. 566; R. v. G.W.C., 2000
+ABCA 333, 277 A.R. 20; R. v. Bezdan, 2001 BCCA 215, 154 B.C.A.C. 122; R.
+v. MacIvor, 2003 NSCA 60, 215 N.S.R. (2d) 344; R. v. Lacasse, 2015
+SCC 64, [2015] 3 S.C.R. 1089; R. v. Dorsey (1999), 123 O.A.C. 342; R.
+v. Druken, 2006 NLCA 67, 261 Nfld. & P.E.I.R. 271; R. v. Nome,
+2002 BCCA 468, 172 B.C.A.C. 183; R. v. Cerasuolo (2001), 151 C.C.C. (3d)
+445; R. v. Dion, 2015 QCCA 1826; R. v. Dumont, 2013 QCCA 576; R.
+v. Mailhot, 2013 QCCA 870; R. v. B.O.2, 2010 NLCA 19; R. v. Edgar,
+2010 ONCA 529, 101 O.R. (3d) 161; R. v. DeSousa, 2012 ONCA 254, 109 O.R.
+(3d) 792; R. v. Power, [1994] 1 S.C.R. 601; R. v. Oxford, 2010
+NLCA 45, 299 Nfld. & P.E.I.R. 327; R. v. Sinclair, 2004 MBCA 48, 185
+C.C.C. (3d) 569; R. v. Tkachuk, 2001 ABCA 243, 293 A.R. 171. Statutes and Regulations Cited Mental Health Act, R.S.B.C. 1996,
+c. 288. Authors Cited Law Society of British Columbia. Code of Professional Conduct for
+British Columbia (online: www.lawsociety.bc.ca/docs/publications/mm/BC-Code_2016-06.pdf). Layton, David, and Michel Proulx. Ethics and Criminal Law,
+2nd ed. Toronto: Irwin Law, 2015. Ontario. Report of the Attorney General’s Advisory Committee on
+Charge Screening, Disclosure, and Resolution Discussions. Toronto: The
+Committee, 1993. Ruby, Clayton C., Gerald J. Chan and Nader R. Hasan. Sentencing,
+8th ed. Markham, Ont.: LexisNexis, 2012.                     APPEAL
+from a judgment of the British Columbia Court of Appeal (Neilson, Bennett and
+Garson JJ.A.), 2015 BCCA 22, 367 B.C.A.C. 96, 631 W.A.C. 96, [2015] B.C.J.
+No. 63 (QL), 2015 CarswellBC 79 (WL Can.), affirming a sentencing decision
+of Ehrcke J., 2014 BCSC 1503, [2014] B.C.J. No. 2055 (QL), 2014
+CarswellBC 2353 (WL Can.). Appeal allowed.                     Micah B. Rankin, Michael Sobkin and Jeremy G. Jensen, for the appellant.                     Mary T. Ainslie, Q.C., and Megan A. Street, for the respondent.                     David W. Schermbrucker and Monica McQueen, for
+the intervener the Director of Public Prosecutions of Canada.                     Elise Nakelsky, for the intervener the
+Attorney General of Ontario.                     Joseph Di Luca and Erin Dann, for the
+intervener the Criminal Lawyers’ Association (Ontario).                     Emily Lapper and Ryan D. W. Dalziel, for the intervener the British
+Columbia Civil Liberties Association. The judgment of the
+Court was delivered by [1]                             
+Moldaver J. — Resolution discussions between Crown and
+defence counsel are not only commonplace in the criminal justice system, they
+are essential.  Properly conducted, they permit the system to function smoothly
+and efficiently. [2]                             
+Joint submissions on sentence — that is, when
+Crown and defence counsel agree to recommend a particular sentence to the
+judge, in exchange for the accused entering a plea of guilty — are a subset of
+resolution discussions.[1] 
+They are both an accepted and acceptable means of plea resolution.  They occur
+every day in courtrooms across this country and they are vital to the efficient
+operation of the criminal justice system.  As this Court said in R. v. Nixon,
+2011 SCC 34, [2011] 2 S.C.R. 566, not only do joint submissions “help to
+resolve the vast majority of criminal cases in Canada”, but “in doing so,
+[they] contribute to a fair and efficient criminal justice system” (para. 47). [3]                             
+But joint submissions on sentence are not
+sacrosanct.  Trial judges may depart from them.  That is what happened here. 
+The appellant, Mr. Anthony-Cook, entered a plea of guilty to manslaughter on
+the basis of a joint submission as to sentence.  The trial judge rejected the
+joint submission and imposed a longer custodial sentence than the sentence
+proposed by Crown and defence counsel.  He also imposed a probation order for
+three years, even though the joint submission did not contemplate a period of
+probation. [4]                             
+The narrow issue before us is whether the trial
+judge erred in departing from the joint submission proposed by the parties. 
+The broader issue concerns the legal test trial judges should apply in deciding
+whether it is appropriate in a particular case to depart from a joint
+submission. [5]                             
+For the reasons that follow, I am respectfully
+of the view that the trial judge in the present case applied a less stringent
+test than he should have in choosing to depart from the joint submission — and
+in doing so, he erred in principle.  The test he applied was a “fitness of sentence”
+test.  The test he should have applied is whether the proposed sentence would
+bring the administration of justice into disrepute, or would otherwise be
+contrary to the public interest. [6]                             
+In view of the trial judge’s error, deference is
+not owed and we can look at the matter afresh, using the correct test to
+determine whether the joint submission on sentence should have been accepted. 
+Applying that test, I am satisfied that the sentence proposed by the parties
+did not, in the circumstances, warrant a departure from the joint submission. 
+Accordingly, I would allow the appeal and vary the sentence to bring it into
+conformity with the joint submission. I.             
+Facts [7]                             
+On June 16, 2014, the appellant entered a plea
+of guilty to manslaughter for his role in the death of Michael Gregory.  The
+facts underlying his plea are as simple as they are tragic. [8]                             
+The Kettle Friendship Society is a society in
+Vancouver, British Columbia, that provides services to individuals with mental
+health and addictions issues.  The appellant has a long history of such
+problems and from time to time, he turned to the Society’s drop-in centre for
+assistance.  So too did Mr. Gregory although, in his case, in addition to
+receiving assistance, he acted as a volunteer. [9]                             
+On the morning of February 9, 2013, Mr. Gregory
+attended the centre but left at around 10:30 a.m. because he was feeling ill. 
+At about the same time, the appellant was in the centre’s computer room.  One
+of the other attendees complained about him causing a disturbance.  Staff found
+him swearing and punching at a board near a computer.  They told him to leave,
+which he did.  On his way out, he shouted at the staff and appeared angry and
+upset. [10]                         
+As the appellant walked away from the drop-in
+centre, he saw Mr. Gregory crossing the street, heading away from him.  The
+appellant called out to Mr. Gregory, shouting words to the effect that he would
+“kick his head in”. [11]                         
+Mr. Gregory shouted back, telling the appellant
+to “smarten up” or “dummy up”.  He then changed direction and after catching up
+with the appellant, grabbed him by the shoulder and began pushing him.  The two
+men pushed each other.  Mr. Gregory continued yelling, and the appellant threw
+three or four punches, none of which connected. [12]                         
+Mr. Gregory then backed away from the appellant
+with his hands raised.  The appellant moved forward and threw two more punches,
+striking Mr. Gregory in and around the head and neck.  The first blow stunned
+Mr. Gregory, and the second knocked him unconscious.  Mr. Gregory fell
+backwards.  His skull fractured when it hit the pavement.  He never regained
+consciousness, and was pronounced dead at the hospital.  All of the punches
+occurred within a matter of 10 to 20 seconds. [13]                         
+After Mr. Gregory fell, the appellant fled.  He
+was located and arrested by the police about five hours later.  He was released
+without charge the following day but was detained at a mental health facility
+pursuant to a Director’s warrant issued under the Mental Health Act,
+R.S.B.C. 1996, c. 288.  He remained in detention at a mental health facility
+for about two months, until April 4, 2013, when he was taken into police
+custody and charged with manslaughter. [14]                         
+Four days later, the appellant was released on
+bail with conditions.  One condition required that he reside at a mental health
+facility unless discharged by his physicians.  In early July 2013, after
+spending three months in a facility, the appellant’s physicians discharged him
+into the community.  However, on July 19, 2013, he was arrested for breaching
+the curfew condition of his bail order and his bail was revoked.  He was held
+in custody thereafter until his sentencing hearing in June 2014, a period of
+approximately 11 months. [15]                         
+Initially, the appellant entered a plea of not
+guilty to the charge of manslaughter.  He changed his plea to guilty after
+several days of trial.  He did so following a resolution agreement with the
+Crown, under which the appellant would serve a further 18 months in custody —
+in addition to the period of about a year he had spent in pre-trial custody — with
+no period of probation to follow.  In exchange, the appellant would plead
+guilty to manslaughter, thereby giving up his right to a trial, and with it,
+the possibility of raising the defence of self-defence. [16]                         
+The appellant was 28 years old at the time of
+his plea.  He has a criminal record dating back to 2007.  It includes
+convictions for breaking and entering, theft, mischief, and failing to comply
+with probation orders.  His criminal record does not reflect a history of
+violence, apart from one conviction involving a minor assault.  The appellant
+also has long-standing mental health and drug use problems.  He suffers from a
+refractory psychotic disorder (schizoaffective disorder).  While there is no
+suggestion that drug use played a role in the present offence, it has been a
+factor in some of his prior offences. [17]                         
+At the sentencing hearing, the trial judge put
+the Crown and defence on notice that he had serious reservations about the
+joint submission.  He asked for further submissions.  He also invited the appellant
+to apply to withdraw his guilty plea, if he wished to do so.  The appellant
+declined the trial judge’s invitation. [18]                         
+The trial judge expressed two concerns with the
+joint submission.  First, he noted that counsel had mistakenly overestimated by
+some six months the amount of credit to which the appellant was entitled for
+time spent in pre-sentence custody.  Crown counsel acknowledged the error, but
+stated that it did not alter his position on the joint submission and he
+continued to seek a further custodial sentence of 18 months. [19]                         
+Second, the trial judge was concerned that
+without a probation order, the sentence would not adequately protect the
+public.  In particular, he considered it important that the appellant refrain
+from using non-medically prescribed drugs.  Counsel informed the trial judge
+that a probation order would not be appropriate for two reasons.  First, it
+would be duplicative because the appellant remained certified under the Mental
+Health Act, and he would be supervised by his treatment team while living
+in the community.  If his psychosis worsened or he failed to take his
+medications, a warrant could issue requiring that he be returned to the
+hospital, where he would remain until his team felt he was suitable for
+release.  Second, counsel maintained that a probation order would set the
+appellant up for failure because, in the past, he had experienced difficulty
+complying with multiple reporting obligations due to his mental illness. II.          
+Decisions Below A.          
+Supreme Court of British Columbia (Ehrcke J.),
+2014 BCSC 1503 [20]                         
+The trial judge rejected the joint submission. 
+While giving it “very careful consideration”, he concluded that it did not
+“give adequate weight to the principles of denunciation, deterrence, and
+protection of the public” (para. 68 (CanLII)).  In its place, instead of
+sentencing the appellant to a further term of 18 months in custody, as
+requested, he sentenced him to a custodial term of two years less a day (after
+credit for pre-sentence custody) — a six month differential.  In addition, he
+placed the appellant on probation for three years. [21]                         
+In departing from the joint submission, the
+trial judge considered the circumstances of the appellant and the offence, and
+various sentencing authorities provided by counsel.  He determined that three
+years would be a fit sentence (before credit for pre-sentence custody), and
+that any sentence below that “would be an unfit sentence” (para. 43).  In view
+of his conclusion that the appellant was entitled to less credit for time spent
+in pre-sentence custody than counsel had recommended, he increased the proposed
+custodial sentence by six months in order to achieve the effective three-year
+sentence he considered “fit”. [22]                         
+The trial judge also rejected the joint
+submission to the extent that it did not include an order for probation.  He
+considered that such an order was necessary to protect the public because the
+treatment team could not control the appellant’s use of street drugs. 
+Accordingly, he imposed a three-year probation order, which included a term
+prohibiting the appellant from possessing or consuming non-medically prescribed
+drugs. B.           
+Court of Appeal for British Columbia (Neilson,
+Bennett and Garson JJ.A.), 2015 BCCA 22, 367 B.C.A.C. 96 [23]                         
+The Court of Appeal for British Columbia
+unanimously dismissed the appellant’s sentence appeal.  Justice Garson, writing
+for the court, concluded that the sentence imposed was “fit in the
+circumstances” (para. 1). [24]                         
+The court accepted the Crown’s position that it
+was unnecessary to decide the test for departing from a joint submission.  In
+its view, the trial judge did not err in his assessment of the appropriate
+range of sentence, and it was open to him to decline to give the appellant any
+credit for time spent in a mental health facility.  Reading the trial judge’s
+reasons as a whole, it was clear that he viewed the joint submission as neither
+fit, nor in the public interest, having regard to the risk to the public the
+appellant posed should he use illegal drugs and fail to comply with his
+treatment regime.  In short, the court found no error in the trial judge’s
+reasoning or in the sentence he imposed. III.       
+Analysis [25]                         
+It is an accepted and entirely desirable
+practice for Crown and defence counsel to agree to a joint submission on
+sentence in exchange for a plea of guilty.  Agreements of this nature are
+commonplace and vitally important to the well-being of our criminal justice
+system, as well as our justice system at large.  Generally, such agreements are
+unexceptional and they are readily approved by trial judges without any
+difficulty.  Occasionally, however, a joint submission may appear to be unduly
+lenient, or perhaps unduly harsh, and trial judges are not obliged to go along
+with them (Criminal Code, R.S.C. 1985, c. C-46, s. 606(1.1) (b)(iii)). 
+In such cases, trial judges need a test against which to measure the
+acceptability of the joint submission.  The question is: What test? [26]                         
+Not unexpectedly, the answer is contentious. 
+Provincial appellate courts across the country do not agree on a uniform test,
+nor do the parties or the various interveners who appeared before us.  Minor
+variations aside, four possible tests or approaches emerge from the submissions
+we received. [27]                         
+The first of these is the “fitness” test.  Under
+this test, trial judges should give joint submissions serious consideration,
+but may depart from them if, having regard to the circumstances of the case and
+the applicable sentencing principles, they conclude that the proposed sentence
+is not “fit”.  Some provincial appellate courts use this test, most commonly in
+the western provinces (see, for example, R. v. G.W.C., 2000 ABCA
+333, 277 A.R. 20, at paras. 17-18; R. v. Bezdan, 2001 BCCA 215, 154
+B.C.A.C. 122, at para. 15; R. v. MacIvor, 2003 NSCA 60, 215 N.S.R. (2d)
+344, at para. 31).  Crown counsel for the respondent urged us to adopt this
+test, arguing that it best reflects the trial judge’s duty to come to an
+independent decision regarding the appropriate sentence. [28]                         
+The second test is also a “fitness” test,
+although of a different kind.  It resembles the standard of review that
+appellate courts apply on sentencing appeals in circumstances where the
+sentence imposed by the trial judge is entitled to deference.  Under this test,
+trial judges should not depart from a joint submission unless they conclude
+that the sentence proposed is “demonstrably unfit” (R. v. Lacasse, 2015
+SCC 64, [2015] 3 S.C.R. 1089, at para. 11).  This is clearly a more stringent
+test than the simple “fitness” test.  However, the parties did not point us to
+any appellate decisions that have adopted it, and I am aware of none. [29]                         
+The third test, commonly referred to as the
+“public interest” test, was developed in the Report of the Attorney
+General’s Advisory Committee on Charge Screening, Disclosure, and Resolution
+Discussions (1993) (the “Martin Committee Report”).[2]  Under this test, trial
+judges “should not depart from a joint submission unless the proposed sentence
+would bring the administration of justice into disrepute, or is otherwise not
+in the public interest” (p. 327 (emphasis deleted)).  This test has also been
+adopted by a number of provincial appellate courts (see, for example, R. v.
+Dorsey (1999), 123 O.A.C. 342, at para. 11; R. v. Druken, 2006 NLCA
+67, 261 Nfld. & P.E.I.R. 271, at para. 29; R. v. Nome, 2002 BCCA
+468, 172 B.C.A.C. 183, at paras. 13-14).  The appellant supports this test,
+largely because it provides “a high threshold and is intended to foster
+confidence in an accused, who has given up his right to a trial, that the joint
+submission he obtained in return for a plea of guilty will be respected by the
+sentencing judge” (R. v. Cerasuolo (2001), 151 C.C.C. (3d) 445 (Ont.
+C.A.), at para. 8). [30]                   
+And, finally,
+some courts, most notably in Quebec, treat the fitness and public interest
+tests as essentially the same, and use the language of the two tests
+interchangeably (though in Quebec “reasonableness” is used in place of
+“fitness”: see, for example, R. v. Douglas (2002), 162 C.C.C. (3d) 37
+(C.A.), at para. 51; R.
+v. Dion, 2015 QCCA 1826, at para. 14 (CanLII); R. v. Dumont, 2013
+QCCA 576, at para. 12 (CanLII); R. v. Mailhot, 2013 QCCA 870, at para. 7 (CanLII)).  Perhaps the best example of
+this is found in Douglas, an oft-referred to decision of the Quebec Court
+of Appeal in which Fish J.A. (as he then was) said: [31]                         
+Having
+considered the various options, I believe that the public interest test, as
+amplified in these reasons, is the proper test.  It is more stringent than the
+other tests proposed and it best reflects the many benefits that joint
+submissions bring to the criminal justice system and the corresponding need for
+a high degree of certainty in them.  Moreover, it is distinct from the
+“fitness” tests used by trial judges and appellate courts in conventional
+sentencing hearings and, in that sense, helps to keep trial judges focused on
+the unique considerations that apply when assessing the acceptability of a
+joint submission.  To the extent Douglas holds otherwise, I am
+respectfully of the view that it is wrongly decided and should not be followed. A.          
+The Proper Test [32]                         
+Under the public interest test, a trial judge
+should not depart from a joint submission on sentence unless the proposed
+sentence would bring the administration of justice into disrepute or is
+otherwise contrary to the public interest.  But, what does this threshold
+mean?  Two decisions from the Newfoundland and Labrador Court of Appeal are
+helpful in this regard. [33]                         
+In Druken, at para. 29, the court held
+that a joint submission will bring the administration of justice into disrepute
+or be contrary to the public interest if, despite the public interest
+considerations that support imposing it, it is so “markedly out of line with
+the expectations of reasonable persons aware of the circumstances of the case
+that they would view it as a break down in the proper functioning of the
+criminal justice system”.  And, as stated by the same court in R. v. B.O.2,
+2010 NLCA 19, at para. 56 (CanLII), when assessing a joint submission, trial
+judges should “avoid rendering a decision that causes an informed and
+reasonable public to lose confidence in the institution of the courts”. [34]                         
+In my view, these powerful statements capture
+the essence of the public interest test developed by the Martin Committee. 
+They emphasize that a joint submission should not be rejected lightly, a
+conclusion with which I agree.  Rejection denotes a submission so unhinged from
+the circumstances of the offence and the offender that its acceptance would
+lead reasonable and informed persons, aware of all the relevant circumstances,
+including the importance of promoting certainty in resolution discussions, to
+believe that the proper functioning of the justice system had broken down. 
+This is an undeniably high threshold — and for good reason, as I shall explain. B.           
+Why a Stringent
+Test Is Required [35]                         
+Guilty pleas in exchange for joint submissions
+on sentence are a “proper and necessary part of the administration of criminal
+justice” (Martin Committee Report, at p. 290).  When plea resolutions are
+“properly conducted [they] benefit not only the accused, but also victims,
+witnesses, counsel, and the administration of justice generally” (ibid.,
+at p. 281 (emphasis deleted)). [36]                         
+Accused persons benefit by pleading guilty in
+exchange for a joint submission on sentence (see D. Layton and M. Proulx, Ethics
+and Criminal Law (2nd ed. 2015), at p. 436).  The most obvious benefit is
+that the Crown agrees to recommend a sentence that the accused is prepared to
+accept.  This recommendation is likely to be more lenient than the accused
+might expect after a trial and/or contested sentencing hearing.  Accused
+persons who plead guilty promptly are able to minimize the stress and legal
+costs associated with trials.  Moreover, for those who are truly remorseful, a
+guilty plea offers an opportunity to begin making amends.  For many accused,
+maximizing certainty as to the outcome is crucial — and a joint submission,
+though not inviolable, offers considerable comfort in this regard. [37]                         
+The Martin Committee recognized this.  As it
+noted at p. 328 of its report, the most important factor in the “ability to
+conclude resolution agreements, thereby deriving the benefits that such
+agreements bring, is that of certainty”.  Generally speaking, accused persons
+will not give up their right to a trial on the merits, and all the procedural
+safeguards it entails, unless they have “some assurance that [trial judges]
+will in most instances honour agreements entered into by the Crown” (Cerasuolo,
+at para. 9). [38]                         
+The Crown also relies on the certainty of joint
+submissions.  Agreements that are certain are attractive to the Crown “because
+there is less risk that what Crown counsel concludes is an appropriate
+resolution of the case in the public interest will be undercut” (Martin Committee
+Report, at p. 328). [39]                         
+From the Crown’s perspective, the certain or
+near certain acceptance of joint submissions on sentence offers several
+potential benefits.  First, the guarantee of a conviction that comes with a
+guilty plea makes resolution desirable (Martin Committee Report, at pp.
+285-86).  The Crown’s case may suffer from flaws, such as an unwilling witness,
+a witness of dubious worth, or evidence that is potentially inadmissible —
+problems that can lead to an acquittal.  By agreeing to a joint submission in
+exchange for a guilty plea, the Crown avoids this risk.  Second, the accused
+may have information or testimony to offer the Crown that can prove invaluable
+to other investigations or prosecutions.  But this information may not be
+forthcoming absent an agreement as to a joint submission.  Third, the Crown may
+consider it best to resolve a particular case for the benefit of victims or
+witnesses.  When an accused pleads guilty in exchange for a joint submission on
+sentence, victims and witnesses are spared the “the emotional cost of a trial”
+(R. v. Edgar, 2010 ONCA 529, 101 O.R. (3d) 161, at para. 111). 
+Moreover, victims may obtain some comfort from a guilty plea, given that it
+“indicates an accused’s acknowledgement of responsibility and may amount to an
+expression of remorse” (ibid.). [40]                         
+In addition to the many benefits that joint
+submissions offer to participants in the criminal justice system, they play a
+vital role in contributing to the administration of justice at large.  The
+prospect of a joint submission that carries with it a high degree of certainty
+encourages accused persons to enter a plea of guilty.  And guilty pleas save
+the justice system precious time, resources, and expenses, which can be
+channeled into other matters.  This is no small benefit.  To the extent that
+they avoid trials, joint submissions on sentence permit our justice system to
+function more efficiently.  Indeed, I would argue that they permit it to
+function.  Without them, our justice system would be brought to its knees, and
+eventually collapse under its own weight. [41]                         
+But as I have said, for joint submissions to be
+possible, the parties must have a high degree of confidence that they will be
+accepted.  Too much doubt and the parties may choose instead to accept the
+risks of a trial or a contested sentencing hearing.  The accused in particular
+will be reluctant to forgo a trial with its attendant safeguards, including the
+crucial ability to test the strength of the Crown’s case, if joint submissions
+come to be seen as an insufficiently certain alternative. [42]                         
+Hence, the importance of trial judges exhibiting
+restraint, rejecting joint submissions only where the proposed sentence would
+be viewed by reasonable and informed persons as a breakdown in the proper
+functioning of the justice system.  A lower threshold than this would cast the
+efficacy of resolution agreements into too great a degree of uncertainty.  The
+public interest test ensures that these resolution agreements are afforded a
+high degree of certainty. [43]                         
+At the same time, this test also recognizes that
+certainty of outcome is not “the ultimate goal of the sentencing process. 
+Certainty must yield where the harm caused by accepting the joint submission is
+beyond the value gained by promoting certainty of result” (R. v. DeSousa,
+2012 ONCA 254, 109 O.R. (3d) 792, per Doherty J.A., at para. 22). [44]                         
+Finally, I note that a high threshold for
+departing from joint submissions is not only necessary to obtain all the
+benefits of joint submissions, it is appropriate.  Crown and defence counsel
+are well placed to arrive at a joint submission that reflects the interests of
+both the public and the accused (Martin Committee Report, at p. 287).  As a
+rule, they will be highly knowledgeable about the circumstances of the offender
+and the offence and the strengths and weaknesses of their respective
+positions.  The Crown is charged with representing the community’s interest in
+seeing that justice is done (R. v. Power, [1994] 1 S.C.R. 601, at p.
+616).  Defence counsel is required to act in the accused’s best interests,
+which includes ensuring that the accused’s plea is voluntary and informed (see,
+for example, Law Society of British Columbia, Code of Professional Conduct
+for British Columbia (online), rule 5.1-8).  And both counsel are bound
+professionally and ethically not to mislead the court (ibid., rule
+2.1-2(c)).  In short, they are entirely capable of arriving at resolutions that
+are fair and consistent with the public interest (Martin Committee Report, at
+p. 287). [45]                         
+Bearing in mind these benefits and the need for
+certainty, I turn to the other tests proposed by the respondent Crown and some
+of the interveners. C.           
+The Fitness of Sentence and Demonstrably Unfit
+Tests Should Be Rejected [46]                         
+As indicated, the position of the respondent is
+that while trial judges should give serious consideration to joint submissions,
+such submissions may be rejected on a simple “fitness” test.  With respect,
+this test is not sufficiently stringent.  Under it, trial judges must ask what
+a fit or appropriate sentence would be, instead of asking whether the
+sentence proposed would be viewed by reasonable and informed persons as a
+breakdown in the proper functioning of the justice system.  In short, the
+“fitness” test does not direct trial judges to approach joint submissions from
+a position of restraint.  Rather, it sends a different, and in my view, a wrong
+signal: that they may interfere if they have a different view of what a “fit”
+sentence would be.  If trial judges were free to interfere on this basis, the
+result would be to “effectively eliminate the use of plea bargaining as part of
+the criminal prosecution process” (R. v. Oxford, 2010 NLCA 45, 299 Nfld.
+& P.E.I.R. 327, at para. 55). [47]                         
+While the “demonstrably unfit” test used by
+appellate courts is undoubtedly a higher threshold than the simple “fitness”
+test, in rare cases, this threshold may not be sufficiently robust for the
+joint submission context.  I would not rule out the possibility that a sentence
+which would otherwise be considered demonstrably unfit absent a joint
+submission may nonetheless be acceptable in the context of one.  For example,
+take the case of an accused involved in a very serious crime that the Crown may
+have difficulty proving because of deficiencies in its case.  The accused
+agrees to plead guilty, and to assist the Crown in prosecuting his co-conspirators
+for this and other more serious offences.  The Crown might reasonably conclude
+that it is in the public interest to agree, by way of a joint submission, to a
+very lenient sentence in order to obtain the accused’s guilty plea and his
+assistance.  In short, a very lenient, even “demonstrably unfit” sentence may,
+in a particular case, serve the greater good. [48]                         
+Further, both the fitness test and the appellate
+“demonstrably unfit” test suffer from a similar flaw: they are designed for
+different contexts.  As such, there is an appreciable risk that the approaches
+which apply to conventional sentencing hearings or sentencing appeals will be
+conflated with the approach that must be adhered to on a joint submission.  In
+conventional sentencing hearings, trial judges look at the circumstances of the
+offender and the offence, and the applicable sentencing principles.  They are
+not asked to consider the critical systemic benefits that flow from joint
+submissions, namely, the ability of the justice system to function fairly and
+efficiently.  Similarly, appellate courts are not bound to consider these
+systemic benefits on a conventional sentencing appeal.  The public interest
+test avoids these pitfalls. D.          
+Guidance for Trial Judges [49]                         
+Finally, I would offer some brief guidance to
+trial judges on the approach they should follow when they are troubled by a
+joint submission on sentence. [50]                         
+Courts across the country are generally in
+agreement on the procedure judges should follow when they are inclined to
+depart from a joint submission (see, for example, B.O.2, at paras.
+74-82; R. v. Sinclair, 2004 MBCA 48, 185 C.C.C. (3d) 569,
+at para. 17; G.W.C., at para. 26).  The parties and interveners
+emphasize the importance of procedure.  It ensures that joint submissions are
+given proper consideration, and that accused persons — who have already entered
+a plea of guilty — are treated fairly.  The following procedures reflect
+practical wisdom gained from the experience of our trial and appellate courts. 
+They are meant to apply only to those cases where the joint submission is
+contentious and raises concerns with the trial judge.  As I mentioned earlier,
+most joint submissions are unexceptional and are readily approved by trial
+judges without any difficulty.[3] [51]                         
+First, trial judges should approach the joint
+submission on an “as-is” basis.  That is to say, the public interest test
+applies whether the judge is considering varying the proposed sentence or
+adding something to it that the parties have not mentioned, for example, a
+probation order.  If the parties have not asked for a particular order, the
+trial judge should assume that it was considered and excluded from the joint
+submission.  However, if counsel have neglected to include a mandatory order,
+the judge should not hesitate to inform counsel.  The need for certainty in
+joint submissions cannot justify failing to impose a mandatory order. [52]                         
+Second, trial judges should apply the public
+interest test when they are considering “jumping” or “undercutting” a joint
+submission (DeSousa, per Doherty J.A.). That is not to say that the
+analysis will be the same in either case.  On the contrary, from the accused’s
+perspective, “undercutting” does not engage concerns about fair trial rights or
+undermine confidence in the certainty of plea negotiations. In addition, in assessing whether the severity of a
+joint submission would offend the public interest, trial judges should be
+mindful of the power imbalance that may exist between the Crown and defence,
+particularly where the accused is self-represented or in custody at the time of
+sentencing. These factors may temper the public interest in certainty and
+justify “undercutting” in limited circumstances. At the same time, where the trial judge is considering “undercutting”, he or she
+should bear in mind that the community’s confidence in the administration of
+justice may suffer if an accused enjoys the benefits of a joint submission
+without having to serve the agreed-upon sentence (see DeSousa, at paras.
+23-24). [53]                         
+Third, when faced with a contentious joint
+submission, trial judges will undoubtedly want to know about the circumstances
+leading to the joint submission — and in particular, any benefits obtained by
+the Crown or concessions made by the accused.  The greater the benefits
+obtained by the Crown, and the more concessions made by the accused, the more
+likely it is that the trial judge should accept the joint submission, even
+though it may appear to be unduly lenient.  For example, if the joint
+submission is the product of an agreement by the accused to assist the Crown or
+police, or an evidentiary weakness in the Crown’s case, a very lenient sentence
+might not be contrary to the public interest.  On the other hand, if the joint
+submission resulted only from the accused’s realization that conviction was
+inevitable, the same sentence might cause the public to lose confidence in the
+criminal justice system. [54]                         
+Counsel should, of course, provide the court
+with a full account of the circumstances of the offender, the offence, and the
+joint submission without waiting for a specific request from the trial judge. 
+As trial judges are obliged to depart only rarely from joint submissions, there
+is a “corollary obligation upon counsel” to ensure that they “amply justify
+their position on the facts of the case as presented in open court” (Martin
+Committee Report, at p. 329).  Sentencing — including sentencing based on a
+joint submission — cannot be done in the dark.  The Crown and the defence must
+“provide the trial judge not only with the proposed sentence, but with a full
+description of the facts relevant to the offender and the offence”, in order to
+give the judge “a proper basis upon which to determine whether [the joint
+submission] should be accepted” (DeSousa, at para. 15; see also Sinclair,
+at para. 14). [55]                         
+This is not to say that counsel must inform the
+trial judge of “their negotiating positions or the substance of their
+discussions leading to the agreement” (R. v. Tkachuk, 2001 ABCA 243, 293
+A.R. 171, at para. 34).  But counsel must be able to inform the trial judge why
+the proposed sentence would not bring the administration of justice into
+disrepute or otherwise be contrary to the public interest.  If they do not,
+they run the risk that the trial judge will reject the joint submission. [56]                         
+There may, of course, be cases where it is not
+possible to put the main considerations underlying a joint submission on the
+public record because of safety or privacy concerns, or the risk of
+jeopardizing ongoing criminal investigations (see Martin Committee Report, at
+p. 317).  In such cases, counsel must find alternative means of communicating
+these considerations to the trial judge in order to ensure that the judge is
+apprised of the relevant considerations and that a proper record is created for
+appeal purposes. [57]                         
+A thorough justification of the joint submission
+also has an important public perception component.  Unless counsel put the
+considerations underlying the joint submission on the record, “though justice
+may be done, it may not have the appearance of being done; the public may
+suspect, rightly or wrongly, that an impropriety has occurred” (C. C. Ruby, G.
+J. Chan and N. R. Hasan, Sentencing (8th ed. 2012), at p. 73). [58]                         
+Fourth, if the trial judge is not satisfied with
+the sentence proposed by counsel, “fundamental fairness dictates that an
+opportunity be afforded to counsel to make further submissions in an attempt to
+address the . . . judge’s concerns before the sentence is imposed” (G.W.C.,
+at para. 26).  The judge should notify counsel that he or she has concerns, and
+invite further submissions on those concerns, including the possibility of
+allowing the accused to withdraw his or her guilty plea, as the trial judge did
+in this case. [59]                         
+Fifth, if the trial judge’s concerns about the joint
+submission are not alleviated, the judge may allow the accused to apply to
+withdraw his or her guilty plea.  The circumstances in which a plea may be
+withdrawn need not be settled here.  However, by way of example, withdrawal may
+be permitted where counsel have made a fundamental error about the legality of
+the proposed joint submission, for example, where a conditional sentence has
+been proposed but is unavailable. [60]                         
+Finally, trial judges who remain unsatisfied by
+counsel’s submissions should provide clear and cogent reasons for departing
+from the joint submission.  These reasons will help explain to the parties why
+the proposed sentence was unacceptable, and may assist them in the resolution
+of future cases.  Reasons will also facilitate appellate review. IV.       
+Application [61]                         
+The Crown submits that on any test, the trial
+judge was entitled to depart from the joint submission.  Respectfully, I cannot
+agree.  Setting aside that the trial judge failed to apply the proper test — he
+asked only whether the joint submission was fit — he failed to take into
+account the important systemic benefits of joint submissions, and the
+corresponding need for them to be reasonably certain. [62]                         
+In terms of the custodial sentence, it appears
+the trial judge treated the joint submission as though it was a conventional
+sentencing hearing.  With respect, he erred in doing so.  The parties made a
+clear and firm recommendation on the appropriate sentence.  Importantly, the
+Crown did not resile from the joint submission, but maintained his position
+that he was seeking a further period of 18 months in custody even after he
+learned of the calculation error. [63]                         
+In my respectful view, there was no basis for
+the trial judge to substitute his opinion for the considered agreement of
+counsel.  The custodial term proposed, while low, was not so low as to bring
+the administration of justice into disrepute or be contrary to the public
+interest.  It was close to the range of sentence identified by the trial judge,
+and, as I have said, joint submissions promote the smooth operation of the
+criminal justice system.  The appellant gave up his right to a trial and any
+self-defence argument he may have had.  In the end, the trial judge’s deviation
+from the recommended custodial sentence — by only six months — amounts to
+little more than tinkering. [64]                         
+The probation order raises more difficult
+questions, but, in my view, it should not have been made.  While the trial
+judge had reason to be concerned about how the appellant would manage in the
+community, these concerns were addressed by counsel (see para. 19, above). [65]                         
+Normally a probation order requiring that the
+accused refrain from the use of non-medically prescribed drugs would be, if not
+essential, certainly warranted where it is shown that an accused’s drug addiction
+has contributed to his offending.  However, the failure to impose such an order
+in the context of a joint submission is not necessarily fatal, particularly in
+a case like this, where the reason for the order is somewhat attenuated by the
+Director’s warrant and the likelihood that the order would be self-defeating. [66]                         
+The Crown, having considered the public
+interest, obviously felt that society would be adequately protected without a
+probation order.  Counsel’s view that the probation order was duplicative and
+therefore unnecessary to protect the public was reasonable in the
+circumstances.  In fact, counsel appear to have come to a practical decision on
+how best to further the appellant’s rehabilitation while ensuring the public’s
+protection. V.          
+Conclusion [67]                         
+I would allow the appeal, and vary the
+appellant’s sentence to bring it into conformity with the joint submission,
+namely, that the appellant serve an additional 18 months in custody, with no
+period of probation to follow.  The sentence jointly proposed by the Crown and
+defence was not one that would bring the administration of justice into
+disrepute, nor was it otherwise contrary to the public interest.                     Appeal
+allowed.                     Solicitors for the
+appellant: Jensen Law Corporation, Kamloops; Michael Sobkin, Ottawa.                     Solicitor for the
+respondent: Attorney General of British Columbia, Vancouver.                     Solicitor for the
+intervener the Director of Public Prosecutions of Canada: Public
+Prosecution Service of Canada, Halifax.                     Solicitor for the
+intervener the Attorney General of Ontario: Attorney General of Ontario,
+Toronto.                     Solicitors for the
+intervener the Criminal Lawyers’ Association (Ontario): Di Luca
+Barristers, Toronto.                     Solicitors for the intervener Association des avocats de la défense
+de Montréal: Desrosiers, Joncas, Nouraie, Massicotte, Montréal;
+Association des avocats de la défense de Montréal, Montréal.                     Solicitors for the intervener the British Columbia Civil Liberties
+Association: Bull, Housser & Tupper, Vancouver.  [1] These reasons do not address sentencing flowing from plea
+agreements in which the parties are not in full agreement as to the appropriate
+sentence. [2] The Committee was commissioned in 1991 by the Hon. Howard Hampton,
+Attorney General of Ontario, to study the early stages of the criminal process,
+namely, charge screening, disclosure, and resolution or plea discussions.  The
+Committee comprised leading members of the criminal bar, including both Crown
+and defence counsel, senior police officers, and other members of the
+community.  Notably, it was chaired by the Hon. G. Arthur Martin, one of the
+foremost criminal law jurists in this country’s history. [3] As indicated,
+these reasons do not address sentencing flowing from plea agreements in which
+the parties are not in full agreement as to the appropriate sentence. In other
+instances, the Crown and accused may negotiate sentencing positions that
+reflect partial agreement or an agreed upon range. Such arrangements may
+involve a comparable quid pro quo. In such circumstances, it may be that
+similar considerations would apply where a trial judge is, for instance,
+inclined to exceed the ceiling proposed by the Crown, but we leave that
+question for another day.   

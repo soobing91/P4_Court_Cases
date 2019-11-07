@@ -1,0 +1,1128 @@
+Schwartz v. Canada, [1996] 1
+S.C.R. 254  Alan M. Schwartz        Appellant  v.  Her Majesty The Queen                                                                   Respondent  Indexed as:  Schwartz v.
+Canada  File No.:  24093.  1995:  October 6;
+1996:  February 22.   on appeal from the federal court of
+appeal                        Held:  The appeal should be allowed.                       Taxability in this
+case should be assessed pursuant to the retiring allowances provisions of the
+Act.  While s. 3(a) of the Act contemplates the possibility that
+income arising from sources other than those enumerated in s. 3(a) and
+in Subdivision d of Division B of Part I of the Act may
+nonetheless be taxable, to find that the damages received by the appellant are
+taxable under the general provision of s. 3(a) would disregard the
+fact that Parliament, in amending the Income Tax Act in 1983, has chosen
+to deal with the taxability of such payments in the provisions relating to
+retiring allowances.  Such an approach would amount to giving precedence to a
+general provision over the detailed provisions enacted by Parliament.  This
+would be inconsistent with basic principles of interpretation.                      Per Sopinka, Iacobucci and
+Major JJ.:  On a plain meaning, s. 56(1)(a)(ii) of the Income
+Tax Act does not provide for the taxation of settlements for loss of
+intended employment.  As well, there was no factual foundation on which to
+argue that the settlement could be taxed under s. 3(a) of the Act
+as income from the employment contract.  It is, however, unnecessary and
+undesirable in this case to answer the question of whether s. 3(a)
+permits taxation of unenumerated sources of income.  If this Court intends to
+conclude that s. 3(a) should be applied literally, and permit
+taxation on income from any source, it should only do so in circumstances which
+warrant such a decision because such a result is of fundamental importance. 
+Moreover, so deciding can be viewed as a marked departure from previous tax
+jurisprudence.  Cases Cited  By La Forest J.   By Major J.                     Referred to:  The Queen v. Savage,
+[1983] 2 S.C.R. 428; Curran v. Minister of National Revenue, [1959]
+S.C.R. 850; Canada v. Fries, [1990] 2 S.C.R. 1322.  Statutes and
+Regulations Cited    Authors Cited  Arnold,
+Brian J., Tim Edgar and Jinyan Li, eds. Materials on Canadian Income Tax,
+10th ed.  Scarborough, Ont.:  Carswell, 1993.      Gibbens, R. D. 
+"Appellate Review of Findings of Fact" (1992), 13 Adv. Q. 445.   Hansen,
+Brian G.  "The Taxation of Employees".  In Brian G. Hansen,
+Vern Krishna and James A. Rendall, contributing eds., Canadian Taxation. 
+Toronto:  Richard De Boo, 1981, 117.  Harris,
+Edwin C.  Canadian Income Taxation.  Toronto:  Butterworths, 1979.  Harris,
+Edwin C.  Canadian Income Taxation, 4th ed.  Toronto: 
+Butterworths, 1986.  Hogg,
+Peter W., and Joanne E. Magee.  Principles of Canadian Income Tax
+Law.  Scarborough, Ont.:  Carswell, 1995.  Krishna,
+Vern.  "Characterization of Wrongful Dismissal Awards for Income Tax"
+(1977), 23 McGill L.J. 43.  Krishna,
+Vern.  The Fundamentals of Canadian Income Tax, 4th ed.  Scarborough,
+Ont.:  Carswell, 1992.   Rendall,
+James A.  "Defining the Tax Base".  In Brian G. Hansen,
+Vern Krishna and James A. Rendall, contributing eds., Canadian Taxation. 
+Toronto:  Richard De Boo, 1981, 59.  Scace,
+Arthur R. A.  The Income Tax Law of Canada, 4th ed.  Toronto: 
+Law Society of Upper Canada, 1979.                     APPEAL from a
+judgment of the Federal Court of Appeal, [1994] 2 F.C. 720, [1994] 2 C.T.C. 99,
+94 D.T.C. 6249, 167 N.R. 35, 2 C.C.P.B. 109, setting aside a judgment of the
+Tax Court of Canada, [1993] 2 C.T.C. 2125, 93 D.T.C. 555.  Appeal allowed.                     Benjamin Zarnett and Carrie Smit, for the
+appellant.                     J. S. Gill, Q.C., Susan Van Der Hout
+and Elizabeth Chasson, for the respondent.   1                 La
+Forest J. -- This appeal involves the issue whether compensation
+received by an "employee" from his "employer" pursuant to a
+settlement regarding liability for the employer's unilateral decision to cancel
+a contract of employment before the employee had become under obligation to
+provide services is taxable as income from an unenumerated source under the
+general provision of s. 3(a) of the Income Tax Act, R.S.C. 1952,
+c. 148 (now R.S.C., 1985, c. 1 (5th Supp .)), or, in the alternative, as a
+retiring allowance under s. 56(1)(a)(ii) of the Act.  I.  Background  2                 In the spring of 1988, Mr.
+Schwartz, a lawyer, received a verbal offer of employment from the Dynacare
+Health Group Inc.'s Chairman, Albert J. Latner.  The appellant accepted on the basis
+that the employment would begin on completion of an assignment by the appellant
+for the Government of Ontario, which was expected in November.  Later, in May
+1988, Mr. Schwartz wrote Mr. Latner a letter outlining the terms of their
+agreement.  Mr. Latner accepted the proposed terms and signed the letter.  They
+agreed that the appellant was to receive a salary of $250,000 annually as well
+as the option to acquire 1.25 percent of the existing non-voting shares of
+Dynacare, calculated at the date of the agreement, for the price of $0.01 per
+share.  The agreement provided that the shares would “vest in three equal
+amounts [on the date of commencement of the employment and on the first and
+second anniversary dates]”.  They also agreed that every effort would be made
+to minimize taxes payable by both parties.  Within days, the appellant notified
+his partners of his intention to withdraw from the partnership at the end of
+his assignment.  3                 The contract was never carried
+out.  In late September, Dynacare informed the appellant that his services
+would not be required.  Later, the appellant received a letter dated October 6,
+1988 from Dynacare's solicitors confirming the cancellation of the employment,
+recognizing Dynacare's contractual obligation towards the appellant and
+offering him $75,000 in exchange for a full and final release.  The letter also
+made reference to the fact that the appellant had an obligation to mitigate his
+damages.  The appellant refused the offer.  He continued to practise law until
+he withdrew from the partnership on January 31, 1989, as he had agreed with his
+partners.  He commenced employment with an investment firm the next day at an
+annual salary of $175,000.  4                 Negotiations for settlement were
+conducted by the parties' lawyers during the course of which two letters, later
+filed at trial, were exchanged.  The first, dated June 13, 1989, was from
+Dynacare's solicitors and was addressed to the appellant's solicitors.  It
+dealt specifically with the value of Mr. Schwartz's stock options and concluded
+that Dynacare considered them to be worth $267,000 for the purposes of the
+settlement.  Dynacare's solicitors also stated that their client was “prepared
+to be flexible around the range of $267,000”.  The appellant's solicitors
+replied in a letter dated June 22, 1989, expressing disagreement with
+Dynacare's method of calculating the value of the stock options and stating
+that the appellant was owed $75,000 as lost salary.  That letter contained an
+offer to settle the dispute for $400,000 plus costs.  5                 A settlement was reached and a
+release was signed on August 21, 1989.  Dynacare agreed to pay the appellant a
+lump sum of $360,000 as damages plus $40,000 on account of costs.  At trial,
+Mr. Schwartz testified that in arriving at the amount of $360,000, losses on
+stock options, salary, embarrassment, anxiety and inconvenience resulting from
+the breach of the employment contract by Dynacare were considered, but no
+specific allocation among such losses was made.  6                 The respondent Crown assessed
+the damages as constituting a “retiring allowance” taxable under s. 56(1)(a)(ii)
+of the Act.  The appellant filed a notice of objection, but the respondent
+confirmed the assessment initially made.  The appellant then appealed the
+assessment successfully to the Tax Court of Canada, [1993] 2 C.T.C. 2125, 93
+D.T.C. 555, from whose decision the respondent appealed to the Federal Court of
+Appeal, which allowed the appeal, [1994] 2 F.C. 720, [1994] 2 C.T.C. 99, 94
+D.T.C. 6249, 167 N.R. 35, 2 C.C.P.B. 109.  This Court granted the appellant
+leave to appeal the latter decision on October 13, 1994, [1994] 3 S.C.R. xi.  II.  Relevant Statutory Provisions  7                 The provisions of the Act to
+which I will refer during the course of these reasons are the following:                     3.  The income of a taxpayer for a
+taxation year for the purposes of this Part is his income for the year
+determined by the following rules:                     (a) 
+determine the aggregate of amounts each of which is the taxpayer's income for
+the year (other than a taxable capital gain from the disposition of a property)
+from a source inside or outside Canada, including, without restricting the
+generality of the foregoing, his income for the year from each office,
+employment, business and property;                     5. (1)  Subject to this Part, a
+taxpayer's income for a taxation year from an office or employment is the
+salary, wages and other remuneration, including gratuities, received by him in
+the year.                     6. (1)  There shall be included in
+computing the income of a taxpayer for a taxation year as income from an office
+or employment such of the following amounts as are applicable:  (a) 
+the value of board, lodging and other benefits of any kind whatever received or
+enjoyed by him in the year in respect of, in the course of, or by virtue of an
+office or employment, except any benefit . . . .                     56. (1)  Without restricting the
+generality of section 3, there shall be included in computing the income of a
+taxpayer for a taxation year,  (a) 
+any amount received by the taxpayer in the year as, on account or in lieu of
+payment of, or in satisfaction of,                                                                     . . .  (ii) 
+a retiring allowance, other than an amount received out of or under an employee
+benefit plan, a retirement compensation arrangement or a salary deferral
+arrangement . . . .                     80.4 (1)  Where a person or partnership
+received a loan or otherwise incurred a debt by virtue of the office or
+employment or intended office or employment of an individual, or by virtue of
+the services performed or to be performed by a corporation carrying on a
+personal services business (within the meaning assigned by paragraph 125(7)(d)),
+the individual or corporation, as the case may be, shall be deemed to have
+received a benefit in a taxation year equal to that amount, if any, by which the
+aggregate of                                                                     . . .  (b) 
+the aggregate of all amounts each of which is an amount of interest that was
+paid or payable in respect of the year on such a loan or debt by  (i) 
+a person or partnership (in this paragraph referred to as the “employer”) that
+employed or intended to employ the individual. . . .                     248. (1)  In this Act,                                                                     . . .  “employment”
+means the position of an individual in the service of some other person
+(including Her Majesty or a foreign state or sovereign) and “servant” or “employee”
+means a person holding such a position;                                                                     . . .  “retiring
+allowance” means an amount (other than a superannuation or pension benefit, an
+amount received as a consequence of the death of an employee or a benefit
+described in subparagraph 6(1)(a)(iv)) received  (a) 
+upon or after retirement of a taxpayer from an office or employment in
+recognition of his long service, or  (b) 
+in respect of a loss of an office or employment of a taxpayer, whether or not
+received as, on account or in lieu of payment of, damages or pursuant to an
+order or judgment of a competent tribunal  by
+the taxpayer or, after his death, by a dependant or a relation of the taxpayer
+or by the legal representative of the taxpayer;  III.  Judgments Below  Tax Court of Canada, 93 D.T.C. 555  8                 The Crown's principal contention
+before the Tax Court of Canada was that the settlement amount was taxable as a
+“retiring allowance”.  In considering this contention, Rip J.T.C.C. relied
+heavily on the ordinary meaning of the words of  the Act dealing with retiring
+allowances.  In his view, the ordinary meaning of the words “employment”,
+“office”, “employee”, “officer”, “position” and “holding” ought not be
+altered.  The definition of “retiring allowance”, he stated, does not refer to
+an “intended” or “prospective” employment, and one should not read into it
+words that are not present there.  He confirmed that finding by considering English
+dictionary definitions of the word “position” and the French equivalent “poste”
+and found (at p. 560) that an officer is “one who holds, has possession of or
+fills a position which grants him a right to stipend or remuneration” and that
+an employee is one who “occupies a position in the service of another”.  9                 The consideration of various
+factors led the trial judge to the conclusion that Mr. Schwartz was not an
+“employee” or in the “employment” of Dynacare when the cancellation of the
+employment agreement occurred.  The appellant was still a partner in his law
+firm at the time.  He was not performing any services for Dynacare, nor was he
+under any obligation to do so.  He was not receiving any kind of remuneration
+and the directors of Dynacare had not yet appointed him.  What the appellant
+lost when the contract was cancelled, Rip J.T.C.C. held, was not his employment
+or his position, but the legal right entitling him to employment in the future.  10               Rip J.T.C.C. rejected the
+respondent's submission that parliamentary documents and earlier cases
+supported its position by underlying the importance of the distinction to be
+made between termination of employment contracts occurring when employment had
+already commenced and those occurring before the employee had started providing
+any services to his employer.  He therefore concluded that the damages were not
+a “retiring allowance” within the meaning of s. 248(1) of the Act.  11               The judge also rejected the
+respondent's first alternative argument that if the damages were not a retiring
+allowance, they had been received by the appellant as a benefit by virtue of an
+office or employment and therefore fell within the purview of s. 6(1)(a)
+of the Act.  He followed the Federal Court of Appeal's decisions in The
+Queen v. Atkins, 76 D.T.C. 6258, and The Queen v. Pollock, 84 D.T.C.
+6370, and found that the damages received by the appellant could not be
+regarded as “salary”, “wages” or “remuneration” or as a benefit “received or
+engaged [sic] by him . . . in respect of, in the course of, or
+by virtue of the office or employment” within the meaning of ss. 5(1) and 6(1)(a)
+of the Act.  He added that the fact that the appellant had not commenced
+employment at the time the breach occurred made the reasoning even more
+persuasive.  12               Finally, Rip J.T.C.C. dealt with
+the respondent's argument that the damages were taxable under s. 3 as being
+“income from a source”, the source being the employment contract.  He found
+that the amount received by the appellant could not be considered “income”,
+because the ordinary concept of income pertained to recurring receipts and did
+not extend to a lump sum received because a source of income had been taken
+away or destroyed.  Consequently, in a case such as the one at bar,
+compensation for damages relating to future services was not to be considered
+“income”.  He noted that in the present situation, the damages received by the
+appellant did not relate in any way to past services.  13               In the course of his reasons, Rip
+J.T.C.C. stated (at p. 557) that there was no evidence indicating any
+allocation of the settlement amount and made the following finding of fact,
+which was disturbed by the Federal Court of Appeal and which is at issue before
+our Court, at p. 562:  Schwartz
+suffered inconvenience and prejudice when he was informed his services would
+not be required.  He had given notice of withdrawal to his law partnership.  He
+had to begin to look for employment.  Schwartz was never an employee or officer
+of the purported employer.  The damages he received was [sic] in a
+small part, if any, for loss of income for future services and to a larger
+part, according to the evidence, for embarrassment, anxiety and inconvenience. 
+[Emphasis added.]  Federal Court of Appeal (Mahoney, Stone and McDonald JJ.A.),
+[1994] 2 F.C. 720  14               The respondent did not argue that
+the damages constituted a retiring allowance before the Federal Court of
+Appeal.  Mahoney J.A. for the court nonetheless held that he was in substantial
+agreement with Rip J.T.C.C.'s finding that the damages did not constitute a
+retiring allowance as contemplated by ss. 56(1)(a)(ii) and 248(1) of the
+Act.  15               The critical issue before the
+Federal Court of Appeal was the Tax Court of Canada's finding of fact relating
+to apportionment.  After stating the guidelines laid down by our Court in Stein
+v. The Ship “Kathy K”, [1976] 2 S.C.R. 802, Mahoney J.A. concluded that the
+Federal Court of Appeal was justified in overturning Rip J.T.C.C.'s finding of
+fact because the latter had omitted to consider relevant documentary evidence. 
+He found that the letters dated June 13, 1989 and June 22, 1989 from the
+parties' solicitors were contradictory to the oral evidence on the issue of
+allocation and he held that, on a balance of probabilities, $75,000 had been allocated
+for loss of salary and $267,000 for loss of the stock options, and that there
+was thus no reason not to conclude that $18,000 had been awarded for
+embarrassment, anxiety and inconvenience suffered by Mr. Schwartz.  He
+preferred the documentary evidence over the appellant's testimony because
+paragraph 4 of the May 1988 agreement, which indicated concerns by both parties
+regarding taxes, and the self-serving nature Mr. Schwartz's testimony raised
+doubts as to his credibility.  16               The Federal Court of Appeal
+therefore held that the damages relating to lost salary and stock options
+($342,000) were taxable under s. 3 of the Act as income from employment.  It
+followed the English decision London & Thames Haven Oil Wharves, Ltd. v.
+Attwooll, [1967] 2 All E.R. 124 (C.A.), which was approved by the Federal
+Court of Appeal in The Queen v. Manley, [1985] 2 F.C. 208 (leave to
+appeal to this Court refused, [1986] 1 S.C.R. xi), and stated, at p. 732:  Where,
+pursuant to a legal right, a person receives from another compensation for the
+failure to receive a sum of money or benefit which, if it had been received,
+would have been income from an employment or office, the compensation is to be
+treated for income tax purposes in the same way as if the benefit or sum of
+money had been received instead of the compensation.  The Federal Court of Appeal held (at
+p. 732) that the source of the appellant's right was the contract of
+employment, “a source of income within the express contemplation of paragraph
+3(a)”, and that the $342,000 was therefore taxable as income from
+employment.  IV.  Analysis   18               For the reasons that follow, I am
+of the opinion that the appeal should be allowed.  To deal with the substance
+of the Minister of National Revenue's main argument, it is necessary to address
+the correctness of the Federal Court of Appeal's decision to overturn Rip J.T.C.C.'s
+finding of fact with respect to the allocation made by Dynacare and Mr.
+Schwartz of the compensation agreed upon.  I conclude that the Federal Court of
+Appeal was wrong in doing so, a conclusion that is sufficient, technically, to
+dispose of the Crown's main argument in favour of the appellant.  However, the
+substance of the Minister's main argument raises important questions that merit
+attention by this Court and it having been fully argued by the parties, I think
+it appropriate to deal with it on its merits.  Regarding this issue, I have
+come to the conclusion that s. 3(a) of the Act does contemplate
+taxability of income arising from sources other than those specifically
+provided for in s. 3(a) and in Subdivision d of Division B of Part I of
+the Act.  However, in the case at bar, an analysis of the way Parliament
+handled the taxability of payments such as the one received by Mr. Schwartz
+demonstrates that it is to the rules relating to retiring allowances that one
+should turn in assessing taxability.  This brings us to a consideration of the
+Crown's alternative argument and, like the trial judge and the Federal Court of
+Appeal, I have come to the conclusion that the damages received by Mr. Schwartz
+do not constitute a retiring allowance.  19               Before dealing specifically with
+the issues raised in this appeal, however, I find it advisable to consider the
+manner in which Parliament has historically chosen to deal with the taxability
+of monies received by an employee from his ex-employer as a result of the
+latter's cancellation of the employment contract.  A.  The Historical Background   21               Initially, damages received by an
+employee, from his ex-employer, as a result of the latter's cancellation of the
+employment contract, did not constitute income from office or employment
+taxable under s. 5(1); nor did they constitute a retiring allowance taxable
+under s. 56(1)(a)(ii).  22               On the first of these
+propositions, the Federal Court of Appeal, in Atkins, supra,
+stated that such payments did not constitute taxable income from an office or
+employment under s. 5(1).  That was so because these amounts were not
+considered to be in the nature of income for tax purposes.  Jackett C.J.,
+confirming the decision rendered by Collier J. at trial (75 D.T.C. 5263), held,
+at pp. 6258-59:                     Once
+it is conceded, as the appellant does, that the respondent was dismissed
+“without notice”, monies paid to him (pursuant to a subsequent agreement) “in
+lieu of notice of dismissal” cannot be regarded as “salary”, “wages” or
+“remuneration” or as a benefit “received or enjoyed by him . . . in
+respect of, in the course of, or by virtue of the office or employment”.  Monies
+so paid (i.e., “in lieu of notice of dismissal”) are paid in respect of the “breach”
+of the contract of employment and are not paid as a benefit under the contract
+or in respect of the relationship that existed under the contract before that
+relationship was wrongfully terminated.  The situation is not altered by the
+fact that such a payment is frequently referred to as so many months' “salary”
+in lieu of notice.  Damages for breach of contract do not become “salary”
+because they are measured by reference to the salary that would have been
+payable if the relationship had not been terminated or because they are
+colloquially called “salary”.  The situation might well be different if an
+employee was dismissed by a proper notice and paid “salary” for the period of
+the notice even if the dismissed employee was not required to perform the normal
+duties of his position during that period.  Having regard to what I have
+said, it is clear, in my view, that the learned Trial Judge was correct in
+holding that the payment in question did not fall within section 5 of the Income
+Tax Act as applicable to the taxation year in question.  [Emphasis
+added.]  The principle laid down in Atkins,
+which was decided by the Federal Court of Appeal in May of 1976, was therefore
+accepted as authoritative both by the courts and commentators (see Krivy v.
+Minister of National Revenue, 79 D.T.C. 121 (T.R.B.); Girouard v. The
+Queen, 80 D.T.C. 6205 (F.C.A.); Beck v. Minister of National Revenue,
+80 D.T.C. 1747 (T.R.B.); Grozelle v. Minister of National Revenue, 77
+D.T.C. 310 (T.R.B.); E. C. Harris, Canadian Income Taxation (1979), at
+p. 116; R. B. Goodwin, “Personal Damages”, in Canadian Tax Foundation, Report
+of Proceedings of the Twenty-Eighth Tax Conference (1977), 813, at pp.
+820-21; also W. A. MacDonald and G. E. Cronkwright, eds., Income Taxation in
+Canada (1977 (loose-leaf)), vol. 2, at ¶17,521; and L. M. Collins, “The
+Terminated Employee:  Minimizing the Tax Bite”, in Canadian Tax Foundation, Report
+of Proceedings of the Forty-Fifth Tax Conference (1994), 31.1, at pp. 31:18
+and 31:19), although some questioned the correctness of the legal reasoning
+adopted by the Federal Court of Appeal at the time (see V. Krishna,
+“Characterization of Wrongful Dismissal Awards for Income Tax” (1977), 23 McGill
+L.J. 43).  P. W. Hogg and J. E. Magee, in their recent textbook Principles
+of Canadian Income Tax Law (1995), at pp. 164-65, address this historical
+reality in these words:                     Before
+1978, if the departing employee sued the employer for wrongful dismissal and
+recovered damages, then the damages would be received free of tax.  This was
+because an award of damages for breach of contract (or for a tort or other
+cause of action) is not income for tax purposes.  This was so, even though the
+amount of a damages award for wrongful dismissal would be computed by reference
+to exactly the same considerations (that is, the amount of salary that would
+have been paid during a required period of notice) as would be applied to the
+computation of a consensual severance payment.  Since court-awarded damages
+were free of tax, it was also held that an out-of-court settlement of a
+wrongful dismissal action also escaped tax.  23               The position taken by the courts
+towards such payments was clearly accepted by the Minister of National
+Revenue.  In Interpretation Bulletin IT-365, dated March 21, 1977, and entitled
+“Damages, Settlements, and Similar Receipts”, it is stated:  Receipts
+in Respect of Termination of Employment  2.                An
+amount that a taxpayer receives on the termination of his employment may
+consist of many components such as amounts in respect of salaries, accumulated
+leave credits, retiring allowances, compensation for loss of job opportunity or
+for lack of adequate or reasonable notice, or other similar amounts.  That part
+of the amount that represents salary or wages that the taxpayer would have
+received under the contract is taxable pursuant to the provisions of section 5
+of the Act.  The portion of the amount that is damages for breach of
+contract or loss of future job opportunity is not taxable.  It is a
+question of fact whether all or some portion of the amount received is on
+account of salary, retiring allowance, or an obligation arising out of an
+agreement.  For example a taxpayer may be dismissed with proper notice and be
+paid “salary” (which would be taxable) for the period of notice even if the
+dismissed employee was not required to perform the normal duties of his
+position during that period.  On the other hand, the fact that damages may
+be calculated by reference to salary that would have been payable if the
+relationship had not been terminated or because they are colloquially called
+“salary” does not alter the character of the payments to one of “salary”.  [Emphasis
+added.]  24               It was also settled that such
+payments did not constitute retiring allowances as contemplated by the Act. 
+The definition of “retiring allowance” was different then and read:                     248.  (1)  . . .  “retiring
+allowance” means an amount received upon or after retirement from an office or
+employment in recognition of long service or in respect of loss of office or
+employment (other than a superannuation or pension benefit), whether the
+recipient is the officer or employee or a dependant, relation or legal
+representative;  At that time, retiring allowances
+related only to payments made by an employer following voluntary cessation of
+employment on the part of the ex-employee or again following cessation upon the
+arrival of a condition agreed upon by the parties, thus excluding from the
+scope of the definition payments made by the employer in pursuance of a
+judicial order or in settlement of pending or threatened litigation following
+unilateral dismissal of the ex-employee.  The position adopted by the courts is
+best explained by reference to Collier J.'s reasons in Specht v. The Queen,
+[1975] F.C. 150 (T.D.), where the taxpayer had received from his ex-employer a
+payment in compensation for the consequences of the latter's unilateral
+decision to terminate employment.  There Collier J. had this to say, at p. 158:                     In
+my view, the payment here was not made upon or after the plaintiff's
+retirement.  The plaintiff did not retire or go into retirement from his
+occupation with MacMillan Bloedel within the ordinary meaning of “retire” or
+“retirement”.  That is, he did not withdraw from his employment because he had
+reached a mutually stipulated age, or generally withdraw from his occupation or
+business activity.  I have obtained some assistance on this point, in
+endeavouring to ascertain the ordinary meaning of “retirement”, from dictionary
+definitions:  The
+Shorter Oxford English Dictionary (3rd ed. rev):  “withdrawal from occupation or business activity”  The
+Living Webster (1st
+ed.):  “retire” “to withdraw from business or active life”.                     The
+contract of employment in this case (Exhibit 1) uses the words “retire” and
+“retirement” in clauses 1 and 2.  Age 65 was stipulated, but extensions could
+be agreed upon.  In my view, “retirement” was used by the parties in its
+ordinary meaning as set out above:  a cessation of or withdrawal from work
+because of an age stipulation or because of some other condition agreed between
+employer and employee.  Although Collier J. did not refer to
+any authority on the issue, his position was consistent with the jurisprudence
+applicable at that time; see No. 45 v. Minister of National Revenue, 52
+D.T.C. 72 (T.A.B.); Larson v. Minister of National Revenue, 67 D.T.C. 81
+(T.A.B.); and Jones v. Minister of National Revenue, 69 D.T.C. 4
+(T.A.B.); see also Goodwin, supra, at pp. 829-32; B. G. Hansen,
+"The Taxation of Employees", in B. G. Hansen, V. Krishna and J. A.
+Rendall, eds., Canadian Taxation (1981), 117, at p. 160; and A. R. A.
+Scace, The Income Tax Law of Canada (4th ed. 1979), at p. 63.  Collier
+J. reiterated his position in Atkins, and applied the reasoning laid
+down in Specht.  The Federal Court of Appeal did not deal with the issue
+in its reasons because, apparently, the Crown had abandoned the retiring
+allowance argument on appeal:  Goodwin, supra, at p. 830, and Krishna,
+“Characterization of Wrongful Dismissal Awards for Income Tax”, supra,
+at p. 53.  25               Here again, Interpretation
+Bulletins offer some helpful hindsight.  The Minister wrote, in Interpretation
+Bulletin IT-337R, dated November 19, 1979, and entitled "Retiring
+Allowances":  1. 
+Amounts received by a former employee arising out of or in consequence of the
+termination of employment are usually included as income from that employment
+under subsection 5(1) alone or together with paragraph 6(3)(b) (see IT-196R),
+or as a retiring allowance under subparagraph 56(1)(a)(ii).  One common
+exception is where the payment constitutes damages in respect of a breach of the
+contract of employment by the former employer.  [Emphasis added.]  26               Clearly then, at the end of the
+1970s, it had been settled and accepted by all, including the Minister of
+Revenue, that damages received by an employee, from his ex-employer, as a
+result of the latter's cancellation of the employment contract, did not constitute
+income from office or employment taxable under s. 5(1) or a retiring allowance
+taxable under s. 56(1)(a)(ii) of the Act.  27               This, without doubt, constitutes
+the mischief Parliament intended to remedy in 1979 when it amended the Act and
+introduced the concept of “termination payments”.  Termination payments were
+rendered taxable through s. 56(1)(a)(viii) and were defined in s. 248(1)
+in the following manner:                     248.  (1)  . . .  “termination
+payment”, for a taxation year, means an amount equal to the lesser of  (a) 
+the aggregate of all amounts each of which is an amount received in the year in
+respect of a termination of an office or employment, whether or not received
+pursuant to an order or judgment of a competent tribunal, other than  (i) 
+an amount required by any provision of this Act (other than subparagraph 56(1)(a)(viii))
+to be included in computing the income of a taxpayer for a year,  (ii) 
+an amount in respect of which an election has been made under subsection 40(1)
+of the Income Tax Application Rules, 1971, and  (iii)
+an amount received in the year as a consequence of the death of an employee,
+and  (b)
+the amount by which 50% of the aggregate of all amounts each of which is the
+amount that may reasonably be considered to be the employee's salary, wages and
+other remuneration from an office or employment for the 12 months preceding the
+date that is the earlier of  (i) 
+the date on which the office or employment was terminated, and  (ii) 
+the date on which an agreement, if any, in respect of the termination was entered
+into  exceeds
+the amount determined under paragraph (a) for each previous year in
+respect of that termination  whether
+the recipient is the officer or employee whose office or employment was
+terminated or a dependant, relation or legal representative of the officer or
+employee;  In Interpretation Bulletin IT-365R,
+dated March 9, 1981, the Department of National Revenue stated its position on
+termination payments and emphasized that the portion of a payment exceeding the
+amount to be considered a “termination payment” under s. 248(1) was considered
+to be a non-taxable benefit.  This is consistent with the fact that before this
+amendment, amounts such as those received by Mr. Schwartz were not taxable
+under the Act.  28               Parliament again addressed the
+issue in 1983 by making termination payments of this kind taxable as retiring
+allowances.  To that end, s. 56(1)(a)(viii) and the definition of
+“termination payment” found in s. 248(1) were repealed, and the definition of
+“retiring allowance” was amended in a form that is substantially the same as
+the definition applicable to this appeal.  The purpose of this second series of
+amendments was to somehow broaden the scope of the Act with respect to such
+payments, which became fully taxable, as opposed to the partial taxability of
+termination payments.  29               As will become evident throughout
+these reasons, this historical perspective must be steadily kept in mind in
+considering the proper scope and the applicability to the case at bar of the
+provisions relied upon by the Minister in assessing the compensation received
+by Mr. Schwartz.  I, therefore, turn to the specific grounds relied upon by the
+Crown before our Court.  B.  The Taxability of the
+Compensation Received by Mr. Schwartz  30               As I noted at the outset, the
+Minister argued that the amount of compensation relating to lost salary and
+stock options ($342,000) constitutes income from a source taxable under
+the general provision of s. 3(a) of the Act, such source being the
+contract of employment.  I pause here to mention that what the Crown argued
+before us differs somewhat from the approach adopted by the Federal Court of
+Appeal.  Mahoney J.A. found that $342,000 of the $360,000 was income from
+employment since it had been received by Mr. Schwartz to compensate for loss of
+moneys that, if duly received, would have constituted income from employment
+taxable under s. 5(1).  Before us, the Crown did not argue that this amount
+constitutes income from employment.  It first submitted that the application of
+the surrogatum principle, developed in the London & Thames
+case, supra, leads to the conclusion that $342,000 of the $360,000
+received by Mr. Schwartz must be characterized as income from a source, since
+it compensates Mr. Schwartz for loss of moneys that, if received, would have
+constituted income from a source.  The Minister then identifies that source as
+being the employment contract, a source other than the five enumerated in s. 3(a)
+and the “other sources” provided for in Subdivision d of Division B of Part I
+of the Act.  The difference lies in the Minister's argument relating to the
+specific source of the damages received by the appellant.                     (1)  Income from
+a Source:  Taxability under Section 3(a) of the Act  31               In order to deal with the
+substance of the Crown's main argument, it is necessary to analyze the
+correctness of the premise on which it is based.  This requires us to deal with
+the Federal Court of Appeal's decision to reconsider Rip J.T.C.C.'s finding
+regarding the apportionment that was made by the parties of the compensation
+received by Mr. Schwartz.                     (a)  The Finding
+of Fact  32               It has long been settled that
+appellate courts must treat a trial judge's findings of fact with great
+deference.  The rule is principally based on the assumption that the trier of
+fact is in a privileged position to assess the credibility of witnesses'
+testimony at trial.  Lord Shaw thus explained the underlying  principles of the
+rule in Clarke v. Edinburgh and District Tramways Co., [1919] S.C.
+(H.L.) 35, at pp. 36-37:                     When
+a Judge hears and sees witnesses and makes a conclusion or inference with
+regard to what is the weight on balance of their evidence, that judgment is
+entitled to great respect, and that quite irrespective of whether the Judge
+makes any observation with regard to credibility or not.  I can of course quite
+understand a Court of Appeal that says that it will not interfere in a case in
+which the Judge has announced as part of his judgment that he believes one set
+of witnesses, having seen them and heard them, and does not believe another. 
+But that is not the ordinary case of a cause in a Court of justice.  In Courts
+of justice in the ordinary case things are much more evenly divided; witnesses
+without any conscious bias towards a conclusion may have in their demeanour, in
+their manner, in their hesitation, in the nuance of their expressions, in even
+the turns of the eyelid, left an impression upon the man who saw and heard them
+which can never be reproduced in the printed page.   33               The courts have thus adopted a
+general rule concerning situations where an appellate court will be justified
+in intervening in a trial judge's findings of fact and substituting its own
+assessment of the evidence presented at trial.  The generally accepted
+formulation of the applicable standard is as stated by Ritchie J. in The
+Ship “Kathy K”, supra, where, after reviewing the relevant
+authorities, he wrote, at p. 808:  These
+authorities are not to be taken as meaning that the findings of fact made at
+trial are immutable, but rather that they are not to be reversed unless it can
+be established that the learned trial judge made some palpable and
+overriding error which affected his assessment of the facts.  While the
+Court of appeal is seized with the duty of re-examining the evidence in order
+to be satisfied that no such error occurred, it is not, in my view, a part of
+its function to substitute its assessment of the balance of probability for the
+findings of the judge who presided at the trial.  [Emphasis added.]  This Court has also held, in Beaudoin-Daigneault,
+supra, at pp. 8-9, that an appellate court will be justified in
+disturbing the trial judge's findings of fact only if a specific and identifiable
+error made by the trial judge convinces it that the conclusion of fact reached
+is unreasonable, and not one that constitutes a mere divergence of opinion as
+to the assessment of the balance of probabilities.  Further, it was held that a
+second appellate court should only intervene in a first appellate court's
+decision to overturn findings of fact made at trial if it is convinced that the
+first appellate court's intervention was not justified.  34               What thus constitutes an error
+justifying an appellate court's intervention in the findings of fact made at
+trial?  In the present case, the respondent successfully argued before the
+Federal Court of Appeal that the trial judge had clearly omitted to consider
+documentary evidence that contradicted the appellant's testimony regarding the
+allocation made by the parties of the damages.  It is now accepted that a clear
+omission of evidence by the trier of fact is the kind of error that can and
+will justify a reconsideration of the evidence by an appellate court.  In Chartier
+v. Attorney General of Quebec, [1979] 2 S.C.R. 474, the appellant sued the
+Province of Quebec after being unjustly convicted of causing the death of
+another person during a fist fight.  The Quebec Superior Court and the Court of
+Appeal both dismissed Chartier's claim.  The trial judge, whose findings were
+endorsed by the Court of Appeal, mentioned only the depositions of the
+provincial police officers and disregarded evidence relating to the baldness of
+the true assailant which had been observed by four eyewitnesses and which had
+not been taken into account by the Quebec Police Force in preparing a composite
+sketch.  Pigeon J., for the majority, found that a reconsideration of the trial
+judge's findings of fact in that case was justified.  He stated, at p. 493:                     The
+question now is on what basis could the trial judge dismiss the claim when
+faced with these facts that are practically all established by undisputed
+documents.  Counsel for the Attorney General relies on our rule against
+interference with concurrent findings.  But this rule admits of certain
+exceptions, particularly where the courts below have misapprehended or
+overlooked material evidence.  Here it must be noted that, out of all the evidence,
+the trial judge mentioned only the depositions of the provincial police
+officers.  He did not say a word of the baldness of the true assailant, which
+was observed by four eyewitnesses, and which the Quebec Police Force did not
+take into account in preparing the composite sketch.  35               An appellate court will be
+justified in interfering with the trial judge's findings of fact if certain
+relevant evidence was not considered.  This means that the appellate court will
+be justified in conducting its own assessment of the balance of probabilities,
+taking into consideration the omitted elements.  It does not necessarily mean,
+however, that the appellate court will come to a different conclusion from that
+arrived at by the trial judge.  It could be that a reconsideration of the
+evidence, taking into consideration the omitted evidence, calls for a different
+conclusion on a given factual situation.  It could also be that the omitted
+evidence, even when considered, would not have led to a different conclusion,
+in view of the weight to be given it.  In that sense, the appellate court must,
+in order to disturb the trial judge's findings of fact, come to the conclusion
+that the evidence in question and the error made by the trial judge in disregarding
+it were overriding and determinative in the assessment of the balance of
+probabilities with respect to that factual issue.  36               This Court has also developed
+principles to guide a second appellate court's role regarding findings of fact
+made by the trial judge that have been overturned by a first appellate court. 
+In Beaudoin-Daigneault, supra, Lamer J., as he then was, referred
+to this Court's decision in Demers v. Montreal Steam Laundry Co. (1897),
+27 S.C.R. 537, at pp. 538-39, where Taschereau J. stated what was subsequently
+held to be the governing principle on the power of a second appellate court to
+reconsider a first appellate court's decision to disturb a finding of fact made
+by the trial judge:  For
+it is settled law upon which we have often acted here, that where a judgment
+upon facts has been rendered by a court of first instance, and a first court of
+appeal has reversed that judgment, a second court of appeal should interfere
+with the judgment on the first appeal, only if clearly satisfied that it is
+erroneous;  [Emphasis added.]  Seventy years later, Fauteux J., in Dorval,
+supra, at p. 294, shed some light on the scope and meaning of Taschereau
+J.'s reasons in Demers.  Commenting on the above cited excerpt, he
+wrote:  [translation]  That is the rule followed
+in this Court and applied again recently in Pelletier v. Shykofsky,
+[1957] S.C.R. 635.  Thus, in order to intervene in this case, it would be
+necessary to be clearly satisfied that the judgment of the Court of Appeal is
+erroneous, either with respect to the reason for its intervention or with
+respect to its assessment of the evidence in the record.  [Emphasis added.]   37               In my view, nothing justifies a
+second appellate court in showing that kind of deference to the assessment of
+the balance of probabilities made by the first appellate court.  If the second
+appellate court agrees that the trial judge made some kind of error that
+justifies intervention, it should be free to reconsider the evidence and
+substitute its own findings of fact for that of the first court of appeal's if
+disagreement occurs.  The first appellate court is not in a more advantageous
+or privileged position than the second court of appeal in assessing the
+evidence.  It does not see or hear the witnesses testifying, nor benefit from
+the general insight that comes from participating at the trial.  Moreover,
+judicial policy concerns referred to earlier regarding a trial court's role
+would obviously not justify deference towards the assessment made by an
+appellate court.  There is therefore no reason to impose any duty of deference
+on a second court of appeal in those specific circumstances.  38               With that in mind, I now move on
+to a consideration of the factual issue.  The essence of the Crown's argument,
+before the Federal Court of Appeal and this Court, is that Rip J.T.C.C. erred
+because in assessing the evidence on the question of apportionment, he failed
+to consider evidence which contradicted Mr. Schwartz's testimonial evidence. 
+Rip J.T.C.C. found that the amount received by Mr. Schwartz in compensation was
+mostly for mental distress suffered as a result of the termination of the
+contract and that no specific allocation had been agreed upon by the parties.
+In the Federal Court of Appeal's opinion, that contradictory evidence consisted
+in the June letters, in which the parties' solicitors made offers to settle the
+litigation and calculated the proposed amounts by reference to lost salary and
+stock options.  39               To find that Rip J.T.C.C. erred in
+overlooking contradictory evidence on the allocation made by the parties of the
+settlement amount, one must obviously first be convinced that the June letters
+in fact do constitute evidence as to the allocation made by the parties
+of the settlement amount and that such evidence is in contradiction of Mr.
+Schwartz's testimonial evidence.  I do not think that is the case.  40               The June letters certainly do
+constitute evidence that is relevant to this litigation.  They establish that
+in arriving at the final settlement amount of $400,000, both Dynacare and Mr.
+Schwartz considered losses of salary and stock options, thereby supporting the
+appellant's testimony on this point.  In that sense, the June letters are
+evidence of the fact that the amount of $360,000 is composed, at least in part,
+of amounts paid to Mr. Schwartz in compensation for losses of salary and stock
+options.  But can they be considered evidence as to what portion of the
+$360,000 was allocated to such losses?  41               A global analysis of the evidence
+on the issue convinces me that this is not the case.  There is no evidence that
+the $267,000 offered by Dynacare for the stock options was accepted by the
+appellant.  Nor is there any evidence that the $75,000 claimed by the appellant
+for lost salary was agreed upon by Dynacare.  The letters were written in June,
+while the final release was signed by the parties at the end of August.  In
+cross-examination, Mr. Schwartz gave the following testimony as to how the
+parties arrived at the final settlement amount:  Q.And
+at that time, in [the October 6, 1988] letter, you were offered $75,000?  A.That
+is correct.  Q.You
+didn't agree with that sum of money?  A.That
+is correct.  Q.You
+thought you were entitled to more?  A.That
+is correct.  Q.And
+you felt that the income that you'd lost as a result of Dynacare's breaking
+this contract was greater than $75,000?                                                                     . . .  Q.In
+the colloquial sense, money that you lost, it was worth more than $75,000?   Q.And
+you put in a counter-offer of $400,000?  A.That's
+correct.   A.I
+would say that that's true in the very broadest sense of the word.  I know that
+my counsel and I and, in fact, counsel for Dynacare struggled to find some way
+of finding a number that one could rationalize because this involved a number
+of factors, as I mentioned earlier.  My view is, in the end, we never did and
+never could and the number was, in some sense, picked from the air.  Q.I'd
+just like you to flip to Tab 9, please, Mr. Schwartz, pages 33 and 34.  That is
+a copy of the letter from your lawyer?  A.Yes.  Q.At
+the top of page 34, there is a discussion there about, “apart from the shares,
+he is entitled to $75,000 for lost income”.  A.That's
+all correct.  Q.So
+that was part of the way in which the amount was calculated? That was taken
+into account?  A.As
+I said, I think it was taken into account in the broadest sense.  It was part
+of the hurly-burly of the discussions.  But, ultimately, it didn't seem to me
+that that became terribly relevant.  Q.The
+final amount you actually did settle on was $360,000 plus costs for $40,000?  A.That's
+correct.  It is difficult to see how the
+solicitors' letters could be seen as constituting evidence as to apportionment
+when Mr. Schwartz clearly testified to the contrary and Rip J.T.C.C. made no
+negative finding as to Mr. Schwartz's credibility.  It is also noteworthy that
+the record at trial reveals that the Minister did not even argue that the
+letters constituted evidence as to apportionment contrary to Mr. Schwartz's
+testimony.  Logically, the Minister should not have the burden of presenting,
+in every case where the apportionment of a general award is at issue, specific
+evidence amounting to an explicit expression of the concerned parties'
+intention with respect to that question.  However, there must be some
+evidence, in whatever form, from which the trial judge will be able to infer,
+on a balance of probabilities, which part of that general award was intended to
+compensate for specific types of damages.  I believe that the solicitors'
+letters, considered in the global evidentiary context of the case at bar, are insufficient
+to serve as a basis for such an inference.   43               As mentioned earlier, the
+conclusion that the Federal Court of Appeal was wrong in interfering with the
+trial judge's finding of fact respecting apportionment disposes of the
+Minister's main argument.  This is so because in order to find that some of the
+amount received by Mr. Schwartz was taxable under s. 3(a) as income from
+the employment contract, one must be able to identify what portion of the $360,000
+was paid to Mr. Schwartz in compensation for amounts that he would have been
+entitled to receive under the contract of employment.  Since the Federal
+Court of Appeal erred in its decision relating to the trial judge's assessment
+of the evidence,  the factual situation is that there is evidence that
+the amounts received by Mr. Schwartz were, in part, received to compensate for
+the loss of amounts to which he would have been entitled under the employment
+contract entered into with Dynacare and, in part, to compensate for
+embarrassment, anxiety and inconvenience suffered by the appellant, and that
+there is no evidence tending to establish what portion of the $360,000
+was allocated to which head.  Thus, absent a proper determination of that
+factual situation, the damages received by Mr. Schwartz cannot, in whole or in
+part, be found to be taxable under s. 3(a) of the Act as income from the
+employment contract.  44               As I mentioned at the beginning of
+my analysis, however, I propose to deal with the substance of the Minister's
+main contention since it raises important issues that merit attention and have
+been fully argued by the parties.  I, therefore, turn to these submissions.                     (b)  The
+Surrogatum Principle and Unenumerated Sources  45               The Crown relies on the principle
+developed by Diplock L.J. in London & Thames, supra, and
+argues that the portion of damages received by Mr. Schwartz relating to lost
+salary and stock options constitutes income from a source.  In London &
+Thames, Diplock L.J. had this to say, at p. 134:  Where,
+pursuant to a legal right, a trader receives from another person compensation
+for the trader's failure to receive a sum of money which, if it had been
+received, would have been credited to the amount of profits (if any) arising in
+any year from the trade carried on by him at the time when the compensation is
+so received, the compensation is to be treated for income tax purposes in the
+same way as that sum of money would have been treated if it had been received
+instead of the compensation.  The Minister, quite correctly, noted
+that this principle was adopted and applied by the Federal Court of Appeal in Manley,
+supra.  There the Minister had assessed damages received by the taxpayer
+in compensation for a finder's fee he was entitled to pursuant to a commercial
+agreement as constituting profit from a business taxable under s. 9(1) of the
+Act.  Mahoney J.A., for the court, after citing relevant excerpts from London
+& Thames, stated, at p. 219:                     In
+the present case, the respondent was a trader; he had engaged in an adventure
+in the nature of trade.  The damages for breach of warranty of authority, which
+he received from Benjamin Levy pursuant to a legal right, were compensation for
+his failure to receive the finder's fee from the Levy family shareholders.  Had
+the respondent received the finder's fee it would have been profit from a
+business required by that Income Tax Act, to be included in his income
+in the year of its receipt.  The damages for breach of warranty of authority
+are to be treated the same way for income tax purposes.  In the present case, the Federal Court
+of Appeal applied this principle and found that, since part of the damages
+received by the appellant replaced lost salary and stock options which, if they
+had been paid to Mr. Schwartz, would have constituted income from employment
+taxable under s. 5(1), such damages had to be treated in the same manner for
+tax purposes, i.e., as income from office or employment taxable under s. 5(1)
+of the Act.  46               The solution arrived at by the
+Federal Court of Appeal is in contradiction with the findings in the Atkins
+case, supra, where the same court held that such damages could not be
+characterized as income from office or employment under s. 5(1).  The
+correctness of the conclusion arrived at in Atkins was reaffirmed in
+1984 by the Federal Court of Appeal in Pollock, supra, despite
+the doubts expressed in an obiter dictum by Pigeon J. in Jack Cewe
+Ltd. v. Jorgenson, [1980] 1 S.C.R. 812, at pp. 815-16.  47               However, the correctness of Atkins
+is not at issue before us since the Minister, as I have explained, is not
+arguing that the amounts are taxable as income from employment, but submits,
+rather, that they are income from an unenumerated source taxable under the
+general provision of s. 3(a) of the Act. Pigeon J., in Jack Cewe,
+had pointed out that the Federal Court of Appeal, in Atkins, had not
+considered whether such amounts were alternatively taxable under the general
+provision of s. 3(a):  This
+Court might well disagree with the conclusion reached by the Federal Court of
+Appeal in Atkins.  In this respect, I will note that in that case
+consideration appears to have been given only to the question whether the
+damages for wrongful dismissal were income “from an office or employment”
+within the meaning of ss. 5 and 25 of the Income Tax Act (R.S.C. 1952). 
+No consideration appears to have been given to the broader question whether
+they might not be income from an unspecified source under the general provision
+of s. 3.  48               I pause here again to reaffirm
+what was implied by Pigeon J. in Jack Cewe, that s. 3(a) does
+contemplate the possibility that income arising from sources other than those
+enumerated in s. 3(a) and Subdivision d of Division B of Part I of the
+Act may nonetheless be taxable.  Parliament has stated very clearly in that
+section that the five sources identified in s. 3(a) do not constitute an
+exhaustive enumeration.  This is evident from the emphasized words in the
+paragraph, which I here reproduce:                     3.  . . .                     (a) 
+determine the aggregate of amounts each of which is the taxpayer's income for
+the year (other than a taxable capital gain from the disposition of a property)
+from a source inside or outside Canada, including, without restricting the
+generality  of the foregoing, his income for the year from each office,
+employment, business and property;  [Emphasis added.]  Mr. Schwartz argues that the sources
+of income other than those contemplated in s. 3(a) are the “other
+sources” referred to in Subdivision d of Division B of Part I of the Act and
+relies on this statement by E. C. Harris, Canadian Income Taxation (4th
+ed. 1986), at p. 99:  While
+the Act recognizes that there may be other sources of income than [those
+specifically provided for in s. 3(a)], the case law under the former Act
+suggests that the only other sources of income and loss that are likely to be
+recognized are those that are specifically recognized in the Act.  However, this conclusion disregards
+the fact that Parliament, in the introductory part of s. 56(1) of the Act, made
+clear that the enumeration that followed was not to be interpreted as
+restricting the generality of s. 3:                     56.  (1)  Without restricting the
+generality of section 3, there shall be  included in computing the income
+of a taxpayer for a taxation year. . . .  [Emphasis added.]  49               Mr. Schwartz also submitted that,
+for policy reasons, an interpretation to the contrary would defeat the purpose
+and fundamental structure of the Act.  However, as noted by Krishna, similarly
+valid policy concerns can be invoked to support an interpretation to the
+contrary.  In his textbook The Fundamentals of Canadian Income Tax, supra,
+at pp. 129-30, he writes:  The
+better view is that the named sources (office, employment, business, and
+property) are not exhaustive and income can arise from any other unnamed
+source.  Hence, income from any source inside or outside Canada should be
+taxable under paragraph 3(a) of the Act.  This is justifiable both on
+the basis of the language of the statute and on policy grounds.  To the extent
+that the income tax is based on the ability to pay, all accretions to wealth of
+an income nature are a measure of that ability and should be taxable regardless
+of source.  [Emphasis added.]  50               In any event, policy concerns such
+as those raised by the appellant should not and cannot be relied on in
+disregard of Parliament's clearly expressed intention.  In s. 3(a), when
+Parliament used the words “without restricting the generality of the
+foregoing”, great care was taken to emphasize that the first step in
+calculating a “taxpayer's income for the year” was to determine the total of
+all amounts constituting income inside or outside Canada and that the
+enumeration that followed merely identified examples of such sources.  The
+phrasing adopted by Parliament, in s. 3(a) and in the introductory part
+of s. 56(1) is probably the strongest that could have been used to express the
+idea that income from all sources, enumerated or not, expressly provided
+for in Subdivision d or not, was taxable under the Act.  51               This interpretation is also
+consistent with the approach adopted by this Court in the few other cases where
+this question was at issue.  In Curran v. Minister of National Revenue,
+[1959] S.C.R. 850, the taxpayer had received a $250,000 payment by a third party
+in return for which he was to resign from his employment and start working for
+another company.  The payment did not constitute income from employment, since
+it had not been paid by the taxpayer's employer, but was assessed as
+constituting “income from a source” under the general provision of s. 3 of the
+Act.  This assessment was upheld by the Exchequer Court of Canada (57 D.T.C.
+1270).  The relevant provisions found in s. 3 of the Act were, at that time,
+similar to those found in s. 3(a) in today's version of the Act:                     3.  The income of a taxpayer for a
+taxation year for the purposes of this Part is his income for the year from all
+sources . . . and without restricting the generality of the
+foregoing, includes income for the year from all  (a)               businesses                    (b)   property,
+and                    (c)   offices
+and employments.  Dumoulin J., after concluding that the
+impugned payment was in the nature of income, held that it was taxable.  He
+stated, at p. 1277:                     For
+reasons somewhat differing from those propounded by respondent, I agree that
+the sum of $250,000 constitutes income.                      Now
+the controlling and paramount enactment of sec. 3 defining the income is “the
+annual net profit or gain or gratuity.” Having said so much the statute
+proceeding by way of illustration, but not by way of limiting the foregoing
+words, mentions seven different classes of subjects which  cannot be taken as
+exhaustive since it provides, by what has been called the omnibus clause, a
+very material addition reading “and also the annual profit or gain from any
+other sources.” The words “and also” and “other sources” make the above
+illustration absolutely refractory to any possibility of applying the doctrine
+of ejusdem generis set up at the hearing. The balance of the paragraph
+is added only ex majori cautelâ . . .  The net is thrown with
+all conceivable wideness to include all bona fide profits or gain made
+by the subject.                     Despite
+a lapse of years, this interpretation of section 3 is still true of the amended
+text as it read in 1951.                     In
+very wide terms, section 3 renders taxable “income for the year from all sources
+and without restricting the generality of the foregoing . . .”                     Therefore,
+this controversial payment meets, I believe, the statutory meaning of income
+for the year from a source other than those particularized by subsections (a),
+(b) and (c) and was properly assessed as such.  [Emphasis in original.]  This decision was later confirmed by
+this Court.  More recently, in Canada v. Fries, [1989] 3 F.C. 362, the
+Federal Court of Appeal expressly recognized that income from unenumerated
+sources was taxable under the general provision of s. 3(a) of the Act. 
+In that case, the taxpayer was contesting the Minister's assessment, including
+in his yearly income strike pay he had received from his union.  The court
+dismissed the taxpayer's claim and found that the amounts were taxable as
+constituting income from a source within the purview of s. 3(a) of the
+Act.  Our Court, however, while implicitly holding that income from
+unenumerated sources was in fact taxable under the general provision of s. 3(a)
+of the Act, reversed this decision on the basis that the payments were not in
+the nature of “income . . . from a source” within the meaning of s.
+3(a); see Canada v. Fries, [1990] 2 S.C.R. 1322.  52               In the case at bar, I do not think
+the Minister's argument should be accepted.  In order to determine if a
+specific amount is taxable under the general provision of s. 3(a) of the
+Act, various considerations should be taken into account.  Without providing a
+list of such considerations or attempting to suggest an approach to taxation
+under the general provision of s. 3(a) in an exhaustive way, I note that
+one must obviously go back to the concept of income and consider the whole
+scheme of the Act in order to properly analyze the issue in a given case.  In
+the present case, accepting the argument made by the Crown would amount to
+giving precedence to a general provision over the detailed provisions enacted
+by Parliament to deal with payments such as that received by Mr. Schwartz
+pursuant to the settlement.  53               As indicated earlier, Parliament
+adopted a specific solution to a specific problem that resulted from a number
+of rulings by the courts respecting the taxability of payments similar to the
+one received by the appellant.  Under these rulings, damages paid with respect
+to wrongful dismissal were not taxable as income from office or employment
+under s. 5(1); nor were they taxable as constituting retiring allowances.  The
+Crown had at that point many options.  The Minister could have argued that such
+damages were taxable as income from a source under the general provision in s.
+3(a) of the Act.  It could also have sought an amendment to the Act
+making such payments expressly taxable as income from office or employment. 
+But neither of these courses was taken.  Instead, the Act was amended twice so
+that such amounts could be taxable under s. 56 as income from “another”
+source.  First, it was provided that termination payments were taxable.  Then,
+the Act was amended to make such a payment taxable as constituting a retiring
+allowance.  It is thus pursuant to these provisions that taxability should be
+assessed.  To do otherwise would defeat Parliament's intention by approving an
+analytical approach inconsistent with basic principles of interpretation.  54               This Court has always refused to
+interpret the Act in such a manner.  For example, in The Queen v. Savage,
+[1983] 2 S.C.R. 428, the taxpayer received $300 from her employer as a prize
+for achievement.  Section 56(1)(n) of the Act provided that such gifts,
+when worth over $500, constituted taxable income.  The prize was not,
+therefore, caught by this provision.  The Minister, however, argued that the
+amount also fell within the purview of s. 6(1)(a) of the Act as a
+general benefit, and as such was taxable as income from an office or
+employment.  Dickson J., as he then was, rejected this argument.  At page 446,
+he stated:  If a
+prize under $500 would still be taxable under ss. 5 and 6, it would have to
+follow on the Crown's argument that a prize under $500 would equally be taxable
+under s. 3.  That cannot be right.  That would mean that a prize over $500
+would be taxable under s. 56(1)(n) and a prize up to $500 would be
+taxable under s. 3.  The $500 exclusion in s. 56(1)(n) would never have
+any effect.  It seems clear that the first $500 of income received during the
+year falling within the terms of s. 56(1)(n) is exempt from tax.  Any
+amount in excess of $500 falls under s. 56(1)(n) and is taxable
+accordingly.  If that is not the effect, what purpose is served by the
+subsection?  The situation here is analogous.  To
+find that the damages received by Mr. Schwartz are taxable under the general
+provision of s. 3(a) of the Act would disregard the fact that Parliament
+has chosen to deal with the taxability of such payments in the provisions of
+the Act relating to retiring allowances.  It is thus to those provisions that I
+will turn in assessing taxability.                     (2)  Retiring
+Allowance:  Taxability under Section 56(1)(a)(ii)  55               Before this Court, the Crown
+argued, alternatively, that the damages received by Mr. Schwartz were taxable
+under s. 56(1)(a)(ii) of the Act as constituting a retiring allowance. 
+Both courts below refused to find these amounts could be so characterized, although
+the Crown abandoned this argument before the Federal Court of Appeal.  At issue
+is whether the damages agreed to were received by Mr. Schwartz “in respect of a
+loss of an office or employment” within the meaning of para. (b) of the
+definition of “retiring allowance” found in s. 248(1) of the Act.  Section
+248(1) also defines the words “employment” and “employee”.  56               In the recent case of Québec
+(Communauté urbaine) v. Corp. Notre-Dame de Bon-Secours, [1994] 3 S.C.R. 3,
+my colleague Gonthier J. clarified the proper rules governing the
+interpretation of tax legislation.  After explaining the underlying principles
+of the traditional rule providing for a strict construction of fiscal statutes,
+he analyzed the evolution that had occurred on the issue during the past
+decade.  As he explained, at pp. 15-16, this evolution was the logical
+consequence of the recognition of the social and economic purposes of such
+legislation.  In light of this Court's decisions in Stubart Investments Ltd.
+v. The Queen, [1984] 1 S.C.R. 536, The Queen v. Golden, [1986] 1
+S.C.R. 209, Johns-Manville Canada Inc. v. The Queen, [1985] 2 S.C.R. 46,
+The Queen v. Imperial General Properties Ltd., [1985] 2 S.C.R. 288, and Bronfman
+Trust v. The Queen, [1987] 1 S.C.R. 32, Gonthier J. held, at p. 17:  [T]here
+is no longer any doubt that the interpretation of tax legislation should be
+subject to the ordinary rules of construction.  At page 87 of his text
+Construction of Statutes (2nd ed. 1983), Driedger fittingly summarizes
+the basic principles:  “. . . the words of an Act are to be read in
+their entire context and in their grammatical and ordinary sense harmoniously
+with the scheme of the Act, the object of the Act, and the intention of
+Parliament”.  [Emphasis added.]  (See also McClurg v. Canada,
+[1990] 3 S.C.R. 1020; Friesen v. Canada, [1995] 3 S.C.R. 103; Symes
+v. Canada, [1993] 4 S.C.R. 695, at pp. 744-51; Thibaudeau v. Canada,
+[1995] 2 S.C.R. 627; Canada v. Antosko, [1994] 2 S.C.R. 312, at p. 326.)  57               The essence of the Minister's
+argument is that “employment” as understood in s. 248(1) of the Act commences
+the moment the contract of employment is entered into by the parties,
+regardless of whether or not the employee has the obligation to provide
+services from that point.  Therefore Mr. Schwartz, by losing the benefit of the
+contract of employment entered into with Dynacare, lost “employment”, and the
+damages received fall within the purview of s. 56(1)(a)(ii) of the Act. 
+I do not think the Minister's position is correct in law, in light of the
+definitions given by Parliament to the word “employment” and of the ordinary
+meaning of the words chosen by Parliament to define this term.  The Minister's
+position is also inconsistent with the way Parliament has used the term
+"employment" in at least one other provision of the Act, while also
+being untenable when one considers the context in which the 1983 amendment was
+made.   59               Therefore, when one considers the ordinary
+meaning to be given to the definition of “employment” in the Act, a
+distinction must be made between the start of the contractual relationship
+agreed upon by the employer and the employee and the moment, according to the
+terms of the contract, at which the employee is bound to start providing
+services to the employer.  It is noteworthy that the Crown does not seriously
+contest the interpretation to be given under the ordinary meaning of the words
+Parliament chose to use.  During oral argument, counsel admitted that an
+ordinary person would find that Mr. Schwartz was not an employee of
+Dynacare when the contract was cancelled.  60               The Minister's position is also
+inconsistent with Parliament's use of the word "employment" in s.
+80.4(1) of the Act.  Section 80.4 is included in Subdivision f of Division B of
+Part I of the Act, “Rules Relating to Computation of Income”.  It provides the
+method for determining how an amount in respect of interest-free or
+low-bearing-interest loans will be characterized as a benefit taxable as income
+from office or employment under s. 6(9) of the Act, or again, in the case of
+corporations, as income from a business or property under s. 12(1)(w) of
+the Act.  For the sake of convenience, I repeat the relevant provision, while
+underlining the crucial passages:                     80.4  (1)  Where a person or partnership
+received a loan or otherwise incurred a debt by virtue of the office or
+employment or intended office or employment of an individual, or by
+virtue of the services performed or to be performed by a corporation
+carrying on a personal services business (within the meaning assigned by
+paragraph 125(7)(d)), the individual or corporation, as the case may be,
+shall be deemed to have received a benefit in a taxation year equal to that
+amount, if any, by which the aggregate of . . . .  A parallel can be drawn between the
+concept of “intended employment” of an individual and services “to be
+performed” by a corporation carrying on a personal services business, in light
+of the fact that “employment” refers to the situation of an individual being
+“in the service” of a person.  Clearly, in both cases, the intention of
+Parliament was to include within the scope of s. 80.4(1) such loans made by
+virtue of a legal relationship involving the provision of services, by an
+individual or by a corporation, regardless of whether or not the loans were
+made before the borrower became under obligation to provide any services. 
+The distinction made by Parliament is an implicit recognition that the term
+"employment" does not, in itself, have such a broad meaning.  61               It is a well-established principle
+of interpretation that words used by Parliament are deemed to have the same
+meaning throughout the same statute; see, for recent applications of the
+principle by this Court, R. v. Zeolkowski, [1989] 1 S.C.R. 1378, and Thomson
+v. Canada (Deputy Minister of Agriculture), [1992] 1 S.C.R. 385.  This, as
+all principles of interpretation, is not a rule, but a presumption that must
+give way when circumstances demonstrate that such was not the intention pursued
+by Parliament.  However, in the present circumstances, I see no reason to
+depart from that principle since, to the contrary, it confirms and is
+consistent with the ordinary meaning of the words “employment” and “retiring
+allowance” chosen by Parliament.  62               The Minister's position is also
+untenable when one considers the context in which the 1983 amendment was made. 
+The amendment made by Parliament to s. 80.4(1) of the Act was made through An
+Act to amend the statute law relating to income tax (No. 2), S.C.
+1980-81-82-83, c. 140, the same legislation by which the definition of
+“retiring allowance” was amended in 1983.  If Parliament had wanted to include
+as retiring allowances payments made in respect of the cancellation of an
+employment contract occurring before the employee had become under obligation
+to provide services to the employer, it would, as counsel for the appellant
+argued, have specifically referred to the notion of prospective or intended
+employment as it did in s. 80.4(1).  This argument seems to me to be compelling
+and clearly establishes that the objective Parliament sought by amending the
+definition of "retiring allowance" was limited to termination of the
+employment relationship once the employee had come under the obligation to
+provide services to the employer.  63               The $360,000 received by Mr.
+Schwartz cannot, therefore, be considered a retiring allowance.  As I have
+explained, “loss of employment” cannot occur before Mr. Schwartz became under
+obligation to provide services to Dynacare because he could not, before that
+moment, have been “in the service” of his future employer.  V.  Disposition  64               For all these reasons, I would
+allow the appeal and restore the decision of the Tax Court of Canada with costs
+throughout.                     The reasons of
+Sopinka, Iacobucci and Major JJ. were delivered by   65               Major
+J. -- I agree with the conclusion reached by La Forest J. but, with
+respect, think his reasons go beyond those necessary to decide this appeal.  I
+agree that on a plain meaning, s. 56(1)(a)(ii) of the Income Tax Act,
+R.S.C. 1952, c. 148 (now R.S.C., 1985, c. 1 (5th Supp .)), does not provide for
+the taxation of settlements for loss of intended employment.  I agree as well
+that there was no factual foundation on which to argue that the settlement
+could be taxed under s. 3(a) of the Income Tax Act as income from
+the employment contract.  66               I do not agree with his conclusion
+on the taxation of income from unenumerated sources.  Since the appeal was
+properly disposed of on other grounds, I do not think it was necessary to
+discuss this issue.  Although La Forest J. concluded that the settlement in
+this case could not be taxed under s. 3(a), his obiter dicta
+indicate that unenumerated sources are as a general matter taxable under s. 3(a). 
+With respect, I disagree with my colleague on this point because I do not
+believe it is either necessary or desirable to decide the question.  Given the
+conclusion reached in this case, it would seem preferable to avoid deciding
+whether, in theory, the Minister can tax on sources not specifically identified
+in the Act.  I say this because a number of arguments can be and have been
+advanced on why this is not necessarily the case.  I will briefly discuss
+these.  67               Section 3(a) ostensibly
+permits taxation of income from any source.  The argument for the Minister,
+which is supported by the literal wording of the section, is that "office,
+employment, business and property" are only examples of sources
+which may be taxed.  My colleague quotes with approval from The Fundamentals
+of Canadian Income Tax (4th ed. 1992), where Professor V. Krishna states
+that "all accretions to wealth of an income nature are a measure of [the]
+ability [to pay] and should be taxable regardless of source" (p. 130).  68               However, a literal adoption of
+this position would arguably constitute a dramatic departure from established
+tax jurisprudence.  It has long been recognized that not all "accretions
+to wealth" are included as income.  Inheritances and gifts are
+"accretions to wealth" but are nevertheless not taxed because they
+are not income from employment, property, or business.  Profits from hobbies
+are accretions to wealth, but they, too, are not taxed for the same reason.  69               If s. 3(a) were applied
+literally to provide for taxation of income from any source, then again it is
+arguable the existing jurisprudence would be placed in jeopardy.  Despite the inclusive
+language of ss. 3(a) and 56, many observers have pointed out that
+Canadian courts have always recognized that monies which do not fall within the
+specifically enumerated sources are not subject to tax.  For example, E. C.
+Harris states in Canadian Income Taxation (4th ed. 1986), at p. 99:  While
+the Act recognizes that there may be other sources of income than [those
+specifically listed in s. 3(a)], the case law under the former Act
+suggests that the only other sources of income and loss that are likely to be
+recognized are those that are specifically recognized in the Act.  This view is reiterated in B. J.
+Arnold, T. Edgar and J. Li, eds., Materials on Canadian Income Tax (10th
+ed. 1993), at p. 51.  After noting that the literal wording of the statute does
+not require that income be from a enumerated source, the authors state:  Nevertheless,
+Canadian courts have tended to adopt the approach of the English courts to the
+definition of income by restricting the scope of "source" to the
+traditional sources of income -- employment, business, and property -- rather
+than attempting innovatively to discover new sources of income.  To the same effect see J. A. Rendall,
+"Defining the Tax Base", in B. G. Hansen, V. Krishna and J. A.
+Rendall, eds., Canadian Taxation (1981), 59.  70               Contrary to the view of my colleague,
+accepting that unenumerated sources of income are taxable would seriously
+question a number of cases.  For example, in the long line of decisions that
+distinguish a "business" from a "hobby", it has been
+consistently held that where the activity in question falls outside of the
+definition of "business", any profits recognized are not subject to
+tax under s. 3.  This is in accordance with the restrictive approach to s. 3(a).  71               In cases where a receipt of money
+has fallen outside of s. 3 and Subdivision d of Division B of Part I of the
+Act, the money has not been taxed.  For example, in The Queen v. Savage,
+[1983] 2 S.C.R. 428, the taxpayer received $300 as a prize for achievement.  As
+a result, it fell outside of s. 56(1)(n), which provided for taxation of
+prizes over $500.  The Minister claimed that the sum was still taxable as a
+"benefit" under s. 6(1)(a).  Dickson J., as he then was,
+rejected this argument, because to do otherwise would have meant that s. 56(1)(n)
+had no meaning.  As that sum was not specifically included in the Act it was
+not taxable.  Thus one could state that that decision is inconsistent with a
+literal interpretation of s. 3(a).  72               Moreover, it could be argued that
+the structure of the Act supports the conclusion that sources may be taxed only
+if specifically recognized in the Act.  If s. 3(a) includes all income
+from any source, then there is no reason for Subdivision d of Division B of
+Part I of the Act (ss. 56 to 59.1, "Other Sources of Income"). 
+Section 56 would be left with no purpose, since all sources it lists would
+already be covered by the general opening words of s. 3(a).  However, I
+acknowledge in pointing this out that s. 56 contains disclaiming words similar
+to those found in s. 3(a).  73               La Forest J. finds support for his
+position in Curran v. Minister of National Revenue, [1959] S.C.R. 850,
+and Canada v. Fries, [1990] 2 S.C.R. 1322.  With respect, my reading of
+those cases brings me to a different conclusion.  I agree that the trial judge
+in Curran held that the payment in question was taxable under the
+general words of s. 3.  However, this Court did not approve or even mention the
+proposition that the payment could be taxed under the general provision of s.
+3.  Instead, it was held that the payment amounted to income from employment,
+since it was made in exchange for personal service.  Kerwin C.J. found,
+"the payment of $250,000 was made for personal service only and that
+conclusion really disposes of the matter..." (p. 856).   I do not agree
+that Curran is any authority for supporting taxation of unenumerated
+sources.  74               Likewise, I disagree that this
+Court in Fries implicitly held that unenumerated sources of income are
+taxable.  This judgment allowed the appeal on the basis that strike pay did not
+come within the definition of "income . . . from a source" within the
+meaning of s. 3.  If anything, this case leans against the
+proposition that unenumerated sources are taxable.  This case follows the
+tradition of excluding any sources not specifically recognized in the Act.  75               If this Court intends to conclude
+that s. 3(a) should be applied literally, and permit taxation on income
+from any source whatsoever, it should only do so in circumstances which warrant
+such a decision because such a result is of fundamental importance.  Moreover,
+as I have mentioned, so deciding can be viewed as a marked departure from
+previous tax jurisprudence.  In 1966, the Carter Commission recommended the
+extension of taxation to all sources of income and all accretions to purchasing
+power, but its recommendations were not implemented by Parliament and it is
+hardly the role of the judiciary to do so.  76               Accordingly, it is my opinion that
+this Court in this case should not answer the question of whether s. 3(a)
+permits taxation of unenumerated sources.  We should only do so when the
+question is properly and unavoidably before us.  77               I agree in all other respects with
+my colleague La Forest J. and would dispose of the appeal in the manner he
+proposes.                     Appeal allowed with
+costs.                     Solicitors for the
+appellant:  Goodman Phillips & Vineberg, Toronto.                     Solicitor for the
+respondent:  George Thomson, Toronto.   

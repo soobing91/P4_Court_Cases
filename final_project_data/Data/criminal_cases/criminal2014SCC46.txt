@@ -1,0 +1,781 @@
+  SUPREME
+COURT OF CANADA  Citation: R. v. Quesnelle, 2014 SCC 46, [2014] 2 S.C.R. 390 Date: 20140709 Docket: 35390  Between: Her
+Majesty The Queen Appellant and Vincent
+Quesnelle Respondent - and - Attorney
+General of Alberta, Canadian
+Association of Chiefs of Police, Criminal
+Lawyers’ Association of Ontario and Barbra
+Schlifer Commemorative Clinic Interveners  Coram: McLachlin C.J. and LeBel, Abella, Rothstein, Moldaver,
+Karakatsanis and Wagner JJ.  Reasons
+  for Judgment: (paras. 1 to 68) Karakatsanis J. (McLachlin C.J. and
+  LeBel, Abella, Rothstein, Moldaver and Wagner JJ. concurring)    r. v. quesnelle, 2014
+SCC 46, [2014] 2 S.C.R. 390 Her Majesty The Queen                                                                                 Appellant v. Vincent Quesnelle                                                                                        Respondent and Attorney General of Alberta, Canadian Association of Chiefs of
+Police, Criminal Lawyers’ Association of Ontario
+and Barbra Schlifer Commemorative
+Clinic                                                    Interveners Indexed as: R. v.
+Quesnelle 2014 SCC 46 File No.: 35390. 2014: March 20; 2014: July 9. Present: McLachlin C.J. and LeBel, Abella, Rothstein, Moldaver,
+Karakatsanis and Wagner JJ. on appeal from the court of appeal for ontario                     Criminal law — Evidence — Disclosure — Whether police occurrence reports prepared in the investigation of
+unrelated incidents involving a complainant or witness are “records” within the
+meaning of s. 278.1  of the Criminal Code , such that they are subject to the
+Mills regime — Whether
+the exemption for investigatory and prosecutorial records applies to all police
+occurrence reports or only those made in relation to the offence in question — Criminal Code, R.S.C. 1985, c. C-46,
+ss. 278.1  to 278.91 .                     Q
+was charged with sexually assaulting two complainants.  Before
+trial, Q made an application seeking disclosure of certain police
+occurrence reports which involved a complainant but which were not made in the
+course of the investigation of the charges against Q.  The trial judge ruled
+that the occurrence reports at issue were “records” under the Mills
+regime, specifically s. 278.1  of the Criminal Code .  As such, Q applied
+for disclosure of the occurrence reports pursuant to s. 278.3 of the Code. 
+The trial judge dismissed the application and Q was ultimately convicted.  The
+Court of Appeal allowed Q’s appeal on the basis that the police occurrence
+reports were not “records” under the Mills regime and should have been
+part of regular Crown disclosure under R. v. Stinchcombe, [1991]
+3 S.C.R. 326.  The Court of Appeal therefore ordered a new trial.                     Held: The appeal is
+allowed, the order for a new trial is set aside, and the conviction is restored
+with the sentence appeal remitted to the Court of Appeal.                     Sections 278.1  to 278.91  of the Criminal
+Code , known as the Mills regime, permit disclosure of private
+records relating to complainants and witnesses in cases involving particular
+sexual offences only where a record is likely relevant and its disclosure is
+necessary in the interests of justice.  The regime reflects Parliament’s intention to
+accommodate and reconcile the right of the accused to make full answer and
+defence with the privacy and equality rights of complainants in sexual offence
+cases.  While it governs the disclosure of “records” in
+sexual offence trials, the regime does not displace the Crown’s duty to make
+reasonable inquiries and obtain potentially relevant material in
+accordance with R. v. McNeil, 2009 SCC 3, [2009]
+1 S.C.R. 66.                     Whether
+a document counts as a “record” depends first on whether the document contains
+personal information for which there is a reasonable expectation of privacy,
+and second on whether it falls into the exemption for investigatory and
+prosecutorial documents.  Section 278.1  provides an illustrative list of some
+types of records that generally give rise to a reasonable expectation of
+privacy, but other documents will still be covered if they attract a reasonable
+expectation of privacy. Trial judges will usually assess
+reasonable expectations on the basis of the type of document at issue.  Police occurrence reports prepared in the investigation of previous
+incidents involving a complainant or witness other than the offence being
+prosecuted count as “records”
+and are subject to the Mills regime.                     Given the sensitive nature of the information frequently contained
+in such police occurrence reports, and the impact that their disclosure can
+have on the privacy interests of complainants and witnesses, there will
+generally be a reasonable expectation of privacy in such reports.  Police occurrence reports may contain
+highly sensitive material including unproven allegations and statements of
+complainants.  They may reveal family status, health information, and other
+personal details.  Most significantly, they can reveal previous instances where
+the witness or complainant has been the victim of criminal activity, including
+previous sexual assaults.  Disclosure of this information engages complainants’
+and witnesses’ “informational privacy”, the right to control how their
+information is shared.  Disclosure of this information to the accused is
+particularly likely to engage the dignity interests of complainants and
+witnesses, and to discourage victims of sexual offences from coming forward.  The
+fact that this information has already been obtained by police does not destroy
+the affected person’s interest in keeping the information private from others. 
+People are entitled to provide information to police with confidence that the
+police will only disclose it for good reason.                     The exemption for investigatory and prosecutorial records
+contained in s. 278.1  does not strip the protection of the Mills regime
+from police occurrence
+reports.  In light of the text of the provision in both
+languages, as well as its purpose, context, and the consequences of concluding
+otherwise, the trial judge was correct in deciding that the
+exemption applies only to records made in relation to the offence in question,
+and not to police occurrence reports made in the course of unrelated
+investigations. Cases Cited                     Referred
+to: R. v. Stinchcombe, [1991] 3 S.C.R. 326; R. v. McNeil,
+2009 SCC 3, [2009] 1 S.C.R. 66; R. v. O’Connor, [1995] 4 S.C.R. 411; R.
+v. Mills, [1999] 3 S.C.R. 668; R. v. Esau, [1997] 2 S.C.R. 777; R.
+v. Ewanchuk, [1999] 1 S.C.R. 330; R. v. Osolin, [1993] 4 S.C.R. 595;
+R. v. Patrick, 2009 SCC 17, [2009] 1 S.C.R. 579; R. v. Edwards,
+[1996] 1 S.C.R. 128; R. v. Tessling, 2004 SCC 67, [2004] 3 S.C.R. 432; R.
+v. Buhay, 2003 SCC 30, [2003] 1 S.C.R. 631; R. v. Dinh, 2001 ABPC
+48, 42 C.R. (5th) 318; R. v. Dyment, [1988] 2 S.C.R. 417; Escher v.
+Brazil (2009), Inter-Am. Ct. H.R. (Ser. C) No. 200; R. v. Fiddler,
+2012 ONSC 2539, 258 C.R.R. (2d) 193; R. v. McAdam (2008), 172 C.R.R.
+(2d) 27; R. v. Daoust, 2004 SCC 6, [2004] 1 S.C.R. 217. Statutes and Regulations Cited Act to amend the Criminal Code (production of records in sexual
+offence proceedings), S.C. 1997, c. 30, preamble. Canadian Charter of Rights and Freedoms,
+s. 8 . Constitution Act, 1867, s. 133 . Criminal Code, R.S.C. 1985, c. C-46, ss.
+193(1) , 278.1  to 278.91 , 278.2(2) , (3) , 278.3 , 278.5 , 278.7 . Municipal Freedom of Information and Protection of Privacy Act, R.S.O. 1990, c. M.56. Authors Cited Canada.  House of Commons.  House of Commons Debates, vol. 134,
+No. 122, 2nd Sess., 35th Parl., February 4, 1997, p. 7664. Canada.  House of Commons.  House of Commons Debates, vol. 134,
+No. 150, 2nd Sess., 35th Parl., April 7, 1997, pp. 9361-62. Gotell, Lise.  “When Privacy is Not Enough: Sexual Assault
+Complainants, Sexual History Evidence and the Disclosure of Personal Records”
+(2006), 43 Alta. L. Rev. 743. Keen, Peter Carmichael.  “Gebrekirstos: Fallout from Quesnelle”
+(2013), 4 C.R. (7th) 56. Sullivan, Ruth.  Sullivan on the Construction of Statutes,
+5th ed.  Markham, Ont.: LexisNexis, 2008.                     APPEAL
+from a judgment of the Ontario Court of Appeal (Rosenberg, Sharpe and
+MacFarland JJ.A.), 2013 ONCA 180, 114 O.R. (3d) 779, 303 O.A.C. 18, 1 C.R.
+(7th) 394, 297 C.C.C. (3d) 414, [2013] O.J. No. 1365 (QL), 2013 CarswellOnt
+3337, setting aside the accused’s convictions for sexual assault and assault
+and ordering a new trial.  Appeal allowed and convictions restored.                     Milan Rupic, for the appellant.                     Najma Jamaldin and Paul Genua, for the respondent.                     Maureen J. McGuire, for the intervener the
+Attorney General of Alberta.                     Philip Wright, Vincent Westwick and Christiane Huneault, for the intervener the Canadian
+Association of Chiefs of Police.                     Jonathan Dawe and Michael Dineen, for the intervener the Criminal
+Lawyers’ Association of Ontario.                     Susan Chapman and Joanna Birenbaum, for the intervener the Barbra
+Schlifer Commemorative Clinic.                      The judgment of the Court was
+delivered by                      Karakatsanis J. — I.         
+Overview [1]                             
+In sexual offence cases, the Criminal Code, R.S.C. 1985, c. C-46 ,
+limits the disclosure of private records relating to complainants and
+witnesses.  The relevant provisions, ss. 278.1  to 278.91 , known as the Mills
+regime, permit disclosure only where a record is likely relevant and its
+disclosure is necessary in the interests of justice.  The
+regime applies to “records” that contain personal information for which there
+is a reasonable expectation of privacy, unless they are made by persons
+responsible for the investigation or prosecution of the offence.  The
+issue on appeal is whether these provisions apply to police occurrence reports
+prepared in the investigation of previous incidents involving a complainant or
+witness and not the offence being prosecuted.  The question is whether these
+unrelated police occurrence reports count as “records” as defined in s. 278.1 ,
+such that the statutory disclosure limits apply. [2]                             
+I conclude that the Mills regime applies to police
+occurrence reports that are not directly related to the charges against the
+accused.  Privacy is not an all or nothing right. Individuals involved in a
+criminal investigation do not forfeit their privacy interest for all future
+purposes; they reasonably expect that personal information in police reports
+will not be disclosed in unrelated matters.  Moreover, while the regime exempts
+investigatory and prosecutorial records, that exemption applies only to records
+made in relation to the particular offence in question. [3]                             
+Accordingly, I agree with the trial judge that
+the unrelated police occurrence reports at issue were “records” within the
+definition of s. 278.1  and thus subject to the Mills regime.  The
+trial judge was entitled to conclude that the reports should not be disclosed.  I would allow the appeal, set aside the
+order for a new trial, and restore the conviction, remitting the sentence
+appeal to the Court of Appeal. II.      
+Facts [4]                             
+The respondent, Vincent Quesnelle, was
+charged with sexually assaulting two complainants, T.R. and L.I.  Prior to
+trial, CBC Radio aired a documentary about the complainant T.R. (a street sex worker), during which the lead investigator in this case
+indicated that she had obtained and reviewed four or five police occurrence
+reports which involved T.R. but were not made in the course of the
+investigation that resulted in the charges against the respondent.  The
+detective did not include the reports in the investigatory file. [5]                             
+The police create occurrence reports to document
+incidents to which they respond, including disturbances, requests for
+assistance, reports of alleged crimes and even medical emergencies or car
+accidents.  The reports contain police officers’ recollections and notes
+concerning the facts of the incident. III.    Judicial History A.       Ontario Superior Court of Justice [6]                             
+Before trial, the respondent made an application
+seeking disclosure of the police occurrence reports that had been reviewed by
+the detective.  The trial judge, Thorburn J., ruled that the occurrence reports
+at issue were “records” under the Mills regime for two reasons: 2009
+CanLII 73645.  First, occurrence reports contain personal information in which
+there is a reasonable expectation of privacy.  Second, the reports do
+not fall under the exception to the Mills regime in s. 278.1  because
+they are not “records made by persons responsible for the investigation or
+prosecution of the offence”: that section excludes only police records made in
+relation to the case being prosecuted.  Under the Mills regime, a
+“record” may only be disclosed to the accused if the trial judge is satisfied
+that it is likely relevant to an issue at trial and disclosure is necessary in
+the interests of justice. [8]                             
+The respondent was ultimately convicted and
+sentenced to six and a half years in jail, less credit for time served: 2010
+ONSC 3713 (CanLII).  B.       Ontario Court of Appeal, 2013 ONCA 180, 114 O.R. (3d) 779 [9]                             
+The respondent appealed his conviction and
+sentence to the Ontario Court of Appeal.  He argued that the police occurrence
+reports were not “records” under the Mills regime, and therefore should
+have been part of regular Crown disclosure under R. v. Stinchcombe,
+[1991] 3 S.C.R. 326. [10]                         
+The Court of Appeal allowed his appeal on this
+basis and ordered a new trial.  First, MacFarland J.A. concluded that
+complainants and witnesses who give information to the police have no
+reasonable expectation of privacy in police documents recording that
+information.  Second, she concluded that s. 278.1  exempts all records that are
+prepared by the investigating police service, whether or not the records are
+related to the case being prosecuted.  Thus the police occurrence reports at
+issue were not subject to the Mills regime.  The court reasoned that the
+police occurrence reports reviewed by Detective Leaver were fruits of the
+investigation, and ordered their disclosure. IV.    Analysis A.       The Principles Governing Crown Disclosure (1)      Disclosure in Criminal Cases Generally [11]                         
+The Crown has a broad duty to disclose relevant
+evidence and information to persons charged with criminal offences.  Stinchcombe,
+at pp. 336-40, provides that the Crown is obliged to disclose
+all relevant, non-privileged information in its possession or control so as to
+allow the accused to make full answer and defence.  For purposes of this “first
+party” disclosure, “the Crown” does not refer to all Crown entities, federal
+and provincial: “the Crown” is the prosecuting Crown.  All other Crown entities,
+including police, are “third parties”.  With the exception of the police duty
+to supply the Crown with the fruits of the investigation, records in the hands
+of third parties, including other Crown entities, are generally not subject to
+the Stinchcombe disclosure rules. [12]                         
+In R. v. McNeil, 2009 SCC 3, [2009]
+1 S.C.R. 66, this Court recognized that the Crown cannot merely be a passive
+recipient of disclosure material.  Instead, the Crown has a duty to make
+reasonable inquiries when put on notice of material in the hands of police or
+other Crown entities that is potentially relevant to the prosecution or the
+defence.  This Court also recognized that police have a duty to disclose,
+without prompting, “all material pertaining to its investigation of the accused”
+(para. 14) as well as other information “obviously relevant to the accused’s
+case” (para. 59). [13]                         
+In R. v. O’Connor, [1995] 4
+S.C.R. 411, at paras. 15-34, this Court established a separate disclosure
+regime for records in the hands of “third parties” that are “likely relevant”
+to an issue at trial.  Under O’Connor, an application is made to the
+court and the judge determines whether production
+should be compelled in accordance with a two-stage test.  At the first stage,
+the applicant has an onus to establish the likely relevance of the record.  At
+the second stage, the judge examines the record and determines whether, and to
+what extent, it should be produced for the accused: in the case of relevant
+information, privacy interests yield to the right to a full answer and defence. [14]                         
+Beginning in the late 1980s, it became
+commonplace in sexual offence trials for defence counsel to seek the private
+records of complainants in order to attack the complainant through invasive
+(and often inappropriate) credibility probing: House of Commons Debates,
+vol. 134, No. 122, 2nd Sess., 35th Parl., February 4, 1997.  The Mills regime,
+enacted in 1997, was a response to these practices.  The provisions of the Mills
+regime are set out in the Appendix.  The central idea, according to the
+preamble to the legislation enacting the regime, is that while production to the court
+and to the accused of personal information regarding any person may be
+necessary in order for an accused to make a full answer and defence, that
+production may breach the person’s right to privacy and equality and therefore
+the determination as to whether to order production should be subject to
+careful scrutiny;  (An
+Act to amend the Criminal Code (production of records in sexual offence
+proceedings), S.C. 1997, c. 30) The regime reflects Parliament’s
+intention to accommodate and reconcile the right of the accused to make full
+answer and defence with the privacy and equality rights of complainants in
+sexual offence cases.  In the words of Professor Lise Gotell, the regime was
+created in order to “to limit what it is that a woman/child complainant must be
+forced to reveal at trial as the price of her access to the criminal justice
+system” (“When Privacy is not Enough: Sexual Assault Complainants, Sexual
+History Evidence, and the Disclosure of Personal Records” (2006), 43 Alta.
+L. Rev. 743, at p. 745).  That approach was upheld by this Court in R.
+v. Mills, [1999] 3 S.C.R. 668, and its constitutionality is not
+challenged in this appeal. [16]                         
+Once the Crown obtains a record and determines
+that it is covered by the Mills regime, it must give notice to the
+accused: Criminal Code, s. 278.2(3) .  While the Crown may not disclose
+the contents of the record, it should in appropriate circumstances give an
+assessment of the likely relevance of a record in its possession, as well as
+indicate the basis of its relevance.  At a minimum, the Crown should advise if
+it intends to use any information contained in records protected by Mills
+as part of its case against an accused.  The Crown’s assessment that the record
+is relevant for a specific reason will likely establish a basis for the judge to
+order production to the court. [17]                         
+The mere fact that a police occurrence report
+concerns a complainant or witness is not enough to make the report relevant to
+an otherwise unrelated prosecution.  The Mills provisions echo this
+Court’s frequent warnings against relying on myths and stereotypes about sexual
+assault complainants in assessing the relevance of evidence in the context of
+sexual assault trials.  For example, the fact that a complainant has reported
+sexual violence in the recent or distant past, provides sexual services for
+money, or suffers from addiction is not, without more, enough to render a
+police occurrence report “relevant”: see, e.g., R. v. Esau, [1997] 2
+S.C.R. 777, at para. 82 (per McLachlin J., dissenting); R. v.
+Ewanchuk, [1999] 1 S.C.R. 330, at paras. 86-97 (per
+L’Heureux-Dubé J.); R. v. Osolin, [1993] 4 S.C.R. 595, at pp. 670-72
+(per Cory J.).  However, occurrence reports which raise legitimate
+questions about the credibility of the complainant or a witness, or some other
+issue at trial, will be treated as relevant. (3)      The McNeil Duties and the Mills Notice Obligation [18]                         
+The Crown’s McNeil duty to make
+reasonable inquiries and the corresponding police duty to supply relevant
+information and evidence to the Crown apply notwithstanding the Mills
+regime.  The Mills regime governs the disclosure of “records” in
+sexual offence trials, but does not displace the Crown’s duty to make
+reasonable inquiries and obtain potentially relevant material (or the
+police duty to pass on material to the Crown) under McNeil.  As an
+officer of the court and Minister of Justice, the Crown is duty-bound to seek
+justice, not convictions, and to avoid wrongful convictions, in the
+prosecutions of all offences, including sexual offences.  The Mills regime
+simply replaces the obligation to produce relevant records directly with
+an obligation to give notice of their existence: Criminal Code,
+s. 278.2(3) . B.       Are Unrelated Police Occurrence Reports “Records”? [19]                         
+The issue in this appeal is
+whether police occurrence reports prepared in the investigation of
+unrelated incidents involving a complainant or witness are “records” within the meaning of s. 278.1  of the Criminal Code ,
+such that they are subject to the Mills regime.  Section 278.1  defines
+“records” as follows: 278.1 For the purposes of sections 278.2 to 278.9, “record” means any
+form of record that contains personal information for which there is a
+reasonable expectation of privacy and includes, without limiting the generality
+of the foregoing, medical, psychiatric, therapeutic, counselling, education,
+employment, child welfare, adoption and social services records, personal
+journals and diaries, and records containing personal information the
+production or disclosure of which is protected by any other Act of Parliament
+or a provincial legislature, but does not include records made by persons
+responsible for the investigation or prosecution of the offence. [20]                         
+The determination of
+whether a document counts as a “record” involves two inquiries.  First, does
+the document contain personal information for which there is a reasonable
+expectation of privacy?  Second, does it fall into the exemption for
+investigatory and prosecutorial documents?  I consider these questions in turn. (1)      Documents Attracting a Reasonable Expectation of Privacy (a)   Section 278.1  Requires a Categorical Approach [21]                         
+Under the first step of
+the Mills regime, the trial judge makes a preliminary determination of
+whether a document is a “record” covered by the regime, without seeing the
+specific document.  Only if the judge decides that the document is likely
+relevant to an issue at trial or to the competence of a witness to testify and
+that production to the court is necessary in the interests of justice will the
+judge then have the opportunity to view and assess the particular document. 
+Therefore, the judge will usually determine whether a record “contains personal information for which there is a reasonable
+expectation of privacy”, on
+the basis of the type of document at issue. [22]                         
+The definition of “record”
+is broad and non-exhaustive.  Section 278.1  provides an illustrative list of
+some of the types of records that usually give rise to a reasonable expectation
+of privacy.  However, documents that do not fall into
+the listed categories will still be covered by the Mills regime if they
+contain information that gives rise to a reasonable expectation of privacy. [23]                         
+The question here is
+whether the trial judge committed a reversible error at the preliminary stage
+by holding that police occurrence reports relating to the complainant were
+“records” because they generally contain information that gives rise to a
+reasonable expectation of privacy.  The Court of Appeal concluded that the
+trial judge erred because the definition of “record” under s. 278.1 
+contemplates the types of personal information disclosed in the context of a
+“trust-like, confidential or therapeutic relationship” and which an individual
+would “seek to withhold from the state” (paras. 32-33).  In my view, such a
+restricted approach is not warranted. The trial judge was right to treat the
+reports as “records” under the Mills regime because the reports
+generally contain information in which there is a reasonable expectation of
+privacy. (b)   Reasonable Expectation of Privacy [24]                         
+In order for a document
+to constitute a “record” and therefore fall within the Mills regime it
+must be a “record that contains personal information for which there is a
+reasonable expectation of privacy”: s. 278.1 . [25]                         
+The appellant submits that police occurrence
+reports will often contain deeply personal and potentially embarrassing
+information, and that witnesses and complainants retain a privacy interest in
+the reports.  The subject of an occurrence report will not expect the report to
+be disclosed to impeach his or her credibility in an unrelated case. [26]                         
+The respondent agrees with the Court of Appeal
+that police occurrence reports do not “implicate the types of privacy interests
+envisioned in s. 278.1  or in Mills” (R.F., at para. 58, citing Court of
+Appeal reasons, at para. 41).  The Court of Appeal observed that the
+complainant cannot have a subjective expectation of privacy in previous
+complaints to police: she will know, at the time of making a complaint to
+police, that the information she discloses will end up in a public trial.  Moreover,
+the victim of an attack does not speak to police in the context of a
+trust-like, confidential, or therapeutic relationship. (i) 
+General Principles [27]                         
+The assessment of
+whether there is a reasonable expectation of privacy for purposes of s. 278.1 
+of the Criminal Code  draws on the jurisprudence applying s. 8  of
+the Canadian Charter of Rights and Freedoms : see Mills, at para.
+99.  That jurisprudence establishes that expectations of privacy must be
+assessed in light of the “totality of the circumstances” (R. v. Patrick, 2009 SCC 17, [2009] 1 S.C.R. 579, at para. 26; R. v. Edwards,
+[1996] 1 S.C.R. 128, at para. 45; R. v. Tessling, 2004 SCC 67, [2004] 3
+S.C.R. 432, at para. 19).  The circumstances (or nature of the relationship) in
+which information is shared are not determinative: the reasonable expectation
+of privacy is not limited to trust-like, confidential, or therapeutic
+relationships. [28]                         
+ Unlike much of the jurisprudence under s. 8  of
+the Charter , the analysis of the reasonable expectation of privacy in
+this case does not concern the right to be free from unreasonable intrusion by
+the state.  Rather, the question is whether it is reasonable to expect that the
+state will keep information that it has legitimately acquired private from
+other private individuals. [29]                         
+A reasonable
+expectation of privacy is not an all or nothing concept: Mills, at para.
+108.  A person may have a reasonable expectation that the state will not have
+access to her hotel room, even if she fully expects hotel staff to enter the
+premises: R. v. Buhay, 2003 SCC 30,
+[2003] 1 S.C.R. 631, at para. 22, discussing R. v. Dinh, 2001 ABPC
+48, 42 C.R. (5th) 318.  Equally, a person may divulge information to an
+individual or an organization with the expectation that it be used only for a
+specific purpose: R. v. Dyment, [1988] 2 S.C.R. 417, at pp.
+429-30.  The same principle applies to disclosure to the police. [30]                         
+In this case, the question is whether the
+subjects of police occurrence reports could reasonably expect the police to
+safeguard their private information, unless and until disclosure is justified. 
+After describing the information contained in the reports, I will discuss the
+privacy interests engaged by that information.  Finally, I will address the
+implications arising from the fact that the reports are in the hands of police. (ii)            
+The Information in Police Occurrence Reports [31]                         
+Police occurrence reports contain information
+disclosed to police by the persons concerned, by third parties, or obtained by
+police through search, seizure, surveillance, or information sharing. [32]                         
+This Court observed in McNeil, at para.
+19: Criminal investigative files may
+contain highly sensitive material including: outlines of unproven allegations;
+statements of complainants or witnesses — at times concerning very personal matters
+. . . . [33]                         
+Police occurrence reports may reveal family
+status, health information (including statements concerning mental health or
+the use of drugs and alcohol), and details about housing and employment.  They
+may reveal personal conflicts or details about relationships between
+individuals.  See P. C. Keen, “Gebrekirstos: Fallout from Quesnelle”
+(2013), 4 C.R. (7th) 56, at pp. 60-61.  Moreover, they very often reveal the
+extent of an individual’s engagement with the criminal justice system.  Most significantly,
+they can reveal previous instances where the witness or complainant has been
+the victim of criminal activity, including previous sexual assaults. (iii)      
+The Price of Disclosure [34]                         
+The disclosure of the
+information described above engages complainants’ and witnesses’
+“[i]nformational privacy”, “the claim of individuals, groups, or institutions
+to determine for themselves when, how, and to what extent information about
+them is communicated to others” (Tessling, at para. 23, quoting A. F.
+Westin, Privacy and Freedom (1970), at p. 7).  As L’Heureux-Dubé J.
+observed in O’Connor, at para. 119: Although it may appear trite to say so,
+I underline that when a private document or record is revealed and the
+reasonable expectation of privacy therein is thereby displaced, the invasion is
+not with respect to the particular document or record in question.  Rather, it
+is an invasion of the dignity and self-worth of the individual, who enjoys the
+right to privacy as an essential aspect of his or her liberty in a free and
+democratic society. [35]                         
+The Mills regime regulates disclosure in
+the context of a criminal trial: information that is disclosed will often be
+exposed in court.  Significantly, even where the information is not used in the
+trial, it will certainly be seen by the accused, who will often be known to the
+affected person, and whose use of the information is not subject to the legal
+oversight of the Charter  or privacy legislation that applies when such
+information is given to law enforcement.  Consequently, disclosure may involve
+a more serious violation of the complainant’s dignity than disclosure to the
+state. [36]                         
+There are tangible
+harms associated with disclosure of personal information in the context of
+prosecutions for sexual offences, particularly when information about the
+complainant is disclosed to the person accused of sexually assaulting her.  In
+the preamble to the legislation enacting the Mills regime, Parliament
+recognized “that the compelled production of personal information may deter
+complainants of sexual offences from reporting the offence to the police”. 
+Victims of sexual offences will be less likely to come forward if they know
+that doing so will entail disclosure of their past interactions with police to
+the very person who they claim has wronged them. (iv)      
+The Effect of Third Party Disclosure on
+Expectations of Privacy [37]                         
+It bears repeating that
+privacy is not an all or nothing concept; rather, “[p]rivacy interests in modern society include the reasonable
+expectation that private information will remain confidential to the persons to
+whom and restricted to the purposes for which it was divulged” (Mills,
+at para. 108).  Consequently, the fact that information about a person has been disclosed to a third
+party does not destroy that person’s privacy interests.  Because the contents
+of occurrence reports will be disclosed under certain circumstances does
+not mean that there is not a reasonable expectation of privacy in those
+records. [38]                         
+The Court of Appeal erred in concluding that the
+complainant could not have a reasonable expectation of privacy because the
+information was disclosed outside the context of a “trust-like, confidential or
+therapeutic relationship”.  While such relationships may give rise to
+heightened privacy interests, their absence is not dispositive.  Whether a person
+is entitled to expect that their information will be kept private is a
+contextual inquiry. [39]                         
+Where an individual
+voluntarily discloses sensitive information to police, or where police uncover
+such information in the course of an investigation, it is reasonable to expect
+that the information will be used for the purpose for which it was obtained:
+the investigation and prosecution of a particular crime.  Similarly, it is
+reasonable to expect individual police officers to share lawfully gathered
+information with other law enforcement officials, provided the use is
+consistent with the purposes for which it was gathered. [40]                         
+However, when the
+government divulges sensitive information to private individuals this may
+violate reasonable expectations of privacy.  For example, if police were to
+publicly broadcast a wiretap recording this would clearly constitute an
+interference with privacy (see Escher v. Brazil, Inter-American Court of
+Human Rights, judgment of July 6, 2009, series C, No. 200, at paras. 157-58) as
+well as a violation of s. 193(1)  of the Criminal Code .  To
+indiscriminately publicize the contents of police occurrence reports would
+result in similar interference. [41]                         
+That is not to say that
+all disclosures of personal information by the police unreasonably intrude upon
+privacy.  Where private information becomes part of a criminal case, the
+disclosure of that information to the court, the accused, and to the public is
+reasonable and unavoidable.  For example, police occurrence reports made in the
+course of the investigation of the offence being prosecuted must be disclosed
+under Stinchcombe. [42]                         
+But what of police
+occurrence reports that were made in connection with separate incidents, rather
+than as part of the investigation into the offence being prosecuted?  There will certainly be times when the disclosure of
+such records is necessary to ensure a fair trial.  Consequently, the Mills
+regime gives trial judges the power to disclose records under such
+circumstances.  The judge must balance the privacy of complainants and
+witnesses against ensuring the disclosure necessary to make full answer and
+defence.  However, the fact that a record might be disclosed under appropriate
+circumstances does not nullify the expectation of privacy in that record in
+general. [43]                         
+People provide information to police in order to
+protect themselves and others.  They are entitled to do so with confidence that
+the police will only disclose it for good reason.  The fact that the
+information is in the hands of the police should not nullify their interest in
+keeping that information private from other individuals. (c)   Conclusion on Reasonable Expectation of Privacy [44]                         
+Fundamentally, the privacy analysis turns on a
+normative question of whether we, as a society, should expect that police
+occurrence reports will be kept private.  Given the sensitive nature of the
+information frequently contained in such reports, and the impact that their
+disclosure can have on the privacy interests of complainants and witnesses, it
+seems to me that there will generally be a reasonable expectation of privacy in
+police occurrence reports. (d)  Personal
+Information Protected by Legislation [45]                         
+The appellant Crown
+submits that police occurrence reports are “records containing personal
+information the production or disclosure of which is protected by any other Act
+of Parliament or a provincial legislature” and are therefore “records” for
+purposes of s. 278.1 .  The trial judge held that police occurrence reports
+“contain personal information protected by provincial legislation” (2009 CanLII
+73645, at para. 18).  Given my conclusion that such reports contain information
+in which there is a reasonable expectation of privacy, it is unnecessary to
+decide whether they are protected by the Municipal Freedom of Information
+and Protection of Privacy Act, R.S.O. 1990, c. M.56. (2)      The Exemption for Investigatory and Prosecutorial Records [46]                         
+Even records that give rise to a
+reasonable expectation of privacy are not covered by the Mills regime if
+they fall into the exemption contained in s. 278.1 :                  278.1 . . .
+“record” . . . does not include records made by persons responsible
+for the investigation or prosecution of the offence.             278.1 . . . N’est pas visé par la
+présente définition le dossier qui est produit par un responsable de l’enquête
+ou de la poursuite relativement à l’infraction qui fait l’objet de la
+procédure. [47]                         
+The trial judge held
+that the exemption applies only to records made in relation to the offence in
+question, and not to police occurrence reports made in the course of unrelated
+investigations.  Other courts have generally reached the same conclusion: see, e.g.,
+R. v. Fiddler, 2012 ONSC 2539, 258 C.R.R. (2d) 193, at paras. 36-38; R.
+v. McAdam (2008), 172 C.R.R. (2d) 27 (Ont. S.C.J.). [48]                         
+The Court of Appeal,
+however, held that the exemption applies to all records made by the responsible
+police force, whether or not they were made in relation to the offence at
+issue.  The Court of Appeal relied on the plain wording of the English version
+of the provision, the view that such records are unlikely to engage privacy
+interests, and this Court’s description of the exemption, in Mills, as “excluding
+investigatory or prosecutorial records” (para. 39, citing Mills, at
+para. 50). [49]                         
+With respect, I do not
+agree with the Court of Appeal’s interpretation of the exception.  In light of
+the text of the provision in both languages, as well as its purpose, context,
+and the consequences of the Court of Appeal’s interpretation, I conclude that
+the trial judge correctly interpreted the exemption to exclude only those
+records made in relation to the offence at issue. (a)   The Text of the Provision [51]                         
+However, the French “le dossier qui est
+produit par un responsable de l’enquête ou de la poursuite relativement
+à l’infraction qui fait l’objet de la procédure” can only mean that the
+exemption applies to records made by police or prosecutors in relation to
+the offences at issue. [52]                         
+The Court of Appeal did not address the French
+version of the provision, because the Crown’s position in that court was that
+the French text was amenable to both interpretations.  Before this Court, the
+Crown resiled from that position.  Because the word “relativement” is an
+adverb, the expression “relativement à l’infraction qui fait l’objet
+de la procédure” must modify the expression “qui est produit”.  The
+word “relativement” cannot modify the nouns “enquête” or “poursuite”. 
+If the last clause of the exemption were intended to apply to “enquête”
+and “poursuite”, the grammatically correct phrase would be “de
+l’enquête ou de la poursuite relative à l’infraction qui
+fait l’objet de la procédure”. [53]                         
+Section 133  of the Constitution Act, 1867 
+establishes that Parliament enacts legislation in both French and English. 
+This “means that both language versions of a bilingual statute or
+regulation are official, original and authoritative expressions of the law” (R.
+Sullivan, Sullivan on the Construction of Statutes (5th ed. 2008), at p.
+95).  It is a rule of statutory interpretation that where the version in one
+language can bear two meanings, only one of which is consistent with the
+version in the other language, the shared meaning governs: R. v. Daoust,
+2004 SCC 6, [2004] 1 S.C.R. 217, at para. 28. (b)   The Purpose of the Exemption in Section 278.1 [54]                         
+The Mills regime
+serves two goals: first, the regime protects the privacy of complainants and
+witnesses, and second, it preserves the fair trial rights of the accused. [55]                         
+The definition of
+“record” in s. 278.1  serves a gatekeeping function within the regime.  The
+reasonable expectation of privacy test sweeps in records that merit the
+protection afforded by the Mills regime.  The exemption further
+contributes to the gatekeeping role of the section by bypassing the balancing
+process for records that Parliament recognized should always be produced. (c)   Incongruous Consequences of a Broad Exemption [58]                         
+This would mean that an
+accused whose case was investigated by a large police force would be more
+likely to get easy access to occurrence reports than if the case was
+investigated by a small force.  For example, where the RCMP is involved in an
+investigation, the Court of Appeal’s interpretation of the exemption would
+waive the Mills regime for RCMP occurrence reports from across the
+country. (d)   Application of the Exemption to Other Third Party Documents in the
+Investigative File [60]                         
+The English and French
+versions of the provision, considered in isolation, provide some support for
+the intervener’s position.  The terms “record” and “dossier” can refer
+to individual documents or to collections of documents such as case files. 
+Consequently, on a purely textual basis, one might think that the exemption
+covers the investigative “record” in its entirety, as opposed to only
+individual “records”. (e)   The Effect on Trial Fairness [62]                         
+The respondent and the
+intervener the Criminal Lawyers’ Association of Ontario raise concerns about
+the effect of an expansive interpretation of “records” in s. 278.1  on trial
+fairness.  A broad interpretation of “records” means
+that the Mills regime applies to a larger number of documents.  While
+this furthers Parliament’s objective of protecting the privacy of complainants
+and witnesses, it may also impose procedural burdens on defendants and create
+the risk that some helpful documents would not be available to the defence. 
+However, largely for the reasons set out in Mills, I do not think these
+concerns require a narrower reading of s. 278.1 . [63]                         
+Documents protected by the Mills regime
+are not inaccessible to the defence.  Defendants can access records when the
+privacy infringement is proportionate, given the relevance of the record to the
+defence.  Where the Crown plans to use information from police occurrence
+reports as part of its case against an accused, disclosure of that information
+will always be in the interests of justice.  In Mills, this Court held
+that the process for accessing documents was adequate to preserve the
+constitutionality of the regime. [64]                         
+The principles of fundamental justice and trial
+fairness do not guarantee defence counsel the right to precisely the
+same privileges and procedures as the Crown and the police (Mills, at
+para. 111).  Nor is the right to a full answer and defence a right to pursue
+every conceivable tactic to be used in defending oneself against criminal
+prosecution.  The right to a full answer and defence is not without limit. [65]                         
+Because the Crown is an officer of the court,
+with undivided loyalty to the administration of justice, the Crown is not in an
+adversarial role in relation to its disclosure obligations.  The information
+obtained through investigation is “not the property of the Crown for use in
+securing a conviction but the property of the public to be used to ensure that
+justice is done” (Stinchcombe, at p. 333).  The Crown has an obligation
+under s. 278.2(3)  of the Criminal Code , to notify the accused of records
+in its possession covered by the Mills regime.  Moreover, as
+discussed above, both police and Crown have common law duties aimed at ensuring
+proper disclosure, which apply notwithstanding the application of the Mills
+regime. (f)    Conclusion on the Exemption [66]                         
+For these reasons, I
+conclude that s. 278.1  exempts records made in relation to the offence being
+prosecuted, not other records made by the same police or prosecution agencies. V.      
+Disposition [67]                         
+It follows from this analysis that the police
+occurrence reports mentioned in the CBC radio documentary were subject to the Mills
+regime for disclosure, not Stinchcombe.  The trial judge was right to
+require a Mills application before disclosing them to the defence, and
+the Court of Appeal was wrong to interfere.  The trial judge’s application of
+the Mills regime was not challenged before us.  Accordingly, I would
+allow the appeal, set aside the order for a new trial, and restore the
+conviction, remitting the sentence appeal to the Court of Appeal. [68]                         
+I would grant the motion to strike para. 10 of
+the respondent’s factum, but dismiss the motion to strike para. 11.  I would
+also grant the motion to strike the appellant’s reply factum. APPENDIX  Criminal Code, R.S.C.
+1985, c. C-46       278.1 For
+the purposes of sections 278.2 to 278.9, “record” means any form of record that
+contains personal information for which there is a reasonable expectation of
+privacy and includes, without limiting the generality of the foregoing,
+medical, psychiatric, therapeutic, counselling, education, employment, child
+welfare, adoption and social services records, personal journals and diaries,
+and records containing personal information the production or disclosure of
+which is protected by any other Act of Parliament or a provincial legislature,
+but does not include records made by persons responsible for the investigation
+or prosecution of the offence.        278.2 (1) No record relating to a complainant or a
+witness shall be produced to an accused in any proceedings in respect of  (a) an offence under section 151, 152, 153, 153.1, 155, 159,
+160, 170, 171, 172, 173, 210, 211, 212, 213, 271, 272 or 273,  (b) an offence under section 144 , 145 , 149 , 156 , 245  or 246 
+of the Criminal Code , chapter C-34 of the Revised Statutes of Canada,
+1970, as it read immediately before January 4, 1983, or  (c) an offence under section 146 , 151 , 153 , 155 , 157 , 166  or
+167  of the Criminal Code , chapter C-34 of the Revised Statutes of
+Canada, 1970, as it read immediately before January 1, 1988,  or in any proceedings in respect of two or more offences that
+include an offence referred to in any of paragraphs (a) to (c),
+except in accordance with sections 278.3  to 278.91 .        (2) Section 278.1 , this section and sections 278.3  to 278.91 
+apply where a record is in the possession or control of any person, including
+the prosecutor in the proceedings, unless, in the case of a record in the
+possession or control of the prosecutor, the complainant or witness to whom the
+record relates has expressly waived the application of those sections.        (3) In the case of a record in respect of which this section
+applies that is in the possession or control of the prosecutor, the prosecutor
+shall notify the accused that the record is in the prosecutor’s possession but,
+in doing so, the prosecutor shall not disclose the record’s contents.        278.3 (1) An accused who seeks production of a record
+referred to in subsection 278.2(1) must make an application to the judge before
+whom the accused is to be, or is being, tried.        (2) For greater certainty, an application under subsection (1)
+may not be made to a judge or justice presiding at any other proceedings,
+including a preliminary inquiry.        (3) An application must be made in writing and set out  (a) particulars identifying the record that the accused seeks
+to have produced and the name of the person who has possession or control of
+the record; and  (b) the grounds on which the accused relies to establish that
+the record is likely relevant to an issue at trial or to the competence of a
+witness to testify.        (4) Any one or more of the following assertions by the accused
+are not sufficient on their own to establish that the record is likely relevant
+to an issue at trial or to the competence of a witness to testify:  (a) that the record exists;  (b) that the record relates to medical or psychiatric
+treatment, therapy or counselling that the complainant or witness has received
+or is receiving;  (c) that the record relates to the incident that is the
+subject-matter of the proceedings;  (d) that the record may disclose a prior inconsistent
+statement of the complainant or witness;  (e) that the record may relate to the credibility of the
+complainant or witness;  (f) that the record may relate to the reliability of the testimony
+of the complainant or witness merely because the complainant or witness has
+received or is receiving psychiatric treatment, therapy or counselling;  (g) that the record may reveal allegations of sexual abuse of
+the complainant by a person other than the accused;  (h) that the record relates to the sexual activity of the
+complainant with any person, including the accused;  (i) that the record relates to the presence or absence of a
+recent complaint;  (j) that the record relates to the complainant’s sexual
+reputation; or  (k) that the record was made close in time to a complaint or
+to the activity that forms the subject-matter of the charge against the
+accused.        (5) The accused shall serve the application on the prosecutor,
+on the person who has possession or control of the record, on the complainant
+or witness, as the case may be, and on any other person to whom, to the
+knowledge of the accused, the record relates, at least seven days before the
+hearing referred to in subsection 278.4(1) or any shorter interval that the
+judge may allow in the interests of justice. The accused shall also serve a
+subpoena issued under Part XXII in Form 16.1 on the person who has possession
+or control of the record at the same time as the application is served.        (6) The judge may at any time order that the application be
+served on any person to whom the judge considers the record may relate.        278.4 (1) The judge shall hold a
+hearing in camera to determine whether to order the person who has
+possession or control of the record to produce it to the court for review by
+the judge.        (2) The person who has possession or control of the record,
+the complainant or witness, as the case may be, and any other person to whom
+the record relates may appear and make submissions at the hearing, but they are
+not compellable as witnesses at the hearing.        (3) No order for costs may be made against a person referred
+to in subsection (2) in respect of their participation in the hearing.        278.5 (1) The judge may order the person who has
+possession or control of the record to produce the record or part of the record
+to the court for review by the judge if, after the hearing referred to in
+subsection 278.4(1), the judge is satisfied that  (a) the application was made in accordance with subsections
+278.3(2) to (6);  (b) the accused has established that the record is likely
+relevant to an issue at trial or to the competence of a witness to testify; and  (c) the production of the record is necessary in the
+interests of justice.        (2) In determining whether to order the production of the
+record or part of the record for review pursuant to subsection (1), the judge
+shall consider the salutary and deleterious effects of the determination on the
+accused’s right to make a full answer and defence and on the right to privacy
+and equality of the complainant or witness, as the case may be, and any other
+person to whom the record relates. In particular, the judge shall take the
+following factors into account:  (a) the extent to which the record is necessary for the
+accused to make a full answer and defence;  (b) the probative value of the record;  (c) the nature and extent of the reasonable expectation of
+privacy with respect to the record;  (d) whether production of the record is based on a
+discriminatory belief or bias;  (e) the potential prejudice to the personal dignity and right
+to privacy of any person to whom the record relates;  (f) society’s interest in encouraging the reporting of sexual
+offences;  (g) society’s interest in encouraging the obtaining of
+treatment by complainants of sexual offences; and  (h) the effect of the determination on the integrity of the
+trial process.        278.6 (1) Where the judge has ordered the production of
+the record or part of the record for review, the judge shall review it in the
+absence of the parties in order to determine whether the record or part of the
+record should be produced to the accused.        (2) The judge may hold a hearing in camera if the judge
+considers that it will assist in making the determination.        (3) Subsections 278.4(2) and (3) apply in the case of a
+hearing under subsection (2).        278.7 (1) Where the judge is satisfied that the record
+or part of the record is likely relevant to an issue at trial or to the
+competence of a witness to testify and its production is necessary in the
+interests of justice, the judge may order that the record or part of the record
+that is likely relevant be produced to the accused, subject to any conditions
+that may be imposed pursuant to subsection (3).        (2) In determining whether to order the production of the
+record or part of the record to the accused, the judge shall consider the
+salutary and deleterious effects of the determination on the accused’s right to
+make a full answer and defence and on the right to privacy and equality of the
+complainant or witness, as the case may be, and any other person to whom the
+record relates and, in particular, shall take the factors specified in paragraphs
+278.5(2)(a) to (h) into account.        (3) Where the judge orders the production of the record or
+part of the record to the accused, the judge may impose conditions on the
+production to protect the interests of justice and, to the greatest extent
+possible, the privacy and equality interests of the complainant or witness, as
+the case may be, and any other person to whom the record relates, including,
+for example, the following conditions:  (a) that the record be edited as directed by the judge;  (b) that a copy of the record, rather than the original, be
+produced;  (c) that the accused and counsel for the accused not disclose
+the contents of the record to any other person, except with the approval of the
+court;  (d) that the record be viewed only at the offices of the
+court;  (e) that no copies of the record be made or that restrictions
+be imposed on the number of copies of the record that may be made; and  (f) that information regarding any person named in the
+record, such as their address, telephone number and place of employment, be
+severed from the record.        (4) Where the judge orders the production of the record or
+part of the record to the accused, the judge shall direct that a copy of the
+record or part of the record be provided to the prosecutor, unless the judge
+determines that it is not in the interests of justice to do so.        (5) The record or part of the record that is produced to the
+accused pursuant to an order under subsection (1) shall not be used in any
+other proceedings.        (6) Where the judge refuses to order the production of the
+record or part of the record to the accused, the record or part of the record
+shall, unless a court orders otherwise, be kept in a sealed package by the
+court until the later of the expiration of the time for any appeal and the
+completion of any appeal in the proceedings against the accused, whereupon the
+record or part of the record shall be returned to the person lawfully entitled
+to possession or control of it.        278.8 (1) The judge shall provide reasons for ordering or
+refusing to order the production of the record or part of the record pursuant
+to subsection 278.5(1) or 278.7(1).        (2) The reasons referred to in subsection (1) shall be entered
+in the record of the proceedings or, where the proceedings are not recorded,
+shall be provided in writing.        278.9 (1) No person shall publish in any document, or
+broadcast or transmit in any way, any of the following:  (a) the contents of an application made under section 278.3 ;  (b) any evidence taken, information given or submissions made
+at a hearing under subsection 278.4(1) or 278.6(2); or  (c) the determination of the judge pursuant to subsection
+278.5(1) or 278.7(1) and the reasons provided pursuant to section 278.8, unless
+the judge, after taking into account the interests of justice and the right to
+privacy of the person to whom the record relates, orders that the determination
+may be published.        (2) Every person who contravenes subsection (1) is guilty of
+an offence punishable on summary conviction.        278.91 For the purposes of sections 675 and 676, a
+determination to make or refuse to make an order pursuant to subsection
+278.5(1) or 278.7(1) is deemed to be a question of law.                     Appeal
+allowed.                     Solicitor for the
+appellant: Attorney General of Ontario, Toronto.                     Solicitors for the
+respondent: Najma Jamaldin, Toronto; Paul Genua, Toronto.                     Solicitor for the
+intervener the Attorney General of Alberta: Attorney General of Alberta,
+Edmonton.                     Solicitor for the
+intervener the Canadian Association of Chiefs of Police: Ottawa Police Service,
+Ottawa.                     Solicitors for the
+intervener the Criminal Lawyers’ Association of Ontario: Dawe & Dineen,
+Toronto.                     Solicitors for the
+intervener the Barbra Schlifer Commemorative Clinic: Ursel Phillips Fellows
+Hopkinson, Toronto.  [1] 
+The legislative history of the Mills regime further confirms that it was
+intended to apply to third party records in the hands of the police or the
+Crown: see, e.g., House of Commons Debates, vol. 134, No. 122, 2nd
+Sess., 35th Parl., February 4, 1997, at p. 7664 (Gordon Kirkby); House of
+Commons Debates, vol. 134, No. 150, 2nd Sess., 35th Parl., April 7, 1997,
+at pp. 9361-62 (Shaughnessy Cohen).  

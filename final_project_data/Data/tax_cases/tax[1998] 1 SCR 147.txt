@@ -1,0 +1,916 @@
+ Canderel Ltd. v. Canada, [1998] 1 S.C.R. 147  Canderel Limited         Appellant  v.  Her Majesty The Queen                                                                   Respondent  Indexed as:  Canderel Ltd. v. Canada  File No.:  24663.  1997:  December 2; 1998:  February 12.  Present:  Gonthier, Cory, Iacobucci, Major and Bastarache JJ.  on appeal from the federal court of appeal   Canderel, a developer of
+commercial real estate, deducted from its income for the 1986 taxation year
+tenant inducement payments (TIPs) totalling just over $4 million.  The TIPs 
+had been made in response to a pressing need to attract tenants in an
+increasingly competitive rental market, a need which was intensified by certain
+conditions imposed upon the financing of the rental project.  For financial
+accounting purposes, Canderel treated the TIPs as capitalized, but opted to
+deduct the entire amount from taxable income in 1986, the year in which they
+were paid.  The deduction was disallowed by the Minister of National Revenue
+(the “Minister”) in a
+reassessment and Canderel appealed to the Tax Court of Canada.  The Tax Court
+allowed the appeal, but this decision was overturned on further appeal by the
+Minister to the Federal Court of Appeal.  At issue on this appeal was whether
+the TIPs were deductible from income entirely in the year in which they were
+incurred or whether the Minister of National Revenue was entitled to insist
+that they be amortized over the terms of the leases to which they related.  To
+answer this question, it was first necessary to examine the fundamental
+principles of profit computation under the Income Tax Act.  Held: The appeal should be allowed.  The determination of profit
+is a question of law.  The profit of a business for a taxation year is to be
+determined by setting against the revenues from the business for that year the
+expenses incurred in earning said income.  In seeking to ascertain profit, the
+goal is to obtain an accurate picture of the taxpayer’s profit for the given year.  In
+ascertaining profit, the taxpayer is free to adopt any method which is not
+inconsistent with: (a) the provisions of the Income Tax Act; (b)
+established case law principles or “rules of law”; and (c) well-accepted business
+principles.  Well-accepted business principles, which include but are not
+limited to the formal codification found in generally accepted accounting
+principles (GAAP), are not rules of law but interpretive aids.  They are
+non-legal tools, external to the legal determination of profit, whereas the
+provisions of the Act and other established rules of law form its very
+foundation.  To the extent that well-accepted business principles may influence
+the calculation of income, they will do so only on a case-by-case basis,
+depending on the facts of the taxpayer’s financial situation, and only for the
+purpose of achieving an accurate picture of profit.  It is not for the court to
+decide that one such principle is paramount, or applicable to the subordination
+of all others, by deeming it a rule of law.  That is exclusively within the
+province of Parliament.  On reassessment, once the
+taxpayer has shown that he has provided an accurate picture of income for the
+year which is consistent with the Act, the case law, and well-accepted business
+principles, the onus shifts to the Minister to show either that the figure
+provided does not represent an accurate picture, or that another method of
+computation would provide a more accurate picture.  If neither of these is
+established, then the Minister is not entitled to insist that one method be
+employed over another, equally supported method.  Canderel’s method of
+income calculation provided an accurate picture of its income for the year in
+question.  It was not inconsistent with any provision of the Income Tax Act
+or other rule of law.  The accounting evidence disclosed that  GAAP, at the
+time of the payments, allowed for various alternative and acceptable methods of
+accounting for TIPs and endorsed the options contended for by both parties.  No
+specific conclusion could be drawn as to which method was preferable in terms
+of yielding the more accurate picture of Canderel’s income.  The payments were found at
+trial to have yielded some benefits, including the generating of rental
+revenues, that would be realized over a period of years, and others, such as
+the satisfaction of interim financing requirements, that were immediately
+realized in the year the payments were made.  No specific legal formula,
+however, exists for apportioning the expenses among the various benefits and
+such a device would have to be created by statute.  The fact that the payments
+were amortized for financial accounting purposes does not mean that they must
+be similarly amortized for taxation purposes because the two portrayals of
+profit are substantially different in nature and purpose.   The TIPs were not principally referable to any
+particular items of income.  Since they qualified as running expenses, to which
+the matching principle does not apply, they could be deducted entirely in the
+year in which they were incurred and therefore did not need to be amortized
+over the terms of the leases which they induced.  Cases Cited  Considered:  Symes
+v. Canada, [1993] 4 S.C.R. 695; West Kootenay Power and Light Co. v.
+Canada, [1992] 1 F.C. 732; Friesen v. Canada, [1995] 3 S.C.R. 103; referred
+to:  Toronto College Park Ltd. v. Canada, [1998] 1 S.C.R. 183, and
+at trial (1993), 94 D.T.C. 6172; Ikea Ltd. v. Canada, [1998] 1 S.C.R.
+196; Vallambrosa Rubber Co. v. Farmer (1910), 5 T.C. 529; Naval
+Colliery Co. v. Commissioners of Inland Revenue (1928), 12 T.C. 1017; Oxford
+Shopping Centres Ltd. v. The Queen, 79 D.T.C. 5458; Cummings v. The
+Queen, 81 D.T.C. 5207; Neonex International Ltd. v. The Queen, 78
+D.T.C. 6339; Mattabi Mines Ltd. v. Ontario (Minister of Revenue), [1988]
+2 S.C.R. 175;  M.N.R. v. Tower Investment Inc., [1972] F.C. 454;
+Maritime Telegraph and Telephone Co. v. The Queen, 92 D.T.C. 6191; Friedberg
+v. Canada, [1993] 4 S.C.R. 285; Commissioners of Inland Revenue v.
+Gardner Mountain & D’Ambrumenil, Ltd. (1947), 29 T.C. 69; M.N.R. v.
+Irwin, [1964] S.C.R. 662; Associated Investors of Canada Ltd. v. M.N.R.,
+[1967] 2 Ex. C.R. 96; Royal Bank of Canada  v. Sparrow Electric Corp.,
+[1997] 1 S.C.R. 411; M.N.R. v. Canadian Glassine Co., [1976] 2
+F.C. 517; Johnston v. M.N.R., [1948] S.C.R. 486.  Statutes and Regulations Cited  Income
+Tax Act, S.C.
+1970-71-72, c. 63, ss. 9(1), 18(1)(a), (9) [ad. 1980-81-82-83, c. 48, s.
+9],  (a) [ad. idem], (b) [ad. idem].  Authors Cited  Hogg, Peter W., and Joanne E.
+Magee.  Principles of Canadian Income Tax Law, 2nd ed. Scarborough,
+Ont.: Carswell, 1997.  McDonnell, T. E.  “Running
+Headlong into the GAAP (Again)” (1995), 43 Can. Tax J. 738.  Thomas, Richard B.  “The Matching
+Principle:  Legal Principle or a Concept?” (1996), 44 Can. Tax J. 1693.  APPEAL from a judgment of the Federal Court of Appeal
+[1995] 2 F.C. 232, 95 D.T.C. 5101, [1995] 2 C.T.C. 22, 179 N.R. 134, [1995]
+F.C.J. No. 221 (QL), allowing an appeal from a judgment of Brulé J., 94 D.T.C.
+1133, [1994] 1 C.T.C. 2336, [1994] T.C.J. No. 7 (QL).  Appeal allowed.  Guy Du Pont and Samuel
+Minzberg, for the appellant.  Roger Taylor and J.
+S. Gill, for the respondent.  The judgment of the Court was delivered by  1                                  
+Iacobucci J. -- In a
+narrow sense, this appeal raises one issue: how is a taxpayer to treat a
+payment made to a prospective tenant for the purpose of inducing that tenant to
+lease space in the taxpayer’s premises?  More specifically, is the expenditure,
+commonly referred to as a tenant inducement payment (“TIP”), to be deducted
+from income entirely in the year in which it was made, or is it to be amortized
+over the term of the lease to which it relates?  2                                  
+More broadly, however, this Court is required to revisit the fundamental
+concept of profit computation for income tax purposes.  The appeal raises
+serious questions about the ability of the taxpayer to calculate his or her
+income in accordance with well-accepted principles of business practice and
+with the provisions of the Income Tax Act, as interpreted by the
+courts.  In the absence of statutory provisions or overriding legal principles
+to the contrary, is the Minister of National Revenue entitled to insist on a
+particular method of profit computation?  Put another way, what is the
+analytical framework within which taxpayers can compute, and the Minister can
+dispute, profit?  3                                  
+This appeal was heard along with the appeals in Toronto College Park
+Ltd. v. Canada, [1998] 1 S.C.R. 183, and Ikea Ltd. v.
+Canada, [1998] 1 S.C.R. 196, reasons for which are being released
+simultaneously herewith.  I.  Facts  4                                  
+The following summary of facts is taken substantially from the
+comprehensive factual summary of the trial judge, Brulé J., in the Tax Court of
+Canada.  5                                  
+In 1984, the appellant, Canderel Limited (“Canderel”), a company engaged
+in the development and management of commercial real estate, entered into an
+agreement with Mount-Batten Properties Limited to develop a commercial office
+development which eventually became Churchill Office Park (“COP”).  The
+development was to be located in west-end Ottawa, where rental rates were
+generally around 30 percent  lower than in downtown Ottawa.  The project was
+part of a general business strategy in the area to provide private sector
+buildings and thereby centralize an area of business outside the downtown
+core.  It was anticipated that lower rents and property taxes would attract
+tenants from downtown.  6                                  
+The duties assumed by Canderel in connection with the development of the
+project were wide-ranging, and included marketing, advertising, and negotiation
+of leases (subject to written approval and execution by the owners), among
+other things.  Part of Canderel’s development fee was contingent upon 90
+percent leasing.  A separate agreement provided for Canderel to serve as
+property manager as well, and among its managerial duties was the ongoing
+negotiation and renewal of leases.  7                                  
+The projects in which Canderel participated were generally financed with
+mortgages to minimize equity requirements.  Because the co-venturers did not
+supplement the cash flow of less successful projects, each project was required
+to succeed on its own merits and consequently, an early positive cash flow was
+imperative.  The key to the success of a project, therefore, was leasing
+velocity.  COP was no exception to this rule.  8                                  
+In a document entitled “Executive Summary of Carling Churchill Project”,
+dated January 18, 1984, prepared by Canderel and used to create and administer
+a construction budget by allocating projected expenses and costs, a “downside”
+view of capitalized losses by velocity of lease-up was projected.  A total
+capitalized loss of $2,034,604 for the first two years was projected, and an
+allowance for this loss was accordingly made.  The estimated time for the
+project to break even was in the ninth to tenth month of the second year.  9                                  
+For the development stage of the project, short-term “bridge financing”
+was arranged in the form of what essentially amounted to a demand loan. 
+Jonathan Wener, the sole owner of Canderel, estimated that once the building
+was 75 percent to 85 percent leased, permanent financing would be obtainable,
+but testified at trial that if it had taken more than three years to obtain
+permanent financing, the co-venture would have risked seizure of the debt.  10                              
+When construction of COP was commenced, there were no commitments to
+lease, owing to an aberration in the Ottawa market whereby prospective tenants
+generally required substantial completion before leasing.  However, market
+surveys conducted by Royal LePage and verified by Canderel indicated that there
+was only a 1.67 percent vacancy in downtown Ottawa of the class of space
+offered by COP for the 1983 market, and a 3.42 percent  vacancy in 1982.  The
+short supply of space in the downtown area at the time construction commenced
+led Canderel to anticipate that the project would reach its break-even point by
+the time it opened.  However, throughout construction and at completion, the
+amount of space available downtown was rising.  Six to eight months into
+construction, Canderel realized that there were problems with the market: by
+1984, the vacancy rate had risen to 11.2 percent and continued to rise,
+reaching 14 percent in 1986.  When COP opened in June, 1985, only 2.3 percent
+of the building was leased.  Several new office developments, both downtown and
+in the west end, created intense competition for tenants, and the absorption by
+the west end of downtown clients therefore came later than Canderel had
+initially expected.  11                              
+In response to these developments, and to its intense need to attract
+tenants to its new complex, Canderel decided to reallocate budgeted losses to
+tenant inducement payments.  A leasing blitz was commenced, and whereas about
+$2 million had initially been allocated to TIPs, just over $4 million was in
+fact paid out in the end.  This tactic proved successful, because by the end of
+June, 1986, COP was 59 percent leased, and by June, 1987, it was 85 percent
+leased.  Had Canderel failed to secure tenants at project completion or shortly
+thereafter, several adverse consequences could have occurred with respect to
+the interim financing provided by the Toronto Dominion Bank.  The operating and
+financing costs of approximately $2.9 million might have had to be borne
+entirely by the joint venturers, permanent financing would not likely have been
+obtained, and the project could have become known as not having gained market
+acceptance, which would have reduced the likelihood of attracting stable
+tenants.  Instead, on June 17, 1989, the project received a permanent financing
+commitment from Sunlife of Canada.  12                              
+In the auditor’s report of January, 1986, an operating loss of $1,219,000
+was shown, reflecting in part the treatment of the TIPs as capitalized.  By
+1986, $4 million had been capitalized and amortized, and income before
+amortization was minus $800,000.  For income tax purposes, however, Canderel
+adopted a different approach, opting to deduct the TIPs from income entirely in
+1986, the year in which they were paid.  The deduction was disallowed by the
+Minister of National Revenue (the “Minister”) in a reassessment, and Canderel
+appealed to the Tax Court of Canada.  The Tax Court allowed the appeal, but
+this decision was overturned on further appeal by the Minister to the Federal
+Court of Appeal.  II.  Relevant Statutory Provisions  13                              
+Income Tax Act, S.C. 1970-71-72, c. 63 (now R.S.C., 1985, c. 1
+(5th Supp .))  9. (1)   Subject to
+this Part, a taxpayer's income for a taxation year from a business or property
+is his profit therefrom for the year.  18. (1)  In computing the income of a
+taxpayer from a business or property no deduction shall be made in respect of  (a) an outlay or expense except to the extent that it was made
+or incurred by the taxpayer for the purpose of gaining or producing income from
+the business or property;                                                                     .
+. .  (9) Notwithstanding any other provision of this Act,  (a) in computing a taxpayer’s income for a taxation year from a
+business or property (other than income from a business computed in accordance
+with the method authorized by subsection 28(1)), no deduction shall be made in
+respect of an outlay or expense to the extent that it can reasonably be
+regarded as having been made or incurred  (i)     as consideration for services to be rendered after the end of
+the year, (ii)    as, on account or in lieu of payment of, or in satisfaction of,
+interest, taxes ..., rent or royalty in respect of a period after the end of
+the year, or  (iii)    as consideration for insurance in respect of a period after
+the end of the year ...;  (b) such portion of each outlay or expense made or incurred as
+would, but for paragraph (a), have been deductible in computing a
+taxpayer’s income for a taxation year shall be deductible in computing his
+income for the subsequent year to which it can reasonably be considered to
+relate. . . .  III.  Judicial History  (1)  Tax Court of Canada (Brulé J.), 94
+D.T.C. 1133  14                              
+Brulé J. began by noting that it has generally been held that an expense
+is deductible although it may not give rise to any directly resulting income: Vallambrosa
+Rubber Co. v. Farmer (1910), 5 T.C. 529 (Ct. of Sess.).  However, he
+recognized that the instant case turned not on deductibility itself but on the
+timing of the deduction, and found that this required a determination of
+whether the TIPs were running expenses and whether or not there should have
+been “matching” of the expense and revenue.  He relied on Naval Colliery Co.
+v. Commissioners of Inland Revenue (1928), 12 T.C. 1017 (H.L.), and Oxford
+Shopping Centres Ltd. v. The Queen, 79 D.T.C. 5458 (F.C.T.D.), for the
+proposition that running expenses are those which cannot be linked directly to
+any corresponding items of revenue, and therefore are not matched to revenue
+but are deductible in full in the year incurred.  That is, the “matching
+principle” of accounting does not apply to such expenses.  15                              
+Relying on the case of Cummings v. The Queen, 81 D.T.C. 5207, and
+the interpretation thereof in the trial judgment in Toronto College Park
+Ltd. v. Canada (a companion case to the instant appeal), Brulé J. found
+that in certain cases, TIPs may be classified as running expenses, which in
+some cases may be deducted in the year of the expense.  Further, he found that
+the matching principle had been held not to apply to such expenses.  To Brulé
+J., these cases were determinative, such that the TIPs here at issue qualified
+as running expenses.  16                              
+Brulé J. rejected the Minister’s argument that the TIPs were incurred
+for the purpose of earning income over the whole terms of the leases and
+therefore, to arrive at true profits, each lease should have the TIPs amortized
+over its terms.  He noted that in support of this argument the Minister had
+relied on Neonex International Ltd. v. The Queen, 78
+D.T.C. 6339 (F.C.), but that Neonex did not deal with a running expense
+situation and was therefore inapplicable.  He relied in this regard (at p.
+1141) on the judgment of this Court in Symes v. Canada,
+[1993] 4 S.C.R. 695, at p. 733, where the words of Wilson J. in Mattabi
+Mines Ltd. v. Ontario (Minister of Revenue), [1988] 2 S.C.R.
+175, at p. 189, were interpreted as “rejecting both the need for a causal
+connection between a particular expenditure and a particular receipt, and the
+suggestion that a receipt must arise in the same year as an expenditure is
+incurred”.  17                              
+In response to the Minister’s argument that matching should have been
+employed in this case because it gave a better picture of Canderel’s true
+income, Brulé J. observed that although accounting theory may be helpful in
+considering the appropriate treatment of income for tax purposes, it is not
+determinative.  He agreed with the submission by Canderel, relying on Oxford
+Shopping Centres, supra, that even if the law in many cases seemed
+to require matching, the expenses in this case should be matched against
+current benefits, as was in fact done here, since the use of the matching
+principle in cases such as M.N.R. v. Tower Investment Inc.,
+[1972] F.C. 454 (T.D.), gave rise to no general principle of law.  18                              
+Brulé J. found that the benefits generated by the TIPs for Canderel
+included (1) the prevention of a “hole in income” caused by maintaining a
+vacant building; (2) the satisfaction of its interim financing requirements and
+the ability to obtain permanent financing; (3) the ability to maintain its
+market position and reputation; and (4) the ability to earn revenues through
+rental, management, and development fees.  Therefore, he concluded (at p. 1142)
+that “the expenses deducted by the Appellant were running expenses, that
+matching is not in this case the appropriate method for tax purposes, and that
+the Appellant should be allowed to adopt the expensing method”.  Noting also
+that “there is no requirement under the law for consistency in accounting
+methods between financial statements and income tax calculation”, Brulé J.
+allowed the appeal and referred the matter back to the Minister for
+reconsideration and reassessment in accordance with the law as set out in his
+reasons.  (2)  Federal
+Court of Appeal, [1995] 2 F.C. 232  (a)  Reasons of Stone J.A., for the majority  19                              
+Stone J.A. began by asserting at p. 236 that “the matching principle of
+accounting has, at least in this Court, been elevated to the status of a legal
+principle”.  He found support for this position in the Court’s decision in
+West Kootenay Power and Light Co. v. Canada, [1992] 1 F.C. 732 (C.A.),
+where MacGuigan J.A. stated at p. 745:  The approved principle is that whichever method presents the “truer
+picture” of a taxpayer’s revenue, which more fairly and accurately portrays
+income, and which “matches” revenue and expenditure, if one method does, is the
+one that must be followed.  While
+acknowledging that West Kootenay was concerned with the time in which to
+report earned but unbilled income, Stone J.A. saw no reason to limit its
+application to that scenario and found that it should also apply when the issue
+is whether a taxpayer is required to match expenditures against revenue in
+computing profit for tax purposes.  20                              
+Stone J.A. agreed with the trial judge that “running expenses” need not
+be matched with corresponding items of revenue for tax purposes, but found that
+the TIPs here at issue did not fit the classical description of “running
+expenses” in Naval Colliery, supra.  He recognized, at pp. 237-38,
+that it could be argued that the TIPs were “in the nature of running expenses
+on the basis that they represented a cost of doing business in the 1986
+taxation year and also that [Canderel] would likely have faced significant
+financial disadvantages if they had not been laid out and did achieve
+significant financial advantages by laying them out”.  However, he found that
+the expenditures were not incurred in earning income solely in 1986, but in all
+of the years during which the leases were to run.  21                              
+Moreover, Stone J.A. found that the present case was not analogous to Oxford
+Shopping Centres, supra, as in that case it was not possible to
+match the expenses with particular items of revenue.  While acknowledging that
+in Cummings, supra, Heald J.A. was prepared in obiter to
+characterize lease pick-up expenses as running expenses, Stone J.A. was of the
+opinion that this too assumed that the expenses in question could not be
+allocated directly to corresponding revenue.  In the present case, because the
+TIPs could be matched with revenue from the respective leases in accordance
+with the matching principle, and were in fact so matched for accounting
+purposes, Stone J.A. (Robertson J.A. concurring) would have allowed the appeal.  (b)  Concurring reasons of Desjardins J.A. 22                              
+Desjardins J.A. began with a brief discussion, based largely on that in Symes,
+supra, of the limited role to be played by generally accepted accounting
+principles (“GAAP”) in the determination of profit for tax purposes.  She found
+at p. 244 that the trial judge erred in applying to the case at bar the
+interpretation in Symes of Wilson J.’s rejection in Mattabi Mines,
+supra, of “both the need for a causal connection between a particular
+expenditure and a particular receipt, and the suggestion that a receipt must
+arise in the same year as an expenditure is incurred”, as Symes was not
+concerned with the timing of a deduction, which was the only issue in the case
+at bar.  23                              
+Desjardins J.A. turned next to the cases relied upon by the Minister in
+support of the proposition that where there are two methods acceptable both
+under GAAP and for tax purposes, the court will prefer the one that results in
+a “truer picture” of the taxpayer’s profit, including West Kootenay, supra, 
+Maritime Telegraph and Telephone Co. v. The Queen,  92 D.T.C.
+6191, and Friedberg v. Canada, [1993] 4 S.C.R. 285.  She concluded at p.
+256 that “[i]n essence, what the courts have been looking for is the true
+realized gains and losses of a taxpayer in the relevant taxation year”, and
+that to determine whether matching is the appropriate method in any given case
+would require an analysis of the specific facts in light of the cases in which
+the matching principle had been specifically developed.  In this connection,
+she relied on Symes for the proposition that the determination of profit
+for tax purposes is a question of law, to be determined in accordance with
+“well accepted principles of business (or accounting) practice” (p. 257),
+unless they run counter to an express statutory provision or a principle of tax
+law.  24                              
+Thus, Desjardins J.A. identified the key question as assessing which
+method most accurately shows the taxpayer’s actual profit.  After reviewing Oxford
+Shopping Centres, supra, in which the taxpayer’s disbursement was
+considered to be a running expense and the matching principle therefore did not
+apply, even though amortization was available at the taxpayer’s option and
+would have provided a more accurate picture of income for the particular year,
+she found that where an expense could be related to a particular item of
+income, the matching principle would apply.  She concluded, at p. 264,  that
+TIPs are “clearly” related to particular items of income, as there is a “direct
+contractual relationship between the TIP and the stream of revenues gained over
+the period of the lease”. Therefore, in her view at p. 264, “[m]atching of TIPs
+is compulsory”.  25                              
+Canderel had argued that the foundation on which rests the compulsory
+matching of expenses when related to a particular item of income, namely  Commissioners
+of Inland Revenue v. Gardner Mountain & D’Ambrumenil, Ltd.
+(1947), 29 T.C. 69 (H.L.), was inapplicable because it dealt with costs of
+inventory, for which special rules have developed.  Desjardins J.A. disagreed,
+noting that Viscount Simon’s words in that case were directed to both “services
+completely rendered or goods supplied”, and that Canderel was in a type of
+service industry, namely the rental of commercial premises.  Therefore, she
+held that the TIPs were to be deducted as the services were rendered -- that
+is, over the period of the lease.  She distinguished Vallambrosa Rubber,
+supra, and Naval Colliery, supra, as cases in which the
+expenses in question truly could not be matched to specific items of revenue. 
+Further, she found that because timing was not raised in Cummings, supra,
+which dealt only with whether lease pick-up expenses were on account of income
+or capital, the obiter comments in that case concerning TIPs were
+neither binding nor persuasive.  26                              
+Therefore, Desjardins J.A. was in agreement with the majority that the
+TIPs paid by Canderel in 1986 were to be amortized over the life of the
+respective leases, and that such would be (at p. 270) “the only method
+acceptable for income tax purposes”.  IV.  Issues  27                              
+As already stated, this appeal raises only one direct issue: whether
+tenant inducement payments are deductible from income entirely in the year in
+which they are incurred, or whether the Minister of National Revenue is
+entitled to insist that they be amortized over the terms of the leases to which
+they relate.  To answer this question, however, it will first be necessary to
+examine the fundamental principles of profit computation under the Income
+Tax Act.  V.  Analysis  (1)  General
+Principles of Profit Computation  28                              
+In the relatively recent case of Symes, supra, this Court
+considered the general principles which govern the computation of profit for
+income tax purposes. However, because some of the principles enunciated in Symes
+may have been misinterpreted, I propose to review these general principles in
+order to resolve the issue in this appeal and to clarify the critical issue of
+profit computation for the purposes of the Income Tax Act.  (a)  The Interpretive Framework  29                              
+It is appropriate to begin the consideration of profit with s. 9(1) of
+the Act, which defines a taxpayer’s income for a taxation year from a business
+or property source as “his profit therefrom for the year”.  Significantly,
+“profit” is not defined in s. 9(1) or anywhere else in the Act.  It seems to me
+that this approach was a deliberate legislative choice, particularly given that
+the Act contains exhaustive definitions of numerous other concepts and terms
+with which it deals.  This choice reflects the reality that no single
+definition can adequately apply to the millions of different taxpayers bound by
+the Act.  Under our self-assessment system, each taxpayer must be able to
+compute his or her income in such a way as to constitute an accurate picture of
+his or her income situation, subject, of course, to express provisions in the Act
+which require specific treatment of certain types of expenses or receipts.  30                              
+What, then, is the true nature of “profit” for tax purposes?  While the
+concept has been variously expressed, perhaps the clearest and most concise
+articulation of the term is to be found in the oft-quoted decision of this
+Court in M.N.R. v. Irwin, [1964] S.C.R. 662, at p. 664,
+where profit in a year was taken to consist of “the difference between the
+receipts from the trade or business during such year ... and the
+expenditure laid out to earn those receipts” (emphasis in original).  This
+definition was echoed by Jackett P. in Associated Investors of Canada Ltd.
+v. M.N.R., [1967] 2 Ex. C.R. 96, where he stated at p. 102:  Ordinary commercial principles dictate, according to
+the decisions, that the annual profit from a business must be ascertained by
+setting against the revenues from the business for the year, the expenses
+incurred in earning such revenues.  31                              
+Accepting this fundamental definition, in Symes, supra, at
+pp. 722-23, the majority made the following observations about the computation
+of profit:  . . . the “profit” concept in s. 9(1) is inherently a net
+concept which presupposes business expense deductions.  It is now generally
+accepted that it is s. 9(1) which authorizes the deduction of business
+expenses; the provisions of s. 18(1) are limiting provisions only.
+. . .  Under s. 9(1), deductibility is ordinarily
+considered as it was by Thorson P. in Royal Trust, [Royal Trust Co.
+v. Minister of National Revenue, 57 D.T.C. 1055 (Ex. Ct.)] (at p.
+1059):  ... the first approach to the question whether a particular
+disbursement or expense was deductible for income tax purpose was to ascertain
+whether its deduction was consistent with ordinary principles of commercial
+trading or well accepted principles of business ... practice ...
+(Emphasis added.)  Thus, in a deductibility analysis, one’s first recourse is to s. 9(1),
+a section which embodies, as the trial judge suggested, a form of “business
+test” for taxable profit.  This is a test which has been variously phrased.  As
+the trial judge rightly noted, the determination of profit under s. 9(1) is a question
+of law: Neonex International Ltd. v. The Queen.... 
+Perhaps for this reason, and as Neonex itself impliedly suggests, courts
+have been reluctant to posit a s. 9(1) test based upon “generally accepted
+accounting principles” (G.A.A.P.)....  Any reference to G.A.A.P. connotes a
+degree of control by professional accountants which is inconsistent with a legal
+test for “profit” under s. 9(1).  Further, whereas an accountant questioning
+the propriety of a deduction may be motivated by a desire to present an
+appropriately conservative picture of current profitability, the Act is
+motivated by a different purpose: the raising of public revenues.  For these
+reasons, it is more appropriate in considering the s. 9(1) business test to
+speak of “well accepted principles of business (or accounting) practice” or
+“well accepted principles of commercial trading”.  [Emphasis in original.]  32                              
+The great difficulty which seems to have plagued the courts in the
+assessment of profit for income tax purposes bespeaks the need for as much
+clarity as possible in formulating a legal test therefor.  The starting
+proposition, of course, must be that the determination of profit under s. 9(1)
+is a question of law, not of fact.  Its legal determinants are two in number:
+first, any express provision of the Income Tax Act which dictates some
+specific treatment to be given to particular types of expenditures or receipts,
+including the general limitation expressed in s. 18(1)(a),  and second,
+established rules of law resulting from judicial interpretation over the years
+of these various provisions.  33                              
+Beyond these parameters, any further tools of analysis which may provide
+assistance in reaching a determination of profit are just that: interpretive
+aids, and no more.  Into this category fall the “well-accepted principles of
+business (or accounting) practice” which were mentioned in Symes, also
+referred to as “ordinary commercial principles” or “well-accepted principles of
+commercial trading”, among other terms.  A formal codification of these
+principles is to be found in the “generally accepted accounting principles”
+(“GAAP”) developed by the accounting profession for use in the preparation of
+financial statements.  These principles are accepted by the accounting
+profession as yielding accurate financial information about the subject of the
+statements, and become “generally accepted” either by actually being followed
+in a number of cases, by finding support in pronouncements of professional
+bodies, by finding support in the writings of academics and others, or by more
+than one of these methods: see Peter W. Hogg and Joanne E. Magee, Principles
+of Canadian Income Tax Law (2nd ed. 1997), at pp. 180-81.  What must be
+remembered, however, is that these are non-legal tools and as such are external
+to the legal determination of profit, whereas the provisions of the Act and
+other established rules of law form its very foundation.  34                              
+That is not to minimize the key role played by such well-accepted
+business principles (as I shall hereafter refer to them) in the
+profit-computation process.  In Friesen v. Canada, [1995] 3 S.C.R. 103,
+Major J. made the following observation at para. 41:  The Act does not define “profit” nor does it provide
+any specific rules for the computation of profit.  Tax jurisprudence has
+established that the determination of profit under s. 9(1) is a question of law
+to be determined according to the business test of “well-accepted principles of
+business (or accounting) practice” or “well-accepted principles of commercial
+trading” except where these are inconsistent with the specific provisions of
+the Income Tax Act. . . .  35                              
+I think this statement aptly describes the proper relationship between
+tax law and business principles.  In the absence of a statutory definition of
+profit, it would be unwise for the law to eschew the valuable guidance offered
+by well-established business principles.  Indeed, these principles will, more
+often than not, constitute the very basis of the determination of profit. 
+However, well-accepted business principles are not rules of law and thus a
+given principle may not be applicable to every case.  More importantly, these
+principles must necessarily take a subordinate position relative to the legal
+rules which govern.  36                              
+The reason for this is simple: generally speaking, well-accepted
+business principles will have their roots in the methodology of financial
+accounting, which, as was expressed in Symes, is motivated by factors
+fundamentally different from taxation.  Moreover, financial accounting is
+usually concerned with providing a comparative picture of profit from
+year to year, and therefore strives for methodological consistency for the
+benefit of the audience for whom the financial statements are prepared:
+shareholders, investors, lenders, regulators, etc.  Tax computation, on the
+other hand, is solely concerned with achieving an accurate picture of income
+for each individual taxation year for the benefit of the taxpayer and the tax
+collector.  Depending on the taxpayer’s commercial activity during a particular
+year, the methodology used to calculate profit for tax purposes may be
+substantially different from that employed in the previous year, which in turn
+may be different from that which was employed the year before.  Therefore,
+while financial accounting may, as a matter of fact, constitute an accurate
+determinant of profit for some purposes, its application to the legal
+question of profit is inherently limited.  Caution must be exercised when
+applying accounting principles to legal questions.  37                              
+I do not wish to be taken, however, as minimizing the role of GAAP in
+the determination of profit for income tax purposes.  Some have inferred from
+my reasons in Symes an intention that GAAP are to be rejected entirely:
+see, for example, Hogg and Magee, supra, at pp. 185-87.  This is not
+what I intended.  In fact, the better view is that GAAP will generally form the
+very foundation of the “well-accepted business principles” applicable in
+computing profit.  It is important, however, for the courts to avoid delegating
+the criteria for the legal test of profit to the accounting profession,
+and therefore a distinction must be maintained.  That is, while GAAP may more
+often than not parallel the well-accepted business principles recognized by the
+law, there may be occasions on which they will differ, and on such occasions
+the latter must prevail: see, for example, Friedberg v. Canada, supra.  38                              
+Moreover, there will, of course, be situations in which GAAP will offer
+various acceptable options in the preparation of financial statements, and the
+taxpayer will be free, for financial accounting purposes, to adopt whichever
+option best suits his financial objectives at the given time.  In such cases,
+GAAP will surely not be determinative as to the method by which an accurate
+picture of profit may be obtained for taxation purposes, though it may still be
+useful as a guide to the various acceptable methods of computation, one of
+which may yield the appropriate result for taxation.  39                              
+A good example of the relationship among the provisions of the Act, the
+principles developed in the case law, and GAAP or well-accepted business
+principles can be found in s. 18(9) of the Act, which requires the amortization
+of certain prepaid expenses over the periods of time to which they relate.  It
+is possible, although I express no specific opinion on this matter, that some
+of these expenses could be treated otherwise for the purposes of GAAP or
+business practice; perhaps they might be deducted entirely in the year
+incurred, or even capitalized.  However, this possibility is negated for tax
+purposes by their specific legislative treatment.  40                              
+I pause here for a moment to distinguish the role of the courts in this
+regard from that of Parliament.  Generally speaking, the courts are free, in
+the absence of contrary legislation or established rules of law, to assess the
+taxpayer’s computation of income in accordance with well-accepted business
+principles.  Obviously, this will require an assessment in each case of which
+of these principles apply to the particular circumstances which present
+themselves.  However, it is not for the court to decide that one principle is
+paramount, or applicable to the exclusion or subordination of all others by
+saying that it has been elevated to the status of a rule of law which is to be
+applied in all situations.  That is exclusively within the province of
+Parliament, and the willingness of Parliament to exercise this power is
+exemplified by s. 18(9) and by countless other codifications in the Act of what
+would otherwise likely be considered well-accepted business principles: see Symes,
+supra, at pp. 723-25.  41                              
+For the court to usurp this inherent power of Parliament is rife with
+unnecessary danger.  As was observed in Royal Bank of Canada v. Sparrow
+Electric Corp., [1997] 1 S.C.R. 411, at para. 112:  All that is needed to effect the desired result is clear language of
+that kind.  In the absence of such clear language, judicial innovation is
+undesirable, both because the issue is policy charged and because a legislative
+mandate is apt to be clearer than a rule whose precise bounds will become fixed
+only as a result of expensive and lengthy litigation.  The law of
+income tax is sufficiently complicated without unhelpful judicial incursions
+into the realm of lawmaking.  As a matter of policy, and out of respect for the
+proper role of the legislature, it is trite to say that the promulgation of new
+rules of tax law must be left to Parliament.  As one eminent jurist of the United
+States Supreme Court once observed, “we are a Supreme Court, not a Supreme
+Legislature”.  42                              
+Of course, this is distinct from the interpretation of such
+rules, such as, for example, the elucidation of the otherwise undefined concept
+of  “profit”, which is well within the jurisdiction of the courts.  Such
+interpretive jurisprudence will fall within the category of “rules of law”
+which, as a matter of course, will predominate over well-accepted business
+principles.  However, when no specific legal rule has been developed, either in
+the case law or under the Act, the taxpayer will be free to calculate his or
+her income in accordance with well-accepted business principles, and to adopt
+whichever of these is appropriate in the particular circumstances, is not inconsistent
+with the law, and, as I shall elaborate upon below, yields an accurate picture
+of his profit for the year.  The simple application by a court of one or
+another well-accepted business principle to a particular case or cases,
+moreover, will not ordinarily amount to the elevation of that principle to the
+status of a “rule of law”.  In general, the Minister will not be entitled to
+insist that one method supported by business practice and commercial principles
+be employed over another, equally supported method, unless, as I will develop
+below, the method chosen by the taxpayer fails to yield an accurate picture of
+his or her income for the taxation year.  (b)  The Interpretive Goal: An Accurate Picture of Income  43                              
+Having established an appropriate framework for analysis, I should now
+like to discuss what exactly is the question that must be answered when
+attempting to assess a taxpayer’s profit for tax purposes.  A good place to
+begin is with the decision of the Federal Court of Appeal in West Kootenay,
+supra, where MacGuigan J.A. stated at p. 745:  The approved principle is that whichever method presents the “truer
+picture” of a taxpayer’s revenue, which more fairly and accurately portrays
+income, and which “matches” revenue and expenditure, if one method does, is the
+one that must be followed.  44                              
+In the court below, Stone J.A. took this passage as grounding his
+conclusion that the matching principle of accounting has been elevated to a
+rule of law.  Obviously, in light of my previous comments, I do not, with
+respect, subscribe to that point of view.  To my mind, the significance of this
+statement is to confirm a much sounder proposition: that the goal of the legal
+test of “profit” should be to determine which method of accounting best depicts
+the reality of the financial situation of the particular taxpayer.  If this is
+accomplished by applying the matching principle, then so be it.  On the other
+hand, if some other method is appropriate, is permissible under well-accepted
+business principles, and is not prohibited either by the Act or by some
+specific rule of law, then there is no principled basis by which the Minister
+should be entitled to insist that the matching principle -- or any other
+method, for that matter -- be employed.  MacGuigan J.A. in West Kootenay seemed
+to advert to this notion at pp. 745-46, in the passage immediately following
+the above-quoted portion:  The result often will not be different from what it
+would be using a consistency principle, but the “truer picture” or “matching
+approach” is not absolute in its effect, and requires a close look at the
+facts of a taxpayer’s situation. [Emphasis added.]  45                              
+As an aside, I would also observe that the compartmentalization of
+income calculation has led to a process that is far more complicated than
+necessary.  To attempt to achieve a useful picture of profit by reference only
+to rigid categories of expenses -- running expenses, matchable expenses, etc.
+-- can become a frustrating exercise in futility: see Richard B. Thomas, “The
+Matching Principle: Legal Principle or a Concept?” (1996), 44 Can. Tax J.
+1693.  Rather than trying to discern into which pigeonhole a particular income
+expenditure falls, the taxpayer’s focus should be on attempting to portray his
+or her income in the manner which best reflects his or her true financial
+position for the year, that is, which gives an “accurate picture” of profit. 
+To do otherwise is to lose sight of the taxation forest for the practice or
+principle trees. In other words, the competing concepts of running expenses and
+matching which appear to be at play in this appeal fall into the category of
+well-accepted business principles, no more, no less.  They are simply
+important  interpretive aids which may assist, but are not determinative, in
+the illumination of an accurate picture of the taxpayer’s income.  46                              
+This should not be taken as casting doubt upon those previous decisions
+which have applied such well-accepted business principles to the computation of
+profit, even where this might appear to have been the determining factor in the
+end.  In Oxford Shopping Centres, supra, for example, an amount
+paid by the taxpayer to the City of Calgary to effect a certain traffic
+diversion for the benefit of its business was held to be a running expense.  In
+his reasons, Thurlow A.C.J. (as he then was) held that the matching principle
+did not apply to a running expense even though deducting the expense entirely
+in the year incurred would distort the income for that particular year.  While
+on first glance, this decision might appear to fly in the face of the “accurate
+picture” principle, in my view, the facts of the case gave rise to a choice
+between two difficult positions: either to permit the distortion of the
+taxpayer’s income for a single year by allowing the immediate deduction of a
+running expense, or to require the distortion of its income for a number of
+years by forcing the arbitrary amortization of an expense which was not clearly
+referable to any particular item of future revenue.  Given this choice, it is
+apparent that Thurlow A.C.J. recognized that to apply the matching principle of
+accounting, as a well-accepted business principle, not a rule of law,
+would not have assisted in obtaining an accurate picture of the taxpayer’s
+income.  Thus, he ruled it inapplicable to the circumstances of the case before
+him while expressly adverting to the freedom of the taxpayer to so amortize in
+appropriate cases, as had been held previously in Tower Investment,
+supra, and in M.N.R. v. Canadian Glassine Co., [1976] 2 F.C. 517.  47                              
+To my mind, this is an excellent example of the proper approach to be
+taken to the computation of profit.  To the extent that they may be applicable
+to particular circumstances, well-accepted business principles are to be
+assessed and applied only on a case-by-case basis, and only for the purpose of
+achieving an accurate picture of profit for the year in question for income tax
+purposes.  In this light, I have no hesitation in finding that to the extent
+that the majority decision of the Federal Court of Appeal was premised on the
+view of the matching principle as a rule of law, it was clearly in error.  48                              
+In reaching these conclusions, I am well aware of my remarks in Friesen,
+supra, at para. 118, to the following effect:  The appellant’s interpretation would also undermine
+the matching principle underpinning s. 9 of the Act: Neonex International
+Ltd. v. The Queen . . . (for an affirmation of the importance of this
+principle and an invalidation of an attempt to claim expenses in a year in
+which they were not incurred); see also West Kootenay Power and Light Co.
+v. Canada. . . .  This principle emphasizes that receipts and
+expenditures which produce the net income are to be properly “matched” in the
+same time period: [V. Krishna, The Fundamentals of Canadian Income Tax
+(4th ed. 1993)], at p. 279.  The importance of the “match” flows from the
+critical role timing considerations play in taxation matters.  49                              
+While at first glance this statement might be taken to support the
+recognition of the matching principle as a rule of law, such was not the true
+meaning of these remarks.  Rather, I was simply acknowledging the general
+principle that the computation of profit involves the offsetting of revenues
+against the expenditures incurred in earning them.  This is hardly a novel
+concept (see Irwin, supra, for example), and clearly goes to the
+quest for an accurate picture of the taxpayer’s income.  In circumstances where
+an expenditure is incurred principally for the specific purpose of earning a
+discrete and identifiable item of revenue, it will generally yield a more
+accurate picture of profit to deduct that expenditure from taxable income in
+the year in which the revenue is realized.  However, it will always be a matter
+of debate, in light of well-accepted business principles, whether a particular
+expenditure was in fact made principally for this purpose, and whether it is
+possible or appropriate to “match” the expenditure against some specific
+revenue, either current or future.  Nothing in my remarks in Friesen
+serves to cast doubt upon this fundamental premise.  50                              
+It follows from all of this that in calculating his or her income for a
+taxation year, the taxpayer must adopt a method of computation which is not
+inconsistent with the Act or established rules of law, which is consistent with
+well-accepted business principles, and which will yield an accurate picture of
+his or her income for that year.  In the simplest cases, it will not even be
+necessary to resort formally to the various well-accepted business principles,
+as the simple formula by which revenues are set against the expenditures
+incurred in earning them is always the basic determinant.  51                              
+However, where the income picture is more complicated, as is frequently
+the case, the taxpayer is free to employ whichever well-accepted business
+principles will be most useful in depicting profit, provided again that the
+method adopted is not inconsistent with the law.  As a general rule, and as I
+have already stated, the Minister is in no position to insist on the
+application of one principle or another, in the absence of some legal rule so
+requiring, unless, as I shall discuss next, the application of an alternative
+rule would yield a more accurate picture of income than that which was obtained
+by the taxpayer.  52                              
+Revenue Canada is free to indicate its disapproval of the taxpayer’s
+chosen method of computation by means of assessment.  In Johnston v. M.N.R.,
+[1948] S.C.R. 486, this Court held that the onus is on the taxpayer, in the
+face of an assessment, to establish that the factual findings on which the
+assessment is based are wrong.  However, to satisfy this onus where the dispute
+is over the appropriate method of computation, the taxpayer need only show that
+his or her income was calculated in a manner consistent with the foregoing
+paragraph, that is, that the figure attained was in conformity with the
+then-existing legal framework and represents an accurate picture of his or her
+financial position for the year in question.  The onus then shifts to the
+Minister to prove either that the figure does not constitute an accurate
+picture of income or that some other method of computation would yield a more
+accurate picture.  In so doing, however, I emphasize that the Minister is not
+entitled to rely on particular well-accepted business principles as being inherently
+preferable over others.  If the method chosen by the taxpayer is otherwise
+acceptable by law and in accordance with such well-accepted principles, then it
+is no answer for the Minister to say that other principles should have been
+employed unless to do so would have yielded a more accurate picture of income.  53                              
+The outlined framework for analysis is, of course, only as useful as its
+application to actual cases.  Turning to the facts of this case will illustrate
+how this principled approach to the computation of income is intended to
+operate.  Before I do this, however, it may be both convenient and useful to
+summarize the principles which I have set out above:  (1)       The determination of profit is a
+question of law.  (2)       The profit of a business for a taxation
+year is to be determined by setting against the revenues from the business for
+that year the expenses incurred in earning said income: M.N.R. v. Irwin,
+supra, Associated Investors, supra.  (3)       In seeking to ascertain profit, the goal
+is to obtain an accurate picture of the taxpayer’s profit for the given year.  (4)       In ascertaining profit, the taxpayer is
+free to adopt any method which is not inconsistent with  (a)  the provisions of the Income Tax Act;  (b) established case law principles or “rules of law”; and  (c) well-accepted business principles.  (5)       Well-accepted business principles, which
+include but are not limited to the formal codification found in GAAP, are not
+rules of law but interpretive aids.  To the extent that they may influence the
+calculation of income, they will do so only on a case-by-case basis, depending
+on the facts of the taxpayer’s financial situation.  (6)       On reassessment, once the taxpayer has
+shown that he has provided an accurate picture of income for the year, which is
+consistent with the Act, the case law, and well-accepted business principles,
+the onus shifts to the Minister to show either that the  figure provided does
+not represent an accurate picture, or that another method of computation would
+provide a more accurate picture.  (2)  Application of General Principles to this Case  54                              
+It is evident that the method of income calculation adopted by
+Canderel in the instant case was not inconsistent with any provision of the Income
+Tax Act or other rule of law.  The general income provision, s. 9(1),
+provides no definition of “profit”, and no other section of the Act touches,
+either directly or indirectly, upon the income treatment to be given TIPs. 
+Section 18(9) of the Act does require the amortization of certain “prepaid
+expenses”, but TIPs are not included in this provision.  55                              
+To my mind, this exclusion not only exempts TIPs from any statutory
+amortization requirement, but also provides a valuable hint as to Parliament’s
+lack of intention to require such treatment of TIPs.  I do not mean to suggest
+that the expressio unius maxim of statutory interpretation applies here,
+as s. 18(9) certainly does not purport to be an exhaustive compendium of
+amortizable expenses, and it is arguable that TIPs do not really fall into the
+same category as the prepaid expenses touched upon by the section, but the fact
+that Parliament has directed its mind to requiring the amortization of some
+expenses without requiring this of TIPs is nonetheless telling to some extent. 
+Parliament would be free to institute this requirement, but has not done so.  56                              
+The case law also supports this method of computation.  In Cummings,
+supra, the court considered the timing of deduction of lease pick-up
+payments, by which the appellant taxpayer agreed to pay rent to the landlords
+whose premises were vacated by the appellant’s new tenant.  The rents which the
+tenant was still obliged to pay under existing leases was a major obstacle in
+lease negotiations and was resolved only by the appellant’s agreement to assume
+the lease pick-up payments; that is, the assumption of the payments was a
+necessary inducement for the tenant to enter the lease.  After considering
+expert accounting evidence to the effect that immediate deduction of such
+expenses was permissible for tax purposes, Heald J.A. concluded, at p. 5211:  . . . that subject expenditure was a “running expense”
+and in the same category as for example, an extensive advertising campaign to
+obtain tenants or an offer to a prospective tenant of a rent-free period as an
+inducement to enter into a long-term lease or a finder’s fee for obtaining
+tenants and leases.  57                              
+While the analogies contained in the last part of the quotation are
+obviously obiter dicta, as was correctly pointed out by both Stone and
+Desjardins JJ.A. in the court below, I believe the implication of the decision
+is clear nonetheless.  To distinguish the lease pick-up payments from the cash
+TIPs advanced in the instant case is, in my opinion, virtually impossible. 
+Both are contractual payments voluntarily incurred by landlords for the purpose
+of inducing tenants to enter into long-term leases.  While both payments may
+give rise to benefits which are realized in years subsequent to that in which
+they are incurred, the fact that in Cummings the Federal Court of Appeal
+found the expenses in question to be running expenses, not referable to any
+specific items of income, and thus fully deductible in the year incurred, is
+most instructive.  There is simply no meaningful distinction between the two
+cases: see also T. E. McDonnell, “Running Headlong into the GAAP (Again)”
+(1995), 43 Can. Tax J. 738.  58                              
+The decision of the Federal Court--Trial Division in Tower Investment
+Inc., supra, in which advertising expenses incurred for the purpose
+of attracting tenants to new buildings were held to be amortizable over a
+period of years, poses no analytical problem in this regard.  All that appears
+to have been decided in that case was that in the particular circumstances,
+amortization was an acceptable way to obtain an accurate picture of income.  No
+general rule of law was thereby developed, nor was amortization held to be the only
+acceptable treatment of the expenses.  Again, the appropriate treatment will
+turn on the facts of each individual case.  59                              
+At this stage, then, Canderel was free to deduct the payments
+entirely in the year incurred.  But that does not end the matter.  It remains
+to be seen whether the method chosen by Canderel was in accordance with the
+case law principles as outlined above and with well-accepted business
+principles,  and whether it provided an accurate picture of its income for the
+year in question.  Even if that were so, the Minister would still be entitled
+to insist on an alternative treatment of the expenditures if it could be shown
+that such would provide a more accurate picture.  To answer these
+questions will require an examination of the evidence and the findings of the
+trial judge.  60                              
+The accounting evidence adduced by the parties was somewhat inconclusive
+at best.  It disclosed that at the time of the payments, GAAP allowed for three
+alternative and acceptable methods of accounting for TIPs.  The payer was
+entitled to treat the payments either as operating expenses, fully chargeable
+to the results of operations in the year incurred, as capital expenditures to
+be added to the cost of the building and depreciated, or as deferred expenses
+to be amortized over the life of the relevant leases.  The experts called by
+Canderel were of the opinion that the first option was to be preferred because
+the expenditures were incurred in the ordinary course of generating revenue
+from Canderel’s business and that this method would thus give the most accurate
+picture of income.  Those called by the Minister, as might be expected,
+testified that the preferred method was the third, as the payments were
+causally linked to rental revenue while any other benefits to which they gave
+rise were not revenue and could not be the subject of “matching”.  To my mind,
+this evidence is useful only to demonstrate that GAAP at the time endorsed the
+options contended for by both parties.  However, I cannot draw from this alone
+any specific conclusion as to which method was preferable in terms of yielding
+the more accurate picture of Canderel’s income.  61                              
+But the findings of fact made by the trial judge are more instructive. 
+Brulé J. found that the payments yielded four primary benefits for Canderel:
+the prevention of a “hole in income” which otherwise would have been caused by
+maintaining a vacant building, the ability to satisfy the underlying
+requirements of its interim financing and to obtain permanent financing, the
+ability to meet its competition and to maintain its market position and
+reputation, and the generating of revenues through rentals and through
+management and development fees (which were to some extent contingent upon the
+rate of lease-up).  From this, he concluded that the payments constituted
+“running expenses”, as they could not be causally linked to any single or
+specific stream of revenue, and that the matching principle therefore did not
+apply in the circumstances, as contended for by the Minister.  62                              
+It is immediately apparent that, while some of the benefits identified
+by Brulé J. are of a type that would be realized over a period of years,
+others, such as the satisfaction of interim financing requirements and the
+maintenance of market position and reputation, are benefits that were
+immediately realized by Canderel in the year the payments were made.  From this
+observation emerges one serious practical difficulty inherent in the Federal
+Court of Appeal’s view of the law: even if it can properly be argued that the payments
+are “directly referable” to some future revenues, what is to be made of a
+situation where they are also referable to other, immediate benefits? 
+It would be unduly arbitrary to allocate the expenses only to the specific
+revenues while ignoring the other, less tangible benefits.  But there also
+exists no specific legal formula for the apportionment of the expenses among
+the various benefits.  Perhaps some appropriate amortization formula could be
+devised to cover such an apportionment, but any such device would need to be a
+creature of statute; anything less would constitute judicial legislation of a
+very intrusive variety.  It is similarly no answer to suggest that because the
+payments were amortized by Canderel for financial accounting purposes, they can
+be similarly amortized for taxation purposes.  As I have already explained, the
+two portrayals of profit are substantially different in nature and purpose.  63                              
+In its submissions before this Court, Canderel posited a variety of
+other questions which would arise out of the treatment of the matching
+principle as a compulsory rule of law.  For example, if an induced tenant were
+to break its lease before the end of the term, how, and pursuant to what
+authority,  would the balance of the TIP be deducted from income?  What if the
+rate of rent varied over the term of the lease; would this affect the rate of
+amortization?  Additionally, without any clear, principled distinction between
+this case and Cummings, supra, what other expenses incurred in
+the course of securing tenants for a building would be required to be amortized
+rather than currently deducted?  Moreover, what would happen if the leased
+premises were disposed of before the TIPs were fully deducted?  These are
+questions which simply cannot be answered by reference to the law as it
+presently exists, and for good reason: in a case such as this, there is simply
+no uniform solution by which the most accurate picture of the taxpayer’s profit
+may be obtained.  It is therefore an artificial and arbitrary solution to
+impose the matching principle, as a matter of law, upon circumstances where its
+application quite evidently creates serious difficulty.  To my mind, the uncertainties
+created by the type of judicial legislation engaged in by the Federal Court of
+Appeal stand as clear examples of the difficulties contemplated in Sparrow
+Electric, supra.  64                              
+In light of all of this, I find it difficult, particularly given the
+findings of the trial judge as to the various benefits generated by the TIPs,
+to conclude that the amortization of the payments over the terms of the leases,
+as contended for by the Minister, would provide a more accurate picture of
+Canderel’s income than would their immediate deduction in the year expended. 
+In such a case, where no one method emerges as clearly superior or more
+properly applicable than another, the taxpayer should retain the option of
+ordering its affairs in accordance with any method which is in accordance with
+well-accepted business principles and which is acceptable in light of the
+reality of its business.  That is to say, just because a particular tactic is
+acceptable under well-accepted business principles will not necessarily justify
+its application in a given context if it is out of step with the actual manner
+in which the taxpayer conducts its affairs.  However, once the taxpayer has
+established that the method adopted gives an accurate picture of its income,
+the onus is clearly on the Minister to prove that the method adopted by the
+taxpayer is inappropriate in the particular circumstances of each case.  In the
+instant case, I believe that the findings of the trial judge make it impossible
+to conclude that the Minister has discharged this burden in the instant case.  65                              
+Indeed, in my view, the fact that in the instant case, Brulé J. found
+that the TIPs were properly attributable to a number of different expenses
+makes inevitable the conclusion that they constituted running expenses.  As I
+have already noted, I do not see how, under these circumstances, it is possible
+with any accuracy to amortize the payments over the term of the lease, in the
+absence of an established formula acceptable for tax purposes, which was not
+advanced by the Minister.  It follows, then, that the TIPs were not referable
+to any particular items of income, i.e., they cannot be correlated directly, or
+at least not principally, with the rents generated by the leases which they
+induced.  They therefore qualify as running expenses to which the matching
+principle does not apply: see Oxford Shopping Centres, supra. 
+The findings of fact made by Brulé J. in this regard are entitled to
+considerable deference.  There is no indication that these findings were unsupported
+by the evidence, and I can see no reason to reject them.  66                              
+In light of the foregoing, I am compelled to the view that the Federal
+Court of Appeal erred in requiring that the TIPs be amortized over the terms of
+the leases which they induced, rather than being deducted entirely in the year 
+incurred.  As I have already made clear, there is no basis for treating the
+matching principle as a “rule of law”, as the Federal Court of Appeal chose to
+do, and for my part, I am unable to conclude that to apply this particular
+principle of accounting to the present case would serve to achieve a more
+accurate picture, for tax purposes, of the taxpayer’s financial position for
+the year in question than the immediate deduction of the expenses favoured by Canderel. 
+While the matching principle will certainly be useful in some cases, its
+specific application in the present case is unnecessary, as the payments
+related at least partially to benefits realized entirely in the year incurred, 
+and the taxpayer therefore should not be constrained to amortize.  The method
+employed by Canderel was consistent both with the law and with well-accepted
+business principles, and gave at least as accurate a picture of the taxpayer’s
+income as would the amortization method.  Therefore, it ought not to be
+disturbed.  VI.  Disposition  67                              
+For the foregoing reasons, I would allow the appeal, set aside the
+judgment of the Federal Court of Appeal, and restore the judgment of the Tax
+Court of Canada.  The appellant shall have its costs throughout.  Appeal allowed with costs.  Solicitors for the appellant:  Goodman, Phillips &
+Vineberg, Montreal.  Solicitor for the respondent:  The Attorney General of
+Canada, Ottawa.    

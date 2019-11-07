@@ -1,0 +1,894 @@
+Singleton v.
+Canada, [2001] 2 S.C.R. 1046, 2001 SCC 61  Her Majesty
+The Queen                                                                                  Appellant  v.  John R.
+Singleton                                                                                          Respondent  Indexed
+as: Singleton v. Canada  Neutral
+citation: 2001 SCC 61.  File
+No.: 27477.  2001: March 19;
+2001: September 28.  Present: Gonthier,
+Iacobucci, Major, Bastarache, Binnie, Arbour and LeBel JJ.  on appeal from
+the federal court of appeal  Income tax – Deductions – Interest – Taxpayer using equity in law
+firm to purchase house then refinancing law firm equity with borrowed money –
+Whether interest payments made on borrowed money deductible – Whether borrowed
+money “used for the purpose of earning income from a business” — Income Tax
+Act, R.S.C. 1985, c. 1 (5th Supp .), s. 20(1) (c)(i).  The respondent used $300,000 of equity in his law firm to purchase a
+house. He refinanced his law firm equity with borrowed money. All of the
+relevant cheques were deposited and honoured. The respondent paid interest of
+$3,688 in 1988 and $27,415 in 1989. He deducted the interest on his tax return
+for those years, pursuant to s. 20(1) (c)(i) of the Income Tax
+Act  claiming that the borrowed money now represented his investment in the
+law firm. The Minister of National Revenue reassessed and denied the interest
+deduction on the grounds that the borrowed money was used to finance the
+purchase of the house and not as a business investment. The Tax Court of Canada
+dismissed the respondent’s appeal. The majority of the Federal Court of Appeal
+allowed the respondent’s appeal.  Held (Bastarache and LeBel JJ. dissenting): The appeal
+should be dismissed. The interest payments were deductible under s. 20(1) (c)(i)
+of the Income Tax Act .  Per Gonthier, Iacobucci, Major, Binnie and Arbour JJ.: While
+courts must be sensitive to the economic realities of a transaction and to the
+general object and spirit of the provision, where the provision at issue is
+clear and unambiguous, as in this case, its terms must simply be applied.
+Furthermore, absent a sham, window-dressing or other vitiating circumstances,
+none of which was alleged in this case, the respondent does not have to
+demonstrate a bona fide purpose.  In this case, a direct link can be drawn between the borrowed money and
+an eligible use, so the respondent was entitled to deduct from his income the
+relevant interest payments. The transactions in question are properly viewed
+independently. Regardless of the sequence of the cheques, the respondent used
+the borrowed funds for the purpose of refinancing his partnership capital account
+with debt. Viewing the transactions as one simultaneous transaction, thereby
+treating the borrowed funds as used for financing the purchase of the home,
+ignores what the respondent actually did: he used the borrowed funds to replace
+the funds required for his capital account at the firm. Taxpayers are entitled
+to structure their transactions in a manner that reduces taxes; the fact that
+the structures may be complex arrangements does not remove the right to do so.
+The respondent engaged in a legal transaction to which the Court must give
+effect. It is irrelevant that he used the money he withdrew from the firm to
+purchase a house, that the transactions occurred on the same day, and that the
+respondent structured the transaction for tax purposes.  The $300,000 invested in the law firm was not frozen for all time in
+the form of its original investment. Corporations can refinance equity with
+debt and deduct the interest on the associated debt. Since fairness requires
+that the same legal principles must apply to all taxpayers, irrespective of
+their status as natural or artificial persons, unless the Act specifically
+provides otherwise, the respondent should be entitled to refinance his
+partnership equity with debt and deduct the interest. Similarly, if a partner’s
+initial capital investment was financed with borrowed funds, the interest on
+the original loan and on subsequent refinancing of debt is deductible. It would
+be inconsistent if a partner who originally financed with his own money and
+later refinanced with debt could not deduct the interest.  Per Bastarache and LeBel JJ. (dissenting): This case does
+not involve a pure question of law. It turns on the purpose for which the
+borrowed money was used, and determining the taxpayer’s purpose in undertaking
+the transactions at issue requires an examination of the surrounding facts.
+Since the Tax Court Judge heard all the evidence relevant to determining the
+taxpayer’s purpose, deference should be given to his understanding of the
+facts.  Although Shell Canada weakens the “economic realities”
+jurisprudence, it does not reject it wholesale. Courts are still required to
+look beyond the legal instruments used by the taxpayer in those cases where the
+legal relations were not created bona fide. The economic realities of
+the situation, however, do not grant a court licence to ignore clear statutory
+language. In order to ensure that clear statutory language is not overlooked,
+the words-in-total-context approach should be applied in this case.  The interest paid should not be claimed as a deduction from taxable
+income. Upon considering the economic realities in this case, it is clear that
+a series of transactions like the one at bar does not constitute a set of bona
+fide legal relations. The respondent funnelled money through his law firm
+simply to secure a tax advantage; his borrowing was not made with the bona
+fide purpose of generating income from his business. A contextual reading
+of s. 20(1) (c)(i) of the Income Tax Act , leads to the same
+conclusion. First, the section is an exception to the general rule against
+deductibility. Second, the purpose of s. 20(1) (c)(i) is to
+encourage the accumulation of capital which would produce taxable income. Since
+the deduction is being claimed for a use of borrowed capital that will lead to
+the purchase of personal property rather than the production of income, the
+deduction should be denied. Whether the transactions are considered separately
+or together does not affect the legal relations created by the taxpayer.  It is not unfair to deny a deduction to the respondent even though a
+corporation which refinances equity with debt would be allowed the interest
+deduction. By definition, any money borrowed by a corporation will relate to
+the business, but money borrowed by an individual may relate to the business
+or, as in this case, to personal matters. Similarly, a partner who originally
+financed the partnership with his own money will only continue to get the
+interest deduction on any subsequently borrowed money if that money is related
+to the business. He will not get the deduction for personal spending. The Act
+requires that the court consider the actual purpose for which the borrowed
+money was used. The question to be asked in order to ascertain that purpose is,
+“What was changed by these transactions?” Here it was the acquisition of a
+house. The financing of the law firm remained the same. Lastly, the “direct
+link” analysis in Shell Canada does not suggest that, under
+s. 20(1) (c)(i), a taxpayer can deduct the interest he paid on money
+he borrowed for a purpose completely unrelated to his business.  Cases Cited  By
+Major J.  Referred to: Bronfman Trust v. The Queen, [1987] 1 S.C.R.
+32; Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298; Shell
+Canada Ltd. v. Canada, [1999] 3 S.C.R. 622; Trans-Prairie Pipelines Ltd.
+v. Minister of National Revenue, 70 D.T.C. 6351; Ludco
+Enterprises Ltd. v. Canada, [2001] 2 S.C.R. 1082, 2001 SCC
+62.   By LeBel J.
+(dissenting)  Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622; Bronfman
+Trust v. The Queen, [1987] 1 S.C.R. 32; Tennant v. M.N.R., [1996] 1
+S.C.R. 305; Mark Resources Inc. v. Canada, 93 D.T.C. 1004; Backman v.
+Canada, [2001] 1 S.C.R. 367, 2001 SCC 10; Dunn v. M.N.R., 74 D.T.C.
+1121; Stubart Investments Ltd v. The Queen, [1984] 1 S.C.R. 536;
+Harris Steel Group Inc. v. M.N.R., 85 D.T.C. 5140; The Queen v. Golden,
+[1986] 1 S.C.R. 209; Symes v. Canada, [1993] 4 S.C.R. 695; Québec
+(Communauté urbaine) v. Corp. Notre-Dame de Bon-Secours, [1994] 3 S.C.R. 3;
+Friesen v. Canada, [1995] 3 S.C.R. 103; Alberta (Treasury Branches)
+v. M.N.R., [1996] 1 S.C.R. 963; Canada Safeway Ltd. v. Minister
+of National Revenue, [1957] S.C.R. 717; Trans-Prairie Pipelines Ltd. v.
+Minister of National Revenue, 70 D.T.C. 6351; Sternthal v. The Queen,
+74 D.T.C. 6646.  Statutes
+and Regulations Cited  Income Tax Act, R.S.C. 1985, c. 1 (5th
+Supp .), s. 20(1) (c)(i).  Authors
+Cited  Duff, David  G. “Interpreting the Income
+Tax Act  — Part 2: Toward a Pragmatic Approach” (1999), 47 Can. Tax J. 741.  APPEAL from a judgment of the Federal Court of Appeal, [1999] 4 F.C.
+484, 177 D.L.R. (4th) 461, 243 N.R. 110, 99 D.T.C. 5362, [1999] F.C.J. No. 864
+(QL), setting aside a judgment of the Tax Court of Canada, [1996] 3 C.T.C.
+2873, 96 D.T.C. 1850, [1996] T.C.J. No. 1101 (QL), affirming the Minister’s
+reassessment disallowing the respondent’s interest deduction. Appeal dismissed,
+Bastarache and LeBel JJ. dissenting.  Donald  G. Gibson and Deen  C. Olsen, for the
+appellant.  John  H. Saunders, for the respondent.  The judgment of Gonthier, Iacobucci, Major, Binnie and Arbour JJ. was
+delivered by  1                                  
+Major J. — This appeal
+raises the issue of whether borrowed money was “used for the purpose of earning
+income” within the meaning of s. 20(1) (c)(i) of the Income Tax Act,
+R.S.C. 1985, c. 1 (5th Supp .) (the “Act ”). The respondent had at least $300,000
+of equity in his law firm. He decided to use this money to purchase a house and
+to refinance his law firm equity with borrowed money. The respondent then
+deducted the interest payments made on the borrowed money pursuant to s. 20(1) (c)(i)
+of the Act , claiming that the borrowed money now represented his investment in
+the law firm. The Minister of National Revenue denied the deduction on the
+grounds that the borrowed money was used to finance the purchase of the house
+and not as a business investment.  2                                  
+The question is whether the borrowed money was used for the purpose of
+earning income from the law firm or for the purpose of financing the purchase
+of his house. If the former, the interest is deductible; if the latter, it is
+not.  3                                  
+I conclude that the borrowed money was used for the purpose of earning
+income from the law firm. As such, the interest is deductible pursuant to s.
+20(1) (c)(i) of the Act .  Accordingly, the appeal is dismissed.  I.  Facts  4                                  
+The respondent is a partner in the law firm Singleton Urquhart. On
+October 27, 1988 the amount in the respondent’s capital account at the law firm
+was at least $300,000. The respondent’s original capital contributions had not
+been financed with borrowed funds. On October 27, 1988 the respondent wanted to
+do a number of things. He wanted to use $300,000 of his equity in the law firm
+to assist in the purchase of a house. He then wanted to borrow that same amount
+and use it to refinance his partnership capital account.  5                                  
+There is less than full agreement on how the respondent achieved these
+results and the record is unclear as to the sequence of the transactions that
+occurred on October 27, 1988. While not central to this appeal, the
+transactions occurred in one of two possible ways.  6                                  
+One way was that found by the Tax Court Judge, that is that $298,750 of
+money borrowed from the Bank of British Columbia, along with $1,250 of the
+respondent’s own money, went into the firm trust account.  A cheque for
+$300,000 was then paid into the partnership general account and credited to the
+respondent’s capital account. The partnership then paid $300,000 by cheque to
+the respondent, who deposited this money into his personal bank account. The
+respondent then issued a cheque drawn on his personal bank account, payable to
+the firm, for $300,000. This amount was deposited into a client trust account.
+The respondent’s spouse deposited $147,901 into the same account. The firm
+issued a cheque for $440,451 drawn on the client trust account and payable to
+the solicitors for the vendors of the house.  7                                  
+The other way as found by the Court of Appeal, was that on October 27,
+1988, the firm paid the respondent Singleton $300,000 from his capital account.
+He used the $300,000 to assist in the purchase of a house registered in his
+wife’s name. Later that same day, the respondent borrowed $400,000 from the
+Bank of British Columbia, only $298,750 of which is relevant to this appeal,
+and together with $1,250 of his own money, paid $300,000 back into his capital
+account at the law firm.  8                                  
+Counsel for the respondent conceded that the record is unclear as to
+whether the $300,000 came out of the firm before the money was borrowed.
+However, it is undisputed that the respondent had at least $300,000 in his
+capital account on October 27, 1988. Furthermore, all of the relevant cheques
+were deposited and honoured.  9                                  
+The respondent paid interest of $3,688.52 in 1988 and $27,415.46 in 1989
+and deducted the interest on his tax return for those years, pursuant to s.
+20(1) (c)(i) of the Act . The Minister reassessed and denied the interest
+deduction on the grounds that the borrowed money was used to finance the
+purchase of the house. The Tax Court of Canada dismissed the respondent’s
+appeal. The majority of the Federal Court of Appeal allowed the respondent’s
+appeal.  II.  Statutory
+Provisions  10                              
+Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .)  20. (1) Notwithstanding paragraphs 18(1)(a),
+(b) and (h), in computing a taxpayer’s income for a taxation year
+from a business or property, there may be deducted such of the following
+amounts as are wholly applicable to that source or such part of the following
+amounts as may reasonably be regarded as applicable thereto:  .
+. .  (c) an amount paid in the year or payable in respect of the year
+(depending on the method regularly followed by the taxpayer in computing the
+taxpayer’s income), pursuant to a legal obligation to pay interest on  (i) borrowed money used for the purpose of earning income from a
+business or property (other than borrowed money used to acquire property the
+income from which would be exempt or to acquire a life insurance policy), .
+. .   or a reasonable amount in respect thereof, whichever is the lesser;   III.  Judicial
+History  A.   Tax
+Court of Canada, [1996] 3 C.T.C. 2873  11                              
+This case was originally heard by Kempo J.T.C.C., who retired before she
+rendered judgment. As a result, Bowman J.T.C.C. decided this case relying on
+the transcript and submissions made before him.  12                              
+Bowman J.T.C.C. began his analysis of whether the interest was
+deductible with an examination of what the borrowed money was used for. He
+concluded that, on October 27, 1988, the borrowed money was channelled through
+the firm and immediately went to the respondent for the purchase of the house.
+He observed that “[w]ithout suggesting that there was a sham or dissimulation,
+that is the reality of the situation” (p. 2876). He concluded, at p. 2876:  On any realistic view of the matter it could not be
+said that the money was used for the purpose of making a contribution of
+capital to the partnership. The fundamental purpose was the purchase of a house
+and this purpose cannot be altered by the shuffle of cheques that took place on
+October 27, 1988.  13                              
+Bowman J.T.C.C. concluded that the borrowed money was used as a “matter
+of economic reality” (p. 2877) for the purpose of buying the house.  He added
+that the steps of the transaction were “conterminous and interdependent” (p.
+2877). He stated that even if the legal validity of the steps was accepted and
+the tax motivation treated as irrelevant, “one is still left with the
+inescapable factual determination that the true economic purpose for which the
+borrowed money was used was the purchase of a house, not the enhancement of the
+firm’s income earning potential by a contribution of capital” (pp. 2878-79). He
+dismissed the appeal.  B.  Federal
+Court of Appeal, [1999] 4 F.C. 484  (1) Rothstein J.A. for the Majority  14                              
+Rothstein J.A. first considered the proper standard of review to apply
+in this case. He noted that the Tax Court judge used the term “inescapable factual
+determination” in referring to the “true economic purpose for which the
+borrowed money was used” (para. 41 (emphasis added by Rothstein J.A.)).
+Rothstein J.A. stated that what was at issue was how to treat the transaction
+for the purpose of s. 20(1) (c)(i). He held that this raised a question
+of law and it was appropriate for the Court of Appeal to re-examine the
+conclusion of the Tax Court judge.  15                              
+Rothstein J.A. then considered whether the transactions should be
+treated independently or as a series of connected activities. He thought the
+transactions should be treated independently in order to reflect the reality of
+what occurred: the respondent had his own funds in his capital account which he
+withdrew and used to purchase a house and he used the borrowed funds to
+replenish his capital account. Therefore, the borrowed funds were used for the
+purpose of refinancing the respondent’s capital investment in the law firm. He
+concluded that s. 20(1) (c)(i) does not exclude borrowed funds used for
+this purpose.  16                              
+Rothstein J.A said that two requirements for interest deductibility set
+out in Bronfman Trust v. The Queen, [1987] 1 S.C.R. 32, are relevant
+here. The first is tracing, which the Minister conceded was not at issue. The
+second is the direct use of the borrowed funds, which he concluded was to
+refinance the capital account. Rothstein J.A. held that in accordance with Bronfman
+Trust, this direct use could not be ignored.  17                              
+Rothstein J.A. relied on Continental Bank Leasing Corp. v. Canada,
+[1998] 2 S.C.R. 298, per Bastarache J., who wrote for the Court on this
+point, in stating that there are three important principles of law relevant to
+this appeal (at para. 58):  First, a taxpayer who complies with the provisions of the Income Tax
+Act  should not be denied the benefit of such provisions simply because the
+transaction was motivated for tax planning purposes. Second, in the absence of
+evidence that the transaction was a sham or abuse . . . and where the
+words of the Act  are clear, it is not the role of the Court to decide
+. . . whether the taxpayer is deserving of the deduction. Third, it
+is an error for the Court to ignore the legal and commercial reality of a
+transaction.  18                              
+Rothstein J.A. concluded that the absence of the phrase “series of
+transactions” from s. 20(1) (c)(i) implies that the legislature did not
+intend that the series test be applied to transactions such as the one at
+issue.  19                              
+The majority of the Federal Court of Appeal allowed the appeal and set
+aside the judgment of the Tax Court and the Minister’s reassessment.  (2) Linden J.A. in dissent  20                              
+Linden J.A. noted that the focus of the case was whether the borrowed
+funds were used for the purpose of earning income. He concluded that the Tax
+Court judge was correct in deciding that the interest was not properly
+deductible under s. 20(1) (c)(i). He gave three reasons for this
+conclusion (at para. 4):  1.    The determination of the purpose for which borrowed money was
+used is primarily a factual determination which should not be interfered with.  2.    Past cases have, without exception, denied deductibility of
+interest in transactions such as these.  3.    The task of the Court under paragraph 20(1) (c) of the Act 
+is to examine the commercial and economic realities underlying the transaction
+to determine if the borrowed funds were “used for the purpose of earning
+income,” which, in my view, they were not.  IV.  Issue  21                              
+Was the borrowed money “used for the purpose of earning income from a
+business” such that the interest is deductible pursuant to s. 20(1) (c)(i)
+of the Act ?  V. Analysis  A.  Standard
+of Review  22                              
+Bowman J.T.C.C. concluded that it was an “inescapable factual
+determination that the true economic purpose for which the borrowed money was
+used was the purchase of a house” (p. 2878). Linden J.A., in dissent, held that
+this was a factual determination which should not be interfered with. I respectfully
+disagree. I adopt the conclusion of Rothstein J.A. That is, this appeal raises
+the issue of what is the proper legal test under s. 20(1) (c)(i). That is
+a question of law. For the reasons outlined, the Tax Court Judge, in searching
+for the “true economic purpose”, applied the wrong legal test.  23                              
+To the extent that the Tax Court judge’s characterization of the
+sequence of the transactions differed from that of the Court of Appeal, it is
+of no material consequence in the determination of this appeal.  B.  The
+Legal Principles to be Applied in this Case  24                              
+The law with regard to s. 20(1) (c)(i) was recently clarified in Shell
+Canada Ltd. v. Canada, [1999] 3 S.C.R. 622. The decision in Shell is
+determinative of the issue in this case.  The key principles from that case
+bear repeating.  25                              
+In Shell, supra, McLachlin J. (later Chief Justice),
+writing for the Court, confirmed that s. 20(1) (c)(i) contains four
+elements (at para. 28):  (1) the amount must be paid in the year or be payable in the year in which
+it is sought to be deducted; (2) the amount must be paid pursuant to a legal
+obligation to pay interest on borrowed money; (3) the borrowed money must be
+used for the purpose of earning non-exempt income from a business or property;
+and (4) the amount must be reasonable, as assessed by reference to the first
+three requirements. [Emphasis added.]  26                              
+Only the third element is at issue in this appeal: the borrowed money
+must be used for the purpose of earning non-exempt income from a business. The Shell
+case confirmed that the focus of the inquiry is not on the purpose of the
+borrowing per se, but is on the taxpayer’s purpose in using the money.
+McLachlin J. agreed with Dickson C.J. in Bronfman Trust that the inquiry
+must be centred on the use to which the taxpayer put the borrowed funds.
+McLachlin J. made it clear that the deduction is not available where the link
+between the borrowed money and the eligible use is indirect. However, she made
+it equally clear that “[i]f a direct link can be drawn between the borrowed
+money and an eligible use” this third element is satisfied (para. 33).  27                              
+In examining the Minister’s argument about the need to consider the
+economic realities of a transaction rather than being bound to its strict legal
+effects, McLachlin J. recognized that the courts must be sensitive to the
+economic realities of a transaction. However, she stated that (at paras.
+39-40):  . . . this Court has never held that the economic realities of a
+situation can be used to recharacterize a taxpayer’s bona fide
+relationships. To the contrary, we have held that, absent a specific provision
+of the Act  to the contrary or a finding that they are a sham, the taxpayer’s
+legal relationships must be respected in tax cases. . . .  Second, it is well established in this Court’s tax
+jurisprudence that a searching inquiry for either the “economic realities” of a
+particular transaction or the general object and spirit of the provision at
+issue can never supplant a court’s duty to apply an unambiguous provision of
+the Act  to a taxpayer’s transaction. Where the provision at issue is clear and
+unambiguous, its terms must simply be applied. [References omitted.]  28                              
+The Court in Shell emphasized that taxpayers are entitled to
+structure their transactions in a manner that reduces taxes (see for example
+paras. 45 and 46). The fact that the structures may be complex arrangements
+does not remove the right to do so.  29                              
+It is now plain from the reasoning in Shell that the issue
+to be determined is the direct use to which the borrowed funds were put. “It is
+irrelevant why the borrowing arrangement was structured the way it was or,
+indeed, why the funds were borrowed at all” (Shell, supra, para.
+47).  C. Application
+to the Facts in the Case at Bar   30                              
+The appellant, the Minister in Right of the Crown, relied on the reasons
+of the Tax Court Judge and Linden J.A., in dissent, and urged the Court to
+examine the “economic realities” of the taxpayer’s transactions in determining
+whether the requirements of s. 20(1) (c)(i) had been met.  31                              
+Applying Shell, I decline to do so. This Court must simply apply
+s. 20(1) (c)(i) rather than search for the economic realities of the
+transaction.  32                              
+In applying s. 20(1) (c)(i) here, the relevant question is: to
+what use were the borrowed funds put? The Tax Court Judge found that the
+purpose in using the money was to purchase a house and that this purpose could
+not be altered by the “shuffle of cheques” that occurred on October 27, 1988. I
+respectfully disagree. It is this “shuffle of cheques” that defines the legal
+relationship which must be given effect. The respondent had at least $300,000
+of his own money in the law firm. Surely it follows that the $300,000 invested
+in the law firm was not frozen for all time in the form of its original
+investment. The respondent was free to change his mind and decide whether to
+use his own money or borrowed money to finance the business of his law firm. In
+reviewing what the respondent did, it is clear that the relevant cheques were
+deposited and honoured. There is no suggestion that the transaction was a sham.
+Giving effect to the legal relationships in this case, it is clear that the
+respondent used the borrowed funds to refinance his capital account.  33                              
+This characterization of the use of the funds is not altered by the fact
+that the respondent used the money he withdrew from the firm to purchase a
+house. Nor is it altered by the fact that the transactions occurred on the same
+day.  34                              
+In my respectful opinion, it is an error to treat this as one
+simultaneous transaction. In order to give effect to the legal relationships,
+the transactions must be viewed independently. When viewed that way, on either
+version of the facts (i.e. regardless of the sequence), what the respondent did
+in this case was use the borrowed funds for the purpose of refinancing his
+partnership capital account with debt. This is the legal transaction to which
+the Court must give effect. In this regard, I adopt the following reasons of
+Rothstein J.A. (at para. 54):  In the case at bar, the direct use of the borrowed
+funds was to refinance the appellant’s capital account at the firm. Treating
+the borrowed funds as used for financing the purchase of the home ignores what
+the appellant actually did, i.e. used the borrowed funds to replace the funds
+required for his capital account at the firm. As stated by Dickson C.J. in Bronfman
+Trust, the Court cannot ignore the direct use to which the appellant put
+the borrowed money.   35                              
+The fact that the money was borrowed in order to allow the respondent to
+use his own money to purchase the house is of no moment. The Shell
+decision decided that why the money was borrowed is irrelevant. The fact that
+money was transferred from the firm to the respondent for the purchase of a
+residential property has no impact on the application of s. 20(1) (c)(i)
+to the interest incurred on borrowed money which was used directly for the
+purpose of refinancing the capital, and as such used for the purpose of earning
+income from the law firm.  36                              
+As the borrowed money was used to refinance the respondent’s capital
+account in his law firm, the issue arises as to whether such refinancing is a
+direct, eligible use of the funds within s. 20(1) (c)(i) of the Act .
+Relevant to this is the Exchequer Court of Canada decision in Trans-Prairie
+Pipelines Ltd. v. Minister of National Revenue, 70 D.T.C. 6351. This case
+involved a corporate taxpayer refinancing equity with debt. In Trans-Prairie,
+the corporate taxpayer’s issued capital consisted of redeemable preferred
+shares with a par value of $700,000 and common shares. The company borrowed $700,000
+and used $400,000 of this amount, plus $300,000 obtained by issuing additional
+common shares, to redeem the preferred shares. In effect, the taxpayer
+refinanced share equity with debt and deducted the interest on the money
+borrowed to refinance. In allowing the deduction, the court reasoned that prior
+to the transaction the taxpayer’s capital consisted in part of the $700,000
+subscribed by preferred shareholders and “as a practical matter of business
+common sense, [the $700,000 of borrowed money] went to fill the hole left by
+the redemption of the $700,000 preferred [shares]” (p. 6354).  37                              
+In Bronfman Trust, supra, it was stated that “[f]airness
+requires that the same legal principles must apply to all taxpayers,
+irrespective of their status as natural or artificial persons, unless the Act 
+specifically provides otherwise” (p. 46). As indicated by this statement, if a
+corporation can refinance equity with debt and deduct the interest on the
+associated debt, so too should the respondent be entitled to refinance his
+partnership equity with debt and deduct the interest.  38                              
+If the respondent was not allowed to do this we would end up with the
+inconsistency identified by Rothstein J.A. That is, the interest would be
+deductible where a partner’s initial capital investment was financed with
+borrowed funds. As well, it would continue to be deductible with a subsequent
+refinancing of debt. However, a partner who originally financed with his own
+money and later withdraws that money for personal use and refinances with debt
+would be denied the deduction.  39                              
+If a direct link can be drawn between the borrowed money and an eligible
+use, then the money was used for the purpose of earning income from a business
+or property. That is clearly the case in this appeal. The respondent was
+entitled to deduct the relevant interest payments from his income.  40                              
+The appellant submitted that even if there is a direct link between the
+borrowed funds and an eligible use, the respondent must still demonstrate that
+his bona fide purpose in using the funds was to earn income. However, as
+explained in Ludco Enterprises Ltd. v. Canada, [2001] 2
+S.C.R. 000, 2001 SCC 62, the appellant’s overriding concern for determining the
+respondent’s bona fide purpose in using the funds is not consistent with
+the express wording of s. 20(1) (c)(i). Absent a sham or window-dressing
+or other vitiating circumstances, none of which was alleged in this case, the
+respondent does not have to demonstrate a bona fide purpose.  41                              
+The appellant also relied upon the following obiter dicta
+statement in Bronfman Trust to support the position that even if there
+is a direct eligible use, the interest is not deductible (at pp. 54-55):  Before concluding, I wish to address one final
+argument raised by counsel for the Trust. It was submitted – and the Crown
+generously conceded – that the Trust would have obtained an interest deduction
+if it had sold assets to make the capital allocation and borrowed to replace
+them. Accordingly, it is argued, the Trust ought not to be precluded from an
+interest deduction merely because it achieved the same effect without the
+formalities of a sale and repurchase of assets. It would be sufficient answer
+to this submission to point to the principle that the courts must deal with what
+the taxpayer actually did, and not what he might have
+done. . . . In any event, I admit to some doubt about the
+premise conceded by the Crown. If, for example, the Trust had sold a particular
+income-producing asset, made the capital allocation to the beneficiary and
+repurchased the same asset, all within a brief interval of time, the courts
+might well consider the sale and repurchase to constitute a formality or a sham
+designed to conceal the essence of the transaction, namely that money was
+borrowed and used to fund a capital allocation to the beneficiary. In this
+regard, see Zwaig v. Minister of National Revenue, [1974] C.T.C. 2172
+(T.R.B.), in which the taxpayer sold securities and used the proceeds to buy a
+life insurance policy. He then borrowed on the policy to repurchase the
+securities. Under s. 20(1)(c)(i) the use of borrowed money to purchase a
+life insurance policy is not a use entitling the taxpayer to an interest
+deduction. The Tax Review Board rightly disallowed the deduction sought for
+interest payments, notwithstanding that the form of the taxpayer’s transactions
+created an aura of compliance with the requirements of the interest deduction
+provision. The characterization of taxpayers’ transactions according to their
+true commercial and practical nature does not always favour the taxpayer. The
+taxpayer Trust in this appeal asks the Court for the benefit of a
+characterization based on the alleged commercial and practical nature of its
+transactions. At the same time, however, it seeks to have the commercial and
+practical nature of its transactions determined by reference to a hypothetical
+characterization which reflects the epitome of formalism. I cannot accept that
+it should be allowed to succeed.  42                              
+The appellant has over-stated the importance of this statement. It is
+clear that Dickson C.J. was simply responding to a hypothetical question in a
+somewhat tentative way. This was more musing than jurisprudence. As well, it is
+noteworthy that in the Shell decision the Court, although invited to,
+declined to follow other obiter dicta statements from Bronfman Trust
+that similarly suggested that sophisticated transactions designed to minimize
+tax liability should not be given effect.  43                              
+In summary, it is irrelevant that by his own admission the respondent
+structured the transaction for tax purposes. Courts cannot search for the
+“economic reality” or the “bona fide” purpose of the transaction in this
+case. In giving effect to the legal relationships underlying the transactions
+here, it is obvious that the borrowed money was used directly to refinance the
+respondent’s capital account. This is a direct, eligible use within the meaning
+of s. 20(1) (c)(i) of the Act . The respondent was entitled to deduct the
+interest expenses.  VI. Disposition  44                              
+For the foregoing reasons, I would dismiss the appeal with costs to the
+respondent throughout.  The reasons of Bastarache and LeBel JJ. were delivered by  45                              
+LeBel J. (dissenting) — I
+have had the opportunity of reading the reasons of Justice Major. I
+respectfully disagree with his characterization of the findings of the trial
+judge, as well as with his analysis both of the appropriate standard of
+appellate review and of the requirements of s. 20(1) (c)(i) of the Income
+Tax Act, R.S.C. 1985, c. 1 (5th Supp .). Accordingly, I would allow
+this appeal and restore the judgment of the trial judge in this case.  1. Facts  46                              
+The facts of this case can be summarized quickly. On October 27, 1988,
+the respondent borrowed roughly $300,000 and deposited it with his law firm. On
+that very same day, he put almost exactly that same amount toward the purchase
+of a new house for himself and his wife. There is some disagreement as to the
+order in which these transactions were carried out but there is no disagreement
+that on that day, the amount of respondent’s investment in his law firm did not
+change. The only change in his financial position was that he had a new house,
+a new loan of $300,000 and a mortgage on his home.  2. Standard
+of Review  47                              
+In his reasons (at para. 22), Major J. endorses Rothstein J.A.’s view
+that the taxpayer’s purpose in using the borrowed money is a question of law,
+subject to full review by an appellate court. In so doing, of course, he also
+rejects Bowman J.T.C.C. and Linden J.A.’s view that the taxpayer’s purpose in
+using the borrowed money is a question of fact, best left up to the trial
+judge.  48                              
+I adopt a different approach to this question. Although I agree that
+this case turns on the purpose for which the borrowed money was used, I
+take the view that, the determination of this issue requires us to examine the
+surrounding facts in order to determine the taxpayer’s purpose in undertaking
+these transactions, as did Linden J.A. and Bowman J.T.C.C. Since it was the
+trial judge who heard all the evidence that would be relevant to determining
+the taxpayer’s purpose (concerning the surrounding circumstances, etc.),
+deference should be given to his understanding of the facts. The issue may not
+be then characterized as a pure question of law just because the determination
+of the purpose of the taxpayer in his use of borrowed money is determinative of
+the application of s. 20(1) (c)(i). On this basis, I will now turn to my
+substantive analysis.  3. Economic
+Realities  49                              
+As I have already mentioned, I do not believe that it is necessary to
+reconsider the trial judge’s analysis at this stage because his conclusion
+substantially rests on determinations of facts, where he should be given
+significant deference. However, given the disagreement on this issue, I will
+examine the merits of the trial judge’s conclusions on the question of the
+economic realities of the transaction that occurred.  a.    Shell Canada  50                              
+Major J. cites McLachlin J.’s (as she then was) unanimous decision in Shell
+Canada Ltd. v. Canada, [1999] 3 S.C.R. 622, at para. 40, for the
+proposition that “a searching inquiry for . . . the ‘economic
+realities’ of a particular transaction . . . can never supplant a
+court’s duty to apply an unambiguous provision of the Act  to a taxpayer’s
+transaction”.  He interprets this quotation to mean that “taxpayers are
+entitled to structure their transactions in a manner that reduces taxes. The
+fact that the structures may be complex arrangements does not remove the right
+to do so” (para. 28). This is too broad a conclusion to draw from McLachlin
+J.’s comments in Shell Canada. Some structures will attract deductions
+and others will not. The question at issue in this appeal is precisely which
+“complex arrangements” generate tax deduction and which do not.  51                              
+It is of course true that in Shell Canada this Court qualified
+the “economic realities” jurisprudence it had spent many years constructing. In
+a long history of cases at this Court, from Bronfman Trust v. The Queen,
+[1987] 1 S.C.R. 32, through Tennant v. M.N.R.,
+[1996] 1 S.C.R. 305, as well as in a number of important cases in the courts
+below such as Mark Resources Inc. v. Canada, 93 D.T.C. 1004
+(T.C.C.), it had come to be accepted as part of the jurisprudence that, in tax
+cases, courts should look to the economic realities of the situation and not
+merely to the legal technique adopted by the taxpayer. In Shell Canada, supra,
+at paras. 39-40, this Court carved out two caveats to this general principle
+which can be summarized as follows:  (1)               economic realities cannot be used
+to re-characterize bona fide legal relationships; and  (2)               an inquiry concerning economic
+realities cannot supplant a court’s duty to apply clear and unambiguous
+statutory terms.  52                              
+Although these two caveats can be considered a weakening of the
+“economic realities” jurisprudence of this Court, they do not amount to a
+wholesale rejection of it. The first caveat simply turns one difficult
+normative question into another. Rather than asking what the economic realities
+are, McLachlin J. says that we should ask whether the legal relations created
+by the taxpayer were bona fide. This, of course, still requires courts
+to look beyond the legal instruments used by the taxpayer. It limits such
+inquiries to those cases where the legal relations were not created bona
+fide, for instance where transactions simply amount to window dressing as
+in Backman v. Canada, [2001] 1 S.C.R. 367, 2001 SCC 10.
+Since it is still very much in question whether the legal relations in the case
+at bar were created bona fide, this is an important consideration.  53                              
+The second caveat presented by McLachlin J. is that, whatever the economic
+realities of the situation might be, they can never grant a court license to
+ignore clear statutory language. As I shall argue at greater length in the next
+section (on statutory interpretation), however, it is not at all clear that the
+statutory language itself requires us to consider two transactions in isolation
+from one another. This is precisely the difficult question of statutory
+interpretation which is involved in this appeal. With respect, it begs the
+question to argue that the clear meaning of the section is that the
+transactions must be considered separately.  b.    “Economic Realities” Jurisprudence  54                              
+As I have said, Shell Canada did not overrule the economic
+realities rule. This general rule was adopted by Dickson C.J. in Bronfman
+Trust, supra, at p. 53, as follows:  Assessment of taxpayers’ transactions with an eye to commercial and
+economic realities, rather than juristic classification of form, may help to
+avoid the inequity of tax liability being dependent upon the taxpayer’s
+sophistication at manipulating a sequence of events to achieve a patina of
+compliance with the apparent prerequisites for a tax deduction.  55                              
+In that case, Dickson C.J. argued, at p. 55, that a situation such as
+the very one at bar would likely be rejected, possibly as a sham, but also on
+other grounds:   Dickson C.J.’s
+reasons are precisely on point and should not be dismissed as mere obiter
+dicta on an hypothetical issue. It appears that the then Chief Justice put
+his mind precisely to this scenario and found that the economic reality of the
+situation was that the two transactions should be understood as one.  56                              
+Indeed, Linden J.A. makes clear, at [1999] 4 F.C. 484, at paras. 11 et
+seq., in his thoughtful and well-reasoned dissenting judgment in this case
+in the Federal Court of Appeal that Dickson C.J.’s comments should be construed
+as rejecting such a scenario not simply as a sham, but on other grounds, as
+well. Moreover, such a scenario was rejected by the Tax Review Board in Dunn
+v. M.N.R., 74 D.T.C. 1121, not on the grounds that it was a
+sham, but simply that, looking at the substance of the transaction, such money
+was not used for the purpose of earning income.  57                              
+Later, in Tennant, Iacobucci J. examined the economic realities
+of the situation – this time to favour the taxpayer. He found that the taxpayer
+could deduct the full amount of interest payable on a loan of $1,000,000 even
+though he had exchanged the original investment for one with a market value of
+only $1,000. The reason for this was that, although at the time of assessment
+the taxpayer was only using $1,000 for the purposes of earning income from
+property, the “economic reality” of the situation was that he had originally
+borrowed $1,000,000 for the purpose of investment. The legal form of the
+transaction, therefore, did not accord with the economic reality.  58                              
+Since, as we have seen above, Shell Canada does not
+overrule this Court’s “economic realities” jurisprudence, these decisions
+should still be regarded as good law. Dickson C.J.’s analysis can be reconciled
+with McLachlin J.’s first caveat: he is simply arguing that the legal
+relationships in the Bronfman Trust hypothetical were not created bona
+fide. Accordingly, it is still appropriate to consider the two steps as
+part of a single transaction for the purposes of tax assessment. As for the
+second caveat in Shell Canada, it applies to the construction of
+statutory terms. Let us now proceed to that stage of the analysis.  4.   Statutory
+Interpretation  a.    The Words-in-Total-Context Approach  59                              
+In Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536,
+this Court articulated a new method of statutory interpretation appropriate to
+the Income Tax Act , dubbed the “words-in-total-context approach” by
+MacGuigan J.A. in Harris Steel Group Inc. v. M.N.R., 85 D.T.C.
+5140 (F.C.A.). In Stubart, at p. 578, citing Construction of Statutes
+(2nd ed. 1983), at p. 87, Estey J. endorsed the rule of statutory
+interpretation from E. A. Driedger that this Court had already adopted for
+other statutes, viz., that “the words of an Act  are to be read in their
+entire context and in their grammatical and ordinary sense harmoniously with
+the scheme of the Act , the object of the Act , and the intention of Parliament”.  60                              
+Since Stubart, this Court has taken such an approach in a number
+of other decisions, such as The Queen v. Golden, [1986] 1 S.C.R.
+209, at p. 214, per Estey J., and Symes v. The Queen,
+[1993] 4 S.C.R. 695, at p. 744, per Iacobucci J., and at p. 806, per
+L’Heureux-Dubé J. Even cases such as Québec (Communauté urbaine) v. Corp.
+Notre-Dame de Bon-Secours, [1994] 3 S.C.R. 3, at p. 15 (advocating the
+teleological approach), and Friesen v. Canada, [1995] 3 S.C.R. 103, at
+para. 10, per Major J. (advocating the “plain meaning” approach), still
+refer to Stubart as the foundational modern Canadian case for statutory
+interpretation.  61                              
+The words-in-total-context approach steers a middle course between the
+pure teleological method of Gonthier J. in Corp. Notre-Dame de Bon-Secours
+and Major J.’s focus on the “plain meaning” of the statute in Friesen.
+As Professor Duff points out in his article “Interpreting the Income Tax Act ”
+(1999), 47 Can. Tax J. 741, at p. 787, “[i]n rejecting the
+extremes of purposive interpretation on the one hand and the plain meaning rule
+on the other, the words-in-total-context approach affirms a more
+‘open-textured’ approach to statutory interpretation . . .”.  62                              
+It is important to keep in mind that McLachlin J.’s second caveat in Shell
+Canada does not require a simplified “plain meaning” rule of statutory
+interpretation. The words-in-total-context approach ensures that clear
+statutory language is not overlooked in order to carry out a broad statutory
+purpose more effectively. It is the approach that should be applied here.  b.    The Teleological Approach  63                              
+This Court unanimously endorsed a “teleological approach” to the
+interpretation of the tax legislation in its 1994 decision Corp. Notre-Dame
+de Bon-Secours. According to Gonthier J.’s view, at p. 18, courts should
+look first to the legislature’s purpose in order to determine
+legislative intent. Once this intent has been determined, then courts can
+identify the sorts of presumptions to be applied to a particular section:  . . .  it is the teleological interpretation that will
+be the means of identifying the purpose underlying a specific legislative
+provision and the Act  as a whole; and it is the purpose in question which
+will dictate in each case whether a strict or a liberal interpretation is
+appropriate or whether it is the tax department or the taxpayer which will be
+favoured. [Emphasis added.]  64                              
+This approach, however, cannot be mechanically applied for it may raise
+the first of Dickson C.J.’s worries concerning statutory interpretation in Bronfman
+Trust (which is the same in substance as McLachlin J.’s first caveat
+in Shell Canada), i.e. losing sight of the fact that an appreciation of
+the context of legislation is helpful “provided it is consistent with the text
+. . . of the taxation statute” (p. 53). If we begin by considering
+the purposes of the statute we run the risk of obscuring the meaning of the
+particular statutory language in our enthusiasm to forward the general
+statutory purpose. Careful attention must always be taken to give effect to the
+particular language Parliament chose to use.  c.    The Plain Meaning Approach  65                              
+The reaction to the teleological approach emphasises the particular
+statutory language and is often referred to as the “plain meaning” approach.
+This Court has not dealt consistently with what, precisely, this approach
+entails. Some cases, such as Major J.’s majority decision in Friesen (at
+pp. 113-114, citing P. W. Hogg and J. E. Magee, Principles of
+Canadian Income Tax Law (1995), section 22.3(c), “Strict and purposive
+interpretation”, at pp. 453-54) take a hard line, as follows:  . . . “object and purpose” can play only a limited role in
+the interpretation of a statute that is as precise and detailed as the Income
+Tax Act . When a provision is couched in specific language that admits of no
+doubt or ambiguity in its application to the facts, then the provision must be
+applied regardless of its object and purpose.  66                              
+Other cases, such as Cory J.’s majority decision in Alberta (Treasury
+Branches) v. M.N.R., [1996] 1 S.C.R. 963, however, have understood
+the test differently, so much so that is often difficult to distinguish from
+the words-in-total-context approach. In that case, Cory J. held, at para. 15,
+that “in order to determine the clear and plain meaning of the statute it is
+always appropriate to consider the ‘scheme of the Act , the object of the Act ,
+and the intention of Parliament’”.  67                              
+Cory J.’s understanding of the “plain meaning” approach in Alberta
+(Treasury Branches) is peculiar but telling. By turning to the total
+context of the statute in order to determine the “plain meaning” of statutory
+language, he shows that the meaning of statutory language is at times clear
+only in a particular context. It is a basic axiom of all textual interpretation
+that meaning is context-dependent. Some statutory language might appear
+to be obvious in its meaning independent of context. This is not, however,
+because context plays no part in interpreting the words used. Rather, it is
+simply because the context is so predictable that we need not pay it any
+special attention. Nevertheless, it plays a central role in our understanding of
+the words used.  68                              
+If the “plain meaning” approach is to make any sense at all, it surely
+cannot mean that we are always to ignore context when interpreting statutory
+language. Rather, it must be understood to say that although context is always
+important, sweeping considerations of general statutory purpose cannot outweigh
+the specific statutory language chosen by Parliament. It is an acknowledgement
+that Parliament’s purposes can be complex. Rather than finding a single purpose
+for the Act  as a whole and using it to interpret the clear language of specific
+provisions, we should use such broad purposes only as a context to help
+elucidate the meaning of the specific statutory language. Understood in this
+way, it is not inconsistent with the basic thrust of the words-in-total-context
+approach.  5. Application
+to the Case at Bar  69                              
+The foregoing discussion, I believe, provides the necessary background
+for a proper disposition of this case. Although, as I mentioned above, we need
+not review the merits of the trial judge’s analysis of the case (since it turns
+on an understanding of the purpose for which the borrowed money was used, which
+is substantially a question of fact best left up to him), a careful analysis
+reveals that his decision is entirely correct, all the same. In order to show
+this, I will apply the principles discussed above to the facts of the case.                     a.    Economic Realities  70                              
+In Shell Canada, McLachlin J. never excluded the
+recharacterization of all legal relationships created by the taxpayer; she only
+protected bona fide legal relations. Thus, she invites a normative
+inquiry into whether or not such relations are created bona fide in
+order to meet the requirements of the statute.  71                              
+Dickson C.J.’s decision in Bronfman Trust makes clear that a
+situation such as the one t bar is suspect. Whether or not such a series of
+transactions constitutes a sham, they clearly do not constitute a set of bona
+fide legal relations. It is an undisputed finding of fact that the
+respondent funnelled money through his law firm simply to secure a tax
+advantage; his borrowing was not made with the bona fide purpose of
+generating income from his business.  b.    Section 20(1) (c)(i) in Total Context  72                              
+As mentioned earlier, we must proceed with a contextual reading of s.
+20(1) (c)(i). Following Dickson C.J.’s obiter dictum from Bronfman
+Trust, I would hold that the legal relations created by the taxpayer have
+not been created bona fide.   74                              
+Second, I turn to the purpose of the particular provision. According to Bronfman
+Trust, supra, at p. 45, “Parliament created s. 20(1) (c)(i), and made
+it operate notwithstanding s. 18(1)(b), in order to encourage the
+accumulation of capital which would produce taxable income” (emphasis
+added). Thus, insofar as the deduction is being claimed for a use of borrowed
+capital that will not lead to the production of income (but, instead will
+simply fund the purchase of personal property), I would be disinclined to grant
+such a deduction.  75                              
+c.    Considering the Transactions Together  The argument was made in this appeal that it was an error of law to
+treat the successive transactions as one and that they should be viewed
+independently. With respect, I do not agree. As Linden J.A. states, at para.
+27, in his dissenting judgment in the Federal Court of Appeal:  There is no rigid rule which demands that complex
+transactions be viewed as separate steps or as one transaction. The task at
+hand is to discover the economic and commercial reality of the transaction in
+order to discover whether the borrowed money was used for the purpose of
+earning income.  Whether or not
+we consider the two transactions separately or together does not affect the
+legal relations created by the taxpayer. Of course, if we examine the two
+together, we will discover that the individual transactions were not created bona
+fide and that the overt attempt to meet the requirements of s. 20(1) (c)(i)
+was legally ineffective. Although the taxpayer did put roughly $300,000 of
+borrowed money into his law firm, this does not mean that borrowed money was
+used for the purpose of earning income. Rather, understood in context, it was
+used to shore up a shortfall incurred as a result of his purchase of a home
+with his firm’s funds.  d.   Equities  76                              
+The respondent contended that it would be inequitable not to allow a
+deduction to the taxpayer in this case because, as my colleague put it, “if a
+corporation can refinance equity with debt and deduct the interest on the
+associated debt, so too should the respondent be entitled to refinance his
+partnership equity with debt and deduct the interest” (para. 37). Major J.
+supports this claim by pointing out that fairness requires that no distinction
+be made between natural and artificial persons.  77                              
+I do not think it follows that, just because a corporation can refinance
+equity with debt and obtain a deduction on the interest, the respondent should
+be entitled to refinance his partnership equity with debt and deduct the
+interest. Allowing the deduction for the corporation but not for the respondent
+does not rest on the difference between natural and artificial persons with
+differing treatment giving rise to a claim of unfairness. The point is that
+when the corporation borrows money, this is money that will relate to the
+business by definition or default, whereas in the case of a person with an
+ownership interest in a business (i.e., a partner in a partnership), the
+borrowed money may or may not relate to the business. Here it does not. In
+other words, if the deduction is denied to the respondent in the circumstances,
+it is not denied to him because he is a natural person; rather he is denied the
+deduction because, being an individual, the money he borrows may or may not
+relate to the business and here the “shuffle of checks” is insufficient to make
+it so given the personal use of the borrowed money.  78                              
+Hence, the present situation is not analogous to that of Trans-Prairie
+Pipelines Ltd. v. Minister of National Revenue, 70 D.T.C. 6351 (C. de
+l’É.). In that case, the shortfall that the taxpayer corporation made up with
+borrowed funds was created by an indisputably business-related expense, viz.,
+paying off a business debt to preferred shareholders. In the present case, the
+taxpayer has no such business purpose. The situation is much closer to that in Sternthal
+v. The Queen, 74 D.T.C. 6646 (F.C.T.D.), where the taxpayer had a large
+corporate shortfall because he had given large income-free loans to his
+children. In that case, the deduction was not allowed.  79                              
+In para. 38, Major J. agrees with Rothstein J.A. that an inconsistency
+would arise if the deduction were to be denied to a partner who originally
+financed the partnership with his own money, withdraws that money for personal
+use and refinances this with debt, whereas a partner whose initial investment
+was financed with borrowed funds would get a deduction of interest and any
+subsequent refinancing with debt would also have a deductible interest. I think
+this comparison is misleading and the unfairness it is meant to point to is
+more apparent than real.  80                              
+A partner whose initial investment was financed with borrowed money will
+only continue to get the interest deduction on any subsequently borrowed money
+if that money is related to the business. He will not get the deduction for
+personal spending. Hence, he compares favourably with someone in the
+respondent’s position, i.e. a partner who originally finances the partnership
+with his own money. Access to the deduction does not turn on whether or not the
+initial investment is with borrowed money, but what the borrowed money is used
+for – personal use means no deduction regardless of when the borrowing started.
+As a consequence, there is no difference or differential treatment giving rise
+to potential unfairness. We must view access to the deduction in consideration
+of the use of the borrowed funds, as the provision directs us to; there is then
+no worry about an inconsistency. Where the borrowed money is used for personal
+purchases, there is no deduction in either case. Otherwise, a different kind of
+unfairness would be created, namely that partners in partnerships would be
+given access to a way to finance the purchase of their homes by virtue of a
+shuffle through the capital accounts of their law firms.  81                              
+The unfavourable comparison between a partner who need not borrow money
+to invest in the partnership but who does so and as a result benefits from both
+the interest deduction and is left with capital that could be used for personal
+consumption and a partner who uses his or her own money for investment in the
+law firm and as a result does not have that capital available for personal
+consumption is a comparison seems too hypothetical to me and requires assuming
+that things happened differently than they did in this case. If Singleton had
+borrowed rather than used his own money to finance the firm when he first
+joined it, theoretically, he could have used that money to buy a house. But
+that is not what he did. He used his money to invest in the partnership and the
+money he borrowed was used to finance the house, not to finance the partnership
+(he only returns it to the partnership because he took it from the
+partnership). We cannot attribute to him tax treatment because of something he
+could have done. We must look at what he did. As Linden J.A. states, at p. 501,
+in his dissent in the Federal Court of Appeal, “[w]e must examine what the
+taxpayer actually did, not what he could have or should have done”.  82                              
+There is no inconsistency in saying that if a taxpayer does something
+one way, certain tax consequences follow, but things, if done another way,
+would be treated differently. He should not get the benefit of an
+interpretation which attributes to him the benefits of a possible way to
+arrange his affairs; he is to be taxed on how those affairs were actually
+arranged. In other words, we cannot say that he should obtain the
+deduction because he could have obtained the deduction by another
+different arrangement of his affairs. The Act requires that the court consider
+the actual purpose for which the borrowed money was used. The question
+to be asked in order to ascertain that purpose is rather simple in my view:
+what was changed by these transactions? Here it was the acquisition of a house.
+The financing of the law firm remained the same.  83                              
+Moreover, the idea that a partner who has originally invested money in a
+law firm that he could have used for personal consumption should be given the
+same tax benefit as the partner who borrows for that initial investment and
+then removes equity from the firm later in order to make a personal purchase
+does not result in a standard of “equal treatment” that is practicable. Suppose
+the respondent had borrowed in order to buy his part of the partnership,
+obtaining as he should deduction on the interest of the debt. Imagine that in
+five years he had repaid the borrowed money. Now suppose that the respondent
+did what he did here, i.e. took out his equity in the law firm, bought the
+house and borrowed to replace the money he took out of the capital account. If the
+deduction on the interest of the second loan is allowed, this means that the
+fictitious purpose is dominant in all cases as a result, a taxpayer can
+effectively continue to obtain deductions for personal consumption at will.
+This clearly cannot be what is intended by the legislation, which calls for a
+deduction only when the bona fide use of the borrowed funds is to
+produce income.  e.    “Direct Link” analysis from Shell Canada  84                              
+It was also submitted that there is a direct link between the taxpayer’s
+borrowing of the funds in question and an eligible use. According to Shell
+Canada, supra, the interest paid on that money should
+therefore be deductible. With respect for the opposite view, I do not agree
+with this reading of Shell Canada.   85                              
+In Shell Canada, McLachlin J. did, in fact, use the language of
+“direct link.” She stated, at para. 32 as follows:  Here, Shell borrowed NZ$150 million from the
+foreign lenders and immediately exchanged it for approximately US$100 million
+before applying it to its business. This exchange did not after the basic
+character of the funds as “borrowed money”. Money is fungible. The US$100
+million was simply the NZ$150 million transformed into a different currency
+which, although it changed its legal form and its relative value, did not
+change its substance. It remained money. [. . .] Viewed thus, it is
+apparent that all of the NZ$150 million that Shell borrowed from the foreign
+lenders was borrowed money currently and directly used for the purpose of
+producing income from Shell’s business. The direct link between the borrowed
+money and the activity calculated to produce income can hardly be compared to
+the indirect use at issue in Bronfman Trust. . . .   86                              
+From this passage, it appears that McLachlin J. was not dealing with a
+situation at all similar to the one at bar. Rather, she was concerned to answer
+the argument that because the borrowed money was denominated in New Zealand
+dollars, it should not be deductible since it was immediately converted into
+U.S. dollars. She points out that money is fungible, however, so the
+denominations are immaterial to the analysis. In the present case, we are
+concerned with two possible uses of the borrowed funds: one is to invest in the
+law firm in order to generate income and the other is to purchase a home. In Shell
+Canada, by contrast, all the uses to which the money might be put are
+business-related. The only concern is whether a legal formality (that the funds
+were borrowed in New Zealand currency but were invested in U.S.currency) should
+prevent the taxpayer from being able to deduct interest on borrowed funds that
+clearly went toward its business.  87                              
+Reading McLachlin J.’s decision in Shell Canada as a whole leads
+to the conclusion that she does not mean to suggest that a taxpayer can deduct
+the interest he paid on money he borrowed for a purpose totally unrelated to
+his business. Rather, she simply held that bona fide legal relationships
+should not be disregarded by the courts in analysing such transactions. Since,
+as McLachlin J. points out, money is fungible, the denominations in which it is
+calculated are irrelevant to understanding the essence of the transaction.
+Since she maintains that it is only bona fide legal relationships that
+are to be given deference by the courts, there must be some legal relationships
+that courts still consider not to be bona fide. The facts in the present
+case surely present as strong a case of legal relations created without bona
+fide as one could imagine. A loan was obtained to finance the purchase of a
+private home. Interest paid in respect of such a loan should not be claimed as
+a deduction from taxable income.  6.  Conclusion  88                              
+For the reasons stated above, I would grant the appeal and restore the
+judgment of Bowman J.T.C.C.  Appeal dismissed with costs, Bastarache
+and LeBel JJ. dissenting.  Solicitor for the appellant: The Deputy Attorney General of
+Canada, Department of Justice, Ottawa.  Solicitors for the respondent: Davis & Company, Vancouver.    

@@ -1,0 +1,950 @@
+Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622  Shell Canada Limited  Appellant/Respondent                                                                       on
+cross-appeal  v.  Her Majesty The Queen                                                             Respondent/Appellant                                                 on
+cross-appeal  and  Canadian Pacific Limited and
+Her Majesty The Queen            Interveners  Indexed as:  Shell Canada Ltd. v. Canada  File No.:  26596.  Hearing and judgment:  June 14, 1999. Reasons delivered:  October 15, 1999.   on appeal from the federal court of appeal  Income Tax – Income
+from business – Deductions – Interest – Taxpayer entering
+into debenture agreements with foreign lenders to borrow NZ dollars – NZ
+dollars used by taxpayer to purchase US dollars pursuant to forward exchange
+contract with foreign bank – Interest on debentures payable
+semi-annually at market rate – Whether s. 20(1)(c)(i) of Income Tax
+Act allows taxpayer to deduct from its income all of semi-annual interest
+payments made to lenders under debenture agreements – If so, whether
+s. 67  or former s. 245(1)  of Income Tax Act applicable to reduce
+deduction to  amount that would have been paid if US dollars had been borrowed
+directly – Income Tax Act, R.S.C., 1985, c. 1 (5th Supp .),
+ss. 20(1) (c)(i), 67  – Income Tax Act , S.C. 1970-71-72, c. 63,
+s. 245(1).  Income Tax – Income
+or capital gain – Net foreign exchange gain – Whether net foreign
+exchange gain taxable as income or as capital gain.  In 1988, Shell required approximately US$100 million
+for general corporate purposes.  To get the money at the lowest possible
+after-tax cost, first, it entered into debenture agreements with three foreign
+lenders borrowing NZ$150 million at the market rate of 15.4 percent per annum. 
+Shell was required to make 10 semi-annual interest payments of NZ$11.55
+million.  The principal was to be returned to the lenders in 1993.  Second,
+Shell entered into a forward exchange contract with a foreign bank, pursuant to
+which it used the NZ$150 million to purchase approximately US$100 million.  The
+forward exchange contract also allowed Shell to  exchange a specified amount of
+US dollars for NZ$11.55 million on each day that a semi-annual payment to the
+lenders was due, and to exchange another specified amount of US dollars for
+NZ$150 million when the time came to repay the principal to the lenders.  The
+exchange rates in the forward exchange contract were established by reference
+to the forward exchange rates for NZ dollars for the period of the loan.  When computing its income for tax purposes, Shell
+relied on s. 20(1) (c) of the Income Tax Act  and deducted the
+interest, calculated at the rate of 15.4 percent per annum, that it had paid
+under the debenture agreements.  For its 1993 taxation year,  Shell reported a
+capital gain of approximately US$21 million.  The Minister of National Revenue
+reassessed Shell for the 1992 and 1993 taxation years on the basis that it was
+only permitted to deduct interest at the rate it would have paid had it
+borrowed US dollars, i.e., 9.1 percent per annum.  The claimed capital gain for
+the 1993 taxation year was also reassessed as being on income account.  The Tax
+Court of Canada set aside the Minister’s reassessment.  The Federal Court of
+Appeal allowed the Minister’s appeal but held that Shell could claim the net
+foreign exchange gain on capital account.  Shell appealed to this Court on the
+interest rate issue and the Minister cross-appealed on the capital gain issue.  Held:  The appeal should be allowed.  The cross-appeal should be
+dismissed.  (1)  Appeal  Shell was entitled to deduct from its income all of
+its semi-annual payments of interest made to the lenders under the debenture
+agreements during the relevant taxation years.  Section 20(1) (c)(i) of
+the Income Tax Act  allows taxpayers to deduct from their income interest
+payments on borrowed money that is used for the purpose of earning income from
+a business or property.  The provision has four elements:  (1) the amount must
+be paid in the year or be payable in the year in which it is sought to be
+deducted; (2) the amount must be paid pursuant to a legal obligation to pay
+interest on borrowed money; (3) the borrowed money must be used for the purpose
+of earning non-exempt income from a business or property; and (4) the amount
+must be reasonable, as assessed by reference to the first three requirements.  Here, the four elements are met.  First, the amounts
+paid by Shell to the lenders were actually paid during the years in which they
+were sought to be deducted. Second, Shell had a legal obligation to make the
+semi-annual payments to the lenders under the debenture agreements.  Third,
+there is a sufficiently direct link between the borrowed money and the current
+eligible use.  In this case, the NZ$150 million that Shell borrowed from the
+lenders was directly used for the purpose of producing income from its business. 
+It does not necessarily matter if the borrowed funds are commingled with funds
+used for another purpose, provided that the borrowed funds can in fact be
+traced to a current eligible use.  Fourth, under s. 20(1) (c), a
+taxpayer is entitled to deduct the lesser of (1) the actual amount paid or, (2)
+a reasonable amount in respect of “an amount paid . . . pursuant to a
+legal obligation to pay interest on . . . borrowed money used for the
+purpose of earning income from a business or property”.  Here, the borrowed
+money that was used for the purpose of earning income was the NZ$150 million at
+15.4 percent – the market rate for a loan of NZ dollars in 1988 for a five-year
+term.  Where an interest rate is established in a market of lenders and
+borrowers acting at arm’s length from each other, it is generally a reasonable
+rate.  Courts must be sensitive to the economic realities of
+a particular transaction, rather than being bound to what first appears to be
+its legal form.  There are, however, caveats to this rule.  First,
+absent a specific provision of the Act to the contrary or a finding that they
+are a sham, the taxpayer’s legal relationships must be respected in tax cases. 
+Recharacterization is only permissible if the label attached by the taxpayer to
+the particular transaction does not properly reflect its actual legal effect. 
+Second, it is well established that a searching inquiry for either the
+“economic realities” of a particular transaction or the general object and
+spirit of the provision at issue can never supplant a court’s duty to apply an
+unambiguous provision of the Act to a taxpayer’s transaction.  Where the
+provision at issue is clear and unambiguous, its terms must simply be applied.  Courts must be cautious before finding within the
+clear provisions of the Act an unexpressed legislative intention.  Absent a
+specific provision to the contrary, it is not the courts’ role to prevent
+taxpayers from relying on the sophisticated structure of their transactions,
+arranged in such a way that the particular provisions of the Act are met, on
+the basis that it would be inequitable to those taxpayers who have not chosen
+to structure their transactions that way.  Where the applicable provision has its own internal
+reference to “reasonableness”, as does s. 20(1)(c)(i), s. 67
+of the Act could not apply without distorting the plain meaning of the more
+specific provision.  Indeed, if a deduction is “reasonable” within the meaning
+of s. 20(1) (c)(i), it is difficult to see how it would not also be “reasonable”
+within the meaning of s. 67.  Because even the broadest interpretation of the former
+s. 245(1) of the Act does not apply to limit Shell’s deductions, it is
+unnecessary in this appeal to determine conclusively the proper interpretation
+to be given to it.  In any event, on the broad test for the former
+s. 245(1)  developed by the Federal Court of Appeal, Shell’s decision to
+deduct its interest payments to the lenders at the rate of 15.4 percent per
+annum cannot be impugned.  First, deducting the interest at that rate is not
+contrary to the object and spirit of s. 20(1) (c)(i).  Second, the
+deductions were based on transactions that were in accordance with normal
+business practice.  Third, there was a bona fide business purpose for
+the debenture agreements that gave rise to the deductions in issue.  (2) Cross-appeal  The US$21 million net foreign exchange gain should be
+taxed as a capital gain.  Whether a foreign exchange gain arising from a
+hedging contract should be characterized as being on income or capital account
+depends on the characterization of the debt obligation to which the hedge
+relates.  Shell entered into the foreign exchange contract in order to hedge
+with US dollars the market risk on the debenture agreements, which were denominated
+in NZ dollars.  The gain on the debenture agreements was characterized as being
+earned on capital account and so therefore should the gain on the foreign
+exchange contract.  Cases Cited  Considered:  Bronfman
+Trust v. The Queen, [1987] 1 S.C.R. 32; Tennant v. M.N.R., [1996] 1
+S.C.R. 305; Canada v. Fording Coal Ltd., [1996] 1 F.C. 518, leave to
+appeal denied, [1996] 3 S.C.R. viii; Canada v. Central Supply Co. (1972)
+Ltd., [1997] 3 F.C. 674, leave to appeal denied, [1997] 3 S.C.R. vii;  referred
+to:  Canada Safeway Ltd. v. Minister of National Revenue, [1957]
+S.C.R. 717; Reference as to the Validity of Section 6 of the Farm Security
+Act, 1944 of Saskatchewan, [1947] S.C.R. 394, aff’d [1949] A.C. 110; Mohammad
+v. The Queen, 97 D.T.C. 5503; Canada v. Irving Oil Ltd., [1991] 1
+C.T.C. 350; Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R.
+298; Canada v. Antosko, [1994] 2 S.C.R. 312; Friesen v. Canada,
+[1995] 3 S.C.R. 103; Alberta (Treasury Branches) v. M.N.R., [1996] 1
+S.C.R. 963; Canderel Ltd. v. Canada, [1998] 1 S.C.R. 147; Royal Bank
+of Canada v. Sparrow Electric Corp., [1997] 1 S.C.R. 411; Stubart
+Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536; Duha Printers
+(Western) Ltd. v. Canada, [1998] 1 S.C.R. 795; Neuman v. M.N.R.,
+[1998] 1 S.C.R. 770; Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336;
+Canada v. Mara Properties Ltd., [1995] 2 F.C. 433; The Queen v. Nova
+Corporation of Alberta, 97 D.T.C. 5229; Produits LDG Products Inc. v.
+The Queen, 76 D.T.C. 6344; The Queen v. Alberta and Southern Gas Co.,
+[1978] 1 F.C. 454; Tip Top Tailors Ltd. v. Minister of National Revenue,
+[1957] S.C.R. 703; Alberta Gas Trunk Line Co. v. M.N.R., [1972] S.C.R.
+498; Columbia Records of Canada Ltd. v. M.N.R., [1971] C.T.C. 839; Beauchamp
+(H.M. Inspector of Taxes) v. F. W. Woolworth plc., [1989] B.T.C. 233; Friedberg
+v. Canada, [1993] 4 S.C.R. 285; Ikea Ltd. v. Canada, [1998] 1 S.C.R.
+196.  Statutes and Regulations Cited  Income Tax Act, R.S.C., 1985, c. 1 (5th Supp .), ss. 9(1) , (3) , 18(1) (b),
+20(1) (c)(i), 67 .  Income Tax Act , S.C. 1970-71-72, c. 63, s. 245(1) [rep. & sub. 1988,
+c. 55, s. 185].  Authors Cited  Broadhurst,
+David G. “Income Tax Treatment of Foreign Exchange Forward Contracts, Swaps,
+and Other Hedging Transactions”, in Report of Proceedings of the Forty-First
+Tax Conference.  Toronto:  The Foundation, 1990.  Hogg, Peter W., and Joanne E.
+Magee.  Principles of Canadian Income Tax Law, 2nd ed. Scarborough: 
+Carswell, 1997.  Ruby, Stephen S. “Recent Financing
+Techniques”, in Report of Proceedings of the Forty-First Tax Conference. 
+Toronto:  The Canadian Tax Foundation, 1990.   APPEAL and CROSS-APPEAL from a judgment of the Federal
+Court of Appeal, [1998] 3 F.C. 64, [1998] 2 C.T.C. 207, 157 D.L.R. (4th) 655, 223
+N.R. 122, 98 D.T.C. 6177, [1998] F.C.J. No. 194 (QL), allowing in part the
+Minister’s appeal from a decision of the Tax Court of Canada, [1997] 3 C.T.C.
+2238, 97 D.T.C. 395, [1997] T.C.J. No. 285 (QL), which allowed the taxpayer’s
+appeal from the Minister’s reassessment.  Appeal allowed and cross-appeal
+dismissed.  Alnasir Meghji, Ronald B. Sirkis, Gerald A. Grenon and Edward Rowe, for the appellant/respondent on
+cross-appeal.  S. Patricia Lee and Harry
+Erlichman, for the respondent/appellant on cross-appeal/intervener.  Michael E. Barrack and Gabrielle
+M. R. Richards, for the intervener Canadian Pacific Limited.  The judgment of the Court was delivered by  1             
+McLachlin J. – This appeal
+by Shell Canada Limited (“Shell”) and the cross-appeal by the Minister of
+National Revenue (the “Minister”) require the Court to consider the proper
+income tax treatment of a sophisticated corporate financing arrangement.  At
+the conclusion of the hearing, the Court allowed Shell’s appeal and dismissed
+the Minister’s cross-appeal, with reasons to follow for both decisions.  These
+are those reasons.  I.  Facts  2             
+In 1988, Shell required approximately $100 million in United States
+currency (“US$”) for general corporate purposes.  To get the money it required
+at the lowest possible after-tax cost, Shell embarked upon a complex financing
+scheme that proceeded in two stages.  First, Shell entered into debenture
+purchase agreements (the “Debenture Agreements”) with three foreign lenders,
+pursuant to which it borrowed approximately $150 million in New Zealand
+currency (“NZ$”) at the market rate of 15.4 percent per annum.  Shell was
+required to make payments of NZ$11.55 million to the foreign lenders on
+November 10 and May 10 of each year until 1993.  The principal of NZ$150
+million was to be returned to the foreign lenders on May 10, 1993.  3             
+Second, Shell entered into a forward exchange contract (the “Forward
+Exchange Contract”) with Sumitomo Bank Ltd. (“Sumitomo”), pursuant to which it
+used the NZ$150 million it had borrowed from the foreign lenders to purchase
+approximately US$100 million.  That US$100 million was then used in Shell’s
+business.  The Forward Exchange Contract between Shell and Sumitomo also
+allowed Shell to, (1)  exchange a specified amount of US$ for NZ$11.55 million
+on each day that a semi-annual payment to the foreign lenders was due, and (2)
+to exchange another specified amount of US$ for NZ$150 million when the time
+came to repay the principal to the foreign lenders.  4             
+The exchange rates in the Forward Exchange Contract were established by
+reference to the forward (or “future”) exchange rates for NZ$ for the period of
+the loan, i.e., how much it would cost to purchase NZ$ when Shell required it
+in the future.  Because of the declining value of the NZ$ at the time, the
+forward value (in US$) of the NZ$150 million Shell was required to repay the
+foreign lenders in 1993 was expected to be less than the current (or “spot”)
+value (in US$) of the same NZ$150 million when Shell borrowed it in 1988. 
+Shell accordingly expected to realize a foreign exchange gain when it closed
+out the Forward Exchange Contract and repaid the principal to the foreign
+lenders using the devalued NZ$.  5             
+Shell also knew that the difference between the spot exchange rate and
+the forward exchange rate as between two currencies precisely reflects the
+difference between their current interest rates over the period of the loan. 
+The amount of the foreign exchange gain Shell expected to earn would therefore
+reflect the difference between the interest rates for the two currencies for
+the period of the Debenture Agreements.  Accordingly, by agreeing to buy NZ$ in
+the future at the lower forward exchange rate, Shell not only was able to
+“hedge” its exposure to the market fluctuation of the NZ$, but was also able to
+effectively bring the rate of interest it was paying for the NZ$ down to
+approximately the rate of interest it would have had to pay for US$.  6             
+The Debenture Agreements and the Forward Exchange Contract all closed on
+May 10, 1988.  Shell was only obligated to abide by the former if the latter
+also closed.  While it seems that the foreign lenders received from Sumitomo
+the NZ$ that they paid to Shell, which in turn sold the same NZ$ back to Sumitomo
+in exchange for US$, Shell was not aware of the source of the foreign lenders’
+funds until after Shell had committed itself to entering the Debenture
+Agreements.  All of the contracts closed properly, and all the funds changed
+hands as planned.  7             
+The trial judge made a number of specific findings about the Debenture
+Agreements and the Forward Exchange Contract.  He found, inter alia,
+that Shell’s decision to enter into these arrangements was based on its
+expectation that it would be able to deduct from its income the interest paid
+on the Debenture Agreements and that the foreign exchange gain would be taxed
+on capital account.  Taxing the foreign exchange gain on capital account would
+be an advantage for Shell because, (1) only 75 percent of the gain would be
+taxable, rather than 100 percent as would be the case were it included on
+income account, and (2) the gain could be used to offset some of Shell’s
+existing capital losses.  The trial judge further found that Shell would not
+have entered into the Debenture Agreements in the absence of the Forward
+Exchange Contract, that none of the transactions was a sham, and that if Shell
+had simply borrowed US$ at a market rate of interest, it would have paid 9.1
+percent per annum instead of the 15.4 percent per annum it had paid for the
+NZ$.  8             
+When computing its income for tax purposes for the years 1988 to 1993
+inclusive, Shell relied on s. 20(1) (c) of the Income Tax Act,
+R.S.C., 1985, c. 1 (5th Supp .) (the “Act ”), and deducted the interest,
+calculated at the rate of 15.4 percent per annum, that it had paid to the
+foreign lenders under the Debenture Agreements.  For its 1993 taxation year,
+the year in which the Forward Exchange Contract was closed out and the
+principal was repaid to the foreign lenders under the Debenture Agreements,
+Shell reported a capital gain of approximately US$21 million.  9             
+The Minister objected and issued formal reassessments for the 1992 and
+1993 taxation years.  By these reassessments,  Shell was only permitted to
+deduct interest at the rate it would have paid had it borrowed US$, i.e., 9.1
+percent per annum over a five-year term, because, according to the Minister, it
+was only the US$ -- not the NZ$ -- that were directly used in its business. 
+The claimed capital gain for the 1993 taxation year was also reassessed as
+being on income account.  10         
+The Tax Court of Canada allowed Shell’s appeal from the Minister’s
+reassessment.  The Minister was then partly successful in his appeal to the
+Federal Court of Appeal, which held that Shell could only claim the limited
+interest rate deduction suggested by the Minister but could however claim the
+net foreign exchange gain on capital account.  Shell now appeals to this Court
+the Federal Court of Appeal’s decision on the interest rate issue.  The
+Minister cross-appeals the Federal Court of Appeal’s disposition of the capital
+gain issue.  11         
+The interveners are parties in another appeal before this Court:  Canadian
+Pacific Ltd. v. The Queen, S.C.C., File No. 27163*.  
+Because of the similarities between that case and the one now before this
+Court, these parties were granted leave to intervene in this appeal.  II.  Statutory
+Provisions  12         
+Income Tax Act, R.S.C., 1985, c. 1 (5th Supp .)  9. (1) Subject to this Part, a taxpayer’s
+income for a taxation year from      a business or property is the taxpayer’s
+profit from that business or property for the year.  .
+. .  (3) In this Act , “income from a property” does not
+include any capital gain from the disposition of that property and “loss from a
+property” does not include any capital loss from the disposition of that
+property.  20. (1) Notwithstanding paragraphs 18(1)(a),
+(b) and (h), in computing a taxpayer’s income for a taxation year
+from a business or property, there may be deducted such of the following
+amounts as are wholly applicable to that source or such part of the following
+amounts as may reasonably be regarded as applicable thereto:                                                            . . .  (c) an amount paid in the year or payable in respect of the year
+(depending on the method regularly followed by the taxpayer in computing the
+taxpayer’s income), pursuant to a legal obligation to pay interest on  (i)  borrowed money used for the purpose of earning income from a
+business or property (other than borrowed money used to acquire property the
+income from which would be exempt or to acquire a life insurance policy),                                                            . . .  or a reasonable amount in respect thereof, whichever is the lesser;  67.  In computing income, no deduction shall
+be made in respect of an outlay or expense in respect of which any amount is
+otherwise deductible under this Act , except to the extent that the outlay or
+expense was reasonable in the circumstances.   Income Tax
+Act , S.C. 1970-71-72, c. 63   245. (1) In computing income for the
+purposes of this Act , no deduction may be made in respect of a disbursement or
+expense made or incurred in respect of a transaction or operation that, if
+allowed, would unduly or artificially reduce the income.   III.  Judgments
+Below  A.  Tax
+Court of Canada, [1997] 3 C.T.C. 2238  13         
+Christie A.C.J.T.C. began by observing that it is open to a taxpayer to
+structure its affairs to secure tax benefits.  Tax considerations are part of the
+commercial and economic reality within which business decisions are made.  He
+also rejected (at para. 20) what he called the “foundation stone” of the
+Minister’s argument, namely that the effect of Shell’s arrangements was that
+the Debenture Agreements and the Forward Exchange Contract were merged into one
+for tax purposes.  In the absence of clear judicial or statutory authority,
+Christie A.C.J.T.C. held that it was not open to him to recharacterize a
+taxpayer’s distinct legal relationships.  14         
+With respect to the deductibility of Shell’s interest payments to the
+foreign lenders, Christie A.C.J.T.C. held that the rate of 15.4 percent per
+annum was a market rate and, as such, was “reasonable” within the meaning of s.
+20(1) (c)(i) of the Act .  The fact that the NZ$ were immediately
+exchanged for US$ before being applied to general corporate purposes did not
+deprive the NZ$ of its character as borrowed money used for the purpose of
+earning income from a business.  Shell was therefore entitled to deduct the
+interest at the rate of 15.4 percent per annum.  15         
+The Minister also relied on s. 67 and former s. 245(1)  of the Act . 
+Christie A.C.J.T.C. rejected the argument that s. 67  could operate to reduce
+the permissible rate of deductible interest when that rate had already been
+found to be reasonable within the meaning of s. 20(1) (c)(i).  For the
+same reason, neither did he see any scope for the application of former s.
+245(1) , which addressed deductions that “unduly or artificially” reduced a
+taxpayer’s income.  Even if s. 245(1)  could operate to reduce a deduction
+otherwise permitted by the Act , he held that it did not apply here.  Shell’s
+transactions were not contrary to the object and spirit of s. 20(1) (c)(i)
+and the evidence showed that they were in accordance with normal business
+practice.  16         
+With respect to the gain realized in 1993, Christie A.C.J.T.C. concluded
+that, generally, an agreement to borrow a specified amount of funds for a fixed
+period of five years for the purpose of earning income is to be regarded as a
+capital transaction.  There was no reason to hold otherwise in this case.  If
+there were two gains – one on the Debenture Agreements and one on the Forward
+Exchange Contract – he held that they should be treated similarly.  Christie
+A.C.J.T.C. allowed Shell’s appeal from the Minister’s reassessment.  B.  Federal
+Court of Appeal, [1998] 3 F.C. 64  17         
+The Minister appealed to the Federal Court of Appeal.  After reviewing
+the origins of s. 20(1) (c)(i) and its predecessor provisions, Linden
+J.A. concluded that Parliament intended “to restrict the deduction [of
+interest] to those amounts that were reasonable and which reflected the
+economic realities of the situation” (para. 31).  Here, that amount was 9.1
+percent per annum, the rate at which US$ were directly available to Shell.  18         
+Linden J.A. held that there were four elements of s. 20(1) (c)(i). 
+To be deductible, (1) the amount must be paid or payable in the year in which
+it is deducted; (2) it must be paid pursuant to a legal obligation to pay
+interest on borrowed money; (3) the borrowed money must be used for the purpose
+of earning income from a business or property; and (4) the amount must be
+calculated at a reasonable rate.  Shell’s attempted deduction satisfied only
+the first criterion.  19         
+Linden J.A. concluded that the second condition had not been met. 
+Considering that he was not “constrained by contract theory” (para. 59) and
+that the important consideration was “not what the parties agree to, nor what
+their intent is” (para. 59), he held that the Debenture Agreements and the
+Forward Exchange Contract had to be considered together to determine whether
+the amounts Shell sought to deduct were actually “interest”.  In his view, the
+real “interest” amounts could only be identified after reducing the putative
+interest payments by an amount equal to the foreign exchange gain created by
+the discounted forward rate on the NZ$, amortized over the term of the loan. 
+On this approach, he concluded that Shell’s deductions were not entirely
+interest: that portion exceeding 9.1 percent per annum must have been a
+repayment of principal.  20         
+Neither had the third condition been met, held Linden J.A: “[l]ooking
+realistically at the substance of the situation, there was no use and purpose
+other than the avoidance of taxation for borrowing NZ$” (para. 60).  This, he
+concluded, was not an eligible use.  Because only the US$ were used to earn
+eligible income, s. 20(1) (c)(i) permitted only the deduction of interest
+calculated at the rate of 9.1 percent per annum.  21         
+Shell’s attempted deduction also failed to satisfy the fourth
+condition.  While it was reasonable for the foreign lenders to charge 15.4
+percent per annum on the loan of the NZ$, Linden J.A. held that it was not
+reasonable for Shell to pay that rate.  The only money used for an eligible
+purpose was the US$, held Linden J.A., and the reasonableness of the deduction
+must be assessed on that basis: “Shell should be in the same position as a
+taxpayer who borrowed US$ directly.  That interest rate was then 9.1%” (para.
+63).   In Linden J.A.’s view, this fourth criterion was a type of
+“anti-avoidance” tool that should be used to prevent a taxpayer from
+artificially reducing its tax payable.  In his opinion, that was what had
+happened here.  22         
+Given his conclusion with respect to s. 20(1) (c)(i), Linden J.A.
+did not have to address s. 67  or s. 245(1) .  23         
+Turning to whether the gain realized in 1993 was earned on income or
+capital account, Linden J.A. concluded that there were two gains.  One gain was
+earned on the Forward Exchange Contract because the forward exchange rate set
+by the Forward Exchange Contract was lower than the spot rate of exchange for
+converting US$ into NZ$ in 1993.  The second gain arose on the Debenture
+Agreements because the 1993 value of the NZ$150 million that Shell repaid to
+the foreign lenders was less than the value of the NZ$ it had borrowed in
+1988.  Linden J.A. held that Christie A.C.J.T.C. correctly concluded that the
+character of a foreign exchange gain is determined by the nature of the
+underlying transaction.  Here, the underlying transactions – the Debenture
+Agreements and the Forward Exchange Contract –  were capital in nature, and so
+therefore must be the gains.  He noted that the Minister had indicated that
+adjustments would be made to the amount of the taxable foreign exchange gain to
+reflect his success on the interest rate issue.  24         
+Stone J.A. wrote concurring reasons, addressing only the Minister’s
+alternative argument that s. 245(1)  applied to Shell’s transactions in the
+event that s. 20(1) (c)(i) did not reduce the effective rate of interest
+to 9.1 percent per annum.  He rejected this submission, holding that the
+transactions were not contrary to the object and spirit of s. 20(1) (c)(i),
+that they were in accordance with normal business practice, and that they had a
+bona fide business purpose, namely the acquisition of capital for a
+legitimate business use.  IV.  Issues  25         
+There are two main issues on Shell’s appeal.  First, does s. 20(1) (c)(i)
+of the Act  allow Shell to deduct from its income all of the semi-annual
+interest payments it made to the foreign lenders under the Debenture
+Agreements?  Second, if so, does either s. 67  or the former s. 245(1)  of the
+Act  apply to reduce the deduction to the amount that would have been paid if
+US$ had been borrowed directly?  26         
+The issue on the Minister’s cross-appeal is whether the approximately
+US$21 million foreign exchange net gain that Shell earned should be taxed as
+part of Shell’s income, or taxed as a capital gain.  V.  Analysis  A.     Does Section 20(1)(c)(i) Allow Shell to
+Deduct from Its Income All of the Payments It Made to the Foreign Lenders Under
+the Debenture Agreements?  1.        How Should Section 20(1)(c)(i)
+Be Applied to this Case?  27         
+I propose to first outline how s. 20(1)(c)(i) seems to apply to
+this case, before turning to consider the objections made by the Minister and
+accepted by the Federal Court of Appeal.  28         
+Section 20(1)(c)(i) allows taxpayers to deduct from their income
+interest payments on borrowed money that is used for the purpose of earning
+income from a business or property.  It is an exception to s. 9 and s. 18(1)(b),
+which would otherwise prohibit the deduction of amounts expended on account of
+capital, i.e., interest on borrowed funds used to produce income: Canada
+Safeway Ltd. v. Minister of National Revenue, [1957] S.C.R. 717, at pp.
+722-23, per Kerwin C.J., and at p. 727, per Rand J.; Bronfman
+Trust v. The Queen, [1987] 1 S.C.R. 32, at p. 45, per Dickson C.J. 
+The provision has four elements: (1) the amount must be paid in the year or be
+payable in the year in which it is sought to be deducted; (2)  the amount must
+be paid pursuant to a legal obligation to pay interest on borrowed money; (3)
+the borrowed money must be used for the purpose of earning non-exempt income
+from a business or property; and (4) the amount must be reasonable, as assessed
+by reference to the first three requirements.  29         
+The first element is clearly met.  No one disputes that the amounts paid
+by Shell to the foreign lenders were actually paid during the years in which
+they were sought to be deducted.  30         
+ The second element is also met.  Shell had a legal obligation to make
+the semi-annual payments to the foreign lenders under the Debenture
+Agreements.  Those semi-annual payments constituted “interest”, or “the return
+or consideration or compensation for the use or retention by one person of a
+sum of money, belonging to, in a colloquial sense, or owed to, another”: Reference
+as to the Validity of Section 6 of the Farm Security Act, 1944 of Saskatchewan,
+[1947] S.C.R. 394, aff’d [1949] A.C. 110 (P.C.).  As between Shell and the
+foreign lenders, there is no indication that the semi-annual payments were
+anything but consideration for the use, for five years, of the NZ$150 million
+that Shell had borrowed.  It was not a synthesized US$ loan from the foreign
+lenders to Shell:  Shell actually received the NZ$150 million from the foreign
+lenders under the Debenture Agreements and paid real interest in consideration
+for its use.  31         
+The third element -- that the borrowed money is used for the purpose of
+earning non-exempt income from a business or property -- has likewise been
+met.  This element focuses not on the purpose of the borrowing per se,
+but rather on the taxpayer’s purpose in using the borrowed money.  As
+Dickson C.J. stated in Bronfman Trust, supra, at p. 46, “the
+focus of the inquiry must be centered on the use to which the taxpayer put the
+borrowed funds”.  Dickson C.J. further specified that it is the current use of
+the borrowed money that is relevant and that the provision generally “requires
+tracing the use of borrowed funds to a specific eligible use”: Bronfman
+Trust, supra, at p. 53.  The deduction is therefore not available
+where the link between the borrowed money and an eligible use is only
+indirect.  Interest is deductible only if there is a sufficiently direct link
+between the borrowed money and the current eligible use: Tennant v. M.N.R.,
+[1996] 1 S.C.R. 305, at paras. 18-20, per Iacobucci J.  Furthermore, it does
+not necessarily matter if the borrowed funds are commingled with funds used for
+another purpose, provided that the borrowed funds can in fact be traced to a
+current eligible use.  32         
+Here, Shell borrowed NZ$150 million from the foreign lenders and
+immediately exchanged it for approximately US$100 million before applying it to
+its business.  This exchange did not alter the basic character of the funds as
+“borrowed money”.  Money is fungible.  The US$100 million was simply the NZ$150
+million transformed into a different currency which, although it changed its
+legal form and its relative value, did not change its substance.  It remained
+money.  The value it represented simply changed from being denominated in New
+Zealand currency to being denominated in United States currency.  Viewed thus,
+it is apparent that all of the NZ$150 million that Shell borrowed from the
+foreign lenders was borrowed money currently and directly used for the purpose
+of producing income from Shell’s business.  The direct link between the
+borrowed money and the activity calculated to produce income can hardly be
+compared to the indirect use at issue in Bronfman Trust, supra.  33         
+The mere fact that an exchange had to occur before usable money was
+produced is not particularly significant.  Except where the borrower is a money
+trader, borrowed money can rarely itself produce income.  It must always be
+exchanged for something, whether it be machinery or goods, which then produces
+income.  The necessity of such an exchange does not mean that the eventual
+production of income is an indirect use of the borrowed money.  If a direct
+link can be drawn between the borrowed money and an eligible use, the third
+criterion is satisfied.  That is clearly the case here.  34         
+The fourth element – that the amount sought to be deducted must be the
+actual amount paid or “a reasonable amount in respect thereof” –  has not
+previously been the subject of comment by this Court.  It is clear, however,
+from the structure of s. 20(1)(c), that the phrase refers to the
+entirety of s. 20(1)(c)(i).  Therefore, the taxpayer is entitled to
+deduct the lesser of, (1) the actual amount paid or, (2) a reasonable amount in
+respect of “an amount paid . . . pursuant to a legal obligation to pay interest
+on . . . borrowed money used for the purpose of earning income from a business
+or property”.  Here, the borrowed money that was used for the purpose of
+earning income was the NZ$150 million.  At trial, Christie A.C.J.T.C. found
+that the market rate for a loan of NZ$ in 1988 for the five-year term specified
+in the Debenture Agreements was 15.4 percent per annum.  That is the rate Shell
+paid.  Where an interest rate is established in a market of lenders and
+borrowers acting at arm’s length from each other, it is generally a reasonable
+rate: Mohammad v. The Queen, 97 D.T.C. 5503 (F.C.A.), at p. 5509, per
+Robertson J.A.; Canada v. Irving Oil Ltd., [1991] 1 C.T.C. 350 (F.C.A.),
+at p. 359, per Mahoney J.A.  The fourth criterion is accordingly
+satisfied.  35         
+On this analysis, Shell was entitled to deduct from its income all of
+its semi-annual payments of interest to the foreign lenders during the relevant
+taxation years.  2.        The Minister’s Objections  36         
+The Minister objects to this application of s. 20(1)(c)(i).  He
+makes two principal arguments.  First, he submits that because only the US$
+were used for the purpose of earning income from a business, Shell is only
+entitled to deduct as “interest” those amounts relating to the US$.  This
+amount, he argues, must be calculated by reference to the rate of 9.1 percent
+per annum, the rate applicable to a borrowing of US$ in 1988.  Second, the
+Minister argues that the phrase “a reasonable amount in respect thereof” in s.
+20(1)(c)(i) must be interpreted as referring to a reasonable amount to
+pay for a loan of the US$ which were actually used to produce income.  That, he
+again submits, must be calculated at the rate of 9.1 percent per annum.  The
+Minister also makes a subsidiary argument that the borrowed funds for which
+interest was paid at a rate exceeding 9.1 percent per annum were actually being
+used to produce a capital gain, not eligible income from a business or property
+as required by s. 20(1)(c)(i).  These arguments found favour with the
+Federal Court of Appeal.  With respect, however, they cannot prevail when
+examined in light of the approach this Court has consistently taken when
+interpreting the Act  in general and s. 20(1) (c)(i) in particular.  37         
+These arguments rest on the view that only the US$ were used to produce
+income from a business or property.  As discussed above, that is incorrect. 
+The fact that the NZ$ can be directly traced to an income-producing use in
+accordance both with the text of s. 20(1)(c)(i) and with this Court’s
+decisions in Bronfman Trust, supra, and Tennant, supra,
+deprives these arguments of any foundation.  38         
+Furthermore, these submissions arise from a fundamental misapprehension
+of the scope of s. 20(1)(c)(i) and the principles against which it
+should be interpreted.  Both the Minister and the Federal Court of Appeal seem
+to suggest that s. 20(1)(c)(i) invites a wide examination of what Linden
+J.A. referred to (at para. 44) as the “economic realities” of a taxpayer’s
+situation.  Underlying this argument appears to be the view that taxpayers are
+somehow disentitled from relying on s. 20(1)(c)(i) if the structure of
+the transaction was determined by a desire to minimize the amount of tax
+payable.  39         
+This Court has repeatedly held that courts must be sensitive to the economic
+realities of a particular transaction, rather than being bound to what first
+appears to be its legal form: Bronfman Trust, supra, at
+pp. 52-53, per Dickson C.J.; Tennant, supra, at para. 26, per
+Iacobucci J.  But there are at least two caveats to this rule.  First,
+this Court has never held that the economic realities of a situation can be
+used to recharacterize a taxpayer’s bona fide legal relationships.  To
+the contrary, we have held that, absent a specific provision of the Act  to the
+contrary or a finding that they are a sham, the taxpayer’s legal relationships
+must be respected in tax cases.  Recharacterization is only permissible if the
+label attached by the taxpayer to the particular transaction does not properly
+reflect its actual legal effect: Continental Bank Leasing Corp. v. Canada,
+[1998] 2 S.C.R. 298, at para. 21, per Bastarache J.  40         
+Second, it is well established in this Court’s tax jurisprudence that a
+searching inquiry for either the “economic realities” of a particular
+transaction or the general object and spirit of the provision at issue can
+never supplant a court’s duty to apply an unambiguous provision of the Act  to a
+taxpayer’s transaction.  Where the provision at issue is clear and unambiguous,
+its terms must simply be applied:  Continental Bank, supra, at
+para. 51, per Bastarache J.;  Tennant, supra, at para. 16,
+per Iacobucci J.; Canada v. Antosko, [1994] 2 S.C.R. 312, at pp.
+326-27 and 330, per Iacobucci J.; Friesen v. Canada, [1995] 3
+S.C.R. 103, at para. 11, per Major J.; Alberta (Treasury Branches) v.
+M.N.R., [1996] 1 S.C.R. 963, at para. 15, per Cory J.  41         
+ It is my respectful view that by paying insufficient attention to these
+very important principles, the Minister and the Federal Court of Appeal fell
+into error.  First, the Federal Court of Appeal effectively recharacterized 
+for tax purposes Shell’s legal relationship with the foreign lenders.  Indeed,
+Linden J.A. held that, when the Forward Exchange Contract between Shell and
+Sumitomo was considered alongside the Debenture Agreements between Shell and
+the foreign lenders, “[t]he higher interest rate coupled with the discounted
+forward rate created a blended payment of interest and principal” (para. 58). 
+With respect, this ignores the actual relationship between Shell and the foreign
+lenders, a relationship to which Sumitomo was not a party.  As between Shell
+and the foreign lenders, the semi-annual payments were entirely “interest”,
+paid in consideration for the loan of NZ$150 million.  That characterization
+cannot be changed by whatever other legal relationships Shell may have
+concluded with third parties, or indeed by anything that Shell did with the
+borrowed funds after receiving them from the foreign lenders.  42         
+ It is no doubt true that Shell was able to recoup its higher interest
+expenses, paid to the foreign lenders, by agreeing with Sumitomo to purchase
+NZ$ in the future at a discount.  This arrangement allowed it to earn a foreign
+exchange gain and, when the transactions were considered together, to equalize
+the interest rate in the Debenture Agreements to the prevailing market rate for
+a loan of US$.  Yet, as has been demonstrated above, the words of s. 20(1)(c)(i)
+are very clear.  A taxpayer is entitled to deduct a reasonable amount of
+interest paid on borrowed money used for the purpose of earning eligible income
+from a business or property.  Shell’s legal relationship with the foreign
+lenders comes within those criteria and, as such, Shell is entitled to the
+benefit of s. 20(1)(c)(i).  43         
+Second, it is my respectful view that the Federal Court of Appeal’s
+misplaced reliance on “economic realities” caused it to stray from the express
+terms of s. 20(1)(c)(i) and supplement the provision with extraneous
+policy concerns that were said to form part of its purpose.  The Act is a
+complex statute through which Parliament seeks to balance a myriad of
+principles.  This Court has consistently held that courts must therefore be
+cautious before finding within the clear provisions of the Act  an unexpressed
+legislative intention: Canderel Ltd. v. Canada, [1998] 1 S.C.R. 147, at
+para. 41, per Iacobucci J.;  Royal Bank of Canada v. Sparrow Electric
+Corp., [1997] 1 S.C.R. 411, at para. 112, per Iacobucci J.; Antosko,
+supra, at p. 328, per Iacobucci J.  Finding unexpressed
+legislative intentions under the guise of purposive interpretation runs the
+risk of upsetting the balance Parliament has attempted to strike in the Act .  44         
+Although the terms of s. 20(1)(c)(i) are clear, the Federal Court
+of Appeal seems to have discerned in the Act  an intention that courts, to be
+fair to less sophisticated taxpayers, should be alert to preventing taxpayers
+from using complex transactions designed to minimize their tax liability.  It
+was said that courts should somehow look through transactions and impose tax
+according to their true economic and commercial effects.  There are some obiter
+statements in some cases that may be said to support this view: Bronfman
+Trust, supra, at p. 53, per Dickson C.J.; Stubart
+Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, at p. 576, per
+Estey J.  45         
+However, this Court has made it clear in more recent decisions that,
+absent a specific provision to the contrary, it is not the courts’ role to
+prevent taxpayers from relying on the sophisticated structure of their
+transactions, arranged in such a way that the particular provisions of the Act 
+are met, on the basis that it would be inequitable to those taxpayers who have
+not chosen to structure their transactions that way.  This issue was
+specifically addressed by this Court in Duha Printers (Western) Ltd. v.
+Canada, [1998] 1 S.C.R. 795, at para. 88, per Iacobucci J.  See also
+Neuman v. M.N.R., [1998] 1 S.C.R. 770, at para. 63, per Iacobucci
+J.  The courts’ role is to interpret and apply the Act  as it was adopted by
+Parliament.  Obiter statements in earlier cases that might be
+said to support a broader and less certain interpretive principle have
+therefore been overtaken by our developing tax jurisprudence.  Unless the Act 
+provides otherwise, a taxpayer is entitled to be taxed based on what it
+actually did, not based on what it could have done, and certainly not based on
+what a less sophisticated taxpayer might have done.  46         
+Inquiring into the “economic realities” of a particular situation,
+instead of simply applying clear and unambiguous provisions of the Act  to the
+taxpayer’s legal transactions, has an unfortunate practical effect.  This
+approach wrongly invites a rule that where there are two ways to structure a
+transaction with the same economic effect, the court must have regard only to
+the one without tax advantages.  With respect, this approach fails to
+give appropriate weight to the jurisprudence of this Court providing that, in
+the absence of a specific statutory bar to the contrary, taxpayers are entitled
+to structure their affairs in a manner that reduces the tax payable: Stubart,
+supra, at p. 540, per Wilson J., and at p. 557, per Estey
+J.; Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, at para. 8, per
+McLachlin J.; Duha, supra, at para. 88, per Iacobucci J.; Neuman,
+supra, at para. 63, per Iacobucci J.  An unrestricted application
+of an “economic effects” approach does indirectly what this Court has
+consistently held Parliament did not intend the Act  to do directly.  47         
+The Federal Court of Appeal’s overriding concern with tax avoidance not
+only coloured its general approach to this case, but may also have led it to
+misread the clear and unambiguous terms of s. 20(1)(c)(i) itself.  In
+his reasons, Linden J.A. emphasized that Shell only decided to borrow NZ$ from
+the foreign lenders because it sought to take advantage of the higher interest
+rate applicable to NZ$.  Yet, as Dickson C.J. made clear in Bronfman Trust,
+supra, at p. 46, the reason for a particular method of borrowing
+is irrelevant to a proper consideration of s. 20(1)(c)(i).  The issue is
+the use to which the borrowed funds are put.  It is irrelevant why the
+borrowing arrangement was structured the way that it was or, indeed, why the
+funds were borrowed at all.  48         
+The fact that Shell structured its transactions so that it could take
+advantage of the various provisions of the Act  is therefore of no moment.  It
+was fully entitled to do so.  Shell borrowed NZ$ for the purpose of using them
+to produce eligible income from a business or property and is accordingly
+entitled to the deduction provided by s. 20(1) (c)(i).  B.  Does
+Section 67 or Former Section 245(1) Apply to this Case?  49         
+If s. 20(1)(c)(i) does not apply to restrict Shell to deducting
+interest at the rate of 9.1 percent per annum, the Minister argues that s. 67
+and the former s. 245(1) apply to reduce the deduction to the amount that would
+have been paid if US$ had been borrowed directly.  However, neither provision
+supports the Minister’s position.  1.        Section 67  50         
+Section 67  of the Act  provides that:  67.  In computing income, no deduction shall
+be made in respect of an outlay or expense in respect of which any amount is
+otherwise deductible under this Act , except to the extent that the outlay or
+expense was reasonable in the circumstances.  The Federal
+Court of Appeal did not address s. 67  and Shell made no submissions to this
+Court with regard to it.  The Minister submits that the only amount “reasonable
+in the circumstances” is the amount that Shell would have had to pay if it had
+borrowed US$ directly.  The argument seems to be the same one that was made
+with respect to s. 20(1)(c)(i), i.e., it is suggested that the only
+money used for the purpose of producing income was the US$.  I note that the
+Minister did not press this point in argument before the Court.  51         
+Having already held that the NZ$ actually were used for the purpose of
+earning eligible income, it follows that I do not accept the premise of the
+Minister’s argument.  Furthermore, it seems to me that Parliament intended s.
+67  to apply primarily to those deductions claimed under the provisions of the
+Act  that do not have their own internal limiting clauses: see also P. W. Hogg
+and J. E. Magee, Principles of Canadian Income Tax Law (2nd ed. 1997),
+at pp. 244-45.  A common example is the case where a taxpayer seeks to pay
+unreasonably  high rents or salaries to non-arm’s-length persons.  Another
+example might be unreasonably high business travelling expenses.  Where the
+applicable provision has its own internal reference to “reasonableness”, as
+does s. 20(1) (c)(i), s. 67  could not apply without distorting the plain
+meaning of the more specific provision.  Indeed, if a deduction is “reasonable”
+within the meaning of s. 20(1) (c)(i), I have difficulty seeing how it
+would not also be “reasonable” within the meaning of s. 67 .  2.        Section 245(1)  52         
+The Minister also relies on the former s. 245(1).  Section 245(1) read
+as follows:  245.  (1)  In computing income for the
+purposes of this Act , no deduction may be made in respect of a disbursement or
+expense made or incurred in respect of a transaction or operation that, if
+allowed, would unduly or artificially reduce the income.    This provision
+has been repealed and replaced by a new “General Anti-Avoidance Rule” effective
+September 13, 1988: S.C. 1988, c. 55, s. 185.  Because the Debenture Agreements
+and the Forward Exchange Contract were entered into prior to that time,
+however, it is only the former s. 245(1) that applies to this case.  53         
+The Minister does not say that Shell “artificially” reduced its income. 
+Rather, he claims that allowing Shell to deduct interest expenses at the NZ$
+rate of 15.4 percent per annum would “unduly” reduce its income.  This argument
+again rests on the submission that it was the US$ that were used for producing
+eligible income, not the NZ$.  Because I reject the Minister’s argument on that
+point, it follows that I cannot accept his related submissions on s. 245(1).  54         
+In a series of recent cases, the Federal Court of Appeal has considered
+the proper meaning to be given to s. 245(1):  Canada v. Fording Coal Ltd.,
+[1996] 1 F.C. 518, leave to appeal denied, [1996] 3 S.C.R. viii;  Canada v.
+Central Supply Co. (1972) Ltd., [1997] 3 F.C. 674, leave to appeal denied,
+[1997] 3 S.C.R. vii.  In Central Supply, supra, at p. 691, Linden
+J.A. summarized the three factors to be answered under the recommended approach
+to s. 245(1): (1) whether the deduction sought is contrary to the object and
+spirit of the provision in the Act , (2) whether the deduction is based on a
+transaction which is not in accordance with normal business practice, and (3)
+whether there was a bona fide business purpose for the transaction.  He
+observed that these three factors apply even where the deduction is otherwise
+permitted by a specific provision of the Act .  55         
+I note that the Federal Court of Appeal has not always taken this
+approach to the former anti-avoidance provisions of the Act :  see Canada v.
+Mara Properties Ltd., [1995] 2 F.C. 433, at pp. 437-38, per Marceau
+J.A., and at p. 452, per McDonald J.A. (dissenting), appeal allowed on
+other grounds, [1996] 2 S.C.R. 161; Fording Coal, supra, at pp.
+541-44, per McDonald J.A. (dissenting); Central Supply, at pp.
+712-16, per McDonald J.A. (dissenting); The Queen v. Nova Corporation
+of Alberta, 97 D.T.C. 5229, at p. 5236, per McDonald J.A.  Indeed,
+particularly with respect to its emphasis on whether there was a “bona fide
+purpose” for the transaction, the approach adopted in Fording Coal, supra,
+and Central Supply, supra, appears to run against the grain of
+some of the Federal Court of Appeal’s earlier interpretations of this provision
+and its predecessors: Produits LDG Products Inc. v. The Queen, 76 D.T.C.
+6344, at p. 6349, per Pratte J.A.; The Queen v. Alberta and Southern
+Gas Co., [1978] 1 F.C. 454, at pp. 462-63, per Jackett C.J.; Irving
+Oil, supra, at p. 360, per Mahoney J.A.  See also, Stubart,
+supra, at pp. 569-70, per Estey J.  56     
+The Minister submits that the factors developed in Fording Coal, supra,
+and Central Supply, supra, apply only when it is claimed that the
+deductions are “artificial”, not when they are said to be “undue”, as in the
+case on appeal.  Although the matter is not entirely free from doubt, a review
+of the Federal Court of Appeal’s reasons in those cases does not support such a
+constrained interpretation of the test.  Indeed, it was certainly the
+understanding of Stone J.A. in the Federal Court of Appeal, the only member of
+the panel who expressed an opinion on this point, that those factors apply to
+s. 245(1) in its entirety.  I agree that this is what the Federal Court of
+Appeal likely intended in Fording Coal, supra, and Central
+Supply, supra.  I hasten to add that I should not be taken as
+necessarily agreeing that the three factors are the appropriate interpretive
+tools with which to understand s. 245(1).  Because even the broadest
+interpretation of s. 245(1) does not apply to limit Shell’s deductions,
+however, it is not necessary in this appeal for this Court to determine
+conclusively the proper interpretation to be given to s. 245(1).  57     
+Applying the factors set forth by the Federal Court of Appeal suggests
+the following analysis in this case.  First, deducting the interest paid to the
+foreign lenders at the rate of 15.4 percent per annum is not contrary to the
+object and spirit of s. 20(1)(c)(i).  In Bronfman Trust, supra,
+Dickson C.J., held at p. 45, that the purpose of this provision is “to
+encourage the accumulation of capital which would produce taxable income”; see
+also, Tennant, supra, at para. 16, per Iacobucci J. 
+Allowing Shell to deduct its interest payments at the actual rate that was paid
+to the foreign lenders in exchange for the NZ$150 million that was then used
+for the purpose of producing income is not contrary to the object and spirit of
+s. 20(1)(c)(i).  To the contrary, it fulfills its purpose.  58         
+Second, the deductions were based on transactions that were in accordance
+with normal business practice.  At trial, Christie A.C.J.T.C. accepted that
+this was so, noting in addition that the “fact that business transactions may
+be regarded as convoluted does not, of course, mean that they are abnormal”
+(para. 31).  Stone J.A. agreed, holding that “[i]n choosing to borrow the funds
+in NZ$ rather than US$ the respondent took into account the overall tax impact
+of the transaction, and this is a common business concern” (para. 5).  Before
+this Court, evidence was adduced demonstrating that this form of international
+interest rate arbitrage is commonly done, even by non-taxable governmental
+entities.  When coupled with the fact that the Debenture Agreements provided
+Shell with money that satisfied its need for capital, the conclusion that they
+reflected normal business practice is unavoidable.  59         
+The third factor to consider, according to the Federal Court of Appeal,
+is whether Shell entered the Debenture Agreements for a bona fide
+business purpose.  Certainly, Shell structured its transactions this way
+because it wanted to borrow the necessary funds at the lowest possible
+after-tax cost.  The Minister contends that this was not a bona fide
+business purpose.  Even if it could be said that acquiring funds at the lowest
+possible after-tax cost is not a bona fide business purpose – a
+proposition on which I need express no opinion – another purpose clearly lay in
+Shell’s need to borrow the NZ$ as part of its plan to acquire funds for
+business purposes.  Therefore, even granting the Minister’s point for the sake
+of argument, there was “a bona fide business purpose” for the Debenture
+Agreements that gave rise to the deductions in issue.  The third criterion is
+satisfied.  60         
+On the broad test for the former s. 245(1) developed by the Federal
+Court of Appeal, Shell’s decision to deduct its interest payments to the
+foreign lenders at the rate of 15.4 percent cannot be impugned.  It is
+accordingly unnecessary to decide whether the Federal Court of Appeal has
+correctly ascertained Parliament’s intention in passing the provision, which,
+it must be repeated, has now been repealed and replaced by a new anti-avoidance
+tool.  61         
+For these reasons, this Court allowed Shell’s appeal and held that the
+s. 20(1)(c)(i) allowed it to deduct the entirety of the interest
+payments made by it to the foreign lenders under the Debenture Agreements.  C.     Is Shell’s Net Foreign Exchange Gain
+Taxable as Income or as a Capital Gain?  62         
+The issue on the Minister’s cross-appeal is whether the approximately
+US$21 million net foreign exchange gain that Shell realized through the
+Debenture Agreements and the Forward Exchange Contract should be included in
+its income for tax purposes, or whether it should be taxed as a capital gain.  In
+the event that he was unsuccessful in arguing that the amount of Shell’s
+interest payments exceeding 9.1 percent per annum should be disallowed, the
+Minister argued in the alternative that the net foreign exchange gain should be
+included in Shell’s income.  The Court dismissed the Minister’s cross-appeal,
+holding that the net foreign exchange gain should be taxed on capital account.  63         
+Because transactions must be reported in CDN$ for income tax purposes,
+foreign exchange gains or losses may arise when a business engages in
+transactions denominated in a foreign currency.  Although they generally agree
+that, in this case, Shell earned a net foreign exchange gain through the
+Debenture Agreements and the Forward Exchange Contract, the Minister and Shell
+disagree on how best to describe it.  The Minister simply contends that, in
+1988, Shell borrowed the equivalent of US$100 million from the foreign lenders
+but, in 1993, because of the Forward Exchange Contract, was able to repay the
+loan using only US$79.5 million.  This, it says, gave rise to a gain of
+approximately US$21 million, which of course must be converted into CDN$ for
+tax purposes.  64         
+Shell, on the other hand, submits that there were two gains, which
+together yield the same net result as the Minister’s approach.  One gain arose
+on the Debenture Agreements because, while Shell borrowed the equivalent of
+US$100 million in 1988, it took the equivalent of only US$81.5 million to repay
+it in 1993 (assessed by reference to the market rate for NZ$ in 1993). 
+However, it did not actually cost Shell US$81.5 million to repay the principal
+to the foreign lenders because it had hedged its risk through the Forward
+Exchange Contract.  A second gain therefore arose on the Forward Exchange
+Contract in 1993 because, while it would have cost US$81.5 million to purchase
+NZ$150 million at the market rate, Shell was able to rely on the discounted
+rate agreed upon in 1993 to reduce its own cost of the NZ$150 million to
+US$79.5 million.  Thus, it claims it earned a gain on the Forward Exchange
+Contract of US$1.98 million.  Combining the two gains leads to a net foreign
+exchange gain of approximately US$21 million, which again would have to be
+converted into CDN$ for tax purposes.  65         
+At trial, Christie A.C.J.T.C. held that it did not matter whether there
+were one or two gains because, even if there were two, both should be taxed on
+the capital account.  For the Federal Court of Appeal, Linden J.A. held that
+there were two gains.  Indeed, it seems to me that Shell is correct, i.e, that
+there were two gains arising from two transactions, which only created a net
+gain of approximately US$21 million when combined:  see S. S. Ruby, “Recent
+Financing Techniques”, in Report of Proceedings of the Forty-First Tax
+Conference (1990), at pp. 27.3 to 27.6.  In light of the prevailing market
+rate for NZ$ in 1993, one gain arose on the repayment of the NZ$150 million to
+the foreign lenders under the Debenture Agreements, and a smaller gain arose on
+the closing out of the Forward Exchange Contract with Sumitomo.  The net result
+is the same as that yielded by the Minister’s suggested interpretation, but
+this view recognizes that Shell entered into two distinct transactions with two
+separate arm’s-length parties, which in turn gave rise to two foreign exchange
+gains.  66         
+Parenthetically, I note that there may be another way to interpret the
+closing out of the Forward Exchange Contract: Ruby, supra, at p. 27.12 ;
+D. G. Broadhurst, “Income Tax Treatment of Foreign Exchange Forward Contracts,
+Swaps, and Other Hedging Transactions”, in Report of Proceedings of the
+Forty-First Tax Conference (1990), 26:1.  Shell’s approach requires one to
+view this transaction as a disposition of US$ to Sumitomo in exchange
+for NZ$150 million.  Any foreign exchange gain or loss is then calculated by
+comparing the rate established in the Forward Exchange Contract with the spot
+market rate for NZ$ in 1993.  However, it is also possible to view the
+transaction as an acquisition of NZ$150 million for US$79.5 million. 
+That purchase price -- calculated according to the exchange rate established in
+the Forward Exchange Contract -- would constitute Shell’s cost base for the
+NZ$150 million.  When Shell used that NZ$150 million to repay the foreign
+lenders under the Debenture Agreements, Shell’s cost base for those funds could
+then be assessed against their spot market value at the time of repayment to
+determine whether Shell had realized a foreign exchange gain or loss on the
+Forward Exchange Contract.  This would be in addition to any foreign exchange
+gain or loss Shell would earn on the repayment of the principal to the foreign
+lenders under the Debenture Agreements.  67         
+Because Shell immediately used the NZ$150 million from Sumitomo to
+discharge its obligations to the foreign lenders, however, the spot market rate
+for NZ$ and the amount of Shell’s gain on the Forward Exchange Contract is the
+same regardless of which approach is taken.  It follows that the amount of the
+foreign exchange gain is also the same.  It is therefore unnecessary on this
+appeal to decide which interpretation of the transaction is preferable.  68         
+The issue here is whether the foreign exchange gains were received by
+Shell on income account, in which case they are taxable in full, or whether
+they were received on capital account, in which case only three-quarters would
+be taxable.  The characterization of a foreign exchange gain or loss generally
+follows the characterization of the underlying transaction: Tip Top Tailors
+Ltd. v. Minister of National Revenue, [1957] S.C.R. 703, at p. 707, per
+Locke J., and at p. 712, per Rand J.; Alberta Gas Trunk Line Co. v.
+M.N.R., [1972] S.C.R. 498, at p. 505, per Martland J.; Columbia
+Records of Canada Ltd. v. M.N.R., [1971] C.T.C. 839 (F.C.T.D.), at p. 845, per
+Gibson J.; Hogg and Magee, supra, at p. 344.  Thus, if the underlying
+transaction was entered into for the purpose of acquiring funds to be used for
+capital purposes, any foreign exchange gain or loss in respect of that
+transaction will also be on capital account.   70         
+Whether a foreign exchange gain arising from a hedging contract should
+be characterized as being on income or capital account depends on the characterization
+of the debt obligation to which the hedge relates.  As noted, Shell entered
+into the Forward Exchange Contract in order to hedge with US$ the market risk
+on the Debenture Agreements, which were denominated in NZ$.  Indeed, Shell
+would not have entered into the Debenture Agreements in the absence of the
+Forward Exchange Contract.  The gain on the Debenture Agreements was
+characterized as being earned on capital account and so therefore should the
+gain on the Forward Exchange Contract.  Both gains were earned on capital
+account and three-quarters of them are taxable when realized.  71         
+Against these conclusions, the Minister argues that the income nature of
+the net foreign exchange gain is illustrated by the fact that Shell amortized
+it over the term of the Debenture Agreements for its non-tax financial
+accounting; that the net gain was related to the current payment of interest,
+which is an income expense pursuant to s. 20(1)(c)(i); that Shell was
+acting like a trader; and that the net gain did not arise fortuitously but
+rather was the result of a carefully executed plan. 72         
+To a large extent, the Minister’s submissions reflect his consistent
+view that there was a single gain arising from a synthesized transaction
+through which Shell was able to repay a loan of US$100 million with only
+US$79.5 million.  Yet it is significant that there were actually two gains,
+arising from distinct transactions with separate arm’s-length parties, which
+only together yielded a net foreign exchange gain of US$21 million.  The
+Minister does not make this distinction so, once again, I cannot accept the
+premise of his argument.  Nor are the Minister’s other arguments persuasive.  73         
+First, the manner in which Shell recorded the net foreign exchange gain
+for its non-tax financial accounting is not determinative of the proper tax
+treatment.  This Court has frequently held that accounting practices, by
+themselves, do not establish rules of income tax law: Canderel, supra,
+at paras. 32-37, per Iacobucci J.  At any rate, non-tax financial
+accounting is generally designed to reflect the overall economic position of
+the entire corporation.  Section 20(1) (c)(i) of the Act , in contrast,
+applies to the tax treatment of specific transactions.  It therefore should not
+be surprising that the same transaction may properly be assessed differently
+for different purposes: see generally Friedberg v. Canada, [1993] 4
+S.C.R. 285, at p. 286, per Iacobucci J.  74         
+Second, the mere fact that the gains are related to the interest
+expenses incurred under the Debenture Agreements, which s. 20(1) (c)(i)
+allows Shell to deduct from its income, does not mean that the net foreign
+exchange gain should also be considered on income account.  The Minister bases
+this argument on this Court’s decision in Ikea Ltd. v. Canada, [1998] 1
+S.C.R. 196, where a tenant-inducement payment was held to be so directly
+related to the taxpayer’s rental payments that it should also be considered on
+income account.  However, Ikea does not assist the Minister.  Shell did
+not receive any payment from either the foreign lenders or Sumitomo to
+reimburse it for any expense it had paid.  Furthermore, it is important to
+underline that interest expenses on money used to produce income from a
+business or property are only deemed by s. 20(1) (c)(i) to be
+current expenses and, in the absence of that provision, would be considered to
+be capital expenditures: Canada Safeway, supra, per Rand
+J., at p. 727.  This Court was not invited on this appeal to revisit this
+characterization of such interest expenses: they therefore remain capital
+expenses which s. 20(1) (c)(i) deems to be deductible from Shell’s gross
+income notwithstanding the general prohibition of such capital deductions in s.
+18(1).  Accordingly, even if the general analysis in Ikea applied to
+this case, it would tend to support the conclusion that the gains should be
+treated as being on capital account.  75         
+Third, the Minister’s argument that Shell was acting like a trader in
+borrowing NZ$ through the Debenture Agreements and exchanging them for US$
+through the Forward Exchange Contract cannot succeed.  Shell was acquiring
+money to use in its business.  That was the purpose of the Debenture Agreements
+and the Debenture Agreements prompted the need for the Forward Exchange Contract. 
+In no sense was Shell engaged in an “adventure in the nature of trade”.  76         
+Fourth, it is not particularly relevant that the net foreign exchange
+gain did not arise fortuitously but rather arose as a result of Shell’s
+deliberate contractual obligations.  As noted, the proper tax treatment of a
+foreign exchange gain on both the initial borrowing and any related hedge
+transaction is to be assessed in light of the characterization of the
+underlying debt obligation.  Transactions giving rise to debt obligations
+obviously do not have to be speculative to be capital in nature.  It follows
+that foreign exchange gains do not have to arise from speculative transactions
+in order to be taxed as capital gains.  In this case, for example, the
+underlying debt obligation recorded in the Debenture Agreements was entered
+into for the purpose of raising funds for use in Shell’s business.  Neither it
+nor the related hedge transaction lose that characteristic simply because they
+were deliberate and organized.  77         
+For these reasons, the Court dismissed the Minister’s cross-appeal and
+held that the net foreign exchange gain realized by Shell upon the repayment of
+the NZ$150 million to the foreign lenders and the closing out of the Forward
+Exchange Contract was received on capital account.  VI.  Conclusion  78         
+At the conclusion of the hearing of this appeal, the Court allowed
+Shell’s appeal and dismissed the Minister’s cross-appeal.  The matter is
+therefore referred back to the Minister of National Revenue for reconsideration
+and reassessment in accordance with the judgment of the Tax Court of Canada. 
+Shell shall have its costs in this Court and in the courts below.  Appeal allowed with costs. Cross-appeal dismissed with costs.  Solicitors for the appellant/respondent on
+cross-appeal:  Bennett Jones, Calgary.  Solicitor for the respondent/appellant on
+cross-appeal/intervener:  The Deputy Attorney General of Canada, Toronto.  Solicitors for the intervener Canadian Pacific
+Limited:  McCarthy Tétrault, Toronto.  *          On November 10, 1999, Canadian Pacific Ltd. v. The
+Queen was remanded to the Federal Court of Appeal to be dealt with in
+accordance with the present judgment.  

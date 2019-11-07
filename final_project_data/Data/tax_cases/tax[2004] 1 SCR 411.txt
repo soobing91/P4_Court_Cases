@@ -1,0 +1,554 @@
+Gifford v.
+Canada, [2004] 1 S.C.R. 411, 2004 SCC 15  Thomas
+Gifford                                                                                                Appellant  v.  Her Majesty
+The Queen                                                                               Respondent  and  Canadian
+Bankers Association                                                                      Intervener  Indexed
+as:  Gifford v. Canada  Neutral
+citation:  2004 SCC 15.  File
+No.:  29416.  2003: 
+November 14; 2004:  March 4.  Present: 
+McLachlin C.J. and Major, Bastarache, Binnie, Arbour, Deschamps and
+Fish JJ.  on appeal from
+the federal court of appeal  Income tax — Income from employment — Deductions — Sales expenses —
+Purchase of client list — Financial advisor borrowing money to purchase
+colleague’s client list — Whether payment to purchase client list and interest
+paid on borrowed funds deductible — Whether payments were “on account of
+capital” — Income Tax  Act, R.S.C. 1985, c. 1 (5th Supp .),
+s. 8(1) (f).  The appellant and B worked as financial advisors in an investment
+firm.  When B decided to leave the firm, the appellant borrowed $100,000 to
+purchase B’s client list.  They entered into an agreement whereby B agreed to
+provide a written endorsement of the appellant to each client identified on a
+client list and direct the firm to transfer those clients to the appellant.  B
+also agreed to a 30-month non-compete clause and agreed not to provide material
+information about the clients on the list to anyone without the appellant’s
+consent.  The question is whether the appellant could, for tax purposes, deduct
+from his income either the purchase price or the interest paid on the money he
+borrowed to make the purchase.  The Minister of National Revenue denied the
+appellant’s claim for a deduction.  The Tax Court of Canada allowed both
+expenditures to be deducted but the Federal Court of Appeal set aside the
+decision.  Held:  The appeal should be dismissed.  The agreement to pay $100,000 to purchase accumulated goodwill and the
+agreement not to compete were made to create an enduring benefit for the
+appellant.  The payment for this asset was a payment “on account of capital”
+and s. 8(1) (f)(v) of the Income Tax Act  prevents a deduction
+from being made for such an expense.  Under the tests outlined in Johns-Manville,
+the client list was a capital asset:  (1) it significantly expanded the
+appellant’s client network, the structure within which he earned his employment
+income; (2) the purchase of someone else’s accumulated goodwill is not the same
+as the recurring marketing expenses the appellant would have had to incur to
+create his own goodwill; (3) the payment secured the discontinuance of competition;
+and (4)  it was a payment made with the intention of securing an asset of
+enduring benefit that would provide the appellant with a lasting advantage. 
+The fact that the transaction occurred between two employees instead of two
+businesses does not, by itself, change the characterization of the transaction
+or cause the earlier client list cases to be ignored.  The interest payment in this case is also a payment “on account of
+capital”, because the funds borrowed to make the payment to B themselves added
+to the financial capital of the appellant and as such are expressly denied
+deductibility under s. 8(1)(f)(v) of the Act.  When determining the
+deductibility of interest, the important question is not whether the payment is
+a capital expenditure but whether it is “on account of capital”.  This
+distinction is particularly important in relation to interest payments because,
+unlike other capital assets, loan proceeds are seldom retained in the form they
+are received.  This distinction means that under the Income Tax Act  it
+is only necessary in each case to consider what the proceeds of the loan are to
+the borrower when they are received, and does not require an examination of
+what those loan proceeds are spent on.  If, as here, the money adds to the
+financial capital, then the payment of interest on that loan will be considered
+to be a payment “on account of capital”.  In circumstances where interest is
+not a payment “on account of capital”, it may be deducted as long as it meets
+the other requirements, such as those set out in s. 8(1) (f) or
+s. 18(1) (a), and is not precluded by some other section of the Act.  The costs in the courts below are confirmed and the appellant is
+awarded his reasonable and proper costs in this Court.  Cases Cited  Applied:  Johns-Manville Canada Inc.
+v. The Queen, [1985] 2 S.C.R. 46; considered:  Canada
+Safeway Ltd. v. Minister of National Revenue, [1957] S.C.R. 717; Bronfman
+Trust v. The Queen, [1987] 1 S.C.R. 32; Tennant v. M.N.R.,
+[1996] 1 S.C.R. 305; Shell Canada Ltd. v. Canada, [1999]
+3 S.C.R. 622; referred to:  Wharf Properties Ltd. v.
+Commissioner of Inland Revenue, [1997] 2 W.L.R. 334; Cumberland
+Investments Ltd. v. The Queen, [1975] C.T.C. 439; The Queen v. Farquhar
+Bethune Insurance Ltd., [1982] C.T.C. 282; Bennett & White
+Construction Co. v. Minister of National Revenue, [1949] S.C.R. 287; Steele
+v. Deputy Commissioner of Taxation (1999), 161 A.L.R. 201.  Statutes and Regulations Cited   Income Tax Act, R.S.C. 1985, c. 1 (5th
+Supp .), ss. 8(1) (f) [am. 1994, c. 7, Sched. II, s. 5(1)],
+(j) [idem, ss. 5(4) , 5(5) ], (2), 9(1), 18(1)(a), (b),
+20(1)(a), (b), (c) [idem, s. 15(1) ].  Tax Court of Canada Act, R.S.C. 1985,
+c. T-2, ss. 18 , 18.25  [ad. c. 51 (4th Supp.), s. 5 ].  APPEAL from a judgment of the Federal Court of Appeal (2002), 293 N.R.
+111, [2002] 4 C.T.C. 64, 2002 D.T.C. 7197, [2002] F.C.J. No. 1127 (QL),
+2002 FCA 301, quashing a decision of the Tax Court of Canada, [2001] 2 C.T.C.
+2162, 2001 D.T.C. 168, [2001] T.C.J. No. 100 (QL), and confirming the
+assessment of the Minister of National Revenue.  Appeal dismissed.  Michael Templeton and Richard Thomas, for the
+appellant.  Gordon Bourgard and Wendy Burnham, for the
+respondent.  Al Meghji and Mahmud Jamal, for the intervener.  The judgment of the Court was delivered by  1                                  
+Major J. — The appellant,
+Thomas Gifford, a financial advisor and employee of Midland Walwyn Capital Inc.
+(“Midland Walwyn”), borrowed $100,000 to purchase the list of Mr. Bentley’s
+clients.  Bentley was a fellow financial advisor who was leaving the firm.  The
+question is whether the appellant could, for tax purposes, deduct from his
+income either the purchase price or the interest paid on the money he borrowed
+to make the purchase.  Neither of these amounts are deductible, as both were
+payments “on account of capital” which are expressly denied deductibility under
+s. 8(1) (f)(v) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .)
+(the “Act ”).  I would dismiss the appeal.  I.     Factual Background  2                                  
+The appellant and Bentley were employees of Midland Walwyn in North Bay,
+Ontario.  They worked as financial advisors, each dealing with their own
+clients.  3                                  
+Bentley decided to leave the firm and the appellant entered into an
+agreement with him on December 10, 1995 titled “Agreement to Purchase Client
+Base of Financial Advisor” (the “Agreement”), whereby Bentley agreed to provide
+a written endorsement of the appellant to each client identified on a client
+list and direct Midland Walwyn to transfer those clients to the appellant. 
+Bentley also agreed to a non-compete clause which, in general terms, precluded
+him from providing retail securities investment advice to those clients for a
+period of 30 months, nor could he provide material information about the
+clients on the list to anyone without the appellant’s consent.  4                                  
+In exchange, the appellant paid Mr. Bentley $90,000 on closing and a
+further $10,000 on April 8, 1996.  The hold back of $10,000 was subject to
+reduction according to a formula in the Agreement if the total amount invested
+by the clients on the list decreased.  5                                  
+The employer Midland Walwyn’s primary consideration was keeping the
+clients at the firm.  The branch manager facilitated the Agreement and
+transferred the clients to the appellant.  Evidence was given that in the
+absence of the Agreement the appellant would probably only have acquired about
+one quarter of Mr. Bentley’s clients with the rest distributed to other
+financial advisors in the firm.  6                                  
+The appellant’s claim for a deduction was denied by the Minister of
+National Revenue.  The appellant appealed to the Tax Court of Canada under the
+informal procedure outlined in s. 18  of the Tax Court of Canada Act,
+R.S.C. 1985, c. T-2 .  Bowman A.C.J.T.C. summarized the appellant’s claim to the
+Minister for a deduction:  In filing his return of income the appellant
+deducted $13,258.07, which he claimed represented depreciation of goodwill
+($5,250) and interest and insurance expense ($8,008.07). The Minister
+disallowed this amount on the basis that no provision allowed the appellant to
+deduct an amount as depreciation of goodwill or interest for the purchase of a
+customer list.  ([2001]  2 C.T.C. 2162, at para. 5)  At  the Tax
+Court the appellant shifted his submission and claimed that the payment to
+Bentley was a current marketing expense made for the purposes of obtaining
+clients, and that the interest should be deductible as a current expense. 
+Bowman A.C.J.T.C. allowed both expenditures to be deducted and this decision
+was subsequently reversed by the Federal Court of Appeal.  II.      Relevant Statutory Provisions  7                                  
+While this appeal can be decided solely on s. 8, the rationale for the
+decision is aided by the reference to portions of ss. 9 , 18  and 20  of the Act 
+which, for convenience, are reproduced below.  8. (1)   In computing a taxpayer’s
+income for a taxation year from an office or employment, there may be
+deducted such of the following amounts as are wholly applicable to that
+source or such part of the following amounts as may reasonably be regarded as
+applicable thereto:                                                                     .
+. .  (f) where the taxpayer was employed in the year in connection
+with the selling of property or negotiating of contracts for the taxpayer’s
+employer, and  (i)       under the contract of employment was required to pay the
+taxpayer’s own expenses,  (ii)      was ordinarily required to carry on the duties of the
+employment away from the employer’s place of business,  (iii)     was remunerated in whole or part by commissions or other
+similar amounts fixed by reference to the volume of the sales made or the
+contracts negotiated, and  (iv)     was not in receipt of an allowance for travel expenses in respect
+of the taxation year that was, by virtue of subparagraph 6(1)(b)(v), not
+included in computing the taxpayer’s income,  amounts expended by the taxpayer in the year for the purpose of
+earning the income from the employment (not exceeding the commissions or
+other similar amounts referred to in subparagraph (iii) and received by the
+taxpayer in the year) to the extent that those amounts were not  (v)   outlays, losses or replacements of capital or payments on
+account of capital, except as described in paragraph (j),                                                                    .
+. .  (j) where a deduction may be made under paragraph (f), (h)
+or (h.1) in computing the taxpayer’s income from an office or employment
+for a taxation year,  (i)    any interest paid by the taxpayer in the year on borrowed money
+used for the purpose of acquiring, or on an amount payable for the acquisition
+of, property that is  (A)  a motor vehicle that is used, or  (B)  an aircraft that is required for use in the performance of the
+duties of the taxpayer’s office or employment, and  (ii)   such part, if any, of the capital cost to
+the taxpayer of  (A)  a motor vehicle that is used, or  (B)  an aircraft that is required for use in the performance of the
+duties of the office or employment as is allowed by regulation;                                                                     .
+. .  (2)    Except as permitted by this section, no
+deductions shall be made in computing a taxpayer’s income for a taxation year
+from an office or employment.                                                                     .
+. .  9. (1)   Subject to this Part, a taxpayer’s
+income for a taxation year from a business or property is the taxpayer’s profit
+from that business or property for the year.                                                                     .
+. .  18. (1)    In computing the income of a
+taxpayer from a business or property no deduction shall be made in respect of  (a)  an outlay or expense except to the extent that it was made
+or incurred by the taxpayer for the purpose of gaining or producing income from
+the business or property;  (b)  an outlay, loss or replacement of capital, a payment on
+account of capital or an allowance in respect of depreciation, obsolescence or
+depletion except as expressly permitted by this Part;                                                                     .
+. .  20. (1)    Notwithstanding paragraphs 18(1)(a),
+(b) and (h), in computing a taxpayer’s income for a taxation year
+from a business or property, there may be deducted such of the following
+amounts as are wholly applicable to that source or such part of the following
+amounts as may reasonably be regarded as applicable thereto:  (a)  such part of the capital cost to the taxpayer of property,
+or such amount in respect of the capital cost to the taxpayer of property, if
+any, as is allowed by regulation;  (b)  such amount as the taxpayer may claim in respect of a
+business, not exceeding 7% of the taxpayer’s cumulative eligible capital in
+respect of the business at the end of the year;  (c)   an amount paid in the year or payable in respect of the
+year (depending on the method regularly followed by the taxpayer in computing
+the taxpayer’s income), pursuant to a legal obligation to pay interest on  (i)     borrowed money used for the purpose of earning income from a
+business or property (other than borrowed money used to acquire property the
+income from which would be exempt or to acquire a life insurance policy),  (ii)    an amount payable for property acquired for the purpose of
+gaining or producing income from the property or for the purpose of gaining or
+producing income from a business (other than property the income from which
+would be exempt or property that is an interest in a life insurance policy),  (iii)    an amount paid to the taxpayer under  (A)  an appropriation Act  and on terms and conditions approved by the
+Treasury Board for the purpose of advancing or sustaining the technological
+capability of Canadian manufacturing or other industry, or  (B)  the Northern Mineral Exploration Assistance Regulations
+made under an appropriation Act  that provides for payments in respect of the
+Northern Mineral Grants Program, or  (iv)  borrowed money used to acquire an interest in an annuity contract
+in respect of which section 12.2 applies (or would apply if the contract had an
+anniversary day in the year at a time when the taxpayer held the interest)
+except that, where annuity payments have begun under the contract in a
+preceding taxation year, the amount of interest paid or payable in the year
+shall not be deducted to the extent that it exceeds the amount included under
+section 12.2 in computing the taxpayer’s income for the year in respect of the
+taxpayer’s interest in the contract,  or a reasonable amount in respect thereof, whichever is the lesser;
+[Emphasis added.]  III.    Judicial History  A.     Tax Court of Canada, [2001] 2 C.T.C.
+2162  8                                  
+Bowman A.C.J.T.C., the trial judge at the Tax Court of Canada,
+distinguished earlier cases that characterized the purchase of client lists as
+a capital expense.  He found Bentley did not have a client list to sell because
+the clients belonged to Midland Walwyn.  He considered the tests summarized by
+this Court in Johns-Manville Canada Inc. v. The Queen, [1985] 2 S.C.R.
+46, and concluded the payment to Bentley was a current expense.  Bowman
+A.C.J.T.C. also found the interest payment was a current expense because: (a)
+it was used to secure a loan for the payment to Bentley, which he had found to
+be a current expense; (b) nothing about interest makes it inherently a current
+or capital expense; (c) this Court had not conclusively decided interest was
+either a current or a capital expense; and (d) s. 8(1) (j) did not
+completely occupy the field of interest deductibility by an employee.  He
+classified the interest payment as a current expense under s. 8(1) (f).  B.      Federal Court of Appeal, [2002] 4
+C.T.C. 64, 2002 FCA 301  9                                  
+Rothstein J.A., in reversing the Tax Court decision, held the simple
+lack of a proprietary interest in the list did not preclude the application of
+previous client list cases.  Applying those cases and the tests from Johns-Manville,
+supra, he found the payment to Bentley to be a capital expense.  On the
+question of interest deductibility, Rothstein J.A. determined that he was
+prevented from finding interest a current expense for two reasons: (1) earlier
+decisions of this Court had held that interest was always a capital expense;
+and (2) the Act  was a complete code on the deductibility of interest.  His
+conclusion was that if it were not for these two reasons then, as a matter of
+logic, he would have agreed the interest payment was a current expense in
+accordance with the test used by the Privy Council in Wharf Properties Ltd.
+v. Commissioner of Inland Revenue, [1997] 2 W.L.R. 334.  IV.    Issues  10                              
+This appeal raises the following issues:  1.  Was the
+payment to Bentley a current expense deductible under s. 8(1) (f) or a
+payment on account of capital precluded from deduction by s. 8(1) (f)(v)?  2. Was the
+interest Mr. Gifford paid on the borrowed funds a current expense deductible
+under s. 8(1) (f) or a payment on account of capital precluded from
+deduction by s. 8(1) (f)(v)?  V.     Analysis  11                              
+Before turning to the specific issues raised by this appeal, it is
+useful to review the general scheme for allowing deductions under the Act .  The
+appellant taxpayer here earned income from employment and under the Act  could
+only make deductions, as a result of s. 8(2) , if the deduction was expressly
+allowed under s. 8 .  12                              
+If an employee meets the requirements of s. 8(1) (f)(i) to (iv),
+he is then allowed to deduct any expense made for the purpose of “earning the
+income from the employment”.  If the expense is a payment “on account of
+capital”, s. 8(1) (f)(v) removes it from the scope of expenses that can
+be deducted.  13                              
+When the source of income is a business or property as opposed to
+employment, the scope of available deductions is much broader because s. 9 
+states that the taxpayer’s income will be the profit from the business or
+property.  In calculating the profit from a business or property a taxpayer can
+make deductions in accordance with generally accepted accounting principles
+unless precluded by some other section of the Act .  Sections 18(1) (a)
+and (b) are similar to the portions of s. 8(1) (f) that act as
+general limits on what can be deducted.  Section 18(1) (a) states that
+only those expenses incurred for the purpose of gaining or producing income
+from a business or property can be deducted, and s. 18(1) (b) uses
+similar language as s. 8(1) (f)(v) to, among other things, preclude
+deductions of payments “on account of capital”.  14                              
+While the general rules are similar, the exceptions create differences
+in the ability of taxpayers who earn their income from employment as opposed to
+from business or property to claim deductions in what appear to be  similar
+circumstances.  15                              
+If an employee otherwise meets the requirements of s. 8(1) (f) but
+is prohibited from making a deduction because the expense is a payment “on
+account of capital” within  s. 8(1) (f)(v), the only exception provided
+by the Act  is s. 8(1) (j).  This section allows for the deduction of
+payments on account of capital where the item purchased is either a motor
+vehicle or an aircraft in a manner similar to the capital cost allowance
+deduction under s. 20(1) (a) discussed below.  The employee taxpayer is
+also allowed to deduct the interest paid on money borrowed to purchase either
+of these items.  16                              
+In contrast, a taxpayer earning income from business or property may be
+able to deduct expenses that fall within s. 18(1)(b) pursuant to a
+number of exceptions in the Act .  Two of the more common exceptions are in s.
+20(1) (a) and (b).  Section 20(1) (a) allows a portion of
+the capital cost of certain property to be deducted from this income, if the
+regulations provide for a capital cost allowance in relation to that type of
+property.  Section 20(1) (b) provides a similar deduction for
+expenditures to purchase certain intangible capital assets, such as goodwill. 
+Section 20(1) (c) is a specific provision that allows interest to be
+deducted when it is paid on money borrowed for certain purposes.  17                              
+That employees are treated differently than taxpayers earning income
+from business or property under the Act  is not novel nor readily seen as fair. 
+It has resulted in significant litigation when taxpayers attempted, with
+limited success, to cast themselves as independent business owners as opposed
+to employees  to attempt to get the advantage of the more favourable
+deductions.  18                              
+If the payment to Bentley or the interest payment are payments “on
+account of capital”, the appellant, as an employee, will not be able to make
+any deductions from his income for these expenses.  Conversely, if the
+appellant was earning income from a business and not from employment, he would
+likely be able to deduct both these payments in calculating his profit for the
+year.  This seemingly inequitable result for the appellant is the result of the
+structure of the Act  but cannot alter the characterization of these payments.  A.     The Payment to Mr. Bentley  19                              
+I agree with Rothstein J.A. that the purchase of client lists was not a
+new consideration, and that the facts of this case did not distinguish it from
+the earlier cases, making this a payment on account of capital, contrary to
+Bowman A.C.J.T.C.’s finding at trial.  The leading cases on characterizing the
+purchase of client lists are Cumberland Investments Ltd. v. The Queen,
+[1975] C.T.C. 439 (F.C.A.), and The Queen v. Farquhar Bethune Insurance Ltd.,
+[1982] C.T.C. 282 (F.C.A.).  In addition to the specific cases dealing with
+client lists, a leading authority on whether an expense is a current expense or
+a payment on account of capital is Johns-Manville, supra. 
+Rothstein J.A. found, and I agree, the tests in Johns-Manville support
+the finding that the payment was “on account of capital”.  20                              
+What Bentley had to sell was goodwill, developed over years of dealing
+with his clients, and the agreement not to compete with the appellant.  The
+appellant was interested in Bentley’s relationship with his clients and not
+just the names on the list.  The Agreement required Bentley to provide written
+endorsements of the appellant to a specific group of clients and not to compete
+for them for 30 months.  If the appellant only wanted access to the names of the
+clients he theoretically would not have needed to involve Bentley at all and
+could have dealt directly with Midland Walwyn.  The fact that the transaction
+occurred between two employees instead of two businesses does not, by itself,
+change the characterization of the transaction or cause the earlier client list
+cases to be ignored.  21                              
+Under the tests outlined in Johns-Manville, supra, the
+client list was a capital asset for a number of reasons.  It significantly
+expanded Mr. Gifford’s client network, the structure within which he earned his
+employment income.  The purchase of someone else’s accumulated goodwill is not
+the same as the recurring marketing expenses the appellant would have had to
+incur to create his own goodwill.  As well this payment secured the
+discontinuance of competition.  Finally, it was a payment made with the
+intention of securing an asset of enduring benefit that would provide Mr.
+Gifford with a lasting advantage.  22                              
+The trial judge found that this payment did not result in the
+acquisition of an enduring asset because “[c]lients are fleeting, volatile and
+evanescent” (para. 13).  The fact that, if not properly cared for, the asset
+may decrease in value cannot determine the question of what the asset was to
+the purchaser at the time of acquisition.  A building purchased as a rental
+property does not lose its characterization as a capital asset if it burns down
+the day after the sale closes.  The goodwill and the agreement not to compete
+amounted to a capital asset to Mr. Gifford.  The payment for this asset was a
+payment “on account of capital” which could not be deducted from his income
+because of s. 8(1) (f)(v).  B.      Interest  23                              
+ The question under the second issue is whether the interest paid by the
+appellant on the money he borrowed to purchase Bentley’s client list is
+deductible.  As discussed above, an expense can be deducted by an employee
+under s. 8(1) (f) if it is made for the purpose of earning income from
+his employment and is not a payment “on account of capital” that would be
+precluded from deduction by s. 8(1) (f)(v).  24                              
+To determine whether the interest paid by Mr. Gifford was “on account of
+capital” it is necessary to consider three subsidiary issues: (1) whether this
+Court has declared the payment of interest is always a payment “on account of
+capital”; (2) whether the Act  provides a complete code to interest
+deductibility; and (3) what test should be used to classify an interest payment
+for the purposes of the Act .  (1)   Has This Court Held That an Interest
+Payment Is Always a Payment “On Account of Capital”?  25                              
+This case is an opportunity to address the question as the appellant was
+an employee and therefore not able to rely on s. 20(1)(c) to make a
+deduction if this interest payment is held to be “on account of capital”. 
+Rothstein J.A. considered this question at para. 35:   It may be
+doubtful that the authorities support a statement as broad as that.  The cases
+referred to by him were primarily concerned with whether the interest payment
+in question could be deducted under s. 20(1)(c) and the comments made
+with respect to interest in general must be read in that light.  26                              
+Interest has not been held to always be a capital expense.  The position
+in Canada is that loan proceeds are usually additions to the financial capital
+of the borrower and interest is usually a payment on account of that financial
+capital.  Because interest payments are usually payments “on account of
+capital”, they are precluded from deduction either by s. 8(1) (f)(v) or
+by s. 18(1)(b).  27                              
+In Bennett & White Construction Co. v. Minister of National
+Revenue, [1949] S.C.R. 287, Rand J. recognized that the proceeds of
+a loan added to the capital of the borrower.  See pp. 292-93:  The acquisition of capital may be by various
+methods including stock subscriptions, permanent borrowings through issues
+of securities, or term loans; and ordinarily it should make no
+difference in taxation whether a company carried on financially by one means or
+another. In the absence of statute, it seems to be settled that to bring
+interest paid on temporary financing within deductible expenses requires that
+the financing be an integral part of the business carried on. That is
+exemplified where the transactions are those of daily buying and selling of
+securities:  Farmer v. Scottish North American Trust [[1912] A.C.
+118]; or conversely lending money as part of a brewery business:  Reid’s
+Brewery v. Mail [[1891] 2 Q.B. 1].  [Emphasis added.]  28                              
+In this case we must analyse the foundation upon which Rothstein J.A.
+relied in stating that this Court has held that interest is always a capital expense. 
+Rand J.’s reasons in Canada Safeway Ltd. v. Minister of National Revenue,
+[1957] S.C.R. 717, are used to support that proposition.  The interest in that
+case was not deductible because it was found to be an expense incurred to earn
+exempt income and therefore precluded from deduction by the Act  at the time. 
+In a concurring judgment, Rand J. made this comment about the deductibility of
+interest, at p. 727:  It is important to remember that in the absence
+of an express statutory allowance, interest payable on capital indebtedness is
+not deductible as an income expense.  If a company has not the money
+capital to commence business, why should it be allowed to deduct the interest
+on borrowed money? The company setting up with its own contributed capital
+would, on such a principle, be entitled to interest on its capital before
+taxable income was reached, but the income statutes give no countenance to such
+a deduction.  To extend the statutory deduction in the converse case would add
+to the anomaly and open the way for borrowed capital to become involved in a
+complication of remote effects that cannot be considered as having been
+contemplated by Parliament.  What is aimed at by the section is an employment
+of the borrowed funds immediately within the company’s business and not one
+that effects its purpose in such an indirect and remote manner.  [Emphasis
+added.] 29                              
+A review of the first sentence demonstrates that Rand J. did not hold
+that  interest could never be deducted in the absence of  a specific statutory
+provision but, with his reference to capital indebtedness, limited his
+statement to interest on money borrowed for use as capital.  30                              
+The next case raising the same issue is Bronfman Trust v. The Queen,
+[1987] 1 S.C.R. 32.  In that case this Court was asked to determine whether
+interest on money borrowed to make a capital distribution from a trust could be
+deducted under s. 20(1)(c).  Before he analysed that particular issue
+Dickson C.J. made a preliminary comment about the deductibility of interest. 
+At p. 45, he stated:   31                              
+Dickson C.J. made it clear that when the proceeds of a loan added to the
+financial capital of the borrower, the interest on that loan would be
+considered a payment “on account of capital”.  Iacobucci J. followed this line
+of reasoning in Tennant v. M.N.R., [1996] 1 S.C.R. 305, at para. 16:  In my opinion, s. 20(1)(c)(i) is not ambiguous. 
+It clearly states that interest can be deducted as an expense when the interest
+is paid or payable in the taxation year pursuant to a legal obligation to pay
+interest, and when the interest is payable on money borrowed for the purpose of
+earning income from a business or property.  The purpose of the interest
+deduction provision is to encourage the accumulation of capital which would
+produce taxable income, as Dickson C.J. noted in Bronfman Trust, supra,
+at p. 45.  But for s. 20(1)(c)(i), the deduction of interest payments
+would be prevented by s. 18(1)(b) (Canada Safeway Ltd. v. Minister of
+National Revenue, [1957] S.C.R. 717; some commentators suggest that
+Canada Safeway is wrongly decided; see P. W. Hogg and J. E. Magee, Principles
+of Canadian Income Tax Law (1995), at p. 221, note 36; however, I need not
+address that issue in these reasons). [Emphasis added.]  32                              
+By stating that the purpose of s. 20(1)(c) is to encourage the
+accumulation of capital before referring to the interest precluded from deduction
+by s. 18(1)(b), it seems clear that Iacobucci J. held only that interest
+on money that adds to the capital of the borrower is prevented from being
+deducted.  The case cannot be used to support the position that, as a result of
+s. 18(1)(b), interest payments are never deductible.  In Shell Canada
+Ltd. v. Canada, [1999] 3 S.C.R. 622, McLachlin J. (as she then was)
+continued to follow the line of authority that began in Canada Safeway, supra. 
+At para. 28, she stated:   At paragraph
+74, she again referred to Canada Safeway:  Furthermore, it is important to underline that interest expenses on
+money used to  produce income from a business or property are only deemed
+by s. 20(1)(c)(i) to be current expenses and, in the absence of that
+provision, would be considered to be capital expenditures: Canada Safeway,
+supra, per Rand J., at p. 727.  This Court was not invited on
+this appeal to revisit this characterization of such interest expenses:
+they therefore remain capital expenses which s. 20(1)(c)(i) deems to be
+deductible from Shell’s gross income notwithstanding the general prohibition of
+such capital deductions in s. 18(1).  [First emphasis in original; second
+emphasis added.]  33                              
+Shell was a case where the focus was not on whether the deduction
+was prohibited by s. 18(1)(b) but on whether, if it was prohibited,  it
+could nevertheless be deducted under s. 20(1)(c).  34                              
+McLachlin J. stated that the Court was not asked to consider how
+interest payments should be characterized.  Even in this context she did not
+state that all interest payments would be “on account of capital”.  In both
+passages she refers to  interest on borrowed funds used to produce income and
+in the second passage simply extends this by adding “from a business or
+property”.  35                              
+In the current appeal we have been asked to consider directly the issue
+of when interest is deductible.  The above review of the cases McLachlin J.
+relied upon in Shell indicates the important question is not whether the
+payment is a capital expenditure but whether it is “on account of capital”, a
+distinction that is explored further below.  It also indicates that even the
+limited statement in Shell that all payments of interest on borrowed
+money used to produce income will be payments “on account of capital” is too
+broad.  While this will usually be the result, each case requires an analysis
+of what the funds are to the borrower at the time of receipt.  36                              
+To summarize, the decisions of this Court have not held that interest is
+always a capital expense, but have consistently found that when the proceeds of
+the loan add to the financial capital of the borrower any interest paid on that
+loan will be considered a payment “on account of capital”.  This distinction
+becomes more important when one examines the tests used to characterize
+interest expenses in other jurisdictions, which is considered below.  (2)   Does the Act Provide a Complete Code on
+the Deductibility of Interest?  37                              
+I do not agree with Rothstein J.A. that the Act  is a complete code on
+interest deductibility.  The Minister submitted to this Court that the Act  was
+a complete code for the deductibility of interest as interest payments can only
+be deducted if they meet the requirements of specific sections of the Act  such
+as s. 8(1) (j) or s. 20(1) (c). It is evident from the manner in
+which the Canada Customs and Revenue Agency (now Canada Revenue Agency) allows
+moneylenders to deduct interest payments, without reliance on any specific
+section of the Act , when they are calculating profits for the purposes of
+determining their income for the year under s. 9  that they have not adhered to
+this position in the past.  In circumstances where interest is not a payment
+“on account of capital”, it may be deducted as long as it meets the other
+requirements, such as those set out in s. 8(1) (f) or s. 18(1) (a),
+and is not precluded by some other section of the Act .  (3)   What Test Should Be Used to Classify an
+Interest Payment for the Purposes of the Act ?  38                              
+There are a number of ways to characterize the payment of interest.  The
+method adopted by Bowman A.C.J.T.C., which looked at the purpose the proceeds
+of the loan were being used for, is in accordance with general accounting
+principles and logic.  In Steele v. Deputy Commissioner of Taxation (1999),
+161 A.L.R. 201, the Australian High Court adopted a test that results in
+interest almost always being a current expense.  In Wharf Properties, supra,
+the Privy Council adopted a test that looked at what the loan proceeds were
+being used for at the point in time when the interest was paid.  While these
+tests are not all the same, they have one underlying feature that significantly
+reduces their application to determining the deductibility of interest in
+Canada.  They are all concerned with determining whether each payment of
+interest is an “expenditure of a capital nature” (Wharf Properties, supra),
+or an “outgoing of a capital nature” (Steele, supra), neither of
+which answers the question which is relevant for Canadian purposes of whether
+it was a payment “on account of capital”.  In attempting to determine if the
+expenditure or outgoing was of a capital nature, as required by the relevant
+statutes, other jurisdictions have looked to what the loan proceeds were spent
+on.  Under the current wording in our Act  this is not necessary, as we are only
+concerned with whether the payment is “on account of capital”.  39                              
+Under our current Act  it is not necessary to determine whether the
+payment is a capital expenditure but to determine whether the payment is being
+made “on account of capital”.  This distinction in terms is particularly
+important in relation to interest payments, because loan proceeds are seldom
+retained in the form they are received, unlike other capital assets.  This
+distinction means that under our Act  it is only necessary to consider what the
+proceeds of the loan are to the borrower when they are received, and does not
+require an examination of what those loan proceeds are spent on.  If the money
+adds to the financial capital then the payment of interest on that loan will be
+considered to be a payment “on account of capital”.  If the loan proceeds
+constitute the inventory of the borrower, as is the case with moneylenders,
+then the payment of interest would be deductible.  Lord Hoffmann in Wharf
+Properties, supra, discussed how loan proceeds can be different
+things to the borrower, at p. 339:  This decision does not seem to their Lordships to help Mr. Gardiner at
+all. It is directed to a different question, namely whether the sum borrowed
+constitutes an addition to the company’s capital or is a revenue receipt.
+In other words, it looks at the nature of the loan in the hands of
+the recipient rather than the question of whether a payment of interest is a
+capital or revenue expense. It is unusual for a loan of money to constitute a
+revenue receipt but this can be the case if borrowing money is “part of the
+ordinary day to day incidence of carrying on the business” (per Lord
+Templeman in the Beauchamp case, at p. 497) which may be the case
+in businesses of banking, financing or otherwise dealing in money: see
+Farmer v. Scottish North American Trust Ltd. [1912] A.C. 118. Ordinarily,
+however, a loan to a trading company, whatever the purpose for which it is
+intended to be used, will be an addition to that company’s capital. Mr.
+Gardiner did submit that the shortness of the successive terms of the loans in
+this case was enough to make them revenue receipts, but their Lordships do not
+agree. The borrowing did not form part of the company’s trading activities.
+While it or a replacement loan remained in place it was an addition to Wharf’s
+capital: compare European Investment Trust Co. Ltd. v. Jackson (1932) 18
+T.C. 1.  [Italics in original; underlining added.]  40                              
+As earlier pointed out, loan proceeds are usually thought of as
+additions to the financial capital of the borrower.  This view makes it
+necessary to deal briefly with the wording at the beginning of both s. 8(1) (f)(v)
+and s. 18(1)(b) that prohibits the deduction of  “outlays . . . of
+capital”.  A literal reading of this phrase could render every expenditure that
+could not be directly traced to revenue non-deductible as an outlay of
+capital.  This has not been the approach under these sections in the past, and
+the analysis should continue to look at what is acquired rather than examining
+where the money to make the payment originates.  C.     Costs  41                              
+Under s. 18.25 of the Tax Court of Canada Act , the Minister must
+pay the reasonable and proper costs of the taxpayer when it seeks to judicially
+review a decision made under the informal procedure.  18.25 Where the Minister of National Revenue
+makes an application under section 28  of the Federal Court Act  to review
+and set aside a judgment referred to in section 18.24 , the reasonable and
+proper costs of the taxpayer in respect of the application shall be paid by Her
+Majesty in right of Canada.  The purpose of
+s. 18.25 is to ensure the Minister bears the costs of the appeal process once
+he begins it.  Accordingly, the costs in the courts below are confirmed and the
+appellant is awarded his reasonable and proper costs in this Court.  VI.    Conclusion  42                              
+The Agreement to pay $100,000 to purchase accumulated goodwill and the
+agreement not to compete were made to create an enduring benefit for the
+appellant taxpayer Gifford and therefore the payment was “on account of
+capital”.  The interest payment in this case, under current Canadian law, was
+also a payment “on account of capital”, because the funds, borrowed to make the
+payment to Bentley, themselves added to the financial capital of the
+appellant.  As both payments in question were “on account of capital”, s. 8(1) (f)(v)
+prevents a deduction from being made for either expense.  This appeal is
+dismissed.  The reasonable and proper costs in this Court are to be paid to the
+appellant by the respondent.  The costs awarded in the lower courts are upheld.  Appeal dismissed with costs.  Solicitors for the appellant:  McMillan Binch, Toronto.  Solicitor for the respondent:  Deputy Attorney General of Canada,
+Ottawa.  Solicitors for the intervener:  Osler, Hoskin & Harcourt,
+Toronto.    

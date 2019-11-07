@@ -1,0 +1,1275 @@
+SCC Case Information: 36771   SUPREME
+COURT OF CANADA  Citation: R. v. Alex, 2017 SCC 37, [2017] 1 S.C.R. 967 Appeal
+  heard: December 8, 2016 Judgment
+  rendered: July 6, 2017 Docket: 36771    Between: Dion
+Henry Alex Appellant  and  Her
+Majesty The Queen Respondent  - and -  Attorney
+General of Ontario and Criminal Lawyers’ Association (Ontario) Interveners    Coram: McLachlin C.J. and Abella, Moldaver, Karakatsanis, Wagner,
+Gascon, Côté, Brown and Rowe JJ.  Reasons
+  for Judgment: (paras. 1 to 51) Moldaver J. (Karakatsanis, Wagner, Gascon
+  and Côté JJ. concurring)   Dissenting
+  Reasons: (paras. 52 to 102) Rowe J. (McLachlin C.J. and Abella and
+  Brown JJ. concurring)     R.
+v. Alex, 2017 SCC 37, [2017] 1
+S.C.R. 967 Dion Henry Alex                                                                                             Appellant v. Her Majesty The Queen                                                                              Respondent and Attorney General of Ontario and Criminal Lawyers’ Association
+(Ontario)                                                    Interveners Indexed as: R. v. Alex 2017 SCC 37 File No.: 36771. 2016: December 8; 2017: July 6. Present: McLachlin C.J. and Abella, Moldaver, Karakatsanis,
+Wagner, Gascon, Côté, Brown and Rowe JJ. on appeal from the court of appeal for british columbia                     Held (McLachlin C.J.
+and Abella, Brown and Rowe JJ. dissenting): The appeal should be dismissed.                     Per Moldaver, Karakatsanis, Wagner, Gascon and
+Côté JJ.: The text of ss. 258(1)(c)
+and 258(1)(g) of the Code does not support the requirement of a lawful
+demand for the evidentiary shortcuts to apply. First,
+Parliament could easily have specified that the sample had to be taken
+“pursuant to a lawful demand” as it has done elsewhere in the Code. Second, this interpretation
+is in tension with the structure of the provisions, which is comprised of an
+opening part followed by a specific list of preconditions that must be met, all
+of which bear directly on the reliability of the evidentiary shortcuts. The meaning
+of the phrase “pursuant to a demand made under subsection 254(3)” is simply to
+identify a breath sample as the bodily sample to which the provisions apply,
+which may have been unclear at the time of their initial enactment in 1969. In
+any event, plain meaning alone is not determinative and a statutory
+interpretation analysis is incomplete without considering the context, purpose
+and relevant legal norms.                     It
+is unnecessary to determine whether Rilling was correctly decided under
+the law as it existed at that time, as the concerns which animated the minority
+in Rilling have been addressed in the present day context. The
+scientific reliability of the results of properly administered breath tests is
+now firmly established. And today, s. 8  of the Canadian
+Charter of Rights and Freedoms , in combination with s. 24(2) , provides
+a comprehensive and direct protection against unreasonable searches and
+seizures, including those of breath samples. By contrast, a loss of the
+s. 258  evidentiary shortcuts does not provide a meaningful remedy for an
+unlawful demand by the police and achieves no substantive or procedural benefit
+for an accused — it merely requires the Crown to call two unnecessary witnesses
+to arrive at the same result. Such an approach would be antithetical to
+the Court’s recent jurisprudence emphasizing the importance of participants in
+the criminal justice system working together to achieve fair and timely
+justice.                     As a
+lawful demand was not a precondition to the s. 258 evidentiary shortcuts,
+there is no basis in this case for appellate interference and A’s conviction
+must be upheld.                     Per
+McLachlin C.J. and Abella, Brown and Rowe JJ.
+(dissenting): The requirement for reasonable grounds to demand a breath sample
+under s. 254(3) of the Code is a precondition to the operation of
+the presumptions in ss. 258(1) (c) and 258(1) (g). Rilling is
+therefore no longer good law. A balancing between the values
+of correctness and certainty leads to the conclusion that the need to correct
+the law predominates in this case. As a result, A’s appeal
+should be allowed, his conviction set aside and a new trial ordered.                     Rilling
+is based on an incorrect view that relevant evidence is admissible even if it
+is unlawfully obtained. Such an interpretation conflates the issues of
+admissibility under common law with the operation of the evidentiary shortcuts,
+per s. 258(1) of the Code. This interpretation has been attenuated
+by later jurisprudence which identifies the
+distinction between admissibility and preconditions to evidentiary shortcuts,
+and by the importance of a statutory precondition of reasonable and
+probable grounds being satisfied to ensure a lawful search and seizure in s. 8 
+Charter  context. It has also been attenuated by the modern approach to statutory interpretation. Cases Cited By Moldaver J. By Rowe J. (dissenting) Statutes and Regulations Cited Canadian Charter of Rights and Freedoms,
+ss. 8 , 11 (b), 24(2) . Motor
+Vehicle Act, R.S.B.C. 1996, c. 318, s. 234(1). Authors Cited Driedger, Elmer A. Construction of Statutes, 2nd ed. Toronto:
+Butterworths, 1983. Shorter Oxford English Dictionary on Historical Principles, 6th ed. by Angus Stevenson. Oxford: Oxford University Press, 2007,
+“pursuant to”. Sullivan, Ruth. Sullivan on the Construction of Statutes, 6th
+ed. Markham, Ont.: LexisNexis, 2014.                     APPEAL
+from a judgment of the British Columbia Court of Appeal (Newbury, Harris and
+Goepel JJ.A.), 2015 BCCA 435, 377 B.C.A.C. 301, 648 W.A.C. 301, 328 C.C.C.
+(3d) 448, 24 C.R. (7th) 138, 344 C.R.R. (2d) 158, 86 M.V.R. (6th) 179, [2015]
+B.C.J. No. 2267 (QL), 2015 CarswellBC 3000 (WL Can.), affirming a decision
+of Schultes J., 2014 BCSC 2328, 71 M.V.R. (6th) 228, [2014] B.C.J. No. 3036
+(QL), 2014 CarswellBC 3675 (WL Can.), affirming the accused’s summary conviction
+for impaired driving. Appeal dismissed, McLachlin C.J. and Abella, Brown
+and Rowe JJ. dissenting.                     Michael F. Welsh, for the appellant.                     Rodney Garson, for the respondent.                     James V. Palangio and Michael Medeiros, for the intervener the Attorney
+General of Ontario.                     Adam Little, Jonathan M.
+Rosenthal
+and Shannon S. W. O’Connor, for the intervener the Criminal
+Lawyers’ Association (Ontario).                     The judgment of Moldaver,
+Karakatsanis, Wagner, Gascon and Côté JJ. was delivered by                     Moldaver J. — I.              
+Background and Overview [1]                             
+Each year, drunk drivers cause tremendous
+suffering and loss of life on Canada’s roadways. Tragically, drinking and
+driving offences remain one of the most common crimes in Canada — and they
+place a substantial burden on the criminal justice system. [2]                             
+To address the challenges posed by the large
+number of drinking and driving offences, Parliament has, over the years, taken
+steps to simplify and streamline the trial process. One such step, which dates
+back to 1969, involved the introduction of evidentiary shortcuts into the Criminal
+Code, R.S.C. 1985, c. C-46 .[1]  These shortcuts, now found in ss. 258(1)(c) and 258(1)(g) of the Code,
+permit the Crown to establish an accused’s blood-alcohol concentration at the
+time of the alleged offence by filing a certificate recording the accused’s
+breath readings. [3]                             
+In the case of “over 80” charges,[2] this relieves the Crown from having to call two witnesses at every
+trial: (1) a breath technician to attest to the accuracy of the breath
+readings; and (2) an expert toxicologist to relate the readings back to the
+time when the alleged offence occurred. [4]                             
+To ensure that these evidentiary shortcuts yield
+reliable evidence, Parliament built a number of preconditions into the scheme,
+the most notable being that the breath samples have to be taken within a
+prescribed period of time following the alleged offence; the samples have to be
+provided directly into an approved container or instrument; and the instrument
+has to be operated by a properly qualified technician. [5]                             
+The issue in this appeal is whether, in addition
+to the three preconditions just mentioned, the Crown must also establish that
+the demand for the breath sample made by the police was a “lawful” demand
+before it can take advantage of the evidentiary shortcuts. [6]                             
+In Rilling v. The Queen, [1976] 2 S.C.R.
+183, a majority of this Court held that it was unnecessary for the Crown to
+prove a lawful demand in order to rely on the evidentiary shortcuts. This
+appeal raises the question of whether Rilling remains good law. [7]                             
+The facts of the present case are
+straightforward. On April 21, 2012, the police stopped a vehicle driven by the
+appellant, Mr. Alex, and conducted a typical drinking and driving
+investigation. After Mr. Alex failed a roadside screening device test, the
+police officer demanded that he accompany the officer to the police station to
+provide samples of his breath. Mr. Alex complied and registered readings
+significantly over the legal limit. Accordingly, Mr. Alex was charged with
+driving “over 80”, contrary to s. 253 of the Code. [8]                             
+At trial, it was uncontested that Mr. Alex
+provided the breath samples into an approved instrument operated by a qualified
+technician within the prescribed time periods, and that the readings were
+reliable. However, Mr. Alex argued that the breath sample demand was unlawful
+because the police lacked reasonable grounds to make it. Rather than bringing a
+challenge to exclude the evidence under s. 8  of the Canadian Charter of
+Rights and Freedoms , he chose instead to argue that the absence of
+reasonable grounds for the demand deprived the Crown of the s. 258  evidentiary
+shortcuts. [9]                             
+Although the trial judge agreed that the grounds
+were insufficient, he applied Rilling and permitted the Crown to file a
+certificate of analysis as proof of Mr. Alex’s blood-alcohol concentration at
+the time of the alleged offence. Mr. Alex presented no defence and he was
+convicted of driving “over 80”. [10]                         
+Successive appeals by Mr. Alex to the British
+Columbia Supreme Court (2014 BCSC 2328, 71 M.V.R. (6th) 228) and British
+Columbia Court of Appeal (2015 BCCA 435, 377 B.C.A.C. 301) were dismissed on
+the basis that Rilling remained binding. Before this Court, Mr. Alex
+submits that Rilling is no longer good law. He says it was wrongly
+decided and should be reversed. [11]                         
+ With respect, unlike my colleague Justice Rowe,
+I find it unnecessary to determine whether Rilling was correctly decided
+under the law as it existed over four decades ago.  When ss. 258(1)(c) and
+258(1)(g) are analyzed in accordance with the modern principles of statutory
+interpretation, I am satisfied that the Crown need not prove that the demand
+was lawful in order to take advantage of the shortcuts. If the taking of the
+samples is subjected to Charter  scrutiny, and the evidence of the breath
+test results is found to be inadmissible by virtue of ss. 8  and 24(2)  of the Charter ,
+that will end the matter. Resort to the evidentiary shortcuts will be a
+non-issue. On the other hand, if the taking of the samples is subjected to s. 8 
+Charter  scrutiny, and the breath test results are found to be admissible
+in evidence — either because no s. 8  breach occurred or because the evidence
+survived s. 24(2)  Charter  scrutiny — the shortcuts should remain
+available to the Crown. [12]                         
+The singular effect of concluding otherwise
+would be to require two additional witnesses to attend court to give evidence
+on matters which have no connection to the lawfulness of the breath demand —
+and only serve to add to the costs and delays in an already overburdened
+criminal justice system.  No one gains under this approach — but society as a
+whole loses out as precious court time and resources are squandered. The
+evidentiary shortcuts were designed by Parliament to simplify and streamline
+drinking and driving proceedings. A lawful demand requirement does not further
+Parliament’s intent; rather, it serves to frustrate it. [13]                         
+I would accordingly dismiss the appeal. II.           
+Analysis A.           
+The Statutory Regime [14]                         
+The provisions at the centre of this appeal are
+found in ss. 254 and 258 of the Code. They are reproduced in the
+Appendix. I propose to review only the relevant portions of each. [15]                         
+Section 254(3) authorizes the police to demand a
+breath sample from an individual. It sets out the statutory preconditions that
+must be met for the demand to be lawful, including the precondition at issue in
+this case, namely, that the police must have reasonable grounds to believe the person
+is committing or has committed a drinking and driving offence under s. 253 of
+the Code: 254 .
+. .  . . .  (3) If
+a peace officer has reasonable grounds to believe that a person is committing,
+or at any time within the preceding three hours has committed, an offence under
+section 253  as a result of the consumption of alcohol, the peace officer may,
+by demand made as soon as practicable, require the person  (a)   to provide, as soon as practicable,  (i) samples of breath that, in a qualified technician’s opinion, will
+enable a proper analysis to be made to determine the concentration, if any, of
+alcohol in the person’s blood . . . [16]                         
+Sections 258(1)(c) and 258(1)(g) of the Code contain
+the three evidentiary shortcuts at issue in this appeal: (c) where
+samples of the breath of the accused have been taken pursuant to a demand made
+under subsection 254(3), if  (i) [Repealed before coming into force, 2008, c. 20, s. 3]  (ii) each sample was taken as soon as practicable after the time when
+the offence was alleged to have been committed and, in the case of the first
+sample, not later than two hours after that time, with an interval of at least
+fifteen minutes between the times when the samples were taken,  (iii) each sample was received from the accused directly into an
+approved container or into an approved instrument operated by a qualified
+technician, and  (iv) an analysis of each sample was made by means of an approved
+instrument operated by a qualified technician,  evidence of the results of the
+analyses so made is conclusive proof that the concentration of alcohol in the
+accused’s blood both at the time when the analyses were made and at the time
+when the offence was alleged to have been committed was . . . the concentration
+determined by the analyses . . .  . . .  (g) where
+samples of the breath of the accused have been taken pursuant to a demand made
+under subsection 254(3), a certificate of a qualified technician stating  (i) that the analysis of each of the samples has been made by means
+of an approved instrument operated by the technician and ascertained by the
+technician to be in proper working order by means of an alcohol standard,
+identified in the certificate, that is suitable for use with an approved
+instrument,  (ii) the results of the analyses so made, and  (iii) if the samples were taken by the technician,  (A) [Repealed before coming into force, 2008, c. 20, s. 3]  (B) the time when and place where each sample . . . was taken, and  (C) that each sample was received from the accused directly into an
+approved container or into an approved instrument operated by the technician,  is evidence of the facts alleged
+in the certificate without proof of the signature or the official character of
+the person appearing to have signed the certificate; [17]                         
+Section 258(1)(g) creates a statutory exception
+to the common law hearsay rule. It permits a certificate of analysis, which
+sets out the accused’s breath test results, to be filed for the truth of its
+contents without the need for viva voce evidence. [18]                         
+Section 258(1)(c) then provides two inferences
+that may be presumptively drawn from the certificate. The first inference,
+referred to as the presumption of accuracy, is that the breath readings in the
+certificate are accurate measures of the accused’s blood-alcohol concentration.
+This presumption dispenses with the need to call the qualified technician who
+administered the tests to verify their accuracy. [19]                         
+The second inference, known as the presumption
+of identity, provides that the breath test results also identify the accused’s
+blood-alcohol concentration at the time of the alleged offence. This
+presumption avoids the need to call an expert toxicologist to interpret or
+“read-back” the breath readings with a view to identifying the accused’s
+blood-alcohol concentration at the time of the alleged offence. [20]                         
+The three evidentiary shortcuts streamline the
+trial proceedings by permitting an accused’s blood-alcohol concentration at the
+time of the alleged offence to be presumptively proven through the filing of a
+certificate of analysis. To be clear, these shortcuts do not affect whether the
+accused’s breath readings are admissible or not. They affect only the manner
+of admission — specifically, whether the Crown must call two additional
+witnesses: one to verify the accuracy of the certificate and enter it as an
+exhibit, and the other to opine on the accused’s blood-alcohol concentration at
+the time of the alleged offence — matters which have no connection to the
+lawfulness of the breath demand. This was made clear in R. v. Deruelle,
+[1992] 2 S.C.R. 663, at pp. 673-74, where the Court observed that the breath
+readings remain admissible at common law through viva voce evidence,
+irrespective of whether the shortcuts apply. [21]                         
+The central question in this appeal is whether
+the opening words of each s. 258 evidentiary shortcut — “where
+samples of the breath of the accused have been taken pursuant to a demand made
+under subsection 254(3)” — refer
+specifically to a lawful demand made under s. 254(3), which, among other
+things, is predicated on the police having reasonable grounds to make the
+demand. B.           
+Mr. Alex’s Position [22]                         
+Mr. Alex advances three main submissions in support
+of his interpretation that a lawful demand is required under s. 254(3) for the
+evidentiary shortcuts to apply. First, he submits that the plain meaning of the
+opening words of the text, referred to in the preceding paragraph, requires
+that the demand be shown to be lawful. Second, he revives the dissenting
+opinion in Rilling that Parliament intended the provisions to include a
+lawful demand precondition to provide “another protection of the accused” in
+the face of police powers of compulsion (Rilling, at p. 194), adding
+that the adoption of the Charter  should reinforce the importance of this
+protection. Finally, he contends
+that this interpretation is necessary to achieve harmony, both textual and as a
+matter of policy, with the s. 254(5)  offence of refusing to comply with a
+breath demand. [23]                         
+These arguments are addressed in turn below. With
+respect, I find each to be unconvincing. C.           
+Statutory Interpretation [24]                         
+The modern approach to statutory interpretation
+is now well established. It requires that the words of a provision be read “in
+their entire context and in their grammatical and ordinary sense harmoniously
+with the scheme of the Act, the object of the Act, and the intention of
+Parliament”: Bell ExpressVu Limited Partnership v. Rex, 2002 SCC 42,
+[2002] 2 S.C.R. 559, at para. 26, quoting E. A. Driedger, Construction of
+Statutes (2nd ed. 1983), at p. 87. (1)          
+The Opening Words of the Provisions [25]                         
+Beginning with the text of ss. 258(1)(c) and
+258(1)(g), Mr. Alex argues that the phrase “pursuant to a demand made under
+subsection 254(3)” in the opening clause of each provision unambiguously
+supports his position that the evidentiary shortcuts apply only where a lawful
+demand is made under s. 254(3). When this phrase is viewed in isolation, I
+acknowledge that his position is arguable. However, two
+considerations cast doubt on Mr. Alex’s plain reading of the text. [26]                         
+First, Parliament could easily have specified
+that the sample had to be taken “pursuant to a lawful demand”. There are many examples throughout the Code where Parliament has done
+just that. For instance, in s. 127(1) of the Code,[3] Parliament has made it clear that to convict a person for disobeying a
+court order, the underlying order must be “lawful”: 127 (1) Every one who, without lawful excuse, disobeys a lawful
+order made by a court of justice or by a person or body of persons authorized
+by any Act to make or give the order, other than an order for the payment of
+money, is, unless a punishment or other mode of proceeding is expressly
+provided by law, guilty of  (a) an indictable offence and liable to
+imprisonment for a term not exceeding two years; or  (b) an offence punishable on summary conviction. [27]                         
+Second, Mr. Alex’s interpretation is in tension
+with the structure of the provisions. Each includes an opening part followed by
+a specific list of preconditions that must be met before the evidentiary
+shortcuts can apply (ss. 258(1)(c)(i) to (iv) and 258(1)(g)(i) to (iii)). These
+preconditions share a common theme of ensuring that certain procedures are
+followed in the taking and recording of a breath reading, all of which bear directly
+on the reliability of the evidentiary shortcuts. In particular, they set out
+requirements pertaining to the timing, method, instrument type and operator
+qualifications. The lawfulness of a breath demand does not mesh with this
+theme. It has no bearing on the reliability of the evidentiary shortcuts.
+Moreover, there is nothing in the text of the provisions to indicate that the
+various reliability-related preconditions listed in each are meant to be
+non-exhaustive. Mr. Alex’s interpretation does not conform to this basic
+structure of the provisions. Instead, it calls for fragmented preconditions in
+separate clauses. [28]                         
+In view of these considerations, it is not clear
+to me that a plain reading of the provisions supports Mr. Alex’s position that
+the evidentiary shortcuts depend on a lawful demand. [29]                         
+Mr. Alex submits, however, that unless his
+interpretation is adopted, the words in the opening clause are rendered
+meaningless. My colleague shares this view (para. 89). [30]                         
+Respectfully, I disagree. In my view, the phrase
+“pursuant to a demand made under subsection 254(3)” simply identifies the
+bodily sample to which the provisions apply — that is, a breath sample. This
+reading finds support in the legislative history of the provisions. At the time
+of their initial enactment in 1969, they contained references to blood, urine,
+breath and other bodily samples. The opening words therefore played a
+meaningful role in clarifying the specific sample to which the provisions were
+meant to apply. (2)          
+Plain Meaning Is Not Determinative [31]                         
+This Court has repeatedly observed that plain
+meaning alone is not determinative and a statutory interpretation analysis is incomplete without considering the context, purpose and relevant
+legal norms: McLean v. British Columbia (Securities Commission), 2013
+SCC 67, [2013] 3 S.C.R. 895, at para. 43; ATCO Gas
+and Pipelines Ltd. v. Alberta (Energy and Utilities Board), 2006 SCC 4,
+[2006] 1 S.C.R. 140, at para. 48; Rizzo & Rizzo Shoes Ltd. (Re),
+[1998] 1 S.C.R. 27, at paras. 20-41. In the words of McLachlin C.J. and
+Deschamps J. in Montreal (City) v. 2952-1366 Québec Inc., 2005 SCC 62,
+[2005] 3 S.C.R. 141, this is necessary because (para. 10):      Words that appear clear and
+unambiguous may in fact prove to be ambiguous once placed in their context. The
+possibility of the context revealing a latent ambiguity such as this is a
+logical result of the modern approach to interpretation. [32]                         
+Ruth Sullivan makes a similar point in Sullivan
+on the Construction of Statutes (6th ed. 2014), at § 2.9:      At the end of the day . . . the
+court must adopt an interpretation that is appropriate. An appropriate
+interpretation is one that can be justified in terms of (a) its plausibility,
+that is, its compliance with the legislative text; (b) its efficacy, that is,
+its promotion of legislative intent; and (c) its acceptability, that is, the
+outcome complies with accepted legal norms; it is reasonable and just. [33]                         
+In sum, while Mr. Alex’s interpretation may be
+an arguable reading of the opening words, it cannot prevail if it is at odds
+with the purpose and context of the provisions. (3)          
+The Purpose and Context of the Evidentiary
+Shortcuts [34]                         
+When the plain meaning of the provisions is read
+harmoniously with their purpose and context, Parliament’s intent becomes clear:
+the Crown need not establish the lawfulness of a breath demand for the
+evidentiary shortcuts in ss. 258(1)(c) and 258(1)(g)  to apply. The overriding
+purpose of the evidentiary shortcuts is to streamline proceedings by dispensing
+with unnecessary evidence. The preconditions governing the evidentiary
+shortcuts are concerned with the reliability of the breath test results and
+their correlation to the accused’s blood-alcohol concentration at the time of
+the offence. The lawfulness of a breath demand has no bearing on these matters.
+This purpose is distinct from that of s. 254(3), which establishes and defines
+police powers, including the prerequisites for a lawful breath demand. Although
+the general objective of the statutory drinking and driving regime is the same,
+“the specific purposes of each mechanism are different”: Deruelle, at p.
+672.  As I will explain, the overriding purpose of the evidentiary shortcuts —
+streamlining trial proceedings — would be frustrated by importing a lawful
+demand requirement. (4)          
+The Overriding Purpose of Streamlining
+Proceedings Would Be Frustrated by Importing a Lawful Demand Requirement [35]                         
+Requiring the Crown to prove the lawfulness of
+the breath demand before the evidentiary shortcuts can apply would frustrate
+their overriding purpose: to streamline the trial process in this heavily
+litigated and complex area of the law. In R. v. Vanderbruggen (2006),
+206 C.C.C. (3d) 489 (Ont. C.A.), Rosenberg J.A. urged a sensible and practical
+approach to interpreting the drinking and driving statutory regime, stating at
+para. 16:      To conclude, these provisions, which
+are designed to expedite trials and aid in proof of the suspect’s blood-alcohol
+level, should not be interpreted so as to require an exact accounting of
+every moment in the chronology. We are now far removed from the days when the
+breathalyser was first introduced into Canada and there may have been some
+suspicion and scepticism about its accuracy and value and about the science
+underlying the presumption of identity. These provisions must be interpreted
+reasonably in a manner that is consistent with Parliament’s purpose in
+facilitating the use of this reliable evidence. [Emphasis
+added.] This sentiment has been
+echoed in other cases: R. v. Ware, 30 C.R.N.S. 308 (Ont. C.A.),
+at p. 315; R. v. Forsyth (1973), 15 C.C.C. (2d) 23 (Man. C.A.), at p.
+26. [36]                         
+The evidentiary shortcuts are intended to avoid
+needless delays in drinking and driving proceedings. Yet if the Crown is
+required to prove that the demand is lawful before they can apply, this purpose
+will be frustrated with some frequency, given that the distinction between
+reasonable grounds and the absence of such grounds is often a fine one. Two
+witnesses will be required to attend court in order to prove that which a
+certificate of analysis reliably establishes. And this, in turn, will lead to
+unreasonable delays that are counterproductive to the administration of justice
+as a whole, without any compelling justification. [37]                         
+I disagree with my colleague’s suggestion that a
+loss of the evidentiary shortcuts will merely cause “inconvenienc[e]” to the
+Crown and make it take “longer to prove its case” (para. 98). The potential
+consequences of Mr. Alex’s position should not be underestimated. In theory,
+the need for these extra witnesses would be confined to a limited minority of cases
+where a trial judge determines an unlawful demand was made. But in reality,
+because the lawfulness of a demand remains uncertain until a determination is
+made at trial, the practical consequences manifest themselves much earlier in
+the proceedings at the point of trial scheduling. And in drinking and driving
+cases, the lawfulness of a breath demand, and specifically the officer’s
+grounds, are frequently in issue and can arise at any point, including during
+an officer’s testimony at the trial. [38]                         
+As a result, in many cases, trial scheduling
+would have to account for the possibility that two additional witnesses would
+be required to testify. This would extend estimated lengths of trial
+proceedings: one day trials would become two day trials, two day trials would
+become three days, and so on. In addition, the Crown would have to be prepared
+to call a breath technician and toxicologist in every case and limitations on
+their availability could add to the delay. And the effects do not end there.
+The consequences of trial scheduling are pervasive, creating backlogs and
+congestion throughout the justice system as a whole. This raises the following
+question: For what purpose? The answer, as I will explain, is none, other than
+to provide an accused with a hollow form of protection against police
+misconduct which the Charter  now accounts for in a much more
+satisfactory and meaningful way. (5)          
+The Charter  Now Addresses the Concerns That
+Animated the Minority in Rilling About Providing Protection Against
+Unlawful Breath Demands [39]                         
+In Rilling, this Court addressed a
+similarly worded evidentiary shortcut found in what was then s. 237(1)(f) of
+the Code (current s. 258(1)(g)). A majority of the Court
+(Martland, Judson, Pigeon, Beetz and de Grandpré JJ.) concluded that
+the presumption of accuracy continued to operate regardless of whether an
+officer had the grounds needed to make a demand.[4] [40]                         
+Justice Spence (Laskin C.J. and Dickson J.
+concurring) reached the opposite conclusion. The minority’s reasons were driven
+by concerns that the majority’s interpretation would remove a “protection of
+the accused” against unlawful breath demands:      The result of the judgment of the Appellate
+Division from which this appeal is taken as well as some of the decisions in
+other Provinces cited therein is to effectively remove another protection of
+the accused.  I am of the opinion that the requirement in both s. 237(1)(c)
+and s. 237(1)(f) that the test should have been made pursuant to the demand
+under s. 235(1) was inserted by Parliament with the intention of limiting those
+cases where the analysis could be proved by a certificate of a qualified
+technician and then that such analysis would provide prima facie proof
+of the proportion of alcohol in the blood of the accused only to those cases
+where the peace officer had, on reasonable and probable grounds, believed that
+the accused was or had been driving while impaired. This was only a proper
+requirement when the test was one which the citizen was required to submit to
+on penalty of committing an offence if he refused. [Emphasis added; p.
+194.] [41]                         
+This position is revived by Mr. Alex and the
+Criminal Lawyers’ Association (Ontario) and is reinforced, in their opinion, by
+Charter  values. Accordingly, Mr. Alex asks this Court to overrule Rilling
+as wrongly decided. [42]                         
+In my view, it is unnecessary to determine
+whether Rilling was correctly decided under the law as it existed at
+that time and I would decline to do so.  It is clear that the concerns about
+removing a safeguard against unlawful breath demands which animated the
+minority in Rilling have been addressed in the present day context. As
+the intervener the Attorney General of Ontario points out, in the years since Rilling,
+the scientific reliability of the results of properly administered breath
+tests is now firmly established: see R. v. St-Onge Lamoureux, 2012 SCC
+57, [2012] 3 S.C.R. 187, at paras. 40 and 72; R. v. Phillips (1988),
+42 C.C.C. (3d) 150 (Ont. C.A.); R. v. Paszczenko,
+2010 ONCA 615, 103 O.R. (3d) 424, at paras. 42-47 and 65. And today, s. 8  of the Charter  provides a comprehensive and direct
+protection against unreasonable searches and seizures, including those of
+breath samples: see R. v. Shepherd, 2009 SCC 35, [2009] 2 S.C.R. 527, at
+paras. 13-16 and 24. In combination with s. 24(2) , s. 8  provides an effective
+recourse for challenging the lawfulness of breath demands and a meaningful
+remedy in the form of excluding the breath test results. Thus, s. 8 also
+addresses my colleague’s concerns about ensuring that police are “conforming to
+the requirements of the law”, including the “other requirements of s. 254(3) ,
+such as the requirement that the demand be made by a peace officer or that the
+demand be made as soon as practicable” (paras. 99 and 90). [43]                         
+This role that s. 8  fulfills in relation to
+unlawful breath demands is consistent with the approach taken when the police
+fail to comply with the requirements of other statutory provisions governing
+their authority. For example, non-compliance with the statutory search warrant
+requirements does not result in automatic loss of the evidence — rather it is
+subject to challenge under s. 8  of the Charter : see R. v. Collins,
+[1987] 1 S.C.R. 265, at pp. 278 and 280. [44]                         
+By contrast, a loss of the s. 258 evidentiary
+shortcuts does not provide a meaningful remedy for an unlawful demand by the
+police. Indeed, I would hesitate to characterize it as a remedy at all. In
+reality, eliminating these evidentiary shortcuts achieves no substantive or
+procedural benefit for an accused. It merely requires the Crown to call two
+unnecessary witnesses — a breath technician and toxicologist — in order to
+arrive at the same result.[5] An unlawful breath demand does not affect the reliability of the
+inferences that flow from the shortcuts so as to make testimony from these
+witnesses necessary. [45]                         
+In some cases, practical or resourcing
+limitations may prevent the Crown from being able to produce these two
+witnesses — and this could result in the case being lost. In my view, we should
+avoid an interpretation that forces the Crown to call unnecessary witnesses and
+promotes an outcome not based on the merits, but rather on the limitations of
+an overburdened criminal justice system. Indeed, such an approach would be
+antithetical to this Court’s recent jurisprudence emphasizing the importance of
+participants in the criminal justice system working together to achieve fair
+and timely justice: R. v. Jordan, 2016 SCC 27, [2016] 1 S.C.R. 631, at
+paras. 2-3 and 19-28. [46]                         
+The minority in Rilling may have been
+influenced by the notion that a loss of the evidentiary shortcuts could provide
+a means of regulating police conduct in making breath demands. However, the Charter 
+now fulfills the role of regulating the lawfulness of police breath demands
+in a more effective and logical manner. (6)          
+The Comparison to the Section 254(5) Refusal
+Offence [47]                         
+Finally, Mr. Alex submits that the s. 254(5)
+offence of refusing to provide a breath sample is relevant to the
+interpretation of the s. 258 evidentiary shortcuts. Section 254(5) states: (5) Everyone
+commits an offence who, without reasonable excuse, fails or refuses to comply
+with a demand made under this section. Mr. Alex points to the
+similarity between the opening words of the s. 258 evidentiary presumptions and
+the reference in s. 254(5) to “a demand made under this section”.  The
+Criminal Lawyers’ Association (Ontario), in turn, relies on jurisprudence that
+has recognized a lawful demand as an element of the refusal offence: citing R.
+v. MacDonald (1974), 22 C.C.C. (2d) 350 (N.S.C.A.), at para. 35; see also
+R. v. Moser (1992), 7 O.R. (3d) 737 (C.A.), per Doherty J.A., concurring in
+the result. In addition, as a matter of policy, Mr. Alex submits it would be
+unfair and anomalous if the Crown only had to establish the lawfulness of a
+demand if an accused refused, but not if the accused complied with the demand. [48]                         
+I have difficulty with this comparison for a
+number of reasons. First, the
+textual argument assumes that the language of s. 254(5) requires the lawfulness
+of the demand to be an element of the offence. In my view, however, this element
+is better thought of as arising from the general nature of the refusal offence
+— an offence which criminalizes disobedience in response to lawful compulsion.
+Notwithstanding the words “made under”, disobedience with unlawful compulsion
+is simply not criminal. For example, the unlawfulness of an arrest can provide
+a complete defence to the charge of resisting arrest under s. 270 of the Code:
+R. v. Plamondon (1997), 121 C.C.C. (3d) 314 (B.C.C.A.), at para. 29; see
+also R. v. Plummer (2006), 83 O.R. (3d) 528 (C.A.), at paras. 1 and 48-49. [49]                         
+This exposes a logical flaw in the analogy.
+While the refusal offence is part of the same statutory regime, it is different
+from other drinking and driving offences in substance. Culpability for the
+refusal offence is based on disobedience with lawful compulsion, whereas
+culpability for an “over 80” offence is based on driving with a blood-alcohol
+concentration over the legal limit. The lawfulness of the breath demand has no
+logical bearing on culpability for an “over 80” offence. As this Court observed
+in Taraschuk v. The Queen, [1977] 1 S.C.R. 385,
+conflating the elements of the two offences “invites a self-defeating
+construction of [s. 254(5)] and would wipe out the difference, clearly made in
+[ss. 253  and 254(5) ], between culpability under the one and under the other”
+(p. 388). As a result, I do not find this textual comparison to be persuasive. [50]                         
+The distinct nature of these offences also
+undermines Mr. Alex’s submission that it is unfair that a person who
+refuses to comply with an unlawful demand is acquitted, but if that same person
+complies and is prosecuted for an “over 80” offence, the evidentiary shortcuts
+will continue to apply. Moreover, Mr. Alex’s suggestion that
+this fosters absurdity in the law by discouraging compliance with breath
+demands is unpersuasive. For decades, the law under Rilling has
+been applied and there is no foundation to the practical concern about
+discouraging compliance with breath demands. Indeed, it
+remains a dangerous gamble for an individual to deliberately refuse a breath
+demand. If the demand is later found to be lawful, the refuser may be
+convicted, even if he or she was actually under the proscribed limit: Taraschuk,
+at p. 388. III.         
+Conclusion [51]                         
+In this case, the trial judge, the British
+Columbia Supreme Court and the Court of Appeal correctly concluded that a
+lawful demand was not a precondition to the s. 258 evidentiary shortcuts
+(albeit for different reasons than I have set out). In view of the foregoing
+analysis, there is no basis for appellate interference and Mr. Alex’s
+conviction must be upheld. Accordingly, I would dismiss the appeal.                     The reasons of McLachlin C.J. and Abella, Brown and
+Rowe JJ. were delivered by                     Rowe
+J. (dissenting) — I.              
+Introduction [52]                         
+The appellant, Dion Henry Alex, was convicted by
+the application of the rule in Rilling v. The Queen, [1976] 2 S.C.R.
+183. This case deals with whether the rule in Rilling is good law. For
+the reasons that follow, I would hold that it is not. While the Crown argued
+that this would undermine the operation of that part of the scheme to combat
+impaired driving set out in s. 258(1) (c) and (g) of the Criminal Code,
+R.S.C. 1985, c. C-46 , the evidentiary “shortcuts” to proving that a driver had
+a blood-alcohol level “over 80”, the statutory scheme will still be able to
+function as it should without the rule in Rilling. II.           
+Facts [53]                         
+The trial judge made the following finding of
+facts; these are not in dispute. [54]                         
+Mr. Alex was pulled over during a seatbelt check
+in Penticton, British Columbia. He registered a fail on an approved screening
+device (“ASD”) administered by Constable Caruso. At the police station, Mr.
+Alex’s breath samples registered 140 mg and 130 mg of alcohol per 100 ml of
+blood, respectively. [55]                         
+Constable Caruso testified to the circumstances
+leading up to the ASD demand, including: an odour of liquor as he approached
+the vehicle; an open beer can on the floor near the passenger side; Mr. Alex
+had “red cheeks” and “watery eyes”. Constable Caruso did not identify any other
+indicia of impairment; Mr. Alex had no difficulty parking and exiting the
+vehicle. Constable Caruso made no notes about how he came to form a suspicion
+that Mr. Alex had alcohol in his body, but he testified that he knew he had
+formed a reasonable suspicion because he would not have made the demand
+otherwise. [56]                         
+Mr. Alex failed the ASD. The officer then made a
+breath demand, and drove Mr. Alex to the police station where two observation
+periods and two samples of breath were obtained. III.         
+Relevant Statutory Provisions [57]                         
+The following provisions of the Criminal
+Code  are engaged by this appeal: 253 (1) Every one commits an offence who operates a
+motor vehicle or vessel or operates or assists in the operation of an aircraft
+or of railway equipment or has the care or control of a motor vehicle, vessel,
+aircraft or railway equipment, whether it is in motion or not,  (a) while the person’s ability to operate the vehicle, vessel,
+aircraft or railway equipment is impaired by alcohol or a drug; or  (b) having consumed alcohol in such a quantity that the concentration
+in the person’s blood exceeds eighty milligrams of alcohol in one hundred
+millilitres of blood.  (2) For
+greater certainty, the reference to impairment by alcohol or a drug in
+paragraph (1)(a) includes impairment by a combination of alcohol and a drug.  . . .  254 . . . . . .  (2) If a peace
+officer has reasonable grounds to suspect that a person has alcohol or a drug
+in their body and that the person has, within the preceding three hours,
+operated a motor vehicle or vessel, operated or assisted in the operation of an
+aircraft or railway equipment or had the care or control of a motor vehicle, a
+vessel, an aircraft or railway equipment, whether it was in motion or not, the
+peace officer may, by demand, require the person to comply with paragraph (a),
+in the case of a drug, or with either or both of paragraphs (a) and (b), in the
+case of alcohol:  (a) to perform forthwith physical coordination tests prescribed by
+regulation to enable the peace officer to determine whether a demand may be
+made under subsection (3) or (3.1) and, if necessary, to accompany the peace
+officer for that purpose; and  (b) to provide forthwith a sample of breath that, in the peace
+officer’s opinion, will enable a proper analysis to be made by means of an
+approved screening device and, if necessary, to accompany the peace officer for
+that purpose.  . . .  (3) If a peace officer has reasonable grounds to believe that a
+person is committing, or at any time within the preceding three hours has
+committed, an offence under section 253  as a result of the consumption of
+alcohol, the peace officer may, by demand made as soon as practicable, require
+the person  (a) to provide, as soon as practicable,  (i) samples of breath that, in a qualified technician’s opinion, will
+enable a proper analysis to be made to determine the concentration, if any, of
+alcohol in the person’s blood, or  (ii) if the peace officer has reasonable grounds to believe that,
+because of their physical condition, the person may be incapable of providing a
+sample of breath or it would be impracticable to obtain a sample of breath,
+samples of blood that, in the opinion of the qualified medical practitioner or
+qualified technician taking the samples, will enable a proper analysis to be
+made to determine the concentration, if any, of alcohol in the person’s blood;
+and  (b) if necessary, to accompany the peace officer for that purpose.  . . .  258 (1) In
+any proceedings under subsection 255(1) in respect of an offence committed
+under section 253  or subsection 254(5)  or in any proceedings under any of
+subsections 255(2) to (3.2),  . . .  (c) where samples of the breath of the accused have been taken
+pursuant to a demand made under subsection 254(3), if  (i) [Repealed before coming into force, 2008, c. 20, s. 3]  (ii) each sample was taken as soon as practicable after the time when
+the offence was alleged to have been committed and, in the case of the first
+sample, not later than two hours after that time, with an interval of at least
+fifteen minutes between the times when the samples were taken,  (iii) each sample was received from the accused directly into an
+approved container or into an approved instrument operated by a qualified
+technician, and  (iv) an analysis of each sample was made by means of an approved
+instrument operated by a qualified technician,  evidence
+of the results of the analyses so made is conclusive proof that the
+concentration of alcohol in the accused’s blood both at the time when the
+analyses were made and at the time when the offence was alleged to have been
+committed was, if the results of the analyses are the same, the concentration
+determined by the analyses and, if the results of the analyses are different,
+the lowest of the concentrations determined by the analyses, in the absence of
+evidence tending to show all of the following three things — that the approved
+instrument was malfunctioning or was operated improperly, that the malfunction
+or improper operation resulted in the determination that the concentration of
+alcohol in the accused’s blood exceeded 80 mg of alcohol in 100 mL of blood,
+and that the concentration of alcohol in the accused’s blood would not in fact
+have exceeded 80 mg of alcohol in 100 mL of blood at the time when the offence
+was alleged to have been committed;  . . .  (g) where samples of the breath of the accused have been taken
+pursuant to a demand made under subsection 254(3), a certificate of a qualified
+technician stating  (i) that the analysis of each of the samples has been made by means
+of an approved instrument operated by the technician and ascertained by the
+technician to be in proper working order by means of an alcohol standard,
+identified in the certificate, that is suitable for use with an approved
+instrument,  (ii) the results of the analyses so made, and  (iii) if the samples were taken by the technician,  (A) [Repealed before coming into force, 2008, c. 20, s. 3]  (B) the time when and place where each sample and any specimen
+described in clause (A) was taken, and  (C) that each sample was received from the accused directly into an
+approved container or into an approved instrument operated by the technician,  is
+evidence of the facts alleged in the certificate without proof of the signature
+or the official character of the person appearing to have signed the
+certificate; IV.        
+Decisions Under Appeal A.           
+Provincial Court of British Columbia (Koturbash
+Prov. Ct. J.) [58]                         
+Koturbash Prov. Ct. J. was satisfied beyond a
+reasonable doubt of Mr. Alex’s guilt regarding the “over 80 count”, and
+convicted him for the offence of having care or control of his vehicle with a
+blood alcohol level in excess of the legal limit, contrary to s. 253(1)(b).
+Koturbash Prov. Ct. J. additionally convicted Mr. Alex for driving while
+prohibited contrary to s. 234(1) of the Motor Vehicle Act, R.S.B.C 1996,
+c. 318; that charge is not in issue before this Court. [59]                         
+Koturbash Prov. Ct. J. considered whether
+Constable Caruso had the necessary reasonable suspicion to make an ASD demand,
+and what the implications were if he did not. [60]                         
+Koturbash Prov. Ct. J. was not satisfied
+Constable Caruso had a reasonable suspicion to believe that Mr. Alex had
+alcohol in his body before he made the ASD demand. He also questioned whether
+Constable Caruso had the necessary subjective suspicion to make the ASD demand.
+Koturbash Prov. Ct. J. held that even if he had been satisfied that Constable
+Caruso had the necessary subjective suspicion, he was not satisfied on the
+totality of the circumstances that Constable Caruso had a reasonable basis for
+his suspicion. [61]                         
+Even though Koturbash Prov. Ct. J. concluded
+that Constable Caruso did not have the reasonable suspicion necessary to make
+an ASD demand, applying this Court’s decision in Rilling, he held: Without an application to exclude the
+evidence under the Charter , the absence of reasonable grounds to make a
+breath demand has no bearing on the admissibility of the certificate nor the
+application of the presumptions under the Code. [A.R., at pp. 9-10] [62]                         
+Thus, he was “satisfied beyond a reasonable
+doubt of the accused’s guilt on the over 80 count” and convicted Mr. Alex (p.
+10). B.           
+Supreme Court of British Columbia, 2014 BCSC
+2328, 71 M.V.R. (6th) 228 (Schultes J.) [63]                         
+Schultes J. dismissed Mr. Alex’s appeal. [64]                         
+Schultes J. held that the trial judge erred in
+his application of the test for deciding whether Constable Caruso had
+reasonable suspicion to make the breath demand. If this were a Crown appeal of
+an acquittal, Schultes J. would have ordered a new trial were it not for the
+application of Rilling. [65]                         
+Schultes J. considered divergent appellate
+decisions regarding Rilling; he concluded that the Ontario Court of
+Appeal in R. v. Charette, 2009 ONCA 310, 94 O.R. (3d) 721, was correct
+in affirming that Rilling remains good law. Accordingly, he held that a
+lawful demand is not necessary in order to rely on the presumption of accuracy
+and the presumption of identity pursuant to s. 258(1) (c) and (g). [66]                         
+Schultes J. stated: “My decision rests on the
+conclusion that Rilling has not been impliedly overruled by subsequent
+decisions and that the mere existence of the Charter  does not mandate
+its extinction” (para. 57). C.           
+Court of Appeal for British Columbia, 2015 BCCA
+435, 377 B.C.A.C 301 (Newbury, Harris and Goepel JJ.A.) [67]                         
+Newbury J.A., writing for the court, dismissed
+Mr. Alex’s appeal. Newbury J.A. held that the appeal required the court to
+determine “whether Rilling . . . remains good law in circumstances where
+a reasonable suspicion may not have existed for demanding a breath sample and
+where the Charter  was not invoked by the accused” (para. 3
+(emphasis in original)). [68]                         
+She concluded that as Rilling had not
+been reversed by this Court, it remains good law, such that if a breath sample
+is demanded without reasonable suspicion and the Canadian Charter of Rights
+and Freedoms  has not been invoked by the accused, the breathalyzer
+certificate is admissible. [69]                         
+Newbury J.A. agreed with the summary conviction
+appeal judge that the trial judge erred in his application of the test for
+deciding whether Constable Caruso had reasonable suspicion to demand the breath
+sample. She too would have ordered a new trial on the issue of subjective
+ground were it not for Rilling (para. 30). [70]                         
+Newbury J.A. further addressed Mr. Alex’s second
+ground of appeal, “whether the summary conviction appeal judge . . . erred in
+finding that the trial judge had erred in law in concluding that the officer’s
+suspicion, which was relied on to make a demand under s. 254(2) of the Code,
+was not . . . ‘objectively reasonable’” (para. 4). This issue is not before
+this Court. V.           
+Issue [71]                         
+In a prosecution under s. 253(1)(b), for an
+“over  80” charge, is the requirement for “reasonable grounds” to demand a
+breath sample under s. 254(3) a precondition to the operation of the
+presumptions in s. 258(1) (c) and (g)? VI.        
+Submissions [72]                         
+Mr. Alex argues that the majority
+decision in Rilling was based on the principle (affirmed in R.
+v. Wray, [1971] S.C.R. 272) that relevant evidence
+obtained by a police officer in a manner that is not lawfully authorized is
+nonetheless admissible. As such, Judson J.’s majority reasons in Rilling render
+the statutory term “reasonable grounds”, as a precondition to making a breath
+demand, meaningless. By contrast, Spence J.’s dissenting reasons in Rilling
+give effect to Parliament’s intention that “reasonable grounds” operate as a
+precondition to a breath demand, thereby protecting citizens from unwarranted
+police action. In the appellant’s submission, the “reasonable grounds”
+requirement should operate as a statutory protection against unlawful search.
+Thus, the ruling in Rilling runs contrary to a plain reading of s.
+254(3). Mr. Alex submits that admitting unlawfully obtained evidence only
+accords with law if such evidence is nonetheless admissible, i.e. what was
+affirmed by this Court in Wray. [73]                         
+The Criminal Lawyers’ Association (Ontario) (“CLA”) intervened in
+support of the appellant. The CLA argued that Rilling should be
+overturned, as compliance with the requirement for “reasonable
+grounds” in order to demand breath samples under s. 254(3) is clearly a
+statutory precondition to the presumptions in s. 258(1) (c) and (g). [74]                         
+The CLA challenged the Crown’s argument that
+overturning Rilling would severely disrupt the administration of
+justice. The CLA argued that, inter alia, requiring that a demand be
+made in accordance with the precondition of “reasonable grounds” before being
+able to rely on the evidentiary presumptions in s. 258(1)  is no more than what
+the Crown must already do to rely on other evidentiary presumptions. Similarly,
+overturning Rilling would not result in automatic exclusion of evidence
+and acquittals.  The presumptions in s. 258(1)  do not deal with admissibility
+of evidence concerning breath samples per se; rather they only provide
+“shortcuts” to the proof of the certificate’s contents, which it is open to the
+Crown to prove by other means. Moreover, the Crown’s argument is based on the
+unproven assertion that requiring the Crown to lead evidence that the officer
+had “reasonable grounds” to make a breath sample demand would cripple the
+justice system. [75]                         
+The Crown argues that Rilling should be
+affirmed as good law and that applying Rilling merely deprives
+accused persons of the chance to defeat s. 258(1)  presumptions for reasons
+entirely unconnected to their rationale and the text of the provisions. The
+Crown relies on Rilling for the proposition that while absence of
+reasonable and probable grounds for belief of impairment may afford a defence
+to a refusal to provide a breath sample charge under s. 254(5), it does not render
+the certificate inadmissible and the presumptions inoperative. The motive that
+actuates a peace officer to make a demand under s. 254(3) is not a relevant
+consideration when the accused has complied with the demand. Relevant evidence
+of an “over 80” offence is prima facie admissible unless a legal rule
+provides for its exclusion, and s. 254(3) contains no such rule. In essence,
+the Crown restated the rationale relied on by Judson J. in Rilling. [76]                         
+The Attorney General for Ontario intervened in
+support of the Crown arguing that Rilling should not be overturned. The
+interpretation in Rilling is consistent with Parliament’s intent; had
+Parliament intended a valid demand to be a precondition to the reliance on the
+evidentiary presumption in s. 258(1) (c), then reasonable grounds for a breath
+sample demand would be an enumerated requirement under s. 258(1)  itself. VII.      
+Analysis [77]                         
+In a prosecution under s. 253(1)(b), for an
+“over  80” charge, is the requirement for “reasonable grounds” to demand a
+breath sample under s. 254(3) a precondition to the operation of the
+presumptions in s. 258(1) (c) and (g)? The answer to this turns on the status of
+Rilling. Unless Rilling is overturned by this Court, it is
+dispositive of the issue under appeal. [78]                         
+This Court has previously considered when it
+should overrule one of its decisions (see Ontario (Attorney General) v.
+Fraser, 2011 SCC 20, [2011] 2 S.C.R. 3; R. v. Henry, 2005 SCC 76,
+[2005] 3 S.C.R. 609; and Canada (Attorney General) v. Bedford, 2013 SCC
+72, [2013] 3 S.C.R. 1101). There are several, non-exhaustive factors this Court
+can consider to determine this. Essentially, there is a balancing between the
+values of correctness and certainty. The Court must ask whether it is
+“preferable to adhere to an incorrect precedent to maintain certainty, or to
+correct the error” (Canada v. Craig, 2012 SCC 43, [2012] 2 S.C.R. 489,
+at para. 27). In my view, for the reasons that follow, the need to correct the
+law predominates in this case. A.           
+The Rule in R. v. Rilling [79]                         
+The majority in Rilling took the view
+that relevant evidence is admissible even if it is unlawfully obtained. In
+doing so, the majority incorrectly conflated the issues of admissibility under
+common law (as per Wray) with the operation of the evidentiary shortcuts
+(per s. 258(1) of the Code). [80]                         
+ In Wray, the accused, Mr. Wray, was
+arrested for the murder of his brother, who had been shot. Under “duress” by
+police (which I take to mean the use of force or the threat of force), the
+accused made a statement and showed police where he had discarded the gun.
+Ballistics showed it was the murder weapon. The gun was received into evidence,
+as was that part of Mr. Wray’s statement that was confirmed by the gun. Mr.
+Wray was acquitted at trial as the trial judge refused to admit the evidence of
+Mr. Wray’s involvement in finding the murder weapon. [81]                         
+In the Crown’s appeal, the Ontario Court of
+Appeal held that trial judges have a discretion to exclude evidence where there
+is unfairness to the accused or where receiving the evidence would bring the
+administration of justice into disrepute. It affirmed the acquittal:      In our view, a trial [j]udge has a
+discretion to reject evidence, even of substantial weight, if he considers that
+its admission would be unjust or unfair to the accused or calculated to bring
+the administration of justice into disrepute, the exercise of such discretion,
+of course, to depend upon the particular facts before him. Cases where to admit
+certain evidence would be calculated to bring the administration of justice
+into disrepute will be rare, but we think the discretion of a trial [j]udge
+extends to such cases. [[1970] 2 O.R. 3 (C.A.), at p. 4] [82]                         
+In the Crown’s appeal to this Court, the
+division in the Court foreshadowed that in Rilling. Spence J.,
+dissenting, wrote in favour of the Ontario Court of Appeal’s approach. Hall J.
+and Cartwright C.J. each wrote separate reasons to similar effect. The majority
+(in two sets of reasons, one by Judson J., and one by Martland J.) rejected the
+Ontario Court of Appeal’s approach; they affirmed the traditional rule that
+relevant but illegally obtained evidence is admissible. [83]                         
+In Rilling, in his reasons for the
+majority, Judson J. adopted the analysis of the appeals court, including its
+reliance on R. v. Orchard, [1971] 1 W.W.R. 535 (Sask. Dist. Ct.), aff’d
+[1971] 2 W.W.R. 639 (C.A.), R. v. Showell, [1971] 3 O.R. 460 (H.C.J.),
+and R. v. Flegel (1971), 5 C.C.C. (2d) 155 (Sask. Q.B.), aff’d
+(1972), 7 C.C.C. (2d) 55 (C.A.). In effect, Judson J. was affirming what he had
+written in Wray, that it does not matter that evidence was obtained
+illegally. [84]                         
+However, the majority erred by making the rule
+affirmed in Wray the cornerstone of their reasons. An interpretation of
+s. 258(1)  that conflates admissibility with the pre-conditions for evidentiary
+presumptions is incorrect and has been attenuated by a later decision of this
+Court, R. v. Deruelle, [1992] 2
+S.C.R. 663, which identifies the distinction between admissibility and
+preconditions to evidentiary shortcuts. [85]                         
+In Deruelle, this Court considered the
+meaning of the time limit within which a breathalyzer demand must be made by
+police under s. 254(3) of the Code (pp. 665-66). The interpretative
+question, before the Court, was “whether the two-hour limit referred to in s. 254(3)
+. . . applies to the making of the breath or blood sample demand, or to the
+formation of the peace officer’s belief on reasonable and probable grounds that
+a person is committing or has committed, as a result of the consumption of
+alcohol, an offence under s. 253 of the Code” (p. 671). [86]                         
+In considering competing lines of analysis
+regarding the meaning of the time limits under s. 254(3), the Court noted that
+the specific purpose of s. 254(3) “which goes to the admissibility of the
+sample into evidence, can be distinguished from the purpose of the time limit
+in the presumption section, s. 258(1) (c)” (p. 672). As explained by Justice La
+Forest, writing for the Court, whereas s. 258(1) (c) is a procedural shortcut,
+it is not concerned with admissibility (p. 672). [87]                         
+Thus, by implicitly endorsing the rule affirmed
+in Wray, the majority in Rilling erred in deciding the issue on
+the basis of admissibility of evidence at common law rather than on an
+interpretation of the evidentiary shortcuts in the Code. In doing so,
+the majority failed to engage in a statutory interpretation of the relevant
+sections of the Code. The provisions of the Code at issue in this
+appeal set out where a certificate can be admitted, in the absence of viva
+voce testimony, and the evidentiary presumptions that follow. The
+interpretation and application of this provision properly turns on a statutory
+interpretation exercise. B.           
+Statutory Interpretation [88]                         
+The holding in Rilling has also been
+attenuated by subsequent jurisprudence of this Court, namely, Rizzo &
+Rizzo Shoes Ltd. (Re), [1998] 1 S.C.R. 27, which sets out the modern
+approach to statutory interpretation: the words of the provision must be read
+in their entire context and according to their grammatical and ordinary sense,
+harmoniously with the scheme and object of the Act and the intention of
+Parliament (para. 21, citing E. A. Driedger, Construction of Statutes
+(2nd ed. 1983), at p. 87). Reading s. 258(1)(c) and (g) in this way, the
+reasoning in Rilling cannot withstand scrutiny. Whether or not a demand
+was made by an officer who had reasonable grounds to do so is an express
+precondition to the applicability of the evidentiary presumptions set out in s.
+258(1)(c) and (g), the opening words of which read: “. . . where samples of the breath of the accused have been taken pursuant
+to a demand made under subsection 254(3) . . . .” [89]                         
+The Shorter Oxford
+English Dictionary on Historical Principles (6th ed. 2007) defines
+“pursuant to” as “consequent and conforming to; in
+accordance with” (p. 2412). The French version of s. 258(1)(c) and (g) is
+to similar effect, using the phrase “conformément à”. For the
+meaning of “pursuant to”, see also: Dastous v. Matthews-Wells Co.,
+[1950] S.C.R. 261; Minister of National Revenue v.
+Armstrong, [1956] S.C.R. 446, at p. 447. If the reasonable grounds referred to in s.
+254(3) are not a precondition to the operation of s. 258(1)(c) and (g), then
+why is there a reference to s. 254(3) at all? That such words are
+meaningless is not plausible. If reasonable grounds under s. 254(3) are not a
+precondition, then what does the reference to “pursuant to” in the opening
+words of both s. 258(1)(c) and (g) mean? That such words have no legal effect
+is implausible.  My colleague, Justice Moldaver, finds that these words simply
+identify the sample to which the provision applies (para. 30). In my respectful
+view, this cannot be the case. [90]                         
+This alternate interpretation would mean that
+the other requirements of s. 254(3), such as the requirement that the demand be
+made by a peace officer or that the demand be made as soon as practicable, are
+also not required for the evidentiary shortcuts to apply. This would mean that
+the Crown would have the benefit of the evidentiary presumptions for any
+sample, irrespective of the conditions under which the demand was made. The
+scheme of the legislation is clear: a lawful demand under s. 254(3) is a
+precondition to reliance on s. 258(1)(c) and (g). [91]                         
+This is consistent with what this Court held in R.
+v. Bernshaw, [1995] 1 S.C.R. 254. Justice Sopinka, writing for the
+majority, at para. 51, noted the importance of a statutory precondition being
+satisfied to ensure a lawful search and seizure, albeit in the context of s. 8 
+of the Charter : The requirement in s. 254(3) that
+reasonable and probable grounds exist is not only a statutory but a
+constitutional requirement as a precondition to a lawful search and seizure under
+s. 8  of the Canadian Charter of Rights and Freedoms . Section 8  requires that reasonable and
+probable grounds exist in fact and not that their presence can be deemed
+to exist notwithstanding the evidence. [Emphasis added; last emphasis in
+original.] [93]                         
+Furthermore, this interpretation that “pursuant
+to” imports the conditions under s. 254  as a pre-condition of the evidentiary
+presumptions under s. 258(1) is consistent with the position Spence J. endorsed
+in Rilling and with the Court of Appeal of New Brunswick’s decision in R.
+v. Searle, 2006 NBCA 118, 308 N.B.R. (2d) 216. [94]                         
+Mr. Searle had appealed, inter alia, that
+the summary conviction appeal judge erred in finding that the breathalyzer
+samples were taken lawfully and that the Crown could rely on the presumption
+found at s. 258. Mr. Searle did not, at trial, seek the exclusion of the
+certificate of the technician on the grounds of a Charter  violation.
+Nevertheless, the court found:      Since the
+demand was not made in strict compliance with s. 254(3) of the Code, it is
+unlawful. The Crown cannot rely on the presumption found in s. 258(1)(c) unless
+the officer had reasonable and probable grounds to make the breathalyzer demand
+in the first place.  Without this presumption, there is no evidence of the
+concentration of alcohol in the accused’s blood at the time the offence was
+alleged to have been committed. Thus, the Crown has failed to prove the element
+of the offence under s. 253(b) of the Code. To summarize: the certificate is
+still admissible but the prosecutor is not, however, entitled to use the
+presumption under s. 258(1)(c). The accused must, therefore, be acquitted of
+the charge under s. 253(b) of the Code. [para. 25] [95]                         
+On the foregoing basis, I would reverse Rilling.
+This is in accordance with the principle that this Court may depart from
+earlier decisions where the earlier decision has been attenuated by later
+decisions of this Court (R. v. Bernard, [1988] 2 S.C.R. 833, at pp.
+855-56, citing Reference re Agricultural Products Marketing Act, [1978]
+2 S.C.R. 1198). C.           
+Reversing Rilling Will Not Undermine
+Effectiveness of the Statutory Scheme [96]                         
+The Crown has argued that if this Court reverses
+Rilling, this will undermine the effectiveness of the statutory scheme.
+Specifically, the Crown argues that policy considerations militate in favour of
+allowing only Charter  challenges to exclude certificates of analysis,
+and that to allow an accused to argue that the evidentiary presumptions are not
+available absent a Charter  challenge is to promote “trial by ambush” (Charette,
+at para. 45). These concerns were referred to in Charette at the Ontario
+Court of Appeal (see discussion at paras. 44-46). My colleague, Justice
+Moldaver, in his reasons, also points to policy concerns in overruling Rilling,
+namely that requiring the Crown to prove the lawfulness of a breath demand
+before the evidentiary shortcuts apply would frustrate their overriding purpose
+(paras. 35-36).  Of course, none of this detracts from the right of an accused
+to rely on the Charter , notably the protections against illegal search
+and seizure. [97]                         
+For the reasons that follow, I cannot agree with
+the Crown that reversing Rilling would undermine the efficacy of the
+statutory scheme, or that it would disrupt the proper administration of
+justice. [98]                         
+In prosecuting “over 80” charges, where the
+peace officer acted without reasonable grounds, if Rilling is
+overturned, the Crown will not be able to rely on the evidentiary shortcuts. It
+will take the Crown longer to prove its case; that follows from not being able
+to rely on the shortcuts. But it will still be able to prove its case where it
+has the evidence to do so. Thus, no injustice will arise. The Crown may be
+inconvenienced, but is it not more important that these provisions of the Code
+be given their proper meaning and effect? To ask the question is to answer it. [99]                         
+To reverse Rilling is to do no more than
+affirm that the “reasonable grounds” referred to in s. 254(3) are a
+precondition for the reliance on the evidentiary presumptions in s. 258(1)(c)
+and (g). The Crown will simply need to prove the statutory precondition of
+reasonable grounds. Neither the police nor the Crown should object to
+conforming to the requirements of the law. [100]                     
+As well, today’s criminal procedure framework is
+different from that which was in place when Rilling was decided. As
+submitted by the CLA, current procedures, such as disclosure, charge screening
+and pre-trials, ensure that parties are aware of issues before a trial begins. [101]                     
+If the rule in Rilling no longer applies, the evidentiary
+presumptions will not apply unless the statutory preconditions in s. 254(3) are
+met, i.e. the police officer had reasonable grounds to demand the breath
+sample.  This is a distinct issue from whether the certificate would be admissible,
+which is governed by the rules of evidence subject to any s. 8  Charter 
+applications. What is key is that these issues would be sorted
+out when the Crown seeks to have the certificate received in evidence. Thus,
+there would be no “ambush” after the Crown had closed its case. None of this
+would undermine the statutory scheme. In short, the effects of reversing Rilling
+would not be those suggested by the Crown. VIII.    Disposition [102]                     
+In light of the foregoing, I would allow the
+appeal, set aside Mr. Alex’s conviction and order a new trial. APPENDIX Criminal Code, R.S.C. 1985, c. C-46       
+Definitions       
+254 (1) In
+this section and sections 254.1 to 258.1, analyst means a person designated by the Attorney General as an analyst for
+the purposes of section 258; (analyste) approved container means (a) in respect of breath samples, a container of a kind that is
+designed to receive a sample of the breath of a person for analysis and is
+approved as suitable for the purposes of section 258 by order of the Attorney
+General of Canada, and (b) in respect of blood samples, a container of a kind that is
+designed to receive a sample of the blood of a person for analysis and is approved
+as suitable for the purposes of section 258 by order of the Attorney General of
+Canada; (contenant approuvé) approved instrument means an instrument of a kind that is designed to receive and make an
+analysis of a sample of the breath of a person in order to measure the
+concentration of alcohol in the blood of that person and is approved as
+suitable for the purposes of section 258 by order of the Attorney General of
+Canada; (alcootest approuvé) approved screening
+device means a device of a kind that is designed
+to ascertain the presence of alcohol in the blood of a person and that is
+approved for the purposes of this section by order of the Attorney General of
+Canada; (appareil de détection approuvé) evaluating officer means a peace officer who is qualified under the regulations to
+conduct evaluations under subsection (3.1); (agent
+évaluateur) qualified medical
+practitioner means a person duly qualified by
+provincial law to practise medicine; (médecin
+qualifié) qualified technician means, (a) in respect of breath samples, a person designated by the Attorney
+General as being qualified to operate an approved instrument, and (b) in respect of blood samples, any person or person of a class of
+persons designated by the Attorney General as being qualified to take samples
+of blood for the purposes of this section and sections 256 and 258. (technicien qualifié)       
+Testing for presence of alcohol or a drug (2) If a peace officer has reasonable grounds to suspect that a
+person has alcohol or a drug in their body and that the person has, within the
+preceding three hours, operated a motor vehicle or vessel, operated or assisted
+in the operation of an aircraft or railway equipment or had the care or control
+of a motor vehicle, a vessel, an aircraft or railway equipment, whether it was
+in motion or not, the peace officer may, by demand, require the person to
+comply with paragraph (a), in the case of a drug, or with either or both of
+paragraphs (a) and (b), in the case of alcohol: (a) to perform forthwith physical coordination tests prescribed by
+regulation to enable the peace officer to determine whether a demand may be
+made under subsection (3) or (3.1) and, if necessary, to accompany the peace
+officer for that purpose; and (b) to provide forthwith a sample of breath that, in the peace
+officer’s opinion, will enable a proper analysis to be made by means of an
+approved screening device and, if necessary, to accompany the peace officer for
+that purpose.       
+Video recording (2.1) For greater certainty, a peace officer may make a video recording
+of a performance of the physical coordination tests referred to in paragraph
+(2)(a).       
+Samples of breath or blood (3) If a peace officer has reasonable grounds to believe that a
+person is committing, or at any time within the preceding three hours has
+committed, an offence under section 253  as a result of the consumption of
+alcohol, the peace officer may, by demand made as soon as practicable, require
+the person (a) to provide, as soon as practicable, (i) samples of breath that, in a qualified technician’s opinion, will
+enable a proper analysis to be made to determine the concentration, if any, of
+alcohol in the person’s blood, or (ii) if the peace officer has reasonable grounds to believe that,
+because of their physical condition, the person may be incapable of providing a
+sample of breath or it would be impracticable to obtain a sample of breath,
+samples of blood that, in the opinion of the qualified medical practitioner or
+qualified technician taking the samples, will enable a proper analysis to be
+made to determine the concentration, if any, of alcohol in the person’s blood;
+and (b) if necessary, to accompany the peace officer for that purpose.       
+Evaluation (3.1) If a peace officer has reasonable grounds to believe that a
+person is committing, or at any time within the preceding three hours has
+committed, an offence under paragraph 253(1)(a) as a result of the consumption
+of a drug or of a combination of alcohol and a drug, the peace officer may, by
+demand made as soon as practicable, require the person to submit, as soon as
+practicable, to an evaluation conducted by an evaluating officer to determine
+whether the person’s ability to operate a motor vehicle, a vessel, an aircraft
+or railway equipment is impaired by a drug or by a combination of alcohol and a
+drug, and to accompany the peace officer for that purpose.       
+Video recording (3.2) For greater certainty, a peace officer may make a video recording
+of an evaluation referred to in subsection (3.1).       
+Testing for presence of alcohol (3.3) If the evaluating officer has reasonable grounds to suspect that
+the person has alcohol in their body and if a demand was not made under
+paragraph (2)(b) or subsection (3), the evaluating officer may, by demand made
+as soon as practicable, require the person to provide, as soon as practicable,
+a sample of breath that, in the evaluating officer’s opinion, will enable a
+proper analysis to be made by means of an approved instrument.       
+Samples of bodily substances (3.4) If, on completion of the evaluation, the evaluating officer has
+reasonable grounds to believe, based on the evaluation, that the person’s
+ability to operate a motor vehicle, a vessel, an aircraft or railway equipment
+is impaired by a drug or by a combination of alcohol and a drug, the evaluating
+officer may, by demand made as soon as practicable, require the person to
+provide, as soon as practicable, (a) a sample of either oral fluid or urine that, in the evaluating
+officer’s opinion, will enable a proper analysis to be made to determine
+whether the person has a drug in their body; or (b) samples of blood that, in the opinion of the qualified medical
+practitioner or qualified technician taking the samples, will enable a proper
+analysis to be made to determine whether the person has a drug in their body.       
+Condition (4) Samples of blood may be taken from a person under subsection (3)
+or (3.4) only by or under the direction of a qualified medical practitioner who
+is satisfied that taking the samples would not endanger the person’s life or
+health.       
+Failure or refusal to comply with demand (5) Everyone commits an offence who, without reasonable excuse, fails
+or refuses to comply with a demand made under this section.       
+Only one determination of guilt (6) A person who is convicted of an offence under subsection (5) for
+a failure or refusal to comply with a demand may not be convicted of another
+offence under that subsection in respect of the same transaction. . . . Proceedings under section
+255       
+258 (1) In
+any proceedings under subsection 255(1) in respect of an offence committed
+under section 253  or subsection 254(5)  or in any proceedings under any of
+subsections 255(2) to (3.2), (a) where it is proved that the accused occupied the seat or position
+ordinarily occupied by a person who operates a motor vehicle, vessel or
+aircraft or any railway equipment or who assists in the operation of an
+aircraft or of railway equipment, the accused shall be deemed to have had the
+care or control of the vehicle, vessel, aircraft or railway equipment, as the
+case may be, unless the accused establishes that the accused did not occupy
+that seat or position for the purpose of setting the vehicle, vessel, aircraft
+or railway equipment in motion or assisting in the operation of the aircraft or
+railway equipment, as the case may be; (b) the result of an analysis of a sample of the accused’s breath,
+blood, urine or other bodily substance — other than a sample taken under
+subsection 254(3), (3.3) or (3.4) — may be admitted in evidence even if the
+accused was not warned before they gave the sample that they need not give the
+sample or that the result of the analysis of the sample might be used in
+evidence; (c) where samples of the breath of the accused have been taken
+pursuant to a demand made under subsection 254(3), if (i) [Repealed before coming into force, 2008, c. 20, s. 3] (ii) each sample was taken as soon as practicable after the time when
+the offence was alleged to have been committed and, in the case of the first
+sample, not later than two hours after that time, with an interval of at least
+fifteen minutes between the times when the samples were taken, (iii) each sample was received from the accused directly into an
+approved container or into an approved instrument operated by a qualified
+technician, and (iv) an analysis of each sample was made by means of an approved
+instrument operated by a qualified technician, evidence of the results of
+the analyses so made is conclusive proof that the concentration of alcohol in
+the accused’s blood both at the time when the analyses were made and at the
+time when the offence was alleged to have been committed was, if the results of
+the analyses are the same, the concentration determined by the analyses and, if
+the results of the analyses are different, the lowest of the concentrations
+determined by the analyses, in the absence of evidence tending to show all of
+the following three things — that the approved instrument was malfunctioning or
+was operated improperly, that the malfunction or improper operation resulted in
+the determination that the concentration of alcohol in the accused’s blood
+exceeded 80 mg of alcohol in 100 mL of blood, and that the concentration of
+alcohol in the accused’s blood would not in fact have exceeded 80 mg of alcohol
+in 100 mL of blood at the time when the offence was alleged to have been
+committed; (d) if a sample of the accused’s blood has been taken under
+subsection 254(3) or section 256 or with the accused’s consent and if (i) at the time the sample was taken, the person taking the sample
+took an additional sample of the blood of the accused and one of the samples
+was retained to permit an analysis of it to be made by or on behalf of the
+accused and, in the case where the accused makes a request within six months
+from the taking of the samples, one of the samples was ordered to be released
+under subsection (4), (ii) both samples referred to in subparagraph (i) were taken as soon
+as practicable and in any event not later than two hours after the time when
+the offence was alleged to have been committed, (iii) both samples referred to in subparagraph (i) were taken by a
+qualified medical practitioner or a qualified technician under the direction of
+a qualified medical practitioner, (iv) both samples referred to in subparagraph (i) were received from
+the accused directly into, or placed directly into, approved containers that
+were subsequently sealed, and (v) an analysis was made by an analyst of at least one of the
+samples, evidence of the result of
+the analysis is conclusive proof that the concentration of alcohol in the accused’s
+blood both at the time when the samples were taken and at the time when the
+offence was alleged to have been committed was the concentration determined by
+the analysis or, if more than one sample was analyzed and the results of the
+analyses are the same, the concentration determined by the analyses and, if the
+results of the analyses are different, the lowest of the concentrations
+determined by the analyses, in the absence of evidence tending to show all of
+the following three things — that the analysis was performed improperly, that
+the improper performance resulted in the determination that the concentration
+of alcohol in the accused’s blood exceeded 80 mg of alcohol in 100 mL of blood,
+and that the concentration of alcohol in the accused’s blood would not in fact
+have exceeded 80 mg of alcohol in 100 mL of blood at the time when the offence
+was alleged to have been committed; (d.01) for greater certainty, evidence tending to show that an approved
+instrument was malfunctioning or was operated improperly, or that an analysis
+of a sample of the accused’s blood was performed improperly, does not include
+evidence of (i) the amount of alcohol that the accused consumed, (ii) the rate at which the alcohol that the accused consumed would
+have been absorbed and eliminated by the accused’s body, or (iii) a calculation based on that evidence of what the concentration of
+alcohol in the accused’s blood would have been at the time when the offence was
+alleged to have been committed; (d.1) if samples of the accused’s breath or a sample of the accused’s
+blood have been taken as described in paragraph (c) or (d) under the conditions
+described in that paragraph and the results of the analyses show a
+concentration of alcohol in blood exceeding 80 mg of alcohol in 100 mL of
+blood, evidence of the results of the analyses is proof that the concentration
+of alcohol in the accused’s blood at the time when the offence was alleged to
+have been committed exceeded 80 mg of alcohol in 100 mL of blood, in the
+absence of evidence tending to show that the accused’s consumption of alcohol
+was consistent with both (i) a concentration of alcohol in the accused’s blood that did not
+exceed 80 mg of alcohol in 100 mL of blood at the time when the offence was
+alleged to have been committed, and (ii) the concentration of alcohol in the accused’s blood as determined
+under paragraph (c) or (d), as the case may be, at the time when the sample or
+samples were taken; (e) a certificate of an analyst stating that the analyst has made an
+analysis of a sample of the blood, urine, breath or other bodily substance of
+the accused and stating the result of that analysis is evidence of the facts
+alleged in the certificate without proof of the signature or the official
+character of the person appearing to have signed the certificate; (f) a certificate of an analyst stating that the analyst has made an
+analysis of a sample of an alcohol standard that is identified in the
+certificate and intended for use with an approved instrument and that the
+sample of the standard analyzed by the analyst was found to be suitable for use
+with an approved instrument, is evidence that the alcohol standard so
+identified is suitable for use with an approved instrument without proof of the
+signature or the official character of the person appearing to have signed the
+certificate; (f.1) the document printed out from an approved instrument and signed
+by a qualified technician who certifies it to be the printout produced by the
+approved instrument when it made the analysis of a sample of the accused’s
+breath is evidence of the facts alleged in the document without proof of the
+signature or official character of the person appearing to have signed it; (g) where samples of the breath of the accused have been taken
+pursuant to a demand made under subsection 254(3), a certificate of a qualified
+technician stating (i) that the analysis of each of the samples has been made by means
+of an approved instrument operated by the technician and ascertained by the
+technician to be in proper working order by means of an alcohol standard,
+identified in the certificate, that is suitable for use with an approved
+instrument, (ii) the results of the analyses so made, and (iii) if the samples were taken by the technician, (A) [Repealed before coming into force, 2008, c. 20, s. 3] (B) the time when and place where each sample and any specimen
+described in clause (A) was taken, and (C) that each sample was received from the accused directly into an
+approved container or into an approved instrument operated by the technician, is evidence of the facts
+alleged in the certificate without proof of the signature or the official
+character of the person appearing to have signed the certificate; (h) if a sample of the accused’s blood has been taken under
+subsection 254(3) or (3.4) or section 256 or with the accused’s consent, (i) a certificate of a qualified medical practitioner stating that (A) they took the sample and before the sample was taken they were of
+the opinion that taking it would not endanger the accused’s life or health and,
+in the case of a demand made under section 256, that by reason of any physical
+or mental condition of the accused that resulted from the consumption of
+alcohol or a drug, the accident or any other occurrence related to or resulting
+from the accident, the accused was unable to consent to the taking of the
+sample, (B) at the time the sample was taken, an additional sample of the
+blood of the accused was taken to permit analysis of one of the samples to be
+made by or on behalf of the accused, (C) the time when and place where both samples referred to in clause
+(B) were taken, and (D) both samples referred to in clause (B) were received from the
+accused directly into, or placed directly into, approved containers that were
+subsequently sealed and that are identified in the certificate, (ii) a certificate of a qualified medical practitioner stating that
+the medical practitioner caused the sample to be taken by a qualified
+technician under his direction and that before the sample was taken the
+qualified medical practitioner was of the opinion referred to in clause (i)(A),
+or (iii) a certificate of a qualified technician stating that the
+technician took the sample and the facts referred to in clauses (i)(B) to (D) is evidence of the facts
+alleged in the certificate without proof of the signature or official character
+of the person appearing to have signed the certificate; and (i) a certificate of an analyst stating that the analyst has made an
+analysis of a sample of the blood of the accused that was contained in a sealed
+approved container identified in the certificate, the date on which and place
+where the sample was analyzed and the result of that analysis is evidence of
+the facts alleged in the certificate without proof of the signature or official
+character of the person appearing to have signed it.       
+Evidence of failure to give sample (2) Unless a person is required to give a sample of a bodily
+substance under paragraph 254(2)(b) or subsection 254(3), (3.3) or (3.4),
+evidence that they failed or refused to give a sample for analysis for the
+purposes of this section or that a sample was not taken is not admissible and
+the failure, refusal or fact that a sample was not taken shall not be the
+subject of comment by any person in the proceedings.       
+Evidence of failure to comply with demand (3) In any proceedings under subsection 255(1) in respect of an
+offence committed under paragraph 253(1)(a) or in any proceedings under
+subsection 255(2) or (3), evidence that the accused, without reasonable excuse,
+failed or refused to comply with a demand made under section 254  is admissible
+and the court may draw an inference adverse to the accused from that evidence.       
+Release of sample for analysis (4) If, at the time a sample of an accused’s blood is taken, an additional
+sample is taken and retained, a judge of a superior court of criminal
+jurisdiction or a court of criminal jurisdiction shall, on the summary
+application of the accused made within six months after the day on which the
+samples were taken, order the release of one of the samples for the purpose of
+examination or analysis, subject to any terms that appear to be necessary or
+desirable to ensure that the sample is safeguarded and preserved for use in any
+proceedings in respect of which it was taken.       
+Testing of blood for concentration of a drug (5) A sample of an accused’s blood taken under subsection 254(3) or
+section 256 or with the accused’s consent for the purpose of analysis to
+determine the concentration, if any, of alcohol in the blood may be tested to
+determine the concentration, if any, of a drug in the blood.       
+Attendance and right to cross-examine (6) A party against whom a certificate described in paragraph (1)(e),
+(f), (f.1), (g), (h) or (i) is produced may, with leave of the court, require
+the attendance of the qualified medical practitioner, analyst or qualified
+technician, as the case may be, for the purposes of cross-examination.       
+Notice of intention to produce certificate (7) No certificate shall be received in evidence pursuant to
+paragraph (1)(e), (f), (g), (h) or (i) unless the party intending to produce it
+has, before the trial, given to the other party reasonable notice of his
+intention and a copy of the certificate.                     Appeal
+dismissed, McLachlin C.J.
+and Abella, Brown and Rowe JJ. dissenting.                     Solicitors for the
+appellant: Mott Welsh & Associates, Penticton.                     Solicitor for the
+respondent: Attorney General of British Columbia, Victoria.                     Solicitor for the
+intervener the Attorney General of Ontario: Attorney General of Ontario,
+Toronto.                     Solicitors for the
+intervener the Criminal Lawyers’ Association (Ontario): Jonathan M.
+Rosenthal, Toronto. [1]   Criminal Law Amendment Act, 1968-69,
+S.C. 1968-69, c. 38, s. 16.  [2]   The offence of “over 80” prohibits anyone from driving a motor
+vehicle with a blood-alcohol concentration that exceeds 80 mg of alcohol in 100
+ml of blood (s. 253(1)(b) of the Code). [3] Other examples include: ss. 25(4), 31(1), 46(2)(b), 52(1)(b),
+91(4), 145(1) and 270(1) of the Code. [4]   Although the Court was focused on the presumption of accuracy,
+its decision has since been applied by courts as governing all three
+evidentiary shortcuts: R. v. Charette, 2009 ONCA 310, 243 C.C.C. (3d)
+480, at paras. 35-38; R. v. Anderson, 2013 QCCA 2160, 9 C.R. (7th) 203, at
+paras. 42-52; R. v. Forsythe, 2009 MBCA 123, 250 C.C.C. (3d) 90, at
+paras. 22-23. The opening wording of both ss. 258(1)(c) and 258(1)(g) is
+identical and the parties in this appeal agree that a consistent approach
+should be taken towards them. [5]   If an accused has a genuine concern over the accuracy of the
+certificate, it remains open to him or her to apply for leave to cross-examine
+the breath technician under s. 258(6) of the Code.  

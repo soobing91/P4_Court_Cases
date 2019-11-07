@@ -1,0 +1,1332 @@
+  SUPREME
+COURT OF CANADA  Citation: Copthorne Holdings Ltd. v. Canada, 2011 SCC 63, [2011] 3 S.C.R. 721 Date: 20111216 Docket: 33283  Between: Copthorne
+Holdings Ltd. Appellant and Her
+Majesty The Queen Respondent   Coram: McLachlin C.J. and Binnie, LeBel, Deschamps, Fish, Abella,
+Charron, Rothstein and Cromwell JJ.  Reasons
+  for Judgment: (paras. 1 to 128) Rothstein J. (McLachlin C.J. and
+  Binnie, LeBel, Deschamps, Fish, Abella, Charron and Cromwell JJ. concurring)    Copthorne
+Holdings Ltd. v. Canada, 2011 SCC 63,
+[2011] 3 S.C.R. 721 Copthorne
+Holdings Ltd.                                                                                  Appellant v. Her Majesty
+The Queen                                                                               Respondent Indexed as:  Copthorne Holdings
+Ltd. v. Canada 2011 SCC 63 File No.:  33283. 2011:  January 21; 2011:  December 16. Present:  McLachlin C.J. and Binnie, LeBel, Deschamps, Fish,
+Abella, Charron, Rothstein and Cromwell JJ. on appeal from the federal court of appeal                     Held:  The appeal should be dismissed.                     “Contemplation” in s. 248(10)  should be read both prospectively and
+retrospectively.  The text and context of s. 248(10)  leave open when the
+contemplation of the series must take place.  Nothing in the text specifies
+when the related transaction must be completed in relation to the series. 
+Specifically, nothing suggests that the related transaction must be completed
+in contemplation of a subsequent series.  Here, the Tax Court and the Federal
+Court of Appeal correctly concluded that the redemption transaction was part of
+the same series as the prior sale and amalgamation, and that the series,
+including the redemption transaction, resulted in the tax benefit.                     In
+order to determine whether a transaction is an abuse or misuse of the Act , a
+court must first determine the object, spirit or purpose of the provisions that
+are relied on for the tax benefit, having regard to the scheme of the Act , the
+relevant provisions and permissible extrinsic aids.  While an avoidance
+transaction may operate alone to produce a tax benefit, it may also operate as
+part of a series of transactions that results in the tax benefit.  While the
+focus must be on the transaction, where it is part of a series, it must be viewed
+in the context of the series to enable the court to determine whether abusive
+tax avoidance has occurred.  In such a case, whether a transaction is abusive
+will only become apparent when it is considered in the context of the series of
+which it is a part and the overall result that is achieved.  The analysis will
+lead to a finding of abusive tax avoidance:  (1) where the transaction
+achieves an outcome the statutory provision was intended to prevent;
+(2) where the transaction defeats the underlying rationale of the
+provision; or (3) where the transaction circumvents the provision in a
+manner that frustrates or defeats its object, spirit or purpose.  These
+considerations are not independent of one another and may overlap. Cases Cited                     Applied:  Canada
+Trustco Mortgage Co. v. Canada, 2005 SCC 54, [2005] 2 S.C.R. 601; referred
+to:  OSFC Holdings Ltd. v. Canada, 2001 FCA 260, [2002] 2
+F.C. 288; MIL (Investments) S.A. v. R., 2006 TCC 460, [2006] 5 C.T.C.
+2552, aff’d 2007 FCA 236, 2007 D.T.C. 5437; Commissioners of Inland Revenue
+v. Duke of Westminster, [1936] A.C. 1; Ontario (Attorney General) v.
+Fraser, 2011 SCC 20, [2011] 2 S.C.R. 3; Lipson v. Canada, 2009
+SCC 1, [2009] 1 S.C.R. 3; Collins & Aikman Products Co. v. The Queen,
+2009 TCC 299, 2009 D.T.C. 1179, aff’d 2010 FCA 251, [2011] 1 C.T.C. 250; Stubart
+Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536. Statutes and Regulations Cited Convention Between Canada and the Kingdom of the Netherlands for the
+Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect
+to Taxes on Income, S.C. 1986, c. 48,
+Sch. I. Income Tax Act, R.S.C. 1985, c. 1
+(5th Supp .), ss. 2(1) , 84(3) , 84.1 , 87(3) , 89(1) , 212.1 , 215(1) , 245 ,
+248(10) . Authors Cited Dickerson, Robert W. V., John L. Howard and Leon
+Getz.  Proposals for a New Business Corporations Law for Canada, vol. I. 
+Ottawa:  Information Canada, 1971. Duff, David G., et al.  Canadian
+Income Tax Law, 3rd ed.  Markham,
+Ont.:  LexisNexis, 2009. Hiltz, Michael.  “Section 245  of the
+Income Tax Act ”, in Report of Proceedings of the Fortieth Tax Conference. 
+Toronto:  Canadian Tax Foundation, 1989, 7:1. Krishna, Vern.  The Fundamentals of Income Tax Law. 
+Toronto:  Carswell, 2009. McGuinness, Kevin Patrick.  Canadian Business Corporations Law,
+2nd ed.  Markham, Ont.:  LexisNexis, 2007. Oxford English Dictionary, 2nd ed., vol. III. 
+Oxford:  Clarendon Press, 1989, “contemplation”. Sullivan, Ruth.  Sullivan on the Construction of Statutes,
+5th ed.  Markham, Ont.:  LexisNexis, 2008.                     APPEAL from a judgment of the
+Federal Court of Appeal (Desjardins, Evans and Ryer JJ.A.), 2009 FCA 163,
+392 N.R. 29, [2009] 5 C.T.C. 1, 2009 D.T.C. 5101, [2009] F.C.J. No. 625
+(QL), 2009 CarswellNat 1368, affirming a decision of Campbell J., 2007 TCC
+481, [2008] 1 C.T.C. 2001, 2007 D.T.C. 1230, [2007] T.C.J. No. 335 (QL),
+2007 CarswellNat 2808.  Appeal dismissed.                     Wendy
+Burnham, Deen Olsen and Eric Noble, for
+the respondent.                                                TABLE OF CONTENTS                                                                                                                               Paragraph I.         Introduction.............................................................................................................. II.       Summary of Facts.................................................................................................... III.      Tax Court of Canada................................................................................................ IV.     Federal Court of Appeal........................................................................................... V.       Analysis................................................................................................................... A.       Introduction............................................................................................................ B.       Was There a Tax Benefit?...................................................................................... C.       Was the Transaction Giving Rise to
+  the Tax Benefit an Avoidance Transaction? (1)      Was There a Series of Transactions That
+  Resulted in a Tax Benefit?.......................... (2)      Was Any Transaction Within the Purported
+  Series an Avoidance Transaction?.......... D.       Was the Avoidance Transaction Giving
+  Rise to the Tax Benefit Abusive?............ (1)      The Relevant Sections.............................................................................................. (2)      Which Provisions Are Abused?................................................................................ (3)      The Object, Spirit and Purpose of Section
+  87(3)....................................................... (a)      The Text of the Provision....................................................................................... (b)      The Context of the Provision............................................................................... 3 (i)        The PUC Scheme of the Act.................................................................................... (ii)       The Principle of Non-Consolidation.......................................................................... (iii)      The Relevance of the Capital Gains Scheme.............................................................. (iv)     The “In Rem” Nature of PUC................................................................................... (v)      Stop-PUC Rules in the Act....................................................................................... (vi)     Expressio Unius Est Exclusio Alterius................................................................... (vii)    Conclusion of Contextual Considerations.................................................................. (c)      The Purpose of the Provisions............................................................................... (d)      Conclusion on the Object, Spirit and
+  Purpose of the Parenthetical Portion of Section 87(3)........................................................................................................... (4)      Was There an Abuse of the Provisions of
+  the Act?.................................................... VI.     Conclusion...............................................................................................................  APPENDIX A — Detailed Facts APPENDIX B — Relevant Provisions  1 7 21 29 32 32 34 39 42 59 65 74 85 87 88 91 92 97 100 104 106 108 112 113  122 123 128                         The
+judgment of the Court was delivered by                     Rothstein J. — I.       Introduction [1]                             
+This appeal involves paid-up capital (“PUC”) of
+a corporation.  Under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.),
+PUC represents capital invested in a class of shares of the corporation by its
+shareholders.  When that class of shares is redeemed by the corporation in
+whole or in part, the amount paid by the corporation to the shareholders in
+excess of the PUC attributable to the redeemed shares is deemed to have been
+paid as a dividend that must be included in the income of the recipient
+shareholder.  However, the PUC portion need not be included in the income of
+the recipient shareholder because it is viewed as a return of capital to
+shareholders. [2]                             
+As a general rule, when two corporations
+amalgamate, the PUC of the shares of both amalgamating corporations are
+aggregated to form the PUC of the shares of the amalgamated corporation. 
+However, where the relationship between the amalgamating corporations is parent
+and subsidiary — a so-called “vertical” amalgamation — the PUC of the shares of
+both corporations are not aggregated.  Rather the PUC of the shares of the
+subsidiary corporation which are owned by the parent is cancelled. [3]                             
+In this case, by a series of transactions, two
+corporations that had been parent and subsidiary became “sister” corporations —
+that is, corporations owned directly by the same shareholder.  The sister
+corporations were then amalgamated — a “horizontal” amalgamation.  Had they
+remained as parent and subsidiary, the PUC of the shares of the subsidiary
+would have been cancelled on amalgamation.  As sister corporations, the PUC of
+their respective shares was aggregated to form the PUC of the shares of the
+amalgamated corporation. [4]                             
+The amalgamated corporation then redeemed a
+large portion of its shares and paid out the aggregate PUC attributable to the
+redeemed shares to its non-resident shareholder.  That payment was not treated
+as taxable income to the shareholder but instead as a return of capital. [5]                             
+No provision of the Income Tax Act 
+expressly required the return of PUC in this case to be treated as a taxable
+payment.  Nonetheless, the Minister of National Revenue considered the
+transactions by which the parent and subsidiary became sister corporations to
+have circumvented certain provisions of the Act  in an abusive manner and thus
+to have contravened s. 245  of the Act , the general anti-avoidance rule, or the
+“GAAR”.  Applying the GAAR, the Minister concluded that the PUC of the shares
+of the former subsidiary should have been cancelled upon amalgamation with its
+former parent corporation.  If the PUC of the shares of the amalgamated
+corporation was reduced, the amount paid to the shareholder in excess of the
+reduced PUC would have constituted a deemed dividend subject to tax.  The
+Minister reassessed the amalgamated corporation for unpaid withholding tax on
+the deemed dividend portion of the amount paid to the non-resident shareholder
+upon redemption. The Tax Court of Canada and Federal Court of Appeal upheld the
+reassessments (2007 TCC 481, [2008] 1 C.T.C. 2001; 2009 FCA 163, 392 N.R. 29). [6]                             
+Upon a textual, contextual and purposive
+interpretation of the relevant provisions of the Act , in my respectful view,
+the transactions that took place in this case were properly reassessed under
+the GAAR.  Accordingly, I would dismiss the appeal. II.      Summary
+of Facts [7]                             
+The following is a summary of the facts
+pertinent to the issue to be decided on this appeal.  The summary is
+essentially that set out in the reasons of the Federal Court of Appeal, which
+in turn is based on the agreed statement of facts submitted by the parties. 
+The details of the complex set of transactions are contained in Appendix A. [8]                             
+Li Ka-Shing and his son, Victor Li, control a
+group of Canadian and non-resident companies (“Li Group”).  One is VHHC
+Investments Ltd. in which the Li Group invested $96,736,845.  VHHC Investments
+purchased all the shares of VHHC Holdings Ltd. for $67,401,279.  At the end of
+1991, the shares of VHHC Investments had a PUC of $96,736,845 and the shares of
+VHHC Holdings had a PUC of $67,401,279. [9]                             
+VHHC Holdings held shares in Husky Oil Ltd.
+directly and through a subsidiary corporation, VHSUB Holdings Inc.  By 1991 the
+market value of the Husky shares had fallen such that VHSUB had an unrealized
+capital loss on those shares. [10]                         
+Copthorne Holdings Ltd. (“Copthorne I”) was a
+wholly owned subsidiary of Big City Project Corporation B.V. (“Big City”), a
+Netherlands company and member of the Li Group.  Copthorne I had purchased the
+Harbour Castle Hotel in 1981 and sold it for a substantial capital gain in
+1989. [11]                         
+By the end of 1991, the VHSUB shares had nominal
+fair market value, but an adjusted cost base of $84.3 million reflecting the accrued
+capital loss on the Husky shares. In 1992, VHHC Investments sold its common
+shares of VHHC Holdings with a PUC of $67,401,279 to Copthorne I for a nominal
+price.  VHHC Holdings subsequently sold the majority of its VHSUB shares to
+Copthorne I (inheriting the high adjusted cost base under stop-loss rules)
+which in turn sold the VHSUB shares to an unrelated purchaser at their fair
+market value, and thus realized the capital loss.  This allowed Copthorne I to
+carry the capital loss on the VHSUB shares back to shelter the capital gains
+from the sale of the Harbour Castle Hotel. [12]                         
+In 1993, the Li Group decided to amalgamate
+Copthorne I, its wholly owned subsidiary VHHC Holdings and two other
+corporations.  It was recognized that because VHHC Holdings was a wholly owned
+subsidiary of Copthorne I, without any other steps, the PUC of $67,401,279 of
+the shares of VHHC Holdings would be eliminated on the vertical amalgamation. 
+However, if VHHC Holdings and Copthorne I were “sister” corporations their
+amalgamation would result in aggregation of the PUC of each of the companies’
+respective shares.  To avoid the elimination of the PUC of VHHC Holdings
+shares, on July 7, 1993, Copthorne I sold its VHHC Holdings shares to Big City,
+its parent corporation, for their fair market value which was nominal.  On
+January 1, 1994, Copthorne I, VHHC Holdings and two other corporations
+amalgamated under the name Copthorne Holdings Ltd. (“Copthorne II”).  All the
+issued shares of Copthorne II were owned by Big City.  The PUC of the Copthorne
+II shares owned by Big City was essentially the PUC of the shares of VHHC
+Holdings ($67,401,280) as the PUC of the shares of the other amalgamating
+corporations was nominal. [13]                         
+The proceeds of the 1989 Harbour Castle Hotel
+sale had been invested by Copthorne I in Copthorne Overseas Investment Ltd.
+(“COIL”), a wholly owned Barbados company that carried on an active
+bond-trading business in Singapore.  In response to June 1994 amendments made
+to the foreign accrual property income (“FAPI”) provisions of the Income Tax
+Act  which would have made COIL’s income FAPI, the Li Group decided to
+dispose of the business of COIL to another entity within the Li Group and to
+remove some or all of the proceeds of disposition from Canada. [14]                         
+To achieve this result, in 1994, L.F.
+Investments (Barbados) Ltd. (“L.F. Investments”) was incorporated in Barbados. 
+L.F. Investments acquired all of the issued shares of Copthorne II and VHHC
+Investments.  The disposition of these shares by Big City resulted in a capital
+gain.  However, this gain was not taxable. A tax treaty between Canada and the
+Netherlands provides that aside from enumerated exceptions, capital gains
+accruing to a resident of the Netherlands (Big City) will not be taxable in
+Canada. Effective January 1, 1995, those two corporations and two others that
+were owned within the Li Group amalgamated under the name Copthorne Holdings
+Ltd. (“Copthorne III”).  On this amalgamation, L.F. Investments received
+164,138,025 Class D preferred shares (“Class D shares”) having an aggregate
+redemption amount, fair market value and PUC of $164,138,025 or effectively
+$1.00 per share.  In essence, the PUC of the Class D shares was the total of
+the PUC of the shares of VHHC Investments at the end of 1991 and the PUC of
+VHHC Holdings shares that was derived from the share subscriptions made by VHHC
+Investments. [15]                         
+Immediately following this amalgamation,
+Copthorne III redeemed 142,035,895 of its Class D shares that were held by L.F.
+Investments, a non-resident of Canada, for $142,035,895.  Since the redemption
+amount was no more than the PUC of the Class D shares, the redemption did not
+give rise to a deemed dividend under the Income Tax Act .   Accordingly,
+Copthorne III did not withhold or remit any tax on behalf of L.F. Investments. [16]                         
+The Minister assessed Copthorne III by applying
+the GAAR to reduce the PUC of its Class D shares by $67,401,280, which was the
+portion of the PUC that was attributable to the shares of VHHC Holdings. [17]                         
+The Minister determined that a deemed dividend
+arose on the redemption by Copthorne III amounting to $58,325,223, which was
+the proportion of the redemption attributable to the VHHC Holdings PUC, and
+that 15 percent of that amount should have been withheld.  Accordingly, the
+Minister assessed Copthorne III tax of $8,748,783.40.  In addition, the
+Minister assessed a penalty of 10 percent of that amount. [18]                         
+In an unrelated transaction that occurred in
+2002, Copthorne III was amalgamated with five other corporations owned within
+the Li Group and continued as Copthorne Holdings Ltd., the appellant in this
+appeal. [19]                         
+Copthorne objected to the assessment, the Minister
+confirmed it, and Copthorne appealed to the Tax Court of Canada. [20]                         
+The Tax Court found in favour of the Minister
+but overturned the penalty assessment.  The Federal Court of Appeal affirmed
+the decision of the Tax Court.  Copthorne now appeals to this Court. III.    Tax
+Court of Canada [21]                         
+At the Tax Court, Campbell J. found that all
+elements necessary to apply the GAAR had been established: a series of
+transactions, a tax benefit, an avoidance transaction, and the abusiveness of
+the transaction. [22]                         
+Based on this Court’s ruling in Canada
+Trustco Mortgage Co. v. Canada, 2005 SCC 54, [2005] 2 S.C.R. 601, she found
+that a related transaction is part of a series of transactions if it is
+completed in contemplation of the series “not in the sense of actual knowledge
+but in the broader sense of ‘because of’ or ‘in relation to’ the series” (Trustco,
+at para. 26) and that related transactions may occur before or after the
+series. [23]                         
+In this case she found that there was a “strong
+nexus” between the redemption of Copthorne III shares, which she considered the
+related transaction, and the series of transactions, which included the sale of
+VHHC Holdings to Big City in 1993 to preserve its PUC and the subsequent
+amalgamation of Copthorne I and VHHC Holdings, because the redemption “was
+clearly done in contemplation of” the share sale in 1993 (paras. 39-40). She
+concluded that all of the relevant transactions could be considered a “series
+of transactions” for the purposes of the GAAR. [24]                         
+Second, she found that preserving the PUC had
+reduced the tax that L.F. Investments was liable to pay, and that Copthorne III
+was required to withhold and remit, and that this tax reduction constituted a
+tax benefit. [25]                         
+Third, she noted that an avoidance transaction
+is a transaction that is not undertaken for a “bona fide purpose other
+than to obtain a tax benefit” (para. 47). While Copthorne argued that the sale
+of VHHC Holdings to Big City was simply part of a reorganization to simplify
+the Li Group corporate structure, she concluded that it did nothing to simplify
+the corporate structure and thus was an “avoidance transaction”. [26]                         
+As to whether the avoidance transaction was an
+abuse or misuse, she considered three impugned sections together: ss. 89(1) ,
+87(3)  and 84(3) . She concluded that the provisions were intended “to operate to
+prevent the artificial increase of PUC on amalgamation and its subsequent
+return to shareholders on a tax-free basis” (para. 74). [27]                         
+She found that the avoidance transaction had
+misused these provisions “to artificially increase the PUC on amalgamation with
+the subsequent return of this artificial increase to shareholders on a tax-free
+basis, the very result that these provisions were intended to prevent” (para.
+57). [28]                         
+She concluded that the Minister had properly
+applied the GAAR to disallow the addition of the $67,401,279 PUC of the shares
+of VHHC Holdings to the PUC of the shares of Copthorne III, and that the
+proportion of the subsequent redemption attributable to the $67,401,279 PUC
+from VHHC Holdings was taxable.  However, she overturned the Minister’s penalty
+assessment. IV.    Federal
+Court of Appeal [29]                         
+The Federal Court of Appeal affirmed the
+judgment of the Tax Court for the reasons written by Ryer J.A. [30]                         
+On the first three issues — the series of
+transactions, the tax benefit, and the avoidance transaction — Ryer J.A.
+deferred to the factual findings of the Tax Court judge. However, he noted that
+the Tax Court judge had applied too stringent a legal test to assessing the
+series of transactions.  He concluded that a “strong nexus” need not exist
+between a series and a related transaction to find that the related transaction
+is part of the series. Instead, the series need only be a “motivating factor”
+for the related transaction (para. 49).  Given the Tax Court judge’s finding
+that a “strong nexus” existed, he concluded that this less stringent motivating
+factor test was clearly met. [31]                         
+Finally, he upheld the conclusion of the Tax
+Court judge that the avoidance transaction had been abusive, but differed in
+his application of the GAAR. He concluded that it was only necessary to
+consider one provision: s. 89(1). However, he agreed that the Tax Court judge
+had properly identified the purpose of s. 89(1): “. . . to avoid
+duplicative increases in computing the PUC of the amalgamated corporation”
+(para. 73).  He confirmed the Tax Court judge’s finding that the transaction
+had abused this provision, and that the GAAR had properly been applied by the
+Minister. He dismissed the appeal. V.  Analysis A.     Introduction [32]                         
+It is relatively straightforward to set out the
+GAAR scheme.  It is much more difficult to apply it.  Where a transaction is an
+avoidance transaction (a transaction that would result in a tax benefit and
+whose primary purpose was to obtain the tax benefit), the tax benefit resulting
+from the transaction will be denied.  However, the tax benefit will not be denied
+if the avoidance transaction would not result in an abuse or misuse of the Income
+Tax Act .  The scheme is set out in ss. 245(1)  to (5)  of the Act  (see
+Appendix B). [33]                         
+In Trustco, this Court set out the three
+questions to be decided in a GAAR analysis: 1.         Was there a tax benefit? (para. 18); 2.         Was the transaction giving rise to the tax benefit an
+avoidance transaction? (para. 21); and 3.         Was the avoidance transaction giving rise to the tax
+benefit abusive? (para. 36). I will address each in
+turn. B.      Was
+There a Tax Benefit? [34]                         
+The first question that must be answered is
+whether there was a tax benefit. The burden is on the taxpayer to refute the
+Minister’s assumption of the existence of a tax benefit (Trustco, at
+para. 63).  Where, as here, the Tax Court judge has made a finding of fact on
+the existence of a tax benefit, it is only appropriate for a reviewing court to
+overturn such a finding where an appellant can show a palpable and overriding
+error. [35]                         
+As found in Trustco, the existence of a
+tax benefit can be established by comparison of the taxpayer’s situation with
+an alternative arrangement (para. 20). If a comparison approach is used, the
+alternative arrangement must be one that “might reasonably have been carried
+out but for the existence of the tax benefit” (D. G. Duff, et al., Canadian
+Income Tax Law (3rd ed. 2009), at p. 187). By considering what a
+corporation would have done if it did not stand to gain from the tax benefit,
+this test attempts to isolate the effect of the tax benefit from the non-tax
+purpose of the taxpayer. [36]                         
+Copthorne argues that an amalgamation while VHHC
+Holdings was owned by Copthorne I — a vertical amalgamation — “was never a live
+and reasonable option” and thus the Minister should not have used such a
+comparison (A.F., at para. 137).  A vertical amalgamation would have resulted
+in the cancellation of the PUC of VHHC Holdings shares.  This meant that a
+greater proportion of the funds returned as a result of the redemption would
+have been subject to tax as a deemed dividend.  Copthorne says that a taxpayer
+would never have chosen this higher tax option, and thus that such option was
+unreasonable. [37]                         
+An amalgamation was necessary for Copthorne to
+achieve the outcomes it sought in 1993 when it undertook the transactions
+between VHHC Holdings, Copthorne I and Big City — a simplification of the
+corporate structure, and the ability to shelter anticipated gains with losses
+within the four amalgamating corporations.  The only question was whether the
+amalgamation would be horizontal or vertical.  As the Tax Court judge pointed
+out, the vertical amalgamation would have been the simpler course of action. 
+It was only the cancellation of PUC that would arise upon a vertical
+amalgamation that led to the sale by Copthorne I of its shares in VHHC Holdings
+to Big City.  To use the words of Professor Duff, “but for” the difference in
+how PUC was treated, a vertical amalgamation was reasonable. [38]                         
+The comparison was entirely appropriate. 
+Copthorne has not satisfied its onus of showing that there was no tax benefit. 
+I would affirm the finding of the Tax Court that there was a tax benefit. C.     Was
+the Transaction Giving Rise to the Tax Benefit an Avoidance Transaction? [39]                         
+According to s. 245(3)  of the Act , a transaction
+will be an avoidance transaction if it results in a tax benefit, and is not
+undertaken primarily for a bona fide non-tax purpose. An avoidance
+transaction may operate alone to produce a tax benefit, or may operate as part
+of a series of transactions which produces a tax benefit. [40]                         
+Where, as here, the Minister assumes that the
+tax benefit resulted from a series of transactions rather than a single
+transaction, it is necessary to determine if there was a series, which
+transactions make up the series, and whether the tax benefit resulted from the
+series. If there is a series that results, directly or indirectly, in a tax
+benefit, it will be caught by s. 245(3)  unless each transaction within the
+series could “reasonably be considered to have been undertaken or arranged
+primarily for  bona fide purposes other than to obtain [a] tax benefit”.
+If any transaction within the series is not undertaken primarily for a bona
+fide non-tax purpose that transaction will be an avoidance transaction. [41]                         
+The first consideration is whether there was a
+series that resulted in a tax benefit.  As I will explain below, it will be
+necessary to consider when a transaction which is related to a common law
+series of transactions is part of a series of transactions as defined in s.
+248(10)  of the Income Tax Act .  The second consideration is whether any
+of the transactions within the purported series is an avoidance transaction.                     (1)   Was There a Series of Transactions That Resulted in a Tax
+Benefit? [42]                         
+In the agreed statement of facts, the parties
+agreed that the sale of VHHC Holdings to Big City, and the subsequent
+amalgamation of VHHC Holdings with Copthorne I to form Copthorne II were part
+of a series of transactions.  However, these transactions themselves did not
+result in a tax benefit.  The tax benefit was only realized when Copthorne III
+redeemed its shares without its shareholder incurring an immediate tax
+liability. Thus, it is necessary to decide whether the redemption transaction
+is part of the series of transactions which included the sale of VHHC Holdings
+to Big City and the subsequent amalgamation of Copthorne I and VHHC Holdings. [43]                         
+In Trustco, this Court accepted that the
+scheme of the Act  provides for an expansive approach to the series issue.  The
+starting point is the common law series taken from English law where “each
+transaction in the series [is] pre-ordained to produce a final result” (OSFC
+Holdings Ltd. v. Canada, 2001 FCA 260, [2002] 2 F.C. 288, at para. 24). 
+This common law series is expanded by s. 248(10)  of the Act  which deems any
+“related transactio[n]” which is completed “in contemplation of” a series to be
+part of that series.  Section 248(10)  provides:                                     248. . . .                                     (10)      For
+the purposes of this Act , where there is a reference to a series of
+transactions or events, the series shall be deemed to include any related
+transactions or events completed in contemplation of the series. [44]                         
+The parties have agreed that the sale of VHHC Holdings
+to Big City and the subsequent amalgamation were part of a series.  However,
+the agreed facts do not address whether the redemption transaction was part of
+this series.  The question which must be answered is whether the redemption
+which gave rise to the tax benefit can be considered to be a “related
+transaction” which was done “in contemplation of” the prior series of
+transactions. [45]                         
+The Minister assumed that there was a series
+that included the redemption transaction that led to a tax benefit.  Again,
+Copthorne has the onus of showing that the Minister’s assumption is refuted (Trustco,
+at para. 63). [46]                         
+The Tax Court judge found that there was a
+“strong nexus” between the redemption and the earlier series which included the
+1993 sale of VHHC Holdings to Big City, and the horizontal amalgamation of
+Copthorne I and VHHC Holdings.  The Federal Court of Appeal rightly noted that
+a “strong nexus” is not necessary to meet the series test set out in Trustco. 
+The court is only required to consider whether the series was taken into
+account when the decision was made to undertake the related transaction in the
+sense that it was done “in relation to” or “because of” the series (Trustco,
+at para. 26). [47]                         
+Although the “because of” or “in relation to”
+test does not require a “strong nexus”, it does require more than a “mere
+possibility” or a connection with “an extreme degree of remoteness” (see MIL
+(Investments) S.A. v. R., 2006 TCC 460, [2006] 5 C.T.C. 2552, at para. 62,
+aff’d 2007 FCA 236, 2007 D.T.C. 5437).  Each case will be decided on its own
+facts.  For example, the length of time between the series and the related
+transaction may be a relevant consideration in some cases, as would intervening
+events taking place between the series and the completion of the related
+transaction.  In the end, it will be the “because of” or “in relation to” test
+that will determine, on a balance of probabilities, whether a related
+transaction was completed in contemplation of a series of transactions. [48]                         
+The Tax Court judge was aware both of the
+intervening introduction of the FAPI rule changes, as well as the time interval
+between the sale and amalgamation in 1993 and 1994 and the redemption in 1995
+(para. 38).  Copthorne argued that these intervening events broke the purported
+series.  The Tax Court judge agreed that the test should not catch
+“transactions that are only remotely connected to the common law series” (para.
+39).  Nonetheless, she found that there was a “strong nexus” between the series
+and the subsequent redemption, because “the Redemption   . . . was exactly the
+type of transaction necessary to make a tax benefit a reality based on the
+preservation of the PUC” (para. 40).  The Federal Court of Appeal upheld this
+conclusion, finding that there was no palpable and overriding error of fact. I
+would also uphold the Tax Court judge’s conclusion for the same reason. [49]                         
+Copthorne now asks the Court to revisit the
+interpretation of s. 248(10) .  It argues that a related transaction should only
+be part of a series where the series is “being contemplated by the parties” at
+the time the prior related transaction takes place (A.F., at para. 112).  The
+argument is that the plain meaning of these words suggests that the assessment of
+whether the related transaction was done “in contemplation of” the series must
+be done prospectively, because the definition of contemplation suggests
+consideration of a future event.  Copthorne says that the question of whether a
+transaction was related must therefore be decided by determining whether a
+prior related transaction was completed in contemplation of a subsequent
+series, not by considering, with the benefit of hindsight, whether the series
+had been contemplated when a subsequent transaction was completed; that
+retrospective assessment of the connection between a series and a related
+transaction impermissibly expands the reach of s. 248(10) ; and that such
+consideration would create unacceptable uncertainty and trench upon the Duke
+of Westminster principle that taxpayers are entitled to arrange their
+affairs to minimize the amount of tax payable (see Commissioners of Inland
+Revenue v. Duke of Westminster, [1936] A.C. 1 (H.L.)). [50]                         
+I acknowledge that the more common use of the
+term “contemplation” is likely prospective.  Indeed, in the Canadian Tax
+Foundation’s 1988 Report of Proceedings of the Fortieth Tax Conference,
+shortly after s. 248(10)  and the GAAR were enacted (s. 248(10)  in 1986, the
+GAAR in 1988), Michael Hiltz, then a Director with Revenue Canada expressed the
+view of the agency that s. 248(10)  was to be read prospectively:                     In the view of Revenue Canada, a preliminary
+transaction will form part of a series determined with reference to subsection
+248(10)  if, at the time the preliminary transaction is carried out, the
+taxpayer intends to implement the subsequent transactions constituting the
+series . . . even though at the time of the completion of the preliminary
+transaction the taxpayer either had not determined all the important elements of
+the subsequent transactions — including, possibly, the identity of other
+taxpayers involved — or had lacked the ability to implement the subsequent
+transactions.                     (“Section
+245  of the Income Tax Act ”, in Report of Proceedings of the Fortieth Tax
+Conference (1989), 7:1, at p. 7:6) [51]                         
+In answer to the argument that a prospective
+reading of s. 248(10)  unduly narrows its scope, it is said that the section
+will still have the utility of including a prior transaction in a series even
+when the prior transaction cannot be said to meet the test for inclusion in a
+common law series. [52]                         
+Subsequent to his earlier view on the issue,
+Professor Duff has more recently suggested that a more reasonable
+interpretation of s. 248(10)  would be to read it prospectively only.  He writes:                         With respect to the extended meaning of a
+series of transactions, however, the Court’s interpretation [in Trustco]
+is less persuasive.  Although the conclusion that related transactions can
+occur “either before or after” an avoidance transaction is likely to accord
+with legislative intent, it is not obvious that this interpretation is
+consistent with the text of subsection 248(10) , which might more reasonably be
+interpreted to include only related transactions completed prior to an ordinary
+series of transactions but not related transactions completed after the series.
+[Footnotes omitted.]                     (D.
+G. Duff, “The Supreme Court of Canada and the General Anti-Avoidance Rule: Canada
+Trustco and Mathew”, in D. G. Duff and H. Erlichman, eds., Tax
+Avoidance in Canada After Canada Trustco and Mathew (2007), 1, at
+pp. 26-27) [53]                         
+However, “contemplation” is defined by The
+Oxford English Dictionary (2nd ed. 1989) vol. III, at p. 811, as
+“[t]he action of contemplating or mentally viewing; the action of thinking
+about a thing continuously; attentive consideration, study.”  This definition
+does not require that the thing contemplated is either in the future or the
+past.  Copthorne relies on the definition of “contemplation” in Webster’s
+Third New International Dictionary (1986), at p. 491, which includes “the
+act of looking forward to an event: the act of intending or considering a
+future event”.  As I have said, contemplation often does involve looking
+forward.  However, these words are not exhaustive of the Webster definition. 
+More general words precede, which are not limited to looking forward: “an act
+of the mind in considering with attention: continued attention to a particular
+subject . . .: something for which such consideration is asked . . .: the act
+of viewing steadfastly and attentively: the viewing of something . . . for its
+own sake”. [54]                         
+The text and context of s. 248(10)  leave open
+when the contemplation of the series must take place.  Nothing in the text
+specifies when the related transaction must be completed in relation to the
+series.  Specifically, nothing suggests that the related transaction must be
+completed in contemplation of a subsequent series.  The context of the
+provision is to expand the definition of a series which is an indication
+against a narrow interpretation. [55]                         
+In Trustco, the Chief Justice and Major
+J. explained that it is likely more consonant with the Parliamentary intention
+to read s. 248(10)  both prospectively and retrospectively.  And Trustco
+adopted and expanded the application of s. 248(10)  as interpreted in OSFC,
+which itself involved the retrospective application of the provision.  The
+Court in Trustco said, at para. 26:                            Section 248(10)  extends the meaning of
+“series of transactions” to include “related transactions or events completed
+in contemplation of the series”.  The Federal Court of Appeal held, at para. 36
+of OSFC, that this occurs where the parties to the transaction “knew of
+the . . . series, such that it could be said that they took it into account
+when deciding to complete the transaction”.  We would elaborate that “in
+contemplation” is read not in the sense of actual knowledge but in the broader
+sense of “because of” or “in relation to” the series.  The phrase can be
+applied to events either before or after the basic avoidance transaction found
+under s. 245(3) . As has been noted:                            It
+is highly unlikely that Parliament could have intended to include in the
+statutory definition of “series of transactions” related transactions completed
+in contemplation of a subsequent series of transactions, but not related
+transactions in the contemplation of which taxpayers completed a prior series
+of transactions.                            (D. G. Duff, “Judicial Application of the
+General Anti-Avoidance Rule in Canada: OSFC Holdings Ltd. v. The Queen”
+(2003), 57 I.B.F.D. Bulletin 278, at p. 287) [56]                         
+The fact that the language of s. 248(10)  allows
+either prospective or retrospective connection of a related transaction to a
+common law series and that such an interpretation accords with the
+Parliamentary purpose, impels me to conclude that this interpretation should be
+preferred to the interpretation advanced by Copthorne. [57]                         
+Trustco is a
+recent decision of this Court.  Reversing a recent decision “is a step not to
+be lightly undertaken” (Ontario (Attorney General) v. Fraser,
+2011 SCC 20, [2011] 2 S.C.R. 3, at paras. 56-57, per McLachlin C.J. and
+LeBel J.).  Before a court will entertain reversing a recently decided
+decision, there must be substantial reasons to believe the precedent was
+wrongly decided.  In this case, Copthorne has not met the “high threshold for
+reversing a precedent” (Fraser, at para. 60) and it is appropriate to
+reaffirm the Trustco interpretation of s. 248(10) . [58]                         
+I would therefore agree with the Tax Court and
+the Federal Court of Appeal that the redemption transaction was part of the
+same series as the prior sale and amalgamation, and that the series, including
+the redemption transaction, resulted in the tax benefit.                     (2)   Was Any Transaction Within the
+Purported Series an Avoidance Transaction? [59]                         
+The determination of whether a transaction is
+undertaken primarily for a non-tax purpose and is therefore not an avoidance
+transaction is to be objectively considered, and must be based on all of the
+evidence available to the court (Trustco, at paras. 28-29). [60]                         
+The Tax Court judge found that the 1993 sale of
+VHHC Holdings shares from Copthorne I to Big City was an avoidance transaction. 
+The Federal Court of Appeal agreed. [61]                         
+The sale preserved the PUC of the VHHC Holdings
+shares when VHHC Holdings and Copthorne I were amalgamated to form Copthorne
+II, which allowed for the subsequent redemption of Copthorne III shares without
+liability for tax.  This is a tax purpose. [62]                         
+Copthorne argues that the transactions were
+undertaken for the purposes of simplifying the Li Group companies and using the
+losses within the four amalgamated companies to shelter gains also within the
+four amalgamated companies.  While simplification and sheltering gains may
+apply to the other transactions, they do not explain the sale of VHHC Holdings
+shares to Big City.  As the Tax Court judge found, the share sale introduced an
+additional step into a process of simplification and consolidation.  A vertical
+amalgamation would have resulted in the same simplification and consolidation. 
+Moreover, Copthorne has not shown why sheltering gains using losses
+within the four companies would not have been possible if the companies were
+amalgamated vertically. [63]                         
+I see no error in the finding of the Tax Court
+judge that the sale of the VHHC Holdings shares from Copthorne I to Big City
+was not primarily undertaken for a bona fide non-tax purpose.  The
+burden was upon Copthorne to prove the existence of a bona fide non-tax
+purpose (Trustco, at para. 66), which it failed to do.  Thus, I
+would affirm her finding that the sale of the VHHC Holdings shares to Big City
+was an avoidance transaction. [64]                         
+Because there was a series of transactions which
+resulted in a tax benefit, the finding that one transaction in the series was
+an avoidance transaction satisfies the requirements of s. 245(3) . D.     Was
+the Avoidance Transaction Giving Rise to the Tax Benefit Abusive? [65]                         
+The most difficult issue in this case is whether
+the avoidance transaction was an abuse or misuse of the Act .  The terms “abuse”
+or “misuse” might be viewed as implying moral opprobrium regarding the actions
+of a taxpayer to minimize tax liability utilizing the provisions of the Income
+Tax Act  in a creative way.  That would be inappropriate.  Taxpayers are
+entitled to select courses of action or enter into transactions that will
+minimize their tax liability (see Duke of Westminster). [66]                         
+The GAAR is a legal mechanism whereby Parliament
+has conferred on the court the unusual duty of going behind the words of the
+legislation to determine the object, spirit or purpose of the provision or
+provisions relied upon by the taxpayer.  While the taxpayer’s transactions will
+be in strict compliance with the text of the relevant provisions relied upon,
+they may not necessarily be in accord with their object, spirit or purpose.  In
+such cases, the GAAR may be invoked by the Minister.  The GAAR does create some
+uncertainty for taxpayers.  Courts, however, must remember that s. 245  was
+enacted “as a provision of last resort” (Trustco, at para. 21). [67]                         
+A court must be mindful that a decision supporting
+a GAAR assessment in a particular case may have implications for innumerable
+“everyday” transactions of taxpayers.  A decision affecting PUC is a good
+example.  There are undoubtedly hundreds, and perhaps thousands of share
+transactions each year in which the PUC of a certain class of shares may be a
+relevant consideration.  Because of the potential to affect so many
+transactions, the court must approach a GAAR decision cautiously.  It is
+necessary to remember that “Parliament must . . . be taken to seek consistency,
+predictability and fairness in tax law” (Trustco, at para. 42).  As this
+Court stated in Trustco:                     Parliament
+intends taxpayers to take full advantage of the provisions of the Income Tax
+Act  that confer tax benefits.  Indeed, achieving the various policies that
+the Income Tax Act  seeks to promote is dependent on taxpayers doing so.
+[para. 31] [68]                         
+For this reason, “the GAAR can only be applied
+to deny a tax benefit when the abusive nature of the transaction is clear” (Trustco,
+at para. 50).  The court’s role must therefore be to conduct an objective,
+thorough and step-by-step analysis and explain the reasons for its conclusion. [69]                         
+In order to determine whether a transaction is
+an abuse or misuse of the Act , a court must first determine the “object, spirit
+or purpose of the provisions . . . that are relied on for the tax benefit,
+having regard to the scheme of the Act , the relevant provisions and permissible
+extrinsic aids” (Trustco, at para. 55).  The object, spirit or purpose
+of the provisions has been referred to as the “legislative rationale that
+underlies specific or interrelated provisions of the Act ” (V. Krishna, The
+Fundamentals of Income Tax Law (2009), at p. 818). [70]                         
+The object, spirit or purpose can be identified
+by applying the same interpretive approach employed by this Court in all
+questions of statutory interpretation — a “unified textual, contextual and
+purposive approach” (Trustco, at para. 47; Lipson v. Canada,
+2009 SCC 1, [2009] 1 S.C.R. 3, at para. 26). While the approach is the
+same as in all statutory interpretation, the analysis seeks to determine a
+different aspect of the statute than in other cases. In a traditional statutory
+interpretation approach the court applies the textual, contextual and purposive
+analysis to determine what the words of the statute mean.  In a GAAR analysis
+the textual, contextual and purposive analysis is employed to determine the
+object, spirit or purpose of a provision. Here the meaning of the words of the
+statute may be clear enough.  The search is for the rationale that underlies
+the words that may not be captured by the bare meaning of the words
+themselves.  However, determining the rationale of the relevant provisions of
+the Act  should not be conflated with a value judgment of what is right or wrong
+nor with theories about what tax law ought to be or ought to do. [71]                         
+Second, a court must consider whether the
+transaction falls within or frustrates the identified purpose (Trustco,
+at para. 44).  As earlier stated, while an avoidance transaction may
+operate alone to produce a tax benefit, it may also operate as part of a series
+of transactions that results in the tax benefit.  While the focus must be on
+the transaction, where it is part of a series, it must be viewed in the context
+of the series to enable the court to determine whether abusive tax avoidance
+has occurred.  In such a case, whether a transaction is abusive will only
+become apparent when it is considered in the context of the series of which it
+is a part and the overall result that is achieved (Lipson, at para. 34, per
+LeBel J.). [72]                         
+The analysis will then lead to a finding of
+abusive tax avoidance:  (1) where the transaction achieves an outcome the
+statutory provision was intended to prevent; (2) where the transaction defeats
+the underlying rationale of the provision; or (3) where the transaction
+circumvents the provision in a manner that frustrates or defeats its object,
+spirit or purpose (Trustco, at para. 45; Lipson, at para.
+40).  These considerations are not independent of one another and may overlap. 
+At this stage, the Minister must clearly demonstrate that the transaction is an
+abuse of the Act , and the benefit of the doubt is given to the taxpayer. [73]                         
+When applying this test, there is no distinction
+between an “abuse” and a “misuse”. Instead, there is a single unified approach
+(Trustco, at para. 43).  In the balance of these reasons, I will
+therefore only use the term “abuse”.                     (1)   The Relevant Sections [74]                         
+The three sections of the Act  that are alleged
+to have been abused are ss. 89(1) , 87(3)  and 84(3) .  Section 89(1)  defines
+PUC.  The relevant portion reads:                            89.
+(1) . . .                      “paid-up capital” at any particular time means,                            (a)     in
+respect of a share of any class of the capital stock of a corporation, an
+amount equal to the paid-up capital at that time, in respect of the class of
+shares of the capital stock of the corporation to which that share belongs,
+divided by the number of issued shares of that class outstanding at that time,                            (b)     in
+respect of a class of shares of the capital stock of a corporation, . .
+.                                     (iii)       where the particular
+time is after March 31, 1977, an amount equal to the paid-up capital in respect
+of that class of shares at the particular time, computed without reference to
+the provisions of this Act  except subsections 51(3)  and 66.3(2)  and (4) ,
+sections 84.1  and 84.2 , subsections 85(2.1) , 85.1(2.1) , 86(2.1) , 87(3)  and (9) ,
+128.1(2)  and (3) , 138(11.7) , 192(4.1)  and 194(4.1)  and section 212.1 , . . . [75]                         
+This definition is unusual.  It does not provide
+an express positive definition. Instead, it states that PUC shall be calculated
+initially “without reference to the provisions of this Act ”.  In practice this
+means that the PUC calculation begins with reference to the stated capital of a
+class of shares, determined under corporate law.  This is explained in para. 2
+of the Income Tax Interpretation Bulletin IT-463R2, “Paid-up Capital”
+(September 8, 1995):                         Since subparagraph (b)(iii) of the
+definition of “paid-up capital” provides that the amount of the paid-up capital
+of a class of shares is initially determined without reference to the
+provisions of the Income Tax Act , the calculation is based on the
+relevant corporate law rather than tax law. The amount calculated under
+corporate law is usually referred to as the “stated capital” of the class of
+shares.                     (See
+also Krishna, at p. 621.) [76]                         
+Stated capital is “the full amount that [a
+corporation] receives in respect of any share it issues” (K. P. McGuinness, Canadian
+Business Corporations Law (2nd ed. 2007), at §7.231).  Where an investment
+is made in a corporation in consideration for shares, the stated capital of the
+corporation increases.  Professor Krishna refers to stated capital as “the
+amount of money that a shareholder ‘commits’ to the corporation” (p. 610).  The
+calculation of stated capital is set out at s. 26  of the Canada Business Corporations
+Act, R.S.C. 1985, c. C-44  (“CBCA ”) and at s. 28 of the Alberta
+Business Corporations Act, R.S.A. 2000, c. B-9 (“ABCA”). [77]                         
+Because the Act  relies on the corporate
+law concept of stated capital, the computation of PUC will be based on the
+statute in the jurisdiction in which a corporation is registered.  In this
+case, the amalgamation of Copthorne I and VHHC Holdings occurred under the ABCA. [78]                         
+Where the PUC of a corporation diverges from the
+stated capital it is “because of subsequent adjustments for tax purposes”
+(Krishna, at p. 621).  The adjustments made to compute PUC are those enumerated
+in subparagraph (b)(iii) of the definition of PUC in s. 89(1).  Thus,
+while stated capital and PUC may be the same in some cases, the two may differ
+substantially.  The adjustment relevant in this case is found in s. 87(3) . [79]                         
+Section 87(3)  ensures that the PUC of the shares
+of an amalgamated corporation shall not exceed the PUC of the shares of the
+amalgamating corporations.  In effect, it means that when companies amalgamate,
+it is the PUC of the shares of the amalgamating corporations, not their stated
+capital, that is used to determine the PUC of the shares of the amalgamated
+corporation.  The relevant portion of the section reads:                         87. . . .                         (3)     Subject to subsection (3.1), where
+there is an amalgamation or a merger of 2 or more Canadian corporations, in
+computing at any particular time the paid-up capital in respect of any
+particular class of shares of the capital stock of the new corporation,                     (a)     there shall be deducted that
+proportion of the amount, if any, by which the paid-up capital, determined
+without reference to this subsection, in respect of all the shares of the
+capital stock of the new corporation immediately after the amalgamation or merger
+exceeds the total of all amounts each of which is the paid-up capital in
+respect of a share (except a share held by any other predecessor corporation)
+of the capital stock of a predecessor corporation . . . . [80]                         
+Section 87(3)  provides that the PUC of the shares
+of the amalgamated corporation will be reduced if it exceeds the PUC of the
+shares of the amalgamating corporations.  If there is more than one class of
+shares, the reduction will be applied proportionally to each class. [81]                         
+However, s. 87(3) has an additional effect which
+is at the centre of this appeal.  It ensures that the total PUC of the shares
+of the amalgamating corporations will be aggregated “except a share held by any
+other predecessor corporation”.  The effect of this short additional parenthetical
+clause is that, on amalgamation, any PUC of the shares of an amalgamating
+corporation, where its shares were held by another amalgamating
+corporation, will be cancelled rather than being aggregated.  Thus, where an
+amalgamation is vertical — that is, where shares of one amalgamating
+corporation are held by another amalgamating corporation as in a
+parent-subsidiary relationship — the PUC of the shares of the subsidiary will
+not be aggregated, but will be cancelled.  In the case of a wholly owned subsidiary,
+the resulting PUC will be that of the shares of the parent corporation only. 
+(Where shares of a subsidiary are held partially by a parent corporation and
+partially by other shareholders, it will only be the PUC of the shares of the
+subsidiary held by the parent corporation that will be cancelled.) [82]                         
+This may be contrasted with a horizontal
+amalgamation where the companies being amalgamated do not own shares in one
+another (although they may both be owned by the same parent, as was the case
+here).  In a horizontal amalgamation no PUC is attributable to shares that are
+“held by any other predecessor corporation”, and thus the text of s. 87(3)
+would result in an aggregation and not a cancellation of PUC of the shares of
+the amalgamating corporations. [83]                         
+The third section relied upon by the Minister is
+s. 84(3).  It reads:                         84. . . .                         (3)     Where at any time after December 31,
+1977 a corporation resident in Canada has redeemed, acquired or cancelled in
+any manner whatever (otherwise than by way of a transaction described in
+subsection 84(2)) any of the shares of any class of its capital stock,                     (a)     the
+corporation shall be deemed to have paid at that time a dividend on a separate
+class of shares comprising the shares so redeemed, acquired or cancelled equal
+to the amount, if any, by which the amount paid by the corporation on the
+redemption, acquisition or cancellation, as the case may be, of those shares
+exceeds the paid-up capital in respect of those shares immediately before that
+time; and                     (b)     a
+dividend shall be deemed to have been received at that time by each person who
+held any of the shares of that separate class at that time equal to that
+portion of the amount of the excess determined under paragraph 84(3)(a)
+that the number of those shares held by the person immediately before that time
+is of the total number of shares of that separate class that the corporation
+has redeemed, acquired or cancelled, at that time. [84]                         
+Section 84(3) is a deeming provision.  It splits
+the amount paid on a share redemption between the PUC and the excess over PUC. 
+To the extent a shareholder receives an amount less than or equal to the PUC it
+will be considered a non-taxable return of capital.  However, where the payment
+exceeds the PUC, s. 84(3) deems the excess to be a dividend subject to tax.  In
+effect, s. 84(3) merely takes the PUC, determined pursuant to s. 89(1)
+including any adjustments such as required by s. 87(3), and deems any amount
+paid in excess of the resulting PUC a dividend subject to tax.                     (2)   Which Provisions Are Abused? [85]                         
+The issue in this appeal involves the
+computation of PUC on amalgamation.  Section 84(3) does not alter the
+computation of PUC.  It merely accepts and applies the PUC computations made
+pursuant to other provisions. [86]                         
+Sections 89(1) and 87(3) do deal with the
+computation of PUC on amalgamation.  As noted above, the definition of PUC in
+s. 89(1) provides a baseline reliance on stated capital for the calculation of
+PUC, with subsequent adjustments. Section 87(3) provides for a reduction that
+may apply on amalgamations.  To determine if there was abuse in this case, it
+is s. 87(3) that must be at the centre of the analysis.                     (3)   The Object, Spirit and Purpose of Section 87(3) [87]                         
+To assess the underlying rationale of s. 87(3)
+it is necessary to consider its text, context and purpose.  As with all
+statutory interpretation, these three elements are not entirely separate, and
+at times they will overlap.                     (a)   The Text of the Provision [88]                         
+In any GAAR case the text of the provisions at
+issue will not literally preclude a tax benefit the taxpayer seeks by entering
+into the transaction or series.  This is not surprising.  If the tax benefit of
+the transaction or series was prohibited by the text, on reassessing the
+taxpayer, the Minister would only have to rely on the text and not resort to
+the GAAR.  However, this does not mean that the text is irrelevant. In a GAAR
+assessment the text is considered to see if it sheds light on what the
+provision was intended to do. [89]                         
+The text of s. 87(3) ensures that in a
+horizontal amalgamation the PUC of the shares of the amalgamated corporation
+does not exceed the total of the PUC of the shares of the amalgamating
+corporations.  The question is why s. 87(3) is concerned with limiting PUC in
+this way.  Since PUC may be withdrawn from a corporation without inclusion in
+the income of the shareholder, it seems evident that the intent is that PUC be
+limited such that it is not inappropriately increased merely through the device
+of an amalgamation. [90]                         
+Section 87(3) also provides, in its
+parenthetical clause, that the PUC of the shares of an amalgamating corporation
+held by another amalgamating corporation is cancelled.  In other words, in a
+vertical amalgamation, the PUC of inter-corporate shareholdings, such as exists
+in the case of a parent-subsidiary relationship, is not to be aggregated. 
+Again, having regard to the fact that PUC may be withdrawn from a corporation
+not as a dividend subject to tax but as a non-taxable return of capital, the
+indication is that the parenthetical clause is intended to limit PUC of the
+shares of the amalgamated corporation to the PUC of the shares of the
+amalgamating parent corporation.  While the creation of PUC in the shares of
+downstream corporations is valid, its preservation on amalgamation may be seen
+as a means of enabling the withdrawal of funds in excess of the capital
+invested as a return of capital rather than as a deemed dividend to the
+shareholder subject to tax.                     (b)   The Context of the Provision [91]                         
+The consideration of context involves an
+examination of other sections of the Act , as well as permissible extrinsic aids
+(Trustco, at para. 55).  However, not every other section of the
+Act  will be relevant in understanding the context of the provision at issue. 
+Rather, relevant provisions are related “because they are grouped together” or
+because they “work together to give effect to a plausible and coherent plan”
+(R. Sullivan, Sullivan on the Construction of Statutes (5th ed.
+2008), at pp. 361 and 364).                     (i)    The PUC Scheme of the Act [92]                         
+The first contextual consideration is the PUC
+scheme in the Act , including ss. 84(3)  and 89(1) . [93]                         
+In oral argument, counsel for Copthorne conceded
+that s. 84(3)  provides for payment of PUC to shareholders on redemption of
+shares by the corporation without liability for tax in recognition of the fact
+that the initial investment is made with tax-paid funds. [94]                         
+I agree that this is why s. 84(3)  provides that
+any payment on redemption of shares is only deemed to be a dividend where the
+amount paid is in excess of PUC.  Section 84(3)  helps to explain why, in s.
+87(3), PUC is limited to the PUC of the shares of the amalgamating corporations
+in a horizontal amalgamation and why the PUC of the shares of a subsidiary held
+by a parent will be cancelled on a vertical amalgamation.  Without limiting or
+cancelling PUC as provided in s. 87(3), payments to shareholders on redemption
+of their shares in excess of the investment made with tax-paid funds could be
+made without liability for tax by the shareholder. [95]                         
+Section 89(1)  incorporates by reference
+provisions which reduce the PUC of the shares of a corporation.  They are
+colloquially referred to as “grinds”.  For example, ss. 84.1  and 212.1  both
+grind PUC in non-arm’s length transactions.  These sections have been described
+as “anti-avoidance” provisions aimed at “dividend stripping” (Collins &
+Aikman Products Co. v. The Queen, 2009 TCC 299, 2009 D.T.C. 1179, at
+paras. 55 and 105, aff’d 2010 FCA 251, [2011] 1 C.T.C. 250) because such
+non-arm’s length transactions may provide an opportunity for corporations to
+return funds in excess of the initial investment made with tax-paid funds to a
+shareholder as a non-taxable return of capital, rather than as a taxable
+dividend. [96]                         
+The existence of such grinds is an indication
+that the subsections enumerated in s. 89(1)  are mostly intended to prevent the
+preservation of PUC in instances where bare reliance on stated capital would
+not achieve Parliament’s intended tax purpose of allowing only for a return of
+tax-paid investment without inclusion in income.  Because s. 87(3) is one
+provision within this series of grinds, it is reasonable to conclude that it
+shares the same purpose of precluding the preservation of PUC where such
+preservation would allow for a withdrawal, without liability for tax, of an
+amount in excess of the investment made with tax-paid funds.                     (ii)    The Principle of Non-Consolidation [97]                         
+I turn now from the immediate PUC scheme to
+other related provisions in the Act .  Copthorne points out that the Act  does
+not generally consolidate the financial results of separate corporations for
+tax purposes.  Section 2(1)  of the Act  states that income tax is computed “for
+each taxation year of every person resident in Canada”.  Because each
+corporation is a separate taxpayer for the purposes of the Act , the tax
+computation for each corporation is separate.  Copthorne refers to this as a
+policy of corporate “non-consolidation”. [98]                         
+In the context of PUC, this means that the
+shares of a corporation have their own PUC, and that this PUC exists
+independently from the PUC of the shares of other corporations, whether or not
+the corporations are related.  For example, an investment may be made by an
+individual in a parent company, by the parent in a subsidiary, and by the
+subsidiary in a further subsidiary, with PUC created at each step.  This
+non-consolidation of PUC results from the non-consolidation of stated capital. 
+In corporate law stated capital is determined by reference to each corporation,
+whether related to one another or not, and is based on the consideration
+received for shares issued by the corporation (see CBCA, s. 26(2)  and ABCA,
+s. 28(2)). [99]                         
+This context suggests that the creation of PUC
+of the shares in a downstream corporation is not contrary to any policy of the
+Act .  However, this point speaks to the creation of PUC, rather than the
+preservation of PUC. Simply because PUC was validly created does not mean that
+it may be validly preserved.  Section 87(3)  does not speak to creation, but
+instead to limitation or cancellation of PUC upon amalgamation.  In
+amalgamations, two unconsolidated corporations become one consolidated
+corporation.  Section 87(3)  provides a bridge connecting the PUC of the shares
+of the prior unconsolidated corporations and the subsequent consolidated
+corporation.  In a horizontal amalgamation, the PUC of the shares of the
+amalgamated corporation cannot exceed the PUC of the shares of the amalgamating
+corporations.  Upon a vertical amalgamation, all PUC of shares held by a parent
+corporation in a subsidiary will be cancelled.  The principle of
+non-consolidation recognizes the valid creation of PUC in a subsidiary
+corporation, but does not justify preservation of PUC when parent and
+subsidiary are amalgamated.                     (iii)   The Relevance of the Capital Gains Scheme [100]                     
+Copthorne argues that the provisions of the Act 
+relating to capital gains and PUC are part of a single integrated scheme that
+“provides a complete solution to this situation” and ensures that tax
+eventually is applied to shareholder returns, either as a deemed dividend or as
+a capital gain (A.F., at para. 69). [101]                     
+On the basis of the arguments made, I have not
+been convinced to accept Copthorne’s position.  Capital gains or losses are
+calculated in relation to the adjusted cost base (“ACB”) of a share, not its PUC. 
+While PUC relates to shares, ACB relates to a specific taxpayer. PUC depends on
+the amount initially invested as capital, whereas the ACB reflects the amount
+the current shareholder paid for the shares.  In some cases the ACB and PUC may
+be the same, but in others they may not be.  In the case of shares acquired
+from a prior shareholder it will be unlikely that the ACB will be equal to the
+PUC. [102]                     
+I would hesitate to conclude that the Act 
+contains a “complete solution” whereby any withdrawal that would not be caught
+under the PUC-deemed dividend scheme would be caught instead by the capital
+gains scheme.  An amount returned to a shareholder on a share redemption may be
+considered a return of capital  rather than a deemed dividend under s. 84(3) . 
+However, the return of capital may reflect either a capital gain or a capital
+loss, which would be determined in relation to the ACB of the shareholder. [103]                     
+Further, the tax rates applicable to dividends
+and capital gains are not identical.  With respect to non-resident
+shareholders, tax treaties may exempt capital gains from tax but not
+dividends.  This suggests that the capital gains scheme is not an automatic
+proxy for the PUC-deemed dividend scheme, whereby a taxpayer will always be
+liable for the same tax under one tax scheme or the other on a redemption. 
+Copthorne did not cite any sources directly on this point.  The capital gains
+issue was not addressed by either the Tax Court judge or the Federal Court of
+Appeal.  In the circumstances, Copthorne has not substantiated this argument
+sufficiently that it can be accepted in this case.                     (iv)   The “In Rem” Nature of PUC [104]                     
+Copthorne says that PUC is in rem, and as
+a result should not be “traced” back to an initial investment. It is true that
+PUC is a tax attribute of a share that does not generally change with a change
+of shareholder, and thus can be considered in some ways to be in rem. 
+Copthorne argues that the courts below only found that the preservation of PUC
+was inappropriate because it was “traced” to the same initial investment of
+funds.  It argues that the PUC should have been treated in the same way,
+regardless of how it was created. [105]                     
+The difficulty is that s. 87(3) is an example of
+where the treatment of PUC does depend on who owns the shares, because
+PUC associated with inter-corporate shareholdings is cancelled on
+vertical amalgamation.  In this circumstance, the PUC is not exclusively in
+rem.  Thus, it cannot be said that the treatment of PUC is never dependent
+on the identity of the owner of the shares.  Instead, under s. 87(3), where
+shares of an amalgamating corporation are owned by another amalgamating
+corporation, the PUC of those shares is cancelled.                     (v)   Stop-PUC Rules in the Act [106]                     
+Copthorne says that the absence of specific
+stop-PUC rules, similar to stop-loss rules, suggests that the Act  does not have
+a policy against PUC preservation.  Thus, Copthorne argues, the object, spirit
+and purpose of s. 87(3)  cannot be against the preservation of PUC.  A stop-loss
+rule is a “non-recognition rul[e] that prevent[s] the realization of a loss on
+the disposition of a particular property . . . .  The purpose . . . is to
+prevent the realization of accrued losses where the taxpayer’s economic
+interest in the property is not actually relinquished” (Duff, Canadian Income
+Tax Law, at pp. 1109-10). [107]                     
+However, the grinds set out in s. 89(1) ,
+including s. 87(3), act to cancel or limit PUC in situations where it is
+considered inappropriate for tax purposes for it to be preserved.  While s.
+87(3) is not a “stop-loss” rule, it can be viewed as a “stop-PUC” rule intended
+to stop the aggregation of PUC in vertical amalgamations and to limit the
+aggregation upon horizontal amalgamation so that PUC of an amalgamated
+corporation does not exceed the total of the tax-paid investment in the
+amalgamating corporations.                     (vi)   Expressio Unius Est Exclusio Alterius [108]                     
+Copthorne argues that Parliament has enacted a
+number of PUC provisions which are intended to prevent taxpayers from
+inappropriately increasing or preserving PUC.  It argues that the detail of the
+PUC provisions, such as s. 87(3), suggests that where the taxpayer’s actions
+are not caught by a provision, the actions cannot abuse the purpose of the
+provision.  I interpret this argument as what Professor Sullivan calls “implied
+exclusion”.  In essence the argument is that “there is reason to believe that
+if the legislature had meant to include a particular thing within its
+legislation, it would have referred to that thing expressly” (Sullivan, at p.
+244).  Section 89(1)  is a definition section.  As such, I would agree with
+Copthorne that when the definition lists a series of “grinds”, without any
+indication of the possibility of making additions to that list, that it may be
+assumed that the list is exhaustive.  Thus, if this were a case of traditional
+statutory interpretation, an argument that the series of transactions here are
+somehow contemplated by the listed grinds could fail. [109]                     
+However, that is not the nature of a GAAR
+analysis.  When the Minister invokes the GAAR, he is conceding that the words
+of the statute do not cover the series of transactions at issue.  Rather, he
+argues that although he cannot rely on the text of the statute, he may rely on
+the underlying rationale or object, spirit and purpose of the legislation to
+support his position. [110]                     
+I do not rule out the possibility that in some
+cases the underlying rationale of a provision would be no broader than the text
+itself.  Provisions that may be so construed, having regard to their context
+and purpose, may support the argument that the text is conclusive because the
+text is consistent with and fully explains its underlying rationale. [111]                     
+However, the implied exclusion argument is
+misplaced where it relies exclusively on the text of the PUC provisions without
+regard to their underlying rationale.  If such an approach were accepted, it
+would be a full response in all GAAR cases, because the actions of a taxpayer
+will always be permitted by the text of the Act .  As noted in OSFC, if
+the Court is confined to a consideration of the language of the provisions in
+question, without regard to their underlying rationale, it would seem
+inevitable that the GAAR would be rendered meaningless (para. 63).                     (vii)     Conclusion of Contextual Considerations [112]                     
+Having regard to the PUC scheme and the
+principle of non-consolidation and the other arguments made by Copthorne, the
+necessary conclusion remains that one rationale for s. 87(3) is that payments
+to shareholders from an amalgamated corporation on a share redemption should
+not be taxable as a deemed dividend, only to the extent that such payments
+reflect investments made with tax-paid funds.  The objective of this exemption
+is to recognize PUC as a return of capital to shareholders.                     (c)   The Purpose of the Provisions [113]                     
+Tax provisions are intended to “promote purposes
+related to specific activities” (Trustco, at para. 52).  This step seeks
+to ascertain what outcome Parliament intended a provision or provisions to
+achieve, amidst the myriad of purposes promoted by the Act . [114]                     
+Copthorne claims that the purpose of these
+provisions is to compute PUC based on stated capital in most cases, except
+where a specific exception exists.  It argues that s. 87(3) represents one
+exception, which is intended to ensure continuity or to “preven[t] corporate
+law increases to stated capital on horizontal amalgamations” (A.F., at para. 82
+(emphasis deleted)). [115]                     
+However, while continuity may explain part of s.
+87(3), it is not a tax rationale for the parenthetical exception for vertical
+amalgamations.  As discussed above, s. 87(3) ensures that the PUC of the shares
+of an amalgamated corporation does not exceed the PUC of the shares of the
+amalgamating corporations in a horizontal amalgamation.  For this reason, I
+would agree that continuity is one of the purposes promoted by s. 87(3). 
+However, as noted by this Court in Trustco, a provision “can serve a
+variety of independent and interlocking purposes” (para. 53).  The words of s.
+87(3), other than the parenthetical words, are directed at continuity in a
+horizontal amalgamation.  The parenthetical portion, dealing with vertical
+amalgamations, functions to cancel the PUC of the shares of an amalgamating
+subsidiary corporation.  By cancelling the PUC of shares held by a parent
+corporation, rather than simply continuing the PUC of those shares, the
+parenthetical portion reflects an additional purpose in s. 87(3).  The
+parenthetical portion seeks to preclude corporations from preserving PUC of the
+shares of a subsidiary corporation on amalgamation with the parent corporation
+as that PUC reflects investment of the same tax-paid dollars as in the parent
+corporation. [116]                     
+It has also been argued that s. 87(3) is simply
+intended to maintain consistency between corporate law and tax law, and that s.
+87(3) takes its purpose from the corporate law cancellation of shares upon a
+vertical amalgamation.  Under s. 182(2) of the CBCA , the shares held by
+one amalgamating corporation in another must be cancelled on amalgamation (s.
+182(2) of the ABCA has the same effect).  While neither explicitly
+requires the cancellation of the stated capital in those shares, it is
+generally accepted that the stated capital is cancelled along with the shares
+(see C. Cardarelli, “Transactions Involving Paid-Up Capital”, in the Canadian
+Tax Foundation’s Report of Proceedings of the Fifty-Sixth Tax Conference (2005),
+26:1, at p. 26:20).  In this way, corporate law treats horizontal
+amalgamations differently than vertical amalgamations.  Similarly, s. 87(3)
+treats horizontal amalgamations and vertical amalgamations differently.  The
+argument is that on vertical amalgamations, the purpose of s. 87(3)  is simply
+to cancel PUC because shares and therefore stated capital are cancelled.  As I
+understand the argument, cancellation of PUC on vertical amalgamations is to
+align PUC with corporate law.  Therefore, there is no tax reason to cancel PUC
+of the shares of a corporation that was a subsidiary if through a series of
+transactions it was no longer a subsidiary. [117]                     
+The difficulty with this rationale is that in
+corporate law, shares held by one amalgamating corporation in another are
+cancelled to prevent an inappropriate dilution of the shares of a corporation
+upon amalgamation (R. W. V. Dickerson, J. L. Howard and L. Getz, Proposals
+for a New Business Corporations Law for Canada, vol. I, at para. 362).  However,
+the aggregation of PUC would not dilute the share capital of a corporation, and
+thus the purpose of s. 87(3) cannot be taken directly from the purpose for the
+cancellation of shares in corporate law, because the two are not aimed at the
+same concern. Instead, the independent cancellation of the PUC under the Income
+Tax Act  attributable to shares held by an amalgamating corporation in a
+subsidiary suggests that Parliament believed that aggregating PUC upon a
+vertical amalgamation would result in an excessive preservation for a tax
+reason. [118]                     
+Copthorne submits that such a conclusion could
+only rest upon a general policy against surplus stripping.  It argues
+that no such general policy exists and therefore the object, spirit and purpose
+of s. 87(3) cannot be to prevent surplus stripping by the aggregation of PUC. 
+This argument is based upon this Court’s admonition in Trustco that
+“courts cannot search for an overriding policy of the Act  that is not based on
+a unified, textual, contextual and purposive interpretation of the specific
+provisions in issue” (para. 41).  What is not permissible is basing a finding
+of abuse on some broad statement of policy, such as anti-surplus stripping,
+which is not attached to the provisions at issue.  However, the tax purpose
+identified in these reasons is based upon an examination of the PUC sections of
+the Act , not a broadly stated policy.  The approach addresses the rationale of
+the PUC scheme specifically in relation to amalgamation and redemption and not
+a general policy unrelated to the scheme under consideration. [119]                     
+Copthorne argues that upholding the decision of
+the Tax Court would leave taxpayers under the “Damoclesian menace of the GAAR”
+(A.F., at para. 57).  It suggests that taxpayers would not be able to determine
+whether PUC which had been validly created in a downstream investment would be
+subject to cancellation if it was sold to a third party or to an unrelated
+non-resident party.  Copthorne says that this will leave taxpayers in a state
+of impermissible uncertainty. However, before the GAAR may be applied in any
+circumstance, there must be an avoidance transaction which results in a tax
+benefit.  In the absence of a specific transaction undertaken primarily to
+obtain a tax benefit, a sale of shares to a third party or to an unrelated
+non-resident party primarily for a bona fide non-tax purpose will not
+trigger the GAAR.  In such a case, PUC will continue to be a valid attribute
+which allows for a return of an amount equivalent to PUC to be paid to new
+shareholders without inclusion in their income. [120]                     
+I should emphasize that
+the purchase of shares may have a tax purpose, but that does not necessarily
+mean that the tax purpose will always be the primary reason for the
+transaction.  In the numerous share transactions taking place each year, the
+party acquiring shares of a corporation will likely be aware of the tax
+implications of the existing PUC.  However, where a transaction takes place
+primarily for a non-tax purpose, there will be no avoidance transaction.  In
+the absence of an avoidance transaction, the fact that a transaction may have a
+secondary tax benefit purpose will not trigger the GAAR.  Whether the
+transactions are between parties at arm’s length or not at arm’s length should
+be immaterial (Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R.
+536). [121]                     
+Copthorne also argues that the Act  does not
+contain a policy that parent and subsidiary corporations must always remain as
+parent and subsidiary.  I agree. There is no general principle against
+corporate reorganization.  Where corporate reorganization takes place, the GAAR
+does not apply unless there is an avoidance transaction that is found to
+constitute an abuse.  Even where corporate reorganization takes place for a tax
+reason, the GAAR may still not apply.  It is only when a reorganization is
+primarily for a tax purpose and is done in a manner found to circumvent
+a provision of the Income Tax Act  that it may be found to abuse that
+provision.  And it is only where there is a finding of abuse that the corporate
+reorganization may be caught by the GAAR.                     (d)            Conclusion on the Object, Spirit and Purpose of
+the Parenthetical Portion of Section 87(3) [122]                     
+Having regard to the text, context and purpose
+of s. 87(3), I would conclude that the object, spirit and purpose of the
+parenthetical portion of the section is to preclude preservation of PUC of the
+shares of a subsidiary corporation upon amalgamation of the parent and
+subsidiary where such preservation would permit shareholders, on a redemption
+of shares by the amalgamated corporation, to be paid amounts as a return of
+capital without liability for tax, in excess of the amounts invested in the
+amalgamating corporations with tax-paid funds. Having identified the object,
+spirit and purpose of s. 87(3), it is now necessary to determine whether the
+provision has been abused in this case.                     (4)   Was There an Abuse of the Provisions of the Act? [123]                     
+While Parliament’s intent is to seek
+consistency, predictability and fairness in tax law, in enacting the GAAR, it
+must be acknowledged that it has created an unavoidable degree of uncertainty
+for taxpayers.  This uncertainty underlines the obligation of the Minister who
+wishes to overcome the countervailing obligations of consistency and
+predictability to demonstrate clearly the abuse he alleges. [124]                     
+Copthorne agrees that s. 87(3) would have led to
+a cancellation of the PUC of the VHHC Holdings shares if it had been vertically
+amalgamated with Copthorne I.  Instead of amalgamating the two companies,
+Copthorne I sold its VHHC Holdings shares to Big City, in order to avoid the
+vertical amalgamation and cancellation of the PUC of the shares of VHHC
+Holdings.  The transaction obviously circumvented application of the
+parenthetical words of s. 87(3) upon the later amalgamation of Copthorne I and
+VHHC Holdings. [125]                     
+The question is whether this was done in a way
+that “frustrates or defeats the object, spirit or purpose” of the parenthetical
+words of s. 87(3) (Trustco, at para. 45).  In oral argument, Copthorne
+argued that leaving VHHC Holdings and Copthorne in a vertical structure would
+be “throwing away” the PUC upon amalgamation.  It argued that the purpose of s.
+87(3) cannot require shareholders to throw away valuable assets.  However, it
+must be remembered that there has been a finding of tax benefit (protecting the
+PUC of the shares of VHHC Holdings of $67,401,279 from withholding tax upon
+Copthorne III redeeming a large portion of its shares) and an avoidance
+transaction (the sale of VHHC Holdings from Copthorne I to Big City).  The GAAR
+analysis looks to determine whether the avoidance of a vertical amalgamation
+and preservation of VHHC Holdings’ PUC of $67,401,279 circumvented s. 87(3),
+achieves an outcome s. 87(3) was intended to prevent or defeats the underlying
+rationale of s. 87(3).  If such a finding is made, the taxpayer is not “throwing
+away” a valuable asset.  It is the application of the GAAR that applies to deny
+the benefit of that “asset” to the taxpayer. [126]                     
+It is true that the text of s. 87(3) recognizes
+two options, the horizontal and vertical forms of amalgamations.  It is also
+true that the text does not expressly preclude a taxpayer from selecting one or
+the other option.  However, I have concluded that the object, spirit and
+purpose of s. 87(3) is to preclude the preservation of PUC, upon amalgamation,
+where such preservation would allow a shareholder, on a redemption of shares by
+the amalgamated corporation, to be paid amounts without liability for tax in
+excess of the investment of tax-paid funds. [127]                     
+I am of the opinion that the sale by Copthorne I
+of its VHHC Holdings shares to Big City, which was undertaken to protect
+$67,401,279 of PUC from cancellation, while not contrary to the text of s.
+87(3), does frustrate and defeat its purpose.  The tax-paid investment here was
+in total $96,736,845.  To allow the aggregation of an additional $67,401,279 to
+this amount would enable payment, without liability for tax by the
+shareholders, of amounts well in excess of the investment of tax-paid funds,
+contrary to the object, spirit and purpose or the underlying rationale of s.
+87(3).  While a series of transactions that results in the “double counting” of
+PUC is not in itself evidence of abuse, this outcome may not be foreclosed in
+some circumstances.  I agree with the Tax Court’s finding that the taxpayer’s
+“double counting” of PUC was abusive in this case, where the taxpayer
+structured the transactions so as to “artificially” preserve the PUC in a way
+that frustrated the purpose of s. 87(3) governing the treatment of PUC upon
+vertical amalgamation.  The sale of VHHC Holdings shares to Big City circumvented
+the parenthetical words of s. 87(3) and in the context of the series of which
+it was a part, achieved a result the section was intended to prevent and thus
+defeated its underlying rationale.  The transaction was therefore abusive and
+the assessment based on application of the GAAR was appropriate. VI.    Conclusion [128]                     
+I would affirm the findings of the Tax Court and
+Federal Court of Appeal and dismiss the appeal with costs. APPENDIX A I.          The companies involved in this case are all
+controlled by Mr. Li Ka-Shing, and his son, Victor Li (the “Li Family”).  They
+are:             a.      Copthorne Holdings Ltd.
+(“Copthorne”).  The case involves three companies named Copthorne
+Holdings Ltd.  While each has the same name, they are not the same, nor are
+they the same as the appellant in this Court.  The first Copthorne was
+incorporated under the laws of Ontario in 1981, with one share owned by Big
+City.  The second and third companies are amalgamated successor companies that
+continued business using the name Copthorne Holdings Ltd. I refer to the three
+companies as Copthorne I, II and III.  The appellant in this case is actually
+the product of a third amalgamation that also continued under the same name.             b.      VHHC Investments Ltd. (“VHHC
+Investments”), an Ontario company incorporated in 1987, owned directly and
+indirectly by Victor Li, son of Li Ka-Shing.             c.      VHHC Holdings Ltd. (“VHHC
+Holdings”), an Ontario corporation incorporated in 1987, initially owned
+entirely by VHHC Investments.             d.      Big City Project Corporation B.V.
+(“Big City”), a Netherlands company indirectly controlled by Li Ka-Shing.             e.      Copthorne Overseas Investment
+Ltd. (“COIL”), a Barbados company incorporated and owned by Copthorne I.             f.       Asfield B.V. (“Asfield”), a
+Netherlands company indirectly owned by a trust whose primary beneficiary was
+Victor Li.             g.      L.F. Holdings Ltd. (“L.F.
+Holdings”), a Barbados company controlled by Li Ka-Shing.             h.      VHSUB Holdings Inc. (“VHSUB”),
+a Canadian company owned by VHHC Holdings.             i.       Husky Oil Ltd. (“Husky”), a
+Canadian company owned in part by the Li Family companies that carried on the
+business of oil and gas production, refining and distribution.             j.       Copthorne International
+Investment Ltd. (“CIIL”), a British Virgin Islands company incorporated in
+1994.             k.      L.F. Investments (Barbados) Ltd.
+(“L.F. Investments”), a Barbados company incorporated in 1994 by L.F.
+Holdings. Background II.         Copthorne I was first incorporated as an
+Ontario corporation in 1981. It purchased the Toronto Harbour Castle Hotel in
+1981 and sold it in 1989 for a substantial capital gain. Its only share was
+owned by another company within the Li Family group, Big City. III.       After selling the hotel, Copthorne I
+incorporated a new company, COIL. COIL carried on a bond-trading business in
+Singapore. The Creation of the VHHC Companies IV.       In 1987, VHHC Investments was incorporated in
+Ontario. Victor Li owned the Class A voting common shares, which had a PUC of
+$100.  He also held 18.75% of the Class B non-voting common shares. The rest of
+the Class B shares were owned by Asfield, which was indirectly owned by Victor
+Li. V.        In 1987, 1988 and 1991, Victor Li, Asfield and
+L.F. Holdings further invested in shares of VHHC Investments.  As a result of
+these investments the common and preference shares of VHHC Investments had a
+total PUC of $96,736,845. VI.       During this time VHHC Investments in turn used
+$67,401,279 of the invested funds to purchase common shares of VHHC Holdings. 
+As a result, the shares of VHHC Holdings had a PUC of $67,401,279. The VHHC Companies’ Losses From Husky Investments VII.      VHHC Holdings, in turn, invested in Husky
+directly and through a subsidiary, VHSUB. By the end of 1991 the Husky shares
+had lost substantial value, and as a result VHHC Holdings had suffered a
+substantial capital loss. VHHC Holdings Sold to Copthorne VIII.     In 1992, VHHC Investments sold all of its
+common shares in VHHC Holdings, which still had a PUC of $67.4 million to
+Copthorne I for 1 Class A special share of Copthorne I valued at $1,000.  This
+was done in order to shift the capital loss from the Husky investment suffered
+by VHHC Holdings to Copthorne I to shelter the capital gains from the sale of
+the hotel.  As a result of this sale Copthorne I owned the shares in VHHC
+Holdings, with the $67.4 million PUC but only a nominal fair market value. The First Series — Amalgamating Copthorne and VHHC Holdings IX.       In 1993, the Li Family decided to amalgamate
+Copthorne I, VHHC Holdings and two other corporations which it controlled. This
+was done to simplify the structure of the group of companies and to allow the
+losses from each of the predecessor corporations’ businesses to shelter the
+profits of others. X.        However, a direct vertical amalgamation of
+VHHC Holdings and its parent company, Copthorne I, would result in a
+cancellation of the $67.4 million PUC in the shares of VHHC Holdings under s.
+87(3)  of the Income Tax Act . To avoid this result, the Li Family
+decided to engage in a number of transactions to protect the PUC. XI.       In July 1993, Copthorne I sold its VHHC
+Holdings common shares to Big City, Copthorne I’s parent company, for $1,000.
+This is referred to as the “1993 Share Sale”.  This meant that any amalgamation
+between Copthorne I and VHHC Holdings was “horizontal” not “vertical”.  This
+share sale is the transaction that the Minister found was an “avoidance
+transaction”. XII.      On January 1, 1994, Copthorne I, VHHC
+Holdings, and two other corporations amalgamated to form “Copthorne II”. The
+PUC from the common shares of VHHC Holdings was added to $1 of PUC from the
+single common share of Copthorne I, resulting in a total PUC of approximately
+$67.4 million distributed evenly between the 20,001,000 common shares of
+Copthorne II. All of these shares were owned by Big City. XIII.     Both the 1993 Share Sale and the subsequent
+amalgamation are agreed to be part of a first series of transactions. The Second Series — Amalgamating VHHC Investments With Copthorne II XIV.    In 1994, legislative amendments were proposed to
+the Foreign Accrual Property Income (“FAPI”) rules of the Act  which
+stood to negatively affect COIL’s business. In response to these proposed
+changes, the Li Family decided to dispose of some of COIL’s assets. XV.      A new company, CIIL, was incorporated to
+purchase the bond-trading business from COIL.  A new Barbados company, L.F.
+Investments, was incorporated to purchase all of the shares of Copthorne II
+from Big City and VHHC Investments from L.F. Holdings. The two purchased
+companies were then amalgamated with two other companies to form “Copthorne
+III”. XVI.    Upon amalgamation, L.F. Investments received
+Class D shares of Copthorne III with a PUC that was the sum of the PUC in the
+common shares of Copthorne II (approximately $67.4 million) and the PUC in the
+common and preferred shares of VHHC Investments (approximately $96.7 million),
+for a total PUC of $164,138,025. This PUC was held in 164,138,025 Class D
+preference shares each having a PUC of $1. The Redemption XVII.   Copthorne III then redeemed 142,035,895 of its
+Class D preference shares held by L.F. Investments for $142,035,895.  As the
+redemption amount was no more than the total PUC in the shares redeemed by
+Copthorne III, it was not deemed to be a dividend. Nor did the redemption give
+rise to a capital gain. XVIII.  Thus, Copthorne did not withhold or remit any
+tax on behalf of L.F. Investments pursuant to s. 215(1)  of the Act . XIX.    The transactions beginning with the
+incorporation of CIIL and ending with the redemption are agreed to be part of
+the second series of transactions. XX.      On February 1, 2000, the Minister assessed
+Copthorne for unwithheld tax under the GAAR. He concluded that Copthorne III
+was liable for unremitted taxes because the PUC in the shares of Copthorne III
+should have been calculated to be $96 million, not $164 million.  This amounted
+to $8,748,783.40 in tax which Copthorne III had been obligated to withhold and
+remit on behalf of L.F. Investments. Given that Copthorne had not withheld any
+tax, the Minister assessed this amount against Copthorne III. APPENDIX
+B Income Tax Act, R.S.C. 1985, c. 1 (5th Supp .)                            245. (1) In this section,                   “tax
+benefit” means a reduction, avoidance or deferral of tax or other amount
+payable under this Act  or an increase in a refund of tax or other amount under
+this Act , and includes a reduction, avoidance or deferral of tax or other
+amount that would be payable under this Act  but for a tax treaty or an increase
+in a refund of tax or other amount under this Act  as a result of a tax treaty;                   “tax
+consequences” to a person means the amount of income, taxable income, or
+taxable income earned in Canada of, tax or other amount payable by or
+refundable to the person under this Act , or any other amount that is relevant
+for the purposes of computing that amount;                   “transaction”
+includes an arrangement or event.                            (2) [General anti-avoidance provision]
+Where a transaction is an avoidance transaction, the tax consequences to a
+person shall be determined as is reasonable in the circumstances in order to
+deny a tax benefit that, but for this section, would result, directly or
+indirectly, from that transaction or from a series of transactions that
+includes that transaction.                            (3) [Avoidance transaction] An avoidance
+transaction means any transaction                            (a)     that,
+but for this section, would result, directly or indirectly, in a tax benefit,
+unless the transaction may reasonably be considered to have been undertaken or
+arranged primarily for bona fide purposes other than to obtain the tax
+benefit; or                            (b)     that
+is part of a series of transactions, which series, but for this section, would
+result, directly or indirectly, in a tax benefit, unless the transaction may
+reasonably be considered to have been undertaken or arranged primarily for bona
+fide purposes other than to obtain the tax benefit.                            (4) [Application of subsection (2)]
+Subsection (2) applies to a transaction only if it may reasonably be considered
+that the transaction                            (a)     would,
+if this Act  were read without reference to this section, result directly or
+indirectly in a misuse of the provisions of any one or more of                                     (i)         this
+Act ,                                     (ii)        the
+Income Tax Regulations,                                     (iii)       the
+Income Tax Application Rules ,                                     (iv)       a
+tax treaty, or                                     (v)        any
+other enactment that is relevant in computing tax or any other amount payable
+by or refundable to a person under this Act  or in determining any amount that
+is relevant for the purposes of that computation; or                            (b)     would
+result directly or indirectly in an abuse having regard to those provisions,
+other than this section, read as a whole.                            (5) [Determination of tax consequences]
+Without restricting the generality of subsection (2), and notwithstanding any
+other enactment,                            (a)     any
+deduction, exemption or exclusion in computing income, taxable income, taxable
+income earned in Canada or tax payable or any part thereof may be allowed or
+disallowed in whole or in part,                            (b)     any
+such deduction, exemption or exclusion, any income, loss or other amount or
+part thereof may be allocated to any person,                            (c)     the
+nature of any payment or other amount may be recharacterized, and                            (d)     the
+tax effects that would otherwise result from the application of other
+provisions of this Act  may be ignored, in
+determining the tax consequences to a person as is reasonable in the
+circumstances in order to deny a tax benefit that would, but for this section,
+result, directly or indirectly, from an avoidance transaction. . . .                             248. . . .                            (10)
+[Series of transactions] For the purposes of this Act , where there is a
+reference to a series of transactions or events, the series shall be deemed to
+include any related transactions or events completed in contemplation of the
+series.                     Appeal dismissed with costs.                     Solicitors for the
+appellant:  Stikeman Elliott, Montréal.                     Solicitor
+for the respondent:  Attorney General of Canada, Ottawa.  

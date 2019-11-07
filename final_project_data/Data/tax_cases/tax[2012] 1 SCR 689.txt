@@ -1,0 +1,692 @@
+  SUPREME
+COURT OF CANADA  Citation:
+  Calgary (City) v. Canada, 2012 SCC 20, [2012] 1 S.C.R. 689 Date:
+  20120426 Docket:
+  33804  Between: City
+of Calgary Appellant and Her
+Majesty The Queen Respondent    Coram: McLachlin C.J. and LeBel, Deschamps, Rothstein, Cromwell,
+Moldaver and Karakatsanis JJ.  Reasons for
+  Judgment: (paras. 1 to 67): Rothstein J. (McLachlin C.J. and LeBel, Deschamps,
+  Cromwell, Moldaver and Karakatsanis JJ. concurring)     Calgary
+(City) v. Canada, 2012 SCC 20, [2012] 1 S.C.R. 689 City of
+Calgary                                                                                               Appellant v. Her Majesty
+The Queen                                                                              Respondent Indexed as:  Calgary (City)
+v. Canada 2012 SCC 20 File No.:  33804. 2011:  November 15; 2012:  April 26. Present:  McLachlin C.J. and LeBel, Deschamps, Rothstein,
+Cromwell, Moldaver and Karakatsanis JJ. on appeal from the federal court of appeal                     Held:  The appeal
+should be dismissed.                     The
+question in this appeal is whether the acquisition and construction of the
+transit facilities constituted an exempt supply only, or whether it also, or
+instead, constituted a taxable supply.  The City asserts it made two supplies:  (1) operating
+the transit facilities on the one hand (“public transit services”), and
+(2) constructing, acquiring, and making transit facilities available to
+Calgary citizens (“transit facilities services”), on the other.  The City
+claims that its “transit facilities services” are a separate, taxable supply,
+the recipient of which is the Province, thus entitling it to input tax credits.                     Guidance
+on the question of whether there were one or two supplies in this case may be
+drawn from the way in which courts have dealt with whether a supplier has made
+a single supply comprised of a number of constituent elements, or multiple
+supplies of separate goods and/or services.  The test to determine whether a
+particular set of facts reveals single or multiple supplies for the purposes of
+the ETA   is whether, in substance and reality, the alleged separate
+supply is an integral part, integrant or component of the overall supply.  One
+should look at the degree to which the services alleged to constitute a single
+supply are interconnected, the extent of their interdependence and intertwining,
+whether each is an integral part or component of a composite whole.  The
+question of whether two elements constitute a single supply or two or multiple
+supplies requires an analysis of the true nature of the transactions and it is
+a question of fact determined with a generous application of common sense.  Work
+preparatory to, or in order to make a supply, does not become a separate
+service subject to GST.                     Here,
+the true nature of the City’s “transit facilities services” was work of a
+preparatory nature to the supply of a municipal transit service to the public. 
+Transit facilities were constructed, acquired, and made available in order to
+supply a municipal transit service to the Calgary public.  This would point to
+the “transit facilities services” being in fact a component of the overall
+supply of “public transit services” to the Calgary public.  The leading
+separate supply cases do not contemplate a situation, such as in this case, in
+which there are allegedly two recipients of the supply or supplies.  To
+determine whether the Province received any service or benefit from the City,
+the nature of the respective obligations of the City and Province under the funding
+agreements, having regard to the statutory context, must be analyzed.  Here, nothing
+in the CTA provides for the supply, by the City, of any goods, services,
+or other benefit to the Province.  Further, the City’s compliance with the
+accountability measures under the funding agreements with the Province did not
+amount to the provision of any goods, services, or benefit to the Province.                     Accordingly,
+the City made only one supply: the exempt supply of a municipal transit system. 
+The City’s activities of acquiring, constructing, and making public transit
+facilities available for the Calgary public, did not fall within its
+“commercial activit[ies]”, under s. 123(1)  of the ETA .  The City is not
+entitled to claim ITCs for GST paid for the acquisition and construction of the
+transit facilities. The ETA demonstrates that Parliament intended for
+public service bodies to receive rebates at specified rates for the GST that
+they pay in the course of making exempt supplies. Cases Cited                     Approved: 
+O.A. Brown Ltd. v. Canada, [1995] G.S.T.C. 40; Maritime Life
+Assurance Co. v. R., [2000] G.S.T.C. 89; explained:  Commission
+scolaire Des Chênes v. Ministre du Revenu national, 2001 FCA 264, 286 N.R.
+264; referred to:  Reference re Goods and Services Tax, [1992] 2
+S.C.R. 445; Hidden Valley Golf Resort Assn. v. R., [2000] G.S.T.C. 42; Gin
+Max Enterprises Inc. v. R., 2007 TCC 223, [2007] G.S.T.C. 56; Corp. des
+Loisirs de Neufchâtel v. R., 2006 TCC 339, [2008] G.S.T.C. 153. Statutes and Regulations Cited Public Service Body Rebate (GST/HST) Regulations, SOR/91-37, s. 5(e).                     APPEAL
+from a judgment of the Federal Court of Appeal (Blais C.J. and Sharlow and
+Pelletier JJ.A.), 2010 FCA 127, 403 N.R. 41, 74 M.P.L.R. (4th) 93, [2010]
+G.S.T.C. 78, 2010 G.T.C. 1043, [2010] F.C.J. No. 700 (QL), 2010
+CarswellNat 1410, setting aside a decision of Rossiter A.C.J., 2009 TCC 272,
+[2009] G.S.T.C. 85, 2009 G.T.C. 969, [2009] T.C.J. No. 195 (QL), 2009
+CarswellNat 1309. Appeal dismissed.                     Ken S. Skingle, Q.C., and D.
+Blair Nixon, Q.C., for the appellant.                     Gordon Bourgard and Michael Lema, for the respondent.                     The judgment
+of the Court was delivered by                     Rothstein J. — I.     Introduction [2]                             
+The City paid Goods and Services Tax (“GST”) in
+respect of its purchases for the acquisition and construction of the transit
+facilities.  The provision of a “municipal transit service” is an exempt supply
+under the terms of the Excise Tax Act, R.S.C. 1985, c. E-15  (“ETA ”). 
+Input tax credits (“ITCs”) cannot be claimed with respect to purchases made for
+the purpose of providing an exempt supply.  However, the City took the position
+that the construction of the transit facilities (in contrast to their
+operation) was a separate, non-exempt supply to the Province, pursuant to its
+contractual obligations to the Province under the funding agreements, for which
+the Province paid consideration. It therefore claimed ITCs in respect of the
+purchases made for the construction of the transit facilities.  The Minister of
+National Revenue rejected the City’s position.  The Tax Court of Canada agreed
+with the City, allowing the appeal and remitting the matter to the Minister for
+reassessment.  The Federal Court of Appeal allowed the Minister’s appeal. [3]                             
+I would dismiss this appeal.  The City made only
+one supply: the exempt supply of a municipal transit system to the public. 
+Fulfilling the accountability obligations under the funding agreements with the
+Province did not result in a separate supply to the Province.  The acquisition
+and construction of transit facilities was an input to the single supply of the
+municipal transit service to the Calgary public.  In accordance with the ETA ,
+the City had applied for and received rebates of a portion of the GST that it
+had paid on the facilities for the municipal transit service supply.  The City
+was not entitled to claim ITCs in respect of the GST paid on the facilities for
+the municipal transit service.  Therefore, it cannot recover the portion of GST
+paid that exceeds the rebates that it had received. II.    Facts [4]                             
+As the Tax Court judge set out the facts
+thoroughly and accurately, in accordance with the evidence, the summary that
+follows parallels his findings closely.  The City is a body corporate existing
+under the Municipal Government Act, R.S.A. 2000, c. M-26 (“MGA”),
+and is a city for the purposes of the MGA. The MGA imposes both
+its own duties and the duties of other enactments, including the CTA, on
+the City.  Under the CTA, the City is required to prepare a
+comprehensive transportation study report for the development of a public
+transportation system, and then, by bylaw, to establish such a system. [5]                             
+“[T]ransportation system” is defined in s. 1(i)
+of the CTA to mean a system of transportation facilities, including
+streets, highways, rapid transit, and all types of transportation facilities to
+which the CTA applies, on, above and below the ground.  The expression
+“transportation facility” is defined in s. 1(g) of the CTA to mean
+everything necessary for the efficient transportation of persons or goods in a
+particular manner.  A “municipal transit service”, as defined in the ETA ,
+is a public passenger transportation service supplied by a transit authority. 
+The CTA definition of “transportation system” is broader than the ETA 
+definition of “municipal transit service”, since the former includes
+roadways, which are not at issue in this case.  In these reasons, I will refer
+to the Calgary public passenger transportation service as a “municipal transit
+service”. [6]                             
+Under the CTA, each city,
+including the City of Calgary, is responsible for the costs of establishing and
+maintaining all transportation facilities subject to its direction, control,
+and management.  However, by complying with the CTA, a city may qualify
+for financial assistance from the Province.  The City entered into funding
+agreements with the Province, which provided for the funding of eligible
+transportation projects.  Under the agreements, funding could only be used to
+pay for expenditures relating to the construction or acquisition of transit
+facilities that had been specifically approved by the Province.  Projects
+approved under the agreements included, among other things, the extension of
+the Light Rail Transportation System (“LRT”), the acquisition of buses, LRT
+vehicles, and LRT communication systems.  The CTA provides that in the
+absence of any agreement or statute to the contrary, title to all
+transportation facilities forming the transportation system vests in the City. 
+In this case, there is no agreement or statute to the contrary. [7]                             
+The funding agreements between the City and
+Province covered both roadway construction and public transit facilities.  This
+appeal only deals with the transit facilities, since no issue of exempt supply
+arises in connection with roadway construction.  The City and Province entered
+into four agreements: the Basic Capital Grant Agreement (“BCG agreement”); the
+Transit Capital Grant Agreement (“TCG agreement”); the City Transportation Fund
+Agreement (“CTF agreement”); and the Primary Highway Connectors Grant
+Agreement.  The fourth of these concerned highway construction only.  The other
+three agreements (together, “Agreements”) are all relevant to this appeal. [8]                             
+Prior to March 2000, the Province provided
+funding to the City under the BCG and TCG agreements.  These two agreements
+provided for the funding of eligible transportation projects, subject to
+provincial budgetary restrictions.  The BCG and TCG agreements established an application
+process by which it would be determined whether the City’s proposed projects
+met grant eligibility criteria.  The City applied for funding following this
+process, providing the Province with detailed financial and technical
+information concerning the transit projects.  Once approved, the City accepted
+funding from the Province under the BCG and TCG agreements, subject to certain
+additional terms and conditions, including: an obligation to maintain separate
+accounting for the funds; obligations relating to the investment of the funds;
+an obligation to comply with timeframes for and restrictions on fund usage; an
+obligation to submit to audits and investigations by the Province; and when
+carrying out work, an obligation to comply with prevailing legislative and
+industry standards, and with the standards set down in the CTA.  The
+City carried out all of its obligations pursuant to the BCG and TCG agreements
+with the Province. [9]                             
+The City and Province entered into the third of
+the Agreements, the CTF agreement, in March 2000.  Funding under this agreement
+was subject to terms and conditions similar to those in the BCG and TCG
+agreements.  However, unlike those agreements, funding under the CTF agreement
+was not subject to provincial annual budget availability, but was based on a
+$0.05 per litre tax on the delivery of gasoline and diesel products within the
+City of Calgary over a specified period of time.  The CTF agreement also
+expanded the scope of eligible transit projects to include noise barriers, landscaping,
+upgrades to security and scheduling and communications systems for the LRT. 
+The CTF agreement differed from the BCG and TCG agreements in several
+additional respects that are not relevant to this appeal.  The City complied
+with the terms of the CTF agreement and fulfilled its obligations to the
+Province. [10]                         
+In the course of completing the transit
+facilities under the three Agreements, the City incurred expenditures.  The
+expenditures related to the acquisition and construction of the transportation
+facilities, and included the cost of extensions to the LRT system, the
+refurbishment of equipment, LRT vehicle rebuilds, and the acquisition of
+communication systems, signalling systems, buses, shuttle buses, and LRT
+vehicles.  The City owned all of the facilities that it upgraded or acquired in
+the course of completing the transit projects. [11]                         
+The City paid GST in respect of the expenditures
+that it incurred to construct and acquire the transit facilities.  Prior to
+2003, it claimed public service body rebates under s. 259  of the ETA ,
+which resulted in the return by rebate of 57.14% of the GST paid by the City. 
+In January 2003, the City filed a GST return for the period ending December 31,
+2002, in which it claimed ITCs in the amount of $6,351,967, which was the
+difference between the GST paid for the transit facilities and the rebates that
+the City had previously received.  The Minister reassessed, denying the City’s
+claim for ITCs.  The City objected to the re-assessment and eventually appealed
+to the Tax Court of Canada. III.  Judicial History A.    Tax Court of Canada (Rossiter A.C.J.), 2009 TCC 272, [2009]
+G.S.T.C. 85 [12]                         
+At the Tax Court of Canada, Rossiter A.C.J.
+found that all three requirements to claim an ITC were fulfilled: (1) the City
+was a registered claimant; (2) the City had paid GST in acquiring goods and
+services; and (3) the City had acquired goods and services in the course of
+“commercial activit[ies]”, as defined in the ETA .  Of the three
+requirements, only the third was disputed at trial. [13]                         
+Rossiter A.C.J. found the definition of
+“commercial activity” in the ETA  to be broad enough to include the
+City’s performance of its obligations to the Province under the Agreements. 
+The definition excludes the making of an exempt supply.  He considered
+whether the construction of the transit facilities was an exempt supply, which
+would turn on the question of who was the recipient of the supply: the
+Province, or the public.  If the Province was the recipient, the supply of the
+transit facilities would not be an exempt supply, and the City would be
+eligible for ITCs in respect of its GST expenditures. [14]                         
+Rossiter A.C.J. determined that under the terms
+of the Agreements, funding was a legal obligation of the Province, directly
+linked to the City’s obligation to supply the Province with the transit
+facilities.  He held that the Province had received from the City the service
+of making available for its citizens the transit  facilities, in accordance
+with the terms of the Agreements. B.    Federal Court of Appeal (Blais C.J. and Sharlow and
+Pelletier JJ.A.), 2010 FCA 127, 403 N.R. 41 [15]                         
+Pelletier J.A., for the court, concluded that
+the Tax Court judge erred in his conclusion that the Agreements required the
+City to supply a municipal transit system to the Province for the use of the
+Calgary public.  He found that the City had a statutory obligation to establish
+and maintain the public transportation system described in its comprehensive
+transportation study and adopted in its bylaw, as approved by the Province. The
+Province, by contrast, had statutory authority, but no obligation, to provide
+the City with financial assistance.  The Agreements did not require the City to
+provide the Province with a transportation system, but merely provided a
+mechanism by which the financial assistance would be administered, and
+accountability for public funds would be maintained.  The Minister’s appeal was
+allowed. IV.  Analysis [16]                         
+The basic structure of the GST regime was well
+explained in Reference re Goods and Services Tax, [1992] 2 S.C.R.
+445.  The GST is designed to be a tax on consumption, and as such, the ETA 
+contemplates three classes of goods and services: (1) taxable supplies; (2)
+exempt supplies; and (3) zero-rated supplies.  Taxable supplies currently
+attract a goods and services tax of 5% (7% at the relevant time) each time they
+are sold.  To the extent that the purchaser of a taxable supply uses that good
+or service in the production of other taxable supplies, that is, in the course
+of commercial activities, the purchaser is entitled to an ITC and can recover
+the tax it has paid from the government.  This is to prevent the cascading of
+GST, and to allow the obligation to pay GST to flow through to the ultimate
+consumer.  The other two classes of goods and services, exempt supplies and
+zero-rated supplies, do not attract GST from the ultimate consumer.  Vendors of
+exempt supplies, while paying the GST on their purchases, are not entitled to
+ITCs.  In consequence, GST is paid to the federal government at the penultimate
+stage in the production chain rather than by the ultimate consumer. [17]                         
+Provincial governments are not liable to pay GST
+on their purchases.  However, a number of subordinate entities created by the
+provincial governments, including municipalities, are liable to pay GST.  These
+entities are entitled to claim ITCs to the extent that their purchases are used
+in making taxable supplies, and are eligible for public service body rebates of
+the GST paid on other purchases.  The rebate rate for municipalities applicable
+at the relevant time was 57.14%: Public Service Body Rebate (GST/HST)
+Regulations, SOR/91-37, s. 5(e). (Subsequent to 2004, the
+municipal public service body rebate was increased to 100%: S.C. 2004, c. 22,
+s. 39(1) , amending s. 259(1)  of the ETA .)  In the instant case, the City
+was eligible for and had collected public service body rebates for the GST paid
+in the course of constructing the transit facilities, pursuant to s. 259  of the
+ETA . [18]                         
+The requirements for claiming an ITC are set out
+in s. 169(1)  of the ETA , the portion relevant to this case being:                             169. (1)  Subject
+to this Part, where a person acquires or imports property or a service or
+brings it into a participating province and, during a reporting period of
+the person during which the person is a registrant, tax in respect of the
+supply, importation or bringing in becomes payable by the person or is paid by
+the person without having become payable, the amount determined by the
+following formula is an input tax credit of the person in respect of the
+property or service for the period: A × B                     where                     A     is
+the tax in respect of the supply, importation or bringing in, as the case may
+be, that becomes payable by the person during the reporting period or that is
+paid by the person during the period without having become payable; and                     B     is . . .                            (c)     in any other case, the
+extent (expressed as a percentage) to which the person acquired or imported the
+property or service or brought it into the participating province, as the case
+may be, for consumption, use or supply in the course of commercial activities
+of the person. [19]                         
+For the purposes of this appeal, the
+requirements to claim an ITC are (1) the claimant is registered; (2) the
+claimant has acquired the goods or services for consumption, use or supply in
+the course of commercial activities; and (3) the claimant has paid, or is
+legally required to pay GST (or HST, in provinces with harmonized provincial
+and federal sales tax) in acquiring the goods or services.  It is not disputed
+that the City is registered and has paid GST (in Alberta, there is no
+provincial sales tax) in respect of its acquisition of goods and services.  The
+only issue is whether the City acquired the goods and services, for which it
+paid GST, for “consumption, use or supply” in the course of its commercial activities. [20]                         
+“[C]ommercial activity” is defined for the
+purposes of the ETA  in s. 123(1)  as                     (a)   a
+business carried on . . . except to the extent to which the business involves
+the making of exempt supplies . . . . [21]                         
+“Exempt supply” is defined in s. 123(1)  to mean                     a
+supply included in Schedule V [to the ETA ]. [22]                         
+The supply of a municipal transit service to a
+member of the public is enumerated in Sched. V, Part VI, s. 24 of the ETA :                             1.      In this Part, . . .                     “municipal
+transit service” means a public passenger transportation service (other than a
+charter service or a service that is part of a tour) that is supplied by a
+transit authority all or substantially all of whose supplies are of public
+passenger transportation services provided within a particular municipality and
+its environs; . . .                            24.    A
+supply made to a member of the public of a municipal transit service or of a
+public passenger transportation service designated by the Minister to be a
+municipal transit service. [23]                         
+A registrant may claim an ITC to the extent that
+GST has been paid for property used, consumed or supplied in the course of the
+registrant’s commercial activities which, by definition, exclude the making of
+exempt supplies.  Thus, to establish entitlement to ITCs in respect of the GST
+paid on transit facilities, the City must show that in acquiring, constructing
+and making available transit facilities, it carried on a business of making a
+separate, taxable supply, rather than, or in addition to, an exempt supply of a
+municipal transit service. [24]                         
+“[B]usiness”, as defined in s. 123(1)  of the ETA ,
+includes                     a
+profession, calling, trade, manufacture or undertaking of any kind whatever,
+whether the activity or undertaking is engaged in for profit, and any activity
+engaged in on a regular or continuous basis that involves the supply of
+property by way of lease, licence or similar arrangement, but does not include
+an office or employment; [25]                         
+The Tax Court judge concluded that the
+activities of the City under the Agreements of acquiring, constructing, and
+making public transit facilities available for the citizens of Calgary,
+constituted a “business”, as that term is broadly defined in s. 123(1) , because
+those activities involved an “undertaking of any kind whatever”.  I would agree
+with the Tax Court judge.  I see no reason why the words “undertaking of any
+kind whatever” would exclude the construction of a public transit facility. 
+Therefore, the City’s activity of constructing the transit facilities would fall
+within the definition of “commercial activity”, except to the extent to which
+that activity involved the making of exempt supplies. [26]                         
+The question in this appeal is whether the
+acquisition and construction of the transit facilities constituted an exempt
+supply only, or whether it also, or instead, constituted a taxable supply.  The
+City asserts that it made two supplies.  The first, which it has called “public
+transit services”, it provides in operating its transit facilities.  This, it
+acknowledges, meets the definition of a “municipal transit service”, an exempt
+supply under the ETA . The recipient of this supply, according to
+the City, is the Calgary public.  The second supply, which the City has called
+“transit facilities services”, it argues it has provided in “acquiring,
+constructing and making available the transit facilities to the citizens of
+Calgary”.  The City claims that its “transit facilities services” are a
+separate, taxable supply, the recipient of which is the Province. [27]                         
+Under s. 123(1) of the ETA , “supply”
+means                     the
+provision of property or a service in any manner, including sale, transfer,
+barter, exchange, licence, rental, lease, gift or disposition; [28]                         
+The term “service” is defined in s. 123(1)  of
+the ETA  to mean                     anything other than                            (a)     property,                            (b)     money . . . . [29]                         
+The Tax Court judge was satisfied that under
+these expansive definitions, the City had made a supply.  His analysis centred
+on whether the supply was made to the public or to the Province.  This was
+because he was of the view that whether the acquisition and construction of the
+transit facilities was an exempt supply turned on the question of who was the
+recipient of the supply: the Province, or the public.  However, the recipient
+of the supply may not be dispositive of the exempt supply issue.  Having determined
+the recipient of a supply, it still must be determined whether the supply is
+taxable or exempt, with reference to the applicable ETA  definitions. 
+Further, the learned judge did not address whether the City made one supply
+only, or two supplies.  The issue in this appeal is what supply or supplies
+were made by the City, and whether the supply or supplies were taxable or
+exempt. A.    Supplies Made [30]                         
+The distinction that the City draws is between
+(1) operating the transit facilities on the one hand, and (2) constructing,
+acquiring, and making them available, on the other.  The City argues that the
+Province is the only recipient of the second supply, and the Calgary public is
+not a recipient.  If the City is right, then its second supply would fall
+outside Sched. V, Part VI, s. 24 of the ETA , would be a taxable supply,
+and the City would be entitled to ITCs.  If the City is wrong and there is only
+one supply of a municipal transit service to the public, then the supply is
+exempt and ITCs are not available. [31]                         
+While not precisely on point, guidance on the
+question of whether there were one or two supplies in this case may be drawn
+from the way in which courts have dealt with whether a supplier has made a
+single supply comprised of a number of constituent elements, or multiple
+supplies of separate goods and/or services. [32]                         
+In determining whether a supplier has made a
+single supply or multiple supplies, the relevant principles were summarized by
+Justice Rip (as he then was) in O.A. Brown Ltd. v. Canada, [1995]
+G.S.T.C. 40 (T.C.C.).  His approach was confirmed by the Federal Court of
+Appeal in Hidden Valley Golf Resort Assn. v. R., [2000] G.S.T.C. 42. [33]                         
+In O.A. Brown, the appellant O.A.
+Brown Ltd. (“OAB”) bought livestock for customers, but on its own account and
+at its own risk, not as agent for its customers.  Customers would contact OAB’s
+salesman to place an order specifying the type of cattle they required.  OAB
+charged its customers disbursements, such as the cost of branding and
+inoculations, and a clearing commission, in addition to the cost of livestock. 
+Livestock is a zero-rated supply for GST purposes, which means that the vendor
+neither pays GST on his acquisition of the livestock, nor collects it from his
+customers.  The Minister assessed GST on the commission and the other
+disbursements.  The main issue in the appeal was whether OAB supplied a service
+of acquiring livestock according to its customers’ specifications, or whether
+it was supplying livestock and other supplies, in which case it should have
+collected and remitted GST on the other supplies. [34]                         
+Justice Rip found that the Value Added Tax
+statute in the United Kingdom contained many provisions similar to our GST (Value
+Added Tax Act (UK), 1983, c. 55).  In the English cases the issue had been
+defined as whether the supply in question comprises a compound supply or a
+multiple supply. A compound supply is a single supply with a number of
+constituent elements which, if supplied separately, some would have been taxed
+and some not.  Multiple supplies are made and taxed separately. [35]                         
+O.A. Brown
+established the following test to determine whether a particular set of facts
+revealed single or multiple supplies for the purposes of the ETA :                     The
+test to be distilled from the English authorities is whether, in substance and
+reality, the alleged separate supply is an integral part, integrant or
+component of the overall supply. One must examine the true nature of the
+transaction to determine the tax consequences. [p. 40-6] [36]                         
+When reaching his decision, Justice Rip made the
+following observation:                     . . . one should look at the degree to which the
+services alleged to constitute a single supply are interconnected, the extent
+of their interdependence and intertwining, whether each is an integral part or
+component of a composite whole. [p. 40-6]                     (Citing
+Mercantile Contracts Ltd. v. Customs & Excise Commissioners, File
+No. LON/88/786, U.K. (unreported).) [37]                         
+Justice Rip also noted the importance of common
+sense when the determination is made.  McArthur T.C.J. made a similar
+observation in Gin Max Enterprises Inc. v. R., 2007 TCC 223, [2007]
+G.S.T.C. 56, at para. 18:                             From
+a review of the case law, the question of whether two elements constitute a
+single supply or two or multiple supplies requires an analysis of the true
+nature of the transactions and it is a question of fact determined with a
+generous application of common sense. [38]                         
+Applying the test, Justice Rip found that the
+disbursements and commission were not charged for services that were “distinct
+supplies, independent of the whole activity” (p. 40-8).  Only if taken together
+did the activities of buying, branding, inoculation, and other disbursements
+form a useful service.  He concluded:                     In
+substance and reality, the alleged separate supply, that of a buying service,
+is an integral part of the overall supply, being the supply of livestock. The
+alleged separate supplies cannot be realistically omitted from the overall
+supply and in fact are the essence of the overall supply. The alleged separate
+supplies are interconnected with the supply of livestock to such a degree that
+the extent of their interdependence is an integral part of the composite whole.
+. . . The appellant is making a single supply of livestock and the commission
+and disbursements charged are part and parcel of the consideration for that
+supply. They do not amount to separate supplies. [pp. 40-8 to 40-9] [39]                         
+In O.A. Brown, Rip J. characterized the
+commission, inoculation, branding and transportation costs not as distinct
+services but as inputs for the cattle and part of the cost of supplying the
+cattle.  If this approach is followed, the public transit facilities would not
+be a separate supply, but would be an input to, or part and parcel of, the
+supply of the municipal transit service to the Calgary public. [40]                         
+Maritime Life Assurance Co. v. R., [2000] G.S.T.C. 89 (F.C.A.), also supports the proposition that
+work preparatory to, or in order to make a supply, does not become a separate
+service subject to GST.  In Maritime Life, the taxpayer, Maritime Life
+Assurance Co., issued insurance policies of various kinds, including a number
+of deferred annuity contracts.  The holder of such a policy would pay periodic
+premiums to Maritime Life as consideration for the right to receive, on a
+specified future date, a payment of money or an annuity of equivalent value. [41]                         
+The Tax Court judge found two kinds of services
+were being provided to Maritime Life’s policy holders, the insurance services
+represented by the issuance and administration of the policies, and the
+services represented by its management of the segregated funds.  The Federal
+Court of Appeal held that the only supply Maritime Life made to the policy
+holders was the provision of the policies. Maritime Life administered the
+policies and maintained the investments that backed its obligations under the
+policies, but that was the work it had to do to ensure that it remained in
+position to fulfil its policy obligations.  The Federal Court of Appeal
+reasoned that the work should not be treated as a service that Maritime Life
+provided to the policy holders, any more than the work undertaken by a cleaning
+service to keep its cleaning equipment in good repair is a service provided to
+its clients.  Applying the same reasoning in the present case, the acquisition
+and construction of the transit facilities, work undertaken by the City to
+develop a municipal transit service that meets the needs of the Calgary public,
+would not be treated as a supply that is separate from the supply of the
+municipal transit service itself. [42]                         
+Applying the O.A. Brown test, the
+question in this appeal is whether, in substance and reality, the alleged
+separate “transit facilities services” supply is an integral part, integrant or
+component of the overall supply of “public transit services”.  According to the
+jurisprudence, if one supply is work of a preparatory nature to another supply
+(an “input” to that supply), then the input is a part or component of the
+single overall supply. [43]                         
+In my opinion, the true nature of the City’s
+“transit facilities services”, a determination to be made with common sense,
+was work of a preparatory nature to the supply of a municipal transit service
+to the public.  Transit facilities were constructed, acquired, and made
+available in order to supply a municipal transit service to the Calgary
+public.  This would point to the allegedly separate “transit facilities
+services” being in fact a component of the overall supply of “public transit
+services” to the Calgary public. [44]                         
+Further, the single supply/multiple supplies
+analysis, as it has emerged, presupposes that several distinct elements or
+components of a supply can be identified before the analysis can be performed. 
+In the present case, the alleged separate supplies are so interconnected that
+it would be difficult to identify distinct elements or components. [45]                         
+The purchase of an LRT vehicle (part of the
+alleged “transit facilities services” provided to the Province), and the
+operation of that vehicle as part of a municipal transit service (part of the
+“public transit services” provided to the Calgary public), are distinct
+activities.  However, these activities are better seen as steps taken in order
+to produce a municipal transit service than they are seen as distinct elements
+or components of that transit service.  The City’s acquisition and construction
+of the transit facilities served the purpose of enabling the City to provide a
+transit service to the public.  The end result of those activities was that a
+municipal transit service, featuring several expansions and improvements, could
+be operated.  Nothing else was produced as a result of the activities.  In this
+regard, this case is analogous to O.A. Brown, in which all disbursements
+and services for which customers were charged ultimately enabled OAB to deliver
+livestock as ordered by its customers.  Further, the transit facilities
+have no use and provide no service except to the extent to which they are
+deployed for use within the Calgary municipal transit service.  The
+interdependence and interconnectedness of the “transit facilities services” and
+the “public transit services” is obvious. [46]                         
+The application of the test for a separate
+supply would indicate that there is only one supply in the circumstances. 
+However, in the leading separate supply cases, the allegedly separate supplies
+are provided to single recipients.  The cases do not contemplate a situation in
+which there are allegedly two recipients of the supply or supplies.  In
+addition to the O.A. Brown test, there are other relevant factors to
+consider.  Here, it has been argued that the “transit facilities services”,
+which ultimately benefit the Calgary public, provide a separate and distinct
+benefit to the Province.  To determine whether the Province received any
+service or benefit from the City, the nature of the respective obligations of
+the City and Province under the Agreements, having regard to the statutory
+context, must be analyzed. B.    The Statutory Context [47]                         
+If the Province has a statutory obligation to
+provide municipal transit services for the public in its cities, then the
+City’s work in establishing the municipal transit service, including the
+acquisition and construction of the transit facilities, would provide the
+benefit to the Province of enabling it to fulfill its statutory obligation.  If
+there is no such obligation, it would point away from a service to the
+Province. [48]                         
+As noted earlier, the City is subject to the CTA. 
+Under the CTA, the City has several obligations.  It must prepare a
+comprehensive transportation study report for the development of an integrated
+transportation system under s. 3.  Section 4(1) obliges the City to establish
+the transportation system described in its report, by bylaw.  Under s. 4(6),
+the bylaw must be submitted for approval by the Lieutenant Governor in Council,
+and if approved, the bylaw must be enforced as approved. [49]                         
+With respect to the cost of establishing and
+maintaining its transportation system, s. 2 makes the City responsible for the
+cost, but provides that it may qualify for financial assistance from the
+Province.  Section 6(1) provides that, when the City determines that a
+particular transit facility, included in the transportation system, is to be
+constructed, it must submit a proposal to the Minister.  This provision makes
+provincial approval necessary for the construction or acquisition of any
+transit facilities.  Further, under s. 6(2), provincial approval of a transit
+facility is a precondition to entry into a funding agreement, between the City
+and Province, with respect to a transit facility.  Section 6(2) of the CTA
+vests in the Province the discretion to share in the cost of the construction
+of those transportation facilities which it has approved pursuant to s. 6(1). [50]                         
+The relevant provisions of the CTA are:                     2         Each city
+is responsible for the costs of establishing and maintaining all transportation
+facilities subject to its direction, control and management but may qualify for
+financial assistance from the Government by complying with this Act.                     3         The city
+shall prepare a comprehensive transportation study report for the development
+of an integrated transportation system designed to service the needs of the
+entire city.                     4(1)    The city
+council shall by bylaw establish a transportation system in accordance with the
+transportation study report and the bylaw shall designate the transportation
+system. . . .                     (6)      The city
+council shall submit the bylaw to the Minister for approval by the Lieutenant
+Governor in Council and the Lieutenant Governor in Council may vary or approve
+the bylaw in whole or in part and if the bylaw is varied or approved in part
+only, it shall be enforced and take effect as approved. . . .                     6(1)    When a city
+considers that a transportation facility included in the transportation system
+should be constructed it shall submit the proposal to the Minister.                     (2)      If the
+proposal is approved by the Minister, the Minister may enter into an agreement
+with the city with respect to the sharing of costs of establishing the
+transportation facility. . . .                     7         The title to all transportation facilities forming the
+transportation system is, subject to any Act or agreement to the contrary,
+vested in the city. [51]                         
+Since the CTA imposes no obligations on
+the Province with respect to the establishment or operation of municipal
+transit services, the statutory context does not support the contention that
+the City provided the benefit or service to the Province of fulfilling a
+statutory obligation on its behalf. [52]                         
+If any provision of the legislation provided for
+a transfer, from the City to the Province, of title to the transportation
+facilities, it would support the argument that the City made a supply to the
+Province.  However, there is no statutory provision to such effect.  Under s. 7
+of the CTA, title to all facilities constructed vested in the City. [53]                         
+Nothing in the CTA provides for the
+supply, by the City, of any goods, services, or other benefit to the Province. C.    The Agreements [54]                         
+The next question is whether the City supplied a
+service or benefit to the Province by complying with the terms of the
+Agreements.  The Tax Court judge concluded that the Agreements required the
+City to supply to the Province a municipal transit service for the use of the
+Calgary public.  However, the Court of Appeal held that the Tax Court judge had
+erred in this interpretation.  Pelletier J.A. found that the Agreements were
+simply the mechanism by which the financial assistance given by the Province to
+the City was administered, and by which accountability for those public funds
+was maintained (para. 57). [55]                         
+The Court of Appeal found that the preambles to
+the BCG and TCG agreements recognized a previous commitment by the Province to
+contribute 75% of the cost of projects approved under the terms of the
+particular grant program and the City’s agreement to use the funds for those
+projects.  The City, for its part, agreed to accept the funds to be made
+available by the Province upon the terms set out in the agreements (para. 38). [56]                         
+As the Court of Appeal recognized, art. 2 of the
+BCG agreement set out the conditions to which the City agreed in order to
+receive funds from the Province.  The conditions in the TCG were the same
+except for some small elements which are immaterial to this discussion.  The
+conditions generally relate to the application of the funds, the required
+accounting, the application of interest earned on the funds, the application of
+unexpended funds and other matters of an administrative nature.  The one
+condition which related to construction was condition h), which required that
+any construction which was funded by the grant program had to meet the
+prevailing legislative standards and best practices (paras. 39 to 40). [57]                         
+The Court of Appeal further found that art. 4 of
+the BCG and art. 5 of the TCG operated so as to ensure that the work which was
+funded under the agreements would be carried out in conformity with the terms
+of the CTA and its Regulations (paras. 41 to 43).  Finally, the
+remaining clauses of the BCG and TCG agreements imposed certain reporting
+requirements on the City and dealt with the accounting for unused funds (para.
+45).  The Court of Appeal concluded that both of these agreements were
+framework funding agreements which governed the manner in which funds for
+approved projects were to be disbursed and administered (para. 46). [58]                         
+The CTF agreement differed from the other two in
+that it established a dedicated fund to be funded by payment to the City of
+$0.05 on the sale of each litre of taxable gasoline or diesel fuel within the
+City of Calgary.  The balance of the agreement addressed the administration of
+that fund.  As in the BCG and TCG agreements, the Court of Appeal concluded
+that nothing in the CTF required the City to construct anything whatsoever. 
+Nothing in the agreement would give contractual effect to the City’s statutory
+obligations with respect to the establishment of a transportation system (para.
+52). [59]                         
+The Province provided funding under the
+Agreements to assist the City in carrying out its own activities.   The Province
+did not contribute funding to obtain a supply of accountability from the City;
+the contributions only went to assist the City with the capital costs of
+improving its municipal transit system.  I agree with the Court of Appeal that
+the City’s compliance with the accountability measures did not amount to the
+provision of any goods, services, or benefit to the Province. [60]                         
+Following the jurisprudence on single or
+multiple supplies, the construction and acquisition of the transit facilities
+were inputs into the supply of the municipal transit service to the public.  In
+addition, nothing in the applicable statutes, and nothing in the Agreements,
+indicates that there was a separate supply of “transit facilities services” by
+the City to the Province.  For these reasons, there was only one supply by the
+City in this case, the supply of a municipal transit service. D.    The Recipient of the Supply [61]                         
+The City urges  this Court to follow the
+approach of the Federal Court of Appeal in Commission scolaire Des Chênes v. Ministre du Revenu national, 2001 FCA 264, 286 N.R. 264.  In Des Chênes, the Federal
+Court of Appeal held that Des Chênes, a school board, having received a subsidy
+from the Province of Quebec, had made a taxable supply of its school bussing
+services to the Province, and that ITCs were available to the school board. [62]                         
+Here, the City has acknowledged that members of
+the Calgary public are the recipients of its supply of “public transit
+services”.  Its acknowledgment is consistent with the definition of “recipient”
+in s. 123(1)  of the ETA , according to which the recipient of a supply is
+the person liable to pay consideration for that supply.  Users of the municipal
+transit service pay fares in consideration for the supply, and are therefore
+recipients of the supply under the ETA .  Nothing in the ETA 
+requires a supply to have only one recipient. [63]                         
+In my view, Des Chênes does not assist
+the City.  Even if this Court were to find, following Des Chênes, that
+because the Province contributed grant funding to the City, the Province was a
+recipient of the supply of municipal transit services, the public would remain
+a recipient of the supply.  In Corp. des Loisirs de Neufchâtel v. R., 2006 TCC 339, [2008] G.S.T.C. 153, Lamarre Proulx T.C.J. found that there were two recipients of a
+supply of community leisure services: the community, who enjoyed the leisure
+services and paid part of the consideration, and the municipality, which had
+paid the other part of the consideration for the supply. [64]                         
+As observed above, the identity of the recipient
+of a supply may not determine whether the supply is taxable or exempt.  The
+identity of the recipient only determined the nature of the supply in Des
+Chênes because the parties had agreed that, if the subsidy from the
+Province of Quebec did not constitute consideration for the supply of
+transportation services, then the students were the recipients of the supply,
+and that the supply would be exempt.  However, if the subsidy constituted
+consideration, then the province would be the recipient of the supply of
+transportation services, making it a taxable supply.  The Federal Court of
+Appeal noted that whether the supply was taxable or exempt was an issue, but in
+light of the parties’ agreement, limited its analysis to the issue of whether
+the subsidy was “consideration”.  Finding that it was, it followed that the
+Province was the recipient, and that the supply was therefore taxable,
+entitling the school board to ITCs. [65]                         
+Schedule V, Part VI, s. 24 of the ETA  provides
+that a supply is exempt if it is the supply of a municipal transit service made
+to members of the public.  Section 24  does not indicate that the supply must be
+made exclusively to members of the public.  As determined above, the City made
+only one supply, the supply of a municipal transit service.  The construction,
+acquisition, and making available of the transit facilities were inputs into
+that supply.  Whether or not the Province is a recipient of the supply in
+addition to the public, the supply is of a municipal transit service to the
+public, and is therefore exempt.  Accordingly, the City’s activities of
+acquiring, constructing, and making public transit facilities available for the
+Calgary public, did not fall within its “commercial activit[ies]”, under s.
+123(1)  of the ETA , because they involved the making of exempt supplies. 
+The City is not entitled to claim ITCs for GST paid for the acquisition and
+construction of the transit facilities for the municipal transit service that
+it supplied to the Calgary public.  To the extent that Des Chênes is
+inconsistent with this reasoning, it should not be followed. V.    Conclusion [66]                         
+There was only one supply in this case, the
+exempt supply of a municipal transit service to the Calgary public.  The ETA
+demonstrates that Parliament intended for public service bodies to receive
+rebates at specified rates for the GST that they pay in the course of making
+exempt supplies.  There was no separate, non-exempt supply to the
+Province, and accordingly, ITCs for GST paid in the course of acquiring and
+constructing the municipal transit facilities are not available to the City. [67]                         
+I would affirm the findings of the Federal Court
+of Appeal and dismiss the appeal with costs.                     Appeal
+dismissed with costs.                     Solicitors
+for the appellant:  Felesky Flynn, Calgary.                     Solicitor for the
+respondent:   Attorney General of Canada, Ottawa.  

@@ -1,0 +1,833 @@
+  SUPREME COURT OF CANADA  Citation: R. v. Prokofiew, 2012 SCC 49,
+  [2012] 2 S.C.R. 639 Date: 20121012 Docket: 33754  Between: Ewaryst Prokofiew Appellant and Her Majesty the Queen Respondent - and - Attorney General of Canada, Attorney General of Quebec,
+Criminal Lawyers’ Association of Ontario and Canadian Civil Liberties
+Association Interveners  Coram:
+McLachlin C.J. and LeBel, Deschamps, Fish, Abella, Rothstein, Cromwell,
+Moldaver and Karakatsanis JJ.  Reasons
+  for Judgment: (paras. 1 to 36)  Dissenting
+  Reasons:  (paras. 37 to 114): Moldaver J. (Deschamps, Abella,
+  Rothstein and Karakatsanis JJ. concurring)  Fish J. (McLachlin C.J. and
+  LeBel and Cromwell JJ. concurring)     R. v. Prokofiew, 2012 SCC 49, [2012] 2 S.C.R. 639  Ewaryst
+Prokofiew                                                                                          Appellant v. Her Majesty The
+Queen                                                                               Respondent and Attorney General of Canada, Attorney
+General of Quebec, Criminal Lawyers’ Association
+of Ontario and
+Canadian Civil Liberties Association                                     Interveners Indexed as:  R. v. Prokofiew 2012 SCC 49 File No.:  33754. 2011:  November 8; 2012:  October 12. Present:  McLachlin C.J. and LeBel, Deschamps, Fish, Abella,
+Rothstein, Cromwell, Moldaver and Karakatsanis JJ. on appeal from the court of appeal for ontario                     Criminal law — Evidence — Hearsay — Whether
+trial judge’s erroneous admission of hearsay evidence sufficiently serious to
+preclude application of curative proviso — Criminal Code, s. 686(1) (b)(iii).                     Held
+(McLachlin C.J. and LeBel, Fish and Cromwell JJ. dissenting): 
+The appeal should be dismissed.                     Per Deschamps,
+Abella, Rothstein, Moldaver and Karakatsanis JJ.:  Section 4(6) 
+of the Canada Evidence Act  does not prohibit a trial judge from
+affirming an accused’s right to silence.  Conversely, the trial judge need not
+affirm the accused’s right in every case, only where there is a realistic concern
+that the jury may place evidential value on an accused’s decision not to
+testify.  In such a case, the trial judge should make it clear to the jury that
+an accused’s silence is not evidence and that it cannot be used as a makeweight
+for the Crown in deciding whether the Crown has proved its case.                     In
+assessing the credibility and reliability of evidence upon which the Crown can
+and does rely, a jury is entitled to take into account, among other things, the
+fact that the evidence stands uncontradicted, if that is the case, and the jury
+may be so instructed.  The fact that evidence is uncontradicted does not mean that
+the jury must accept it and an instruction to that effect should also be given.                     In
+this case, S’s counsel could have relied on the fact that his client had
+testified to argue that S was innocent and had “nothing to hide”.  Moreover, he
+could have emphasized that S’s testimony stood uncontradicted and that the jury
+could consider this in assessing whether they believed his evidence or whether
+it left them in a state of reasonable doubt.  What S’s counsel could not do is
+mislead the jury on a matter of law.  He could not invite the jury to use P’s
+silence at trial as evidence, much less evidence of guilt.                     While
+counsel’s comment should not have been made, the judge would not have allowed
+the trial to proceed if he truly believed that the comment had irretrievably
+compromised P’s fair trial rights.  He only allowed it to proceed — with the
+acquiescence of P’s counsel who did not move for severance — on the belief that
+he could disabuse the jury of the notion that P’s silence at trial could be
+used as evidence of his guilt.  Although an explicit remedial instruction from
+the trial judge would have been preferable, his jury charge, when considered as
+a whole, was adequate.  The jury would have understood that the Crown could
+prove P’s guilt only on the evidence and, as P’s silence at trial did not
+constitute evidence, it could not be used to prove his guilt.                     As
+for the hearsay evidence, the trial judge’s error in admitting it was harmless
+and there is no realistic possibility that the verdict would have been
+different had the error not been made.  The trial judge had warned the jury
+that this evidence should be approached with caution and other items of
+confirmatory evidence were available to the jury.  Accordingly, this is a case
+where the curative proviso of s. 686(1) (b)(iii) of the Criminal
+Code  can safely be applied to uphold P’s conviction.                     In
+this case, the absence of a remedial direction is sufficient to require a new
+trial.  Moreover, that error was exacerbated by the erroneous admission of
+hearsay evidence.  On any view of the matter, neither of the errors committed
+by the trial judge can be characterized as trivial.  In these
+circumstances, the Crown has not satisfied its onerous burden in invoking the curative
+proviso. Cases Cited By Fish J. (dissenting)                     R.
+v. Noble, [1997] 1 S.C.R. 874; R. v. Crawford, [1995] 1 S.C.R. 858; McConnell
+v. The Queen, [1968] S.C.R. 802; Avon v. The Queen, [1971] S.C.R.
+650; R. v. Biladeau (2008), 93 O.R. (3d) 365; R. v. Assoun,
+2006 NSCA 47, 244 N.S.R. (2d) 96; R. v. Henry, 2005 SCC 76, [2005] 3 S.C.R. 609; R. v. Potvin, [1989] 1
+S.C.R. 525; R. v. Daley, 2007 SCC 53, [2007] 3 S.C.R. 523; R. v. Naglik (1991), 3 O.R. (3d) 385, rev’d [1993] 3 S.C.R. 122; R.
+v. Pollock (2004), 188 O.A.C. 37; R. v. Oliver (2005), 194 O.A.C.
+284; R. v. Jolivet, 2000 SCC 29, [2000] 1 S.C.R. 751; R. v. Sarrazin,
+2011 SCC 54, [2011] 3 S.C.R. 505; Vetrovec v. The Queen, [1982] 1
+S.C.R. 811; R. v. Bevan, [1993] 2 S.C.R. 599; R. v. Kehler, 2004
+SCC 11, [2004] 1 S.C.R. 328; R. v. Brooks (1998), 41 O.R. (3d) 661. Statutes and Regulations Cited Canada Evidence Act, R.S.C. 1985,
+c. C-5, s. 4(6) . Canadian Charter of Rights and Freedoms .                     APPEAL from a judgment of the Ontario Court of Appeal (Doherty,
+Feldman, MacPherson, Blair and Juriansz JJ.A.), 2010 ONCA 423, 100 O.R.
+(3d) 401, 256 C.C.C. (3d) 355, 264 O.A.C. 174, 77 C.R. (6th) 52, [2010]
+G.S.T.C. 87, 2010 G.T.C. 1044, [2010] O.J. No. 2498 (QL), 2010 CarswellOnt
+3899, upholding the convictions for fraud entered by Corbett J., [2005]
+G.S.T.C. 135, [2005] O.J. No. 1824 (QL), 2005 CarswellOnt 3201.  Appeal dismissed,
+McLachlin C.J. and LeBel, Fish and Cromwell JJ. dissenting.                     Russell Silverstein
+and Ingrid Grant, for the appellant.                     Jennifer M. Woollcombe and Ivan S. Bloom, Q.C., for the respondent.                     James C. Martin
+and Richard Kramer, for the intervener the Attorney General of Canada.                     Sylvain Leboeuf and Gilles
+Laporte, for the intervener the Attorney General of Quebec.                     P. Andras Schreck and Lucy Saunders, for the intervener the Criminal Lawyers’
+Association of Ontario.                     Frank Addario, Gerald
+Chan and Nader R. Hasan, for the intervener the Canadian Civil
+Liberties Association.                      The judgment of
+Deschamps, Abella, Rothstein, Moldaver and Karakatsanis JJ. was delivered by [1]                             
+Moldaver J. — The issue in this case is whether a trial judge is prohibited by s.
+4(6)  of the Canada Evidence Act, R.S.C. 1985, c. C-5  (“CEA ”),
+from affirming an accused’s right to silence.  At trial, the Crown alleged that
+Mr. Prokofiew and his co-accused, Mr. Solty, participated in a fraudulent
+scheme involving the fictitious sale of heavy equipment to generate harmonized
+sales tax that was then not remitted to the federal government as required.  The
+fraudulent nature of the scheme was never challenged.  The involvement of Messrs.
+Prokofiew and Solty in the scheme was also conceded.  The question for the jury
+was whether either or both accused were aware of the fraudulent nature of the
+scheme.  Mr. Prokofiew did not testify, but was incriminated by Mr. Solty’s
+testimony.  In his closing address, Mr. Solty’s counsel invited the jury to
+infer Mr. Prokofiew’s guilt from the latter’s failure to testify.  The trial
+judge refrained from giving a remedial instruction to the jury about Mr. Prokofiew’s
+right to silence.  Mr. Prokofiew was convicted and sentenced ([2005] G.S.T.C.
+135) and his appeal was dismissed by Doherty J.A. on behalf of a unanimous
+five-person panel of the Ontario Court of Appeal (2010 ONCA 423, 100 O.R. (3d)
+401).  Largely for the reasons given by Doherty J.A., I would dismiss Mr.
+Prokofiew’s further appeal to this Court. [2]                             
+I have had the benefit of reading the reasons of
+my colleague Justice Fish and I agree with much of his analysis.  Where I disagree
+with him is in the result.  I will explain our disagreement and why the appeal
+should be dismissed, but before doing so, I will address the matters on which
+my colleague and I agree —
+albeit with some additional observations. I.       Matters of Agreement [3]                             
+My colleague and I agree that s. 4(6)  of the CEA 
+does not prohibit a trial judge from affirming an accused’s right to silence. 
+In so concluding, I should not be taken — nor do I understand my colleague to suggest — that such an instruction must be given in
+every case where an accused exercises his or her right to remain silent at
+trial.  Rather, it will be for the trial judge, in the exercise of his or her discretion,
+to provide such an instruction where there is a realistic concern that the jury
+may place evidential value on an accused’s decision not to testify. [4]                             
+In cases where the jury is given an instruction
+on the accused’s right to remain silent at trial, the trial judge should, in
+explaining the right, make it clear to the jury that an accused’s silence is
+not evidence and that it cannot be used as a makeweight for the Crown in
+deciding whether the Crown has proved its case.  In other words, if, after
+considering the whole of the evidence, the jury is not satisfied that the
+charge against the accused has been proven beyond a reasonable doubt, the jury
+cannot look to the accused’s silence to remove that doubt and give the Crown’s
+case the boost it needs to push it over the line. [5]                             
+The case at hand provides an example of a
+situation where such an instruction would be warranted — cut-throat defences where one accused testifies and points the
+finger at the other, while the other exercises his right not to testify.  My colleague
+and I agree that, in summing up to the jury, Mr. Solty’s counsel could have
+relied on the fact that his client had testified to argue that Mr. Solty was
+innocent and had “nothing to hide”.  Moreover, he could have emphasized that Mr.
+Solty’s testimony stood uncontradicted and that the jury could consider this in
+assessing whether they believed his evidence or whether it left them in a state
+of reasonable doubt. [6]                             
+What Mr. Solty’s counsel could not do is mislead
+the jury on a matter of law.  He could not invite the jury to use Mr.
+Prokofiew’s silence at trial as evidence, much less evidence of guilt. [7]                             
+In cases where there is a risk of counsel
+misleading the jury on a co-accused’s right to remain silent at trial, trial
+judges would do well to spell out the governing principles and ensure that
+counsel’s remarks conform to those principles.  That way, the potential harm can
+be prevented from occurring, thereby sparing the need for a remedial
+instruction. [8]                             
+In the context of the charge as a whole, I think
+it might be helpful to explain how a jury may use a lack of contradictory
+evidence in deciding whether the Crown has proved its case beyond a reasonable
+doubt. [9]                             
+Apart from a few notable exceptions — such as when an accused raises the defence
+of not criminally responsible on account of a mental disorder under s. 16  of
+the Criminal Code, R.S.C. 1985, c. C-46  — in every criminal trial, juries are instructed that an accused has
+no obligation to prove anything.  The onus of proof rests upon the Crown from
+beginning to end and it never shifts. [10]                         
+Juries are also told that in deciding whether
+the Crown has proved its case to the criminal standard, they are to look to the
+whole of the evidence — and,
+having done so, they may only convict if they are satisfied, on the basis of
+evidence they find to be both credible and reliable, that the Crown has
+established the accused’s guilt beyond a reasonable doubt.  In coming to that
+conclusion, a jury may not use an accused’s silence at trial as evidence, much
+less evidence of guilt, and, where appropriate, the jury should be so
+instructed. [11]                         
+That said, in assessing the credibility and
+reliability of evidence upon which the Crown can and does rely, a jury is
+entitled to take into account, among other things, the fact that the evidence
+stands uncontradicted, if that is the case — and the
+jury may be so instructed.  Of course, the fact that
+evidence is uncontradicted does not mean that the jury must accept it, and an
+instruction to that effect should be given. II.     Is a New Trial Required? A.     Failure to Instruct the Jury on the Appellant’s Right to
+Silence [12]                         
+In the course of his closing address to the
+jury, which covered 23 pages of transcript, counsel for Mr. Solty incorporated the
+following rhetorical question into his remarks: “Did [Mr. Prokofiew] have
+something to hide or did he simply have no response that could help him since there
+is no point in trying to contradict the truth?” (A.R., vol. V, at p. 17).  That
+comment was improper in that it implicitly invited the jury to treat Mr.
+Prokofiew’s silence at trial as evidence of guilt.  It should not have been
+made. [13]                         
+I note that the trial judge took umbrage at the
+remarks made by Mr. Solty’s counsel.  Initially, he stated that he would
+provide the jury with a strong remedial instruction.  The following day, in an
+oral ruling delivered moments before he commenced his charge, the trial judge
+ruled that he was constrained by s. 4(6)  of the CEA  from giving the jury
+an explicit remedial instruction.  In the same ruling, he remarked that there
+was a “significant risk” the jury would infer guilt from Mr. Prokofiew’s
+silence, if he did not “give a proper charge to the jury” (A.R., vol. I,
+at p. 7). [14]                         
+Despite his strong language, I consider it
+significant that neither the trial judge, on his own motion, nor counsel who
+was acting for Mr. Prokofiew at the time, raised the prospect of severance.  The
+option of severing Mr. Prokofiew’s trial from Mr. Solty’s was clearly open if
+the trial judge believed that severance was warranted in the interests of
+justice: Criminal Code, s. 591(3) (b) — and it would have solved the problem if, as Mr. Prokofiew now argues
+and my colleague accepts, the risk identified by the trial judge was so great
+that it could not be overcome by instructions tailored to address, albeit
+indirectly, the erroneous message conveyed by Mr. Solty’s counsel.  Presumably,
+Mr. Prokofiew’s trial counsel ascribed to the view that the judge’s
+instructions to the jury would suffice, and thus refrained from moving for
+severance.  I prefer to view the matter that way, rather than to treat his
+failure to move for severance as a tactical decision designed to preserve a
+ground of appeal should things go badly at trial. [15]                         
+As for the trial judge, I cannot accept that he
+would have allowed the trial against Mr. Prokofiew to proceed if he truly
+believed that the impugned remarks had irretrievably compromised Mr.
+Prokofiew’s fair trial rights.  On the contrary, I am satisfied that he
+proceeded — with the
+acquiescence of Mr. Prokofiew’s trial counsel — on the belief that he could disabuse the jury of the notion that
+Mr. Prokofiew’s silence at trial could be used as evidence of his guilt.  And
+that, in my view, is precisely what the trial judge proceeded to do. [16]                         
+My colleague states that the trial judge’s
+instructions “left [the jury] to determine for themselves, with no assistance
+from the judge, the evidentiary and legal effect of Mr. Prokofiew’s failure to
+testify at trial” (para. 87).  He further contends that, absent an explicit
+instruction from the trial judge, “[w]e have no basis for supposing that the
+jury understood . . . which [of the two] counsel had stated the law correctly”
+(para. 89).  With respect, I do not share his view that the jury was left on
+its own without guidance, relegated in the end to choose, presumably as a
+matter of guesswork, which of the two counsel had accurately stated the law. [17]                         
+First, the jury was told by the trial judge that
+he (the trial judge) was supreme in the law and that they must take the law
+from him.  The jury was also told that if they had questions, they were to put
+the questions in writing and the trial judge would answer them in open court. [18]                         
+In view of those instructions, I believe that if
+the jury had been faced with the quandary my colleague poses — as to which of the two counsel, who had
+made “diametrically opposite submissions on a fundamental principle of law”
+(para. 88), they should believe — they would have asked the trial judge for clarification.  I do not
+accept that they would have left the matter to guesswork or any other form of
+conduct that would indicate that the jury was being untrue to its oath. [19]                         
+As it is, the jury did not ask a question about
+the two “diametrically opposite submissions”.  That leads to a second area of
+disagreement with my colleague.  It relates to the instructions the jury
+received and whether those instructions, though not explicit, were sufficient
+to overcome the risk that the trial judge had flagged — that the jury would use Mr. Prokofiew’s silence at trial as
+evidence of guilt. [20]                         
+As indicated, my colleague maintains that the
+jury received no assistance from the trial judge in this regard.  They were
+“left free”, he maintains, “to treat Mr. Prokofiew’s failure to testify as
+evidence of his guilt and to convict him, at least in part, for that reason”
+(para. 92).  With respect, I disagree.  I prefer instead Doherty J.A.’s
+analysis of the instructions, and his conclusion that, considered in their
+entirety, the jury would have understood that the Crown could prove Mr.
+Prokofiew’s guilt only on the evidence, that his silence at trial did not
+constitute evidence, and that it could therefore not be used to infer guilt. [21]                         
+As Doherty J.A. points out, the trial judge made
+it clear to the jury that the Crown carried the burden of proof throughout the
+proceedings and that there was no obligation on the part of Mr. Prokofiew to
+present evidence or prove anything.  The trial judge also emphasized that the
+jury was to base its verdict on the evidence given during the trial and nothing
+else.  Importantly, he defined “evidence” as being “[o]nly things that are
+admitted, the exhibits and the things witnesses say in testimony before you”
+(A.R., vol. V, at p. 143).  Like Doherty J.A., I believe the jury would have
+understood from this that Mr. Prokofiew’s silence did not constitute evidence,
+and, as such, it could not be used in determining his guilt. [22]                         
+My colleague points out that the trial judge did
+not give an explicit instruction to the jury about the impropriety of using Mr.
+Prokofiew’s silence at trial as evidence of guilt.  I agree.  However, I do not
+agree that the jury received no assistance from the trial judge on the matter. 
+On the contrary, I am satisfied that the trial judge implicitly endorsed the
+remarks Mr. Prokofiew’s counsel made in direct response to the improper remarks
+made by Mr. Solty’s counsel.  At the very least, the trial judge went a long
+way in that direction. [23]                         
+In response to the impugned remarks, counsel for
+Mr. Prokofiew juxtaposed other jurisdictions in the world where accused persons
+were required to disprove their guilt with the situation in Canada:                     That is not, thankfully, the way things are done
+here in Canada.  We have the luxury and we have the thankfulness that we have a
+system that requires the State to prove our guilt before a conviction or a
+finding of guilt can be entered.                     In
+this situation, this is the situation why Mr. Prokofiew does not have to call
+evidence, and this is why Mr. Prokofiew did not call evidence. [A.R., vol. V,
+at p. 27] [24]                         
+In his instructions to the jury, the trial judge
+picked up on this theme and endorsed it as follows:                     Mr.
+Solty and Mr. Prokofiew do not have to present evidence or prove anything in
+this case.  In particular, they do not have to prove that they are innocent of
+the crimes charged [sic].  From start to finish, it is the Crown that
+must prove guilt beyond a reasonable doubt.  It is Crown counsel who must prove
+Mr. Solty’s guilt and/or Mr. Prokofiew’s guilt beyond a reasonable doubt, not
+Mr. Prokofiew or Mr. Solty who must prove their innocence. [A.R., vol. V, at p.
+133] Doherty J.A. observed that
+this jury instruction “tied the presumption of innocence into the burden of
+proof in a manner that spoke almost directly to the irrelevance of the
+appellant’s failure to testify” (para. 49).  I agree. [25]                         
+In the face of an instruction that effectively
+endorsed the remarks of Mr. Prokofiew’s counsel on the very issue of concern, I
+fail to see how it can be said that the trial judge left the jury to cast about
+on its own, with free rein to treat Mr. Prokofiew’s failure to testify as
+evidence of his guilt and to convict him, at least in part, for that reason. [26]                         
+In sum, while I agree that an explicit remedial
+instruction from the trial judge would have been preferable — and would have been warranted in these
+circumstances — I am satisfied
+that the instructions that were given in the instant case, when considered as a
+whole, were adequate.  Like Doherty J.A., I am confident that the jury would
+have understood, in the context of the entirety of the instructions, that the
+Crown could prove Mr. Prokofiew’s guilt only on the evidence and, as Mr.
+Prokofiew’s silence at trial did not constitute evidence, it could not be used
+to prove his guilt.  However, I do not fault the trial judge for concluding — wrongly but understandably — that he was
+prohibited by s. 4(6)  of the CEA  from making any reference at all to Mr.
+Prokofiew’s failure to testify.  My colleague has addressed that matter and it should
+not pose a problem in future cases. B.     Failure to Exclude Inadmissible Hearsay Evidence [27]                         
+The trial judge improperly admitted various
+cheque stubs and a deposit book into evidence.  Crown counsel at trial alleged
+that the stubs and deposit book recorded cash payments to Mr. Prokofiew from
+Discount Sales, one of the commercial vehicles of the fraud.  Defence counsel
+at trial disputed that the “E” to which the documents referred was his client,
+Ewaryst “Eddie” Prokofiew.  In my opinion, the trial judge’s error was minor
+and the verdict would inevitably have been the same had he not made it. [28]                         
+My colleague, however, maintains that the
+admission of the impugned documents was sufficiently serious to preclude the
+application of the curative proviso in s. 686(1) (b)(iii) of the Criminal
+Code .  He points out that the Crown’s case against Mr. Prokofiew rested
+almost entirely on the evidence of two disreputable witnesses, Messrs. Solty
+and Tulloch (the latter being a co-accused who had pled guilty before the trial
+of Messrs. Solty and Prokofiew and had since become a Crown witness).  The jury
+was told to proceed with caution and to look for confirmatory evidence before
+acting on their testimony to convict Mr. Prokofiew.  Depending on their
+assessment of the cheque stubs and deposit book, the jury was instructed that
+those items could constitute confirmatory evidence of Mr. Tulloch’s testimony,
+which in turn would bear on the jury’s evaluation of Mr. Solty’s credibility. 
+Hence, according to my colleague, the error was not harmless, because the jury
+“may [have relied] on the impugned evidence to take a small but critical first
+step in a chain of deductions leading to a finding of guilt” (para. 111). [29]                         
+As indicated, I take a different view of the
+error.  In my view, it was minor and the verdict would inevitably have been the
+same had it not been made. [30]                         
+Importantly, the impugned documents did not
+stand alone.  Other documentary items existed that lent support to the
+testimony of Messrs. Solty and Tulloch.  These items included: •                  sixteen invoices written
+by Mr. Prokofiew that set out the structure of the various fraudulent
+transactions; •                  financial records
+confirming Mr. Tulloch’s evidence that Mr. Prokofiew used Discount Sales to
+funnel portions of Mr. Tulloch’s share of the illicit proceeds into purchases
+of a motorcycle and a boat for Mr. Tulloch; •                  the Articles of Incorporation
+for Discount Sales showed Mr. Prokofiew’s home address as the address for the
+first director; and •                  a document listed John O’Meara,
+Mr. Prokofiew’s father-in-law, as the first director of Discount Sales. [31]                         
+In respect of John O’Meara’s directorship, his
+widow testified that he had nothing to do with the operation of the business. 
+She further testified that her husband had no significant assets when he passed
+away. [32]                         
+The various documentary items that I have listed,
+in conjunction with the testimony of Mrs. O’Meara, provided the jury with ample
+confirmatory evidence.  The jury was entitled to rely on that evidence to
+restore its faith in Messrs. Solty and Tulloch and to act on their evidence to
+convict Mr. Prokofiew. [33]                         
+Apart from the significant body of confirmatory
+evidence that existed over and above the impugned cheque stubs and deposit
+book, it is worth noting, for the purposes of assessing the seriousness of the
+error, that the trial judge cautioned the jury in strong terms that the cheque
+stubs were hearsay evidence and that it was not possible to cross-examine the
+person who had written the entries on them.  He further told the jury that the
+stubs were “of dubious reliability” and that the jury “should approach them
+with great caution” (A.R., vol. V, at p. 162).  After reviewing the factors
+that the jury might wish to consider in deciding what use to make of the cheque
+stubs, if any, the trial judge completed his remarks with a second strong
+warning.  He reminded the jury that “[n]o witness [had] testified as to these
+cheque stubs” after reiterating the need to “approach [them] with caution”
+(A.R., vol. V, at p. 165). [34]                         
+In the face of those instructions and the other
+items of confirmatory evidence available to the jury, I cannot accept that the
+admission of the cheque stubs and deposit book amounted to a significant
+error.  The error, in my view, was harmless in its overall effect —
+and I have no doubt that the verdict would have been
+the same had it not been made.  Accordingly, this is a case where the curative
+proviso can safely be applied to uphold the conviction. III.    Conclusion [35]                         
+Taking into account the entirety of the trial
+judge’s instructions, I am satisfied that the jury would have understood that
+Mr. Prokofiew’s silence at trial could not be used as evidence of his guilt. 
+As for the trial judge’s error in admitting the hearsay evidence, in my view,
+the error was harmless and there is no realistic possibility that the verdict would have been
+different had it not been made. [36]                         
+Accordingly, I would dismiss the appeal.                     The reasons of
+McLachlin C.J. and LeBel, Fish and Cromwell JJ. were delivered by                     Fish J. (dissenting) — I [37]                         
+At the conclusion of their joint trial before
+judge and jury, Ewaryst Prokofiew and Peter Solty were both convicted of fraud
+and conspiracy to defraud the Government of Canada of $3.25 million ([2005]
+G.S.T.C. 135). [38]                         
+Mr. Prokofiew did not testify.  Mr. Solty did,
+proclaiming his innocence and incriminating Mr. Prokofiew. [39]                         
+In his closing address to the jury, Mr. Solty’s
+counsel implied that Mr. Prokofiew’s silence indicated that he had something to
+hide.  There is no dispute as to the significance of counsel’s words: The Crown
+concedes in its factum that “counsel for Mr. Solty suggested [to the jury] that
+[Mr. Prokofiew] had not testified because he was guilty of the alleged
+offences” (R.F., at para. 2 (emphasis added)). [40]                         
+The trial judge recognized that no such
+inference was permitted and he wanted to make this clear to the jury.  He
+concluded there was a “significant risk” that the jury might otherwise, as
+suggested by Mr. Solty’s counsel, infer from Mr. Prokofiew’s silence that he
+was guilty as charged (A.R., vol. I, at p. 7). [41]                         
+In response to defence counsel’s request for a
+“strong [remedial] direction”, the trial judge replied: “You can count on it”
+(A.R., vol. V, at p. 92). [42]                         
+“[T]here are few rights more fundamental than
+the right to remain silent”, the judge added, “and it must be made clear to the
+jury . . . that they may not consider Mr. Prokofiew’s silence . . . as
+indicative of guilt when they come to considering his guilt or innocence”
+(A.R., vol. V, at p. 92). [43]                         
+After considering two decisions of this Court,
+however, the trial judge held — wrongly but understandably, as we shall see —
+that he was prohibited by s. 4(6)  of the Canada Evidence Act,
+R.S.C. 1985, c. C-5 , from making any reference at all to Mr. Prokofiew’s
+failure to testify.  He therefore refrained from giving the remedial
+instruction that he had earlier thought necessary to prevent the jury from
+drawing the impermissible inference they had been invited to draw by Mr.
+Solty’s counsel. [44]                         
+The Court of Appeal for Ontario, correctly in my
+view, held that s. 4(6)  prohibits comments prejudicial to the accused — but
+not the remedial instruction requested by defence counsel and contemplated by
+the judge (2010 ONCA 423, 100 O.R. (3d) 401).  The Court of Appeal held as
+well, again correctly, that the trial judge had erred in admitting hearsay
+evidence.  It is undisputed in this Court that the hearsay evidence was
+inadmissible and ought to have been excluded. [45]                         
+The Court of Appeal nonetheless dismissed Mr.
+Prokofiew’s appeal on the ground that both errors were harmless.  With respect,
+I am of a different view.  For the reasons that follow, I would quash Mr.
+Prokofiew’s conviction, allow the appeal and order a new trial. II [46]                         
+Having concluded that a new trial should be had,
+I shall refer to the facts only to the extent necessary to explain my
+conclusion. [47]                         
+Mr. Prokofiew and Mr. Solty were alleged by the
+Crown to have participated knowingly in a fraudulent scheme involving the sale
+of non-existent “heavy equipment” between the Maritimes and Ontario. 
+Harmonized Sales Tax (HST) was collected on these fictitious sales but never
+remitted to the government.  In all, the perpetrators of the scheme defrauded
+the Government of Canada of more than three million dollars. [48]                         
+It was uncontested at trial that the scheme was
+fraudulent and that Mr. Prokofiew and Mr. Solty had both participated in it. 
+The only live issue was whether they were aware of its fraudulent nature. [49]                         
+Mr. Solty testified that he was an innocent
+participant.  He was induced, he said, to participate in the fraud by Mr.
+Prokofiew, who orchestrated the scheme. [50]                         
+Mr. Prokofiew did not testify. [51]                         
+In his address to the jury, counsel for Mr.
+Solty contrasted in the following terms Mr. Prokofiew’s silence with Mr.
+Solty’s decision to testify:                     It’s clear that Mr. Solty never ran and [n]ever
+tried to hide from his involvement in this case. . . .  And when it came to his
+turn to tell his side of the story, he did not, like Ewaryst Prokofiew, shirk
+from that challenge. And why did he do all this? Especially when there was
+absent no obligation for him to do anything? Because, I suggest, he had nothing
+to hide. Because he’s innocent. Innocent people don’t make themselves scarce
+when the troubles begin. They stand up with their friends and colleagues and
+try and deal with the problem. I suggest to you that at every turn, Peter Solty
+acted in a manner that is consistent with an innocent person. . . . Lastly, Peter Solty took the stand and
+told his story, warts and all. Ewaryst Prokofiew did not. Mr. Solty accused him
+of massive monetary fraud, and backed up that accusation with the hand-written
+invoices and other documentation that he provided to the police. What was Mr.
+Prokofiew’s response? Ask yourself why Ewaryst Prokofiew did not testify. Did he
+have something to hide or did he simply have no response that could help him
+since there is no point in trying to contradict the truth? [A.R., vol. V, at
+pp. 10-11 and 16-17] [52]                         
+The trial judge was concerned that these
+comments could undermine Mr. Prokofiew’s right to a fair trial. As earlier
+mentioned, he felt there was a “significant risk” that the jury would infer
+that Mr. Prokofiew’s silence could be taken as evidence of guilt, in
+contravention of R. v. Noble, [1997] 1 S.C.R. 874 (A.R.,
+vol. I, at p. 7).  It was therefore necessary, said the judge, to make
+clear to the jury that no such inference was permitted — “that they may not consider
+Mr. Prokofiew’s silence . . . as indicative of [his] guilt” (A.R., vol. V, at
+p. 92). [53]                         
+However, after hearing submissions and reviewing
+Noble and R. v. Crawford, [1995] 1 S.C.R. 858, the trial judge
+concluded that s. 4(6)  of the Canada Evidence Act  precluded him from
+commenting in any way on an accused’s silence at trial.  He therefore
+made no reference in his jury instructions to Mr. Prokofiew’s failure to
+testify. [54]                         
+The Court of Appeal agreed with the trial judge
+that Sopinka J. did state in Noble and Crawford that s. 4(6) 
+prohibits any mention of the accused’s failure to testify.  However, Doherty
+J.A., speaking for a unanimous Court, found that Justice Sopinka’s statements
+to this effect in both Noble and Crawford were obiter dicta. [55]                         
+Justice Doherty recognized that lower courts
+should presume that obiter dicta of the Supreme Court are binding upon
+them (para. 21).  And he then proceeded to explain, persuasively and with care,
+why that presumption was inapplicable in this instance. [56]                         
+Justice Doherty first noted that the impugned obiter
+dicta were plainly inconsistent with the ratio decidendi of
+decisions predating Crawford and Noble — in particular, McConnell
+v. The Queen, [1968] S.C.R. 802, and Avon v. The Queen, [1971]
+S.C.R. 650. [57]                         
+One reason for treating obiter as binding is to
+preserve and promote certainty in the law. Yet to do so here would have the
+opposite effect.  It would disregard precedent that was not questioned in Crawford,
+Noble or subsequent decisions of the Supreme Court — and, indeed, applied
+recently and consistently at the appellate level in Ontario, and elsewhere in
+Canada (para. 29, citing, inter alia, R. v. Biladeau (2008), 93
+O.R. (3d) 365 (C.A.), at para. 20, and R. v. Assoun, 2006 NSCA 47,
+244 N.S.R. (2d) 96, at paras. 285-88). [58]                         
+Justice Doherty noted as well that the comments
+in Crawford and Noble relied on by the judge in this case were
+not only tangential (para. 36), but entirely inconsistent with the
+“constitutional vision” articulated in Noble itself (para. 39). [59]                         
+The Court of Appeal therefore concluded that the
+trial judge had misconstrued s. 4(6)  of the Canada Evidence Act  and
+could properly have instructed the jury not to draw an adverse inference from
+Mr. Prokofiew’s silence.  The court recognized that “no one knows for sure what
+the jury used or did not use”, but found that the absence of a remedial
+instruction would only be fatal where the “appellant shows a real risk that his
+silence was misused” (para. 42). [60]                         
+The Court of Appeal concluded that Mr. Prokofiew
+had not discharged this burden.  Relying on the judge’s charge as a whole, and
+more particularly on passages to which I shall later refer, the court was
+satisfied that the absence of a specific remedial instruction did not amount to
+reviewable error in this case. [61]                         
+A second ground of appeal raised by Mr.
+Prokofiew in the Court of Appeal was likewise dismissed.  It concerned the
+admission by the trial judge of hearsay documents that, according to the Crown,
+implicated Mr. Prokofiew in the fraud.  The Crown conceded before the Court of
+Appeal that this evidence was inadmissible and should therefore have been
+excluded. [62]                         
+Justice Doherty described the inadmissible
+hearsay as nothing more than “a small brick in a very large wall built by the
+evidence offered by the Crown against the appellant” (para. 57).  And he
+concluded that the second error, like the first, was not fatal, since “the rest
+of the evidence presented an overwhelming case” (para. 57). [63]                         
+In the result, the Court of Appeal found that
+the erroneous admission of the hearsay evidence “caused no substantial wrong or
+miscarriage of justice” (para. 54), applied the curative proviso of s.
+686(1) (b)(iii) of the Criminal Code, R.S.C. 1985, c. C-46 , and
+dismissed Mr. Prokofiew’s appeal. III [64]                         
+Noble establishes
+that a trier of fact may not draw an adverse inference from the accused’s
+failure to testify and that the accused’s silence at trial may not be treated
+as evidence of guilt.  To do so would violate the presumption of innocence and
+the right to silence.  It would to that extent and for that reason shift the
+burden of proof to the accused, turning the accused’s constitutional right to
+silence into a “snare and a delusion” (Noble, at para. 72). [65]                         
+We are now urged by the Crown to overrule Noble. 
+Upon careful consideration of Crown counsel’s full and able argument, and the
+helpful submissions of all counsel on this issue, I would decline to do so. [66]                         
+I see no persuasive reason to overturn Noble. 
+Noble is a recent and important precedent regarding a fundamental
+constitutional principle.  The Court’s decision in that case is constitutionally
+mandated and has not proven unworkable in practice.  Nothing of significance
+has occurred since 1997 to cause the Court to reconsider its decision.  And it
+is well established that the Court must exercise particular caution in
+contemplating the reversal of a precedent where the effect, as here, would be
+to diminish the protection of the Canadian Charter of Rights and Freedoms :
+R. v. Henry, 2005 SCC 76, [2005] 3 S.C.R. 609, at para. 44. [68]                         
+Section 4(6)  of the Canada Evidence Act 
+provides:                              The
+failure of the person charged, or of the wife or husband of that person, to
+testify shall not be made the subject of comment by the judge or by counsel for
+the prosecution. [69]                         
+In Crawford, Justice Sopinka stated that
+s. 4(6)  “encompasses both comment prejudicial to the accused, as well as a
+direction that the jury must not draw an unfavourable conclusion from the
+accused’s failure to testify” (para. 22). [70]                         
+And he reiterated this observation in Noble:                     Section
+4(6) , whose validity is not at issue in the present case, prevents a trial
+judge from commenting on the silence of the accused. The trial judge is
+therefore prevented from instructing the jury on the impermissibility of using
+silence to take the case against the accused to one that proves guilt beyond a
+reasonable doubt. [para. 95] [71]                         
+I agree with Justice Doherty that both comments
+were obiter dicta. Section 4(6)  was not at issue in either Crawford
+or Noble. Crawford dealt with what an accused or defence counsel
+may say in relation to a co-accused’s pre-trial silence, while Noble
+held that an accused’s silence at trial cannot be used as evidence of guilt. [72]                         
+In both cases, Justice Sopinka’s references to
+s. 4(6)  merely formed part of his description of the legislative background in
+describing ancillary issues relating to an accused’s silence.  His
+comments were brief and unnecessary to the result. Dicta of this sort
+may be set aside where, as in this instance, there are good reasons to do so: Henry,
+at para. 57. [74]                         
+Second, as McConnell, Avon and Potvin
+demonstrate, a purposive interpretation of s. 4(6)  compels the conclusion
+that trial judges may inform the jury of the accused’s right to silence and the
+protection it affords.  More specifically, applying Noble, trial judges
+may instruct the jury that, as a matter of law, no adverse inference may be
+drawn from the failure of the accused to testify. [75]                         
+In McConnell, the trial judge instructed
+the jury that there was no onus on an accused to testify and that they should
+not be influenced in their decision by the accused’s silence at trial (p.
+815).  In rejecting the contention that the trial judge’s instructions
+contravened s. 4(5)  of the Canada Evidence Act  (now s. 4(6) ), Ritchie J.
+explained:                     Here the language used by the trial judge to which
+objection is taken was not so much a “comment” on the failure of the persons
+charged to testify as a statement of their right to refrain from doing so, and
+it does not appear to me that it should be taken to have been the intention of
+Parliament in enacting s. 4(5)  of the Canada Evidence Act  to preclude
+judges from explaining to juries the law with respect to the rights of accused
+persons in this regard. . . .                         I
+think it is to be assumed that the section in question was enacted for the
+protection of accused persons against the danger of having their right not to
+testify presented to the jury in such fashion as to suggest that their silence
+is being used as a cloak for their guilt. [Emphasis added; p. 809.] [76]                         
+Avon dealt with a
+similar instruction.  And the Court again rejected a  submission that s. 4(5) 
+(now s. 4(6) ) prohibits any mention by the trial judge of the accused’s silence
+at trial:                     .
+. . I would say that the language used by [the trial judge] is a “statement” of
+an accused’s right not to testify, rather than a “comment” on his failure to do
+so. In my opinion, the instructions complained of cannot be construed as
+prejudicial to the accused or such as to suggest to the jurors that his silence
+was used to cloak his guilt. [p. 655] [77]                         
+Similarly, in Potvin, Wilson J. held that
+s. 4(5)  (now s. 4(6) ) must be interpreted in a purposive and not literal
+manner.  Properly understood, it prohibits only statements prejudicial to the
+accused (pp. 557-58). [78]                         
+Quite properly, the Crown has conceded before us
+that s. 4(6)  should be interpreted in accordance with McConnell, Avon
+and Potvin. [79]                         
+In short, s. 4(6)  of the Canada Evidence Act 
+does not prohibit an affirmation by the trial judge of the accused’s right to
+silence.  And, in appropriate circumstances, an instruction that no adverse
+inference may be drawn from the silence of the accused at trial is not a
+prohibited “comment” on the accused’s failure to testify within the meaning of
+that provision. IV [80]                         
+I turn now to consider whether the trial judge
+in this case erred in failing to instruct the jury that no adverse inference
+could be drawn from the appellant’s failure to testify. Unlike the Court of
+Appeal, and with the greatest of respect, I believe that he did.  And I believe
+as well that this error, though understandable in light of Crawford and Noble,
+is fatal to the jury’s verdict. [81]                         
+The Court of Appeal recognized that “no one
+knows for sure what the jury used or did not use”, but found that the absence
+of a remedial instruction would only be fatal where the “appellant shows a real
+risk that his silence was misused” (para. 42). [82]                         
+In concluding that Mr. Prokofiew had not
+discharged that burden, the Court of Appeal pointed to various passages of the
+judge’s charge.  Essentially, in the passages considered by the Court of Appeal
+(paras. 46-48), the trial judge instructed the jury that their verdict must be
+based on “the evidence put before you, and only on that evidence” (A.R., vol.
+V, at p. 125); that both Mr. Prokofiew and Mr. Solty were presumed innocent
+throughout the trial; that they did not have to prove their innocence; and that
+the presumption of their innocence “is only defeated if and when Crown counsel
+has satisfied all of you, beyond a reasonable doubt, that either or both Mr.
+Prokofiew and Mr. Solty are guilty of either or both of the crimes with which
+they are each charged” (p. 132). [84]                         
+The Court of Appeal also characterized as a
+“direct response” (para. 44) to the prejudicial comments by counsel for Mr.
+Solty, the following passages from the closing address of counsel for Mr.
+Prokofiew:                     Mr. Prokofiew, as [counsel for Mr. Solty]
+pointed out, chose not to testify in this case. There are many jurisdictions in
+the world that are, frankly, not as kind as ours; that when a person has an
+allegation against them, that they have to stand up; you’re alleged to do this;
+or you prove to us, you tell us why you are not guilty. That is not,
+thankfully, the way things are done here in Canada. We have the luxury and we
+have the thankfulness that we have a system that requires the State to prove
+our guilt before a conviction or a finding of guilt can be entered.                     In
+this situation, this is the situation why Mr. Prokofiew does not have to call
+evidence, and this is why Mr. Prokofiew did not call evidence. In the context
+of [counsel for Mr. Solty’s] statement, well, yes, Mr. Solty testified, but
+with respect, Mr. Solty had no choice but to testify. He was implicated at
+every turn of these transactions. He was in transactions up to his neck. And as
+a result, with respect to him, he had no choice but to take the stand. In
+response to Mr. Prokofiew, as I will mention in my submission, the evidence
+comes down to the evidence of Mr. Tulloch, and juxtaposed by the evidence of
+Peter Solty. With the greatest respect to them, their evidence does not come
+close to establishing guilt beyond a reasonable doubt in this case. And in the
+context of what Mr. Solty testified to will simply adjust the position of the
+evidence of Mr. Tulloch. Nothing more, nothing less. [A.R., vol. V, at pp.
+27-28] [85]                         
+With respect, unlike the Court of Appeal, I
+believe these comments by counsel for Mr. Prokofiew lend little curative weight
+to the absence of a remedial instruction by the trial judge. [86]                         
+It is true that “[a]ppellate review of the trial
+judge’s charge will encompass the addresses of counsel as they may fill gaps
+left in the charge” (R. v. Daley, 2007 SCC 53, [2007] 3 S.C.R.
+523, at para. 58).  However, we are not dealing in this case with a failure by
+the trial judge to mention evidence that is brought to the jury’s attention by
+counsel in their closing submissions.  Nor are we concerned with uncontested or
+uncontroversial matters inadvertently omitted from the judge’s charge.  Or with
+any other gap of the kind contemplated by Daley. [87]                         
+That is not our case.  Here, the jurors were
+faced with conflicting comments by counsel that complicated — rather
+than complemented — the “gap” in the judge’s charge.  They were left to
+determine for themselves, with no assistance from the judge, the evidentiary
+and legal effect of Mr. Prokofiew’s failure to testify at trial. [88]                         
+It is true that the addresses of counsel may in
+some circumstances adequately complement the judge’s charge.  But that cannot
+be so where counsel for two antagonistic accused make diametrically opposite
+submissions on a fundamental principle of law, as in this case. [89]                         
+We have no basis for supposing that the jury
+understood, in the absence of an explicit instruction by the judge, which
+counsel had stated the law correctly. The jury had no informed reason to
+believe one lawyer rather than the other.  The guiding hand of the trial judge
+was essential — and absent. [90]                         
+Most importantly, neither the judge’s
+instructions cited by the Court of Appeal nor the comments by counsel
+for Mr. Prokofiew address the impermissibility of drawing an adverse inference
+from Mr. Prokofiew’s silence. [91]                         
+The essence of the matter is that Mr. Solty’s
+counsel had invited the jurors to draw the impermissible inference that Mr.
+Prokofiew was using his silence to “cloak his guilt” (Avon, at p. 655). 
+In the Crown’s words, “[he] suggested [to the jury] that [Mr. Prokofiew] had
+not testified because he was guilty of the alleged offences” (R.F., at
+para. 2). [92]                         
+The impugned comments by Mr. Solty’s counsel, as
+the trial judge recognized, cried out for an explicit, remedial instruction. 
+They received no remedial instruction at all.  I agree with the Court of Appeal
+that “no one knows for sure what the jury used or did not use” (para. 42). 
+What we do know for sure is that they were left free to treat Mr. Prokofiew’s
+failure to testify as evidence of his guilt and to convict him, at least in
+part, for that reason. [93]                         
+In my respectful view, this alone is fatal to
+their verdict. [95]                         
+Standard instructions on the definition of
+evidence, the presumption of innocence, the Crown’s burden of proof, and the
+reasonable doubt standard will not suffice.  That is particularly true where,
+as here, counsel for one accused has suggested unmistakably to the jury that
+the guilt of a co-accused may be inferred from that person’s failure to
+testify. V [96]                         
+The judgment of the Ontario Court of Appeal in R.
+v. Naglik (1991), 3 O.R. (3d) 385, rev’d on other grounds, [1993] 3 S.C.R.
+122, has been cited as authority for the proposition that counsel may comment
+on the failure of a co-accused to testify (for example, by the Court of Appeal
+in this case, at para. 12; see also Crawford, at para. 24; R. v.
+Pollock (2004), 188 O.A.C. 37, at para. 149; R. v. Oliver (2005),
+194 O.A.C. 284, at para. 65). [97]                         
+This aspect of the matter has not been fully
+canvassed in the courts below.  And the outcome of this appeal does not turn on
+whether the Court of Appeal in Naglik was correct.  I therefore think it
+sufficient for present purposes to make clear that Naglik does not
+support the proposition that counsel may invite the jury to use a co-accused’s
+silence at trial as evidence of guilt, as Mr. Solty’s counsel did in this case. [98]                         
+First, Naglik was decided several years before
+Noble.  The Court of Appeal found that the impugned comment by counsel
+in that case was, at the time, correct in law (see p. 395).  Second, in Naglik
+the Court of Appeal went on to say that counsel may not “encourage the jury to
+speculate or draw unwarranted inferences” (p. 397).  What was an
+unwarranted inference then is an impermissible inference now, in virtue of Noble. 
+Third, this Court expressly declined in Naglik to determine whether
+counsel may refer to the failure of a co-accused to testify (p. 137). [99]                         
+As a matter of principle, I see no reason why
+counsel whose client has testified cannot refer to that fact and suggest this
+indicates the client is innocent and has “nothing to hide”.  Counsel may
+certainly emphasize as well that the client’s testimony stands uncontradicted,
+even when the client asserts his or her own innocence and imputes guilt to the
+co-accused. [100]                     
+The right to make full answer and defence is not
+constrained by the unfavourable impact its effective exercise may have on
+others in jeopardy of conviction.  It is, however, not absolute and cannot be
+exercised with total disregard for the constitutional rights of a co-accused,
+including that person’s right not to have his or her silence treated as
+evidence of guilt. VI [101]                     
+It is uncontested that the trial judge erred in
+law by admitting hearsay evidence that ought to have been excluded. [102]                     
+The impugned evidence consisted of cheque stubs
+and a deposit book. The Crown alleged at trial that the stubs and deposit book
+recorded cash payments made to Mr. Prokofiew from Discount Sales, one of the
+commercial vehicles of the fraud.  Counsel for Mr. Prokofiew disputed that the
+“E” to which the documents referred was his client, Ewaryst “Eddie” Prokofiew. [103]                     
+While conceding that the hearsay evidence should
+have been excluded, the Crown submits that its erroneous admission is of
+negligible significance.  As we shall see, I am of a different view. VII [104]                     
+We are urged by the Crown to apply the curative proviso
+of s. 686(1) (b)(iii) if we conclude, as I would, that the trial
+judge erred in law in failing to give the jury the remedial instruction
+requested by defence counsel and, again, in admitting the hearsay evidence that
+ought to have been excluded. [105]                     
+It is now well established that the proviso
+may only be applied where the Crown satisfies the court that the evidence of
+the appellant’s guilt is overwhelming or that the trial judge’s errors of law
+were harmless because there is “no realistic possibility that a new trial would
+produce a different verdict” (R. v. Jolivet, 2000 SCC 29, [2000]
+1 S.C.R. 751, at para. 46; R. v. Sarrazin, 2011 SCC 54, [2011] 3 S.C.R.
+505, at paras. 23-24).  I am not satisfied that the Crown has discharged its
+burden in this case. [106]                     
+The Court of Appeal held that the case against
+Mr. Prokofiew was “overwhelming” (para. 57).  This conclusion overlooks the
+fact that the strength of the Crown’s case depends on the credibility of the
+two witnesses who incriminated Mr. Prokofiew, both disreputable.  And it rests
+on the assumption that neither of the judge’s errors of law has any bearing on
+their credibility, tainted to begin with. [107]                     
+I refer, of course, to the co-accused, Mr.
+Solty, and to Andrew Tulloch, a Crown witness. Mr. Tulloch had pleaded guilty
+prior to the trial.  They alone asserted that Mr. Prokofiew was the architect
+of the fraudulent scheme.  None of the Crown’s other witnesses had dealt with
+Mr. Prokofiew directly or were able to attest to his knowing participation in
+the fraud. Some documentary evidence demonstrated Mr. Prokofiew’s involvement
+in the transactions.  But nothing in the documents or elsewhere — independent
+of Mr. Solty and Mr. Tulloch’s testimony — showed conclusively that he
+conducted them with fraudulent intent. [108]                     
+It was, of course, open to the jury to consider
+the testimony of Mr. Solty and Mr. Tulloch credible.  Quite properly, however,
+the trial judge warned the jury against resting its verdict on their
+uncorroborated evidence.  Mr. Tulloch was a Vetrovec witness (Vetrovec
+v. The Queen, [1982] 1 S.C.R. 811).  The trial judge therefore
+instructed the jury that it would be “dangerous” to rely on his testimony
+absent confirmatory evidence (A.R., vol. V, at p. 160).  The trial judge also
+cautioned the jury against relying on Mr. Solty’s evidence when considering the
+case against Mr. Prokofiew:                     You
+should consider that testimony of Mr. Solty with particular care, because he
+may have been more concerned about protecting himself and damaging Mr.
+Prokofiew than in telling the truth. [A.R., vol. V, at p. 156] [109]                     
+In addition, counsel for Mr. Prokofiew suggested
+at trial that Mr. Solty was motivated by a powerful animus against Mr.
+Prokofiew: Mr. Solty was aware that Mr. Prokofiew had had an affair with Mr.
+Solty’s wife. [110]                     
+When confronted with tainted witnesses of this
+sort, triers of fact must act on their evidence with caution (Vetrovec; R.
+v. Bevan, [1993] 2 S.C.R. 599; R. v. Kehler, 2004 SCC 11, [2004] 1
+S.C.R. 328).  Accordingly, they will not lightly accept the unsupported
+assertions of potentially unreliable witnesses where
+little but the word of those witnesses implicates the accused in the commission
+of the crime charged (Kehler, at para. 17; Bevan, at pp. 614-15; R. v. Brooks (1998), 41 O.R. (3d) 661 (C.A.),
+at pp. 694-95). [111]                     
+And when such witnesses are central to the
+Crown’s case, as they were here, corroboration becomes particularly
+significant.  In this regard, an evidential error that might otherwise appear
+insignificant raises particular concern when it goes to the credibility of
+potentially unreliable witnesses.  Unaware of its erroneous admission, the
+trier of fact may rely on the impugned evidence to take a small but critical
+first step in a chain of deductions leading to a finding of guilt. [112]                     
+On any view of the matter, neither of the errors
+committed by the trial judge can be characterized as trivial.  As I have
+already mentioned, the absence of a remedial direction is in my view sufficient
+to require a new trial.  That error was exacerbated by the erroneous admission
+of hearsay evidence.  In his charge to the jury, the trial judge referred to
+that evidence as tending to corroborate the evidence of Mr. Tulloch (A.R., vol.
+V, at p. 161).  If they found that it did, this would likely bear as well on
+the jury’s evaluation of the credibility of Mr. Solty, whose evidence, the
+trial judge said, was in turn corroborated by Mr. Tulloch’s (A.R., vol. V, at
+p. 161).  And the acceptance of their evidence, I repeat, was essential to the
+Crown’s case against Mr. Prokofiew. [113]                     
+In these circumstances, the Crown cannot be said
+to have satisfied its onerous burden in invoking the curative proviso of
+s. 686(1) (b)(iii) of the Criminal Code . VIII [114]                     
+For all of these reasons, I would allow the
+appeal and order a new trial.                     Appeal dismissed, McLachlin C.J. and
+LeBel, Fish and Cromwell JJ. dissenting.                     Solicitors
+for the appellant:  Russell Silverstein & Associate, Toronto.                     Solicitor
+for the respondent:  Attorney General of Ontario, Toronto.                     Solicitor
+for the intervener the Attorney General of Canada:  Attorney General
+of Canada, Halifax.                     Solicitor
+for the intervener the Attorney General of Quebec:  Attorney General
+of Quebec, Québec.                     Solicitors
+for the intervener the Criminal Lawyers’ Association of Ontario:  Schreck
+Presser, Toronto.                     Solicitors for the
+intervener the Canadian Civil Liberties Association:  Sack Goldblatt
+Mitchell, Toronto; Ruby Shiller Chan, Toronto.  

@@ -1,0 +1,848 @@
+Crown Forest Industries Ltd. v.
+Canada, [1995] 2 S.C.R. 802  Her Majesty The Queen                                                                   Appellant  v.  Crown Forest Industries Limited                                                      Respondent  and  The Government of the United States of
+America                           Intervener  Indexed as:  Crown Forest
+Industries Ltd. v. Canada  File No.:  23940.  1995:  March 2;
+1995:  June 22.  and Major JJ.  on appeal from the federal court of
+appeal                       The Federal Court
+Trial Division found Norsk to be a resident of a contracting party (the United
+States) and quashed the Minister's reassessment of Norsk at 25 percent.  The
+Federal Court of Appeal upheld this decision.  At issue is whether Norsk is a
+"resident of a Contracting State" (the U.S.) within the meaning of
+Article IV of the Canada-United States Income Tax Convention (1980), so
+that the withholding tax on its barge rentals would be 10 percent.                     Held:  The appeal should be allowed.   Cases Cited                     Referred to:  J. N. Gladden Estate v. The
+Queen, [1985] 1 C.T.C. 163; Canada (Attorney General) v. Ward,
+[1993] 2 S.C.R. 689; Bacardi Corp. of America v. Domenech, 311 U.S. 150
+(1940); United States v. Stuart, 489 U.S. 353 (1989); Utah Mines Ltd.
+v. The Queen, 92 D.T.C. 6194; Hunter Douglas Ltd. v. The Queen, 79
+D.T.C. 5340; Thiel v. Federal Commissioner of Taxation, 90 A.T.C. 4717; Thomson
+v. Thomson, [1994] 3 S.C.R. 551; Sumitomo Shoji America, Inc. v. Avagliano,
+457 U.S. 176 (1982).  Statutes and
+Regulations Cited  Agreement between the Government of the United
+States of America and the Government of the People's Republic of China for the
+Avoidance of Double Taxation and the Prevention of Tax Evasion with respect to
+Taxes on Income (done
+at Beijing, April 30, 1984). Reproduced in International Legal Materials,
+vol. 23, No. 4, July 1984.    Internal
+Revenue Code, 1986,
+§§ 864(c)(1), (4)(B)(i), (ii), (iii), 882(a)(1), (2), 883(a)(1).  Technical
+Explanation of the Convention between the United States of America and Canada
+with respect to Taxes on Income and on Capital Signed at Washington, D.C. on
+September 26, 1980, as Amended by the Protocol Signed at Ottawa on June 14,
+1983 and the Protocol Signed at Washington on March 28, 1984.  Reproduced in Canadian Income Tax
+Act with Regulations, 57th ed. Don Mills: CCH Canadian Ltd., 1987.  Vienna
+Convention on the Law of Treaties, Can. T.S. 1980 No. 37, Articles 31, 32.  Authors Cited   Arnold,
+Brian J., and Timothy W. Edgar, eds.  Materials on Canadian Income Tax,
+9th ed.  Don Mills:  Richard De Boo, 1990.  Boidman,
+Nathan, L. Frank Chopin and Alan W. Granwell.  "Tax Effects for
+Canadians of the New U.S. Code and Treaty Residency Rules (Part Two)"
+(1985), Tax Mgmt. Int'l J. 183.    Isenbergh,
+Joseph.  International Taxation:  U.S.  Taxation of Foreign Taxpayers and
+Foreign Income, vol. I.  Boston:  Little, Brown & Co., 1990.   Peters,
+Victor.  "Resident (Article 4)", in International Fiscal Association,
+Canadian Branch, Special Seminar on Analysis of Canada's Tax Conventions and
+Comparison to the O.E.C.D. Model Double Taxation Convention.  Toronto: 
+Richard De Boo, 1979.   United
+States of America.  Senate.  Committee on Foreign Relations.  Report of the
+Committee on Foreign Relations United States Senate on Executive T, 96th Congress,
+2d Session, Tax Convention with Canada.  Tax Convention and Proposed
+Protocols with Canada.  Washington:  U.S. Government Printing Office, 1984.  Vogel,
+Klaus.  Klaus Vogel on Double Taxation Conventions.  Deventer, The
+Netherlands:  Kluwer Law and Taxation Publishers, 1991.  Ward,
+David A.  "Principles To Be Applied in Interpreting Tax
+Treaties" (1977), 25 Can. Tax J. 263.                     APPEAL from a
+judgment of the Federal Court of Appeal (1993), 94 D.T.C. 6107, [1994] 1 C.T.C.
+174, 164 N.R. 222, dismissing an appeal from a judgment of Muldoon J.
+(1992), 92 D.T.C. 6305, [1992] 2 C.T.C. 1, 53 F.T.R. 291, allowing an appeal
+from the Minister of National Revenue's tax assessment.  Appeal allowed.                     Ian S.
+MacGregor, Q.C.,
+and Al Meghji, for the appellant.                     Warren J. A.
+Mitchell, Q.C.,
+and Karen R. Sharlow, for the respondent.                     Brian A. Crane, Q.C., for the intervener.                     The judgment of the
+Court was delivered by  1                 Iacobucci
+J. -- This appeal raises issues regarding the interpretation of
+international tax treaties.  2                 The more specific question is
+whether Norsk Pacific Steamship Company Limited ("Norsk") is a
+"resident of a Contracting State" -- in this case the United States
+-- within the meaning of Article IV of the Convention between Canada and the
+United States of America with respect to Taxes on Income and on Capital
+(hereinafter the Canada-United States Income Tax Convention (1980))
+(enacted in law in Canada by the Canada-United States Tax Convention Act,
+1984, S.C. 1984, c. 20 ).  If it is, the amount of non-resident tax imposed
+by Canada on Norsk and required to be withheld by Crown Forest Industries
+Limited ("Crown Forest") from the rent paid by it to Norsk for the
+lease of several maritime barges would be reduced by virtue of Article XII,
+paragraph 2 of the Convention from 25 percent to 10 percent.  Article IV
+provides that a "resident of a Contracting State" is "any person
+[or entity] who, under the laws of that State, is liable to tax therein by
+reason of ... domicile, residence, place of management, place of incorporation
+or any other criterion of a similar nature".  3                 For the reasons that follow, I
+would allow the appeal with the result that Crown Forest is to pay 25 percent
+withholding tax to Canada.  I.  Background  4                 In the 1987, 1988 and 1989
+taxation years, Crown Forest paid rent to Norsk for the use of certain barges. 
+These barges were used to transport wood chips to pulp mills, and goods from
+those mills to markets in Canada and the U.S.  Norsk was incorporated in the
+Bahamas in 1962 but its only office and place of business has been in the
+United States, in the San Francisco area.  At this office it, at all relevant
+times, employed approximately 19 people with a monthly payroll of about US
+$75,000.  Both Norsk and Crown Forest are owned by the same New Zealand
+corporation, Fletcher Challenge Limited.  5                 For each of the years under
+review, the only income tax returns filed by Norsk with the United States
+Internal Revenue Service were entitled "Income Tax Return of a Foreign
+Corporation" (Form 1120F); however, Norsk has never filed income tax
+returns in Canada, the Bahamas, or any country other than the United States. 
+To this end, Norsk is a foreign corporation for U.S. income tax purposes.  Its
+primary source of income arises from the transportation of newsprint
+internationally.  6                 In the relevant taxation years,
+Norsk paid no U.S. tax on the barge rental payments, claiming an exemption to
+which it was entitled as an international shipping company under § 883 of
+the U.S. Internal Revenue Code, 1986.  This exemption accrued to Norsk
+owing to the fact that it had been incorporated in the Bahamas; given that the
+Bahamas has, in its income tax legislation, accorded a similar tax exemption to
+companies incorporated in the United States, these dual exemptions are
+reciprocal.  7                 Crown Forest withheld 10 percent
+tax on the rental payments, on the footing that Norsk was a "resident of a
+Contracting State" for the purposes the Canada-United States Income Tax
+Convention (1980).  For residents, the usual 25 percent rate of withholding
+tax paid by non-residents (pursuant to s. 212(1) of the Income Tax Act,
+S.C. 1970-71-72, c. 63, as amended) is reduced to 10 percent by virtue of
+Article XII of the Convention.  Although the Minister of National Revenue
+("Minister") re-assessed Crown Forest at 25 percent, this finding was
+quashed by Muldoon J. of the Federal Court Trial Division who found Norsk to be
+a resident of a contracting party (the United States).  Muldoon J.'s decision
+was upheld by the Federal Court of Appeal, Décary J. dissenting.  The Minister
+appeals to this Court and is supported by the intervener, the Government of the
+United States of America, neither of which wishes Norsk to be considered a
+"resident" under the Convention.  II.Relevant
+Statutory and International Convention Provisions  Canada-United States Income Tax
+Convention (1980)                                                               Article
+IV                                                                     . . .                     1. For the purposes of this Convention,
+the term "resident of a Contracting State" means any person who,
+under the laws of that State, is liable to tax therein by reason of his
+domicile, residence, place of management, place of incorporation or any other
+criterion of a similar nature, but in the case of an estate or trust, only to
+the extent that income is derived by such estate or trust is liable to tax in
+that State, either in its hands or in the hands of its beneficiaries.                                                                     .
+. .                                                               Article
+XII                                                                     . . .                     1. Royalties arising in a Contracting
+State and paid to a resident of the other Contracting State may be taxed in
+that other State.                     2. However, such royalties may also be
+taxed in the Contracting State in which they arise, and according to the laws
+of that State; but if a resident of the other Contracting State is the
+beneficial owner of such royalties, the tax so charged shall not exceed 10 per
+cent of the gross amount of the royalties.  Income Tax Act, S.C. 1970-71-72, c. 63, as amended                     212.  (1)  Every non-resident person shall
+pay an income tax of 25% on every amount that a person resident in Canada pays
+or credits, or is deemed by Part I to pay or credit, to him as, on account or
+in lieu of payment of, or in satisfaction of,                                                                     . . .                            (d) 
+rent, royalty or similar payment....  United States Internal Revenue Code,
+1986  864. ...                     (c) ...                            (1)       For
+the purposes of this title --                            (4) ...                     (B)
+Income, gain, or loss from sources without the United States shall be treated
+as effectively connected with the conduct of a trade or business within the
+United States by a nonresident alien individual or a foreign corporation if
+such person has an office or other fixed place of business within the United
+States to which such income, gain, or loss is attributable and such income,
+gain, or loss --                     (i)
+consists of rents or royalties for the use of or for the privilege of using
+intangible property described in section 862(a)(4) derived in the active
+conduct of such trade or business,                     (ii) consists of dividends or
+interest, and either is derived in the active conduct of a banking, financing,
+or similar business within the United States or is received by a corporation
+the principal business of which is trading in stocks or securities for its own
+account; or                            (iii)
+is derived from the sale or exchange (outside the United States) through such
+office or other fixed place of business of personal property described in
+section 1221(1), except that this clause shall not apply if the property is
+sold or exchanged for use, consumption, or disposition outside the United
+States and an office or other fixed place of business of the taxpayer in a
+foreign country participated materially in such sale.  882. ...  (a)
+...                     (1)
+A foreign corporation engaged in trade or business within the United States
+during the taxable year shall be taxable ... on its taxable income which is
+effectively connected with the conduct of a trade or business within the United
+States.                     (2)
+In determining taxable income for purposes of paragraph (1), gross income
+includes only gross income which is effectively connected with the conduct of a
+trade or business within the United States.                     883. ...  (a)
+The following items shall not be included in gross income of a foreign
+corporation, and shall be exempt from taxation under this subtitle:                     (1) Gross income derived by a
+corporation organized in a foreign country from the international operation of
+a ship or ships if such foreign country grants an equivalent exemption to
+corporations organized in the United States.  III.  Judgments Below                     A.        Federal
+Court Trial Division, 92 D.T.C. 6305, per Muldoon J.  8                 Muldoon J. allowed Crown
+Forest's appeal from the Minister's tax assessment, holding that Norsk fit the
+definition of "resident of a Contracting State" in Article IV,
+paragraph 1 of the Convention.  9                 To determine whether Norsk was a
+"resident" of the United States for the purposes of the Convention,
+Muldoon J. queried whether Norsk was liable to tax in that state by reason of
+the criteria listed in Article IV, or by reason of any criterion of a similar
+nature.  He stated that the answer was a matter of United States law.  10               Muldoon J. referred at p. 6308 to
+expert opinion asserting that Norsk is liable to tax in the U.S. because it
+conducts a "trade or business which is effectively connected with the
+United States" and that the fact that its head office and place of
+management are in the U.S. constitutes a principal factor determining whether
+it carries on a trade or business in the U.S.  He found, at p. 6310, that
+"[t]he reason for which Norsk's income is effectively connected with a
+trade or business which it actively conducts in the U.S.A., is because Norsk's
+place of management is located in the U.S.A. where it conducts its trade or
+business".  Having characterized "place of trade or business" as
+an "other criterion of a similar nature" for the purposes of Article
+IV, paragraph 1 of the Convention, Muldoon J. then stated, at p. 6311, that:  If
+it were logically necessary to resort to the general analogous alternative
+expressed in article IV.1 of the Convention one would say, as the Court now
+holds: Norsk is a "resident" of the U.S.A. within the meaning of
+article IV.1 of the Convention because it is liable to tax under U.S. law by
+reason of its place of management and/or by reason of its place of conducting
+its trade or business...  11               Muldoon J. questioned why, if the
+negotiators of the Convention meant to exclude foreign corporations in the U.S.
+(such as Norsk) from the status of "resident of a Contracting State",
+they simply did not write into the Convention exactly what they supposedly
+meant to say.                     B.        Federal
+Court of Appeal, 94 D.T.C. 6107                     (i) per
+Heald J.A. (majority)  12               The Federal Court of Appeal
+dismissed the Crown's appeal.  Heald J.A., writing for himself and McDonald
+J.A., rejected the argument that Muldoon J. had erred in his findings of fact. 
+In fact, he affirmed that Norsk's liability for U.S. tax arises because the
+trade or business which it conducts is effectively connected with the U.S. and
+not because its place of management is located in the U.S.  Having stated at p.
+6112 that "[t]he issue is not the general application of U.S. tax law
+but its application to Norsk in particular" (emphasis in original) Heald
+J.A. said that Muldoon J.'s factual finding "was reasonably open to him on
+this record" and that "[i]n any event, by no stretch of the
+imagination, can it be said that the Trial Judge made a palpable or overriding
+error in the findings of fact which he made".  13               In considering whether the factual
+finding that Norsk's place of management is a prime factor in its liability to
+tax in the U.S. is sufficient to bring Norsk within Article IV, paragraph 1,
+Heald J.A. rejected four submissions forwarded by the Crown.  14               First, the Crown had argued that,
+since foreign corporations are not generally liable to tax in the U.S. on the
+basis of their place of management, Norsk cannot be found liable on this
+basis.  In response, Heald J.A.  ruled at p. 6112 that this contention
+"fails to take into account the particular circumstances which make Norsk
+liable.... [and] begs the very question that must be determined by this
+Court".  15               Second, it was argued that the
+inclusion of the phrase "or any other criterion of a similar nature"
+in Article IV, paragraph 1 indicates a common ground for liability under that
+article, specifically, liability to tax on a world-wide basis, and that Norsk is
+not liable on this basis.  Heald J.A. noted, however, that only domestic
+corporations are liable to tax on their world-wide income.  Referring to the
+Crown's interpretation of Article IV, paragraph 1 he reasoned, at p. 6113, inter
+alia:  Were this the intention of the Contracting
+States, such a result could have been achieved simply by stipulating that only
+domestic corporations subject to tax on 100% of their world-wide income are
+residents for the purposes of the Convention.  16               The third submission advanced by
+the Crown was that Muldoon J.'s finding that tax liability caused by the
+conduct of a business effectively connected with the U.S. is similar in nature
+to the tax liability caused by the place of management was tantamount to an
+amendment to the Convention.  Heald J.A.  dismissed this claim; he relied at p.
+6113 upon a passage from Muldoon J.'s judgment that "indicates that
+Norsk's liability to tax in the U.S. is by reason of its place of management,
+and that the Trial Judge would find Norsk to be liable by reason of a criterion
+of a similar nature only if it were `logically necessary'".  17               Lastly, it was argued that the
+interpretation given to Article IV, paragraph 1 by the trial judge would lead
+to anomalous results.  One example given was that, upon the taxpayer's
+interpretation, a foreign corporation engaged in trade or business in the U.S.
+could earn $100 of effectively connected income (taxable in the U.S.) and
+$1,000,000 of foreign source income (not taxable in the U.S.) and, yet, the
+foreign corporation would entirely escape tax liability in respect of that
+foreign source income.  Heald J.A.'s response was as follows: rejecting the
+"world-wide income" test as the only basis for tax liability does not
+mean that any corporation with U.S. source income is liable to tax in
+the U.S., and, thereby, automatically becomes a U.S. resident under the
+Convention.                     (ii) Décary J.A.
+(dissenting)  18               Décary J.A. dissented on two
+grounds.  First, he differed from Heald J.A. by concluding that at p. 6115
+"[t]he reason for which Norsk is liable to tax in the United States is not
+because its place of management is located in the United States, but because
+the trade or business it conducts is effectively connected with the United
+States, that connection being established, amongst various factors, by Norsk's
+place of management".  19               Second, referring to the grounds
+enumerated in Article IV, paragraph 1, Décary J.A. concluded at p. 6115 that:  The
+parties obviously intended to set out very specific criteria, the common
+element of all of them being that each was in itself and standing alone a basis
+for taxation, that each was easily, readily and objectively identifiable and
+that each could be related to a tangible location.  Any criterion "of a
+similar nature" must ... satisfy these common elements.  20               Remarking that the basis for
+Norsk's U.S. tax liability possesses none of these common elements, Décary J.A.
+went on at p. 6115 to hold that:                     To
+say that the fact that the place of management is a factor in determining the
+very reason of Norsk's liability to tax (i.e. conducting a business ...),
+renders Norsk liable to tax by reason of its place of management, is to
+transform a factor used in assessing a tax liability that does not fall under
+article IV, into one of the four criteria recognized by the article.  IV.  Issue on Appeal  21               Is Norsk a resident of one of the
+contracting parties to the Canada-United States Income Tax Convention (1980)
+pursuant to the following definition in Article IV thereof:                     1.  For the purposes of this Convention,
+the term "resident of a Contracting State" means any person who,
+under the laws of that State, is liable to tax therein by reason of his
+domicile, residence, place of management, place of incorporation or any other
+criterion of a similar nature...?  V.  Analysis  22               In interpreting a treaty, the
+paramount goal is to find the meaning of the words in question.  This process
+involves looking to the language used and the intentions of the parties.  Both
+upon the plain language reading of Article IV and through an interpretation of
+the goals and purposes of the Canada-United States Income Tax Convention
+(1980), I reach the same destination: to allow the appeal.                     A.        The
+Plain Language  23               At this stage of the analysis, the
+primary question to ask is why Norsk is liable to pay tax in the United
+States.  If its liability is rooted in the fact that "it is engaged in a
+trade or business effectively connected with the U.S.", then it would seem
+that Norsk is not a "resident" of the United States under Article IV
+since "engaged in a trade or business" is not listed as a
+factor to trigger residency under that article.  The only way residency could
+be found in such a situation would be to determine "engaged in a trade or
+business" to be a "similar criterion" under Article IV.  On the
+other hand, if Norsk's tax liability in the U.S. emanates from the fact that
+its "place of management" is in the U.S., then it would appear, prima
+facie, that Norsk could satisfy the residency requirements under Article
+IV, since "place of management" is a sufficient condition of
+residence.  24               Article IV states that the term
+"resident" means "any person who, under the laws of [the
+contracting party in question], is liable to tax therein by reason of...
+domicile, residence, place of management, place of incorporation or any other
+criterion of a similar nature".  The courts below found Norsk's place of
+residence to be in the United States.  At first blush, this seemingly disposes
+of the matter since such a finding appears to be sufficient to warrant a
+determination that Norsk is in fact a resident under the Convention.  25               Nevertheless, there is one
+important caveat.  Under Article IV it must be shown that the liability to
+taxation operates by reason of one of the listed grounds.  This connotes
+the existence of some sort of causal connection or, in the least, some
+relationship of proximity.  In my opinion, the fact that Norsk's place of
+management is in the U.S. is not causally or even proximately connected to the
+basis of Norsk's tax liability in the U.S.  Quite the contrary: in my mind, the
+reason why Norsk was liable to taxation in the U.S. was because of the income
+flowing from the business or trade it conducted that was connected to the
+United States.  26               I am supported in this conclusion
+by Muldoon J.'s summary at p. 6308 of the findings of Ginsburg, the expert
+witnesses called by Crown Forest to testify:  Norsk
+is liable to tax in the U.S.A. because it conducts a "trade or business
+which is effectively connected with the United States"....  This latter
+expression is not identified in the Internal Revenue Code... but is
+determined by subjective factors according to common law....  The United States
+taxes foreign corporations on the basis of the continuous and continuing
+conduct of an active trade or business within the territorial jurisdiction of
+the U.S. and taxes the trade's or business' worldwide income
+"sourced" either within or outside of the U.S. . . .  The fact that
+the foreign corporation's head office and place of management are in the U.S.
+are one factor -- a principal factor -- in determining whether it carries on a
+trade or business in the U.S. . . .  27               In fact, Ginsburg specifically
+testified (at p. 6308):  In our opinion, the fact that Norsk was entitled
+to the benefit of this Section 883 exemption does not alter the fact that its
+income was effectively connected with a U.S. trade or business, and therefor it
+is "liable to tax" in the United States by virtue of its
+effectively connected U.S. trade or business. [Emphasis added.]  28               Norsk's tax liability thus derived
+from s. 882 of the Internal Revenue Code which provides that a
+foreign corporation (such as Norsk) engaged in a trade or business within
+the United States shall be taxed in the same manner as a U.S. corporation only
+on that portion of its taxable income which is effectively connected with the
+conduct of its U.S. trade or business.  In this respect, for a foreign
+corporation to be liable, under American law, to taxation in the U.S. it must
+meet two conditions: (1) it must be "engaged in trade or business in the
+United States", and (2) it must have income which is "effectively
+connected" to that trade or business.  Clearly, a foreign corporation may
+have source income which is not effectively connected to its American
+operations; in that case, the U.S. would not have the jurisdiction to tax such
+income.  29               The place of management is only
+one factor in the determination of whether the first condition mentioned above
+is met.  To this end, ascertaining that Norsk is a resident under the
+Convention because its place of management is in the United States erroneously
+amounts to elevating a factor used in determining its tax liability into
+the actual grounds for that tax liability.  Place of management is one
+step removed from the true and immediate basis for tax liability.  30               I further note that, in the
+determination of whether a company is "engaged in a trade or a business
+within the United States", other factors may also be considered along with
+"place of management".  These are all analogous to "place of
+management" and include, but are not limited to: the extent of the
+activity within the country whose residence is claimed, the location of books
+and records, the location of the head office, the nationalities of the persons
+employed, the use of resources, the continuing conduct of the business over a
+period of time, and the location of the principal place of business.  I find it
+somewhat perverse to have all of these criteria individually elevated to actual
+grounds for tax liability; nevertheless, such a result logically flows from
+ascribing such a status to "place of management".  31               With respect, both Muldoon J. and
+Heald J.A. unfortunately conflated "place of management" and
+"engaged in business" and consequently introduced a degree of
+circularity into their reasons.  For example, Muldoon J. explicitly found, at
+p. 6309, that Norsk is liable to tax in the United States on income
+connected with a trade or business which it carries on in the United States and
+that both of the experts agreed, in principle, with this conclusion.  The fact
+that Norsk's place of management was in the U.S. was determined to be a "prime
+criterion" for determining whether Norsk was carrying on a trade or
+business in the United States.  Nevertheless, after arriving at these
+conclusions, Muldoon J. then went on to find that "place of
+management", even standing alone, could ground Norsk's U.S. tax liability
+and hence deem it a U.S. resident under the Convention.  32               In my view, the majority of the
+Federal Court of Appeal took an even more troublesome approach.  It noted, at
+p. 6111, that Norsk is liable to tax on that portion of its income which is
+effectively connected with the conduct of its U.S. trade or business but that,
+in making this finding, various factors are to be considered including: the
+head office location, the place of management, the extent of the activity
+within the U.S., the employment of individuals, the use of resources, and the
+continuity of the conduct of the business over a period of time. 33               In fact, the place of management
+criterion was found not to be a factor which in itself would determine the
+corporation's income to be effectively connected with the conduct of its U.S.
+trade or business.  Yet, despite arriving at these conclusions, the Court of
+Appeal at p. 6112 still found it not unreasonable to conclude, as did the trial
+judge, that "[t]he reason for which Norsk's income is effectively
+connected with a trade or business which it actively conducts in the U.S.A., is
+because Norsk's place of management is located in the U.S.A. where it conducts
+its trade or business".  The majority of the Court of Appeal then further
+found that Norsk benefitted from residency status under Article  IV
+because its place of management was in the United States.  However, the point
+of the matter is that the finding that Norsk's place of management is a prime
+factor in its liability to tax in the U.S. does not mean that its U.S. tax
+liability operates by reason of its place of management in the U.S.  34               This inconsistency was observed by
+Décary J.A. in dissent.  Décary J.A. correctly noted that a foreign corporation
+is not liable for tax in the United States by reason solely of its domicile, of
+its residence or of its place of management.  Décary J.A. also found, at p.
+6115, that the trial judge had erred in determining that Norsk was liable to
+tax in the U.S. by reason of its place of management:  The
+reason for which Norsk is liable to tax in the United States is not because its
+place of management is located in the United States, but because the trade or
+business it conducts is effectively connected with the United States, that
+connection being established, amongst various factors, by Norsk's place of
+management.  The nuance is of major significance: liability to tax derives from
+Norsk's trade or business, not from Norsk's place of management which, in
+itself, does not make Norsk liable to tax in the United States.                                                                     . . .                     To
+say that the fact that the place of management is a factor in determining the
+very reason of Norsk's liability of tax (i.e. conducting a business...),
+renders Norsk liable to tax by reason of its place of management, is to transform
+a factor used in assessing a tax liability that does not fall under article IV,
+into one of the four criteria recognized by the article.  Had the contracting
+states intended to qualify as residents foreign corporations liable to tax by
+reason of the conduct of their business, it would have been very easy to add
+another criterion such as conduct of business or place of business.  35               This analysis has been echoed in
+the academic literature.  For example, Michael Edwardes-Ker writes, in a
+case-comment on the Federal Court Trial Division judgment (The International
+Tax Treaties Service, at p. 10.5007):                     Muldoon
+J. seems to have assumed that because Norsk had a place of management in the
+US, it was liable to tax as a resident (i.e. full tax liability).  This
+is not the case; "place of management" is not a criterion for
+full tax liability in the US.  Norsk was liable to US tax because it had a
+US trade or business. The fact that this business included a place of
+management was simply a factor in establishing that a US trade or business
+existed. . . . [Emphasis by underlining added; italics in
+original.]  36               Out of this web of nuance flow, in
+my opinion, two conclusions: Norsk conducted a trade or business connected to
+the United States and Norsk's place of management was in the United
+States.   Both of these findings of fact appear fully reasonable; however, the
+veritable lynch-pin of Norsk's U.S. tax liability is the "engaged in a
+trade or business" criterion, not the "place of management". 
+While the courts below were correct that Norsk's place of management was a
+factor relevant to its American tax liability, they erred when they concluded
+that the legal basis of Norsk's tax liability was the fact that its place of
+management was in the U.S.  In other words, the courts below erred in
+interpreting the expression "by reason of" as found in the
+Convention.  37               The respondent argues that this
+Court should not interfere with the findings, allegedly of fact, of the trial
+judge.  It is further submitted that an appellate court should normally only
+overturn a trial judge's finding of fact if there is evidence of palpable or
+overriding error.  38               I agree with this latter
+submission.  However, at issue in this appeal are not factual findings, but the
+trial judge's interpretation of the Convention, this being a conclusion as to
+law or, in the least, mixed law and fact, and, hence, properly reviewable by an
+appellate court.  I further note that the expert testimony was clear that the
+legal basis for Norsk's tax liability was the "engaged in a business in
+the United States" criterion.  Therefore, it is proper to revisit the
+legal conclusions of the trial and Federal Court of Appeal judges and clearly
+find, as did Décary J.A. in dissent, that Norsk's U.S. tax liability as a
+foreign corporation arose by reason of the fact it derived some income which
+was effectively connected to the United States from a business in which it was
+engaged in the United States.  Although the barge income itself may not have
+been "effectively connected" to the United States, Norsk did have
+other sources of income that appear to be so connected.  39               Nevertheless, the analysis does
+not end here.  Should the respondent successfully demonstrate that
+"engaged in a business in the U.S." is a criterion of a nature
+similar to the enumerated grounds, then Norsk will be deemed to be a resident
+under the Convention.  40               I agree with the appellant that
+the most similar element among the enumerated criteria is that, standing alone,
+they would each constitute a basis on which states generally impose full tax
+liability on world-wide income: Klaus Vogel on Double Taxation Conventions
+(1991), at pp. 154-59; Joseph Isenbergh, International Taxation: U.S. 
+Taxation of Foreign Taxpayers and Foreign Income, vol. I (1990), at
+pp. 326-27.  In this respect, the criteria for determining residence in
+Article IV, paragraph 1 involve more than simply being liable to taxation on
+some portion of income (source liability); they entail being subject to as
+comprehensive a tax liability as is imposed by a state.  In the United States
+and Canada, such comprehensive taxation is taxation on world-wide income. 
+However, tax liability for the income effectively connected to a business
+engaged in the U.S., pursuant to s. 882 of the Internal Revenue Code,
+amounts simply to source liability.  Consequently, the "engaged in a
+business in the U.S." criterion is not of a similar nature to the
+enumerated grounds since it is but a basis for source taxation.  41               In sum, I endorse the following
+excerpt of the judgement of Décary J.A. (at p. 6115):                     To
+say that Norsk, which is not liable to tax by reason of its place of
+management, is liable to tax by reason of a criterion of a similar nature
+because its place of management is one of the factors to be considered in
+determining the very reason of its liability to tax, i.e. the conduct of a
+business..., is to beg the question and try to enter through a door that has
+already been closed.                     B.        What
+was the Intention of the Drafters of the Convention?  42               On a direct application of Article
+IV, I hold that Norsk is not a "resident".  This conclusion is
+confirmed when undertaken with an eye to the intentions of the drafters of the
+Convention and to the goals of international taxation treaties.  In other
+words, I do not believe that Norsk should be considered a resident under
+Article IV of the Convention nor that the designers of the Convention would
+have envisioned that it ought to benefit from the preferential tax treatment
+accorded to residents.  43               Reviewing the intentions of the
+drafters of a taxation convention is a very important element in delineating
+the scope of the application of that treaty. As noted by Addy J. in J. N.
+Gladden Estate v. The Queen, [1985] 1 C.T.C. 163 (F.C.T.D.), at pp. 166-67:                     Contrary
+to an ordinary taxing statute a tax treaty or convention must be given a
+liberal interpretation with a view to implementing the true intentions of
+the parties.  A literal or legalistic interpretation must be avoided when
+the basic object of the treaty might be defeated or frustrated in so far as the
+particular item under consideration is concerned.  [Emphasis added.]  See David A. Ward, "Principles To Be Applied in
+Interpreting Tax Treaties" (1977), 25 Can. Tax J. 263; see also
+the methodology used by this Court in Canada (Attorney General) v. Ward,
+[1993] 2 S.C.R. 689, at pp. 713-16 (albeit not within the context of
+taxation, but refugee determination).  A similar position underpins American
+jurisprudence.  In Bacardi Corp. of America v. Domenech, 311 U.S. 150
+(1940), the Supreme Court of the United States held at p. 163 that a treaty
+should generally be "construe[d] ... liberally to give effect to the
+purpose which animates it".  See also United States v. Stuart,
+489 U.S. 353 (1989), at p. 368, per Brennan J. (delivering the opinion
+of the Court).  44               Clearly, the purpose of the
+Convention has significant relevance to how its provisions are to be
+interpreted.  I agree with the intervener Government of the United States'
+submission that, in ascertaining these goals and intentions, a court may refer
+to extrinsic materials which form part of the legal context (these include
+accepted model conventions and official commentaries thereon) without the need
+first to find an ambiguity before turning to such materials.  45               I accept the appellant and
+intervener's submission that, since the application of the Convention is to be
+limited to taxpayers bearing full tax liability in one of the contracting
+parties, then Norsk cannot benefit from the Convention and is consequently not
+to be characterized as a resident under Article IV, paragraph 1.  As shall
+become apparent in the discussion infra, the courts below departed from
+the historical raison d'être of international tax treaties when
+proposing that the Canada-United States Income Tax Convention (1980),
+covers taxpayers liable only to source taxation in one of the contracting
+parties.  46               At this point in the analysis, it
+is important to take a step backwards and isolate exactly whom the Convention
+was intended to benefit.  The target group are Canadians working in the United
+States (or vice versa) and Canadian companies operating in the United
+States (again, or vice versa).  It was deemed important, in order to
+promote international trade between Canada and the U.S., to spare such
+individuals and corporations double taxation (consequently promoting the
+equitable allocation of profits of enterprises doing business in both
+countries): see Preamble to the Convention; see also Utah
+Mines Ltd. v. The Queen, 92 D.T.C. 6194 (F.C.A.), and U.S. Senate (Foreign
+Relations Committee), Tax Convention and Proposed Protocols with Canada,
+at p. 2: "The principal purposes of the proposed income tax treaty
+between the United States and Canada are to reduce or eliminate double taxation
+of income earned by citizens and residents of either country from sources
+within the other country, and to prevent avoidance or evasion of income taxes
+of the two countries."  An ancillary goal would also be to mitigate the
+administrative complexities occasioned by having to file simultaneously income
+tax returns in two unco-ordinated taxation systems.  47               I note that states have the
+jurisdiction to tax income arising from all commercial transactions, whether
+these be domestic or international in nature. Where money flows from a domestic
+to a foreign party, and the income received by the foreign party is outside the
+jurisdiction of the state, the state exercises its jurisdiction over the
+transaction by requiring the domestic party to withhold a certain amount from
+the foreign party.  This amount is what is termed a "withholding
+tax"; it is this type of tax that constitutes the subject matter of the
+appeal at bar.  Withholding taxes creates immediate problems, since it gives
+rise to the possibility that the taxpayer shall be vulnerable to double
+taxation on all foreign transactions.  The root of this double liability
+emanates from the fact that, upon one transaction, a withholding tax may be
+imposed by the payor's government and, at the same time, an income tax may be
+imposed by the recipient's government.  So, theoretically, international
+transactions could be subject to twice the tax exposure of domestic
+transactions.  This, in turn, creates a potential deterrent to foreign trade
+and transboundary transactions.  48               In the case at bar, I underscore
+that there is no need to prevent double taxation because the U.S. has declined
+to tax Norsk's revenue.  Although this does not affect Norsk's tax liability,
+the effect is still that Norsk is not required to pay any tax in the United
+States by virtue of the s. 883(a) exemption, this exemption arising by
+virtue of a reciprocal arrangement between the U.S. and the Bahamas, where
+Norsk is incorporated.  Further, it is unclear whether the specific rental
+income at issue is even, independent of the exemption, subject to taxation in
+the U.S. because, pursuant to s. 864(c)(4) of the Internal Revenue Code,
+it might not be considered to be effectively connected with the conduct of
+Norsk's American trade or business.  Allowing Norsk to benefit from the
+Convention in this case would actually lead to the avoidance of tax on the
+rental income because the liability for tax asserted by the Canadian
+authorities would be reduced notwithstanding that the United States chooses not
+to impose any tax thereon or does not even have the jurisdiction therefor.  49               The goal of the Convention is not
+to permit companies incorporated in a third party country (the Bahamas) to
+benefit from a reduced tax liability on source income merely by virtue of
+dealing with a Canadian company through an office situated in the United
+States.  As far as I can see it, if there were any tax convention that Norsk
+would be able to benefit from, it is that concluded between the U.S. and the
+Bahamas.  There is no reason to assume that, in the context of this case, Canada
+entered into a treaty with the United States with a view to ceding its taxing
+authority to a jurisdiction that is a stranger to the Convention, namely the
+Bahamas.  As mentioned earlier, the reason Norsk benefitted from the
+s. 883 U.S. Internal Revenue Code tax exemption was because it was
+incorporated in the Bahamas which grants an equivalent exemption to U.S.
+corporations.  It seems to me that both Norsk and the respondent are seeking to
+minimize their tax liability by picking and choosing the international tax
+regimes most immediately beneficial to them.  Although there is nothing
+improper with such behaviour, I certainly believe that it is not to be
+encouraged or promoted by judicial interpretation of existing agreements.  50               Nor do I believe it to have been
+within the intentions of the drafters of the Convention to permit a corporation
+(such as Norsk) who is liable for tax on a limited amount that is
+"sourced" to one of the contracting states -- in this case only on
+income that is effectively connected to the United States -- to avail itself of
+the benefits of the Convention even in respect of income which is not so
+connected and in respect of which the U.S. has no interest.  Naturally, were
+Norsk to be a domestic corporation, it could properly benefit from the
+Convention since it would be subject to double taxation on the rental income in
+the U.S. (by virtue of its residency) as well as in Canada (by virtue of the
+"source" principle).  51               The appellant submits that
+adopting the respondent's understanding of Article IV would lead to anomalous
+results and sets forth the following example:  Assume
+that ... a foreign corporation is engaged in a trade or business in the United
+States and earns $100 of "effectively connected income" (which is
+taxable in the U.S.) and $1,000,000 of foreign source "non-connected
+income" (assume income from Canada) which is not taxable in the United
+States.                     Pursuant
+to the Respondent's interpretation, [this corporation] would be considered to
+be a resident of the U.S. within the meaning of Article IV because it is liable
+to tax in the U.S. on the $100.  It would therefore be able to benefit from the
+Convention is respect of the $1,000,000 even though the U.S. declines to
+tax that income.  It is submitted that this was not intended by the contracting
+states, and that it would encourage enterprises to "treaty shop" by
+routing their income through a particular state in order to avail themselves of
+benefits that were designed to be given only to residents of the
+contracting states.  [Emphasis in original.]  52               But the shortcomings to the
+respondent's interpretation go beyond the scenarios envisioned by the
+appellant.  In fact, under the respondent's interpretation, a foreign
+corporation whose place of management is in the U.S. would be a resident of the
+U.S. for purposes of the Convention notwithstanding that such a corporation may
+not have any effectively connected income to the U.S. and hence no U.S. tax
+liability at all.  I find this possibility to be highly undesirable. 
+"Treaty shopping" might be encouraged in which enterprises could
+route their income through particular states in order to avail themselves of
+benefits that were designed to be given only to residents of the contracting
+states.  This result would be patently contrary to the basis on which Canada
+ceded its jurisdiction to tax as the source country, namely that the U.S. as
+the resident country would tax the income.  On this point, see also Richard G.
+Tremblay, "Crown Forest -- Tax Treaty Interpretation Bonanza" (1994),
+4 Can. Curr. Tax C41.  53               The respondent replies by
+submitting that it is the appellant's interpretation of Article IV that would
+give rise to anomalous results.  Most notably:  ...
+if a United Kingdom corporation, the sole business of which for 50 years has
+been operating a Wyoming ranch, receives some passive income from Canada, it
+would not be considered a resident of the United States under the Appellant's
+interpretation simply because of its historic place of incorporation, even
+though all of its economic connections are with the United States.  I find this scenario far less
+troubling than the one proposed by the appellants.  In the above situation, the
+mere incorporation of a company in the United States to which the passive
+income from Canada would flow would permit the taxpayer to benefit from the
+Convention.  54               I now turn to another set of
+extrinsic materials, other international taxation conventions and general
+models thereof, in order to help illustrate and illuminate the intentions of
+the parties to the Canada-United States Income Tax Convention (1980). 
+Articles 31 and 32 of the Vienna Convention on the Law of Treaties (Can.
+T.S. 1980 No. 37) indicate that reference may be made to these types of
+extrinsic materials when interpreting international documents such as taxation
+conventions; see also Hunter Douglas Ltd. v. The Queen, 79 D.T.C.
+5340, (F.C.T.D.), at pp. 5344-45, and Thiel v. Federal Commissioner of
+Taxation, 90 A.T.C. 4717 (H.C. Aust.), at p. 4722.  55               Of high persuasive value in terms
+of defining the parameters of the Canada-United States Income Tax Convention
+(1980) is the OECD Model Double Taxation Convention on Income and on
+Capital (1963, re-enacted in 1977): Arnold and Edgar, eds., Materials on
+Canadian Income Tax (9th ed. 1990), at p. 208.  As noted by the Court
+of Appeal, it served as the basis for the Canada-United States Income Tax
+Convention (1980) and also has world-wide recognition as a basic document
+of reference in the negotiation, application and interpretation of multilateral
+or bilateral tax conventions.  Article 4, paragraph 1 of the OECD Convention
+reads as follows:  1.                For
+the purposes of this Convention, the term "resident of a Contracting
+State" means any person who, under the laws of that State, is liable to
+tax therein by reason of his domicile, residence, place of management or any
+other criterion of a similar nature.  But this term does not include any
+person who is liable to tax in that State in respect only of income from
+sources in that State or capital situated therein.  [Emphasis added.]  56               The underscored sentence does not
+form part of Article IV of the Canada-United States Income Tax Convention
+(1980).  Nevertheless, as I will discuss below, I reject the respondent's
+argument (accepted by Heald J.A.) that the failure to reproduce the second line
+of the OECD Model Convention residency definition in Article IV of the Canada-United
+States Income Tax Convention (1980) indicates a desire to permit even those
+only liable for source income to qualify as residents under the Canada-United
+States Income Tax Convention (1980).  Consequently, I do not find that this
+omission indicates that the intention of the drafters of the Convention was to
+permit entities such as Norsk to benefit from "residency" status.  57               The Commentaries to the OECD Model
+Convention as well as academic sources indicate that generally the domestic
+laws of the contracting states employ residence to apply on "full-tax
+liability": paragraphs 3 and 8 to the Commentary to Article IV in Nathan
+Boidman, L. Frank Chopin and Alan W. Granwell, "Tax Effects for Canadians
+of the New U.S. Code and Treaty Residency Rules (Part Two)" (1985), 14 Tax
+Mgmt. Int'l J. 183, at pp. 184-85.  So, too, does the American Law
+Institute, Federal Income Tax Project -- International Aspects of United
+States Income Taxation II -- Proposals on United States Income Tax Treaties
+(1992), at pp. 127-28:                     Under the prevailing practice,
+a country entering into an income tax treaty extends the benefits of the treaty
+to a person or entity that is a "resident of (the other) Contracting State". 
+"Residence", in turn, is defined in terms of taxing jurisdiction.  A
+person or entity is considered resident in a country if that country asserts an
+unlimited right to tax his or its income -- that is, a right based upon the
+taxpayer's personal connection with the country (as opposed to the source of
+the income or other income- or asset-related factors).  The test of residence
+requires that the person or entity claiming treaty benefits be "fully
+taxable" in the residence country, in the sense of being fully subject to
+its plenary taxing jurisdiction.  Full tax liability is not satisfied in
+a case where an entity is liable to tax in a jurisdiction only on a part of its
+income.  58               The authority for the proposition
+that only those who are liable to tax on their world-wide income can be
+justifiably considered residents for the purposes of international taxation
+conventions is found in the first sentence in Article 4 of the OECD Model
+Convention and the absence of the second sentence in the Canada-United
+States Income Tax Convention (1980) does not detract therefrom.   This is
+because the second sentence is relevant to a situation in which a person is
+considered a resident under domestic law but where that person, by reason of a
+special privilege, nevertheless is not subject to tax on the basis of
+world-wide income.  Paragraph 8 of the Commentary on Article 4 of the OECD
+Model Convention addresses this point:  In accordance with the provisions of the second
+sentence of paragraph 1, however, a person is not to be considered a
+"resident of a Contracting State" in the sense of the Convention if,
+although not domiciled in that State, he is considered to be a resident
+according to the domestic laws but is subject only to a taxation limited to the
+income from sources in that State or to capital situated in that State.  That
+situation exists in some States in relation to individuals, e.g. in the case of
+a foreign diplomatic and consular staff serving in their territory.  59               In support of its submission that
+the second sentence of the OECD Model Convention Article 4 was omitted from
+Article IV of the Canada-United States Income Tax Convention (1980)
+because it simply was not required in the context of the Canadian and U.S.
+taxation systems, the appellant relies upon B. P. Dwyer and J. C. Ross
+("Canada -- Recent Cases Concerning Withholding Tax" (1992), 19 Tax
+Plan. Int'l Rev. 29 (a case-comment on the Federal Court Trial Division
+decision)).  At page 30 and footnote 19 of this comment, these authors
+conclude:                     The court's approach implies
+that a person taxed by a particular country solely on a source basis can be
+considered to be a resident of that country for treaty purposes.  This was
+apparently not Canada's view when it subscribed without reservation to the
+portion of the Commentary to the OECD Model Treaty that equates the "state
+of residence" with the state that imposes comprehensive tax liability.                                                                     . . .                     It may be questioned whether
+the omission of the second sentence of the residence definition in the
+Canada-U.S. treaty makes this agreement substantively different from the OECD
+Model, on the facts of Crown Forest. . . .  There is no
+indication in the Commentary to the 1977 OECD Model Treaty that the addition of
+the second sentence, which was not found in the 1963 OECD Model, was intended
+to affect the position of a person not viewed as a resident by the domestic law
+of the taxing state. . . . The 1977 Commentary and later OECD Reports make it
+clear that the change was intended to address the position of a person viewed
+as a resident by the domestic law of the taxing state (e.g., by reason
+of an attachment such as residence or place of management), but who, by reason
+of special privileges (diplomatic personnel, base companies, etc.) was not
+subject to worldwide taxation by the state. . . .  Canada did
+not need a provision like the second sentence, because its legislation
+generally does not include such source-taxation privileges.  60               I would also refer to Victor
+Peters, "Resident (Article 4)", Special Seminar on Analysis of
+Canada's Tax Conventions and Comparison to the O.E.C.D. Model Double Taxation
+Convention (1979).  Mr. Peters concludes at p. 49 that "in virtually any
+case in which [one] might wish to qualify for some sort of tax relief pursuant
+to a provision of the Model Treaty, [one] will first have to be able to qualify
+thereunder as a resident of at least one of the Contracting States".  61               Had this second sentence been
+included in the Canada-United States Income Tax Convention (1980) it
+would only have applied to exclude from the definition of a
+"resident" a domestic corporation if it were only subject to
+source-based taxation in the United States.  Since (as shall be further
+discussed infra) under U.S. law all domestic corporations are taxed on
+world-wide income, the second sentence was simply not required in the
+Convention.  62               The OECD Model Convention is not
+the only international agreement worthy of consideration as an extrinsic
+material.  I also draw from the U.N. Model Convention.  Article IV of this
+convention does not contain the "second sentence" but, in the
+Commentary thereto, recognizes that, in order for a person to be a
+"resident of a Contracting State", that person must be liable to tax
+in that state on world-wide income.  See also the Agreement between
+the Government of the United States of America and the Government of the
+People's Republic of China for the Avoidance of Double Taxation and the
+Prevention of Tax Evasion with respect to Taxes on Income (done at Beijing,
+April 30, 1984).  In this connection, I find persuasive the submission that
+only those corporations that are liable to taxation for the full amount of
+their world-wide income meet the definition of "resident" in the Canada-United
+States Income Tax Convention (1980).  This appears to me to be the
+intention of the contracting parties.  63               Moreover, as noted by La Forest J.
+in Thomson v. Thomson, [1994] 3 S.C.R. 551, at p. 578:                     It
+would be odd if in construing an international treaty to which the legislature
+has attempted to give effect, the treaty were not interpreted in the manner in
+which the state parties to the treaty must have intended.  This is also the view in American
+jurisprudence.  The Supreme Court of the United States, in Sumitomo Shoji
+America, Inc. v. Avagliano, 457 U.S. 176 (1982), at pp. 184-85, held that
+"[a]lthough not conclusive, the meaning attributed to treaty provisions by
+the Government agencies charged with their negotiation and enforcement is
+entitled to great weight".  64               I am sensitive to the fact that
+limiting residence to those taxed only on world-wide income effectively narrows
+the benefits of the Convention (in so far as American companies are concerned)
+only to entities actually incorporated in the United States.  After all,
+"foreign corporations" (i.e., those not incorporated in the United
+States) remain liable only for their U.S. source income.  This was a concern of
+Heald J.A., at p. 6113. For my part, I see nothing fundamentally unjust
+with the situation where, owing to the nature of U.S. tax legislation, the
+Convention would be limited to those who actually incorporated in the U.S.
+(i.e., those who are actually American residents).  After all, why should
+entities not regarded as "residents" by a contracting state be
+regarded as residents of that state for the purposes of the Convention? 
+Article I of the Convention specifically states that it is generally applicable
+to persons who are "residents of one or both of the Contracting
+States"; see also the Technical Explanation of United
+States-Canada Income Tax Convention, 1980 which, with respect to Article
+IV, notes at p. 1349: "Article IV provides a detailed definition of the
+term `resident of a Contracting State'.  The definition begins with a person's
+liability to tax as a resident under the respective taxation laws of the
+Contracting States."  I do not really see anything
+"tautological" (as alleged by the respondent) about grounding
+residency under the Convention in actual residency in one of the contracting
+parties according to that party's domestic legislation.  As noted by the
+appellant, the Convention was not intended to allow entities to achieve a
+higher status of residence under its terms than would be available at domestic
+law.  65               The intervener makes several
+informative submissions that support the conclusion that it was expressly
+intended by the United States to have residence under the Convention determined
+(for its part) only by place of incorporation.  It is noted that Article 4, paragraph
+1 of the OECD Model Convention does not contain "place of
+incorporation" as grounds for residence.  However, recognizing that
+"place of incorporation" is the only criterion that has any relevance
+to the determination of world-wide tax liability under U.S. law, the U.S.
+entered a reservation to Article 4, paragraph 1 for the right to use
+"place of incorporation" as an indicator of residence.  However, in
+order to preserve overall conformity with the OECD Model Convention, the
+decision was taken not to remove the other OECD criteria from Article IV,
+paragraph 1.  Nevertheless, the term "place of incorporation" is the
+only term in Article IV, paragraph 1 that governs the determination of the
+residence of a corporation in the United States for purposes of its tax
+conventions.  66               It is for this reason that the
+trial judge's rhetorical conclusion, at p. 6310, ("if the negotiators of
+the Convention meant to exclude foreign corporations in the U.S., like Norsk,
+from the status of "resident of a Contracting State" (i.e., the
+U.S.A.) one wonders why they simply did not write into the Convention exactly
+what they allegedly meant to say") must be rejected.  The extrinsic
+materials reveal that such explicit "writing-in" was simply not necessary. 
+This analysis helps further rebut the respondent's other submission that, since
+in its tax treaties with other nations the U.S has chosen to utilize more
+restrictive language in terms of the definition of "resident", the
+intention of the U.S. in its agreement with Canada was not to limit the benefit
+of the Convention solely to those liable to taxation on world-wide income.  67               In sum, the intentions of the
+drafters of the Convention and the other extrinsic materials demonstrate that
+Norsk is not a resident under the Convention. VI.  Conclusions and Disposition  68               My conclusions may be summarized
+as follows:  1.The
+basis of Norsk's liability for taxation in the United States emanates from the
+fact that it conducts a trade or business which is effectively connected with
+the United States and has income arising from that business which is also
+effectively connected with the United States.  Although the fact that its
+"place of management" is located in the United States is one factor
+contributing to the finding that its trade or business is connected with the
+United States, it does not constitute the basis for Norsk's tax liability in
+the first place.  A factual proposition which merely informs domestic tax
+liability cannot constitute a residency criterion under the Convention.  2.As
+such, the only way for Norsk to benefit from residency status under the Convention
+is if source taxation on a business effectively connected with the contracting
+party constitutes a criterion similar to the other enumerated criteria in
+Article IV (residence, place of management, place of incorporation, domicile). 
+It is not similar, since all of the other criteria constitute grounds for
+taxation on world-wide income, not just source income.  3.The
+parties to the Convention intended only that persons who were resident in one
+of the contracting states and liable to tax in one of the contracting states on
+their "world-wide income" be considered "residents" for
+purposes of the Convention.  4.Norsk
+is thus not a "resident" of the United States for the purposes of
+Article IV of the Canada-United States Income Tax Convention (1980).  69               As a result, the courts below
+erred in limiting Crown Forest's non-resident withholding tax to 10 percent
+instead of 25 percent.  Consequently, I would allow the appeal with costs
+throughout, set aside the judgment of the Federal Court of Appeal, and in
+substitution therefor restore the Minister's assessment of 25 percent
+withholding tax required of Crown Forest on rental payments to Norsk for the
+taxation years in question.                     Appeal allowed.                     Solicitor for the
+appellant:  John C. Tait, Ottawa.                     Solicitors for the
+respondent:  Thorsteinssons, Vancouver.                     Solicitors for the
+intervener:  Gowling, Strathy & Henderson, Ottawa.   

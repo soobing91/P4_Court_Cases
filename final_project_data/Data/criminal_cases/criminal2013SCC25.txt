@@ -1,0 +1,545 @@
+  SUPREME
+COURT OF CANADA  Citation: R. v. Levkovic, 2013 SCC 25, [2013] 2 S.C.R. 204 Date: 20130503 Docket: 34229  Between: Ivana
+Levkovic Appellant and Her
+Majesty The Queen Respondent - and - Attorney
+General of Canada and Criminal
+Lawyers’ Association of Ontario Interveners    Coram: McLachlin C.J. and LeBel, Fish, Abella, Rothstein, Cromwell
+and Moldaver JJ.  Reasons
+  for Judgment: (paras. 1 to 81) Fish J. (McLachlin C.J. and LeBel,
+  Abella, Rothstein, Cromwell and Moldaver JJ. concurring)      R. v.
+Levkovic, 2013 SCC 25, [2013] 2 S.C.R. 204 Ivana Levkovic                                                                                                Appellant v. Her Majesty The Queen                                                                              Respondent and Attorney General of Canada and Criminal Lawyers’ Association
+of Ontario                                                Interveners Indexed as:  R. v. Levkovic 2013 SCC 25 File No.:  34229. 2012:  October 10; 2013:  May 3. Present:  McLachlin C.J. and LeBel, Fish, Abella, Rothstein,
+Cromwell and Moldaver JJ. on appeal from the court of appeal for ontario                     While
+cleaning a recently vacated apartment, a building superintendent discovered on
+the balcony a bag containing the remains of a human baby.  According to the
+Crown, the remains were of a female delivered “at or near full term”.  The
+cause of death could not be determined and it was unknown whether there had
+been a live birth.  The accused was charged under s. 243  of the Criminal
+Code  with concealing the dead body of a child.  Before any evidence was
+called, she challenged the constitutionality of s. 243  on the grounds that
+the section infringes her right to liberty and security under s. 7  of the
+Charter .  The trial judge concluded that the concept of a child that died
+before birth is unconstitutionally vague because he could not identify the
+moment on the gestational spectrum when a fetus becomes the body of a child for
+the purpose of s. 243 .  He severed the word “before” from s. 243 .  The
+Crown did not call evidence and the accused was acquitted.  The Court of Appeal
+allowed an appeal and ordered a new trial on the grounds that the trial judge
+applied an overly demanding standard of vagueness.  The Court of Appeal relied
+on the “chance of life” standard from R. v. Berriman (1854), 6 Cox C.C.
+388, to conclude that a fetus becomes a child for the purpose of s. 243  when
+the fetus has reached a stage when, but for some external event or
+circumstance, it would likely have been born alive.                     Held:  The appeal
+should be dismissed.                     Impermissibly
+vague laws mock the rule of law and scorn an ancient and well-established principle
+of fundamental justice:  No one may be convicted or punished for an act or
+omission that is not clearly prohibited by a valid law.  The issue on this
+appeal is whether s. 243  of the Criminal Code  satisfies these
+constitutional requirements.                     The
+risk of incarceration upon conviction clearly engaged the accused’s liberty
+interest under s. 7  of the Charter .  It is thus unnecessary to
+dispose of her submission that s. 243  infringes s. 7  because it
+interferes with a decision of fundamental personal importance:  whether and how
+to disclose the natural end of a failed pregnancy.  Furthermore, the accused’s
+argument that s. 7  of the Charter  must hold s. 243  to a
+heightened standard of precision because it interferes with every woman’s right
+not to disclose a naturally failed pregnancy raises a challenge for vagueness
+in form but overbreadth in substance.  Given that the accused’s overbreadth
+arguments were rejected by both courts below and not raised on this appeal,
+there is no proper basis to revisit the issue here.                     In
+accordance with s. 7  of the Charter , in a criminal context, a
+statutory provision must afford citizens fair notice of the consequences of
+their conduct and it must limit the discretion of those charged with its
+enforcement.  A provision that fails to satisfy these essential requirements is
+void for vagueness.  This is judicially determined by examination of both the
+provision’s text and context.  Section 243  meets the minimum standard of
+precision required by the Charter .  In its application to a child that
+died before birth, it only captures the disposal of the remains of children
+that were likely to be born alive.  A conviction will only lie where the Crown
+proves that the child, to the knowledge of the accused, was likely to have been
+born alive.  Section 243  gives fair notice of the risk of prosecution and
+conviction and limits with sufficient clarity the discretion of those charged
+with its enforcement.  There is thus no need to conduct a s. 1  analysis.                     A
+court can conclude that a law is unconstitutionally vague only after exhausting
+its interpretive function.  This requires considering prior judicial
+interpretations of the provision, the legislative purpose of the provision, its
+subject matter and nature, societal values and related legislative provisions. 
+A plain reading of s. 243  makes clear that it is focused on the event of
+birth.  The interpretation of s. 243  is informed by Berriman, which
+sets out that an accused can only be convicted of child concealment if he or
+she, with intent to conceal its birth, disposed of the body of a child that had
+reached a point of development where, but for some accidental circumstances it
+might have been born alive.  However, where Berriman required that the
+fetus “might have been born alive”, a likelihood requirement is
+to be preferred.  A likelihood standard best comports with the late term focus
+of s. 243  and affords greater certainty in its application.  Moreover, a
+likelihood standard is consistent
+with the primary purpose of s. 243  in facilitating the investigation of
+other Criminal Code  provisions: the homicide provisions that apply only
+when the victim is a human being which, in the case of a child, requires that
+the child has completely proceeded, in a living state, from the body of its mother;
+ss. 238  and 242 , both of which focus on the event of birth; and, s. 662(4) 
+which, on a charge of murder or infanticide, permits a conviction under s. 243 
+where neither murder nor infanticide is made out.  Limiting
+the pre-birth application of s. 243  to fetuses that were likely to have
+been born alive is consistent with the clear late term focus of these offences.                     Section 243 
+is not vague because an accused is dependent on expert medical evidence to know
+whether a fetus would likely have been born alive.   Medical evidence would be
+required even if s. 243  provided a detailed description of the precise
+moment on the gestational spectrum where a miscarriage becomes a still birth. Cases Cited                     Discussed:
+ R. v. Berriman (1854), 6 Cox C.C. 388; referred to:  Reference
+re ss. 193 and 195.1(1)(c) of the Criminal Code (Man.), [1990] 1
+S.C.R. 1123; Connally v. General Construction Co., 269 U.S. 385 (1926); Cline
+v. Frink Dairy Co., 274 U.S. 445 (1927); R. v. Mabior, 2012 SCC 47,
+[2012] 2 S.C.R. 584; Canada (Attorney General) v. PHS Community Services
+Society, 2011 SCC 44, [2011] 3 S.C.R. 134; R. v. Nova Scotia
+Pharmaceutical Society, [1992] 2 S.C.R. 606; Canadian Foundation for
+Children, Youth and the Law v. Canada (Attorney General), 2004 SCC 4, [2004]
+1 S.C.R. 76; Ontario v. Canadian Pacific Ltd., [1995] 2 S.C.R. 1031; Osborne
+v. Canada (Treasury Board), [1991] 2 S.C.R. 69. Statutes and Regulations Cited Canadian Charter of Rights and Freedoms,
+ss. 1 , 7 . R.R.O. 1990, Reg. 1094, s. 20. Authors Cited Manning, Morris, and Peter Sankoff.  Manning, Mewett &
+Sankoff:  Criminal Law, 4th ed.  Markham, Ont.:  LexisNexis, 2009. Ontario.  Inquiry into Pediatric Forensic Pathology in Ontario: 
+Report, vol. 1.  Toronto:  Ministry of the Attorney General, 2008. Stuart, Don.  Canadian Criminal Law:  A Treatise, 6th ed.  Scarborough,
+Ont.:  Carswell, 2011. Williams, Glanville.  Criminal Law:  The General Part, 2nd
+ed.  London:  Stevens & Sons, 1961.                     APPEAL
+from a judgment of the Ontario Court of Appeal (Doherty, Armstrong and Watt
+JJ.A.), 2010 ONCA 830, 103 O.R. (3d) 1, 223 C.R.R. (2d) 261, 271 O.A.C. 177,
+264 C.C.C. (3d) 423, 81 C.R. (6th) 376, [2010] O.J. No. 5252 (QL), 2010
+CarswellOnt 9252, setting aside the acquittal entered by Hill J. (2008), 235
+C.C.C. (3d) 417, 178 C.R.R. (2d) 285, 2008 CanLII 48647, [2008] O.J. No. 3746
+(QL), 2008 CarswellOnt 5744, and ordering a new trial.  Appeal
+dismissed.                     Jill Copeland, Delmar Doucette, Jessica Orkin and Nicole Rozier, for the appellant.                     Jamie Klukach and Gillian Roberts, for the respondent.                     Robert J.
+Frater and Richard Kramer, for the intervener the Attorney
+General of Canada.                     Marie Henein and Danielle Robitaille, for the intervener the Criminal
+Lawyers’ Association of Ontario.                     The judgment of the Court was
+delivered by                     Fish J. — I [1]                             
+Impermissibly vague laws mock the rule of law
+and scorn an ancient and well-established principle of fundamental justice: No
+one may be convicted or punished for an act or omission that is not clearly
+prohibited by a valid law.  That principle is now enshrined in the Canadian
+Charter of Rights and Freedoms . This has been recognized by the Court since
+its earliest pronouncements on unconstitutional vagueness in the Charter 
+era. [2]                             
+In Reference re ss. 193 and 195.1(1)(c) of
+the Criminal Code (Man.), [1990] 1 S.C.R. 1123, the Court cited with
+approval two decisions of the Supreme Court of the United States[1] holding that
+“impermissibly vague laws” violate “the first essential of due process of law”
+(p. 1151), and continued as follows: [3]                             
+And very recently, speaking for the Court in R.
+v. Mabior, 2012 SCC 47, [2012] S.C.R. 584, Chief Justice McLachlin
+reaffirmed the governing principle in these terms: It is a fundamental requirement of the
+rule of law that a person should be able to predict whether a particular act
+constitutes a crime at the time he commits the act.  The rule of law requires
+that laws provide in advance what can and cannot be done . . . .  Condemning
+people for conduct that they could not have reasonably known was criminal is
+Kafkaesque and anathema to our notions of justice.  After-the-fact condemnation
+violates the concept of liberty in s. 7  of the Canadian Charter of Rights
+and Freedoms  and has no place in the Canadian legal system. [para. 14] [6]                             
+The trial judge held that it is; the Ontario
+Court of Appeal held that it is not.  With respect for the contrary conclusion
+of the trial judge, I agree with the Court of Appeal. [7]                             
+The appellant argues that s. 7  of the Charter 
+must hold s. 243  to a more exacting standard of precision because it
+interferes with what in her view is a constitutionally protected personal
+autonomy and privacy interest: every woman’s right not to disclose a naturally
+failed pregnancy. [9]                             
+It seems to me that the appellant’s submission
+regarding a woman’s right not to disclose a naturally failed pregnancy amounts
+to a challenge for vagueness in form but overbreadth in substance.  A challenge
+for overbreadth would require the Court to balance the impact of s. 243  on the
+appellant’s constitutionally protected interests against the impact necessary
+for s. 243  to achieve its justified legislative objectives.  The appellant’s
+arguments regarding this balance were rejected by both courts below.  Moreover,
+there is no challenge for overbreadth on this appeal.  And it is not open to
+the appellant, in characterizing her privacy interest submission as a vagueness
+challenge, to circumvent this balancing exercise that informs a proper
+constitutional challenge for overbreadth. [10]                         
+There is otherwise no dispute regarding the
+analytical framework for determining whether a statutory provision is void for
+vagueness.  Nor is there any dispute as to the governing criteria: In a
+criminal context, the impugned provision must afford citizens fair notice of
+the consequences of their conduct and limit the discretion of those charged
+with its enforcement. [11]                         
+Whether the provision satisfies these essential
+requirements will be judicially determined by examination of both its text and
+context.  Normally, in making that determination, the court will first consider
+the plain meaning of the words used by Parliament to define the essential
+elements of the offence.  In this regard, the requirement of a specific intent,
+as in this case, will often shed light on the intelligibility of the terms used
+to describe the prohibited act or omission. [12]                         
+I shall later have more to say about these
+established rules of interpretation.  As we shall see, their application here
+leads me to conclude that s. 243  of the Criminal Code  is not
+impermissibly vague in its application to a child that dies before birth.  Only
+that aspect of the provision is in issue on this appeal. [13]                         
+Any ambiguity as to this element of the offence
+is resolved in favour of the accused, as it must be, by restricting the
+pre-birth application of s. 243  to the delivery of a child that would likely
+have been born alive.  By this I mean, here and throughout, a child that has
+reached a stage of development where, but for some external event or
+circumstances, it would likely have been born alive. [14]                         
+I recognize, of course, that provincial and
+territorial legislation requires reporting of all stillbirths, generally
+defined as “the complete expulsion or extraction from its mother of a product
+of conception either after the twentieth week of pregnancy or after the product
+of conception has attained the weight of 500 grams or more [without signs of
+life]”, or words to this effect: see, for example, Vital Statistics Act,
+R.S.O. 1990, c. V.4, s. 1. [16]                         
+Finally, a brief word regarding the fault
+element of s. 243  in its application to a child that died before birth.  The
+Crown concedes, properly in my view, that the burden of proof would be on the
+prosecution to establish the accused’s awareness that the child died at a time
+when it was likely to be born alive.  Any doubt in this regard would require an
+acquittal.  In addition, as in cases where the child dies at or after birth, the
+prosecution must prove that the accused disposed of its body “with intent to
+conceal the fact that [the child’s] mother has been delivered of it”. [17]                         
+For these reasons and the reasons that follow, I
+would dismiss the appellant’s appeal to this Court, affirm the judgment of the
+Court of Appeal, and remit the matter for trial. II [18]                         
+By agreement, the appellant’s constitutional
+challenge to s. 243  was heard and decided by the trial judge before any
+evidence was called.  Accordingly, the facts alleged by the Crown remain to
+this day unproven and are thus conditionally relevant here as a matter of
+context only. [19]                         
+For present purposes, the following summary will
+suffice. [20]                         
+While cleaning a recently vacated apartment, a
+building superintendent discovered on the balcony a bag containing the remains
+of a human baby.  Post-mortem examination revealed that the remains were of a
+female delivered “at or near full term”: R.F., at para. 8.  Due to the
+decomposition of the remains, the cause of death could not be determined and it
+was unknown whether there had been a live birth. [21]                         
+Following media reports of the superintendent’s
+discovery, Ivana Levkovic, the appellant in this Court, attended at a police
+station and gave a statement to the police.  She gave birth to the baby, she explained,
+after falling while alone in the apartment.  She then placed the baby in a bag,
+deposited the bag on the balcony, and left the apartment.  Nothing in her
+statement to the police suggests that the baby was alive at birth. [22]                         
+Ms. Levkovic was charged with concealing the
+body of a child under s. 243  of the Criminal Code .  She pleaded not
+guilty and, before any evidence was called, challenged the constitutionality of
+s. 243  on the ground that it is impermissibly vague in its application to a child
+that died before birth.  To this extent, she submitted, s. 243  violates s.
+7  of the Charter . [23]                         
+The trial judge granted Ms. Levkovic’s
+application: (2008), 235 C.C.C. (3d) 417.  He concluded that the concept of a
+child that died before birth is unconstitutionally vague because he could not
+identify the moment on the gestational spectrum when a fetus becomes the body
+of a child within the meaning of s. 243 . [24]                         
+To bring the provision into compliance with s. 7 
+of the Charter , the trial judge severed the word “before” from the text
+of the provision, thereby limiting its application to children that died either
+during or after birth. [25]                         
+The Crown elected to call no evidence and the
+trial judge acquitted the appellant. [26]                         
+The Court of Appeal allowed an appeal by the
+Crown, set aside the decision of the trial judge, restored the pre-birth
+application of s. 243 , and ordered a new trial: 2010 ONCA 830, 103 O.R. (3d) 1. [27]                         
+The Court of Appeal concluded that the trial
+judge had erred by applying an overly demanding standard of vagueness and in
+failing to apply R. v. Berriman (1854), 6 Cox C.C. 388 (Surrey Assizes),
+to his interpretation of s. 243 .  Relying on Berriman, the Court of
+Appeal held that a fetus becomes a child for the purpose of s. 243  upon
+reaching a stage in its development when, but for some external event or other
+circumstances, it would likely have been born alive. [28]                         
+Ms. Levkovic now asks this Court to overrule the
+Court of Appeal and restore her acquittal.  She raises two main grounds:  (1)
+that the Court of Appeal erred in conducting an insufficiently contextual
+vagueness analysis, overlooking the full impact of s. 243  on her Charter -protected
+right to liberty and security; and (2) that the Court of Appeal erred in
+relying on the chance of life standard to uphold the constitutionality
+of s. 243 . III [29]                         
+Plainly, Ms. Levkovic’s prosecution under s. 243 
+of the Criminal Code  engages her liberty interest under s. 7  of the Charter ,
+given the risk of her incarceration upon conviction: Canada (Attorney
+General) v. PHS Community Services Society, 2011 SCC 44, [2011] 3 S.C.R.
+134, at para. 87. [30]                         
+It is therefore unnecessary at this stage to
+dispose of the appellant’s submission that s. 243  also infringes her
+liberty and security under s. 7  of the Charter  because it interferes
+with a decision of fundamental personal importance: whether and how to disclose
+the natural end of a failed pregnancy. [31]                         
+Accordingly, I now turn instead to consider
+whether s. 243 , though it engages s. 7  of the Charter , nevertheless
+passes constitutional muster because it accords with the principles of
+fundamental justice. IV [32]                         
+The doctrine against vagueness is founded on two
+rationales: a law must provide fair notice to citizens and it must limit
+enforcement discretion.  Understood in light of its theoretical foundations,
+the doctrine against vagueness is a critical component of a society grounded in
+the rule of law:  R. v. Nova Scotia Pharmaceutical Society, [1992] 2
+S.C.R. 606, at pp. 626-27; Canadian Foundation for Children, Youth and the
+Law v. Canada (Attorney General), 2004 SCC 4, [2004] 1 S.C.R. 76, at
+para. 16. [33]                         
+Since long before the Charter , Canadian
+criminal law has adhered to the principle of certainty: prohibited conduct must
+be fixed and knowable in advance: M. Manning and P. Sankoff, Manning, Mewett & Sankoff: 
+Criminal Law (4th ed. 2009), at p. 76.  As
+Glanville Williams explained in Criminal Law: The General Part (2nd ed.
+1961), at pp. 575-76 (cited in D. Stuart, Canadian Criminal Law:  A Treatise
+(6th ed. 2011), at pp. 20-21):  . .
+. “Law” for this purpose means a body of fixed rules; and it excludes wide
+discretion even though that discretion be exercised by independent judges.  The
+principle of legality involves rejecting “criminal equity” as a mode of
+extending the law. [34]                         
+This does not mean that an individual must know
+with certainty whether a particular course of conduct will ultimately result in
+a conviction of the crime that prohibits such conduct.  What it does mean is
+that the essential elements of the crime must be ascertainable in advance.  If
+an accused must wait “until a
+court decides what the contours and parameters of the offence are then the
+accused is being treated unfairly and contrary to the principles of fundamental
+justice”:  Manning, at pp. 75-76. [35]                         
+Individuals are nonetheless expected to refrain
+from conduct that tests the boundaries of criminal law lest they bear the
+consequences of the risk they have knowingly assumed: see Canadian
+Foundation for Children, at para. 42.  Understandably, the appellant
+acknowledges that the Constitution contemplates a necessary degree of
+imprecision in this regard.  She submits, however, that such imprecision is
+unconstitutional if it requires individuals to refrain from constitutionally
+protected conduct. [36]                         
+The appellant argues that s. 243  must explicitly
+draw a dividing line between miscarriages and stillbirths lest a woman feel
+compelled by her uncertainty to give up more of her Charter -protected
+privacy than necessary.  In effect, the appellant urges the Court to modify the
+well-established vagueness standard by introducing an additional factor into
+the vagueness analysis:  the potential chilling impact of the impugned
+provision on Charter -protected interests.  I would decline this
+invitation to vary the governing analytical framework established by the
+Court. [37]                         
+The rule against unconstitutional vagueness is
+primarily intended to assure the intelligibility of the criminal law to those
+who are subject to its sanctions and to those who are charged with its
+enforcement.  As this Court stated in Ontario v. Canadian Pacific Ltd.,
+[1995] 2 S.C.R. 1031, at para. 82: In the
+context of vagueness, proportionality plays no role in the analysis.  There is
+no need to compare the purpose of the law with its effects (as in overbreadth)
+. . . . A court is required to perform its interpretive function, in order to
+determine whether an impugned provision provides the basis for legal debate. [38]                         
+This does not mean that the impact of s. 243  on
+a woman’s privacy interests is irrelevant to its constitutionality.  However,
+it is important to maintain the analytical distinction between true vagueness
+and the additional vagueness concern raised by the appellant.  The latter, in
+my view, is more appropriately considered an aspect of overbreadth and dealt
+with in that context.  As the respondent rightly points out, failing to do so
+would create a “lopsided” analysis that “takes account of individual interests
+. . . without equal regard to the law’s objectives”: R.F., at para. 63. [39]                         
+As this Court held in Nova Scotia
+Pharmaceutical, “once the minimal general standard has been met, any
+further arguments as to the precision of the enactments should be considered at
+the ‘minimal impairment’ stage of s. 1 analysis” (p. 643).  Or, in this
+case, where no Charter  violation has yet been established and there is
+therefore no need to consider s. 1, additional precision-based arguments
+relating to the scope of the provision should be considered in an overbreadth
+analysis. [40]                         
+Where a law meets the minimum standard of
+precision required by the Charter , it may nevertheless by
+“[g]enerality and imprecision of language . . . fail to confine the invasion of
+a Charter  right within reasonable limits.  In this sense vagueness is an
+aspect of overbreadth”: Osborne v. Canada (Treasury Board), [1991] 2
+S.C.R. 69, at pp. 94-95. [41]                         
+Given that the appellant’s overbreadth arguments
+were rejected by both courts below and not raised on this appeal, there is no
+proper basis to revisit the issue here. [42]                         
+I turn then to the question at the heart of this
+appeal:  Does s. 243 sufficiently limit enforcement discretion and provide
+citizens with fair notice of the type of conduct that risks criminal sanction? 
+As mentioned at the outset, I believe that it does. V [43]                         
+Section 243 states: 243. Every one who in any manner disposes of the dead body of a child,
+with intent to conceal the fact that its mother has been delivered of it,
+whether the child died before, during or after birth, is guilty of an
+indictable offence and liable to imprisonment for a term not exceeding two
+years. [45]                         
+Despite this clear connection to the event of
+birth, the appellant argues that the word “before” renders s. 243 vague because
+it does not clearly distinguish a birth from a miscarriage.  In other words, a
+woman may not know whether she has miscarried and is therefore outside the
+scope of s. 243, or has instead experienced a stillbirth and may therefore be
+caught by s. 243.  From the appellant’s perspective, the transition point
+between miscarriage and stillbirth is critical.  It represents the moment when
+a fetus becomes a child and therefore delineates the boundary between
+permissible and criminal conduct: only the concealment of the body of a child
+is caught by s. 243. [46]                         
+Thus, the central vagueness question is whether
+s. 243 sufficiently identifies the moment on the gestational spectrum when a
+miscarriage becomes a stillbirth.  The answer to this question does not lie
+entirely and exclusively in the text of s. 243. [47]                         
+A court can conclude that a law is
+unconstitutionally vague only after exhausting its interpretive function.  The
+court “must first develop the full interpretive context surrounding an impugned
+provision”: Canadian Pacific, at paras. 47 and 79. [48]                         
+To develop a provision’s “full interpretive
+context”, this Court has considered: (i) prior judicial interpretations; (ii)
+the legislative purpose; (iii) the subject matter and nature of the impugned
+provision; (iv) societal values; and (v) related legislative provisions: Canadian
+Pacific, at paras. 47 and 87. [49]                         
+Relevant jurisprudence as to the scope of this
+offence dates back over 150 years to the English case of Berriman.  Ms.
+Berriman was charged with concealing the birth of her child.  The police linked
+Ms. Berriman to the “half calcined” bones of a baby with a gestational age of
+seven to nine months.  Erle J. instructed the jury not to convict if the fetus
+could have had no “chance of life”: This offence cannot be
+committed unless the child had arrived at that stage of maturity at the time of
+birth, that it might have been a living child. It is not necessary that it
+should have been born alive, but it must have reached a period when, but for
+some accidental circumstances, such as disease on the part of itself or of its
+mother, it might have been born alive.  There is no law which compels a
+woman to proclaim her own want of chastity, and if she had miscarried at a time
+when the fœtus was but a few months old, and therefore could have had no chance
+of life, you could not convict her upon this charge. No specific limit can be assigned
+to the period when the chance of life begins, but it may, perhaps, be safely
+assumed that under seven months the great probably [sic] is that the
+child would not be born alive. [p. 390] [50]                         
+According to this test, an accused could only be
+convicted of child concealment if he or she, with the intent to conceal its
+birth, disposed of the body of a child that had reached a point of development
+where, “but for some accidental circumstances . . . it might have been born
+alive”. [52]                         
+I would in any case hesitate to import into s.
+243 a fixed threshold based on gestational age that Parliament has so far
+chosen to omit. [53]                         
+In my view, s. 243 is informed by Berriman. [54]                         
+However, where Erle J. found it sufficient in Berriman
+that the fetus “might have been born alive”, I would adopt a likelihood
+requirement instead.  I agree with the Court of Appeal that, for the purposes
+of s. 243, a fetus becomes a child when the fetus “has reached a stage in its
+development when, but for some external event or other circumstances, it would
+likely have been born alive” (para. 115 (emphasis added)). [55]                         
+This “likelihood” standard best comports with
+the late term focus of s. 243 and thus affords greater certainty in its
+application. [56]                         
+To support a conviction under s. 243, it must be
+shown that the “remains” disposed of were the remains of a child.  In cases
+involving death before birth, the burden is therefore on the Crown to prove
+that the fetus would likely have been born alive. [57]                         
+This brings me to another important aspect of a
+full contextual interpretation of s. 243: its legislative purpose and context. [58]                         
+The parties agree that
+s. 243 is largely concerned with facilitating the investigation of homicides. 
+In order to do so, s. 243 must cover potential victims of homicide. [59]                         
+Pursuant to s. 222(1) ,
+the homicide provisions of the Criminal Code  apply only when the victim
+is a human being.  And pursuant to s. 223(1) of the Code, a child
+becomes a human being “when it has completely proceeded, in a living state,
+from the body of its mother, whether or not (a) it has breathed; (b)
+it has an independent circulation; or (c) the navel string is severed”. [60]                         
+In order to facilitate
+the investigation of homicides, s. 243 must therefore apply to children that
+were either born alive or were likely to be born alive and thus capable of
+satisfying the Criminal Code  definition of a human being in s. 223(1) . 
+As the trial judge reasoned at para. 156: . . . allowing persons to conduct
+themselves as though pregnancy terminated in still-birth, and to say so if
+challenged, all without reliable government certification, amounts to an easy
+and unacceptable escape for those inclined to eliminate a new-born infant by
+killing it. Unchecked and unreviewable disposal of a still-born child
+effectively defeats the state’s ability to verify that death preceded live
+birth. [62]                         
+That said, to fully
+achieve its purpose, s. 243 must also facilitate the investigation of ss. 238 
+and 242 , which both contemplate the death of a child that has not yet become a
+human being within the meaning of s. 223(1)  of the Criminal Code . [63]                         
+Section 238  prohibits
+killing an unborn child in the act of birth and s. 242  proscribes the failure
+to obtain assistance in childbirth, resulting in permanent injury or death
+immediately before, during, or a short time after birth. [65]                         
+This likelihood approach
+is also consistent with s. 662(4)  of the Criminal Code , which, on a
+charge of murder or infanticide, permits a conviction under s. 243  where
+neither murder nor infanticide is made out, but the evidence proves the
+requisite elements of s. 243 . [66]                         
+When considered in light of s. 662(4) , it is
+clear that the pre-birth application of s. 243 is not intended to reach back
+beyond the delivery of a child that would likely have been born alive.  Rather,
+its application to a child that died before birth simply ensures that the law
+can respond to criminal conduct against newly born infants in cases where the
+evidence does not establish that death occurred post-birth. [67]                         
+By facilitating the investigation of the
+offences discussed above, s. 243 ultimately serves to protect children born
+alive and a subset of children that died before birth.  The parties agree that
+Parliament can properly legislate with respect to both.  As we have seen, the
+appellant explicitly concedes that Parliament may “enact legislation which has
+application to the concealment of a fetus at some stages of development prior
+to live birth”. [68]                         
+With regard to newly born
+children, the importance of s. 243 is clear.  As expressed in the Goudge
+Report, vol. 1, at p. 4,[2]
+society is gravely concerned with investigating offences committed against
+society’s youngest: For the
+community itself, the death of a child in criminally suspicious circumstances
+is deeply disturbing.  Children are the community’s most precious and most
+defenceless asset.  The sense of outrage and the urgent need to understand what
+happened are overwhelming. [69]                         
+Bearing its purposes in mind, the pre-birth application
+of s. 243 is appropriately limited to fetuses that were likely to have been
+born alive.  In the words of the respondent, the crime of concealment is
+“limited by the clear late term focus of the offences s. 243 is supporting”:
+R.F., at para. 50. [70]                         
+The appellant argues, however, that even if we
+describe a child that died before birth as a fetus that would likely
+have been born alive, s. 243 remains vague because an accused is dependent on
+expert medical evidence to know whether a fetus was, in fact, likely to have
+been born alive. [71]                         
+Indeed, the doctrine against vagueness cannot be
+satisfied by inaccessible laws.  It is not enough for laws to provide guidance
+to legal experts; laws, as judicially interpreted, must be sufficiently
+intelligible to guide ordinary citizens on how to conduct themselves within
+legal boundaries.  As McLachlin C.J. explained in Mabior (in a passage
+more fully set out above): “It is a fundamental requirement of the rule of law
+that a person should be able to predict whether a particular act constitutes a
+crime at the time he commits the act” (para. 14). [72]                         
+Nonetheless, reliance on expert evidence is not
+necessarily fatal to the constitutionality of a provision.  Section 243 is by
+no means the only offence that relies on expert evidence to determine whether
+an offence was committed.  For example, without the benefit of a breathalyser,
+individuals may not know whether they have consumed an amount of alcohol that
+would bring them over the legal limit.  Similarly, in some murder cases an
+accused may not know, without expert medical evidence, whether his or her conduct
+actually caused the victim’s death. [74]                         
+Even if s. 243 provided a detailed description
+of the precise moment on the gestational spectrum where a miscarriage becomes a
+stillbirth, as the appellant suggests it should, medical evidence would often
+be required in any event.  For example, if s. 243 stated that the concealment
+offence only applies to a child that died before birth where the gestational
+age is over seven months, what additional certainty would that give a woman who
+was unsure of the date of conception?  In such a case, expert medical evidence
+regarding gestational age would be required to ascertain whether s. 243 would
+capture a decision to keep a failed pregnancy private. [75]                         
+Similarly, if the word “before” were severed
+from s. 243, making it only applicable to a child that died during or after
+birth, a woman remains dependent on medical evidence to determine whether her
+conduct would fall within s. 243.  As the trial judge noted: “A mother may not
+be in the best position to know whether her new-born is alive or dead . . . .” (para. 83).  He went on to explain, at
+para. 145: [76]                         
+Accordingly, under the severed version adopted
+by the trial judge that would apply only to deaths that occur during or after
+birth, medical evidence would still be required; it would simply relate to the
+time of death instead of fetal development.  Clearly, it is the subject matter,
+rather than the imprecision of the law, that gives rise to the need for expert
+medical evidence. [77]                         
+Finally, the state’s interest in late-term
+failed pregnancies is both ascertainable and well established.  Stillbirths are
+highly regulated by provincial and territorial legislation: see R.F., at Appendix
+D.  The regulations in all provinces and territories impose some kind of
+positive obligation to disclose failed pregnancies where the gestational age is
+20 weeks or more or where the fetus weighs 500 grams or more: see, for example,
+Vital Statistics Act, ss. 1 and 9.1; and associated regulations under
+R.R.O. 1990, Reg. 1094, s. 20. [78]                         
+The foregoing contextual and purposive analysis
+persuades me that s. 243 meets the minimum standard of precision required
+by the Charter .  In its application to a child that died
+before birth, s. 243  only captures the delivery of a child that was likely
+to be born alive. [79]                         
+And I recall in this context that a conviction
+would only lie where the Crown proves that the child, to the knowledge of the
+accused, would likely have been born alive. VI [81]                         
+I would therefore dismiss the appeal and affirm
+the order for a new trial.                     Appeal
+dismissed.                     Solicitors
+for the appellant:  Sack Goldblatt Mitchell, Toronto; Doucette Boni
+Santoro, Toronto.                     Solicitor
+for the respondent:  Attorney General of Ontario, Toronto.                     Solicitor
+for the intervener the Attorney General of Canada:  Attorney General
+of Canada, Ottawa.                     Solicitors for the
+intervener the Criminal Lawyers’ Association of Ontario:  Henein
+& Associates, Toronto.  [1]   Connally v. General Construction Co., 269 U.S. 385 (1926), at p. 391; Cline v. Frink Dairy Co.,
+274 U.S. 445 (1927), at p. 465. [2]   Inquiry into Pediatric Forensic Pathology in Ontario: Report (2008)
+(the “Goudge Report”).  

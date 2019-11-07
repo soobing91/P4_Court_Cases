@@ -1,0 +1,1000 @@
+  SUPREME
+COURT OF CANADA  Citation: 
+  R. v. Baldree, 2013 SCC 35, [2013] 2 S.C.R. 520 Date:
+  20130619 Docket:
+  34754  Between: Her
+Majesty The Queen Appellant and Christopher
+Baldree Respondent -
+and - Attorney
+General of Ontario Intervener  Coram: McLachlin C.J. and LeBel, Fish, Abella, Rothstein, Cromwell,
+Moldaver, Karakatsanis and Wagner JJ.  Reasons for
+  Judgment: (paras. 1 to 77)  Concurring Reasons: (paras. 78 to 125) Fish J. (McLachlin C.J. and LeBel, Abella, Rothstein,
+  Cromwell, Karakatsanis and Wagner JJ. concurring)  Moldaver J.     R. v. Baldree, 2013 SCC 35, [2013] 2 S.C.R. 520 Her Majesty The Queen                                                                                 Appellant v. Christopher Baldree                                                                                    Respondent and Attorney General of Ontario                                                                        Intervener Indexed as:  R. v. Baldree 2013 SCC 35 File No.:  34754. 2012:  November 7; 2013:  June 19. Present:  McLachlin C.J. and LeBel, Fish, Abella, Rothstein,
+Cromwell, Moldaver, Karakatsanis and Wagner JJ. on appeal from the court of appeal for ontario                     Criminal law — Evidence — Admissibility —
+Hearsay — Drug purchase call — Implied Assertions — Implied assertion tendered
+for the truth of its contents — Applicability of hearsay rule — Purposive approach — Principled analysis of its
+necessity and reliability.                     After
+B was arrested, a caller telephoned B’s cell phone to arrange for a drug
+delivery.  A police officer answered B’s cell phone and agreed to deliver the
+drugs at the price that B usually charged.  The caller gave his address.  No
+effort was made to find and interview him and he was not called as a witness.  The
+trial judge concluded that the police officer’s testimony was not hearsay and
+admitted the contents of the call.  B was convicted of possessing marijuana and
+cocaine for the purposes of trafficking.  A majority of the Court of Appeal allowed
+the appeal, ordered a new trial, and held that the evidence should not have
+been admitted.                     Held:
+ The appeal should be dismissed and a new trial ordered.                     Hearsay
+evidence is presumptively inadmissible unless it falls under a traditional exception
+to the hearsay rule.  If hearsay evidence does not fall under a hearsay exception,
+it may still be admitted if, pursuant to the principled analysis, sufficient indicia
+of reliability and necessity are established on a voir dire.  Hearsay
+evidence is presumptively inadmissible because of the difficulties inherent in
+testing the reliability of the declarant’s assertion.  The need for a
+functional approach to implied assertions is readily apparent, bearing in mind
+the core hearsay dangers of the declarant’s perception, memory, narration and
+sincerity.                     Finally,
+the curative proviso of s. 686(1) (b)(iii) of the Criminal Code 
+can have no application in this case, since it cannot be said that there is no
+reasonable possibility the verdict would have been different had the telephone
+call not been admitted.                     Per Moldaver J.:
+ An implied assertion of a factual proposition is part of the “contents” of a
+statement for purposes of the hearsay rule.  Accordingly, the evidence of the
+drug purchase call was hearsay because it was introduced to prove that B was in
+fact a drug trafficker.  In such cases, however, the real concern under the
+principled approach is reliability and it should be the focus of the inquiry.  The
+necessity criterion has its purpose, but it is not meant to stifle the
+admission of reliable evidence.  Rather, it is founded on society’s interest in
+getting at the truth.  For that reason, in cases such as this one — where the
+prospect of locating, identifying, and receiving accurate information from a
+forthcoming and cooperative caller is remote — if the evidence is reliable, it
+should be admitted because its reception into evidence will be necessary in
+order to get closer to the truth.  If the evidence is not reliable, it should
+be excluded.                     The
+starting point is that a long line of cases have admitted evidence similar to
+that at issue here on the basis that it was non-hearsay.  Because judges are
+not in the habit of admitting evidence they deem unreliable, these earlier
+cases appear to rest on the conclusion that drug purchase calls are reliable
+more often than not and, thus, can safely be categorized as non-hearsay.  Even
+where such evidence was excluded, the concern was reliability.  The common
+thread in these cases is that the evidence’s reliability dictated the answer
+with respect to admissibility — and that is the assessment courts should focus
+on.                     The
+majority’s analogy to an earlier decision of this Court to support its
+conclusion that the police should have tried to find and interview the caller
+breaks down upon scrutiny.  There, the police were dealing with a known
+declarant who was fully cooperative and forthcoming.  Here, the declarant was
+unknown.  Apart from officer safety concerns, the likelihood of the police
+finding the declarant would seem slim.  And the prospect of the declarant being
+forthcoming and cooperative, if found, would seem even slimmer.  The necessity
+criterion was thus met.                     Although
+it is perfectly consistent with the principled approach that even a single drug
+purchase call may meet the threshold test for reliability, the Crown failed in
+this case to establish that the call meets the test justifying its admission as
+substantive evidence that B was engaged in drug trafficking.  Even if the
+caller was entirely sincere in his belief that B was a drug dealer, that does
+not address why the caller believed what he believed — and whether his belief
+was in fact true or not.  This is not a case of multiple calls, where common
+sense tells us that the probability of numerous callers all being mistaken is
+unlikely.  Nor do we have sufficient indicia of reliability, either within the
+statement or in the form of confirmatory evidence outside the statement.  Had
+the circumstances been somewhat different, there may well have been a
+satisfactory basis for evaluating whether the caller believed B was a drug
+dealer and whether that belief was in fact true.  That is what threshold
+reliability requires. Cases Cited By Fish J.                     Distinguished:
+R. v. Ly, [1997] 3 S.C.R. 698, aff’g (1996), 193 A.R. 149; referred
+to:  R. v. Edwards (1994), 91 C.C.C. (3d) 123, aff’d [1996] 1 S.C.R.
+128; R. v. Kearley, [1992] 2 All E.R. 345; R. v. Wilson (1996),
+29 O.R. (3d) 97; R. v. Khelawon, 2006 SCC 57, [2006] 2 S.C.R. 787; R.
+v. Starr, 2000 SCC 40, [2000] 2 S.C.R. 144; R. v. Smith, [1992] 2
+S.C.R. 915; R. v. Khan, [1990] 2 S.C.R. 531; R. v. Mapara, 2005
+SCC 23, [2005] 1 S.C.R. 358; R. v. Fialkow, [1963] 2 C.C.C. 42; R. v.
+Lucia, 2010 ONCA 533 (CanLII); R. v. Cook (1978), 10 B.C.L.R. 84; R.
+v. Nguyen, 2003 BCCA 556, 188 B.C.A.C. 218; R. v. Parchment, 2004
+BCSC 1806 (CanLII); R. v. Williams, 2009 BCCA 284, 273 B.C.A.C. 86; R.
+v. Graham, 2013 BCCA 75 (CanLII); R. v. Ramsum, 2003 ABQB 45, 329
+A.R. 370; R. v. Bannon (1995), 132 A.L.R. 87; R. v. B. (K.G.),
+[1993] 1 S.C.R. 740; R. v. U. (F.J.), [1995] 3 S.C.R. 764; R. v.
+Bevan, [1993] 2 S.C.R. 599. By Moldaver J.                     Distinguished:  R. v. Khelawon, 2006 SCC 57, [2006] 2 S.C.R. 787; referred
+to:  R. v. Hawkins, [1996] 3 S.C.R. 1043; R. v. Owad
+(1951), 102 C.C.C. 155; R. v. Fialkow, [1963] 2 C.C.C. 42; R. v. Cook
+(1978), 46 C.C.C. (2d) 318; R. v. Edwards (1994), 19 O.R. (3d) 239; R.
+v. Nguyen, 2003 BCCA 556, 188 B.C.A.C. 218; R. v. Williams, 2009
+BCCA 284, 273 B.C.A.C. 86; R. v. Lucia, 2010 ONCA 533 (CanLII); R. v.
+Graham, 2013 BCCA 75 (CanLII); R. v. Wilson (1996), 29 O.R. (3d) 97;
+R. v. B. (K.G.), [1993] 1 S.C.R. 740; R. v. U. (F.J.), [1995] 3
+S.C.R. 764; R. v. Couture, 2007 SCC 28, [2007] 2 S.C.R. 517; R. v.
+Woodcock (1789), 1 Leach 500, 168 E.R. 352; R. v. Starr, 2000 SCC
+40, [2000] 2 S.C.R. 144; R. v. Ly, [1997] 3 S.C.R. 698. Statutes and Regulations Cited Controlled Drugs and Substances Act,
+S.C. 1996, c. 19, s. 5(2) . Criminal Justice Act 2003 (U.K.),
+2003, c. 44, s. 115. Evidence Act 1995 (Aust.), No. 2, s. 59(1). Federal Rules of Evidence (U.S.), Rule
+801. Authors Cited Birch, Di.  “Criminal Justice Act 2003 (4) Hearsay:  Same Old Story,
+Same Old Song?”, [2004] Crim. L.R. 556. Bryant, Alan W., Sidney N. Lederman and Michelle K.
+Fuerst.  The Law of Evidence in Canada, 3rd ed.  Markham, Ont.: 
+LexisNexis, 2009. Canada.  Law Reform Commission.  Report on Evidence. 
+Ottawa:  Information Canada, 1975. Dennis, I. H.  The Law of Evidence, 4th ed.   London: 
+Sweet & Maxwell, 2010. Dufraimont, Lisa.  Annotation to R. v. Baldree (2012), 92 C.R. (6th) 331. Finman, Ted.  “Implied Assertions as Hearsay:  Some Criticisms of
+the Uniform Rules of Evidence” (1962), 14 Stan. L. Rev. 682. McCormick, Charles T.  “The Borderland of Hearsay” (1930), 39 Yale
+L.J. 489. McCormick on Evidence, vol. 2, 7th
+ed. by Kenneth S. Broun, General Editor.  Eagan, Minn.:  Thomson Reuters, 2013. Paciocco, David M., and Lee Stuesser.  The Law of Evidence,
+6th ed.  Toronto:  Irwin Law, 2011. Phipson on Evidence, 17th ed. by Hodge
+C. Malek et al.  London:  Sweet & Maxwell, 2010. Rice, Paul R.  “Should Unintended Implications of Speech be
+Considered Nonhearsay?  The Assertive/Nonassertive Distinction Under Rule 801(a)
+of the Federal Rules of Evidence” (1992), 65 Temp. L. Rev. 529. Schiff, Stanley.  “Evidence — Hearsay and the Hearsay Rule:  A
+Functional View” (1978), 56 Can. Bar Rev. 674. Wigmore, John Henry.  A Treatise on the Anglo-American System of Evidence in Trials at
+Common Law, vol. III, 2nd ed.  Boston: 
+Little, Brown & Co., 1923.                     APPEAL
+from a judgment of the Ontario Court of Appeal (Feldman, Blair and Watt JJ.A.),
+2012 ONCA 138, 109 O.R. (3d) 721, 287 O.A.C. 327, 280 C.C.C. (3d) 191, 92
+C.R. (6th) 331, [2012] O.J. No. 924 (QL), 2012 CarswellOnt 1741, setting
+aside the accused’s conviction and ordering a new trial.  Appeal dismissed.                     James C. Martin
+and Brian G. Puddington, for the appellant.                     Michael Davies and James
+Foord, for the respondent.                     John S. McInnes,
+for the intervener the Attorney General of Ontario.                     The
+judgment of McLachlin C.J. and LeBel, Fish, Abella, Rothstein, Cromwell,
+Karakatsanis and Wagner JJ. was delivered by                     Fish J. — I [1]                             
+An out-of-court statement by a person not called
+as a witness in the proceedings is properly characterized as hearsay where it
+is tendered in evidence to make proof of the truth of its contents. [2]                             
+It is undisputed on this appeal that hearsay
+evidence is presumptively inadmissible as a matter of law. [3]                             
+The sole issue is whether this exclusionary rule
+applies to “express hearsay” only, or to “implied hearsay” as well.  As a
+matter of logic and of principle, I am satisfied that it does. [5]                             
+With respect to their logical relevance, there
+is thus no substantive distinction between express and implied hearsay.  The
+principled reasons for their presumptive inadmissibility apply equally to both. [6]                             
+For these reasons and the reasons that follow, I
+agree with the majority in the Court of Appeal that the impugned out-of-court
+statement in issue here ought to have been excluded by the trial judge.  It
+falls within no traditional exception to the hearsay rule and lacks the indicia
+of necessity and reliability that might otherwise render it admissible. [7]                             
+Accordingly, I would dismiss the Crown’s appeal
+to this Court against the judgment of the Court of Appeal. II [8]                             
+The respondent was convicted at his trial before
+judge alone of possessing marijuana and cocaine for the purposes of
+trafficking, contrary to s. 5(2)  of the Controlled Drugs and Substances Act,
+S.C. 1996, c. 19 . [9]                             
+His appeal was allowed by a majority of the
+Ontario Court of Appeal and a new trial ordered.  The Crown appeals to this
+Court as of right, pursuant to s. 693(1) (a) of the Criminal Code,
+R.S.C. 1985, c. C-46 , on the questions of law on which the dissent of Watt J.A.
+was based. [10]                         
+Since I agree with the Court of Appeal that a
+new trial is warranted, I shall refer to the facts only to the extent necessary
+to dispose of this appeal. [11]                         
+On May 11, 2006, Cornwall police officers
+Sergeant Shawn Martelle and Constable Robert Ouellette responded to a suspected
+break-in at the apartment of a certain Eric Lepage.  They knocked on the door
+and a man, who identified himself as Chris Baldree, allowed them in.  The
+officers entered and immediately detected an odour of marijuana, and discovered
+marijuana “joints” and small marijuana buds in an ashtray. [13]                         
+Mr. Baldree was arrested along with three other
+people found in the apartment.  The police seized from him a cellular telephone
+and some cash found in his possession. [14]                         
+At the police station, Mr. Baldree’s phone was
+ringing.  Sgt. Martelle answered.  At trial, he described the call as follows: A.  A
+male voice on the other end of the, of the phone advised that he was at 327 Guy
+Street and that he was a friend of Megan and asked for Chris.  Knowing that there
+were two Chris that I had just arrested, I asked, “Chris who?” the male
+advised, “Baldree” and requested one ounce of weed.  I then stated that I was
+now running the, the show here and that Mr. Baldree was not here and I was
+gonna take his . . . .  THE
+COURT: All right, sorry, asked for Chris.  A.  Yes,
+I’m sorry Your Honour.  THE
+COURT: Yes.  A.  And
+I questioned him, I asked him, “Chris who?” and he answered, “Baldree”.  THE
+COURT: Yes.  A.  He
+asked for one ounce of weed.  I then asked him how much Chris charges him, he
+says he pays $150.  I then advised him I would deliver same, 327 Guy, and that
+was the end of the conversation. [A.R., vol. II, at p. 76] The police made no effort
+at all to contact the caller at the address he provided. [15]                         
+Counsel for the accused promptly objected to
+this testimony on the ground that it was inadmissible hearsay.  The trial judge
+disagreed.  He found the evidence to be “non-hearsay”, a convenient term I
+shall adopt throughout, on the basis of R. v. Ly, [1997] 3 S.C.R. 698,
+and R. v. Edwards (1994), 91 C.C.C. (3d) 123 (Ont. C.A.), aff’d on other
+grounds, [1996] 1 S.C.R. 128. [16]                         
+In the judge’s view: Whether these calls can be referred to
+as admissible hearsay or simply statements of state of mind, the law holds that
+they are admissible as circumstantial evidence to indicate a person engaged in
+drug trafficking.  They are not tendered in evidence for the truth of the fact
+that the individual phoning is in fact the individual whom the individual
+states to be or that the individual in fact will carry out the trafficking of
+the drugs.  As stated, it is circumstantial evidence of an individual engaged
+in the trafficking of drugs. [A.R., vol. I, at pp. 22-23] [17]                         
+Having concluded that Sgt. Martelle’s testimony
+was not hearsay, the trial judge found it unnecessary to weigh its probative
+value against its prejudicial effect. III [18]                         
+All three justices in the Ontario Court of
+Appeal wrote separate reasons.  Feldman and Blair JJ.A. allowed the appeal and
+ordered a new trial; Watt J.A., dissenting, would have dismissed the appeal. [19]                         
+Feldman J.A. disagreed with the trial judge’s
+characterization of the phone call as circumstantial evidence indicating that
+Mr. Baldree was engaged in drug trafficking.  On the contrary, in her view,
+“admitting the contents of [the] call into evidence is admitting that evidence
+for a hearsay purpose.  It is the implied assertion of the caller, untested by
+cross-examination, that the accused is a drug dealer” (para. 140). [20]                         
+Feldman J.A. found that the trial judge thus
+erred by focusing “on the truth of whether the caller really wanted to purchase
+drugs, which was of course irrelevant, and not on the implied assertion in the
+request” (para. 144). [21]                         
+Citing the reasons of the majority of the House
+of Lords in R. v. Kearley, [1992] 2 All E.R. 345, and the opinion of
+McMurtry C.J.O. in R. v. Wilson (1996), 29 O.R. (3d) 97 (C.A.), Feldman
+J.A. concluded that the hearsay analysis should not hinge on whether the
+assertion is express or implied (para. 140). [22]                         
+She found that the telephone call was hearsay
+and should not have been admitted as evidence against Mr. Baldree because it
+could not withstand scrutiny under the principled approach to the hearsay
+rule.  Regarding necessity, the police had the caller’s address, yet made no
+effort to contact him; as to reliability, there was simply no basis to test the
+caller’s belief without subjecting him to cross-examination (para. 146). [23]                         
+Feldman J.A. also concluded that the evidence
+was inadmissible because its probative value was outweighed by its prejudicial
+effect (para. 147). [24]                         
+Feldman J.A. declined to apply the curative
+proviso of s. 686(1) (b)(iii) of the Criminal Code  and
+therefore held that the trial judge’s error required a new trial.  Particularly
+in light of Crown counsel’s characterization of the drug purchase call as the
+strongest piece of evidence against the accused, Feldman J.A. could not
+conclude that the improper admission of Sgt. Martelle’s testimony had no effect
+on the verdict (para. 149). [25]                         
+In separate but concurring reasons, Blair J.A.
+was uncertain whether the impugned evidence constituted hearsay.   In any
+event, he considered it preferable “for jurists to spend less time focusing on
+the characterization of evidence into ‘hearsay’ or ‘non-hearsay’ categories in
+these types of close-call scenarios and to spend more effort focusing on the
+principled criteria of necessity/reliability and prejudice vs. probative value”
+(para. 155). [26]                         
+Accordingly, Blair J.A. found it unnecessary to
+“cut the ‘hearsay’ Gordian knot to resolve this appeal” because the impugned
+evidence failed on both an assessment of its necessity and reliability and on
+weighing its probative value against its prejudicial effect (para. 156). [27]                         
+In his dissenting reasons, Watt J.A. agreed with
+the trial judge that this Court’s decision in Ly held that evidence of a
+single drug purchase call is admissible as non-hearsay (para. 73). [28]                         
+According to Watt J.A., a principled analysis
+was unnecessary on these facts because the impugned evidence was not hearsay. 
+He disagreed with his colleagues that the evidence should have been excluded on
+the basis that its prejudicial effect outweighed its probative value (paras.
+95-98). [29]                         
+In the alternative, Watt J.A. was of the view
+that even if the drug purchase call was improperly admitted at trial, the
+conviction should nevertheless stand pursuant to the curative proviso (para.
+99). IV [30]                         
+The defining features of hearsay are (1) the
+fact that the statement is adduced to prove the truth of its contents and (2)
+the absence of a contemporaneous opportunity to cross-examine the declarant:  R.
+v. Khelawon, 2006 SCC 57, [2006] 2 S.C.R. 787, at para. 56.  As Justice
+Charron explained in Khelawon, at para. 35, the hearsay rule
+reflects the value our criminal justice system places on live, in-court testimony: Our adversary system puts a premium on
+the calling of witnesses, who testify under oath or solemn affirmation, whose
+demeanour can be observed by the trier of fact, and whose testimony can be
+tested by cross-examination.  We regard this process as the optimal way of
+testing testimonial evidence.  Because hearsay evidence comes in a different
+form, it raises particular concerns.  The general exclusionary rule is a
+recognition of the difficulty for a trier of fact to assess what weight, if
+any, is to be given to a statement made by a person who has not been seen or
+heard, and who has not been subject to the test of cross-examination.  The fear
+is that untested hearsay evidence may be afforded more weight than it
+deserves. [31]                         
+In short, hearsay evidence is presumptively
+inadmissible because of the difficulties inherent in testing the reliability of
+the declarant’s assertion.  Apart from the inability of the trier of fact to
+assess the declarant’s demeanour in making the assertion, courts and commentators
+have identified four specific concerns.  They relate to the declarant’s
+perception, memory, narration, and sincerity: Khelawon, at para. 2; R.
+v. Starr, 2000 SCC 40, [2000] 2 S.C.R. 144, at para. 159. [32]                         
+First, the declarant may have misperceived
+the facts to which the hearsay statement relates; second, even if correctly
+perceived, the relevant facts may have been wrongly remembered; third,
+the declarant may have narrated the relevant facts in an unintentionally
+misleading manner; and finally, the declarant may have knowingly
+made a false assertion.  The opportunity to fully probe these potential
+sources of error arises only if the declarant is present in court and subject
+to cross-examination. [33]                         
+Over the years, a number of common law
+exceptions were recognized, based on the belief that an overly rigid
+application of the exclusionary rule would impede the truth-finding process. 
+As J. H. Wigmore explains: The theory of the Hearsay rule
+. . . is that the many possible sources of inaccuracy and untrustworthiness
+which may lie underneath the bare untested assertion of a witness can best be
+brought to light and exposed, if they exist, by the test of cross-examination. 
+But this test or security may in a given instance be superfluous; it may be
+sufficiently clear, in that instance, that the statement offered is free from
+the risk of inaccuracy and untrustworthiness, so that the test of
+cross-examination would be a work of supererogation.  Moreover, the test may be
+impossible of employment — for example, by reason of the death of the declarant
+—, so that, if his testimony is to be used at all, there is a necessity for
+taking it in the untested shape.  (Wigmore on
+Evidence (2nd ed. 1923), vol. III, at §1420, quoted with approval in R.
+v. Smith, [1992] 2 S.C.R. 915, at p. 929.) [34]                         
+Beginning with R. v. Khan, [1990] 2
+S.C.R. 531, the Court has moved away from a set of judicially created
+exceptions to the hearsay rule, and instead mandated a purposive approach,
+governed by a principled framework set out this way by McLachlin C.J. in R.
+v. Mapara, 2005 SCC 23, [2005] 1 S.C.R. 358, at para. 15: (a)   Hearsay evidence is presumptively inadmissible unless it falls
+under an exception to the hearsay rule.  The traditional exceptions to the
+hearsay rule remain presumptively in place.  (b)   A hearsay exception can be challenged to determine whether it
+is supported by indicia of necessity and reliability, required by the
+principled approach.  The exception can be modified as necessary to bring it
+into compliance.  (c)   In “rare cases”, evidence falling within an existing exception
+may be excluded because the indicia of necessity and reliability are lacking in
+the particular circumstances of the case.  (d)   If hearsay evidence does not fall under a hearsay exception,
+it may still be admitted if indicia of reliability and necessity are
+established on a voir dire. [35]                         
+The hearsay rule, like many others, is easier to
+state than to apply. [36]                         
+No evidence is hearsay on its face.  As
+mentioned at the outset, its admissibility depends on the purpose for which
+it is sought to be admitted.  Evidence is hearsay — and presumptively
+inadmissible — if it is tendered to make proof of the truth of its contents. V [37]                         
+Plainly, in this case, the Crown adduced Sgt.
+Martelle’s evidence as proof of the truth of its contents.  Since the declarant
+was not called to testify, Sgt. Martelle’s testimony constituted hearsay and
+was therefore presumptively inadmissible.  Accordingly, in my view, the trial
+judge erred in failing to subject the evidence to a principled analysis. [38]                         
+Sergeant Martelle testified, it will be
+recalled, that someone claiming to be a resident of 327 Guy Street called the
+cell phone which Sgt. Martelle had seized from Chris Baldree, asked for Mr.
+Baldree, and requested an ounce of marijuana for the price of $150. [39]                         
+I agree with Feldman J.A. that the Crown did not
+offer this testimony as circumstantial evidence that the respondent was engaged
+in drug trafficking.  Rather, the Crown asked the trier of fact to conclude,
+based on Sgt. Martelle’s testimony, that the unknown caller intended to
+purchase marijuana from the respondent because he believed the respondent to
+be a drug dealer.  The relevance of the statement thus hinges on the truth
+of the declarant’s underlying belief.  Any inference that can be drawn from the
+statement necessarily assumes its veracity. [40]                         
+Had the caller stated that he wanted to buy
+drugs from Mr. Baldree because Mr. Baldree sells drugs, this
+would have amounted to an express assertion that Mr. Baldree is a drug dealer. 
+Thus framed, the caller’s assertion would doubtless have constituted hearsay. [41]                         
+But the caller stated instead that he was
+calling because he wished to purchase drugs from Mr. Baldree.  His
+assertion that Mr. Baldree is a drug dealer was no less manifest in substance,
+though implicit rather than explicit in form.  In the Crown’s submission,
+implied assertions are not caught by the hearsay rule and the telephone
+conversation was presumptively admissible for that reason. [42]                         
+In my view, the hearsay nature of this evidence
+cannot be made to depend on how the declarant framed his request.  Such a
+formalistic analysis disregards the purposive approach to the hearsay rule
+adopted by this Court.  Indeed, “it seems absurd that anything should turn on
+the grammatical form of the declarant’s assertions”:  L. Dufraimont, Annotation
+to R. v. Baldree (2012), 92 C.R. (6th) 331, at p. 334. [43]                         
+There is no principled or meaningful distinction
+between (a) “I am calling Mr. Baldree because I want to purchase drugs from
+him” and (b) “I am calling Mr. Baldree because he sells drugs”. In either form,
+this out-of-court statement is being offered for an identical purpose:  to
+prove the truth of the declarant’s assertion that Mr. Baldree sells drugs.  No
+trier of fact would need to be a grammarian in order to understand the import
+of this evidence. [44]                         
+The need for a functional approach to implied
+assertions is readily apparent, bearing in mind the core hearsay dangers of
+perception, memory, narration, and sincerity. [45]                         
+It has been argued that the danger of lack of
+sincerity is sometimes diminished for implied assertions.  This is because
+“[i]f a declarant possesses no intention of asserting anything, it would seem
+to follow that he also possesses no intention of misrepresenting anything”: P.
+R. Rice, “Should Unintended Implications of Speech be Considered Nonhearsay?
+The Assertive/Nonassertive Distinction Under Rule 801(a) of the Federal Rules
+of Evidence” (1992), 65 Temp. L. Rev. 529, at p. 531. [46]                         
+But the other hearsay dangers clearly remain
+operative, and may in fact increase when an individual “states” something by
+implication: Looked at from the point of
+view of the four hearsay dangers, there is a much reduced risk of lies if the
+declarant did not intend to convey that which his statement is relied upon to
+prove, particularly if he it [sic] was not his purpose to make a
+representation of fact at all.  But the other hearsay dangers remain, that is,
+the risk of misperception, false memory (unless the implied assertion concerns
+the declarant’s own state of mind) and ambiguity.  Indeed the last danger may
+be magnified.  When X says:  “Is Z in there?” does this imply that Z is not
+with X and nothing more, or that Z is not with X and X wants Z, or Z is in
+danger, or X wants to know where Z is?  The upshot is that in many situations
+implied assertions depend for their value on the reliability of the declarant
+just as much as express assertions. [Emphasis added.]  (H. M. Malek et al.,
+eds., Phipson on Evidence (17th
+ed. 2010), at p. 889) Moreover, even
+insincerity remains a concern with implied assertions:          If the justification for the
+assertive/nonassertive distinction is the absence of the insincerity problem,
+and through that guarantee of sincerity a reduced level of perception, memory,
+and ambiguity problems, this justification cannot be applied to implied
+statements from speech.  Speech is a mechanism of communication; it is
+virtually always used for the purpose of communicating something to someone. 
+It is illogical to conclude that the question of sincerity is eliminated and
+that the problem of unreliability is reduced for unintended implications of
+speech if that speech might have been insincere in the first instance, relative
+to the direct message intentionally communicated.  If potential insincerity is
+injected into the utterance of words that form the basis for the implied
+communication, the implication from the speech is as untrustworthy as the
+utterance upon which it is based.  [Rice, at p. 534] [47]                         
+In short, “if the standard for comparing express
+and implied assertions is the quantity of dangers each entails, they are
+indistinguishable”: T. Finman,
+“Implied Assertions as Hearsay: Some Criticisms of the Uniform Rules of
+Evidence” (1962), 14 Stan. L. Rev. 682, at p.
+689. [48]                         
+Accordingly, there is no principled reason, in
+determining their admissibility, to distinguish between express and implied
+assertions adduced for the truth of their contents.  Both function in precisely
+the same way.  And the benefits of cross-examining the declarant are not
+appreciably different when dealing with one form of testimony than the other. 
+If an out-of-court statement implicates the traditional hearsay dangers, it
+constitutes hearsay and must be dealt with accordingly. [49]                         
+In the present matter, the trial judge and the
+dissenting judge in the Court of Appeal both found that this Court had decided
+otherwise in Ly.  With respect, I disagree. [50]                         
+Ly concerned the
+admissibility of a telephone conversation between a police officer who had
+called a suspected “dial-a-dope” operation and the person who answered his
+call.  The officer had called to arrange for the purchase and delivery of
+drugs.  And the appellant, drugs in hand, later showed up at the agreed-upon
+time and place — where he was promptly arrested and charged with possession of
+drugs for the purpose of trafficking. [51]                         
+The trial judge characterized as hearsay, and
+excluded for that reason, evidence of the police officer’s conversation with
+the person who had answered his call.  On an appeal by the Crown, the Alberta
+Court of Appeal disagreed.  It found that the impugned conversation was
+admissible as “part of the narrative”, since “[i]t was impossible to understand
+the development of the later events without the evidence of the telephone
+conversation which preceded them” ((1996), 193 A.R. 149, at para. 3). [52]                         
+In brief oral reasons, this Court agreed with
+the Court of Appeal that evidence of the conversation was improperly excluded
+at trial.  The Court noted that the conversation was tendered to explain why
+the appellant appeared at the designated time and place in possession of the
+drugs — and not, as in the case that concerns us here, for the truth of its
+contents:  Ly, at para. 3. [53]                         
+I see nothing in Ly to suggest — let
+alone decide — that an implied assertion tendered for the truth of its contents
+stands on a different footing, with respect to the hearsay rule, than an
+explicit assertion to the same effect.  Unlike Ly, that is the issue
+here. [54]                         
+And the issue now comes before us for the first
+time, though it has for at least half a century divided lower courts in several
+provinces:  see, for example, R. v. Fialkow, [1963] 2 C.C.C. 42 (Ont.
+C.A.); Edwards; Wilson; R. v. Lucia, 2010 ONCA 533 (CanLII);
+R. v. Cook (1978), 10 B.C.L.R. 84 (C.A.); R. v. Nguyen, 2003 BCCA
+556, 188 B.C.A.C. 218; R. v. Parchment, 2004 BCSC 1806 (CanLII); R.
+v. Williams, 2009 BCCA 284, 273 B.C.A.C. 86; R. v. Graham, 2013 BCCA
+75 (CanLII); R. v. Ramsum, 2003 ABQB 45, 329 A.R. 370. VI [55]                         
+The highest courts of England and Wales, and
+Australia, have likewise concluded that the hearsay rule governs implied
+assertions, only to have these decisions reversed by statute: see Kearley;
+R. v. Bannon (1995), 132 A.L.R. 87 (H.C.); Criminal Justice Act 2003
+(U.K.), 2003, c. 44, s. 115; Evidence Act 1995 (Aust.), No. 2, s.
+59(1). [56]                         
+In Canada, Parliament has not found it necessary
+or appropriate to adopt legislation classifying implied assertions as
+non-hearsay.  This is, of course, entirely understandable in view of our
+principled and more flexible approach to exclusion. [57]                         
+As noted by Feldman J.A., the facts in Kearley,
+the leading British decision, were similar to the facts in this case.  In Kearley,
+the police raided the home of the accused on suspicion that he was selling
+drugs.  Drugs were found, but in insufficient quantities to support an
+inference of drug trafficking.  While the police were present at the accused’s
+residence, they intercepted ten telephone calls from callers asking to purchase
+drugs from him.  Seven people also came to the apartment seeking to buy
+narcotics. [58]                         
+The majority of the House of Lords concluded
+that the drug purchase calls and the in-person statements were inadmissible
+hearsay.  Because they were phrased as requests for drugs, the statements did
+not directly assert but instead implied that the accused was a drug dealer. 
+However, whether stated expressly or impliedly, their Lordships found the
+information communicated to be the same.  In Lord Ackner’s words:                            .
+. . if the inquirer had said in the course of making his request, “I would like
+my usual supply of amphetamine at the price which I paid you last week” . . ., the
+hearsay rule prevents the prosecution from calling police officers to recount
+the conversation which I have described. . . .                             If
+[however] the simple request or requests for drugs to be supplied by the appellant,
+as recounted by the police, contains in substance, but only by implication, the
+same assertion, then I can find neither authority nor principle to suggest that
+the hearsay rule should not be equally applicable and exclude such evidence. 
+What is sought to be done is to use the oral assertion, even though it may be
+an implied assertion, as evidence of the truth of the proposition asserted. 
+That the proposition is asserted by way of necessary implication rather than
+expressly cannot, to my mind, make any difference. [pp. 363-64] [59]                         
+Two main reasons have been urged against
+applying the hearsay rule to implied assertions. [60]                         
+First, as Watt. J.A. states (at para. 83) and as
+the Crown argues, excluding implied assertions as hearsay has the potential of
+broadening the exclusionary rule, given that “[v]irtually every human action is
+based on some set of assumptions implicitly accepted and, on this approach,
+‘asserted’ by the actor” (A.F., at para. 62, quoting McWilliams’ Canadian
+Criminal Evidence (4th ed. (loose-leaf)), at p. 7-21). [61]                         
+Second, as critics of Kearley have
+pointed out, applying the hearsay rule to implied assertions such as drug
+purchase calls has the potential to deprive the trier of fact of reliable
+evidence and thereby impede the truth-finding process:  see, for example, D.
+Birch, “Criminal Justice Act 2003 (4) Hearsay:  Same Old Story, Same Old
+Song?”, [2004] Crim. L.R. 556, at pp. 564-65. [62]                         
+The short answer to the first argument is that
+we are not concerned on this appeal with the application of the hearsay rule to
+assertions implied through non-verbal conduct.  Our concern, rather, is with a
+quintessentially verbal statement. [63]                         
+The issue of the applicability of the hearsay
+rule to inferences that can be drawn from non-verbal conduct is best left for
+another day.  For present purposes, I find it sufficient to say that “one can
+engage in conduct without ever intending to communicate anything to anyone
+[but] the same is not true of speech or a combination of speech and conduct
+(for example, placing a bet) because the sole purpose of speech is
+communication”:  Rice, at p. 536 (emphasis in original). [64]                         
+The second concern mentioned above is greatly
+attenuated, I again emphasize, by Canada’s principled approach to hearsay. [65]                         
+In Kearley, having found the evidence in
+that case to be hearsay, it was automatically excluded because it did not fall
+within a traditional exception to the hearsay rule. [66]                         
+The Canadian approach suffers from no such
+inflexibility.  Under our law, hearsay evidence that is not admissible under a
+traditional exception may nonetheless be admitted pursuant to a principled
+analysis of its necessity and reliability.  This “sensible scheme” recognizes
+that “some implied assertions, like some express assertions, will be highly
+reliable even in the absence of cross-examination”:  Finman, at p. 693. 
+Pursuant to its terms, implied assertions that are necessary and reliable may
+be admitted while those that are unreliable or unnecessary will be excluded. VII [67]                         
+On the facts of this case, no traditional exception
+applies and the impugned evidence withers on a principled analysis.  It
+satisfies neither the requirement of necessity nor the requirement of
+reliability. [68]                         
+In Khelawon, necessity was conceded. 
+Justice Charron nonetheless took care to note that in an appropriate case, the court in
+deciding the question of necessity may well question whether the proponent of
+the evidence made all reasonable efforts to secure the evidence of the
+declarant in a manner that also preserves the rights of the other party. 
+[para. 104] This is the kind of “appropriate
+case” contemplated by Khelawon.  And the answer is that the police made
+no effort at all to secure the evidence of the declarant: they never sought
+to interview or even find him, though he gave them his address. 
+Moreover, there was no explanation offered as to why no efforts were made to
+locate the declarant. [69]                         
+Nor is the single telephone call in this case
+sufficiently reliable.  As Feldman J.A. found in the court below, “[t]here was
+no basis to say that the caller’s belief was reliable without testing the basis
+for that belief by cross-examination” (para. 146).  Indeed, this is not a
+situation “in which it can be easily seen that such a required test [i.e.,
+cross-examination] would add little as a security, because its purposes had
+been already substantially accomplished”:  Khelawon, at para. 62,
+quoting Wigmore on Evidence, at §1420. [70]                         
+In concluding as I have, I take care not to be
+understood to have proposed a categorical rule for drug purchase calls. 
+Although the call at issue here does not withstand scrutiny under the
+principled approach, this need not always be the case. [71]                         
+For example, where the police intercept not one
+but several drug purchase calls, the quantity of the calls might well suffice
+in some circumstances to establish reliability — indeed, while “[o]ne or two
+might [be] mistaken, or might even have conspired to frame the defendant as a
+dealer”, it would “def[y] belief that all the callers had made the same error
+or were all party to the same conspiracy”: I. H. Dennis, The Law of Evidence
+(4th ed. 2010), at p. 708. [72]                         
+Moreover, the number of callers could also
+inform necessity.  The Crown cannot be expected, where there are numerous
+declarants, to locate and convince most or all to testify at trial, even in the
+unlikely event that they have supplied their addresses — as in this case.  And
+it is important to remember that the criteria of necessity and reliability work
+in tandem:  if the reliability of the evidence is sufficiently established, the
+necessity requirement can be relaxed:  see Khelawon, at para. 86, citing
+R. v. B. (K.G.), [1993] 1 S.C.R. 740, and R. v. U. (F.J.), [1995]
+3 S.C.R. 764. [73]                         
+Here, we are presented with a single drug
+purchase call of uncertain reliability.  The caller gave his address.  No
+effort was made to find and interview him, still less to call him as a witness
+— where the assertion imputed to him could have been evaluated by the trier of
+fact in the light of cross-examination and the benefit of observing his
+demeanour. VIII [74]                         
+Manifestly, the curative proviso of s. 686(1) (b)(iii)
+of the Criminal Code  can have no application in this case, since it
+cannot be said that there is no reasonable possibility that the verdict would
+have been different had the impugned telephone call not been admitted:  R.
+v. Bevan, [1993] 2 S.C.R. 599, at p. 617. [75]                         
+Indeed, in summing up, Crown counsel described
+the impugned telephone call as the strongest piece of evidence in the case
+(A.R., vol. IV, at p. 127).  In counsel’s words, “the cell phone call placing
+the order seals the story as far as I’m concerned” (p. 138).  Moreover, the
+trial judge referred to the phone call in his reasons for judgment and took it
+into account when assessing Mr. Baldree’s credibility (A.R., vol. I, at p.
+29). [76]                         
+In this light, it can hardly be stated that the
+improper admission of this evidence could not have affected the result at trial. IX [77]                         
+For all of these reasons, I would dismiss this
+appeal, affirm the judgment of the Court of Appeal, set aside the respondent’s
+conviction, and order a new trial.                     The
+following are the reasons delivered by                     Moldaver J. — I.       Overview [78]                         
+I join my colleague Fish J. in rejecting this
+drug purchase call under the principled approach to hearsay, and I agree in
+the main with his opinion.  In particular, I agree that an implied assertion of
+a factual proposition is part of the “contents” of a statement for purposes of
+the hearsay rule.  Indeed, while the parties disagree, the intervener Attorney
+General of Ontario advances that very view. [79]                         
+I write separately, however, to underscore my
+reservations with Part VII of my colleague’s reasons, which deal with the
+criteria of necessity and reliability under the principled approach.  In
+particular, I am concerned by my colleague’s approach to necessity.  That
+criterion has its purpose, but we ought not to approach it as a box that must
+invariably be checked off before drug purchase calls like this one can be
+admitted.  In such cases, the real concern is reliability — and that, in my
+respectful view, should be the focus of our inquiry. [80]                         
+The starting point is the recognition that we
+are today characterizing as hearsay — and thus presumptively inadmissible —
+evidence which has long been received by the courts as circumstantial
+evidence.  It is not a step to be undertaken lightly.  Nonetheless, I believe
+it is the right one.  As my colleague observes, the characterization of a particular
+piece of evidence as hearsay should not hinge on the declarant’s particular
+choice of words (paras. 42-43).  Rather, the focus should be on the existence
+(or non-existence) of the hearsay dangers having regard to the purpose for
+which the out-of-court statement is being tendered. [81]                         
+Thus, I agree that judges must satisfy
+themselves of the reliability of drug purchase calls on a case-by-case basis. 
+If the evidence is reliable, it should be admitted because its reception
+will be necessary in order to get closer to the truth.  If it is not
+reliable, the evidence should stay out.  The only difference between yesterday
+and today should be that in characterizing implied assertions as hearsay, we
+avoid the thorny debate about what the declarant did or did not intend to
+assert and, instead, put the focus on what truly matters in cases such as this
+one:  “. . . whether the evidence is sufficiently reliable to warrant its
+reception” (A. W. Bryant, S. N. Lederman and M. K. Fuerst, The Law
+of Evidence in Canada (3rd ed. 2009), at p. 244). [82]                         
+Here, for reasons I will explain, this call
+cannot be said to be sufficiently reliable.  Accordingly, I agree that it
+should have been excluded. II.       Analysis A.     The Concern Is Threshold Reliability [83]                         
+It is important to set the stage for the
+following discussion by clarifying what is actually at issue.  Here, I am
+speaking only of threshold reliability, not ultimate
+reliability.  At this point, a court is concerned only with whether the call
+exhibits sufficient indicia of reliability so as to afford the trier of fact “a
+satisfactory basis for evaluating the truth of the statement” (R. v. Hawkins,
+[1996] 3 S.C.R. 1043, at para. 75).  Threshold reliability exists because of a
+“fear . . . that untested hearsay evidence may be afforded more weight than it
+deserves” (R. v. Khelawon, 2006 SCC 57, [2006] 2 S.C.R. 787, at para.
+35). [84]                         
+But once threshold reliability is established,
+ultimate reliability — including what weight, if any, to attach to the evidence
+— is a matter for the trier of fact.  As Charron J. observed in Khelawon, at para. 50: Whether the hearsay statement will or
+will not be ultimately relied upon in deciding the issues in the case is a
+matter for the trier of fact to determine at the conclusion of the trial based
+on a consideration of the statement in the context of the entirety of the
+evidence. B.     The Historical Treatment of Drug Purchase Calls [85]                         
+As Watt J.A. observed in his dissenting reasons
+at the Court of Appeal, the question about drug purchase calls — in particular,
+whether they may contain an implied assertion — “has played little or no role”
+in the jurisprudence to date (2012 ONCA 138, 109 O.R. (3d) 721, at para. 53). 
+Nonetheless, as my colleague Fish J. points out, a long line of cases have
+admitted evidence similar to the evidence under consideration here on the basis
+that it was non-hearsay (para. 54).  See, e.g., R. v. Owad (1951), 102
+C.C.C. 155 (Ont. C.A.); R. v. Fialkow, [1963] 2 C.C.C. 42 (Ont. C.A.); R.
+v. Cook (1978), 46 C.C.C. (2d) 318 (B.C.C.A.); R. v. Edwards (1994),
+19 O.R. (3d) 239 (C.A.); R. v. Nguyen, 2003 BCCA 556, 188 B.C.A.C. 218; R.
+v. Williams, 2009 BCCA 284, 273 B.C.A.C. 86; R. v. Lucia, 2010 ONCA
+533 (CanLII); R. v. Graham, 2013 BCCA 75 (CanLII). [86]                         
+These decisions give me pause.  Can we have been
+wrong for so long? [87]                         
+Because I think it safe to conclude that judges
+are not in the habit of admitting evidence they deem unreliable, I am led to
+believe that these earlier cases rest on the conclusion — often unstated, but
+sometimes explicit — that drug purchase calls are inherently reliable.  It may
+be that these decisions reflect an implicit judicial consensus, emerging from
+multiple decisions over multiple decades, that because such evidence is
+reliable more often than not, it can safely be categorized as non-hearsay. 
+Feldman J.A. made a similar point in her reasons (para. 131). [88]                         
+The case of Edwards offers a helpful
+example of an explicit conclusion as to the reliability of these calls.  In
+that case, the issue was whether “a number of calls [to the accused’s phone]
+from people ordering small amounts of crack cocaine” were admissible to prove
+the accused was a drug dealer (p. 243).  Although McKinlay J.A. concluded that
+the evidence was not being introduced to prove the truth of its contents and
+thus was not hearsay, in the alternative, she held that the evidence was
+admissible under the principled approach: In my view, the evidence in issue
+fulfils these criteria. It was necessary to prove the nature of the appellant’s
+drug activities, and they could not have been proven in this case in any other
+way that was available to the police. They did not know the identity of the
+callers, and, in any event, it is unlikely the callers would have testified if
+their identity had been known. The evidence is reliable, because it was made
+under circumstances which negate the possibility that the requests were
+spurious ones. The callers were led to believe that the persons to whom they
+were speaking (the police) were speaking on behalf of the appellant.
+[Emphasis added; p. 249.] [89]                         
+To the extent the other cases reflect McKinlay
+J.A.’s view about the reliability of such calls, they align with explicit
+conclusions to the same effect made by regulation or statute in other
+jurisdictions.  See, e.g., Federal Rules of Evidence (U.S.), Rule 801; Criminal
+Justice Act 2003 (U.K.), 2003, c. 44, s. 115.  As one leading treatise on
+the U.S. Federal Rules of Evidence observed in explaining the Rules’
+blanket exclusion of implied assertions from the definition of hearsay: . . . when a person acts in a
+way consistent with a belief but without intending by his act to communicate
+that belief, one of the principal reasons for the hearsay rule — to
+exclude declarations whose veracity cannot be tested by cross-examination —
+does not apply, because the declarant’s sincerity is not then involved.
+[Emphasis added.]  (J. B.
+Weinstein and M. A. Berger, Weinstein’s Evidence: Commentary on Rules of
+Evidence for the United States Courts and for State Courts (loose-leaf),
+vol. 4, at § 801(a)(01)) See also McCormick on
+Evidence (7th ed. 2013), vol. 2 (arguing the Rule 801 definition is “a
+compromise between theory and the need for a relatively simple and workable
+definition in situations where hearsay dangers are generally reduced”, at pp.
+208-9); I. H. Dennis, The Law of Evidence (4th ed. 2010) (arguing that
+because “hearsay dangers are often significantly reduced in cases of implied
+assertions, there is no compelling systemic reason for applying the hearsay
+rule to them”, at p. 710). [90]                         
+Indeed, the Law Reform Commission of Canada’s
+proposed Evidence Code of 1975 proceeded on the same basis.  Its
+definition of hearsay thus excluded implied assertions, whether verbal or
+non-verbal.  See Evidence Code, s. 27(2)(b) in Report on
+Evidence (1975).  The commissioners — including Antonio Lamer, who would go
+on to become a principal architect of the principled approach to hearsay —
+concluded: Under the definition, . . . a person’s
+words or conduct are not hearsay if he did not intend them to be assertive. In
+assessing the reliability of such evidence account may have to be taken of the
+dangers of hearsay evidence. . . . [U]nlike conscious assertions, a person
+is seldom likely to be deliberately misleading when he engaged in non-assertive
+activity, which is the most important danger associated with hearsay. In
+defining hearsay to exclude non-assertive conduct the Code follows the better
+view of the present law. [Emphasis added; p. 69.] [91]                         
+The above reasoning, however, suffers from one
+important drawback.  That is because when we speak about hearsay in a case such
+as this one, a distinction must be drawn between the fact that something
+is true and the declarant’s belief that it is true.  As Professor
+McCormick observed: It is only where the statement
+is offered as the basis for the inferences, first, that the declarant believed
+it, and, second, that the facts were in accordance with his belief, that the
+evidence is hearsay. [Emphasis in original.]  (C. T.
+McCormick, “The Borderland of Hearsay” (1930), 39 Yale L.J. 489, at p. 490) [92]                         
+Our concerns with respect to the reliability of
+the hearsay statement are thus two-fold.  First, there is the concern that the
+declarant may not believe what she is saying and thus may be consciously
+lying (the sincerity hearsay danger).  Second, even though she may believe what
+she says, she may be mistaken about the facts of what she is saying (the
+perception, memory, and narration dangers).  As some scholars have observed, it
+is this second concern that has at times been overlooked.  See, e.g., S.
+Schiff, “Evidence — Hearsay and the Hearsay Rule: A Functional View” (1978), 56
+Can. Bar Rev. 674, at p. 683, fn. 33 (criticizing the Evidence Code
+definition for “ignor[ing] every reason for the hearsay rule except the danger
+that the declarant may have been insincere”). [93]                         
+It seems to me that this second ground of
+concern is what led to the decision in R. v. Wilson (1996), 29 O.R. (3d)
+97 (C.A.).  In that case, the Crown sought to tender evidence that while the
+police were at the accused’s home, “a man came to the door asking for ‘Rob’ and
+seeking to buy drugs” (p. 104).  The accused’s name was Robert Wilson.  The
+trial judge admitted the evidence on the strength of Edwards, but the
+Court of Appeal reversed.  McMurtry C.J.O. reasoned that it was “dangerous” and
+“unsafe” to draw an inference that the accused was a drug dealer from a single
+visit (pp. 104-5). [94]                         
+Significantly, however, McMurtry C.J.O. was
+untroubled by the result in Edwards.  In his view, the evidence of “ten
+separate calls” in that case permitted an “irresistible inference” about
+the nature of that accused’s activities (p. 104).  Thus, while it is possible
+that one individual could be mistaken in believing that the person he called (or
+called on) was a drug dealer, one would be hard-pressed to conclude that ten
+such people could all be mistaken.  See D. M. Paciocco and L.
+Stuesser, The Law of Evidence (6th ed. 2011), at pp. 111-12; Dennis, at
+pp. 707-9. [95]                         
+In other words, the distinction between Edwards
+and Wilson is that the evidence in one case was judged to be reliable
+and the evidence in the other was not.  It was that assessment that dictated
+the answer with respect to admissibility — and that, as I see it, is the
+assessment we should be focusing on. C.        What Is the Role of
+Necessity? [96]                         
+I turn then to the question of necessity.  It bears recalling
+that “the central reason for the presumptive exclusion
+of hearsay statements is the general inability to test their reliability” (Khelawon,
+at para. 2 (emphasis added)).  That, of course, is not to suggest that we have
+ousted necessity as a prerequisite to the admission of hearsay evidence.  We
+have not.  But what we have said is that “necessity and reliability should not
+be considered in isolation” because “[o]ne criterion may have an impact on the
+other” (para. 77).  Indeed, we have recognized that “[i]n the interest of
+seeking the truth, the very high reliability of [a] statement [can render]
+its substantive admission necessary” (para. 86 (emphasis added), citing R.
+v. B. (K.G.), [1993] 1 S.C.R. 740, and R. v. U. (F.J.),
+[1995] 3 S.C.R. 764).  That is the principle I would apply here. [97]                         
+My colleague, however, sees a broader role for
+necessity in cases such as this one.  He quotes Charron J. in Khelawon,
+at para. 104, for the proposition that “in an appropriate case, the
+court in deciding the question of necessity may well question whether the
+proponent of the evidence made all reasonable efforts to secure the
+evidence of the declarant in a manner that also preserves the rights of the
+other party” (emphasis added).  On that basis, he concludes, at para. 68: This is the kind of “appropriate
+case” contemplated by Khelawon.  And the
+answer is that the police made no effort at all to secure the evidence
+of the declarant: they never sought to interview or even find him, though he
+gave them his address.  [Italics in original; underlining added.] [98]                         
+With respect, I am not at all sure that this is
+the kind of “appropriate case” Charron J. had in mind when she said what she
+said in Khelawon. [99]                         
+The declarant in Khelawon was a frail
+81-year-old who was living in a retirement home after having suffered a
+stroke.  He died before trial and thus could not be called to testify, but the
+Crown sought to introduce, under the principled approach, an unsworn videotaped
+statement he made to the police during the course of their investigation.  It
+was in that context that Charron J. observed, at para. 104: Although Mr. Skupien was elderly and
+frail at the time he made the allegations, there is no evidence that the Crown
+attempted to preserve his evidence by application under ss. 709  to 714  of the Criminal
+Code . He did not testify at the preliminary
+hearing. The record does not disclose if he had died by that time. In making
+these comments, I do not question the fact that it was necessary for the Crown
+to resort to Mr. Skupien’s evidence in hearsay form. Necessity is conceded. However,
+in an appropriate case, the court in deciding the question of necessity may
+well question whether the proponent of the evidence made all reasonable efforts
+to secure the evidence of the declarant in a manner that also preserves the
+rights of the other party. That issue is not raised here. [Emphasis added.] [100]                     
+It seems to me that Charron J. was making the
+point that even though the police should reasonably have anticipated that the
+declarant might not be able to attend the trial — “Mr. Skupien was elderly and
+frail” — they did nothing to secure his evidence in a better form even though
+they knew he was likely to be cooperative and forthcoming.  As Charron J.
+noted, ss. 709  to 714  of the Criminal Code  “expressly contemplate
+this eventuality and provide a procedure for the taking of the evidence
+before a commissioner in the presence of the accused or his counsel thereby
+preserving both the evidence and the rights of the accused” (para. 7 (emphasis
+added)). [101]                     
+The facts in Khelawon are thus a far cry
+from the facts in the case at hand — and because of that, care should be taken
+before we start accepting that a perfectly reasonable request of the police in
+one set of circumstances will necessarily translate into an equally reasonable
+request in other circumstances. [102]                     
+And that, in my respectful view, is where the
+analogy to Khelawon breaks down.  In Khelawon, the police were
+dealing with a known declarant who was fully cooperative and forthcoming. 
+Here, the declarant was unknown and even if the police had been able to find
+him — a big “if” — there is no reason to believe that he would have been
+forthcoming and cooperative.  Indeed, the opposite is more likely to be true. [103]                     
+With that in mind, it bears recalling that, as
+Charron J. herself observed shortly after Khelawon, the test for
+necessity is not whether the hearsay statement is the best form of the evidence
+(for that will always be live testimony), but whether it is the “best available
+form” in the circumstances (R. v. Couture, 2007 SCC 28, [2007] 2 S.C.R.
+517, at para. 79 (emphasis added)). [104]                     
+The question that arises then is:  Should we be
+requiring the police, in the name of necessity, to track down unknown and often
+unknowable declarants, who are unlikely to be found and unlikely to be
+forthcoming and cooperative in the event they are found? [105]                     
+The answer, I believe, is found in Edwards,
+where McKinlay J.A. observed: [The police] did not know the identity
+of the callers, and, in any event, it is unlikely the callers would have
+testified if their identity had been known. [p. 249] In my respectful view,
+McKinlay J.A.’s logic remains sound, even on the facts here. [106]                     
+Although it is true the police in this case had
+the benefit of the caller’s address, the caller’s identity was still unknown. 
+Surely, the police were not going to show up at 327 Guy St. and ask who there
+was looking to buy drugs from Chris Baldree.  Apart from officer safety
+concerns, the likelihood of the police finding the declarant would seem slim. 
+And the prospect of the declarant being forthcoming and cooperative, if found,
+would seem even slimmer.  An undercover drug buy would be even more
+problematic, given the number of officers who would be needed to see it through
+and the obvious risks to the officer safety inherent in such an operation. [107]                     
+Under either option, the game would hardly be
+worth the candle.  And that, in my view, provides a full answer to the concern
+that the police offered no explanation as to why they made no efforts to locate
+the declarant.  With respect, no explanation was necessary — common sense
+provides one.  If there is little chance of finding the declarant, and little
+chance that, if found, he or she will be forthcoming and provide the police
+with evidence in a better form than the call itself (such as a B. (K.G.)
+statement or testimony in court), the necessity criterion will have been met. [108]                     
+Equally problematic is the suggestion by my
+colleague that even where there are multiple callers, the police could
+be expected to go out and seek to persuade at least some of them to
+testify (para. 72).  With respect, absent evidence of collusion, I see that as
+being wasteful.  It amounts to little more than tipping our hat to necessity
+for necessity’s sake.  That has not been, and should not be, what the test for
+necessity requires. [109]                     
+At bottom, the point is that the necessity
+criterion is not meant to stifle the admission of reliable evidence.  Rather,
+it is “founded on society’s interest in getting at the truth” (Khelawon,
+at para. 49).  Necessity should be viewed as a servant of the truth, not its
+master.  For that reason, in cases such as this one — where the prospect of
+locating, identifying, and receiving accurate information from a forthcoming
+and cooperative caller is remote — if the evidence is reliable, it should be
+admitted because its reception into evidence will be necessary in order to get
+closer to the truth.  If the evidence is not reliable, it should be excluded. 
+Either way, in my view, the focus should be reliability. D.     Was This Call Reliable? [110]                     
+The reliability of a particular hearsay
+statement can be tested by looking at, among other things, the circumstances in
+which the statement came about.  One may look for indicia of reliability within
+the four corners of the statement.  The law also provides that indicia of
+reliability may be found outside the statement in the form of confirmatory
+evidence (Khelawon, at para. 100). [111]                     
+The Crown maintains that this call was
+sufficiently reliable to warrant its reception.  In particular, the Crown
+relies on the absence of any evidence that “the caller was motivated by
+anything other than a desire to purchase drugs” and the argument that the
+“spontaneity of the conversation was made under circumstances where an
+intentional lie was remote” (A.F., at para. 82). [112]                     
+This argument has something to it.  As I
+indicated above, there is good reason to believe that the sincerity hearsay
+danger is reduced in cases such as this one.  That said, Mr. Baldree argues
+that the circumstances in which this call came about are sufficient to warrant
+concern that this call may have been “made to throw suspicion” on him (R.F., at
+para. 85). [113]                     
+As the record reveals, there was initially some
+uncertainty about the respective roles of Mr. Baldree and the other Chris in
+this case, Christopher Anderson, as to the drugs found in the apartment.  Sgt.
+Martelle testified that Mr. Anderson was known to be “deal[ing] in . . . those
+types of drugs” (A.R., vol. II, at p. 106).  He was apparently a man of some
+repute, known “on the streets” as “the Mexican” (p. 59). [114]                     
+On its own, Mr. Baldree’s argument is
+insufficient to impugn the reliability of this call.  He has not suggested, for
+example, how Mr. Anderson or anyone else could have arranged for a fabricated
+call when the police seized all cell phones at the time of the arrests and no
+persons were released by the police until after the call was received. 
+Had either of Mr. Anderson’s two associates been released by the police before
+the call was received on Mr. Baldree’s phone, it would have been a
+different matter.  But those are not our facts. [115]                     
+I caution thus against inferring suspicious
+circumstances in these types of cases absent any evidence suggesting as much. 
+If that were our approach, many of our time-tested hearsay exceptions would
+unravel.  To state the obvious, a dying man does not lose his ability to lie. 
+And yet, in the case of dying declarations, we do not indulge in speculation
+about potential fabrication.  Instead, the law recognizes that a motive to lie
+in such circumstances is at best remote (R. v. Woodcock (1789), 1 Leach
+500, 168 E.R. 352 (K.B.), at p. 353).  In other words, we recognize a norm of
+human behaviour for what it is — a norm. [116]                     
+In sum, because our rules are not designed
+around theoretical possibilities but practical realities, a drug purchase call
+by mere dint of being a drug purchase call should not raise suspicions of
+fabrication.  While the onus remains on the proponent of the evidence to
+establish that the evidence is sufficiently reliable to warrant its reception,
+I would suggest that “it falls to the person opposing the evidence to show
+circumstances of suspicion” (R. v. Starr, 2000 SCC 40, [2000] 2 S.C.R.
+144, at para. 8, per McLachlin C.J.).  Here, the record does not reveal
+a sufficient basis to worry about the circumstances in which the call to Mr.
+Baldree’s phone came about. [117]                     
+Examining the sincerity of this caller’s belief,
+however, does not end the matter — and ultimately this is where the Crown’s
+argument in this case falls short. [118]                     
+Here, the Crown sought to introduce the drug
+purchase call to establish not merely that the caller believed that Mr.
+Baldree was a drug trafficker (evidence of limited value to the Crown’s case),
+but that Mr. Baldree was in fact a drug trafficker (evidence of
+significant value).  Indeed, though he characterized it as circumstantial
+evidence, the trial judge here correctly recognized that the evidence was being
+used to establish that Mr. Baldree was “engaged in the trafficking of
+drugs” (A.R., vol. I, at p. 23 (emphasis added)).  It was on the basis of that
+fact that the Crown sought an inference that Mr. Baldree was in possession
+of the cocaine and marijuana found in the apartment. [119]                     
+The problem with the Crown’s argument is that it
+says little about the reliability of the assertion that Mr. Baldree is in fact
+a drug trafficker.  The argument is more successful with respect to the fact
+that the caller intended to purchase drugs.  Accordingly, the
+statement would have been admissible as a statement of present intention if the
+Crown had sought to introduce it for that purpose (see, e.g., R.
+v. Ly, [1997] 3 S.C.R. 698).  But, as Feldman J.A. observed, that is not
+why the Crown sought to introduce this evidence (para. 144). [120]                     
+Put another way, the problem with the Crown’s
+argument is that even if the caller was entirely sincere in his belief that Mr.
+Baldree was a drug dealer, that does not address why the caller believed
+what he believed — and whether his belief was in fact true or not. 
+This is not a case of multiple calls, where common sense tells us that the
+probability of numerous callers all being mistaken is unlikely.  Nor do we have
+sufficient indicia of reliability, either within the statement or in the form
+of confirmatory evidence outside the statement. [121]                     
+Accordingly, and absent more, it thus seems to
+me a bridge too far to accept the Crown’s argument that this call meets
+threshold reliability thereby justifying its admission as substantive evidence
+that Mr. Baldree was engaged in drug trafficking. E.      Can a Single Call Ever Be Reliable? [122]                     
+Just because the single call here did not meet
+the threshold test for admissibility, it does not follow that multiple calls
+are required to establish as much.  Indeed, it is perfectly consistent
+with the principled approach that even a single drug purchase call may
+meet that threshold.  I will attempt to explain why using the facts of this
+call as an example. [123]                     
+As I mentioned earlier, what is missing in this
+call is some assurance that Mr. Baldree was in fact a drug dealer. 
+There are insufficient circumstantial guarantees of trustworthiness within the
+call itself and little or no external confirmatory evidence.  However, if the
+caller had declined the offer of delivery and instead asked “if I can drop by
+Eric’s apartment to pick up the drugs”, that may have been sufficient because
+it would have indicated greater familiarity with Mr. Baldree and his
+activities, including contemporary knowledge of his recent move to Mr. Lepage’s
+apartment.  A debt list at Mr. Lepage’s apartment with Mr. Baldree’s
+fingerprints on it may also have done the trick because it would have served as
+confirmatory evidence of Mr. Baldree’s involvement in drug trafficking.  One
+can imagine other scenarios. [124]                     
+My point is simply that had the circumstances
+been somewhat different, there may well have been a satisfactory basis for
+evaluating whether the caller believed Mr. Baldree was a drug dealer and
+whether that belief was in fact true.  That is what threshold
+reliability requires.  Setting aside the facts of this case, we do not know
+what the circumstances of some future call might be.  I would thus caution against
+the notion that only multiple calls can be reliable. III.    Conclusion [125]                     
+Subject to these comments, I join the reasons of
+my colleague.  Accordingly, I would dismiss the appeal.                     Appeal
+dismissed.                     Solicitor
+for the appellant:  Public Prosecution Service of Canada, Brampton.                     Solicitors
+for the respondent:  Foord Davies, Ottawa.                     Solicitor for the
+intervener:  Attorney General of Ontario, Toronto.   
