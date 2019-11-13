@@ -1,0 +1,600 @@
+Laflamme v. Prudential-Bache Commodities Canada Ltd., [2000]
+1 S.C.R. 638  Placements Armand Laflamme Inc.                                                  Appellant  v.  Jules Roy and Prudential-Bache Commodities Canada Ltd.          Respondents  Indexed as:  Laflamme v. Prudential-Bache
+Commodities Canada Ltd.  Neutral citation:  2000 SCC 26.  File No.:  26659.  1999:  November 2; 2000: May 3.   on appeal from the court of appeal for quebec  Civil responsibility -- Securities dealers --
+Portfolio manager -- Failure to comply with mandate -- Mismanagement of
+portfolio of securities -- Point in time when manager’s liability ends --
+Obligation of client to mitigate damages -- Quantum of damages.  Mandate -- Portfolio manager -- Scope of mandate
+and point in time when it ends -- Obligation of client to mitigate damages. L sold his business and, for tax reasons, transferred
+the proceeds to the appellant company,  98 percent of the shares of which he
+owned.  He entrusted the management of the money to the respondent R, a
+securities broker.  L and his family had no experience in investments.  In
+April 1988, R left his brokerage firm and joined the respondent Prudential-Bache
+and arranged the transfer of the appellant’s portfolio to his new employer.  In
+June, L learned from his auditor that R was managing the portfolio on margin
+without his knowledge and that a number of the investments were speculative,
+when the primary purpose of the investments was supposed to have been to
+provide L, who was nearly 60 years old, with a retirement fund.  In July and
+November, L’s daughter advised R by letter to limit stock market investments,
+to make safe investments and to stop engaging in margin transactions.  On May
+3, 1989, R and the L family met to discuss the management of the portfolio.  On
+May 5, contrary to the suggestions attributed to R, the appellant wrote to him
+advising him to sell certain shares in batches and postponed a decision
+relating to other shares for a month.  However, it did not subsequently provide
+any instructions concerning those shares.  In the fall of 1989, the price of
+the shares held by the appellant fell and, in March 1990, it closed its account
+and sustained major losses.  L and the appellant then commenced an action for
+damages against the respondents, claiming that those losses had been sustained
+as a result of their faults.  The trial judge found that the respondents were
+entirely liable and ordered them to pay $12,232.55 to L and
+$1,466,141.08 to the appellant.  The Court of Appeal allowed the
+respondents’ appeal in part.  Unlike the trial judge, who used April 1990 to
+determine the amount of the appellant’s accumulated losses, the Court of Appeal
+used June 5, 1989, the end of the one-month period specified in the letter of
+May 5, since as of that date the appellant had sufficient information to decide
+to close its account and thus mitigate its damages.  The court reduced the
+total damages awarded to the appellant to $70,723.79.  Held: The appeal should be allowed.  The liability of the respondents was not in issue.  R
+failed to comply with the conduct required of a prudent and diligent manager,
+in that he failed to construct an organized and diversified portfolio, carried
+out transactions that were inconsistent with the client’s general instructions,
+acquired speculative securities and failed to have regard to his client’s
+investment objectives. For the most part, the legal relationship between a
+client and a portfolio manager is governed by the rules of mandate. As a
+mandatary, R also failed to deal fairly and honestly with his client, as he was
+expected to do, by failing to comply with the L family’s specific instructions
+concerning the amounts to be invested in the stock market and the immediate
+cessation of transactions on margin. The only issue which arises is the point
+in time when the respondents’ liability ceased.  The events of May 1989 did not change the object
+of the mandate between L and the respondents, and R continued to be subject to
+an ongoing management obligation.  The Court of Appeal erred when it intervened
+on this ground and substituted its own interpretation of the facts for the
+trial judge’s interpretation, absent patent error on his part. There was
+nothing to indicate that the parties considered changing the mandate by
+terminating discretionary management. The trial judge rejected the
+interpretation of the letters sent by the L family as indicating that they were
+gradually taking control of the management of their portfolio, and on the
+whole, he believed the appellant’s witnesses.  The degree of discretion that a
+dealer enjoys in managing a portfolio may vary, and there is nothing to prevent
+the scope of that discretion being limited or the client being involved in the
+portfolio’s management from time to time.  Intervention of that sort by the
+client is possible without it amounting to a change in the object of the
+mandate or to a revocation of the mandate.  The conduct of R following receipt
+of the letter of May 5 is not consistent with a change to or revocation of the
+management mandate since the account statements show that he bought and sold a
+number of securities without instructions from the appellant.  In fact, there
+was nothing to indicate that R advised the L family regarding the effect of any
+such change in the object of the mandate on their respective obligations, as he
+should have done.  The only possible conclusion is thus that R continued to manage
+the portfolio on a discretionary basis despite the letter of May 5.  In any
+event, even if we were to accept that the object of the mandate had been
+changed from discretionary management to non-discretionary management, this
+would not mean that the respondents had no liability.  Despite any such change
+in the object of the mandate, R is still responsible for the injury resulting
+from the faults he committed.  Thus, absent any fault on the part of the
+appellant or a third party, the damages in the instant case were the direct
+result of the mismanagement of the portfolio by R, and accordingly, even if it
+were accepted that the letter operated to change or revoke the management
+mandate, R is still liable, since the faults were committed prior to the letter. 
+The respondents’ liability cannot end merely because the object of the mandate
+was changed or the appellant opted to take over control of the management of
+its portfolio.  The trial judge was correct in holding April 1990 to
+be the end of the assessment period since the L family were not negligent when
+they failed to intervene earlier in the respondents’ management in the hope of
+minimizing the losses.  The trial judge noted the state of mind and the
+knowledge of the members of the L family.  They held onto securities in
+reliance on assurances given by R, whom they trusted.  The losses caused by the
+bad advice and grossly negligent management by R cannot be laid at their doorstep.
+Absent any patent error on the part of the trial judge, the Court of Appeal
+erred in blaming the appellant for failing to take measures to mitigate the
+damages.  It cannot be concluded from the evidence in the record that the
+appellant’s behaviour, in failing to liquidate or withdraw its portfolio in the
+spring of 1989, was not what a reasonably prudent and diligent person would
+have done in the same circumstances.  The appellant is entitled to compensatory damages
+because of the wrongful conduct of the respondents.  The total amount of the
+damages is made up of the losses incurred by the appellant and the profits of
+which it was deprived.  Those damages must be assessed for the period from
+April 1988, the date on which the portfolio was transferred, to April
+1990. The findings of the trial judge cannot be restored in their entirety. The
+trial judge erred when he added the commissions and interest to the quantum of
+damages assessed by the expert, since those amounts had already been included
+by the expert in his calculation of damages.  The respondents are jointly and
+severally ordered to pay the appellant the amount of $924,374, plus interest at
+the legal rate from the date of service and the additional indemnity.  Cases Cited  Distinguished:  Bazinet
+v. Wood Gundy Inc., [1997] R.R.A. 273; referred to:  Hodgkinson
+v. Simms, [1994] 3 S.C.R. 377; Rothschild v. Duffield, [1950] S.C.R.
+495; Beatty v. Inns, [1953] Que. Q.B. 349; Mines v. Calumet
+Investments Ltd., [1959] C.S. 455; Proulx v. Société de placements &
+Co., [1976] C.A. 121.  Statutes and Regulations Cited  Civil
+Code of Lower Canada, arts. 1024, 1073, 1074,
+1701, 1709, 1710, 1735, 1756.  Civil Code of  Québec, S.Q. 1991, c. 64,
+arts. 1434, 1479, 1611, 2130, 2139, 2176, 2182.  Regulation respecting
+securities, (1983) 115 G.O. II, 1269, s. 232
+[am. (1996) 128 G.O. II, 560, s. 25], 234.1 [ad. (1988) 120 G.O. II, 2396,
+s. 19], 235 [repl. (1985) 117 G.O. II, 2297, s. 59].  Securities Act, R.S.Q., c. V-1.1, ss. 5 [am. 1984, c. 41, s. 2], 161.    Authors Cited  Baudouin, Jean-Louis, et
+Patrice Deslauriers.  La responsabilité civile, 5e éd. 
+Cowansville:  Yvon Blais, 1998.  Beaudoin, Lise I.  Le contrat
+de gestion de portefeuille de valeurs mobilières:  nature juridique, rôle des
+règles de l’administration du bien d’autrui et obligations des parties. 
+Cowansville:  Yvon Blais, 1994.  Fabien, Claude.  “Les règles du
+mandat”.  Extraits du Répertoire de droit -- Mandat -- Doctrine --
+Document 1.  Montréal:  Chambre des notaires du Québec, 1986.  L’Heureux, Nicole.  “La révocation
+d’un agent et le statut d’intermédiaire de commerce” (1977), 18 C. de D.
+397.  Lemoyne, Raymond D., et Georges
+R. Thibaudeau.  “La responsabilité du courtier en valeurs mobilières au
+Québec” (1991), 51 R. du B. 503.  Pétel, Philippe.  Les
+obligations du mandataire.  Paris:  Litec, 1988.  Québec.  Commission des valeurs
+mobilières.   Instructions générales québécoises Q-9, s. 57.  Savatier, René.  “Les contrats de
+conseil professionnel en droit privé”, D. 1972.chron.137.  APPEAL from a judgment of the Quebec Court of Appeal,
+[1998] R.J.Q. 765, [1998] Q.J. No. 828 (QL), allowing in part the respondents’
+appeal from a judgment of the Superior Court, [1996] R.J.Q. 2694, [1996] Q.J.
+No. 1400 (QL). Appeal allowed.  Serge Létourneau and Odette
+Jobin-Laberge, for the appellant.  Edward E. Aronoff and Sophie
+Crevier, for the respondents.  English version of the judgment of the Court delivered
+by 1                                  
+Gonthier J. — The issue in
+this case relates to the extent of the liability of a securities dealer acting
+as a portfolio manager.  More specifically, the case relates to the point in
+time when that liability ceases.  1.  Facts  2                                  
+In June 1987, when he was about 60 years of age, Armand Laflamme and his
+brother sold the door and window business they owned.  Armand Laflamme’s share
+of the proceeds was $2,200,000, which he transferred to the appellant company,
+Placements Armand Laflamme Inc., 98 percent of the shares of which he
+owned.  He was supposed to have received $5,000,000, representing one half of
+the selling price of $10,000,000, but as a result of financial difficulties
+experienced by the company the balance of the selling price could not be paid. 
+The appellant is a company established for tax purposes to receive the
+proceeds of the sale of Armand Laflamme’s shares.  3                                  
+In April 1987, Armand Laflamme accompanied by his son Benoît,
+met with the respondent, Jules Roy, who was at that time a securities dealer
+with the firm of Burns Fry, to discuss investments.  The purpose of these
+investments was primarily to provide him with a retirement fund.  Armand
+Laflamme had only a grade four education, and his son Benoît had no experience in
+portfolio management.  The son, who had not completed Secondary V, handled
+personnel in the family’s plant.  On May 19, 1987, the respondent Roy
+opened an account for the appellant company and obtained Armand Laflamme’s
+signature on a number of complex forms.  Mr. Laflamme signed the forms in
+blank, and Roy filled them out himself later.   5                                  
+On July 15, 1988, Suzanne Laflamme, Armand’s daughter, wrote
+to Roy advising him to limit stock market investments to $500,000 — [translation]  “not all in high risk” —
+and to invest the rest of the money in safe investments.  She stated that [translation] “[n]aturally, we will no
+longer use the line of credit”.  Over the next few months, the position of the
+portfolio deteriorated, while interest on the line of credit, and Roy’s
+commissions, increased.  On November 10, 1988, another letter was
+sent to Roy setting the amount to be invested in the stock market at $750,000
+and stating that the investments were to be diversified and to include
+approximately $200,000 in risk investments.  This letter repeated the
+intention to stop using the line of credit and asked that the shares be sold
+when it was possible to do so without a loss, in order to reinvest the proceeds
+in safe investments.  6                                  
+On May 3, 1989, the Laflamme family and Roy met at Le Bouvier
+restaurant to discuss the management of the portfolio, and more specifically
+the Campeau and Quaker State shares held in the portfolio.  On
+May 5, 1989, contrary to the suggestions attributed to Roy that these
+shares not be sold, the appellant decided to sell the Quaker State shares in
+batches and to postpone a decision relating to the Campeau shares for a month. 
+However, the appellant did not subsequently provide any instructions concerning
+those shares.  7                                  
+In the fall of 1989, the price of the shares held by the appellant fell,
+with the result that the value of the portfolio dropped significantly.  On
+March 2, 1990, the appellant closed its account with the respondent
+Prudential-Bache, and sustained major losses at that time.  8                                  
+The appellant and Armand Laflamme then commenced an action for damages
+against the respondents, claiming that these losses had been sustained as a
+result of their faults.  2.  Decisions  Superior Court of Quebec, [1996] R.J.Q. 2694   10                              
+At the beginning of his analysis, Lebrun J. made a finding concerning
+the credibility of the witnesses and unhesitatingly accepted the testimony of
+the witnesses for the plaintiff, the appellant in this Court.  In his opinion,
+Armand Laflamme and his two children [translation]
+“had been led into an adventure in which gross negligence if not deception were
+key factors” (p. 2701).  On this point, he wrote (at p. 2701):  [translation]  The
+explanations given by the Laflamme children concerning their relations with the
+defendant Roy are credible and lead to only one conclusion — that they were all
+persons unfamiliar with the stock market and their conversations with the
+defendant Roy were information sessions, and that they could never have given
+informed consent or approved the many risky and irresponsible transactions
+carried out by the defendant Roy without regard for his regulatory and legal
+obligations.  In defence, reliance was placed on several letters
+the Laflamme family sent to the defendant, in an attempt to prove that they
+were knowledgeable individuals who were giving the defendant orders.  This
+interpretation is not persuasive.  It is clear from the letters to Roy, the
+dealer, that his clients were mystified by the “play” of the stock market, that
+they had only a minimal understanding of the transactions carried out on their
+behalf by the defendant, that it was their accountant and auditor who made them
+aware, when preparing the financial statements, of the mess that the defendant
+was making of things.   12                              
+Relying, inter alia, on the obligations that rest on the dealer
+pursuant to the rules of the Montréal stock exchange, Lebrun J. found that the
+respondent Roy had failed to fulfill his basic obligation to know his client by
+[translation] “totally [ignoring]
+the plaintiff’s objective, which was to establish a retirement fund for himself
+after a lifetime of hard work” (p. 2701).  On the question of the scope of
+Roy’s obligation to provide advice, he stated that the obligation was
+particularly broad in view of Mr. Laflamme’s lack of knowledge concerning
+investments.  13                              
+He accordingly found that the respondents were entirely liable and
+listed the [translation] “quite
+unmistakable and clearly proved” faults of the dealer, Roy, which he
+characterized as gross faults (at p. 2703):  1.    Failure to be properly knowledgeable about
+his client’s situation; 2.    Failure to act in accordance with the
+client’s objectives;  3.    Failure to adequately inform the client
+concerning the nature, return on and risks of the investments;  4.    Failure to comply with the client’s specific
+instructions;  5.    Failure to deal with his client in good
+faith and in accordance with good practice;  6.    Extremely large numbers of transactions for
+the purpose of increasing commissions;  7.    Failure by the defendant company to exercise
+proper supervision;  8.    Clear conflict of interest with [Roy’s]
+alleged supervisor, [Claudio] Vecchio, who received a 50 percent share of the
+defendant’s commissions.  14                              
+On the question of quantum, Lebrun J. adopted the report prepared by the
+expert, Dorval, stating that the method used to establish the plaintiffs’
+losses was in accordance with the provisions of arts. 1073 and 1074 C.C.L.C.
+and the principle established in Hodgkinson v. Simms, [1994] 3 S.C.R.
+377.  He therefore found the respondents jointly and severally liable to pay to
+Armand Laflamme $12,232.55, and to the appellant company $1,466,141.08.  The
+latter amount consists of the quantum of $1,078,420 established by Dorval, to
+which Lebrun J. added Roy’s commissions of $111,812.15 and interest on the
+margin account totalling $275,908.93, [translation]
+“these amounts being recoverable in view of the evidence that they were
+acquired illegally and in breach of rules which are matters of public order”
+(p. 2704).  Court of Appeal of Quebec, [1998] R.J.Q. 765  15                              
+On March 16, 1998, the Court of Appeal allowed the respondents’ appeal
+in part and reduced the total damages awarded to the appellant company to
+$70,723.79.  16                              
+On the issue of the respondents’ liability, Letarte J.A., writing
+for the Court of Appeal, expressed the view that the trial judge had instructed
+himself properly as regards the nature of the faults committed by Roy. 
+However, in the opinion of Letarte J.A., the Laflamme family had gradually
+become capable of managing their portfolio, and he felt that this should be
+identified as the point where the causal connection between the faults
+committed by the respondents and the damage suffered by the appellant company
+was broken.  He identified the following errors as justifying intervention by
+the Court of Appeal (at p. 771):  [translation]  a)    the calculation by the trial judge
+took into account the Burns-Fry period, which the parties had agreed to
+exclude;  b)    that calculation ignored the change
+in the discretionary nature of the portfolio’s management during the period
+under consideration;  c)    by establishing the total loss as of
+the date on which the portfolio was closed in April 1990 he failed to take into
+account the respondent’s obligation to mitigate the damages by closing the
+account earlier;  d)    the findings in the Dorval report
+relating to the accumulated losses already included the commissions and
+interest on the margin account;  e)    the amount of the losses did not take
+into account lost profits.   [translation]  Between
+the transfer and the letter directing that the account be closed, on March 2,
+1990, a number of facts could have prompted the Laflamme family to respond
+earlier.  By the spring of 1989 they had sufficient information on the stock
+market transactions and were aware of the status of their portfolio, and their
+confidence in Roy was beginning to be seriously eroded.  For one thing, the accountant, Martineau, had
+warned them of the danger of investing in speculative securities using an
+ever-growing line of credit.  These hesitations, and even questions, went on for
+several months before the Laflamme family decided to give their instructions to
+the appellants, in short, to take control of their stock market transactions
+themselves.  At what point in time were the Laflamme family
+capable of realizing that it was desirable for them to sever all ties with the
+appellants and call them to account?  On the evidence, this point at least had
+to come during the period following the meeting at Le Bouvier restaurant in
+May 1989.  As regards the period prior to this, I must rely on the
+findings of the trial judge regarding the circumstances that affected their
+capacity to make an informed decision in this respect.  [Emphasis in original.]   [translation]  With
+respect, I am of the opinion that the Laflamme family’s loss of confidence in
+Roy developed gradually over a period beginning with the meeting on
+May 3, 1989, and continuing to the end of the period for thinking
+matters over referred to in the letter of May 5, 1989 and that at the
+end of that period, the respondent was sufficiently well informed to decide to
+close the account and stop the haemorrhage.  I must therefore find that the
+final date, in terms of calculating the respondent’s accumulated loss, was June
+5, 1989.  20                              
+The Court of Appeal accordingly varied the trial decision and fixed the
+total award at $70,723.79, representing the lost value of the portfolio ($23,963)
+and the lost profit ($46,760.79).  3.  Analysis   22                              
+The issue is rather the scope of the mandate and the time over which
+that mandate extended, and the associated duty to mitigate damages.  A.  Law      26                              
+Thus, the manager makes most of the decisions relating to the portfolio
+and the make up of the portfolio.  The scope of his management authority and
+the exercise of his discretion will, however, depend on any restrictions that
+are imposed by law or agreement.  In particular, the agreement may expressly
+circumscribe the manager’s authority and discretion, for instance by giving the
+client the option of confirming certain transactions.  Such limitations may
+also be implicit in the client’s investment objectives or circumstances.   28                              
+As in the case of any mandate, the mandate between a manager and his
+client is imbued with the concept of trust, since the client places his trust
+in the manager — the mandatary — to manage his affairs.  The very definition of
+mandate in art. 1701 C.C.L.C. conveys this concept.  As one author
+has written, the word “confie” (“commits”, in the English version)
+implies a degree of trust, on the part of the person granting the mandate, in
+the person receiving it.  This element of trust explains, for instance, the
+mandator’s authority to revoke the mandate at any time (art. 1756 C.C.L.C.;
+art. 2176 C.C.Q.).  This spirit of trust is reflected in the weight
+of the obligations that rest on the manager, which will be heavier where the
+mandator is vulnerable, lacks specialized knowledge, is dependent on the
+mandatary, and where the mandate is important.  The corresponding requirements
+of fair dealing, good faith and diligence on the part of the manager in
+relation to his client will thus be more stringent.  29                              
+The content of the obligations that rest on the manager will vary with
+the object of the mandate and the circumstances.  One of the most fundamental
+of these obligations is that the manager exercise reasonable skill and all the
+care of a prudent administrator (art. 1710 C.C.L.C.).  The conduct
+expected is not that of the best of managers, nor the worst.  Rather, it is the
+conduct of a reasonably prudent and diligent manager performing similar
+functions in an analogous situation.  Thus the portfolio manager’s conduct must
+[translation] “be analysed having
+regard to his role as a specialist in this kind of transaction, and to the
+practices of each profession” (L’Heureux, supra, at p. 425).  The Regulation
+respecting securities, (1983) 115 G.O. II, 1269, further defines this
+obligation by requiring that in his relations with his client the manager use
+“the care that one might expect of an informed professional placed in the same
+circumstances” (s. 235).  He must also deal in good faith, honestly and
+fairly with his clients (s. 234.1).  30                              
+The mandate also imposes an obligation for the manager to inform his
+client and, in certain circumstances, a duty to advise him.  The obligation to
+inform, now codified in art. 2139 C.C.Q., requires that the
+manager, as mandatary, inform the mandator of the facts and of the progress of
+his management.  Professor Claude Fabien summarizes the object of this
+obligation as follows (“Les règles du mandat”, in Chambre des notaires du
+Québec, Extraits du Répertoire de droit — Mandat — Doctrine
+— Document 1  (1986), No. 127):  [translation]  The
+purpose of this obligation is to avoid the mandator doing things that are
+inconsistent, or to enable him to change his instructions or react to the
+circumstances.  This obligation also implies that the mandatary will remain in
+contact with the mandator to allow communication in both directions.  The
+mandatary’s obligation to inquire from the mandator in the event of doubt
+concerning his instructions or authority could also be included.  [References
+omitted.]   [translation]  Plainly,
+a mandator using the services of a professional as an intermediary in his
+relations with third parties expects a great deal from that intermediary.  It
+is not merely a matter of performing a legal act in his absence, since such an
+outcome could in most cases be achieved by means of modern telecommunications. 
+The mandator also wishes to have his interests better taken care of than
+they would have been had he acted directly.  This is the reason for the
+existence of certain professional mandataries such as insurance brokers or
+freight forwarding agents. [Emphasis in original; references omitted.]  32                              
+For the same reasons, a securities portfolio manager is also subject to
+this duty.  33                              
+The duty to provide advice requires that the manager make his knowledge
+and expertise available to the client, and that he use them better to serve the
+client’s interests in light of the client’s objectives.  However, the duty to
+provide advice is not the same as the obligation to inform, the substance of
+the latter being more objectively quantifiable. As Pétel says, supra, at
+pp. 155-56, [translation] “advice
+is not just any kind of information.  It is directed information, designed to
+guide its recipient toward a decision consistent with his interests”.  This
+duty relates not only to the risks associated with certain initiatives, but
+also to the very nature of the matters agreed to between mandatary and
+mandator, especially where the mandator is a lay person.  Thus, the duty to
+advise extends to everything involved in the mandate to manage the portfolio,
+including the consequences for the client of any change in the object of the
+mandate.  The manager being subject to an ongoing obligation to manage, this
+duty continues as long as the object of the mandate given by the client to the
+manager remains unchanged and could even survive the termination of the mandate
+(art. 1709 C.C.L.C.; art. 2182 C.C.Q.).  B.  Application to the Facts  35                              
+As noted earlier, the actual liability of the respondents is not in
+issue.  The Superior Court and the Court of Appeal agree that they have
+incurred liability through their actions.  The respondents have not appealed
+those findings to this Court.  36                              
+I agree with the findings of the trial judge in that regard.  The faults
+committed by the respondent Roy are apparent from the record.  He failed to
+comply with the conduct required of a prudent and diligent manager, in that he
+failed to construct an organized and diversified portfolio, carried out
+transactions that were inconsistent with the client’s general instructions,
+acquired speculative securities and failed to have regard to his client’s
+investment objectives.  As a mandatary, the respondent Roy also failed to deal
+fairly and honestly with his client, as he was expected to do.  There could be
+no clearer illustration of that breach than his failure to comply with the
+Laflamme family’s instructions concerning the amounts to be invested in the
+stock market and the immediate cessation of transactions on margin.  37                              
+The issue which arises is the point in time when the respondents’
+liability ceased.  That point in time may be decisive, in view of the nature of
+the damages in this case, which resulted not from losses caused by an easily
+singled out act, such as an unauthorized transaction or the failure to act on
+the client’s instructions to buy or sell a particular security, but rather from
+the on-going mismanagement of a portfolio whose value fluctuates continuously
+with the prices of the securities of which it is made up.  The point at
+which the causal connection was broken may then have a major impact on the
+value of the portfolio, and consequently on the quantum of damages.  38                              
+One of the grounds on which the Court of Appeal intervened was that the
+respondents’ liability should have ended on June 5, 1989.  According
+to Letarte J.A., the trial judge’s calculation of the damages ignored the
+change in the discretionary nature of the management of the portfolio.  He also
+held that by basing the determination of the amount of the loss on the date on
+which the account was closed, in April 1990, Lebrun J. erred by failing to
+take into account the appellant’s duty to mitigate its damages.  (i)  Change in Object of the Mandate    41                              
+With respect, the intervention by the Court of Appeal on this issue
+seems unwarranted.  No patent error by the trial judge that would justify
+reassessment of the evidence was identified.  The principle that an appellate
+court must exercise deference with respect to a trial judge’s findings of fact
+has been clearly established by this Court.  La Forest J. reiterated
+that principle in Hodgkinson v. Simms, supra, at pp. 425-26:   42                           
+Despite the fact that the Court of Appeal indicated that it agreed with
+the trial judge’s findings, it erred by nevertheless drawing its own
+conclusions concerning the intentions of the Laflamme family, the
+interpretation of the letter of May 5, and the object of the mandate.  43                              
+The trial judge clearly rejected the interpretation of the letters sent
+by the Laflamme family as indicating that they were gradually taking control of
+the management of their portfolio.  In his view, those letters showed that the
+Laflamme family [translation]
+“were mystified by the ‘play’ of the stock market, that they had only a minimal
+understanding of the transactions carried out on their behalf by the defendant,
+that it was their accountant and auditor who made them aware, when preparing
+the financial statements, of the mess that the defendant was making of things”
+(p. 2701).  More specifically, concerning the letter of July 15, 1988, Lebrun
+J. pointed out that, in the three experts’ opinions, that letter [translation] “contained numerous
+contradictions, and demonstrated an obvious lack of knowledge on the part of
+the person who signed it, as well as unequivocal proof of the need for safe
+investments of members of the Laflamme family concerned” (pp. 2697-98).  44                              
+Nor, would I add, with respect, do the facts support the Court of
+Appeal’s interpretation of the letter of May 5.  The Court placed great weight
+on the events of May 1989, to conclude that this was a turning point in
+relations between the parties.  However, the testimony of the parties
+concerning the meeting on May 3, 1989, at Le Bouvier restaurant
+were contradictory, as the Court of Appeal noted (at p. 773):  [translation]  Roy’s
+description of the meeting on May 3 was flatly contradicted by the
+Laflamme family, whom the trial judge believed “without the slightest
+hesitation”.  Roy claims to have strongly suggested that the Campeau shares be
+sold, despite the objections of the Laflamme family.  They maintain exactly the
+opposite: Roy painted a glowing picture of huge profits for them, and added
+that he was keeping the same shares in his father’s portfolio, and that he was
+even considering buying them himself: “. . . you won’t lose anything . . .”.  45                              
+While he did not make a specific finding concerning the events of
+May 1989, Lebrun J. did make a general finding concerning the credibility
+of the witnesses.  On the whole, he believed the Laflamme family.  46                              
+There is nothing to indicate that the parties stopped to consider
+changing the mandate by terminating discretionary management.  In that case,
+Roy would have been obliged to inform the Laflamme family, who were not
+knowledgeable investors, of the effects of this change on the management of the
+account, to ensure that an informed decision was made.  This stems from his
+obligation to act in good faith.  He would then also have been required to
+advise them concerning the implications of that decision and, at the very
+least, tell them clearly that they alone would now be responsible for all
+aspects of management of the portfolio.  In fact, the Laflamme family remained
+under the impression that Roy was still handling their affairs.  47                              
+Thus, in the circumstances, the letter of May 5 was not an express
+or implied revocation of the management mandate given to the respondents nor a
+change in its object or their obligations.  As we have seen, the degree of
+discretion that a dealer enjoys in managing a portfolio may vary.  There is
+nothing to prevent the scope of that discretion being limited or the client
+being involved in the portfolio’s management from time to time.  Intervention
+of that sort by the client is possible without it amounting to a change in the
+object of the mandate or to a revocation of the mandate.  In view of the length
+of the relationship between the parties, the Laflamme family’s lack of
+knowledge concerning securities markets and investment management, and the size
+of the portfolio and role of the mandatary, much more would have been required
+in the instant case in order for there to have been an implied change to or
+revocation of the management mandate.  48                              
+I would also add that the conduct of the respondent Roy following
+receipt of the letter of May 5 is not consistent with such an
+interpretation of the letter’s effect.  Not only was there no communication
+between the parties subsequent to that letter, but quite a number of
+transactions were in fact carried out by Roy relating to the appellant’s
+portfolio.  The respondents claim that only 18 administrative transactions were
+carried out, such as cashing matured government bonds and performing
+obligations incurred by way of options.  However, the account statements in the
+record show that, while he did so less frequently, the respondent Roy bought
+and sold a number of securities without instructions from the appellant. 
+During the hearing in this Court, the respondents in fact had some difficulty
+explaining these transactions.  The only possible conclusion is thus that Roy
+continued to manage the portfolio on a discretionary basis despite the letter
+of May 5.   50                              
+Accordingly, the discussions of May 1989 did not change the object
+of the mandate between the Laflamme family and the respondents, and Roy, the
+dealer, continued to be subject to an ongoing management obligation.  The Court
+of Appeal erred when it intervened on this ground and substituted its own
+interpretation of the facts for the trial judge’s interpretation, absent patent
+error on his part.  (ii)  Mitigation of Damages  51                              
+The Court of Appeal and the respondents also state that the Laflamme
+family ought to have acted earlier to mitigate the damages resulting from
+mismanagement of the portfolio.  The Laflamme family did nothing after the
+letter of May 5, 1989.  Should they have taken action?  Did they have
+an obligation to terminate the mandate and change the investments?  52                              
+Civil law imposes an obligation on a creditor to mitigate damages.  This
+obligation, which is now codified in art. 1479 C.C.Q., requires
+that a creditor avoid aggravating the risk [translation]
+“by taking the measures that would have been taken, in the same circumstances,
+by a reasonably prudent and diligent person” (Baudouin and Deslauriers, supra,
+No. 1256).  The specific circumstances of each situation must therefore be
+considered in assessing what conduct is expected of a creditor.  53                              
+In the case of injury resulting from mismanagement of a securities
+portfolio, a flexible approach must be taken in determining what constitutes a reasonable
+period of time for the client to act and mitigate the damages.  In particular,
+regard must be had to the client’s level of experience and knowledge of
+investments, and to the complexity of the situation.  54                              
+I would add that the sense of trust that is characteristic of a contract
+of mandate also has a significant impact on the state of mind of a client who
+is the victim of a fault committed by a manager.  In this case, that trust lay
+in the belief acquired in the professional merit of the manager, as a result of
+which a client, especially one who is not knowledgeable, may be unable or at
+least reluctant to believe that the manager is incompetent.  Both that trust
+and the confusion resulting from a loss of trust will make it particularly
+difficult for the victim to take charge of the situation.  Awareness of the
+extent of the injury dawns more slowly.  This situation, which the manager
+himself has created by representing himself as a professional worthy of trust,
+must be taken into account before blaming the victim for any want of diligence
+in mitigating damages, especially since the measures to be taken were not
+obvious and responsibility for taking or advising those measures rested
+primarily on the respondents, as knowledgeable dealers and managers.  A number
+of options were available: transfer the portfolio to another manager, sell the
+securities held, or hold onto them in the hope that they would go up in value. 
+Obviously, it is easy to identify the right course of action in hindsight.  At
+the time however the decision was one that called for an assessment of highly
+complex risks, and that involved risks of its own.  The Laflamme family held
+onto the securities.  Should they be faulted for that?  In the circumstances,
+we must conclude that they are not to blame.  55                              
+Liquidating or reorganizing the portfolio would not have been an easy
+task for the Laflamme family.  Playing the stock market requires a thorough
+knowledge of finance, economics and the dynamics of securities markets. 
+Professionals make their careers, and sometimes even lose them, by their choice
+of timing of securities transactions.  In this case, the Laflamme family were
+not dealing with one investment, or a few investments, that they should or
+should not have disposed of.  On the contrary, the portfolio, which was Armand
+Laflamme’s retirement fund, was composed of a number of securities on both the
+Canadian and American markets.  It was made up of shares, warrants, call
+options, put options, mutual funds, debentures and government bonds —  in
+short, a range of sometimes highly sophisticated financial instruments.  We
+should not forget the complexity of the situation facing the Laflamme family.  56                              
+In order to prevail on this issue, the respondents had to show that the
+Laflamme family were negligent when they failed to intervene in the
+respondents’ management earlier in the hope of minimizing the losses.  The
+trial judge noted the state of mind and the knowledge of the Laflamme family,
+who held onto securities in reliance on assurances given by the respondent Roy,
+whom they trusted.  The losses caused by the bad advice and grossly negligent
+management by Roy cannot be laid at their doorstep.  It is reasonable to assume
+that an average investor faced with similar circumstances would have been
+indecisive and hesitant when faced with the various options:  selling the
+securities and taking the loss, holding onto them and hoping that they would go
+back up in value, or transferring the account to another manager.  Nor was any
+evidence tendered to suggest that, on the information available to them at the
+time, any of these options would have been beneficial.  For all these reasons,
+the Laflamme family cannot be faulted for failing to take further measures in
+the hope of minimizing the losses.  Those losses were sustained as a result of
+mismanagement by the respondents, which, as the trial judge found, continued
+until the account was closed.  57                              
+The respondents cited the decision of the Quebec Court of Appeal in Bazinet
+v. Wood Gundy Inc., [1997] R.R.A. 273.  That decision is not applicable
+here.  In that case, the investor had made an investment on the basis of
+incomplete information provided by the dealer.  One year later, concerned about
+the mediocre performance of his investment, he got the straight facts from
+another dealer with the same brokerage firm, who told him that it was in fact a
+highly speculative investment.  Nonetheless, he held onto the securities.  In
+the opinion of the Court of Appeal, the investor then had to bear the adverse
+consequences of holding onto the securities with full knowledge of the risk. 
+The nature or termination of a management mandate or the measures to be taken
+were not at issue, but rather, a risk assumed with full knowledge of the
+situation, resulting from holding onto an investment that was not in compliance
+with the instructions given at the outset.  58                              
+Absent any patent error on the part of the trial judge, the Court of
+Appeal erred in blaming the appellant for failing to take measures to mitigate
+the damages.  It cannot be concluded from the evidence in the record that the
+appellant’s behaviour, in failing to liquidate or withdraw its portfolio in the
+spring of 1989, was not what a reasonably prudent and diligent person would
+have done in the same circumstances.  59                              
+Accordingly, for the foregoing reasons, I believe that the Court of
+Appeal erred in holding June 5, 1989, to be the end of the damage
+assessment period.  The trial judge committed no error in holding April 1990
+to be the end of the assessment period.  C.  Quantum of Damages  60                              
+The appellant is entitled to compensatory damages because of the
+wrongful conduct of the respondents.  The total amount of the damages is made
+up of the losses incurred by the appellant and the profits of which it was
+deprived (art. 1073 C.C.L.C.; art. 1611 C.C.Q.).  For
+the foregoing reasons, those damages must be assessed for the period from
+April 1988, the date on which the portfolio was transferred from Burns Fry
+to the respondent company, to April 1990.   62                              
+The appellant agrees that the trial judge erred when he added the
+commissions and interest to the quantum of damages assessed by Dorval.  Those
+amounts were included by Dorval in his calculation of damages, so they should
+not have been added.  For that reason, we cannot restore the findings of the
+trial judge in their entirety.  63                              
+The appellant submitted an analysis of the performance of its portfolio
+for the relevant period.  That analysis shows, inter alia, the total
+principal amount initially transferred to the respondent company, the monthly
+return and the total accumulated losses, and takes into account the value of
+withdrawals from the account.  It also shows the weighted rates of return and
+the market value of the portfolio if a passive investment strategy had been
+followed.  That analysis is based on the Dorval report, which was accepted by
+Lebrun J., and on which he relied in calculating the damages.  Based on that
+analysis, the appellant is seeking damages in the amount of $924,374,
+representing the loss it sustained and the profit of which it has been
+deprived.  Absent a counter-analysis or objections to that analysis by the
+respondents, I accept the amount determined by the appellant.  4.  Disposition  64                              
+For these reasons, I would allow the appeal, set aside the judgment of
+the Court of Appeal in this case, restore the judgment of the Superior Court in
+part, find the respondents jointly and severally liable to pay to the appellant
+the amount of $924,374, plus interest at the legal rate from the date of
+service and the additional indemnity, with costs in all courts, including
+expert witness fees.  Appeal allowed with costs.  Solicitors for the appellant:  Lavery, de Billy, Québec.  Solicitors for the respondents:  Mendelsohn Rosentzveig
+Shacter, Montréal.    

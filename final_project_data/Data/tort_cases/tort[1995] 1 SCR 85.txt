@@ -1,0 +1,1156 @@
+Winnipeg Condominium Corporation No. 36  v. Bird
+Construction Co., [1995] 1 S.C.R. 85  Winnipeg Condominium Corporation No. 36                                    Appellant  v.  Bird Construction Co. Ltd.                                                                Respondent  and  Smith Carter Partners Intervener  Indexed as:  Winnipeg Condominium
+Corporation No. 36  v. Bird Construction Co.  File No.:  23624.  1994:  October 12;
+1995:  January 26.   on appeal from the court of appeal for manitoba                      A land developer contracted
+with respondent to build an apartment building in accordance with plans and
+specifications prepared by the intervener (an architectural firm).  Respondent
+subcontracted the masonry portion of the work.  The building was converted into
+a condominium in October, 1978, when appellant became the registered subsequent
+owner of the land and building.  In 1982, the appellant's directors became
+concerned about the masonry work on the exterior cladding of the building. 
+They retained the architects (the intervener) and a firm of consulting
+engineers to inspect the building.  The architects and engineers offered the
+opinion that the building was structurally sound.  In 1989, a storey-high
+section of the cladding fell from the ninth storey level of the building.  The
+appellant had further inspections undertaken which revealed structural defects
+in the masonry work.  Following these inspections, the entire cladding was
+replaced at the appellant's expense.                     Appellant commenced an action
+in negligence against the respondent, the intervener and the subcontractor. 
+The statement of claim detailed alleged inadequacies in design and workmanship,
+without assigning specific blame to one defendant or another.  Respondent and
+the subcontractor filed notices of motion for summary judgment and notices of
+motion to strike the claim as disclosing no reasonable cause of action with the
+Manitoba Court of Queen's Bench.  Both motions were dismissed.  Respondent
+appealed to the Court of Appeal but the subcontractor did not.  The appeal was
+dismissed with respect to the motion for summary judgment but allowed with
+respect to the motion to strike, and the statement of claim was struck out as
+against respondent.  At issue in this appeal is whether a general contractor
+responsible for the construction of a building may be held tortiously liable
+for negligence to a subsequent purchaser of the building, who is not in
+contractual privity with the contractor, for the cost of repairing defects in
+the building arising out of negligence in its construction.                     Held:  The appeal should be allowed.                     The Court of
+Appeal erred in deciding that the costs of repair claimed by appellant are not
+recoverable economic loss under the law of tort in Canada.  The law has now
+progressed to the point where contractors (as well as subcontractors,
+architects and engineers) who take part in the design and construction of a
+building will owe a duty in tort to subsequent purchasers of the building if it
+can be shown that it was foreseeable that a failure to take reasonable care in
+constructing the building would create defects that pose a substantial danger
+to the health and safety of the occupants.  Where negligence is established and
+such defects manifest themselves before any damage to persons or property
+occurs, they can be held liable for the reasonable cost of repairing the
+defects and putting the building back into a non-dangerous state.                     In coming to its conclusion
+that the losses claimed by the appellant were not recoverable in tort, the
+Court of Appeal followed the reasoning of the House of Lords in D & F
+Estates Ltd. v. Church Commissioners for England.  That decision should no
+longer be seen as having strong persuasive authority in Canadian tort law. 
+First, it is inconsistent with recent Canadian decisions recognizing the
+possibility of concurrent contractual and tortious duties.  Second, it is
+inconsistent with the continued application in Canada of the principles with
+respect to the recoverability of economic loss in tort established in Anns
+v. Merton London Borough Council and adopted by this Court in City of
+Kamloops v. Nielsen.                     The losses claimed by
+appellant satisfy the two-part test for recoverability of economic loss
+established in Anns and Kamloops.  First, it is reasonably
+foreseeable to contractors that, if they design or construct a building negligently
+and if that building contains latent defects as a result of that negligence,
+subsequent purchasers of the building may suffer personal injury or damage to
+other property when those defects manifest themselves.  The reasonable
+likelihood that a defect in a building will cause injury to its inhabitants is
+also sufficient to ground a contractor's duty in tort to subsequent purchasers
+of the building for the cost of repairing the defect if that defect is
+discovered prior to any injury and if it poses a real and substantial danger to
+the inhabitants of the building.  In coming to this conclusion, this Court
+adopts the reasoning of Laskin J. in Rivtow Marine Ltd. v. Washington Iron
+Works.  If a contractor can be held liable in tort where he or she constructs
+a building negligently and, as a result of that negligence, the building causes
+damage to persons or property, it follows that the contractor should also be
+held liable in cases where the dangerous defect is discovered and the owner of
+the building wishes to mitigate the danger by fixing the defect and putting the
+building back into a non-dangerous state.  In both cases, the duty in tort
+serves to protect the bodily integrity and property interests of the
+inhabitants of the building.                     Apart from the logical force
+of holding contractors liable for the cost of repair of dangerous defects, a
+strong underlying policy justification also exists for imposing liability in
+these cases.  Maintaining a bar against recoverability for the cost of repair
+of dangerous defects provides no incentive for plaintiffs to mitigate potential
+losses and tends to encourage economically inefficient behaviour.  Allowing
+recovery against contractors in tort for the cost of repair of dangerous
+defects thus serves an important preventative function by encouraging socially
+responsible behaviour.                      Second, there are no policy
+considerations which are sufficiently compelling to negate the duty.  There is
+no risk of liability to an indeterminate class because the potential class of
+claimants is limited to the very persons for whom the building is constructed: 
+the inhabitants of the building.  There is no risk of liability in an
+indeterminate amount because the amount of liability will always be limited by
+the reasonable cost of repairing the dangerous defect in the building and
+restoring that building to a non-dangerous state.  There is little risk of
+liability for an indeterminate time because the contractor will only be liable
+for the cost of repair of dangerous defects during the useful life of the
+building.  Practically speaking, the period in which the contractor may be
+exposed to liability for negligence will be much shorter than the full useful
+life of the building.  With the passage of time, it will become increasingly
+difficult for owners of a building to prove at trial that any deterioration in
+the building is attributable to the initial negligence of the contractor and
+not simply to the inevitable wear and tear suffered by every building. 
+Finally, given the fact that a subsequent purchaser is not the best placed to
+bear the risk of the emergence of latent defects, the doctrine of caveat
+emptor should not serve to negate a contractor's duty in tort to subsequent
+purchasers.  Cases Cited   Statutes and Regulations Cited   Court of
+Queen's Bench Rules, Man. Reg.
+553/88, Rules 20.01, 25.11.  Authors Cited  Barrett, Sidney
+R., Jr.  "Recovery of Economic Loss in Tort for Construction Defects:  A
+Critical Analysis" (1989), 40 S.C. L. Rev. 891.  Cooke, Sir
+Robin.  "An Impossible Distinction" (1991), 107 L.Q. Rev. 46.                        APPEAL from a judgment of the
+Manitoba Court of Appeal (1993), 85 Man. R. (2d) 81, 41 W.A.C. 81, 101 D.L.R.
+(4th) 699, 15 C.C.L.T. (2d) 1, 6 C.L.R. (2d) 1, [1993] 5 W.W.R. 673, striking
+out a statement of claim on allowing an appeal from a judgment of
+Galanchuk J. (1992), 84 Man. R. (2d) 23, dismissing an application to
+strike out or alternatively for summary judgment.  Appeal allowed.                     Kevin T. Williams and Paul Forsyth, for the appellant.                     Sidney Green, Q.C., and Murdoch MacKay, Q.C.,
+for the respondent.                     David I. Marr and Roger B. King, Q.C., for
+the intervener Smith Carter Partners.                     The judgment of the Court was
+delivered by  1                 La Forest J. -- May a
+general contractor responsible for the construction of a building be held
+tortiously liable for negligence to a subsequent purchaser of the building, who
+is not in contractual privity with the contractor, for the cost of repairing
+defects in the building arising out of negligence in its construction?  That is
+the issue that was posed by a motion for summary judgment and a motion to
+strike out a claim as disclosing no reasonable cause of action argued before
+Galanchuk J. of the Manitoba Court of Queen's Bench pursuant to Rules 20.01 and
+25.11 of the Manitoba Court of Queen's Bench Rules, Man. Reg. 553/88. 
+Galanchuk J. dismissed the motions, but the Court of Appeal of Manitoba allowed
+an appeal from this decision and struck out the claim against the contractor on
+the grounds that the damages sought were for economic loss, which were not
+recoverable in the circumstances, and hence that the claim did not disclose a
+reasonable cause of action.  2                 For
+reasons that will appear, I do not, with respect, share the views of the Court
+of Appeal; I agree with Galanchuk J. that the action should proceed to trial. 
+The facts as set out before Galanchuk J. are contained in the appellant's
+amended statement of claim, the respondent's statement of defence and notice of
+motion.  These facts are as follows.  Facts  3                 On
+April 19, 1972, a Winnipeg land developer, Tuxedo Properties Co. Ltd.
+("Tuxedo"), entered into a contract ("the General
+Contract") with a general contractor, Bird Construction Co. Ltd.
+("Bird"), for the construction of a 15-storey, 94-unit apartment
+building.  In the General Contract, Bird undertook to construct the building in
+accordance with plans and specifications prepared by the architectural firm of
+Smith Carter Partners ("Smith Carter"), with whom Tuxedo also had a
+contract.  On June 5, 1972, Bird entered into a subcontract with a masonry
+subcontractor, Kornovski & Keller Masonry Ltd. ("Kornovski &
+Keller"), under which the latter undertook to perform the masonry portion
+of the work specified under the General Contract.  The work called for by the
+General Contract commenced in April, 1972 and the building was substantially
+completed by December, 1974.  4                 The
+building was initially built and used as an apartment block, but was converted
+into a condominium in October, 1978, when Winnipeg Condominium Corporation No.
+36 ("the Condominium Corporation") became the registered owner of the
+land and building.  The facts surrounding the conversion were a subject of
+dispute between the parties, but during oral argument the appellant conceded
+for the purposes of this appeal that the Condominium Corporation was a
+subsequent owner of the building and was not the alter ego of the original
+owner.  I shall accordingly deal with the appeal on the assumption that this
+was indeed the case.  5                 In
+1982, the Board of Directors of the Condominium Corporation became concerned
+about the state of the exterior cladding of the building (consisting of 4-inch
+thick slabs of stone), which had been installed by the subcontractor, Kornovski
+& Keller.  The directors observed that some of the mortar had broken away
+and that cracks were developing in the stone work.  As a result of these
+concerns, the Condominium Corporation retained a firm of structural engineers
+and the original architects, Smith Carter, to inspect the building.  The
+engineers and Smith Carter recommended some minor remedial work but offered the
+opinion that the stonework on the building was structurally sound.  The
+remedial work, costing $8,100, was undertaken at the Condominium Corporation's
+expense in 1982.  6                 On
+May 8, 1989, a storey-high section of the cladding, approximately twenty feet
+in length, fell from the ninth storey level of the building to the ground
+below.  The Condominium Corporation retained engineering consultants who
+conducted further inspections.  Following these inspections, the Condominium
+Corporation had the entire cladding removed and replaced at a cost in excess of
+$1.5 million.  7                 An
+action was commenced in negligence by the Condominium Corporation against Bird,
+Smith Carter and Kornovski & Keller.  The Condominium Corporation, in its
+statement of claim, detailed alleged inadequacies in design and workmanship,
+without assigning specific blame to one defendant or another.  Bird responded
+by filing a notice of motion for summary judgment and a motion to strike the
+Condominium Corporation's claim as disclosing no reasonable cause of action
+with the Manitoba Court of Queen's Bench.  Galanchuk J. heard the motions,
+along with a similar one by the subcontractor.  Smith Carter did not bring a
+motion of its own, but appeared and was allowed to support the motions of its
+co-defendants.  Both motions were dismissed.  Bird appealed to the Court of
+Appeal but the subcontractor did not.  The appeal was dismissed with respect to
+the motion for summary judgment but allowed with respect to the motion to
+strike and the statement of claim was struck out as against Bird.      Judgments Below  Court of Queen's Bench for Manitoba (1992), 84 Man. R. (2d) 23 (Galanchuk J.)  8                 Galanchuk
+J. dismissed Bird's motion for summary judgment and its motion to strike the
+Condominium Corporation's claim as disclosing no reasonable cause of action on
+the grounds that the Condominium Corporation's claim disclosed a reasonable
+cause of action and that the issues raised before him were genuine.  He
+observed that the parties had raised real issues of credibility and had
+introduced conflicting evidence of sufficient complexity to warrant a trial. 
+With respect to Bird's argument that the Condominium Corporation's loss was
+pure economic loss and therefore not recoverable against Bird, he held that
+that issue had to be dealt with by a trial judge and that the following
+question (at p. 28) would have to be answered at trial:  Is there a
+sufficient degree of foreseeability of harm and proximity of the parties to
+impose liability in all of the circumstances of this case to warrant the
+plaintiff's claim for recovery?  Court of Appeal (1993), 85 Man. R. (2d) 81 (Huband J.A., Scott C.J. and Philp J.A.
+concurring)  9                 The
+Court of Appeal, we saw, allowed the appeal and struck out the Condominium
+Corporation's claim as against Bird.  Huband J.A., writing for a unanimous
+court, decided that the expenses incurred by the Condominium Corporation in
+repairing the building were pure economic loss and not recoverable against Bird
+in tort.  In reaching this decision, he found the decision by the House of
+Lords in D & F Estates Ltd. v. Church Commissioners for England,
+[1988] 2 All E.R. 992, to be directly on point.  In that case, the House of
+Lords ruled that, in the absence of a contractual relationship, the cost of
+repairing a defective structure, where the defect is discovered before it
+causes personal injury or physical damage to other property, is not recoverable
+in negligence by a remote buyer of real property against the original
+contractor or builder.  Applying this reasoning, Huband J.A. observed that,
+even if Bird's employees, rather than the subcontractor Kornovski & Keller,
+had affixed the exterior cladding, the Condominium Corporation would not have
+had a claim in negligence because the damages claimed for the cost of repairing
+the cladding would still have been purely economic in nature.  In support of
+this conclusion, he quoted with approval the following passage from the reasons
+of Lord Bridge in D & F Estates, at p. 1006:  . . .
+liability can only arise if the defect remains hidden until the defective
+structure causes personal injury or damage to property other than the structure
+itself.  If the defect is discovered before any damage is done, the loss
+sustained by the owner of the structure, who has to repair or demolish it to
+avoid a potential source of danger to third parties, would seem to be purely
+economic.  Thus, if I acquire a property with a dangerously defective garden
+wall which is attributable to the bad workmanship of the original builder, it
+is difficult to see any basis in principle on which I can sustain an action in
+tort against the builder for the cost of either repairing or demolishing the
+wall.  No physical damage has been caused.  All that has happened is that the
+defect in the wall has been discovered in time to prevent damage occurring.  10               Huband
+J.A. found that the law as stated in D & F Estates was consistent
+with Canadian law.  He expressed some concern about the fact that Lord Bridge
+and Lord Oliver in D & F Estates had expressly criticized the
+earlier decision of the House of Lords in Anns v. Merton London Borough
+Council, [1978] A.C. 728, in which Lord Wilberforce had set down a
+two-stage negligence test and had suggested, in an obiter passage, that
+liability might fall upon a contractor in similar circumstances to the case at
+bar.  Huband J.A. observed that the application of the reasoning in D &
+F Estates by Canadian courts may be problematic because D & F
+Estates paved the way for the full repudiation of Anns by the Law
+Lords in Murphy v. Brentwood District Council, [1990] 2 All E.R. 908
+(H.L.).  By contrast, he noted, this Court explicitly declined, in Canadian
+National Railway Co. v. Norsk Pacific Steamship Co., [1992] 1 S.C.R. 1021,
+to abandon Anns.  11               However,
+Huband J.A. resolved the problem by deciding that the result in this case would
+be the same under either the Anns or the Murphy approach.  First,
+Huband J.A., at p. 90, found that the concept of caveat emptor negated
+any relationship of proximity as defined under the first stage of Lord
+Wilberforce's two-stage Anns approach:  The maxim,
+caveat emptor, operates as between purchaser and vendor.  But the very
+existence of the principle instructs the potential purchaser to rely upon his
+own investigations, inspections and inquiries, and not to rely upon the fact
+that the vendor had retained Smith Carter Partners as architects, Bird as
+general contractor, and that Kornovski & Keller was one of the
+subcontractors, and since they are reputable firms, the integrity of the
+building can be safely assumed.  The concept of "buyer beware" tells
+the potential purchaser that if it seeks greater protection than its own
+investigations, inspections and inquiries provide, it should seek appropriate
+warranties from the vendor or, if that cannot be bargained, to seek out an
+insurer to cover anticipated future risks.  Second, Huband J.A., at p. 86, found that the
+House of Lords in D & F Estates had set forth sufficiently
+compelling policy concerns to justify precluding recovery under the second
+branch of the Anns test:                     The
+great debate as to whether the Anns case was correctly decided and
+should be followed, or whether the reasoning in Murphy should be
+preferred will rage on.  But in certain cases, I do not think that the
+difference in approach will yield a difference in result.  In the D & F
+Estates case, the House of Lords did in fact consider whether there were
+factors which should negative, reduce or limit the scope of a duty of care owed
+by a building contractor to the subsequent lessee of the building, or a
+limitation on the damages to which a breach of that duty may give rise.  The
+court found that considerations did exist which should limit the remedy.  Lord
+Bridge observed that with respect to defective chattels, economic loss is
+recoverable in contract by a buyer or hirer of the chattel entitled to the
+benefit of a relevant warranty of quality, but economic loss is "not
+recoverable in tort by a remote buyer or hirer of the chattel".  Lord
+Bridge concluded that the same law should apply in the field of real property
+and this need for consistency should indeed limit the breadth of a remedy for a
+breach of a duty of care.  Analysis  12               This
+case gives this Court the opportunity once again to address the question of
+recoverability in tort for economic loss.  In Norsk, supra, at p.
+1049, I made reference to an article by Professor Feldthusen in which he
+outlined five different categories of cases where the question of
+recoverability in tort for economic loss has arisen ("Economic Loss in the
+Supreme Court of Canada:  Yesterday and Tomorrow" (1990-91), 17 Can.
+Bus. L.J. 356, at pp. 357-58), namely:  1. The
+Independent Liability of Statutory Public Authorities; 2. Negligent
+Misrepresentation; 3. Negligent
+Performance of a Service; 4. Negligent Supply
+of Shoddy Goods or Structures; 5. Relational
+Economic Loss.  I stressed in Norsk that the question of
+recoverability for economic loss must be approached with reference to the
+unique and distinct policy issues raised in each of these categories.  That is
+because ultimately the issues concerning recovery for economic loss are
+concerned with determining the proper ambit of the law of tort, an exercise
+that must take account of the various situations where that question may
+arise.  This case raises issues different from that in Norsk, which fell
+within the fifth category.  The present case, which involves the alleged
+negligent construction of a building, falls partially within the fourth
+category, although subject to an important caveat.  The negligently supplied
+structure in this case was not merely shoddy; it was dangerous.  In my view,
+this is important because the degree of danger to persons and other property
+created by the negligent construction of a building is a cornerstone of the
+policy analysis that must take place in determining whether the cost of repair
+of the building is recoverable in tort.  As I will attempt to show, a
+distinction can be drawn on a policy level between "dangerous"
+defects in buildings and merely "shoddy" construction in buildings
+and that, at least with respect to dangerous defects, compelling policy reasons
+exist for the imposition upon contractors of tortious liability for the cost of
+repair of these defects.  13               Traditionally,
+the courts have characterized the costs incurred by a plaintiff in repairing a
+defective chattel or building as "economic loss" on the grounds that
+costs of those repairs do not arise from injury to persons or damage to
+property apart from the defective chattel or building itself; see Rivtow
+Marine Ltd. v. Washington Iron Works, [1974] S.C.R. 1189, at p. 1207.  For
+my part, I would find it more congenial to deal directly with the policy
+considerations underlying that classification as was done in an analogous
+situation in Dutton v. Bognor Regis Urban District Council, [1972] 1
+Q.B. 373 (C.A.), per Denning M.R. (aux pp. 396-98), and Sachs L.J. (aux
+pp. 403-4).  However, I am content to deal with the issues in the terms in
+which the arguments were formulated.  Adopting this traditional
+characterization as a convenient starting point for my analysis, I observe that
+the losses claimed by the Condominium Corporation in the present case fall
+quite clearly under the category of economic loss.  In their statement of
+claim, the Condominium Corporation claim damages in excess of $1.5 million from
+the respondent Bird, the subcontractor Kornovski & Keller and the
+architects Smith Carter, representing the cost of repairing the building
+subsequent to the collapse of the exterior cladding on May 8, 1989.  The
+Condominium Corporation is not claiming that anyone was injured by the
+collapsing exterior cladding or that the collapsing cladding damaged any of its
+other property.  Rather, its claim is simply for the cost of repairing the
+allegedly defective masonry and putting the exterior of the building back into
+safe working condition.  14               Although
+most of the Condominium Corporation's submissions before this Court were
+directed toward establishing that the costs of repair were recoverable economic
+loss, counsel for the Condominium Corporation made a subsidiary claim that the
+losses in question could, in fact, be characterized as damage to property as
+opposed to pure economic loss.  In D & F Estates, supra, at
+pp. 1006-7, Lord Bridge observed, in obiter, that:  . . .
+it may well be arguable that in the case of complex structures, . . .
+one element of the structure should be regarded for the purpose of the
+application of the principles under discussion as distinct from another
+element, so that damage to one part of the structure caused by a hidden defect
+in another part may qualify to be treated as damage to `other
+property'. . . .  Counsel for the Condominium Corporation argued
+that the collapse of the cladding may have been attributable to the negligent
+installation of certain metal ties.  Following the logic suggested by Lord
+Bridge, counsel argued that the loss suffered was not, in fact, economic loss
+but, rather, damage to "other property" and thus recoverable under
+the principles established in Donoghue v. Stevenson, [1932] A.C. 562
+(H.L.).  In other words, he sought to localize the defect in one part of the
+structure and to claim that the damage to the rest of the structure was
+"caused" in some manner by the defect.  15               I
+note at the outset that I do not find the Condominium Corporation's argument on
+this subsidiary point persuasive.  In Murphy, supra, at pp.
+926-28, Lord Bridge reconsidered and rejected the "complex structure"
+theory he had suggested in D & F Estates, criticizing the theory on
+the following basis (at p. 928):  The reality is
+that the structural elements in any building form a single indivisible unit of
+which the different parts are essentially interdependent.  To the extent that
+there is any defect in one part of the structure it must to a greater or lesser
+degree necessarily affect all other parts of the structure.  Therefore any
+defect in the structure is a defect in the quality of the whole and it is quite
+artificial, in order to impose a legal liability which the law would not
+otherwise impose, to treat a defect in an integral structure, so far as it
+weakens the structure, as a dangerous defect liable to cause damage to `other
+property'.                     A
+critical distinction must be drawn here between some part of a complex
+structure which is said to be a `danger' only because it does not perform its
+proper function in sustaining the other parts and some distinct item
+incorporated in the structure which positively malfunctions so as to inflict
+positive damage on the structure in which it is incorporated.  Thus, if a
+defective central heating boiler explodes and damages a house or a defective
+electrical installation malfunctions and sets the house on fire, I see no
+reason to doubt that the owner of the house, if he can prove that the damage
+was due to the negligence of the boiler manufacturer in the one case or the
+electrical contractor in the other, can recover damages in tort on Donoghue
+v. Stevenson principles.  I am in full agreement with Lord Bridge's
+criticisms of the "complex structure" theory.  In cases involving the
+recoverability of economic loss in tort, it is preferable for the courts to
+weigh the relevant policy issues openly.  Since the use of this theory serves
+mainly to circumvent and obscure the underlying policy questions, I reject the
+use of the "complex structure" theory in cases involving the
+liability of contractors for the cost of repairing defective buildings.  16               Proceeding
+on the assumption, then, that the losses claimed in this case are purely
+economic, the sole issue before this Court is whether the losses claimed by the
+Condominium Corporation are the type of economic losses that should be
+recoverable in tort.  In coming to its conclusion that the losses claimed by
+the Condominium Corporation are not recoverable in tort, the Manitoba Court of
+Appeal, we saw, followed the reasoning of the House of Lords in D & F
+Estates.  In that case, the House of Lords found that the cost of repairing
+a defect in a building is not recoverable in negligence by a successor in title
+against the original contractor in the absence of a contractual relationship or
+a special relationship of reliance.  I should say that the Court of Appeal
+might well have come to the same conclusion on the basis of the majority
+opinion in Rivtow, supra, an issue I will take up later.  Here I shall
+dispose of the arguments relating to D & F Estates.  17               The
+facts in D & F Estates were as follows.  The defendants were the
+main contractors hired by the owner of a piece of land to construct a block of
+flats between 1963 and 1965.  The contractors hired a sub-contractor to carry
+out plastering work on the building which, it was later discovered, was
+performed negligently.  In 1965, after the block was completed, the plaintiffs
+took a 98 year lease on a flat from the owner of the block.  In 1980, the
+plaintiffs discovered that the plaster on the ceilings and on one wall was
+loose and that some of the plaster had fallen down.  The plaintiffs had the
+remaining plaster hacked off and the areas affected were replastered and redecorated
+at the plaintiff's expense.  The plaintiff sued the original contractor in tort
+for the cost of the repairs and the estimated cost of future remedial work.  At
+trial, the judge awarded damages against the contractors in respect of cost of
+the remedial work on the grounds that the contractors had been negligent in
+supervising the plastering work.  The Court of Appeal reversed the trial
+judge's decision, and the plaintiff appealed to the House of Lords.  18               The
+House of Lords dismissed the appeal on two principal grounds.  First, they
+decided that any duty owed by a contractor to a home owner with respect to the
+quality of construction in a building must arise in contract, and not in tort. 
+They based this conclusion upon a concern that allowing recoverability for the
+cost of repairing defects in buildings would have the effect of creating a
+non-contractual warranty of fitness; see D & F Estates, at p. 1007.  19               Second,
+they decided that a contractor can only be held liable in tort to subsequent
+purchasers of a building when the contractor's negligence causes physical
+injury to the purchasers, damage to their other property, or where a special
+relationship of reliance has developed between the contractor and the
+purchasers along the lines suggested in Hedley Byrne & Co. v. Heller
+& Partners Ltd., [1964] A.C. 465.  See D & F Estates, at p.
+1014.  20               There
+was no contract between the plaintiff and the defendants in D & F
+Estates, and the Law Lords found no special relationship of reliance on the
+facts of the case.  Accordingly, they reasoned that the cost of repairing
+defective plaster fell under the category of "pure economic loss". 
+Since the negligence in that case did not result in damage to persons or
+property, they concluded that the plaintiff could not claim that expense
+against the contractor.  Lord Bridge expressed the conclusion as follows, at p.
+1006:  . . .
+liability can only arise if the defect remains hidden until the defective
+structure causes personal injury or damage to property other than the structure
+itself.  If the defect is discovered before any damage is done, the loss
+sustained by the owner of the structure, who has to repair or demolish it to
+avoid a potential source of danger to third parties, would seem to be purely
+economic.  Lord Oliver came to a similar conclusion, at p.
+1014:  . . .
+such loss is not in principle recoverable in tort unless the case can be
+brought within the principle of reliance established by Hedley Byrne. 
+In the instant case the defective plaster caused no damage to the remainder of
+the building and in so far as it presented a risk of damage to other property
+or to the person of any occupant that was remediable simply by the process of
+removal.  21               Huband
+J.A. found the reasoning in D & F Estates to be compelling and of
+strong persuasive authority and, on that basis, came to the conclusion that the
+cost of repair of the defects in the building were not recoverable in tort by
+the Condominium Corporation against Bird.  With respect, I come to a different
+conclusion.  In my view, where a contractor (or any other person) is negligent
+in planning or constructing a building, and where that building is found to
+contain defects resulting from that negligence which pose a real and
+substantial danger to the occupants of the building, the reasonable cost of
+repairing the defects and putting the building back into a non-dangerous state
+are recoverable in tort by the occupants.  The underlying rationale for this
+conclusion is that a person who participates in the construction of a large and
+permanent structure which, if negligently constructed, has the capacity to
+cause serious damage to other persons and property in the community, should be
+held to a reasonable standard of care.  Sir Robin Cooke expressed the rationale
+for this conclusion as follows ("An Impossible Distinction" (1991),
+107 L.Q. Rev. 46, at p. 70):                     The
+point is simply that, prima facie, he who puts into the community an apparently
+sound and durable structure, intended for use in all probability by a
+succession of persons, should be expected to take reasonable care that it is
+reasonably fit for that use and does not mislead.  He is not merely exercising
+his freedom as a citizen to pursue his own ends.  He is constructing,
+exploiting or sanctioning something for the use of others.  Unless compelling
+grounds to the contrary can be made out, and subject to reasonable limitations
+as to time or otherwise, the natural consequences of failure to take due care
+should be accepted.  22               My
+conclusion that the type of economic loss claimed by the Condominium
+Corporation is recoverable in tort is therefore based in large part upon what
+seem to me to be compelling policy considerations.  I shall elaborate in more
+detail upon these later in my reasons.  However, before doing so, I think it
+important to clarify why the D & F Estates case should not, in my
+view, be seen as having strong persuasive authority in Canadian tort law as
+that law is currently developing.  My reasons for coming to this conclusion are
+twofold:  first, to the extent that the decision of the House of Lords in D
+& F Estates rests upon the assumption that liability in tort for the
+cost of repair of defective houses represents an unjustifiable intrusion of
+tort into the contractual sphere, it is inconsistent with recent Canadian
+decisions recognizing the possibility of concurrent contractual and tortious duties;
+second, to the extent that the D & F Estates decision formed part of
+a line of English cases leading ultimately to the rejection of Anns, it
+is inconsistent with this Court's continued application of the principles
+established in Anns.  23               Turning
+to the first of these reasons, I observe that it is now well-established in
+Canada that a duty of care in tort may arise coextensively with a contractual
+duty.  In Central Trust Co. v. Rafuse, [1986] 2 S.C.R. 147, Le Dain J.
+explained the relationship between tort and contractual duties as follows, at
+pp. 204-5:                     1.
+The common law duty of care that is created by a relationship of sufficient
+proximity, in accordance with the general principle affirmed by Lord Wilberforce
+in Anns v. Merton London Borough Council, is not confined to
+relationships that arise apart from contract.  Although the relationships in Donoghue
+v. Stevenson, Hedley Byrne and Anns were all of a
+non-contractual nature and there was necessarily reference in the judgments to
+a duty of care that exists apart from or independently of contract, I find
+nothing in the statements of general principle in those cases to suggest that
+the principle was intended to be confined to relationships that arise apart from
+contract. . . . [T]he question is whether there is a relationship of
+sufficient proximity, not how it arose.  The principle of tortious liability is
+for reasons of public policy a general one.  This is not say, of course, that a duty in tort
+arises out of a duty in contract.  In Rafuse, Le Dain J. made it clear
+that, although duties in tort and contract may arise concurrently, the duty in
+tort must arise independently of the contractual duty.  He stated, at p. 205:                     2.
+What is undertaken by the contract will indicate the nature of the relationship
+that gives rise to the common law duty of care, but the nature and scope of the
+duty of care that is asserted as the foundation of the tortious liability must
+not depend on specific obligations or duties created by the express terms of
+the contract.  It is in that sense that the common law duty of care must be
+independent of the contract.  For the similar situation under Quebec law, see Houle
+v. Canadian National Bank, [1990] 3 S.C.R. 122, per L'Heureux-Dubé
+J., at pp. 165-67.  24               I
+emphasize the fact that contractual and tortious duties can arise concurrently
+in Canadian law because, in my view, the decision in D & F Estates
+was based at least in part upon the assumption that a duty on the part of
+contractors to take reasonable care in the construction of buildings can only
+arise in contract.  In deciding that the contractor in that case could not be
+held liable in tort for the cost of repairing the defective plaster, Lord
+Bridge expressed a concern that the imposition of a tort duty upon a contractor
+to third parties would be to impose, in effect, a contractual duty in tort.  He
+stated, at p. 1007:  To make [the
+contractor] so liable would be to impose on him for the benefit of those with
+whom he had no contractual relationship the obligation of one who warranted the
+quality of the plaster as regards materials, workmanship and fitness for
+purpose.  I am glad to reach the conclusion that this is not the law.  25               However,
+in light of this Court's decision in Rafuse, I do not believe that Lord
+Bridge's concern should preclude conceptualizing Bird's duty in tortious
+terms.  In my view, a contractor's duty to take reasonable care arises
+independently of any duty in contract between the contractor and the original
+property owner.  The duty in contract with respect to materials and workmanship
+flows from the terms of the contract between the contractor and home owner.  By
+contrast, the duty in tort with respect to materials and workmanship flows from
+the contractor's duty to ensure that the building meets a reasonable and safe
+standard of construction.  For my part, I have little difficulty in accepting a
+distinction between these duties.  The duty in tort extends only to reasonable
+standards of safe construction and the bounds of that duty are not defined by
+reference to the original contract.  Certainly, for example, a contractor who
+enters into a contract with the original home owner for the use of high-grade materials
+or special ornamental features in the construction of the building will not be
+held liable to subsequent purchasers if the building does not meet these
+special contractual standards.  However, such a contract cannot absolve the
+contractor from the duty in tort to subsequent owners to construct the building
+according to reasonable standards.  This is important because, in my view, the
+unfortunate result of the reasoning in D & F Estates is that it
+leaves subsequent purchasers with no remedy against a contractor who constructs
+a building with substandard materials or substandard workmanship, and thereby
+puts subsequent purchasers at considerable risk.  26               Thus,
+the fact that Bird negotiated a contract with Tuxedo, the original owner of the
+building, does not insulate Bird from a separate duty to the current owners of
+the building.  This duty arises out of the danger created by the work and not
+the specifications contained in the contract.  An analogy can be drawn, in this
+respect, with this Court's decision in Edgeworth Construction Ltd. v. N. D.
+Lea & Associates Ltd., [1993] 3 S.C.R. 206.  In that case, an
+engineering firm had contracted with the province of British Columbia for the
+drawing up of specifications for a road building project.  There were errors in
+the specifications and a construction company, which had entered into a
+contract with the province for the building of the road, sued the engineering
+firm in tort, alleging negligent misrepresentation.  This Court decided that
+the engineering firm could be held liable to the construction company in the
+absence of a contract.  In so ruling, McLachlin J., at pp. 217-18, had the
+following to say about the effect of a duty in contract upon any duty owed to
+third persons in tort:                     Another
+way of putting the argument that the contract terminates the duty of care
+between the contractor and the engineers, is to say that once the contractor
+enters into a contract with the province which deals with the matter of design,
+the contract ousts all tort duties.  Where the parties to the contract have
+themselves defined their obligations by contract, it may be argued that the
+contract must prevail over a different duty which tort law might impose, on the
+principle that people are free to determine their own civil rights and
+responsibilities.  Subject to this limitation, however, the presence of a
+contract does not bar the right to sue in tort:  BG Checo International Ltd.
+v. British Columbia Hydro and Power Authority, [1993] 1 S.C.R. 12.  In this
+case, the contract is not between the plaintiff and the defendant.  Moreover,
+for the reasons given above, it does not purport to limit the tort duty which
+is owed by the defendant engineering firm to the contractor.  Accordingly, the
+argument that the parties have defined their obligations by the contract,
+thereby ousting tort obligations, cannot succeed.  27               The
+second reason that the D & F Estates decision should not be regarded
+as strong persuasive authority in the Canadian context is that the approaches
+taken by English and Canadian courts with respect to the recoverability of
+economic loss have, in recent years, diverged significantly.  The decision by
+the House of Lords in D & F Estates was the penultimate step in a
+path of reasoning followed by the Law Lords culminating in Murphy, where
+they overruled their earlier decision in Anns and re-established a broad
+bar against recovery for pure economic loss in tort.  This is a path this Court
+has chosen not to follow.  28               The
+divergence in approach between this Court and the House of Lords relates in
+large part to the question whether courts should impose what, in Norsk,
+I called a "broad exclusionary rule" against recovery for economic
+loss in tort.  In Norsk, I discussed the development of the rule against
+recovery for economic loss in tort at common law and observed that, in its
+broad formulation, that rule was said to exclude all claims in negligence for
+pure economic loss in the absence of property loss or personal injury loss (at
+pp. 1054-61).  I then made the following observation, at pp. 1060-61:                     A
+new stage in the development of the law on economic loss opened with the great
+case of Hedley Byrne v. Heller, supra.  The speeches of the Law
+Lords were principally concerned with the problem of liability for negligent
+words, rather than with the issue of economic loss itself. . . .                     Only
+two of the Lords in Hedley Byrne, Lord Hodson and Lord Devlin, dealt
+specifically with the issue of economic loss.  Both rejected the broad
+exclusionary rule.  It was clear that henceforth economic loss was recoverable
+at least in some circumstances.  With Hedley Byrne to guide the way, the
+broad rule came increasingly under attack in a variety of situations during
+this third phase.  The divergent attacks upon the broad rule after Hedley
+Byrne were synthesized in Lord Wilberforce's well-known and influential
+decision in Anns, supra, where the House of Lords found a local
+council liable in negligence to a successor in title for a failure to inspect
+the negligently constructed foundations of a building to ensure that it
+complied with local by-laws.  In his reasons, at pp. 751-52, Lord Wilberforce
+rejected the traditional broad exclusionary rule and instead proposed the
+following general approach to cases involving economic loss in tort:  . . .
+the position has now been reached that in order to establish that a duty of
+care arises in a particular situation, it is not necessary to bring the facts
+of that situation within those of previous situations in which a duty of care
+has been held to exist.  Rather the question has to be approached in two
+stages.  First one has to ask whether, as between the alleged wrongdoer and the
+person who has suffered damage there is a sufficient relationship of proximity
+or neighbourhood such that, in the reasonable contemplation of the former,
+carelessness on his part may be likely to cause damage to the latter -- in
+which case a prima facie duty of care arises.  Secondly, if the first question
+is answered affirmatively, it is necessary to consider whether there are any
+considerations which ought to negative, or to reduce or limit the scope of the
+duty or the class of person to whom it is owed or the damages to which a breach
+of it may give rise. . . .  29               Applying
+this test, Lord Wilberforce came to the conclusion in Anns, at pp.
+759-60, that the cost of repairing a dangerous defect in a building and putting
+the building back into a non-dangerous state could, in principle, be
+characterized as recoverable economic loss in tort.  In coming to this
+conclusion, Lord Wilberforce was influenced by the dissenting opinion of Laskin
+J. (as he then was) in Rivtow, supra.  In Rivtow, a barge
+charterer who had purchased several defective barge cranes through a
+distributor brought a claim in negligence against the manufacturer for the cost
+of repair of two defective cranes installed on one of its barges.  The
+charterer had decided to repair the cranes after one of the cranes on another
+barge collapsed owing to a failure in the rear legs, killing the crane
+operator.  As a result, the barge had to be taken out of service for repairs in
+the busiest part of the logging season.  The majority in Rivtow found
+that the plaintiff had a valid claim because the manufacturer, having knowledge
+of the defects in the cranes, had failed to warn the plaintiff about the
+defects prior to the accident.  Accordingly, the majority found the
+manufacturer liable in tort for the loss of extra profit caused by the
+manufacturer's failure to warn promptly in a slack period, but explicitly
+rejected the plaintiff's claim for the cost of repairing the damage to the
+defective cranes themselves.  However, Laskin J., in dissent, took a different
+approach.  While agreeing with the majority that there had been a breach of a
+duty to warn, Laskin J. observed that he would also have found the manufacturer
+liable for the cost of repairing the defective article.  He noted that, if the
+defective crane had caused personal injury or damage to property, then, under
+the traditional Donoghue analysis, the manufacturer would have been
+liable.  He then made the following argument, at p. 1217:  Should it then
+be any less liable for the direct economic loss to the appellant resulting from
+the faulty crane merely because the likelihood of physical harm, either by way
+of personal injury to a third person or property damage to the appellant, was
+averted by the withdrawal of the crane from service so that it could be
+repaired?  Lord Wilberforce in Anns found Laskin J.'s
+reasoning persuasive in coming to his own conclusions that the cost of repair
+for a dangerous defect in a building could be recoverable in tort.  He stated,
+at pp. 759-60:  If
+classification is required, the relevant damage is in my opinion material,
+physical damage, and what is recoverable is the amount of expenditure necessary
+to restore the dwelling to a condition in which it is no longer a danger to the
+health or safety of persons occupying and possibly (depending on the
+circumstances) expenses arising from necessary displacement.  On the question
+of damages generally I have derived much assistance from the judgment
+(dissenting on this point, but of strong persuasive force) of Laskin J. in the
+Canadian Supreme Court case of Rivtow Marine Ltd. v. Washington Iron Works.  30               It
+appears, however, that the decision in Anns was the high water mark for
+recovery of economic loss in tort in England.  Subsequently, the Law Lords have
+retreated from the broad approach to recoverability in tort for economic loss
+suggested by Lord Wilberforce.  It is clear that the D & F Estates
+decision played an important part in this retreat.  In D & F Estates,
+Lord Oliver, at pp. 1011-12, made the following criticism of the approach
+adopted by Lord Wilberforce in Anns:  . . .
+it is, I think now entirely clear that the vendor of a defective building who
+is also the builder enjoys no immunity from the ordinary consequences of his
+negligence in the course of constructing the building, but beyond this and so
+far as the case was concerned with the extent of or limitations on his
+liability for common law negligence divorced from statutory duty, Lord
+Wilberforce's observations were, I think, strictly obiter.  My Lords, so far as
+they concern such liability in respect of damage which has actually been caused
+by the defective structure other than by direct physical damage to persons or
+other property, I am bound to say that, with the greatest respect to their
+source, I find them difficult to reconcile with any conventional analysis of
+the underlying basis of liability in tort for negligence.  A cause of action in
+negligence at common law which arises only when the sole damage is the mere
+existence of the defect giving rise to the possibility of damage in the future,
+which crystallises only when that damage is imminent, and the damages for which
+are measured, not by the full amount of the loss attributable to the defect but
+by the cost of remedying it only to the extent necessary to avert a risk of
+physical injury, is a novel concept.  Regarded as a cause of action arising not
+from common law negligence but from breach of a statutory duty, there is a
+logic in so limiting it as to conform with the purpose for which the statutory
+duty was imposed, that is to say the protection of the public from injury to
+health or safety.  But there is, on that footing, no logic in extending
+liability for a breach of statutory duty to cases where the risk of injury is a
+risk of injury to property only, nor, as it seems to me, is there any logic in
+importing into a pure common law claim in negligence against a builder the
+limitations which are directly related only to breach of a particular statutory
+duty.  For my part, therefore, I think the correct analysis, in principle, to
+be simply that, in a case where no question of breach of statutory duty arises,
+the builder of a house or other structure is liable at common law for
+negligence only where actual damage, either to person or to property, results
+from carelessness on his part in the course of construction.  In D & F Estates, Lord Bridge also
+expressed doubts about the Anns decision and explicitly rejected Laskin
+J.'s dissenting reasoning in Rivtow in favour of the majority reasoning
+(at p. 1006).  31               The
+reasons given by Lord Oliver and Lord Bridge in D & F Estates were a
+signal that the days of the Anns test in England were numbered.  This
+became apparent in Murphy, supra, where the Law Lords explicitly
+rejected the two-part test suggested by Lord Wilberforce in Anns and
+restored the traditional broad exclusionary rule against recovery, in the
+absence of a special relationship of reliance, for pure economic loss in tort. 
+In their reasons in Murphy, Lord Keith and Lord Bridge both made it
+clear that the reasoning in the 1988 D & F Estates decision played
+an influential role in their Lordships' decision to overrule Anns.  In Murphy,
+Lord Bridge noted, at p. 925, that "the reasoning of the speeches in D
+& F Estates . . . has gone far to question the principles on
+which the [Anns] doctrine rests".  Similarly, Lord Keith stated, at
+p. 923:                     In
+my opinion there can be no doubt that Anns has for long been widely
+regarded as an unsatisfactory decision.  In relation to the scope of the duty
+owed by a local authority it proceeded on what must, with due respect to its
+source, be regarded as a somewhat superficial examination of principle and
+there has been extreme difficulty, highlighted most recently by the speeches in
+the D & F Estates case, in ascertaining on exactly what basis of principle
+it did proceed.  32               By
+contrast, in respect of both the appropriate test with regard to the
+recoverability of economic loss and the recoverability of the cost for
+repairing dangerous defects, this Court has chosen not to take the path
+followed by the House of Lords in D & F Estates and Murphy. 
+In the first place, this Court has not followed the House of Lords in
+repudiating the two-part test established by Lord Wilberforce in Anns. 
+The approach proposed by Lord Wilberforce in Anns was adopted by this
+Court in City of Kamloops v. Nielsen, [1984] 2 S.C.R. 2, where Wilson
+J., at pp. 10-11, suggested the following slightly modified version of the Anns
+test:  (1)is there a
+sufficiently close relationship between the parties . . . so that, in
+the reasonable contemplation of [one person], carelessness on its part might
+cause damage to [the other] person?  If so,  (2)are there
+any considerations which ought to negative or limit (a) the scope of the duty
+and (b) the class of persons to whom it is owed or (c) the damages to which a
+breach of it may give rise?  Subsequently, the Anns approach was
+employed by this Court in Rothfield v. Manolakos, [1989] 2 S.C.R. 1259,
+at pp. 1266, 1285 and, most recently, in Norsk, supra, where this
+Court chose not to follow the Law Lords in retreating from the approach adopted
+in Anns and Kamloops.  I made this clear in Norsk, at p.
+1054:  . . .
+I fully support this Court's rejection of the broad bar on recovery of pure
+economic loss in Rivtow and Kamloops.  I would stress again the
+need to take into account the specific characteristics of each case.  Similarly, McLachlin J., at p. 1155, stated the
+following in Norsk:                     I
+conclude that, from a doctrinal point of view, this Court should continue on the
+course charted in Kamloops rather than reverting to the narrow
+exclusionary rule as the House of Lords did in Murphy.  33               Secondly,
+in recent years, members of this Court have, in dicta, expressed
+considerable sympathy for Laskin J.'s reasoning in Rivtow.  In Kamloops,
+Wilson J. observed that the reasoning in Anns was more compatible with
+the reasoning in Laskin J.'s dissent in Rivtow than with the majority
+reasoning.  At page 33, she stated:  In any event,
+the majority judgment of this Court in Rivtow stands until such time as
+it may be reconsidered by a full panel of the Court.  Shortly thereafter, in Attorney General for
+Ontario v. Fatehi, [1984] 2 S.C.R. 536, at pp. 544-45, the Court observed
+that the law as stated in Rivtow was "uncertain" and that
+"Rivtow has been variously applied or rejected by the courts of
+this country".  Finally, in Norsk, I had occasion to comment upon
+Laskin J.'s dissent and stated, at pp. 1067-1068, that "Laskin J.'s
+concern with safety and the prevention of further damage is justified",
+and at p. 1065, that:  In Laskin J.'s
+view, the courts must be careful to avoid giving redress in tort for "safe
+but shoddy" products.  Where the products are unsafe, however, tort may
+have a role:  prevention of threatened harm resulting directly in economic loss
+should not be treated differently from post-injury treatment.  McLachlin J. made a similar observation, at p.
+1161:   34               I
+conclude, therefore, that the D & F Estates decision is not of
+strong persuasive authority in the Canadian context.  Accordingly, the question
+arising in this appeal must be resolved with reference to the test developed in
+Anns and Kamloops.  I will now proceed, applying this test, to
+discuss whether the costs of repair claimed by the Condominium Corporation are
+the type of economic loss that should be recoverable in tort.  Was There a Sufficiently Close Relationship
+Between the Parties so that, in the Reasonable Contemplation of Bird,
+Carelessness on its Part Might Cause Damage to a Subsequent Purchaser of the
+Building such as the Condominium Corporation?  35               In
+my view, it is reasonably foreseeable to contractors that, if they design or
+construct a building negligently and if that building contains latent defects
+as a result of that negligence, subsequent purchasers of the building may
+suffer personal injury or damage to other property when those defects manifest
+themselves.  A lack of contractual privity between the contractor and the
+inhabitants at the time the defect becomes manifest does not make the potential
+for injury any less foreseeable.  Buildings are permanent structures that are
+commonly inhabited by many different persons over their useful life.  By
+constructing the building negligently, contractors (or any other person
+responsible for the design and construction of a building) create a foreseeable
+danger that will threaten not only the original owner, but every inhabitant
+during the useful life of the building.  As noted by the Supreme Court of South
+Carolina, in Terlinde v. Neely, 271 S.E.2d 768 (1980), at p. 770:  The key inquiry
+is foreseeability, not privity.  In our mobile society, it is clearly
+foreseeable that more than the original purchaser will seek to enjoy the fruits
+of the builder's efforts.  The plaintiffs, being a member of the class for
+which the home was constructed, are entitled to a duty of care in construction
+commensurate with industry standards.  In the light of the fact that the home
+was constructed as speculative, the home builder cannot reasonably argue he
+envisioned anything but a class of purchasers.  By placing this product into
+the stream of commerce, the builder owes a duty of care to those who will use
+his product, so as to render him accountable for negligent workmanship.  36               In
+my view, the reasonable likelihood that a defect in a building will cause
+injury to its inhabitants is also sufficient to ground a contractor's duty in
+tort to subsequent purchasers of the building for the cost of repairing the
+defect if that defect is discovered prior to any injury and if it poses a real
+and substantial danger to the inhabitants of the building.  In coming to this
+conclusion, I adopt the reasoning of Laskin J. in Rivtow, which I find
+highly persuasive.  If a contractor can be held liable in tort where he or she
+constructs a building negligently and, as a result of that negligence, the
+building causes damage to persons or property, it follows that the contractor
+should also be held liable in cases where the dangerous defect is discovered
+and the owner of the building wishes to mitigate the danger by fixing the
+defect and putting the building back into a non-dangerous state.  In both
+cases, the duty in tort serves to protect the bodily integrity and property
+interests of the inhabitants of the building.  See Dutton, supra,
+at p. 396, per Lord Denning M.R.  37               Apart
+from the logical force of holding contractors liable for the cost of repair of dangerous
+defects, there is also a strong underlying policy justification for imposing
+liability in these cases.  Under the law as developed in D & F Estates
+and Murphy, the plaintiff who moves quickly and responsibly to fix a
+defect before it causes injury to persons or damage to property must do so at
+his or her own expense.  By contrast, the plaintiff who, either intentionally
+or through neglect, allows a defect to develop into an accident may benefit at
+law from the costly and potentially tragic consequences.  In my view, this
+legal doctrine is difficult to justify because it serves to encourage, rather
+than discourage, reckless and hazardous behaviour.  Maintaining a bar against
+recoverability for the cost of repair of dangerous defects provides no incentive
+for plaintiffs to mitigate potential losses and tends to encourage economically
+inefficient behaviour.  The Fourth District Court of Appeal for Florida in Drexel
+Properties, Inc. v. Bay Colony Club Condominium, Inc., 406 So.2d 515
+(1981), at p. 519, explained the problem in the following manner:  Why should a
+buyer have to wait for a personal tragedy to occur in order to recover damages
+to remedy or repair defects?  In the final analysis, the cost to the developer
+for a resulting tragedy could be far greater than the cost of remedying the
+condition.  Woodhouse J. in Bowen v. Paramount Builders
+(Hamilton) Ltd., [1977] 1 N.Z.L.R. 394, at p. 417, described the problem in
+similar terms:  It would seem
+only common sense to take steps to avoid a serious loss by repairing a defect
+before it will cause physical damage; and rather extraordinary if the greater
+loss when the building fall down could be recovered from the careless builder
+but the cost of timely repairs could not.  Allowing recovery against contractors in tort for
+the cost of repair of dangerous defects thus serves an important preventative
+function by encouraging socially responsible behaviour.   39               Counsel
+for Bird submitted that, although the Condominium Corporation behaved
+reasonably in fixing the defects in the masonry, Bird should not be held liable
+for the cost of repairs the Corporation incurred in fixing the defective
+masonry.  In support of this submission, counsel for Bird relied upon Lord
+Keith's argument in Murphy, supra, that the decision to repair a
+dangerous defect in a building is analogous to a decision to discard a
+defective article.  In either case, Lord Keith noted, at p. 918, the cost of
+repair cannot be characterized as a recoverable loss because the owner of the
+defective article may simply discard it and thereby remove the danger:  It is difficult
+to draw a distinction in principle between an article which is useless or
+valueless and one which suffers from a defect which would render it dangerous
+in use but which is discovered by the purchaser in time to avert any possibility
+of injury.  The purchaser may incur expense in putting right the defect, or,
+more probably, discard the article.  In either case the loss is purely
+economic.  40               While
+Lord Keith's argument has some appeal on the basis of abstract logic, I do not
+believe it is sufficient to preclude imposing liability on contractors for the
+cost of repairing dangerous defects.  The weakness of the argument is that it
+is based upon an unrealistic view of the choice faced by home owners in
+deciding whether to repair a dangerous defect in their home.  In fact, a choice
+to "discard" a home instead of repairing the dangerous defect is no
+choice at all:  most home owners buy a home as a long term investment and few
+home owners, upon discovering a dangerous defect in the home, will choose to
+abandon or sell the building rather than to repair the defect.  Indeed, in most
+cases, the cost of fixing a defect in a house or building, within the
+reasonable life of that house or building, will be far outweighed by the cost
+of replacing the house or buying a new one.  This was certainly demonstrated in
+this case by the fact that the Condominium Corporation incurred costs of over
+$1.5 million in repairing the building rather than choosing to abandon or sell
+the building.  I conclude therefore that contractors ought reasonably to
+foresee that subsequent purchasers of the building will incur expenses to
+repair dangerous defects created by their negligence during the useful life of
+the building.  41               Given
+the clear presence of a real and substantial danger in this case, I do not find
+it necessary to consider whether contractors should also in principle be held
+to owe a duty to subsequent purchasers for the cost of repairing non-dangerous
+defects in buildings.  It was not raised by the parties.  I note that appellate
+courts in New Zealand (in Bowen, supra), Australia (Bryan v.
+Moloney, Sup. Ct. Tasmania, No. A77/1993, October 6, 1993) and in numerous
+American states (e.g., Lempke v. Dagenais, 547 A.2d 290 (N.H. Sup. Ct.
+1988); Richards v. Powercraft Homes, Inc., 678 P.2d 427 (Ariz. Sup. Ct.
+1984) (en banc); Terlinde, supra) have all recognized some
+form of general duty of builders and contractors to subsequent purchasers with
+regard to the reasonable fitness and habitability of a building.  In Quebec, it
+is also now well-established that contractors, subcontractors, engineers and
+architects owe a duty to successors in title in immovable property for economic
+loss suffered as a result of faulty construction, design and workmanship (see
+arts. 1442, 2118-2120 of the Civil Code of Quebec, S.Q. 1991, c. 64;
+Pierre-Gabriel Jobin, La vente dans le Code civil du Québec (1993), at
+pp. 79 and 142).  However, it is right to note that from the tone of Dickson
+J.'s reasons in Fraser-Reid v. Droumtsekas, [1980] 1 S.C.R. 720, at pp.
+729-31, he would appear to be cool to the idea, though he found it unnecessary
+to canvass the point.  For my part, I would require argument more squarely
+focused on the issue before entertaining this possibility.  42               Without
+entering into this question, I note that the present case is distinguishable on
+a policy level from cases where the workmanship is merely shoddy or substandard
+but not dangerously defective.  In the latter class of cases, tort law serves
+to encourage the repair of dangerous defects and thereby to protect the bodily
+integrity of inhabitants of buildings.  By contrast, the former class of cases
+bring into play the questions of quality of workmanship and fitness for
+purpose.  These questions do not arise here.  Accordingly, it is sufficient for
+present purposes to say that, if Bird is found negligent at trial, the
+Condominium Corporation would be entitled on this reasoning to recover the
+reasonable cost of putting the building into a non-dangerous state, but not the
+cost of any repairs that would serve merely to improve the quality, and not the
+safety, of the building.  43               I
+conclude that the law in Canada has now progressed to the point where it can be
+said that contractors (as well as subcontractors, architects and engineers) who
+take part in the design and construction of a building will owe a duty in tort
+to subsequent purchasers of the building if it can be shown that it was
+foreseeable that a failure to take reasonable care in constructing the building
+would create defects that pose a substantial danger to the health and safety of
+the occupants.  Where negligence is established and such defects manifest
+themselves before any damage to persons or property occurs, they should, in my
+view, be liable for the reasonable cost of repairing the defects and putting
+the building back into a non-dangerous state.  Are There Any Considerations that Ought to Negate
+(a) the Scope of the Duty and (b) the Class of Persons to Whom it is Owed or
+(c) the Damages to which a Breach of it May Give Rise?  44               There
+are two primary and interrelated concerns raised by the recognition of a
+contractor's duty in tort to subsequent purchasers of buildings for the cost of
+repairing dangerous defects.  The first is that warranties respecting quality
+of construction are primarily contractual in nature and cannot be easily
+defined or limited in tort.  Sidney Barrett, in "Recovery of Economic Loss
+in Tort for Construction Defects:  A Critical Analysis" (1989), 40 S.C.
+L. Rev. 891, at p. 941, makes this argument in the following terms:   45               The
+second concern is that the recognition of such a duty interferes with the
+doctrine of caveat emptor which, as this Court affirmed in Fraser-Reid,
+supra, at p. 723, "has lost little of its pristine force in the
+sale of land".  The doctrine of caveat emptor dictates that, in the
+absence of an express warranty, there is no implied warranty of fitness for
+human habitation upon the purchase of a house already completed at the time of
+sale.  Huband J.A. of the Manitoba Court of Appeal relied on this doctrine in
+concluding that no duty in tort could be owed to subsequent purchasers of a
+building.  He presented the argument, at p. 90, as follows:  The maxim,
+caveat emptor, operates as between purchaser and vendor.  But the very
+existence of the principle instructs the potential purchaser to rely upon his
+own investigations, inspections and inquiries . . . .  The concept of
+"buyer beware" tells the potential purchaser that if it seeks greater
+protection than its own investigations, inspections and inquiries provide, it
+should seek appropriate warranties from the vendor or, if that cannot be
+bargained, to seek out an insurer to cover anticipated future risks.  46               In
+my view, these concerns are both merely versions of the more general and
+traditional concern that allowing recovery for economic loss in tort will
+subject a defendant to what Cardozo C.J. in Ultramares Corp. v. Touche,
+174 N.E. 441 (N.Y.C.A. 1931), at p. 444, called "liability in an
+indeterminate amount for an indeterminate time to an indeterminate
+class."  In light of the fact that most buildings have a relatively long
+useful life, the concern is that a contractor will be subject potentially to an
+indeterminate amount of liability to an indeterminate number of successive owners
+over an indeterminate time period.  The doctrines of privity of contract and caveat
+emptor provide courts with a useful mechanism for limiting liability in
+tort.  But the problem, as I will now attempt to demonstrate, is that it is
+difficult to justify the employment of these doctrines in the tort context in
+any principled manner apart from their utility as mechanisms for limiting
+liability.  The Concern with Overlap Between Tort and
+Contract Duties  47               Turning
+to the first concern, a duty on the part of contractors to take reasonable care
+in the construction of buildings can, in my view, be conceptualized in the
+absence of contract and will not result in indeterminate liability to the
+contractor.  As I mentioned earlier, this Court has recognized that a tort duty
+can arise concurrently with a contractual duty, so long as that tort duty
+arises independently of the contractual duty; see Rafuse, supra; Edgeworth,
+supra.  As I see it, the duty to construct a building according to
+reasonable standards and without dangerous defects arises independently of the
+contractual stipulations between the original owner and the contractor because
+it arises from a duty to create the building safely and not merely according to
+contractual standards of quality.  It must be remembered that we are speaking
+here of a duty to construct the building according to reasonable standards of
+safety in such a manner that it does not contain dangerous defects.  As
+this duty arises independently of any contract, there is no logical reason for
+allowing the contractor to rely upon a contract made with the original owner to
+shield him or her from liability to subsequent purchasers arising from a
+dangerously constructed building.  This point was forcefully made by Richmond
+P. in Bowen, supra, at p. 407:                     It
+is clear that a builder or architect cannot defend a claim in negligence made
+against him by a third person by saying that he was working under a contract
+for the owner of the land.  He cannot say that the only duty which he owed was
+his contractual duty to the owner.  Likewise he cannot say that the nature of
+his contractual duties to the owner sets a limit to the duty of care which he
+owes to third parties.  As regards this latter point it is, for example,
+obvious that a builder who agreed to build a house in a manner which he knows
+or ought to know will prove a source of danger to third parties cannot say, in
+answer to a claim by third parties, that he did all that the owner of the land
+required him to do.  In the same case, Woodhouse J., at p. 419, made a
+similar point in the following terms:  . . .
+I do not consider the courts need be astute to protect those prepared to
+undertake jerry-building or shoddy work against the reasonable claims of
+innocent third parties merely because their bad work was done to a deliberate
+pattern or by arrangement.  The recognition of a duty situation does not depend
+upon overcoming some initial bias in favour of excluding it.  Instead, the
+principle described by Lord Atkin ". . . ought to apply unless
+there is some justification or valid explanation for its exclusion":  Dorset
+Yacht Co Ltd v Home Office [1970] AC 1004, 1027. . . . I do not
+regard a private contractual arrangement for an inefficient design or for an
+unworkmanlike or inadequate type of construction as any sort of
+"justification or valid explanation" for releasing the builder from
+his duty to those who otherwise could look to him for relief.  48               The
+tort duty to construct a building safely is thus a circumscribed duty that is
+not parasitic upon any contractual duties between the contractor and the
+original owner.  Seen in this way, no serious risk of indeterminate liability
+arises with respect to this tort duty.  In the first place, there is no risk of
+liability to an indeterminate class because the potential class of claimants is
+limited to the very persons for whom the building is constructed:  the
+inhabitants of the building.  The fact that the class of claimants may include
+successors in title who have no contractual relationship with the contractors
+does not, in my view, render the class of potential claimants indeterminate. 
+As noted by the New Jersey Supreme Court in Aronsohn v. Mandara, 484
+A.2d 675 (1984), at p. 680, "[t]he contractor should not be relieved of
+liability for unworkmanlike construction simply because of the fortuity that
+the property on which he did the construction has changed hands".  49               Secondly,
+there is no risk of liability in an indeterminate amount because the amount of
+liability will always be limited by the reasonable cost of repairing the
+dangerous defect in the building and restoring that building to a non-dangerous
+state.  Counsel for Bird advanced the argument that the cost of repairs claimed
+for averting a danger caused by a defect in construction could, in some cases,
+be disproportionate to the actual damage to persons or property that might be
+caused if that defect were not repaired.  For example, he expressed concern
+that a given plaintiff could claim thousands of dollars in damage for a defect
+which, if left unrepaired, would cause only a few dollars damage to that
+plaintiff's other property.  However, in my view, any danger of indeterminacy
+in damages is averted by the requirement that the defect for which the costs of
+repair are claimed must constitute a real and substantial danger to the
+inhabitants of the building, and the fact that the inhabitants of the building
+can only claim the reasonable cost of repairing the defect and mitigating the
+danger.  The burden of proof will always fall on the plaintiff to demonstrate
+that there is a serious risk to safety, that the risk was caused by the
+contractor's negligence, and that the repairs are required to alleviate the
+risk.  50               Finally,
+there is little risk of liability for an indeterminate time because the
+contractor will only be liable for the cost of repair of dangerous defects
+during the useful life of the building.  Practically speaking, I believe that
+the period in which the contractor may be exposed to liability for negligence
+will be much shorter than the full useful life of the building.  With the
+passage of time, it will become increasingly difficult for owners of a building
+to prove at trial that any deterioration in the building is attributable to the
+initial negligence of the contractor and not simply to the inevitable wear and
+tear suffered by every building; for a similar view, see Sachs L.J. in Dutton,
+supra, at p. 405.  The Caveat Emptor Concern  51               Turning
+to the second concern, caveat emptor cannot, in my view, serve as a
+complete shield to tort liability for the contractors of a building.  In Fraser-Reid,
+supra, this Court relied on the doctrine of caveat emptor in
+rejecting a claim by a buyer of a house for the recognition of an implied
+warranty of fitness for human habitation.  However, the Court explicitly
+declined to address the question of whether caveat emptor serves to
+negate a duty in tort (pp. 726-27).  Accordingly, the question remains at large
+in Canadian law and must be resolved on the level of principle.  52               In
+Fraser-Reid, Dickson J. (as he then was) observed that the doctrine of caveat
+emptor stems from the laissez-faire attitudes of the eighteenth and
+nineteenth centuries and the notion that purchasers must fend for themselves in
+seeking protection by express warranty or by independent examination of the premises
+(at p. 723).  The assumption underlying the doctrine is that the purchaser of a
+building is better placed than the seller or builder to inspect the building
+and to bear the risk that latent defects will emerge necessitating repair
+costs.  However, in my view, this is an assumption which (if ever valid) is
+simply not responsive to the realities of the modern housing market.  In Lempke,
+supra, at p. 295, the Supreme Court of New Hampshire made reference to a
+number of policy factors that strongly militate against the rigid application
+of the doctrine of caveat emptor with regard to tort claims for
+construction defects:                     First,
+"(c)ommon experience teaches that latent defects in a house will not
+manifest themselves for a considerable period of time . . . after the
+original purchaser has sold the property to a subsequent unsuspecting
+buyer." . . .                     Second,
+our society is rapidly changing.                     "We
+are an increasingly mobile people; a builder-vendor should know that a house he
+builds might be resold within a relatively short period of time and should not
+expect that the warranty will be limited by the number of days that the
+original owner holds onto the property."  . . .
+Furthermore, "the character of society has changed such that the original
+buyer is not in a position to discover hidden defects. . . ."                     Third,
+like an initial buyer, the subsequent purchaser has little opportunity to
+inspect and little experience and knowledge about construction.  "Consumer
+protection demands that those who buy homes are entitled to rely on the skill
+of a builder and that the house is constructed so as to be reasonably fit for
+its intended use." . . .                     Fourth,
+the builder/contractor will not be unduly taken unaware by the extension of the
+warranty to a subsequent purchaser.  "The builder already owes a duty to
+construct the home in a workmanlike manner. . . ." 
+. . .  And extension to a subsequent purchaser, within a reasonable
+time, will not change this basic obligation.                     Fifth,
+arbitrarily interposing a first purchaser as a bar to recovery "might
+encourage sham first sales to insulate builders from liability."  Philip H. Osborne makes the further point in
+"A Review of Tort Decisions in Manitoba 1990-1993", [1993] Man.
+L.J. 191, at p. 196, that contractors and builders, because of their
+knowledge, skill and expertise, are in the best position to ensure the
+reasonable structural integrity of buildings and their freedom from latent
+defect.  In this respect, the imposition of liability on builders provides an
+important incentive for care in the construction of buildings and a deterrent
+against poor workmanship.  53               My
+conclusion that a subsequent purchaser is not the best placed to bear the risk
+of the emergence of latent defects is borne out by the facts of this case.  It
+is significant that, when cracking first appeared in the mortar of the building
+in 1982, the Condominium Corporation actually hired Smith Carter, the original
+architect of the building, along with a firm of structural engineers, to assess
+the condition of the mortar work and exterior cladding.  These experts failed
+to detect the latent defects that appear to have caused the cladding to fall in
+1989.  Thus, although it is clear that the Condominium Corporation acted with
+diligence in seeking to detect hidden defects in the building, they were
+nonetheless unable to detect the defects or to foresee the collapse of the
+cladding in 1989.  This, in my view, illustrates the unreality of the
+assumption that the purchaser is better placed to detect and bear the risk of
+hidden defects.  For this Court to apply the doctrine of caveat emptor
+to negate Bird's duty in tort would be to apply a rule that has become
+completely divorced, in this context at least, from its underlying rationale.  Conclusion  54               I
+conclude, then, that no adequate policy considerations exist to negate a
+contractor's duty in tort to subsequent purchasers of a building to take
+reasonable care in constructing the building, and to ensure that the building
+does not contain defects that pose foreseeable and substantial danger to the
+health and safety of the occupants.  In my view, the Manitoba Court of Appeal
+erred in deciding that Bird could not, in principle, be held liable in tort to
+the Condominium Corporation for the reasonable cost of repairing the defects
+and putting the building back into a non-dangerous state.  These costs are
+recoverable economic loss under the law of tort in Canada.  55               The
+Manitoba Court of Appeal affirmed the trial judge's dismissal of the motion for
+summary judgment but allowed the appeal from the trial judge's decision with
+respect to the motion to strike on the grounds that Bird's claim did not
+disclose a reasonable cause of action.  As I have decided that Bird's claim
+discloses a reasonable cause of action, I would accordingly order the case to
+proceed to trial.  I am also in agreement with both the trial judge and the
+Court of Appeal that this matter should not be resolved on a motion for summary
+judgment.  In Podkriznik v. Schwede, [1990] 4 W.W.R. 220 (Man. C.A.),
+Twaddle J.A. made it clear, at p. 224, that a court considering a motion for
+summary judgment under Rule 20 of the Manitoba Queen's Bench Rules must take a
+"hard look at the merits of an action" (quoting from Vaughan v.
+Warner Communications Inc. (1986), 56 O.R. (2d) 242 (H.C.), at p. 247) and
+determine whether there is a "real chance" that the action will be
+successful.  In my view, Galanchuk J. was correct in concluding that there are
+genuine issues for trial in this case.  In particular, there are conflicting
+allegations regarding Bird's participation in the construction and planning of
+the building, which disposes of the principal argument made on behalf of the
+respondent at the hearing.  Issues such as whether the work on the building was
+negligently performed, or whether Bird was negligent in the hiring of suitable
+subcontractors, or whether the danger was substantial and foreseeable can be
+considered at trial.  This Court is not in a position to resolve these
+questions at this stage in the proceedings.  Nor, despite the respondent's
+argument, is it necessary to reconsider the well-established principles
+regarding the vicarious liability of contractors for the work of
+sub-contractors.  The appellant at no time raised this issue in this Court. 
+The issue it raised was whether the Court of Appeal erred in its conclusion
+that the appellant's action in tort failed because the damages sought were not
+recoverable economic loss.  56               I
+would allow the appeal, reverse the decision of the Court of Appeal and make
+the following orders:  that the losses alleged in the statement of claim, to
+the extent that they may be found to constitute pure economic loss flowing from
+the negligence of the respondent, be recoverable from the respondent, and that
+the order of the learned motions judge, that the within action proceed to trial
+against the respondent Bird Construction Co. Ltd. with respect to the remaining
+issues raised in the statement of claim, be reinstated.  The appellant is
+entitled to its costs throughout.                     Appeal allowed.                     Solicitors for the
+appellant:  Taylor, McCaffrey, Winnipeg.                     Solicitors for the
+respondent:  Inkster, Christie, Hughes, MacKay, Winnipeg.                     Solicitors for the
+intervener:  Campbell, Marr, Winnipeg.   

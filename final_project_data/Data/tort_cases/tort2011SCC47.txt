@@ -1,0 +1,1585 @@
+  SUPREME
+COURT OF CANADA  Citation: Crookes v. Newton, 2011 SCC 47, [2011] 3 S.C.R. 269 Date: 20111019 Docket: 33412  Between: Wayne
+Crookes and West Coast Title Search Ltd. Appellants and Jon
+Newton Respondent -
+and - Canadian
+Civil Liberties Association, Samuelson-Glushko Canadian
+Internet Policy and Public Interest Clinic, NetCoalition,
+British Columbia Civil Liberties Association, Canadian
+Newspaper Association, Ad IDEM/Canadian Media Lawyers
+Association, Magazines Canada, Canadian Journalists
+for Free Expression, Writers’ Union of Canada, Professional
+Writers Association of Canada, PEN
+Canada and Canadian Publishers’ Council Interveners  Coram: McLachlin C.J. and Binnie, LeBel, Deschamps, Fish, Abella,
+Charron, Rothstein and Cromwell JJ.  Reasons for Judgment: (paras. 1 to 45)  Joint Concurring Reasons: (paras. 46 to 53)  Reasons Concurring in the
+  Result: (paras. 54 to 130) Abella J. (Binnie, LeBel, Charron, Rothstein and
+  Cromwell JJ. concurring)  McLachlin C.J. and Fish J.   Deschamps J.   Crookes v. Newton,
+2011 SCC 47, [2011] 3 S.C.R. 269 Wayne
+Crookes and West Coast Title Search Ltd.                                      Appellants v. Jon Newton                                                                                                    Respondent and Canadian Civil Liberties Association,
+Samuelson-Glushko Canadian Internet Policy and Public
+Interest Clinic, NetCoalition, British Columbia Civil
+Liberties Association, Canadian Newspaper Association, Ad
+IDEM/Canadian Media Lawyers Association, Magazines Canada,
+Canadian Journalists for Free Expression, Writers’
+Union of Canada, Professional Writers Association of
+Canada, PEN Canada
+and Canadian Publishers’ Council                                          Interveners Indexed as:  Crookes v. Newton 2011 SCC 47 File No.:  33412. 2010:  December 7; 2011:  October 19. Present:  McLachlin C.J. and Binnie, LeBel, Deschamps, Fish,
+Abella, Charron, Rothstein and Cromwell JJ. on appeal from the court of appeal for british columbia                     Torts
+— Libel and slander — Publication — Internet — Defendant creating hyperlinks to
+allegedly defamatory articles — Whether hyperlinking, in and of itself,
+constitutes publication.                     N
+owns and operates a website in British Columbia containing commentary about
+various issues, including free speech and the Internet.  One of the articles he
+posted on it contained shallow and deep hyperlinks to other websites, which in
+turn contained information about C.  C sued N on the basis that two of the
+hyperlinks he created connected to defamatory material, and that by using those
+hyperlinks, N was publishing the defamatory information.  At trial, the judge
+concluded that the mere creation of a hyperlink in a website does not lead to a
+presumption that someone actually used the hyperlink to access the impugned
+words.  The judge agreed that hyperlinks were analogous to footnotes since they
+only refer to another source without repeating it.  Since there was no
+repetition, there was no publication.  Furthermore, in the absence of evidence
+that anyone other than C used the links and read the words to which they
+linked, there could not be a finding of publication.  A majority of the Court
+of Appeal upheld the decision, finding that while some words in an article may
+suggest that a particular hyperlink is an encouragement or invitation to view
+the impugned site, there was no such encouragement or invitation in this case. 
+In addition, the number of “hits” on the article itself was an insufficient
+basis for drawing an inference in this case that a third party had read the
+defamatory words.  The dissenting judge held that there was publication.  The
+fact that N’s website had been viewed 1,788 times made it unlikely that no one
+had followed the hyperlinks and read the impugned article.  Furthermore, the
+context of the article suggested that readers were encouraged or invited to
+click on the links.                     Held: 
+The appeal should be dismissed.                     Per
+Binnie, LeBel, Abella, Charron, Rothstein and Cromwell JJ.:  To prove the
+publication element of defamation, a plaintiff must establish that the
+defendant has, by any act, conveyed defamatory meaning to a single third party
+who has received it.  Traditionally, the form the defendant’s act takes and the
+manner in which it assists in causing the defamatory content to reach the third
+party are irrelevant.  Applying this traditional rule to hyperlinks, however,
+would have the effect of creating a presumption of liability for all
+hyperlinkers.  This would seriously restrict the flow of information on the
+Internet and, as a result, freedom of expression.                     Hyperlinks
+are, in essence, references, which are fundamentally different from other acts
+of “publication”.  Hyperlinks and references both communicate that something
+exists, but do not, by themselves, communicate its content.  They both require
+some act on the part of a third party before he or she gains access to the
+content.  The fact that access to that content is far easier with hyperlinks
+than with footnotes does not change the reality that a hyperlink, by itself, is
+content-neutral.  Furthermore, inserting a hyperlink into a text gives the
+author no control over the content in the secondary article to which he or she
+has linked.                     A
+hyperlink, by itself, should never be seen as “publication” of the content to
+which it refers.  When a person follows a hyperlink to a secondary source that
+contains defamatory words, the actual creator or poster of the defamatory words
+in the secondary material is the person who is publishing the libel. Only when
+a hyperlinker presents content from the hyperlinked material in a way that
+actually repeats the defamatory content, should that content be considered to
+be “published” by the hyperlinker.                     Here,
+nothing on N’s page is itself alleged to be defamatory.  Since the use of a
+hyperlink cannot, by itself, amount to publication even if the hyperlink is
+followed and the defamatory content is accessed, N has not published the
+defamatory content and C’s action cannot succeed.                     Per
+McLachlin C.J. and Fish J.:  The reasons of the majority are agreed
+with substantially. However, a hyperlink should constitute publication if, read
+contextually, the text that includes the hyperlink constitutes adoption or
+endorsement of the specific content it links to.  A mere general reference to a
+Web site is not enough to find publication.                     Per
+Deschamps J.:  Excluding hyperlinks from the scope of the publication rule
+is an inadequate solution to the novel issues raised by the Internet.  This
+blanket exclusion exaggerates the difference between references and other acts
+of publication, and treats all references, from footnotes to hyperlinks, alike,
+thereby disregarding the fact that references vary greatly in how they make
+defamatory information available to third parties and, consequently, in the
+harm they can cause to people’s reputations.                     In
+the common law of defamation, publication has two components: (1) an act
+that makes the defamatory information available to a third party in a
+comprehensible form, and (2) the receipt of the information by a third party in
+such a way that it is understood.                     In
+the context of Internet hyperlinks, a simple reference, absent evidence that
+someone actually viewed and understood the defamatory information to which it
+directs third parties, is not publication of that content.  In order to satisfy
+the requirements of the first component of publication, the plaintiff must
+establish, on a balance of probabilities, that the hyperlinker performed a
+deliberate act that made defamatory information readily available to a third
+party in a comprehensible form.  An act is deliberate if the defendant played
+more than a passive instrumental role in making the information available.  In
+determining whether hyperlinked information is readily available, a court
+should consider a number of factors, including whether the hyperlink is user-activated
+or automatic, whether it is a shallow or a deep link, and whether the linked
+information is available to the general public (as opposed to being
+restricted).  Any matter that has a bearing on the ease with which the
+referenced information could be accessed will be relevant to the inquiry.                     For
+an action in defamation to succeed, the plaintiff must also satisfy the
+requirements of the second component of publication on a balance of
+probabilities, namely that a third party received and understood the defamatory
+information.  This requirement can be satisfied either by adducing direct
+evidence or by asking the court to draw an inference based on, notably, whether
+the link was user-activated or automatic; whether it was a deep or a shallow
+link; whether the page contained more than one hyperlink and, if so, where the
+impugned link was located in relation to others; the context in which the link
+was presented to users; the number of hits on the page containing the
+hyperlink; the number of hits on the page containing the linked information
+(both before and after the page containing the link was posted); whether access
+to the Web sites in question was general or restricted; whether changes were
+made to the linked information and, if so, how they correlate with the number
+of hits on the page containing that information; and evidence concerning the
+behaviour of Internet users.  Once the plaintiff establishes prima facie
+liability for defamation, the defendant can invoke any available defences.                     Here,
+N acted as more than a mere conduit in making the hyperlinked information
+available.  His action was deliberate.  However, having regard to the totality
+of the circumstances, it cannot be inferred that the first, shallow hyperlink
+made the defamatory content readily available.  The various articles were not
+placed on the other site’s home page and they had separate addresses.  The fact
+that the reader had to take further action in order to find the defamatory
+material constituted a meaningful barrier to the receipt, by a third party, of
+the linked information.  The second, deep hyperlink, however, did make the
+content readily available.  All the reader had to do to gain access to the
+article was to click on the link, which does not constitute a barrier to the
+availability of the material.  Thus, C has satisfied the requirements of the
+first component of publication on a balance of probabilities where this link is
+concerned.  However, the nature of N’s article, the way the various links were
+presented and the number of hits on the article do not support an inference
+that the allegedly defamatory information was brought to the knowledge of some
+third person.  The defamation action with respect to either of the impugned
+hyperlinks cannot succeed. Cases Cited By
+Abella J.                     Applied: 
+McNichol v. Grandy, [1931] S.C.R. 696; approved:  Carter v.
+B.C. Federation of Foster Parents Assn., 2005 BCCA 398, 42 B.C.L.R. (4th)
+1; referred to:  Grant v. Torstar Corp., 2009 SCC 61, [2009] 3
+S.C.R. 640; Gaskin v.
+Retail Credit Co., [1965]
+S.C.R. 297; Stanley v. Shaw, 2006 BCCA 467, 231 B.C.A.C. 186; Hiltz and Seamone Co. v. Nova
+Scotia (Attorney General) (1997), 164 N.S.R. (2d) 161, aff’d in part
+(1999), 173 N.S.R. (2d) 341; “Truth” (N.Z.) Ltd. v. Holloway, [1960] 1
+W.L.R. 997; Lambert v. Thomson, [1937] O.R. 341; Pullman v. Walter
+Hill & Co., [1891] 1 Q.B. 524; R. v. Clerk (1728), 1 Barn. K.B.
+304, 94 E.R. 207; Hird v. Wood (1894), 38 S.J. 234; Buchanan v.
+Jennings, [2004] UKPC 36, [2005] 1 A.C. 115; Polson v. Davis, 635
+F.Supp. 1130 (1986), aff’d 895 F.2d 705 (1990); Crain v. Lightner, 364
+S.E.2d 778 (1987); Spike v. Golding (1895), 27 N.S.R. 370; Society of
+Composers, Authors and Music Publishers of Canada v. Canadian Assn. of Internet
+Providers, 2004 SCC 45, [2004] 2 S.C.R. 427; Vizetelly v. Mudie’s Select
+Library, Ltd., [1900] 2 Q.B. 170; Sun Life Assurance Co. of Canada v.
+W. H. Smith and Son Ltd. (1934), 150 L.T. 211; Bunt v. Tilley, [2006] EWHC 407, [2006] 3 All E.R. 336; Metropolitan
+International Schools Ltd. v. Designtechnica Corpn., [2009] EWHC 1765,
+[2011] 1 W.L.R. 1743; Klein v. Biben, 296 N.Y. 638 (1946); MacFadden v. Anthony, 117 N.Y.S.2d 520
+(1952); Zeran v. America Online, Inc., 129 F.3d 327 (1997); Barrett
+v. Rosenthal, 146 P.3d 510 (2006); Fair Housing Council of San Fernando
+Valley v. Roommates.Com, LLC, 521 F.3d 1157 (2008); Dell Computer Corp.
+v. Union des consommateurs, 2007 SCC 34, [2007] 2 S.C.R. 801; Hill v. Church of Scientology of Toronto,
+[1995] 2 S.C.R. 1130; WIC Radio Ltd. v. Simpson, 2008 SCC 40, [2008] 2 S.C.R. 420; Reno v. American Civil
+Liberties Union, 521 U.S. 844 (1997); Barrick Gold Corp. v.
+Lopehandia (2004), 71 O.R. (3d) 416; Botiuk v. Toronto Free Press
+Publications Ltd., [1995] 3 S.C.R. 3; Knupffer v.
+London Express Newspaper, Ltd., [1944] A.C. 116; Butler
+v. Southam Inc., 2001 NSCA 121, 197 N.S.R. (2d) 97; Bou Malhab v.
+Diffusion Métromédia CMR inc., 2011 SCC 9, [2011] 1 S.C.R. 214. By
+McLachlin C.J. and Fish J.                     Referred
+to:  Hill v. Church of Scientology of Toronto, [1995] 2
+S.C.R. 1130. By Deschamps J.                     Applied:  McNichol
+v. Grandy, [1931] S.C.R. 696; referred to:  WIC Radio Ltd. v.
+Simpson, 2008 SCC 40, [2008] 2 S.C.R. 420; Grant v. Torstar Corp.,
+2009 SCC 61, [2009] 3 S.C.R. 640; Gaskin v. Retail Credit Co., [1965] S.C.R. 297; Hill
+v. Church of Scientology of Toronto, [1995] 2 S.C.R. 1130;
+Society of Composers, Authors and Music Publishers of Canada v. Canadian
+Assn. of Internet Providers, 2004 SCC 45, [2004] 2 S.C.R. 427; Gambrill v. Schooley, 93
+Md. 48 (1901); Dell Computer Corp. v. Union des
+consommateurs, 2007 SCC 34, [2007] 2 S.C.R. 801; Carter v. B.C.
+Federation of Foster Parents Assn., 2005 BCCA 398, 42 B.C.L.R. (4th) 1; MacFadden
+v. Anthony, 117 N.Y.S.2d 520 (1952); Klein v. Biben, 296 N.Y. 638 (1946); Lambert v. Thomson, [1937] O.R. 341; Botiuk v. Toronto Free Press
+Publications Ltd., [1995] 3 S.C.R. 3; Day v. Bream (1837), 2 M.
+& Rob. 54, 174 E.R. 212; R. v. Clerk (1728), 1
+Barn. K.B. 304, 94 E.R. 207; Godfrey v. Demon
+Internet Ltd., [1999] 4 All E.R. 342; Dow Jones & Co. v. Gutnick,
+[2002] HCA 56, 210 C.L.R. 575; Stanley v. Shaw, 2006
+BCCA 467, 231 B.C.A.C. 186; Smith v. Matsqui (Dist.) (1986), 4 B.C.L.R.
+(2d) 342; Wilson v. Meyer, 126 P.3d 276 (2005); Pond v.
+General Electric Co., 256 F.2d 824 (1958); Scott v.
+Hull, 259 N.E.2d 160 (1970); Byrne v.
+Deane, [1937] 1 K.B. 818; Hellar v. Bianco, 244 P.2d 757 (1952); Tacket
+v. General Motors Corp., 836 F.2d 1042 (1987); Urbanchich v.
+Drummoyne Municipal Council (1991), Aust. Torts Rep. ¶81-127; Frawley v.
+State of New South Wales, [2007] NSWSC 1379 (AustLII); Underhill v.
+Corser, [2010] EWHC 1195 (BAILII); Bunt v. Tilley, [2006] EWHC 407,
+[2006] 3 All E.R. 336; Metropolitan International Schools Ltd. v.
+Designtechnica Corpn., [2009] EWHC 1765, [2011] 1 W.L.R. 1743; Zeran v. America Online, Inc., 129 F.3d 327 (1997); Barrett
+v. Rosenthal, 146 P.3d 510 (2006); Fair Housing Council of San Fernando
+Valley v. Roommates.Com, LLC, 521 F.3d 1157 (2008); Islam Expo Ltd. v. The Spectator (1828) Ltd., [2010] EWHC 2011 (BAILII); Jameel v. Wall Street Journal Europe
+SPRL, [2006] UKHL 44, [2007] 1 A.C. 359. Statutes and Regulations Cited Communications Decency Act of 1996, 47
+U.S.C. §230 (1996). Libel and Slander Act, R.S.B.C. 1996,
+c. 263, s. 2. Supreme Court Rules, B.C. Reg. 221/90,
+r. 18A. Authors Cited Balkin, Jack M.  “The Future of Free Expression in a Digital Age”
+(2009), 36 Pepp. L. Rev. 427. Baynham, Bryan G., and Daniel J. Reid.  “The Modern-Day
+Soapbox:  Defamation in the Age of the Internet”, in Defamation Law: 
+Materials prepared for the Continuing Legal Education seminar, Defamation Law
+2010.  Vancouver:  Continuing Legal Education Society of British Columbia,
+2010. Boivin, Denis W.  “Accommodating Freedom of Expression and
+Reputation in the Common Law of Defamation” (1996-1997), 22 Queen’s L.J.
+229. Brown, Raymond E.  Brown on Defamation:  Canada, United
+Kingdom, Australia, New Zealand, United States, vols. 1 and 2, 2nd ed. 
+Toronto:  Carswell, 1994 (loose-leaf updated 2011, release 3). Collins, Matthew.  The Law of Defamation and the Internet,
+3rd ed.  New York: Oxford University Press, 2010. Dalal, Anjali.  “Protecting Hyperlinks and Preserving First
+Amendment Values on the Internet” (2011), 13 U. Pa. J. Const. L. 1017. Danay, Robert.  “The Medium is not the Message:  Reconciling
+Reputation and Free Expression in Cases of Internet Defamation” (2010), 56 McGill
+L.J. 1. Gatley
+on Libel and Slander, 11th ed. by Patrick Milmo and
+W. V. H. Rogers.  London:  Sweet & Maxwell, 2008. Iacobucci, Frank.  “Recent Developments Concerning Freedom of Speech
+and Privacy in the Context of Global Communications Technology” (1999), 48 U.N.B.L.J.
+189. Klar, Lewis N.  Tort Law, 4th ed.  Toronto:  Thomson
+Carswell, 2008. Lidsky, Lyrissa Barnett.  “Silencing John Doe:  Defamation &
+Discourse in Cyberspace” (2000), 49 Duke L.J. 855. Linden, Allen M., and Bruce Feldthusen.  Canadian Tort Law,
+8th ed.  Markham, Ont.:  LexisNexis Butterworths, 2006. Lindsay, David.  Liability for the Publication of Defamatory
+Material via the Internet, Research Paper No. 10.  Melbourne:  University
+of Melbourne, Centre for Media, Communications and Information Technology Law,
+2000. Osborne, Philip H.  The Law of Torts, 4th ed.  Toronto: 
+Irwin Law, 2011. Ross, June.  “The Common Law of Defamation Fails to Enter the Age of
+the Charter” (1996), 35 Alta. L. Rev. 117. Sableman, Mark.  “Link Law Revisited:  Internet Linking Law at Five
+Years” (2001), 16 Berkeley Tech. L.J. 1273. Streeter, Jeremy.  “The ‘Deception Exception’:  A New Approach to
+Section 2(b) Values and Its Impact on Defamation Law” (2003), 61 U.T. Fac.
+L. Rev. 79.                     APPEAL
+from a judgment of the British Columbia Court of Appeal (Prowse, Saunders and Bauman JJ.A.), 2009 BCCA 392, 96 B.C.L.R. (4th) 315, 311
+D.L.R. (4th) 647, 276 B.C.A.C. 105, 468 W.A.C. 105, 69 C.C.L.T. (3d) 66, [2010]
+2 W.W.R. 271, [2009] B.C.J. No. 1832 (QL), 2009 CarswellBC 2401, affirming a
+decision of Kelleher J., 2008 BCSC 1424, 88 B.C.L.R. (4th) 395, 61
+C.C.L.T. (3d) 148, [2009] 1 W.W.R. 482, [2008] B.C.J. No. 2012 (QL), 2008
+CarswellBC 2237.  Appeal dismissed.                     Donald J. Jordan, Q.C., and Robert A. Kasting, for the appellants.                     Daniel W. Burnett and Harvey S. Delaney, for the respondent.                     Wendy Matheson, Andrew
+Bernstein and Molly Reynolds, for the intervener the Canadian Civil
+Liberties Association.                     Richard G. Dearden and Wendy J. Wagner, for the intervener the
+Samuelson-Glushko Canadian Internet Policy and Public Interest Clinic.                     William C. McDowell, Marguerite F. Ethier and Naomi D. Loewith,
+for the intervener NetCoalition.                     Roy W. Millen,
+for the intervener the British Columbia Civil Liberties Association.                     Robert S. Anderson, Q.C., and Ludmila B. Herbst, for the interveners the
+Canadian Newspaper Association, Ad IDEM/Canadian Media Lawyers Association,
+Magazines Canada, Canadian Journalists for Free Expression, the Writers’ Union
+of Canada, the Professional Writers Association of Canada, PEN Canada and the
+Canadian Publishers’ Council.                     The
+judgment of Binnie, LeBel, Abella, Charron, Rothstein and Cromwell JJ. was
+delivered by [1]                             
+Abella J. — To succeed in an
+action for defamation, the plaintiff must prove on a balance of probabilities
+that the defamatory words were published, that is, that they were “communicated
+to at least one person other than the plaintiff” (Grant v. Torstar Corp.,
+2009 SCC 61, [2009] 3 S.C.R. 640, at para. 28). [2]                             
+A hyperlink is a device
+routinely used in articles on the Internet whereby a word or phrase is
+identified, often with underlining, as being a portal to additional, related
+information.  Clicking on the hyperlink connects the reader to that
+information. [3]                             
+The legal issue in this
+appeal is whether hyperlinks that connect to allegedly defamatory material can
+be said to “publish” that material. I.       Background [4]                             
+Wayne Crookes is the
+President and sole shareholder of West Coast Title Search Ltd.  He brought a
+series of lawsuits against those he claimed were responsible for allegedly
+defamatory articles published on a number of websites, arguing that the
+articles represented a “smear campaign” against him and other members of the
+Green Party of Canada. [5]                             
+Jon Newton owns and
+operates a website in British Columbia containing commentary about various
+issues, including free speech and the Internet.  One of the articles he posted
+on it was called “Free Speech in Canada”.  The article contained hyperlinks to
+other websites, which in turn contained information about Mr. Crookes. [6]                             
+Mr. Crookes sued Mr.
+Newton on the basis that two of the hyperlinks he created connected to
+defamatory material, and that by using those hyperlinks, Mr. Newton was
+publishing the defamatory information.  One was a “shallow” hyperlink, which
+takes the reader to a webpage where articles are posted, and the other was a
+“deep” hyperlink, which takes the reader directly to an article (Matthew
+Collins, The Law of Defamation and the Internet (3rd ed. 2010), at para.
+2.43).  Both shallow and deep hyperlinks require the reader to click on the
+link in order to be taken to the content. [7]                             
+The two hyperlinks,
+identified by underlining, were in the following excerpt from Mr. Newton’s
+posting:                     Under new developments, . . . I’ve just met
+Michael Pilling, who runs OpenPolitics.ca.  Based in Toronto, he,
+too, is being sued for defamation. This time by politician Wayne Crookes.                     We’ve
+decided to pool some of our resources to focus more attention on the appalling
+state of Canada’s ancient and decrepit defamation laws and tomorrow, p2pnet
+will run a post from Mike [Pilling] on his troubles. He and I will also be
+releasing a joint press statement in the very near future. [A.R., at p. 125] [8]                             
+OpenPolitics.ca was hyperlinked to the Open Politics
+website where several articles were posted and were said by Mr. Crookes to be
+defamatory.  Wayne Crookes was hyperlinked to an allegedly defamatory
+article called “Wayne Crookes”, published anonymously on the website
+www.USGovernetics.com. [9]                             
+Mr. Crookes wrote to
+Mr. Newton asking him to remove the two hyperlinks.  When he got no response,
+Mr. Crookes’ lawyer wrote to Mr. Newton, repeating the request.  Mr. Newton
+refused to remove the hyperlinks. [10]                         
+Mr. Crookes sued Mr.
+Newton for defamation in British Columbia.  He did not allege that anything on
+Mr. Newton’s webpage was itself defamatory.  Rather, he argued that by creating
+hyperlinks to the allegedly defamatory articles, or by refusing to remove those
+hyperlinks when told of their defamatory character, Mr. Newton himself became a
+publisher of the articles.  By then, Mr. Newton’s article had been
+“viewed” 1,788 times.  There is no information in the record about whether, or
+how many times, the hyperlinks themselves had been clicked on or followed. [11]                         
+At trial, Kelleher J.
+concluded that the mere creation of a hyperlink in a website does not lead to a
+presumption that someone actually used the hyperlink to access the impugned
+words (2008 BCSC 1424, 88 B.C.L.R. (4th) 395).  He agreed with Mr. Newton’s
+submission that hyperlinks were analogous to footnotes since they only refer to
+another source without repeating it.  Since there was no repetition, there was
+no publication.  And in the absence of evidence that anyone other than Mr.
+Crookes used the links and read the words to which they linked, there could not
+be a finding of publication. [12]                         
+In the Court of Appeal,
+Saunders J.A., with whom Bauman J.A. concurred, held that the appeal should be
+dismissed (2009 BCCA 392, 96 B.C.L.R. (4th) 315).  Agreeing with the trial
+judge, she found that reference to an article containing defamatory comments
+without repetition of the comments themselves is analogous to a footnote or a
+card index in a library and should not be found to constitute republication of
+the defamation.  While some words in an article may suggest that a particular
+hyperlink is an “encouragement or invitation” to view the impugned site, she
+saw no such encouragement or invitation in this case.  She also refused to
+accept that the number of “hits” on the article itself was a sufficient basis
+for drawing an inference that a third party had read the defamatory words
+(paras. 89 and 92). [13]                         
+Prowse J.A. dissented. 
+While she agreed that the mere fact that Mr. Newton had created hyperlinks to
+the impugned sites did not make him a publisher of the material found at the hyperlinked
+sites, she did not accept the “footnote analogy” as being dispositive of the
+publication issue (para. 60).  In her view, the fact that Mr. Newton’s website
+had been viewed 1,788 times made it “unlikely” that no one had followed the
+hyperlinks and read the impugned articles (para. 70).  Moreover, the context of
+Mr. Newton’s article suggests that readers were in fact encouraged or invited
+to click on the links.  In her view, therefore, there was publication. [14]                         
+In British Columbia,
+pursuant to the Libel and Slander Act, R.S.B.C. 1996, c. 263,
+publication is deemed to have occurred in certain situations.  There is,
+however, no such presumption in relation to material published on the
+Internet.  Nonetheless, Mr. Crookes argued that when a hyperlink has been
+inserted on a webpage, it should be presumed that the content to which
+the hyperlink connects has been brought to the knowledge of a third party and
+has therefore been published.  For the reasons that follow, I would not only
+reject such a presumption, I would conclude that a hyperlink, by itself, should
+never be seen as “publication” of the content to which it refers. [15]                         
+Mr. Crookes also
+complains that the Court of Appeal imposed too high a burden of proof,
+essentially requiring direct evidence that a third party followed the hyperlink
+to the allegedly defamatory content.  This, he claims, deprives him of the
+ability to rely on an inference that at least one person followed one of the
+impugned hyperlinks to the allegedly defamatory content, and that the defamatory
+meaning has therefore been published. (See Gaskin v. Retail Credit Co.,
+[1965] S.C.R. 297.)  In view of my conclusion that hyperlinking is not, in and
+of itself, publication, there is no need to address this argument. II.      Analysis [16]                         
+To prove the publication
+element of defamation, a plaintiff must establish that the defendant has, by
+any act, conveyed defamatory meaning to a single third party who has
+received it (McNichol v. Grandy, [1931] S.C.R. 696, at p. 699). 
+Traditionally, the form the defendant’s act takes and the manner in which it
+assists in causing the defamatory content to reach the third party are
+irrelevant:                           There
+are no limitations on the manner in which defamatory matter may be published. 
+Any act which has the effect of transferring the defamatory information to a
+third person constitutes a publication.                      (Stanley
+v. Shaw, 2006 BCCA 467, 231 B.C.A.C. 186, at para. 5, citing Raymond E.
+Brown, The Law of Defamation in Canada (2nd ed.), vol. 1, at No. 7.3.) See
+also Hiltz and Seamone Co. v. Nova Scotia (Attorney General) (1997), 164
+N.S.R. (2d) 161 (S.C.), at para. 21, aff’d in part (1999), 173 N.S.R. (2d) 341
+(C.A.); Grant, at para. 119; “Truth” (N.Z.) Ltd. v. Holloway,
+[1960] 1 W.L.R. 997 (P.C.); Lambert v. Thomson, [1937] O.R. 341 (C.A.), per
+Rowell C.J.O.; Pullman v. Walter Hill & Co., [1891] 1 Q.B. 524
+(C.A.), at p. 527, per Lord Esher M.R. [17]                         
+Mr. Crookes argues
+that, under this definition, a person who includes a hyperlink on a webpage has
+“published” any defamatory remarks to which the hyperlink leads, because that
+person has done an act which “has the effect of transferring the defamatory
+information” to any third person who clicks on the link. [18]                         
+Under this sole
+disseminator/sole reader paradigm, the breadth of activity captured by the
+traditional publication rule is vast.  In R. v. Clerk (1728), 1 Barn.
+K.B. 304, 94 E.R. 207, for example, a printer’s servant, whose only role in an
+act of publication was to “clap down” the printing press, was found responsible
+for the libels contained in that publication, despite the fact that he was not
+aware of the contents (p. 207).  In Hird v. Wood (1894), 38 S.J. 234
+(C.A.), pointing at a sign displaying defamatory words was held to be evidence
+of publication.  Other cases have also held that acts merely facilitating
+communication can amount to publication: see, e.g., Buchanan v. Jennings,
+[2004] UKPC 36, [2005] 1 A.C. 115; Polson v. Davis, 635 F.Supp. 1130 (D.
+Kan. 1986), aff’d 895 F.2d 705 (10th Cir. 1990); Crain v. Lightner, 364
+S.E.2d 778 (W. Va. 1987), at p. 785; and Spike v. Golding (1895), 27
+N.S.R. 370 (S.C. in banco).  And in McNichol v. Grandy, the
+defendant was found to be liable when he raised his voice and made defamatory
+statements that were overheard by someone in another room. [19]                         
+The publication rule
+has also captured the following range of conduct:                     [The defamatory meaning] may be communicated
+directly by the defendant either orally, or in some written or printed form, or
+by way of a symbolic ceremony, dramatic pantomime, mime, brochure, gesture,
+handbill, letter, photograph, placard, poster, sign, or cartoon.  It may be
+inscribed on a blackboard, posted on a mirror or a telephone pole, or placed on
+the wall of a building or the gable wall of the defendant’s property, or on the
+front of a cheque, or entered in a database, or accessed on or downloaded from
+a website on the internet.  It may appear on an ariel banner flown behind an
+airplane, or someone’s attention may be drawn by the defendant to a poster, or
+a defamatory writing already in circulation.  A third person may be given
+access to defamatory material, or defamatory matter may be left in a place
+where others can see it, or the defendant may request others to go to a place
+where the defamatory information is available to see and read it, or it may be
+set into motion as a result of the defendant’s death.  In each case there is a
+publication.  [Footnotes omitted.]                     (Raymond
+E. Brown, Brown on Defamation (2nd ed. (loose-leaf)), at para. 7.3) [20]                         
+Defendants obtained
+some relief from the rule’s significant breadth with the development of the
+“innocent dissemination” defence, which protects “those who play a secondary
+role in the distribution system, such as news agents, booksellers, and
+libraries”:  Allen M. Linden and Bruce Feldthusen, Canadian Tort Law
+(8th ed. 2006), at pp. 783-84; see also Society of Composers, Authors and
+Music Publishers of Canada v. Canadian Assn. of Internet Providers, 2004
+SCC 45, [2004] 2 S.C.R. 427 (“SOCAN”), at para. 89; Philip H. Osborne, The
+Law of Torts (4th ed. 2011), at p. 411.  Such “subordinate distributors”
+may escape liability by showing that they “have no actual knowledge of an
+alleged libel, are aware of no circumstances to put them on notice to suspect a
+libel, and committed no negligence in failing to find out about the libel” (SOCAN,
+at para. 89; Vizetelly v. Mudie’s Select Library, Ltd., [1900] 2 Q.B.
+170 (C.A.), at p. 180;  Brown, at para. 7.12(6)(c); and also Sun Life
+Assurance Co. of Canada v. W. H. Smith and Son Ltd. (1934), 150 L.T. 211
+(C.A.), at pp. 212-14). [21]                         
+Recently, jurisprudence
+has emerged suggesting that some acts are so passive that they should not be
+held to be publication.  In Bunt v. Tilley, [2006] EWHC 407, [2006] 3
+All E.R. 336 (Q.B.), considering the potential liability of an Internet service
+provider, the court held that in order to hold someone liable as a publisher,
+“[i]t is not enough that a person merely plays a passive instrumental role in
+the process”; there must be “knowing involvement in the process of publication
+of the relevant words” (para. 23 (emphasis in original); see also Metropolitan
+International Schools Ltd. v. Designtechnica Corpn., [2009] EWHC 1765,
+[2011] 1 W.L.R. 1743 (Q.B.)). [22]                         
+Acknowledging these
+developments, the question on this appeal is whether a simple reference — like
+a hyperlink — to defamatory information is the type of act that can constitute
+publication.  Some helpful guidance on this point is available in two American
+cases.  In Klein v. Biben, 296 N.Y. 638 (1946), the New York Court of
+Appeals decided that a statement saying “For more details about [the
+plaintiff], see the Washington News Letter in The American Hebrew, May 12,
+1944” (p. 639) was not a republication of the May 12 libel. [23]                         
+And in MacFadden v.
+Anthony, 117 N.Y.S.2d 520 (Sup. Ct. 1952), a complaint of defamation was
+dismissed in a case where a radio host “called attention to [an allegedly
+defamatory] article in Collier’s Magazine” (p. 521).  Relying on Klein,
+the court concluded that referring to the article was neither a republication
+nor a publication of the libel. [24]                         
+These cases were relied
+on in Carter v. B.C. Federation of Foster Parents Assn., 2005 BCCA 398,
+42 B.C.L.R. (4th) 1, where the plaintiff alleged that, by mentioning the
+Internet address of an online discussion forum, the publisher of a newsletter
+was responsible for republishing defamatory comments published on that site. 
+Relying on MacFadden and Klein for the proposition that
+“reference to an article containing defamatory comment without repetition of
+the comment itself should not be found to be a republication of such defamatory
+comment” (para. 12), Hall J.A. held that there was no publication. [25]                         
+I agree with this
+approach.  It avoids a formalistic application of the traditional publication
+rule and recognizes the importance of the communicative and expressive function
+in referring to other sources.  Applying such a rule to hyperlinks, as the
+reasons of Justice Deschamps demonstrate, has the effect of creating a
+presumption of liability for all hyperlinkers, an untenable situation in my
+view. [26]                         
+A reference to other
+content is fundamentally different from other acts involved in publication. 
+Referencing on its own does not involve exerting control over the
+content.  Communicating something is very different from merely communicating
+that something exists or where it exists.  The former involves dissemination of
+the content, and suggests control over both the content and whether the content
+will reach an audience at all, while the latter does not.  Even where the goal
+of the person referring to a defamatory publication is to expand that
+publication’s audience, his or her participation is merely ancillary to that of
+the initial publisher: with or without the reference, the allegedly defamatory
+information has already been made available to the public by the initial
+publisher or publishers’ acts.  These features of references distinguish them
+from acts in the publication process like creating or posting the defamatory
+publication, and from repetition. [27]                         
+Hyperlinks are, in
+essence, references.  By clicking on the link, readers are directed to other
+sources.  Hyperlinks may be inserted with or without the knowledge of the
+operator of the site containing the secondary article.  Because the content of
+the secondary article is often produced by someone other than the person who
+inserted the hyperlink in the primary article, the content on the other end of
+the link can be changed at any time by whoever controls the secondary page. 
+Although the primary author controls whether there is a hyperlink and what
+article that word or phrase is linked to, inserting a hyperlink gives the
+primary author no control over the content in the secondary article to which he
+or she has linked.  (See David Lindsay, Liability for the Publication of Defamatory
+Material via the Internet (2000), at pp. 14 and 78-79; Collins, at paras.
+2.42 to 2.43 and 5.42.) [28]                         
+These features — that a
+person who refers to other content generally does not participate in its creation
+or development — serve to insulate from liability those involved
+in Internet communications in the United States: see Communications Decency
+Act of 1996, 47 U.S.C. §230 (1996); see also Jack M. Balkin, “The
+Future of Free Expression in a Digital Age” (2009), 36 Pepp. L. Rev.
+427, at pp. 433-34; Zeran v. America Online, Inc., 129 F.3d 327 (4th
+Cir. 1997); Barrett v. Rosenthal, 146 P.3d 510 (Cal. 2006); Fair
+Housing Council of San Fernando Valley v. Roommates.Com, LLC, 521 F.3d 1157
+(9th Cir. 2008). [29]                         
+Although the person
+selecting the content to which he or she wants to link might facilitate
+the transfer of information (a traditional hallmark of publication), it is
+equally clear that when a person follows a link they are leaving one source and
+moving to another.  In my view, then, it is the actual creator or poster of the
+defamatory words in the secondary material who is publishing the libel when a
+person follows a hyperlink to that content.  The ease with which the referenced
+content can be accessed does not change the fact that, by hyperlinking, an individual
+is referring the reader to other content.  (See Dell Computer Corp. v. Union
+des consommateurs, 2007 SCC 34, [2007] 2 S.C.R. 801, at paras. 97-102.) [30]                         
+Hyperlinks thus share
+the same relationship with the content to which they refer as do references.  Both
+communicate that something exists, but do not, by themselves, communicate its
+content.  And they both require some act on the part of a third party before he
+or she gains access to the content.  The fact that access to that content is
+far easier with hyperlinks than with footnotes does not change the reality that
+a hyperlink, by itself, is content-neutral — it expresses no opinion, nor does
+it have any control over, the content to which it refers. [31]                         
+This interpretation of
+the publication rule better accords with our Court’s recent jurisprudence on
+defamation law.  This Court has recognized that what is at stake in an action
+for defamation is not only an individual’s interest in protecting his or her
+reputation, but also the public’s interest in protecting freedom of expression:
+Hill v. Church of Scientology of Toronto, [1995] 2 S.C.R. 1130. [32]                         
+Pre-Charter approaches
+to defamation law in Canada largely leaned towards protecting reputation.  That
+began to change when the Court modified the “honest belief” element to the fair
+comment defence in WIC Radio Ltd. v. Simpson, 2008 SCC 40, [2008] 2
+S.C.R. 420, and when, in Grant, the Court developed a defence of
+responsible communication on matters of public interest.  These cases recognize
+the importance of achieving a proper balance between protecting an individual’s
+reputation and the foundational role of freedom of expression in the
+development of democratic institutions and values (Grant, at para. 1; Hill,
+at para. 101). [33]                         
+Interpreting the
+publication rule to exclude mere references not only accords with a more
+sophisticated appreciation of Charter values, but also with the dramatic
+transformation in the technology of communications.  See June Ross, “The Common
+Law of Defamation Fails to Enter the Age of the Charter” (1996), 35 Alta.
+L. Rev. 117; see also Jeremy Streeter, “The ‘Deception Exception’: A New
+Approach to Section 2(b) Values and Its Impact on Defamation Law” (2003), 61 U.T.
+Fac. L. Rev. 79; Denis W. Boivin, “Accommodating Freedom of Expression and
+Reputation in the Common Law of Defamation” (1996-1997), 22 Queen’s L.J.
+229;  Lewis N. Klar, Tort Law (4th ed. 2008), at pp. 746-47;
+Robert Danay, “The Medium is not the Message: Reconciling Reputation and Free
+Expression in Cases of Internet Defamation” (2010), 56 McGill L.J. 1;
+the Hon. Frank Iacobucci, “Recent Developments Concerning Freedom of Speech and
+Privacy in the Context of Global Communications Technology” (1999), 48 U.N.B.L.J.
+189; Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), at p.
+870. [34]                         
+The Internet’s capacity
+to disseminate information has been described by this Court as “one of the great
+innovations of the information age” whose “use should be facilitated rather
+than discouraged” (SOCAN, at para. 40, per Binnie J.). 
+Hyperlinks, in particular, are an indispensable part of its operation.  As
+Matthew Collins explains, at para. 5.42:                     Hyperlinks
+are the synapses connecting different parts of the world wide web.  Without
+hyperlinks, the web would be like a library without a catalogue: full of
+information, but with no sure means of finding it. (See
+also Lindsay, at pp. 78-79; Mark Sableman, “Link Law Revisited: Internet
+Linking Law at Five Years” (2001), 16 Berkeley Tech. L.J. 1273, at p.
+1276.) [35]                         
+The centrality of the
+role of hyperlinks in facilitating access to information on the Internet was
+also compellingly explained by Anjali Dalal in “Protecting Hyperlinks and
+Preserving First Amendment Values on the Internet” (2011), 13 U. Pa. J.
+Const. L. 1017:                                      Hyperlinks have long been
+understood to be critical to communication because they facilitate
+access to information.  They provide visitors on one website a way to navigate
+to internally referenced words, phrases, arguments, and ideas.  Under this
+view, if the Internet is an endless expanse of information where “any person .
+. . . can become a pamphleteer” then “[h]yperlinks are the paths among
+websites, creating the bustling street corners for distribution of those
+pamphlets and inviting passersby to engage more deeply with the issues raised.” . . .                                      .
+. . While the concerns motivating cases brought against hyperlinks are often
+legitimate, limiting the use of links poses a significant danger to
+communication and future innovation. [Emphasis in original; footnotes omitted;
+pp. 1019 and 1022.] [36]                         
+The Internet cannot, in
+short, provide access to information without hyperlinks.  Limiting their
+usefulness by subjecting them to the traditional publication rule would have
+the effect of seriously restricting the flow of information and, as a result,
+freedom of expression.  The potential “chill” in how the Internet functions
+could be devastating, since primary article authors would unlikely want to risk
+liability for linking to another article over whose changeable content they
+have no control.  Given the core significance of the role of hyperlinking to
+the Internet, we risk impairing its whole functioning.  Strict application of
+the publication rule in these circumstances would be like trying to fit a
+square archaic peg into the hexagonal hole of modernity. [37]                         
+I do not for a moment
+wish to minimize the potentially harmful impacts of defamatory speech on the
+Internet.  Nor do I resile from asserting that individuals’ reputations are
+entitled to vigorous protection from defamatory comments.  It is clear that
+“the right to free expression does not confer a licence to ruin reputations” (Grant,
+at para. 58).  Because the Internet is a powerful medium for all
+kinds of expression, it is also a potentially powerful vehicle for expression
+that is defamatory.  In Barrick Gold
+Corp. v. Lopehandia (2004), 71 O.R. (3d) 416 (C.A.), at para. 32,
+Blair J.A. recognized the Internet’s “tremendous power” to harm reputation,
+citing with approval the following excerpt from Lyrissa Barnett Lidsky, “Silencing John Doe:
+Defamation & Discourse in Cyberspace” (2000), 49 Duke L.J. 855, at
+pp. 863-64:                             Although
+Internet communications may have the ephemeral qualities of gossip with regard
+to accuracy, they are communicated through a medium more pervasive than print,
+and for this reason they have tremendous power to harm reputation.  Once a
+message enters cyberspace, millions of people worldwide can gain access to it. 
+Even if the message is posted in a discussion forum frequented by only a
+handful of people, any one of them can republish the message by printing it or,
+as is more likely, by forwarding it instantly to a different discussion forum. 
+And if the message is sufficiently provocative, it may be republished again and
+again.  The extraordinary capacity of the Internet to replicate almost endlessly
+any defamatory message lends credence to the notion that “the truth rarely
+catches up with a lie”.  The problem for libel law, then, is how to protect
+reputation without squelching the potential of the Internet as a medium of
+public discourse. [Blair J.A.’s emphasis deleted.] [38]                         
+New activities on the
+Internet and the greater potential for anonymity amplify even further the ease
+with which a reputation can be harmed online:                     The rapid expansion of the Internet coupled with
+the surging popularity of social networking services like Facebook and Twitter
+has created a situation where everyone is a potential publisher, including
+those unfamiliar with defamation law.  A reputation can be destroyed in the
+click of a mouse, an anonymous email or an ill-timed Tweet.                     (Bryan
+G. Baynham, Q.C., and Daniel J. Reid, “The Modern-Day Soapbox: Defamation in
+the Age of the Internet”, in Defamation Law: Materials prepared for the
+Continuing Legal Education seminar, Defamation Law 2010 (2010), at p.
+3.1.1) [39]                         
+But I am not persuaded that
+exposing mere hyperlinks to the traditional publication rule ultimately
+protects reputation.  A publication is defamatory if it both refers to the
+plaintiff and conveys a defamatory meaning: Grant, at para. 28.  These
+inquiries depend, respectively, on whether the words used or “the circumstances
+attending the publication are such as[] would lead reasonable persons to
+understand that it was the plaintiff to whom the defendant referred” (Brown, at
+para. 6.1), and whether the words would “ten[d] to lower a person in the
+estimation of right-thinking members of society” (Botiuk v. Toronto Free
+Press Publications Ltd., [1995] 3 S.C.R. 3, at para. 62).  Defamatory
+meaning in the words may be discerned from “all the circumstances of the case,
+including any reasonable implications the words may bear, the context in which
+the words are used, the audience to whom they were published and the manner in
+which they were presented” (Botiuk, at para. 62, citing Brown (2nd ed.
+1994), at p. 1-15).  (See Brown, at paras. 5.2, 5.4(1)(a) and 6.1; Knupffer
+v. London Express Newspaper, Ltd., [1944] A.C. 116 (H.L.); Butler v.
+Southam Inc., 2001 NSCA 121, 197 N.S.R. (2d) 97; Bou Malhab v.
+Diffusion Métromédia CMR inc., 2011
+SCC 9, [2011] 1 S.C.R. 214, at
+paras. 63 and 112.) [40]                         
+Where a defendant uses a reference
+in a manner that in itself conveys defamatory meaning about the
+plaintiff, the plaintiff’s ability to vindicate his or her reputation depends
+on having access to a remedy against that defendant.  In this way, individuals may attract liability for
+hyperlinking if the manner in which they have referred to content conveys
+defamatory meaning; not because they have created a reference, but because,
+understood in context, they have actually expressed something defamatory
+(Collins, at paras. 7.06 to 7.08 and 8.20 to 8.21). This might be found to occur, for example, where a person places a
+reference in a text that repeats defamatory content from a secondary source (Carter,
+at para. 12). [41]                         
+ Preventing plaintiffs
+from suing those who have merely referred their readers to other sources that
+may contain defamatory content and not expressed defamatory meaning about the
+plaintiffs will not leave them unable to vindicate their reputations.  As
+previously noted, when a hyperlinker
+creates a link, he or she gains no control over the content linked to.  If a
+plaintiff wishes to prevent further publications of the defamatory content, his
+or her most effective remedy lies with the person who actually created and
+controls the content. [42]                         
+  Making reference to
+the existence and/or location of content by hyperlink or otherwise, without
+more, is not publication of that content.  Only when a hyperlinker presents
+content from the hyperlinked material in a way that actually repeats the
+defamatory content, should that content be considered to be “published” by the
+hyperlinker.  Such an approach promotes expression and respects the realities
+of the Internet, while creating little or no limitations to a plaintiff’s
+ability to vindicate his or her reputation.  While a mere reference to another
+source should not fall under the wide breadth of the traditional publication
+rule, the rule itself and the limits of the one writer/any act/one reader
+paradigm may deserve further scrutiny in the future. [43]                         
+I am aware that
+distinctions can be drawn between hyperlinks, such as the deep and shallow
+hyperlinks at issue in this case, and links that automatically display other
+content. The reality of the Internet means that we are dealing with the
+inherent and inexorable fluidity of evolving technologies.  As a result, it
+strikes me as unwise in these reasons to attempt to anticipate, let alone
+comprehensively address, the legal implications of the varieties of links that
+are or may become available.  Embedded or automatic links, for example, may
+well prove to be of consequence in future cases, but these differences were not
+argued in this case or addressed in the courts below, and therefore need not be
+addressed here. III.    Application [44]                         
+Nothing on Mr. Newton’s
+page is itself alleged to be defamatory.  The impugned conduct in this case is
+Mr. Newton’s insertion of hyperlinks on his webpage.  Mr. Crookes’ argument is
+that by linking to webpages and websites containing allegedly defamatory
+content, Mr. Newton has published that defamatory content.  Since in my view
+the use of a hyperlink cannot, by itself, amount to publication even if the
+hyperlink is followed and the defamatory content is accessed, Mr. Crookes’
+action against Mr. Newton cannot succeed.  Moreover, even if Mr. Crookes had
+alleged that Mr. Newton should be understood, in context, to have expressed
+defamatory meaning, I would agree with the trial judge and the majority of the
+Court of Appeal that the statements containing the impugned hyperlinks on Mr.
+Newton’s page could not be understood, even in context with the hyperlinked
+documents, to express any opinion — defamatory or otherwise — on Mr. Crookes or
+the hyperlinked content. [45]                         
+I would dismiss the
+appeal with costs.                     The
+following are the reasons delivered by [46]                         
+The Chief
+Justice and Fish J. — We have read the reasons
+of Deschamps J. and Abella J.  While we agree in large part with the reasons of
+Abella J., we respectfully propose a different formulation of the test for when
+a hyperlink reference in a text constitutes publication of defamatory matter to
+which it links. [47]                         
+The question, in legal terms, is when inclusion of a hyperlink in
+a text constitutes publication of a defamation in the hyperlinked material. 
+Abella J. states that “a hyperlink, by itself, should never be seen as
+‘publication’ of the content to which it refers” (para. 14). As justification,
+she notes that the hyperlinker has no control over the content referred to; the
+hyperlinker is not the creator of the content, and the content of the page
+linked to may change at any time (paras. 26-27).  A hyperlink, therefore, is a
+reference and references are by definition “content-neutral” (para. 30). [48]                         
+Abella J. concludes that “[o]nly when a hyperlinker presents
+content from the hyperlinked material in a way that actually repeats the
+defamatory content, should that content be considered to be ‘published’ by the
+hyperlinker” (para. 42).  In our view, the combined text and hyperlink may
+amount to publication of defamatory material in the hyperlink in some
+circumstances.  Publication of a defamatory statement via a hyperlink should be
+found if the text indicates adoption or endorsement of the content of the
+hyperlinked text.  If the text communicates agreement with the content
+linked to, then the hyperlinker should be liable for the defamatory content. 
+The defendant must adopt or endorse the defamatory words or material; a mere
+general reference to a web site is not enough.  Thus, defendants linking
+approvingly to an innocent Web site that later becomes defamatory would not be
+liable. [49]                         
+Finding publication in adoption or endorsement of the defamatory
+material in a Web site is consistent with the general law of defamation.  In Hill
+v. Church of Scientology of Toronto, [1995] 2 S.C.R. 1130, at para.
+176, this Court held:                     If one
+person writes a libel, another repeats it, and a third approves what is
+written, they all have made the defamatory libel.  Both the person who
+originally utters the defamatory statement, and the individual who expresses
+agreement with it, are liable for the injury. [50]                         
+In sum, in our view, a hyperlink should constitute publication
+if, read contextually, the text that includes the hyperlink constitutes
+adoption or endorsement of the specific content it links to. [51]                         
+It is true that the traditional publication rule does not require
+the publisher to approve of the material published; he or she must merely
+communicate that material to a third party.  However, the proposed adoption or
+endorsement standard for references is conceptually different.  A mere
+reference without any adoption or endorsement remains that — a content-neutral
+reference.  Adoption or endorsement of the content accessible by a link in the
+text can be understood to actually incorporate the defamatory content into the
+text.  Thus, the content of the text comes to include the defamatory content
+accessed via hyperlink. The hyperlink, combined with the surrounding words and
+context, ceases to be a mere reference and the content to which it refers
+becomes part of the published text itself. [52]                         
+We add a final comment, with an eye to future technological
+changes.  Abella J., as noted, states that “a hyperlink, by itself, should
+never be seen as ‘publication’ of the content to which it refers” (para. 14). 
+So long as it is necessary to click on a hyperlink to access its content, this
+may be correct.  What, however, of features in which a hyperlink projects
+content on the page automatically, or in a separate frame, with little or no
+prompting from the reader?  Would inclusion of such a hyperlink, by itself,
+amount to publication?  Like the issue of embedded hyperlinks, this question is
+not before us and should not be taken to have been decided in this case.  Like
+Abella J. (at para. 43), we would leave issues concerning hyperlinks of this
+sort to be dealt with if and when they arise. [53]                         
+We agree with Abella J. that this appeal should be dismissed with
+costs.                     The
+following are the reasons delivered by [54]                         
+Deschamps J. — This appeal offers yet another opportunity for the Court to
+consider the proper balance in the common law of defamation between the
+protection of reputation and the promotion of freedom of expression. In WIC
+Radio Ltd. v. Simpson, 2008 SCC 40, [2008] 2 S.C.R. 420, and Grant v.
+Torstar Corp., 2009 SCC 61, [2009] 3 S.C.R. 640, the Court took incremental
+steps to improve this balance by recognizing and modernizing defences to
+liability for defamation. In the instant case, the Court must determine
+whether, notwithstanding these defences, the scope of conduct that may attract prima
+facie liability for defamation is itself too broad and in need of
+adjustment to further promote freedom of expression. [55]                         
+Proof of publication is necessary in order to
+establish liability for defamation. “Publication” has an established meaning in
+the law of defamation. It refers to the communication of defamatory information
+in such a way that it is “made known to a third party”: Gaskin v. Retail
+Credit Co., [1965] S.C.R. 297, at p. 299. Professor Brown explains that
+“[i]t is a bilateral act by which the publisher makes available to a
+reader, listener or observer in a comprehensible form the defamatory
+information” (R. E. Brown, Brown on Defamation
+(2nd ed. (loose-leaf)), at para. 7.2). Thus, publication
+has two components: (1) an act that makes the defamatory information available
+to a third party in a comprehensible form, and (2) the receipt of the
+information by a third party in such a way that it is understood. [56]                         
+The question is whether the first component of
+publication needs to be reconsidered owing to the impact of new forms of
+communications media. In answering this question, it will of course be
+necessary to bear in mind the particular technological feature — the Internet
+hyperlink — at issue in the case at bar. At the same time, however, the answer
+must be adaptable to other modes of communication and to future technological
+change. [57]                         
+I have read the reasons of my colleague Abella
+J. It is her view that the concept of publication as understood at common law
+needs to be altered so as to exclude references, including hyperlinks, from its
+scope. No longer must a reference, like any other act, simply make the
+defamatory information available in a comprehensible form: “Only when a
+hyperlinker presents content from the hyperlinked material in a way that
+actually repeats the defamatory content, should that content be considered to
+be ‘published’ by the hyperlinker” (para. 42). With respect, I disagree with
+this approach. I have also read the reasons of the Chief Justice and Fish J.
+They purport to approve Abella J.’s approach but, in effect, find that there
+are circumstances in which hyperlinked information can lead to a finding of
+publication. In so doing, they depart from the bright-line rule proposed by
+Abella J. In order to give guidance, I would prefer to outline a rule that is
+consistent with the common law and the civil law of defamation and that will
+also accommodate future developments in Internet law. [58]                         
+To create a specifically Canadian exception for
+references, which has the effect of excluding hyperlinks from the scope of the
+publication rule, is in my view an inadequate solution to the novel issues
+raised by the Internet. On the one hand, this blanket exclusion exaggerates the
+difference between references and other acts of publication. On the other hand,
+it treats all references, from footnotes to hyperlinks, alike. In so doing, it
+disregards the fact that references vary greatly in how they make defamatory
+information available to third parties and, consequently, in the harm they can
+cause to people’s reputations. [59]                         
+A more nuanced approach to revising the publication rule, and one
+that can be applied effectively to new media, would be for the Court to hold
+that in Canadian law, a reference to defamatory content can satisfy the
+requirements of the first component of publication if it makes the defamatory
+information readily available to a third party in a comprehensible form.
+In addition, the Court should make it clear that not every act, but only deliberate
+acts, can lead to liability for defamation. [60]                         
+Freedom of expression must be reconciled with the “equally
+important” right to reputation: Hill v. Church of Scientology of Toronto,
+[1995] 2 S.C.R. 1130, at para. 121. Unlike my colleague Abella J.’s approach,
+the one I propose gives due weight to freedom of expression yet at the same
+time is grounded in a recognition that even simple references to defamatory
+information can significantly harm a person’s reputation. It would enable
+individuals whose reputations are so harmed to seek relief from those who,
+through deliberate acts, make defamatory material readily available to third
+parties. [61]                         
+If the person who made the reference was unaware that the
+information referred to was defamatory, the defence of innocent dissemination
+may be available: Society of Composers, Authors and Music
+Publishers of Canada v. Canadian Assn. of Internet Providers, 2004 SCC 45, [2004] 2 S.C.R. 427 (“SOCAN”), at para. 89.
+In addition, as the Court mentioned in WIC and Grant, defences
+such as fair comment and reasonable communication on matters of public interest
+are also available. With respect, a shortcoming in my colleague’s approach is
+that she fails to consider the law of defamation generally, and instead focuses
+narrowly on one aspect of the rules governing publication. The result is
+problematically one-sided, as individuals who suffer harm to their reputations
+are left with no recourse against those who perpetuate defamatory information. [62]                         
+A reference, devoid of context, has never amounted in law to
+publication of the information to which it directs the third party. To so hold
+would be to disregard the bilateral nature of publication. Publication is not
+complete until someone other than the person referred to receives and understands
+the defamatory information. Thus, “to shout aloud defamatory words on a desert
+moor where no one hears them, is not a publication” (Gambrill v. Schooley,
+93 Md. 48 (1901), at p. 60). In the context of the Internet, a simple
+reference, absent evidence that someone actually viewed and understood the
+defamatory information to which it directs third parties, is not publication of
+that content. [63]                         
+In the instant case, the respondent, Jon Newton, admits that he
+hyperlinked to information that the appellants, Wayne Crookes and West Coast
+Title Search Ltd., allege to be defamatory. In the circumstances, Mr. Newton
+acted as more than a mere conduit in making the hyperlinked information
+available. His action was deliberate. Inasmuch as one link made the allegedly
+defamatory material readily available, the requirements of the first component
+of publication are satisfied for that link. However, publication is not
+complete unless the plaintiff adduces evidence that satisfies, on a balance of
+probabilities, the requirements of the second component of publication: that a
+third party received and understood the information to which reference is made.
+I agree with the majority of the Court of Appeal that the evidence adduced with
+respect to the second component of publication is insufficient in this case. I
+would therefore dismiss the appeal with costs and add that Mr. Newton might
+also have been able to raise defences to liability for defamation. I.             
+Background [64]                         
+Two broad types of hyperlinks can be found on
+Web pages. The first and most common is an ordinary link. It is always
+user-activated: the Internet user clicks on a link on a Web page and is
+transferred to another page. The second type, which is often automatic but can
+also be user-activated, is created by a process referred to as “framing”.
+Unlike with ordinary links, in the case of framing, the Internet user does not
+leave the original Web page: information from another Web page appears in a
+“frame” on the page already accessed by the user. Where the framing is automatic,
+the content of other pages appears simultaneously in a frame when the user
+accesses the primary page. Moreover, a hyperlink can be either a “shallow” link
+to a site’s home page or a “deep” link to a page located on that site or
+another site. Both types of hyperlinks, as well as the distinction between
+shallow and deep links, have previously been referred to by the Court (SOCAN;
+Dell Computer Corp. v. Union des
+consommateurs, 2007 SCC 34, [2007] 2
+S.C.R. 801, at para. 4; and see, generally, M. Collins, The Law of
+Defamation and the Internet (3rd ed. 2010), at para. 2.43). In addition to
+Web pages, a variety of other forms of Internet communications can contain
+hyperlinks, including e-mail messages and on-line fora. In these reasons, the
+terms “hyperlink” and “link” will, unless otherwise specified, be used to refer
+to user-activated hyperlinks. [65]                         
+On July 18, 2006, Mr. Newton
+published an article on his Web site. It was entitled “Free Speech in Canada”
+and contained the following passage:                     Under new developments, thanks to the lawsuit,
+I’ve just met Michael Pilling, who runs OpenPolitics.ca. Based in
+Toronto, he, too, is being sued for defamation. This time by politician Wayne
+Crookes.                     We’ve decided to pool some of our resources to
+focus more attention on the appalling state of Canada’s ancient and decrepit
+defamation laws and tomorrow, p2pnet will run a post from Mike on his troubles.
+He and I will also be releasing a joint press statement in the very near
+future. [A.R., at p. 125] [66]                         
+The underlined text in this passage constituted hyperlinks, which
+Mr. Newton admits he created. The evidence indicates that “OpenPolitics.ca”
+was a shallow link to the Web site in question, on which, Mr. Crookes alleges,
+several interlinked articles defaming him could be found. The evidence further
+indicates that “Wayne Crookes” was a deep link to an article on another
+Web site, www.USGovernetics.com, that Mr. Crookes also alleges to be
+defamatory. These impugned hyperlinks were among seven different links contained
+in Mr. Newton’s article and were both preceded and followed by other
+hyperlinks. All the hyperlinks and the information to which they referred the
+user could be accessed by the public on line without restrictions. [67]                         
+On August 18, 2006, Mr. Crookes wrote to Mr.
+Newton and demanded that the hyperlinks “OpenPolitics.ca” and “Wayne
+Crookes” be removed. He received no response. On October 31, 2006, Mr.
+Crookes’ lawyer wrote to Mr. Newton and demanded that the hyperlinks be
+removed. On November 9, 2006, Mr. Newton refused to do so. In response to
+interrogatories that were subsequently addressed to him, Mr. Newton offered the
+following explanation for his refusal to remove the hyperlinks: “I saw no need.
+It was merely a hyperlink” (A.R., at p. 186). [68]                         
+As of February 1, 2008, the article “Free Speech
+in Canada” had been accessed 1,788 times. There is no information in the record
+on how many people — if any — read the allegedly defamatory material, or on
+whether any person who may have viewed the material accessed it by clicking on
+the two hyperlinks or by other means. The evidence is also silent on the
+behaviour of Internet surfers with respect to hyperlinks, and on the
+jurisdiction in which any individuals who may have read the hyperlinked
+material reside. [69]                         
+Mr. Crookes and his company, West Coast Title Search Ltd., sued
+Mr. Newton for defamation in British Columbia. The parties
+brought applications for summary trial and judgment under Rule 18A of the
+British Columbia Supreme Court Rules, B.C. Reg. 221/90. Kelleher J. granted
+Mr. Newton’s application and dismissed the action, finding that there had
+been no publication (2008 BCSC 1424, 88 B.C.L.R. (4th) 395). [70]                         
+Kelleher J. rejected Mr. Crookes’ contention
+that publication by Mr. Newton of the allegedly defamatory material should
+be presumed from the fact that he had created the hyperlinks. In the trial
+judge’s view, the plaintiffs’ failure to adduce any evidence that people had
+actually clicked on the hyperlinks and read the information was fatal to their
+position (paras. 20 and 24). Kelleher J. also concluded that the circumstances
+of the case did not support a finding of publication, drawing an analogy
+between a hyperlink and a footnote or a reference to a Web site in printed
+material (para. 29). Although the hyperlinks provided “immediate access to
+material published on another website” (para. 30), they did not make Mr. Newton
+a publisher of what readers would find if they chose to click on the link.
+Kelleher J. endorsed the proposition of the British Columbia Court of Appeal in
+Carter v. B.C. Federation of Foster Parents Assn., 2005 BCCA 398, 42
+B.C.L.R. (4th) 1, that “reference to an article containing defamatory comment
+without repetition of the comment itself should not be found to be a
+republication of such defamatory [comment]” (para. 33). He cautioned, however,
+that this did not mean that a hyperlink can never lead to liability for
+defamation. If Mr. Newton had written “the truth about Wayne Crookes is found here”
+and the word “here” was a hyperlink to defamatory information, Kelleher
+J. might have concluded differently (para. 34). [71]                         
+A majority of the British Columbia Court of
+Appeal dismissed the appeal (2009 BCCA 392, 96 B.C.L.R. (4th) 315). The judges
+were unanimous in rejecting Mr. Crookes’ argument that the creation of a
+hyperlink leads to a presumption of publication of the information to which the
+link points. Prowse J.A., who spoke for the court on this issue, noted that the
+legislature had provided for a presumption of publication in the case of
+broadcasts and newspapers, but not of the Internet (paras. 32-33). She was not
+prepared to create such a presumption on the basis of the record before her,
+and she expressed the opinion that this was a matter that might more
+appropriately be determined by the legislature (para. 41). [72]                         
+Saunders J.A. (Bauman J.A. concurring) wrote the
+reasons of the majority on the issue of whether publication could be inferred
+from the circumstances of the case. In her view, it could not. Accepting the
+bilateral nature of publication, she found that the hyperlinks did not satisfy
+the requirements of the first component of the definition of that term. She
+relied on the same jurisprudence as Kelleher J. in support of the proposition
+that merely referring to defamatory information without repeating it does not
+constitute publication (para. 81, citing Carter; MacFadden v. Anthony,
+117 N.Y.S.2d 520 (Sup. Ct. 1952); Klein v. Biben, 296 N.Y. 638 (1946)).
+However, the circumstances of a case can demonstrate that a particular
+hyperlink invited or encouraged a reader to view the hyperlinked site, or that
+the information on that site was endorsed (para. 84). The majority held that
+there were no such circumstances in the instant case and that the way Mr.
+Newton presented the hyperlinks to potential users was “most comparable to a
+footnote for a reader, or a card index in a library” (para. 89). On the second
+component of publication, Saunders J.A. expressed the opinion that the bare
+number of 1,788 hits on Mr. Newton’s article was insufficient to support an inference
+that at least one person other than Mr. Crookes had clicked on the hyperlinks
+and read the allegedly defamatory information (para. 92). [73]                         
+Prowse J.A., dissenting, agreed with the
+majority on the first component of publication, but held that the circumstances
+of the case supported an inference that readers had been actively encouraged by
+Mr. Newton to click on the hyperlinks. In other words, the hyperlinks were
+being presented in such a way that they operated as more than simple footnotes.
+Furthermore, on the second aspect of publication, Prowse J.A. was prepared to
+infer that at least one person in British Columbia had clicked on the
+hyperlinks and read the impugned information. As a result, she found that there
+had been publication and stated that she would have allowed the appeal. II.      Positions of the Parties [74]                         
+Mr. Crookes argues that there is a presumption
+of publication whenever there are facts from which it can reasonably be
+inferred that the allegedly defamatory information was brought to the knowledge
+of some third person. Applying this proposition to hyperlinks, he contends that
+given the “deliberateness, immediacy and facilitation of access [to
+information]” that characterizes such links, the hyperlinked information should
+be understood to have been incorporated into the Web page on which the links
+were embedded. As a result, “[i]t can be reasonably inferred that embedding a
+hyperlink in the primary article brings the contents of the hyperlinked
+material to the knowledge of a third person [who accesses that article]” (A.F.,
+at paras. 61-62). [75]                         
+Building on these arguments, Mr. Crookes also
+submits that the circumstances of this case would support an inference of
+publication. He disputes the position of the majority of the Court of Appeal
+that Mr. Newton’s hyperlink was comparable to a footnote, arguing that “[i]n
+the present case the barrier to accessing the defamatory comment is attenuated.
+All that is required is a keystroke” (A.F., at para. 75). He endorses Prowse
+J.A.’s approach, supporting her finding that the context of Mr. Newton’s
+hyperlinks, together with the 1,788 hits on Mr. Newton’s article, was
+sufficient to support an inference that at least one of those who read the
+article had clicked on the hyperlinks and read the allegedly defamatory information. [76]                         
+As for Mr. Newton, he rejects the view that
+publication should be presumed or inferred in the case of hyperlinks.
+Furthermore, he supports the finding of Kelleher J. and of the majority of the
+Court of Appeal that the evidence of 1,788 hits on his article was insufficient
+to support a conclusion that readers of the article had actually clicked on the
+hyperlink and read the allegedly defamatory information (R.F., at para. 35). [77]                         
+More fundamentally, Mr. Newton’s position is
+that hyperlinking does not constitute publication: a user-activated hyperlink
+“involves no transmission, copying or presentation of the alleged defamation,
+no control over its content, and no control over whether a reader makes the
+choice to follow the hyperlink” (R.F., at para. 58). He disputes the view that
+the fact that a hyperlink facilitates access to the linked information should
+justify a finding of publication, since publication “only occurs when a message
+is both posted and read” (para. 57). He also submits that, since any user-activated
+hyperlink could to some degree be considered an “invitation” to click on the
+link, it would be wrong to find that there was publication on the basis of such
+an invitation. This submission, too, is based on the principle that publication
+is not complete until the allegedly defamatory information is read. Finally,
+the fact that the creation of a hyperlink was deliberate cannot in itself be
+the basis for a finding of publication, since the question is “whether the
+bilateral posting/reading test for publication is met, and the insertion of a
+hyperlink alone does not meet either part of the test” (para. 85). III.    Positions of the Interveners [78]                         
+The interveners in this appeal take divergent
+approaches to when, if ever, a hyperlink could be said to constitute
+publication of the information to which it refers. The approach of my colleague
+Abella J. most closely resembles that of the Canadian Civil Liberties
+Association, which argues that publication “should be reserved for those
+situations where an individual actually communicates the allegedly defamatory
+words” (Factum, at para. 52). The result my colleague reaches is also
+consistent with the position taken by a group of interveners composed of print,
+broadcast and Internet media organizations. They argue that hyperlinks should
+never be equated with publication, because that would threaten the ability of
+its members to compete and fulfil their mandates in the Internet age (Media
+Coalition Factum, at paras. 42-43). [79]                         
+Certain other interveners — the British Columbia
+Civil Liberties Association (“BCCLA”), the Samuelson-Glushko Canadian Internet
+Policy and Public Interest Clinic (“CIPPIC”), and NetCoalition — accept that
+hyperlinking may constitute publication in appropriate circumstances, but seek
+to restrict those circumstances to instances involving variants of knowledge or
+explicit endorsement or adoption of linked information by the hyperlinker
+(e.g., BCCLA Factum, at paras. 22 and 24; CIPPIC Factum, at para. 2;
+NetCoalition Factum, at para. 4). CIPPIC takes this argument a step further,
+submitting that a plaintiff must prove publication on “a convincing evidentiary
+basis” (Factum, at para. 4). Finally, NetCoalition submits that, where a
+hyperlinker has not explicitly endorsed defamatory information or where there
+is no nexus between the hyperlink and such an endorsement, a defence of
+innocent dissemination should be available (Factum, at para. 34). IV.    Analysis [80]                         
+When a plaintiff seeks to establish prima facie liability
+for defamation, the court must not only consider whether the impugned
+information can reasonably be said to be defamatory and whether it in fact
+refers to the plaintiff, but must also consider the question of publication to
+a third party, bearing in mind the bilateral nature of publication. To be published,
+defamatory words must be “communicated” (Grant, at para. 28).
+“Communication” means that a message is both sent in a comprehensible form, and
+received and understood. Publication does not occur until “the defamatory
+matter is brought by the defendant or his agent to the knowledge and
+understanding of some person other than the plaintiff” (McNichol v. Grandy,
+[1931] S.C.R. 696, at p. 704, per Duff J. (as he then was); Brown, at
+paras. 7.2 and 7.8; Gatley on Libel and Slander (11th ed. 2008), at p. 164). [81]                         
+To determine whether an act can form the basis for a finding of
+publication, it is first necessary to consider the nature of the act itself. [82]                         
+Acts that may form the basis for a finding of publication and
+which may ultimately attract liability for defamation have never been limited
+to acts of the author or creator of the defamatory information. Rather, “[a]ll
+those jointly responsible for the publication are liable. Liability extends to
+all those who take part in the publication of the defamatory material,
+including those who merely cause or procure it to be published” (Brown, at
+para. 7.4 (footnotes omitted); Gatley on Libel and Slander, at p. 169; Lambert
+v. Thomson, [1937] O.R. 341 (C.A.), at p. 344: “. . . where the libel is
+published in a newspaper or book, everyone who takes part in publishing it or
+in procuring its publication is prima facie liable”). As this Court
+noted in Botiuk v. Toronto Free Press Publications Ltd., [1995] 3 S.C.R.
+3, at para. 75, “the design or agreement of persons to participate in acts
+which are tortious” is sufficient for them to be found liable for defamation as
+joint concurrent tortfeasors even if “they did not realize they were committing
+a tort”. [83]                         
+Historically, it has been understood that the precise method
+employed to make information available is immaterial: “There are no limitations
+on the manner in which defamatory matter may be published” (Brown, at para.
+7.3). In Day v. Bream (1837), 2 M. & Rob. 54, 174 E.R. 212, for
+example, a person who merely delivered parcels was held prima facie
+liable for putting them into publication; and in R. v. Clerk (1728), 1
+Barn. K.B. 304, 94 E.R. 207, a case referred to by my colleague Abella J., a
+printer’s servant whose sole role was to “clap down” the printing press was
+found to be responsible for publication. However, the law has changed in the
+centuries that have elapsed since Day v. Bream and R. v. Clerk. [84]                         
+The courts have begun incrementally to impose limitations on the
+nature and types of actions that can attract liability for defamation at common
+law. To understand this evolution, it will be helpful to look broadly at cases
+from both the United States and other common law jurisdictions, such as England
+and Australia. I note that in considering the U.S. cases, we must be mindful of
+the impact of the First Amendment on the protection of expression in the United
+States, and of certain significant statutory limits on liability (see comments
+to this effect: Godfrey v. Demon Internet Ltd., [1999] 4 All E.R. 342
+(Q.B.), at pp. 343-44; Dow Jones & Co. v. Gutnick, [2002] HCA 56,
+210 C.L.R. 575, at para. 52). [85]                         
+There appears to be an emerging consensus among the courts and
+commentators that only deliberate acts can meet the
+first component of the bilateral conception of publication. According to
+Prof. Brown, “a person must knowingly be involved in the process of
+publishing the relevant words” (para. 7.4 (emphasis added)). In
+Stanley v. Shaw, 2006 BCCA 467, 231 B.C.A.C. 186, pleading that the defendants “said and did nothing” (para. 7) was
+held to be insufficient to support a finding of publication, because no
+tortious act had been alleged in relation to their silence (see also Smith
+v. Matsqui (Dist.) (1986), 4 B.C.L.R. (2d) 342 (S.C.), at p. 355; Wilson
+v. Meyer, 126 P.3d 276 (Colo. Ct. App. 2005), at p. 281 (“[a] plaintiff
+cannot establish [publication] by showing that the defendant silently adopted a
+defamatory statement”); Pond v. General Electric Co., 256 F.2d 824 (9th
+Cir. 1958), at p. 827 (“[s]ilence is not libel”); Brown, at
+para. 7.3). In Scott v. Hull, 259 N.E.2d 160 (Ohio Ct. App. 1970), at p.
+162, a U.S. court held that “liability to respond in damages for the publication
+of a libel must be predicated on a positive act, on something done by the
+person sought to be charged”. I agree with this view. [86]                         
+A deliberate act may occur in a variety of circumstances. In
+Byrne v. Deane, [1937] 1 K.B. 818 (C.A.), the defendants, proprietors of a
+golf club, were found to have published the words contained on a piece of paper
+that was posted on premises over which they held complete control. The
+defendants admitted to having seen the paper, but denied having written it or
+put it there. Although the words were ultimately found not to be defamatory,
+Greene L.J., concurring on the issue of publication, concluded that there are
+circumstances in which, by refraining from removing or obliterating defamatory
+information, a person might in fact be publishing it (at p. 838):                     The test
+it appears to me is this: having regard to all the facts of the case is the
+proper inference that by not removing the defamatory matter the defendant
+really made himself responsible for its continued presence in the place where
+it had been put? (See also Hellar v. Bianco, 244
+P.2d 757 (Cal. Dist. Ct. App. 1952); Tacket v. General Motors Corp.,
+836 F.2d 1042 (7th Cir. 1987); Urbanchich v. Drummoyne Municipal Council
+(1991), Aust. Torts Rep. ¶81-127 (N.S.W.S.C.).) [87]                         
+Byrne and its progeny are consistent with the requirement
+that any finding of publication be grounded in a deliberate act. If a defendant
+was made aware (or had reason to be aware) of defamatory information over which
+he or she had sufficient control but decided to do nothing about it, this
+nonfeasance might amount to a deliberate act of approval, adoption, promotion,
+or ratification of the defamatory information (see, e.g., Frawley v. State
+of New South Wales, [2007] NSWSC 1379 (AustLII)). The inference is not automatic,
+but will depend on an assessment of the totality of the circumstances. In Underhill
+v. Corser, [2010] EWHC 1195 (BAILII) (Q.B.), the defendant, who was
+treasurer and a board member of a charity, had been aware that an editorial
+levelling accusations against the plaintiff would be published, but took no
+action and gave no further thought to the matter. Although Tugendhat J. found
+that the defendant could have prevented the publication of the editorial, which
+the plaintiff alleged to be defamatory, he distinguished Byrne,
+concluding that the defendant’s role as a board member was different from that
+of the proprietors in Byrne (para. 110). [88]                         
+This requirement of a deliberate act has already been applied in
+the context of the Internet. In Godfrey, the defendant Internet service
+provider (“ISP”) had received a “posting”, which it stored on its news server.
+The plaintiff had notified the ISP that the posting was defamatory and
+requested that it be removed, but the defendant had allowed it to remain on its
+servers until it automatically expired 10 days later. The court held that the
+ISP’s failure to act, once it had become aware of the defamatory information
+over which it had control, constituted an act of publication once an Internet
+subscriber had accessed the posting. In the circumstances of the case, the
+ISP’s failure to act amounted to a deliberate act of approval, adoption,
+promotion or ratification of the defamatory information. [89]                         
+In Bunt v. Tilley, [2006] EWHC 407, [2006] 3 All E.R. 336
+(Q.B.), the defendant ISPs were found not to be publishers because, even though
+they provided services, their role in the publication process was a passive
+one. This aspect of the decision in Bunt is a
+welcome development and should be incorporated into the Canadian common law.
+Those whose services are used to facilitate the communication of defamatory
+information may be shielded from responsibility for publication if they played
+a “passive instrumental role” in that process (para. 23). [90]                         
+A case that illustrates the nature of activities engaged in by a
+person who plays the role of a mere conduit is Metropolitan International
+Schools Ltd. v. Designtechnica Corpn., [2009] EWHC 1765, [2011] 1 W.L.R.
+1743 (Q.B.). In that case, the question was whether Google Inc. could be found
+to be the publisher of the search result “snippets” that were generated
+automatically by its search engine in response to search terms entered by
+users. Eady J. found that there was no publication, because Google Inc. played
+a passive instrumental role in facilitating the appearance of the snippets on
+the users’ screens (paras. 50-51). [91]                         
+It should be plain that not every act
+that makes the defamatory information available to a third party in a
+comprehensible form might ultimately constitute publication. The plaintiff must
+show that the act is deliberate. This requires showing that the defendant
+played more than a passive instrumental role in making the information
+available. [92]                         
+The question that remains is whether, even with
+these emerging limits on the common law principle, further refinements are
+necessary. While I agree that improvements can be made, I do not share the view
+of my colleague Abella J. that the solution is to exclude references, including
+hyperlinks, from the scope of the publication rule.  In my view, the proper
+approach is (1) to explicitly recognize the requirement of a deliberate act as
+part of the Canadian common law publication rule, and (2) to continue
+developing the rule incrementally in order to circumscribe the manner in which
+a deliberate act must make defamatory information available if it is to result
+in a finding of publication. [93]                         
+More specifically, only where the plaintiff can
+establish on a balance of probabilities that the defendant performed a
+deliberate act that made defamatory information readily available to a
+third party in a comprehensible form will the requirements of the first
+component of publication be satisfied. Of course, before the court will make a
+finding of publication, the plaintiff must also satisfy the requirements of the
+second component of publication on a balance of probabilities, namely, that the
+“defamatory matter [was] brought by the defendant or his agent to the
+knowledge and understanding of some person other than the plaintiff” (McNichol,
+at p. 704). [94]                         
+Whether defamatory information is readily available is a question
+of fact. A court asked to infer that information has been made readily
+available should consider all circumstances related to the ease with which a
+third party would be able to gain access to it. Defamatory information is
+readily available if, in the circumstances, it can be immediately accessed. In
+other words, there must be no meaningful barrier that would prevent a third
+party from receiving it. In practice, this will not effect a significant change
+to the common law, since, for the vast majority of acts that presently make
+information available, there is nothing to prevent the information in question
+from being received by third parties; they need only use their eyes to read or
+view it, or their ears to hear it. Of course, if those third parties cannot understand
+it, that is a separate concern, one that would on its own bar a finding of
+publication. [95]                         
+But the requirement that defamatory information be readily
+available does result in an incremental change to the common law in those cases
+where the act complained of refers third parties to defamatory information. It
+narrows the circumstances in which the requirements of the first component of
+publication will be satisfied. In such instances, the totality of circumstances
+will reveal whether a third party can have immediate access — without any
+meaningful barriers — to the information to which the reference directs him or
+her. [96]                         
+What should be clear from this is that not all forms of
+references are the same as regards the extent to which they facilitate access
+to the information in question. While my colleague’s statement that
+“[h]yperlinks are, in essence, references” (para. 27) is superficially correct,
+it is inaccurate to equate a hyperlink with, for example, a footnote in a book.
+A footnote that does not actually reproduce the information to which the reader
+is being referred does not make that information readily available. The reader
+has to locate and obtain the document the footnote refers to and then find the
+information within the document. In contrast, an automatic hyperlink requires
+no action whatsoever, while an embedded deep hyperlink requires only the tap of
+a finger to gain access to the information. The effort involved is even less
+than that of turning a page in a book. Although it is of course true that
+hyperlinks are a form of reference, the extent to which they facilitate access
+and their ubiquity on the Internet cannot be overlooked. [97]                         
+This Court has previously recognized the ease with which information
+can be accessed by means of a hyperlink. In Dell, a hyperlink to an
+arbitration clause was considered in relation to a provision of the Civil
+Code of Québec, S.Q. 1991, c. 64, designed to deal with contractual
+stipulations — known as external clauses — that are physically separate from
+the contract itself. Adopting a contextual approach, the Court held that the
+hyperlinked arbitration clause should not be considered physically separate
+from the main contract document (at para. 97):                     .
+. . it is difficult to accept that the need for a single command by the user
+[i.e. clicking on a single hyperlink] would be sufficient for a finding that
+the provision governing external clauses is applicable.  Such an
+interpretation would be inconsistent with the reality of the Internet
+environment, where no real distinction is made between scrolling through a
+document and using a hyperlink.  Analogously to paper documents, some Web
+documents contain several pages that can be accessed only by means of
+hyperlinks, whereas others can be viewed by scrolling down them on the
+computer’s screen.  There is no reason to favour one configuration over
+the other. The arbitration clause in
+Dell was found to be reasonably accessible, since clicking on one hyperlink
+took the consumer directly to a page containing the terms and conditions of the
+sale, including the arbitration clause. Thus, there was no material distinction
+between having access to the clause by hyperlink and actually having a paper
+copy of it (at para. 100):                     .
+. . the clause was no more difficult for the consumer to access than would have
+been the case had he or she been given a paper copy of the entire contract on
+which the terms and conditions of sale appeared on the back of the first page. [98]                         
+What can be inferred from the circumstances in Dell
+is that the hyperlinked arbitration clause was, in fact, readily available: a
+link to it appeared on every Web page the consumer accessed, and all the
+consumer had to do to view the clause was to click on the link once (para.
+100). [99]                         
+Because the inquiry into availability is essentially factual, it
+would be neither prudent nor desirable to attempt to adopt a bright-line rule
+indicating the exact time when something becomes “readily” available. Such an
+approach could hinder the evolution of the common law. However, given the
+context of this appeal, a few specific observations about hyperlinks are in
+order. In determining whether hyperlinked information was readily available, a
+court should consider a number of factors, including whether the hyperlink was
+user-activated or automatic, whether it was a shallow or a deep link, and
+whether the linked information was available to the general public (as opposed
+to being restricted). This list of factors is by no means exhaustive. Any
+matter that has a bearing on the ease with which the referenced information
+could be accessed will be relevant to the inquiry. [100]                     
+The effect of this approach is not to create a
+“presumption of liability for all hyperlinkers”, as Abella J. suggests (para.
+25). In order to satisfy the requirements of the first component of
+publication, the plaintiff must establish, on a balance of
+probabilities, that the hyperlinker performed a deliberate act that made
+defamatory information readily available to a third party in a comprehensible
+form. Moreover, the plaintiff will also have to satisfy the requirements of the
+second component of publication on a balance of probabilities, namely that a
+third party received and understood the defamatory information. [101]                     
+My colleague Abella J. states that “[r]eferencing on its own does
+not involve exerting control over the content” (para. 26 (emphasis in
+original)). Yet the concept of publication in the common law of defamation has
+never involved a rigid requirement of control. Instead, the inquiry has always
+been contextual: Did the defendant act knowingly and what were the consequences
+of his actions? (See Brown, at para. 7.3.) Although a formal distinction can of
+course be drawn between references and other acts of publication, this
+distinction evades the questions that are at the heart of the law of
+defamation. Where a person deliberately makes defamatory information readily
+available through the creation of a hyperlink, the very rationale for the tort
+of defamation comes into play. [102]                     
+Because of the fluidity that characterizes the Internet and of
+the variety in types of hyperlinks, the Court should be particularly reluctant
+to fashion a bright-line rule. The approach it adopts must ensure that the law
+is properly attuned to how hyperlinks function in practice and how they may
+evolve in the future. Merely excluding hyperlinks from the scope of the
+publication rule will hardly make it possible to adapt the law of defamation to
+technological change. [103]                     
+By exempting ISPs from liability for their passive conduct, U.S.
+legislators have, in the Communications
+Decency Act of 1996, 47
+U.S.C. §230 (1996), relied on the same criterion of deliberateness that
+exists in the common law of defamation. Nowhere does the American legislation
+suggest that those who deliberately create hyperlinks to defamatory material
+should be protected from liability. The cases cited by my colleague (at para.
+28 of her reasons) all deal with the immunity enjoyed by ISPs and Web site operators
+with respect to defamatory content posted on line (Zeran v. America Online, Inc., 129 F.3d 327 (4th Cir. 1997); Barrett
+v. Rosenthal, 146 P.3d 510 (Cal. 2006); Fair Housing Council of San
+Fernando Valley v. Roommates.Com, LLC, 521 F.3d 1157 (9th Cir. 2008)). [104]                     
+In the English case of Islam Expo Ltd. v. The
+Spectator (1828) Ltd., [2010] EWHC 2011 (BAILII)
+(Q.B.), the issue was whether the words complained of were capable of
+referring to the claimant. The allegedly defamatory information in that case
+was an on-line text containing four hyperlinks. In concluding that the words
+complained of were capable of referring to the claimant, the court regarded the
+hyperlinked information as if it was incorporated into the message containing
+the hyperlinks. At a conceptual level, I see no difference between looking at
+the hyperlinked information to identify the defamed person and looking at it to
+find the defamatory words. I agree with Tugendhat J.’s statement in Islam
+Expo that the principles are the same. [105]                     
+Finally, if hyperlinks are excluded from the traditional
+conception of publication, there is a risk that freedom of expression will be
+favoured over reputational interests despite this Court’s pronouncement that
+they are “equally important” (Hill, at para. 121). Although I agree with
+my colleague that the most effective remedy for someone who has been defamed on line is to sue the person who created
+the defamatory material (para. 41), it may not always be possible to do so in
+the context of the Internet. A hyperlink can make public what was originally
+intended for only a select audience. Moreover, anonymity is easy to achieve on
+line, and who created the defamatory material may not always be known. If no
+remedy exists against “mere” hyperlinkers, persons defamed on line may in many
+cases not be able to protect their reputations. [106]                     
+In sum, an approach
+that focuses on how a hyperlink makes defamatory information available offers a
+more contextual and more nuanced response to developments in communications
+media than merely excluding all hyperlinks from the scope of the publication
+rule. [107]                     
+Of course, proving that the hyperlinker deliberately made the
+defamatory content readily available will satisfy only the requirements of the
+first component of publication. To satisfy the requirements of the second
+component, the plaintiff must demonstrate that a third party received and
+understood the defamatory information (McNichol, at p. 704; Brown, at
+paras. 7.2 and 7.8; Gatley on Libel and Slander, at p. 164). [108]                     
+I agree with the Court of Appeal in the instant
+case that a legal presumption should not be created in this regard. The
+legislatures of certain provinces, including British Columbia, have created
+presumptions of publication that apply to particular communications media.
+Under the Libel and Slander Act, R.S.B.C. 1996, c. 263, there is a
+presumption of publication in respect of “broadcast[s]” but not in respect of
+hyperlinks (s. 2). Since the legislature has seen fit to create a specific
+presumption of publication, the Court should refrain from creating a new one. [109]                     
+Absent a presumption of publication, the
+requirements of the second component of publication can be satisfied either by
+adducing direct evidence or, and this is more likely, by asking the court to
+draw an inference. Inferring that defamatory information has been read and
+understood is not new. In Gaskin, the Court, quoting Gatley on Libel and Slander, observed
+(at p. 300):                                      It
+is not necessary for the plaintiff in every case to prove directly that the
+words complained of were brought to the actual knowledge of some third person.
+If he proves facts from which it can reasonably be inferred that the words were
+brought to the knowledge of some third person, he will establish a prima facie
+case. [110]                     
+In the context of a hyperlink, an inference that a third party
+clicked on the link and read and understood the linked information will depend
+on a variety of factors, some of which may overlap with those considered when
+determining whether the linked content was made “readily available”. Some, but
+not necessarily all, of the factors a court can consider are: whether the link
+was user-activated or automatic; whether it was a deep or a shallow link;
+whether the page contained more than one hyperlink and, if so, where the
+impugned link was located in relation to others; the context in which the link
+was presented to users; the number of hits on the page containing the
+hyperlink; the number of hits on the page containing the linked information
+(both before and after the page containing the link was posted); whether access
+to the Web sites in question was general or restricted; whether changes were
+made to the linked information and, if so, how they correlate with the number
+of hits on the page containing that information; and evidence concerning the
+behaviour of Internet users. [111]                     
+Abella J. indicates that merely
+referring to defamatory material does not constitute publication of it (para.
+42). Insofar as this means that a simple reference should not attract liability
+for defamation absent evidence that satisfies the requirements of both
+components of publication on a balance of probabilities, I agree. But if it
+means that a simple reference cannot form the basis for a finding of
+publication without actually expressing something defamatory, I cannot agree. [112]                     
+As the Court held in Grant,
+at para. 28, a plaintiff in an action for defamation is required to prove three
+things to succeed: (1) that the impugned words were defamatory, (2) that the
+words referred to the plaintiff and (3) that they were published. Once the
+plaintiff establishes prima facie liability for defamation, the onus
+shifts to the defendant to raise any available defences. There are some
+defences that are worth discussing briefly in the context of hyperlinking. [113]                     
+The Court has in the past alluded
+to the existence of an “innocent dissemination” defence: SOCAN. In that
+case, this defence was described as follows (at para. 89):                     .
+. . the defence of innocent dissemination [is] sometimes available to
+bookstores, libraries, news vendors, and the like who, generally speaking, have
+no actual knowledge of an alleged libel, are aware of no circumstances to put
+them on notice to suspect a libel, and committed no negligence in failing to
+find out about the libel . . . . [114]                     
+In my view, the innocent
+dissemination defence should be made available to hyperlinkers, provided that
+the criteria mentioned in SOCAN are satisfied. There are good reasons
+for so holding. Hyperlinkers have not created or developed the information to
+which they link. Moreover, although the creation of a hyperlink may often be a
+deliberate act that makes the creator’s role more than a passive one, the
+hyperlinker often has little control, if any, over the linked information. This
+last point is significant given the dynamic nature of the Internet. A hyperlink
+may originally be created to link to information that is not defamatory, but
+the linked information may subsequently be altered so as to become defamatory
+without the hyperlinker’s knowledge. In such circumstances, provided that the
+criteria mentioned in SOCAN are satisfied, the innocent dissemination
+defence should operate until the moment the hyperlinker becomes aware that he
+or she is now linking to allegedly defamatory information. If this defence were
+widely available, it should dissuade overeager litigants from having a chilling
+effect on hyperlinking on the Internet. [115]                     
+Even when the innocent
+dissemination defence is not available to hyperlinkers, other defences may
+apply, such as those of fair comment (WIC) and of responsible
+communication on matters of public interest (Grant). In Grant,
+the Court, quoting Jameel v. Wall Street Journal Europe SPRL, [2006]
+UKHL 44, [2007] 1 A.C. 359, at para. 54, made the latter defence “available to anyone who publishes material of public interest in any medium”
+(para. 96). Moreover, it defined the concept of “public interest” expansively
+(at para. 106):                             Public
+interest is not confined to publications on government and political matters,
+as it is in Australia and New Zealand.  Nor is it necessary that the plaintiff
+be a “public figure”, as in the American jurisprudence since Sullivan [New
+York Times Co. v. Sullivan, 376 U.S. 254 (1964)].  Both qualifications cast
+the public interest too narrowly. The public has a genuine stake in knowing
+about many matters, ranging from science and the arts to the environment,
+religion and morality. The democratic interest in such wide-ranging public
+debate must be reflected in the jurisprudence. [116]                     
+These defences, when available, would enable the
+hyperlinker to justify his or her conduct and avoid liability. [117]                     
+It should be evident that the law of defamation,
+viewed as a whole, is the result of a sustained effort to maintain a balance
+between the protection of reputation and freedom of expression. An approach
+that limits the discussion to the fact that what is in issue is a reference and
+disregards the context, including the nature of the reference and the various
+aspects of the law of defamation, is too narrow. In my view, the question of
+publication must be approached from a wider perspective, bearing in mind the
+incremental adjustments made to the law of defamation in recent years (e.g., WIC
+and Grant). Moreover, any further adjustments to defamation law
+should also be made incrementally, not by way of a sweeping declaration that
+treats all forms of reference alike and rules out the possibility of a
+reference to defamatory material supporting a finding of publication. V.     Application [118]                     
+Mr. Newton admits that he created the two hyperlinks
+which refer readers to the allegedly defamatory information. [119]                     
+Mr. Newton’s involvement in creating the
+hyperlinks cannot be described as a passive instrumental role equivalent to
+that of a mere conduit, such as an ISP or a telephone carrier. His acts were
+deliberate. Moreover, it is common ground that the allegedly defamatory
+information to which Mr. Newton linked was available to Internet users in a
+comprehensible form, and without restrictions. The question is whether the
+information was readily available. [120]                     
+The first link, “OpenPolitics.ca”, was a
+shallow link to the Open Politics Web site. The evidence indicates that to
+consult the allegedly defamatory articles on that Web site,  Internet users who
+initially clicked on the shallow link would then have had to take further
+action (i.e. click on other links) to locate them. [121]                     
+The second link, “Wayne Crookes”,
+was a deep link to an article on www.USGovernetics.com that Mr. Crookes also
+alleges to be defamatory. Clicking on the link would take a user directly to
+the allegedly defamatory information. [122]                     
+Both of these hyperlinks appeared in an article entitled “Free
+Speech in Canada”, which contained five other hyperlinks. The article dealt
+with free speech and defamation law, and referred to lawsuits concerning these
+issues. There were 1,788 hits on it between July 18, 2006, when it was created,
+and February 1, 2008. [123]                     
+There is nothing in the record that indicates whether anyone
+other than Mr. Crookes clicked on any of the links. Nor is there any
+information, from any point in time, on the number of hits on the Web pages
+containing the allegedly defamatory statements. And no evidence has been
+presented regarding the behaviour of Internet users. [124]                     
+Having regard to the totality of the circumstances, I am not
+prepared to infer in this case that the link to the Open Politics Web site made
+the defamatory content readily available. Because this was a shallow link, the
+reader would have to take further action in order to find the defamatory
+material. Exactly what action would have been necessary is unclear, but the
+evidence indicates that the various articles were not placed on the site’s home
+page and that they had separate addresses. This constituted a meaningful
+barrier to the receipt, by a third party, of the linked information. Insofar as
+Mr. Crookes’ defamation action against Mr. Newton is premised on this
+hyperlink, it cannot succeed. [125]                     
+However, I am prepared to infer that the “Wayne Crookes”
+link to the allegedly defamatory article on www.USGovernetics.com did make the
+content of that article readily available.  It was a deep link. All the reader
+had to do to gain access to the article was to click on the link. The effort
+required to do this is not significantly different from the effort that would
+be required to move up or down the same page to read the article. A single
+click does not constitute a barrier to the availability of the material. Thus,
+Mr. Crookes has satisfied the requirements of the first component of
+publication on a balance of probabilities where this link is concerned. [126]                     
+On the second component of publication, I agree with the Court of
+Appeal, which was unanimous on this point, that the courts should not create a
+presumption of publication with respect to hyperlinks. As I mentioned above,
+and as Prowse J.A. explained (at para. 41), the creation of a new presumption
+in this field is a matter that would be better left to the legislature. [127]                     
+The determinative question is therefore whether Mr. Crookes has
+proven facts from which it can reasonably be inferred that the allegedly
+defamatory information was brought to the knowledge of some third person. On
+this point, I agree with the majority of the Court of Appeal that the evidence
+in this case does not support such an inference. I come to this conclusion
+mindful of the Internet context, the nature of Mr. Newton’s article, the way
+the various links were presented, the facts that the “Wayne Crookes”
+link was the third of seven links contained in Mr. Newton’s article and that at
+least one shallow link appeared before it, and the number of hits on the
+article between July 18, 2006, and February 1, 2008. Numbers take on a different
+meaning in the context of the Internet. The number of hits on Mr. Newton’s
+article — 1,788 — in the 18-month period does not provide a sufficient basis
+for concluding that out of the seven hyperlinks, someone has both clicked on
+the only link that made the defamatory information readily available and read
+that information. [128]                     
+ In Internet law, as it presently stands, a bare number of hits
+will tell the trier of fact very little. As the majority of the Court of Appeal
+noted (at para. 92):                     In
+the context of internet life, we have no way to assess the volume of “hits”
+here compared to the norm, the usual behaviour of internet readers or
+“surfers”, or the jurisdiction in which they reside. The conclusion drawn by my
+colleague is, with respect, tantamount to a presumption that in the case of a
+website accessed to any significant extent, there has been communication of the
+offensive material. . . . There may be cases in which
+more is known supporting such an inference, but such is not the case here where
+all that is before us is the bald number of hits. In my view there is an
+insufficient basis upon which to make such an inference . . . . [129]                     
+Because Mr. Crookes has not established facts supporting the
+second component of publication, he cannot succeed in his defamation action
+with respect to either of the impugned hyperlinks. [130]                     
+As a final comment, I would point out that, even if Mr. Newton
+had been found prima facie to be liable for defamation, he could likely,
+having regard to the record before the Court, have raised one of the existing
+defences, given that his article concerned matters that were arguably of public
+interest. I conclude that the hyperlinks at issue in this case did not result
+in publication of the information to which they referred the reader, and I
+would therefore dismiss the appeal with costs.                     Appeal
+dismissed with costs.                     Solicitors
+for the appellants:  Taylor Jordan Chafetz, Vancouver; Stewart, Aulinger
+& Company, Vancouver.                     Solicitors
+for the respondent:  Owen Bird Law Corporation, Vancouver.                     Solicitors
+for the intervener the Canadian Civil Liberties Association:  Torys,
+Toronto.                     Solicitors
+for the intervener the Samuelson-Glushko Canadian Internet Policy and Public
+Interest Clinic:  Gowling Lafleur Henderson, Ottawa.                     Solicitors
+for the intervener NetCoalition:  Lenczner Slaght Royce Smith
+Griffin, Toronto.                     Solicitors
+for the intervener the British Columbia Civil Liberties
+Association:  Blake, Cassels & Graydon, Vancouver.                     Solicitors for the
+interveners the Canadian Newspaper Association, Ad IDEM/Canadian Media Lawyers
+Association, Magazines Canada, Canadian Journalists for Free Expression, the
+Writers’ Union of Canada, the Professional Writers Association of Canada, PEN
+Canada and the Canadian Publishers’ Council:  Farris, Vaughan, Wills
+& Murphy, Vancouver.   

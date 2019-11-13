@@ -1,0 +1,1532 @@
+SCC Case Information: 24855 Bow Valley Husky (Bermuda) Ltd. v. Saint John Shipbuilding
+Ltd., [1997] 3 S.C.R. 1210  Husky Oil Operations Ltd.                                                                Appellant
+(Plaintiff)  v.  Saint John Shipbuilding Limited, Raychem Canada Limited and Raychem Corporation                                                                                        Respondents
+(Defendants)  and  Bow Valley Husky (Bermuda) Ltd. and Bow Valley Industries Ltd.                                                                (Plaintiffs)  and between  Bow Valley Industries Ltd.                                                                Appellant
+(Plaintiff) v. Saint John Shipbuilding Limited, Raychem Canada Limited and Raychem Corporation                                                                                        Respondents
+(Defendants)  and  Bow Valley Husky (Bermuda) Ltd. and Husky Oil Operations Ltd.                                                                (Plaintiffs)   Saint John Shipbuilding  v.  Bow Valley Husky (Bermuda) Ltd.,  and  Raychem Canada Limited and Raychem Corporation                                                                                        (Defendants)    v.  Bow Valley Husky (Bermuda) Ltd.,  and  Saint John Shipbuilding Limited                                                        (Defendant)   v.  Saint John Shipbuilding Limited,  and  Husky Oil Operations Ltd. and Bow Valley Industries Ltd.           (Plaintiffs)  Indexed as:  Bow Valley Husky (Bermuda) Ltd. v.
+Saint John Shipbuilding Ltd.  File No.:  24855.  1997:  June 19; 1997:  December 18.  Present:  La Forest, Sopinka,*
+Gonthier, Cory, McLachlin, Iacobucci and Major JJ.  on appeal from the court of appeal for newfoundland      Husky Oil Operations Ltd. (“HOOL”) and Bow Valley
+Industries Ltd. (“BVI”) made arrangements to have an oil drilling rig
+constructed by Saint John Shipbuilding Limited (“SJSL”).  In order to take
+advantage of government financing, HOOL and BVI incorporated an offshore
+company, Bow Valley Husky (Bermuda) Ltd. (“BVHB”).  Before construction began,
+ownership of the rig and the construction contract with SJSL were transferred
+to BVHB.  HOOL and BVI entered into contracts with BVHB for the hire of the rig
+to conduct drilling operations at sites chosen by HOOL and BVI.  These
+contracts provided that HOOL and BVI would continue to pay day rates to BVHB in
+the event that the rig was out of service.  A heat trace system was required in
+order to prevent the rig’s pipes from freezing during the winter.  BVHB chose
+the Raychem system, which used Thermaclad wrap to keep moisture from the
+insulation and heat trace wire.  The specifications for the Raychem heat trace
+system required the installation of a ground fault circuit breaker system to
+cut off the power in the event of an electrical fault, to prevent arcing of the
+heat trace wire.  A functioning system was not installed until after a fire
+broke out on the rig, causing damage to a tray of electrical and communications
+cables.  As a result of the damage, the rig had to be towed to port for repairs
+and was out of service for several months.  BVHB, HOOL and BVI commenced an
+action against SJSL alleging breach of contract and negligence, and an action
+against Raychem for negligence.  BVHB claimed both for the cost of the repairs
+to the rig and for the revenue lost as a result of the rig being out of service
+for several months.  HOOL and BVI sought to recover the day rates that they
+were contractually required to pay to BVHB during the period the rig was out of
+service, as well as expenses they incurred for supplies to the rig, including
+food, drilling mud and additional equipment.  The trial judge held that the defendant SJSL was
+liable in contract and tort for failing to provide certificates of approval for
+the Thermaclad, and in tort for breach of duty to warn of the inflammability of
+Thermaclad.  He also held that the defendant Raychem was liable in tort for
+breach of its duty to warn.  The trial judge went on to hold that the major
+fault lay with BVHB for its operation of the heat trace system without a
+functioning ground fault circuit breaker system.  Moreover, it kept the heat
+trace system on, even when it might not have been required, despite incidents
+of arcing on the heat trace wires.  He apportioned the fault 60 percent to BVHB
+and 40 percent to SJSL and Raychem.  He did not award damages for breach of
+contract.  The trial judge dismissed the plaintiffs’ claim, however, on the
+ground that the case arose out of negligence at sea and was governed by
+Canadian maritime law, which precluded application of the Newfoundland Contributory
+Negligence Act and made contributory negligence a bar to recovery.  The Court of Appeal held that because the loss
+suffered by HOOL and BVI was economic in nature, it was not recoverable.  It
+agreed with the trial judge that maritime law applied, but held that provincial
+negligence legislation applied to maritime cases in some situations, including
+this case.  Alternatively, if the Newfoundland Contributory Negligence Act
+did not apply, the court held that maritime law no longer made contributory
+negligence a bar to recovery.  In the result, BVHB was held entitled to recover
+40 percent of its loss from SJSL and Raychem.    In all other respects, McLachlin J.’s analysis was
+agreed with.  Per La Forest and
+McLachlin JJ. (dissenting on SJSL’s cross-appeal with regard to the duty to
+warn):  Manufacturers and suppliers are required to warn all those who may
+reasonably be affected by potentially dangerous products.  This duty extends
+even to those persons who are not party to the contract of sale.  The potential
+user must be reasonably foreseeable to the manufacturer or supplier.  BVHB was
+clearly within the class of persons that SJSL and Raychem ought to have known
+might reasonably be affected by the use of Thermaclad.  SJSL was in a contractual
+relationship with BVHB, and Raychem had directly approached BVHB’s predecessor
+(a subsidiary of BVI) to encourage the use of its products in the construction
+of the rig.  The manufacturer or supplier remains liable unless the consumer’s
+knowledge negates reasonable reliance.  This occurs where the consumer has so
+much knowledge that a reasonable person would conclude that the consumer fully
+appreciated and willingly assumed the risk posed by use of the product.  Here
+BVHB did not have the degree of knowledge necessary to negate reliance on SJSL
+and Raychem.  SJSL and Raychem did not demonstrate that BVHB accepted the risk
+of using Thermaclad.  It follows that both SJSL and Raychem owed BVHB a duty to
+warn, subject to the special defences raised.   Raychem is not entitled to rely on the learned
+intermediary defence, which is an exception to the general rule requiring
+manufacturers to provide a warning to the ultimate consumers of their product. 
+The learned intermediary defence will generally only apply either where the
+product is highly technical and is to be used with expert supervision, or where
+the nature of the product is such that it is unrealistic for the consumer to
+receive a warning directly from the manufacturer.  Thermaclad was not a highly
+technical product, and its use and application did not require expert
+supervision.  Nor was it unrealistic to expect Raychem to have warned BVHB, the
+ultimate consumer, directly.  Raychem had both the opportunity and the duty to
+warn BVHB directly and therefore its duty to warn the plaintiffs was not
+discharged through its communications with SJSL.  Causation is established, on either a subjective or an
+objective standard.  A reasonable plaintiff or BVHB itself would have either
+declined to use Thermaclad or taken steps to deal with its inflammability had
+it been warned.  The equal apportionment of fault between SJSL and Raychem
+should not be interfered with.  While SJSL might have had less knowledge of the
+specific characteristics of Thermaclad, its knowledge of the general regulatory
+requirements was arguably greater, and it had greater contact with BVHB. The contractual relational economic loss suffered by
+HOOL and BVI is not recoverable.  The defendants owed a prima facie duty
+of care to BVI and HOOL.  They knew of the existence of these plaintiffs and
+others like them and knew or ought to have known that they stood to lose money
+if the drilling rig was shut down.  However, this prima facie duty of
+care is negatived by policy considerations.  The most serious problem is that
+of indeterminate liability.  If the defendants owed a duty to warn the
+plaintiffs, it is difficult to see why they would not owe a similar duty to a
+host of other persons who would foreseeably lose money if the rig was shut down
+as a result of being damaged.  Moreover, the facts of this case do not support
+liability to BVI and HOOL as an additional deterrent against negligence.  Since
+BVHB, the owner of the drilling rig, suffered a significant amount of property
+damage, it is not apparent that increasing the defendants’ potential liability
+would have led to different behaviour and avoidance of the loss.  Nor was this
+a case where the plaintiff’s ability to allocate the risk to the property owner
+by contract is slight, either because of the type of transaction or inequality
+of bargaining power.  BVI and HOOL not only had the ability to allocate their
+risks, but did just that.  BVHB was contributorily negligent, as found by the
+courts below.  The trial judge apportioned the majority of the fault to BVHB on
+the ground that its negligence in continuing to operate the heat trace system,
+even when unnecessary, outweighed the defendants’ negligence.  Since there was
+no demonstrable error in the trial judge’s appreciation of the facts or
+applicable legal principles, his finding that the liability should be
+apportioned 60 percent to BVHB and 40 percent to the defendants Raychem and
+SJSL should not be disturbed.   SJSL is not liable to BVHB in contract since the
+contractual issues have been settled and are no longer litigable.  Cases Cited  By Iacobucci J.    Distinguished:  Giffels
+Associates Ltd. v. Eastern Construction Co., [1978] 2 S.C.R. 1346; referred
+to:  Lambert v. Lastoplex Chemicals Co., [1972] S.C.R. 569; Hollis
+v. Dow Corning Corp., [1995] 4 S.C.R. 634; Rivtow Marine Ltd. v.
+Washington Iron Works, [1974] S.C.R. 1189; BG Checo International Ltd.
+v. British Columbia Hydro and Power Authority, [1993] 1 S.C.R. 12; London
+Drugs Ltd. v. Kuehne & Nagel International Ltd., [1992] 3 S.C.R. 299; Central
+Trust Co. v. Rafuse, [1986] 2 S.C.R. 147; Hunter Engineering Co. v.
+Syncrude Canada Ltd., [1989] 1 S.C.R. 426; University of Regina v.
+Pettick (1991), 45 C.L.R. 1; Queen v. Cognos Inc., [1993] 1 S.C.R.
+87; D’Amato v. Badger, [1996] 2 S.C.R. 1071; Ultramares Corp. v.
+Touche, 174 N.E. 441 (1931); Murphy v. Brentwood District Council,
+[1991] 1 A.C. 398; Canadian National Railway Co. v. Norsk Pacific Steamship
+Co., [1992] 1 S.C.R. 1021; Anns v. Merton London Borough Council,
+[1978] A.C. 728; Kamloops (City of) v. Nielsen, [1984] 2 S.C.R. 2; Hercules
+Managements Ltd. v. Ernst & Young, [1997] 2 S.C.R. 165; Winnipeg
+Condominium Corporation No. 36 v. Bird Construction Co., [1995] 1 S.C.R.
+85; Nance v. British Columbia Electric Railway Co., [1951] A.C. 601; Jones
+v. Livox Quarries Ld., [1952] 2 Q.B. 608; Snell v. Farrell, [1990] 2
+S.C.R. 311; Hughes v. Lord Advocate, [1963] A.C. 837; Overseas
+Tankship (U.K.) Ltd. v. Miller Steamship Co. Pty., [1967] 1 A.C. 617; Sparks
+v. Thompson, [1975] 1 S.C.R. 618; Taylor v. Asody, [1975] 2 S.C.R.
+414; ITO—International Terminal Operators Ltd. v. Miida Electronics Inc.,
+[1986] 1 S.C.R. 752; Whitbread v. Walley, [1990] 3 S.C.R. 1273; Stein
+v. The Ship “Kathy K”, [1976] 2 S.C.R. 802; Butterfield v. Forrester
+(1809), 11 East. 60, 103 E.R. 926; Toronto Transportation Commission v. The
+King, [1949] S.C.R. 510; The “Sobieski”(1949), 82 Ll.L.R. 370; Gartland
+Steamship Co. v. The Queen, [1960] S.C.R. 315; Algoma Central &
+Hudson Bay Railway Co. v. Manitoba Pool Elevators Ltd., [1964] Ex. C.R.
+505; Fraser River Harbour Commission v. The “Hiro Maru”, [1974] 1 F.C.
+490; Watkins v. Olafson, [1989] 2 S.C.R. 750; R. v. Salituro,
+[1991] 3 S.C.R. 654; Peters v. A.B.C. Boat Charters Ltd. (1992), 73
+B.C.L.R. (2d) 389; The Max Morris, 137 U.S. 1 (1890); Cooper
+Stevedoring Co. v. Fritz Kopke, Inc., 417 U.S. 106 (1974); United States
+v. Reliable Transfer Co., 421 U.S. 397 (1975); Edmonds v. Compagnie
+Générale Transatlantique, 443 U.S. 256 (1979); Merryweather v. Nixan
+(1799), 8 T.R. 186, 101 E.R. 1337; Sparrows Point v. Greater Vancouver Water
+District, [1951] S.C.R. 396; British Russian Gazette and Trade Outlook,
+Ltd. v. Associated Newspapers, Ltd., [1933] 2 K.B. 616.  Statutes and Regulations Cited    Civil Code of Québec, S.Q. 1991, c. 64, arts. 1478, 1523, 1526, 1536.  Constitution Act, 1867, s. 92 .   Maritime Conventions Act, 1914, S.C. 1914, c. 13.  Authors Cited    Canada.  Department of Justice. 
+Admiralty and Maritime Law Section. Eliminating Outmoded Common Law Defences
+in Maritime Torts:  A Discussion Paper.  Cane, Peter.  Tort Law and
+Economic Interests.  Oxford:  Clarendon Press, 1991.   Fleming, John.  “Tort in a
+Contractual Matrix” (1993), 5 Canterbury L. Rev. 269.  Klar, Lewis.  “Contributory
+Negligence and Contribution Between Tortfeasors”.  In Lewis Klar, ed., Studies
+in Canadian Tort Law.  Toronto:  Butterworths, 1977.  Salmond and Heuston on the Law
+of Torts, 21st ed.  By R. F. V. Heuston and R. A.
+Buckley.  London:  Sweet & Maxwell, 1996.  Tetley, William.  “A Definition of
+Canadian Maritime Law” (1996), 30 U.B.C. L. Rev. 137.    Anthony J. Jordan, Q.C.,
+Eric P. Groody and Susan M. Purcell, for Husky Oil
+Operations Ltd.  W. Ian C. Binnie, Q.C.,
+Harry Underwood, Bonita Croft and Camille A. Nelson, for
+Bow Valley Industries Ltd.  Michael F. Harrington, Q.C.,
+and Colm St. R. Seviour, for Bow Valley Husky (Bermuda) Ltd.  J. Edgar Sexton, Q.C.,
+John F. Rook, Q.C., Stephen J. May and Donald D. Hanna,
+for Saint John Shipbuilding Limited.  W. Wylie Spicer, Q.C.,
+and Aidan J. Meade, for Raychem Canada Limited and Raychem Corporation.  //McLachlin J.//  The reasons of La Forest and McLachlin JJ. were
+delivered by  McLachlin J. (dissenting in part) --  I.                 Introduction  1                                  
+On April 21, 1987, a fire broke out on the Bow Drill III, which was
+drilling for oil on the Grand Banks of Newfoundland.  The Bow Drill III
+suffered major damage.  Extensive repairs were required and the companies which
+had contracted for the lease of the rig suffered financial loss while it was
+out of commission.  At issue in this appeal is the legal responsibility for the
+damages and the extent of the damages recoverable.  Among the more interesting
+legal issues are the applicability of contributory negligence principles under
+Canadian maritime law and the recovery of damages for contractual relational
+economic loss.  II.                Facts  2                                  
+In the early 1980s, Husky Oil Operations Ltd. (“HOOL”) and Bow Valley
+Industries Ltd. (“BVI”) decided to take advantage of a drilling opportunity off
+the east coast of Canada.  They purchased one oil rig and made arrangements to
+have two others constructed.  To this end, a subsidiary of BVI contracted with
+Saint John Shipbuilding Limited (“SJSL”) for the construction of the drilling
+rig Bow Drill III.  3                                  
+In order to take advantage of Export Development Corporation financing,
+HOOL and BVI incorporated an offshore company, Bow Valley Husky (Bermuda) Ltd.
+(“BVHB”).  Before construction of Bow Drill III began, ownership of the rig was
+transferred to BVHB, and the contract with SJSL for the construction of the rig
+was assigned to BVHB.  HOOL and BVI entered into contracts with BVHB for the
+hire of Bow Drill III to conduct drilling operations at sites chosen by HOOL
+and BVI.  These contracts were for four years (with an optional extension for a
+further year), and provided that HOOL and BVI would continue to pay day rates
+to BVHB in the event that the rig was out of service.  4                                  
+A heat trace system was required in order to prepare the rig for winter
+operation.  The purpose of a heat trace system is to prevent the rig’s pipes or
+“mud lines” from freezing.  The heat trace system SJSL originally started to
+install was changed to the Raychem system at the owner’s request.  BVHB chose
+the Raychem system after consultation with Raychem representatives because it
+had a self-regulating heater.  Raychem’s heat trace system used Thermaclad wrap
+to keep moisture from the insulation and heat trace wire.  The specifications
+for the Raychem heat trace system required the installation of a ground fault
+circuit breaker (“GFCB”) system.  The purpose of the GFCB system was to cut off
+the power in the event of an electrical fault, to prevent arcing of the heat
+trace wire.  The GFCB system initially installed by SJSL was unsuitable.  A
+functioning GFCB system was not installed on the rig until after the incident
+that forms the basis of this case.  5                                  
+On April 21, 1987, during the drilling of an exploratory well on the
+Grand Banks of Newfoundland, a fire broke out on Bow Drill III.  The fire
+caused damage to a tray of cables that held in excess of 300 electrical and communications
+cables.  As a result, the rig had to be towed to port for repairs and was out
+of service for several months.  6                                  
+BVHB, HOOL and BVI commenced an action against SJSL alleging breach of
+contract and negligence, and an action against Raychem for negligence.  BVHB
+claimed both for the cost of the repairs to the rig and for the revenue lost as
+a result of the rig being out of service for several months.  HOOL and BVI
+sought to recover the day rates that they were contractually required to pay to
+BVHB during the period the rig was out of service, as well as expenses they
+incurred for supplies to the rig, including food, drilling mud and additional
+equipment.  III.               Judgments Below  A.                Supreme Court of Newfoundland,
+Trial Division  7                                  
+At trial (1994), 118 Nfld. & P.E.I.R. 271, Riche J. held that the
+fire started when an electrical fault occurred in the heat trace wire, causing
+an arc in the heat trace system.  The arcing occurred because no GFCB system
+was being used at that time.  Riche J. held that it was likely the Thermaclad
+caught fire, which then caused an oily residue on the cables to catch fire.  He
+concluded that as the fire spread much more than would be expected with
+Thermaclad alone, the fire must have been assisted by residue in the cable
+tray.  Riche J. determined that the plaintiffs had not proven that the heat
+tracing and wrap on the pipe had been installed by SJSL or Raychem.  8                                  
+Riche J. found that BVHB had assumed responsibility for the installation
+of a functioning GFCB system, and that BVHB was negligent: in continuing to
+operate the heat tracing system without ground fault protection;  in allowing
+the cables to accumulate the oily residue; and, in the absence of evidence that
+the fault for the arcing rested on someone else, for the defects in the wire or
+junction box that had caused the arc.  Riche J. found that HOOL and BVI shared
+in the contributory negligence of BVHB as they were informed during
+construction of the need for ground fault protection.  Alternatively, had HOOL
+and BVI not known of the need for ground fault protection, Riche J. would have
+found them negligent on the ground that BVHB, HOOL and BVI were involved in a
+joint venture.  9                                  
+Riche J. found that all parties were aware of the inflammability of the
+Thermaclad.  He held that the defendant SJSL was liable in contract and tort
+for failing to provide certificates of approval for the Thermaclad, and in tort
+for breach of duty to warn of the inflammability of Thermaclad.  He also held
+that the defendant Raychem was liable in tort for breach of its duty to warn. 
+He found that the contract between SJSL and BVHB did not negate BVHB’s right to
+sue for negligence or breach of contract for failure to provide certificates of
+approval for Thermaclad, or for negligent failure to warn.  Riche J. went on to
+hold that the major fault lay with BVHB for its operation of the heat trace
+system without a functioning GFCB system.  It knew that arcing could occur and
+that it could cause fires.  Moreover, it kept the heat trace system on, even
+when it might not have been required, despite incidents of arcing on the heat
+trace wires.  In the result, Riche J. apportioned the fault 60 percent to the
+plaintiffs and 40 percent to SJSL and Raychem.  He did not award damages for
+breach of contract.  10                              
+However, Riche J. dismissed the plaintiffs’ claim on the ground that the
+case arose out of negligence at sea and was governed by Canadian maritime law,
+which precluded application of the Newfoundland Contributory Negligence Act,
+R.S.N. 1990, c. C-33, and made contributory negligence a bar to recovery.  In
+supplementary reasons, (1994), 120 Nfld. & P.E.I.R. 228, Riche J. held that
+if the Newfoundland Contributory Negligence Act did apply, he would have
+apportioned the liability of Raychem and SJSL equally, making each 20 percent 
+responsible.  B.                Newfoundland Court of Appeal  11                              
+The Newfoundland Court of Appeal, (1995), 130 Nfld. & P.E.I.R. 92, per
+Cameron J.A., began by finding that the trial judge’s conclusions with respect
+to the origins of the fire should not be disturbed.  However, it rejected the
+trial judge’s conclusion that there was a joint venture between HOOL and BVI
+with respect to the Bow Drill III, and held further there was no basis for
+lifting the corporate veil and denying the separate legal identities of the
+three corporations.  12                              
+Cameron J.A. upheld the trial judge’s finding that BVHB had been
+contributorily negligent, although she rejected Riche J.’s finding that BVHB
+was negligent with respect to the existence of the oily residue on the cables. 
+She held that the damage suffered by BVHB was a reasonably foreseeable
+consequence of BVHB’s failure to use a GFCB system.  13                              
+With respect to SJSL’s failure to provide certificates of approval,
+Cameron J.A. held that through an exchange of letters and cheques in November
+1985, the parties had reached an accord and satisfaction disposing of their
+respective rights under the contract.  Therefore, BVHB had no basis for a claim
+of breach of contract.  Cameron J.A. declined to disturb the trial judge’s
+finding that BVHB’s representatives made the decision to use the Raychem
+system, including the Thermaclad.  It followed that Thermaclad was “owner
+directed supply” for which the contract excluded recovery.  Cameron J.A. further
+held that SJSL’s provision of Thermaclad was not a negligent act.  14                              
+Cameron J.A. confirmed that both Raychem and SJSL had a duty to warn
+BVHB about the inflammability of Thermaclad, and that the duty had not been
+discharged.  She rejected Raychem’s argument that it could rely on the learned
+intermediary exception.  Although Raychem and SJSL had no duty to warn HOOL or
+BVI, SJSL and Raychem owed HOOL and BVI a duty of care that was breached by
+their failure to warn BVHB.  However, because the loss suffered by HOOL and BVI
+was economic in nature, it was not recoverable.  15                              
+Despite reversing some of the trial judge’s findings with respect to
+liability, the Court of Appeal did not consider it necessary to change his
+apportionment of liability.  16                              
+The Court of Appeal agreed with Riche J. that maritime law applied.  
+Nevertheless it held that provincial negligence legislation applied to maritime
+cases in some situations, including this case.  Alternatively, if the
+Newfoundland Contributory Negligence Act did not apply, the court held
+that maritime law no longer made contributory negligence a bar to recovery.  In
+the result, BVHB was held entitled to recover 40 percent of its loss from SJSL
+and Raychem.  IV.              Issues  17                              
+(1)   Are the defendants liable to the plaintiffs in tort?  (a)   Did the circumstances impose on SJSL and
+Raychem  a duty to warn BVHB of the risks associated with using Thermaclad?  (b)   Was SJSL’s duty to warn excluded by
+its contract  with BVHB?  (c)   Is Raychem entitled to rely on the “learned
+intermediary” defence?  (d)   Is causation established?  (e)   How should fault be allocated between SJSL
+and Raychem?  (f)    Did SJSL and Raychem owe BVI and HOOL a
+duty to warn? (Recovery of contractual relational economic loss)  (g)   Was BVHB contributorily negligent? (h)   Does BVHB’s contributory negligence bar its
+claims?    (2)               Is SJSL liable to BVHB in
+contract?  V.                Are
+the Defendants Liable to the Plaintiffs in Tort?  A.                Did the Circumstances Impose
+on SJSL and Raychem a Duty to Warn  BVHB of the Risks Associated With Using
+Thermaclad?    18                              
+SJSL and Raychem submit that the Court of Appeal erred in finding that
+they were under a duty to warn BVHB of the dangers of Thermaclad.  SJSL argues
+that in order for a duty to warn to arise, there must be an “informational
+imbalance” between the manufacturer or supplier and the party who is owed the
+warning.  SJSL submits that the plaintiff BVHB knew as much about the
+inflammability of the Thermaclad as it did.  19                              
+The law may be simply stated.  Manufacturers and suppliers are required
+to warn all those who may reasonably be affected by potentially dangerous
+products:  Lambert v. Lastoplex Chemicals Co., [1972] S.C.R. 569, and Hollis
+v. Dow Corning Corp., [1995] 4 S.C.R. 634.  This duty extends even to those
+persons who are not party to the contract of sale:  Rivtow Marine Ltd. v.
+Washington Iron Works, [1974] S.C.R. 1189.  The potential user must be
+reasonably foreseeable to the manufacturer or supplier — manufacturers and
+suppliers (including a builder-supplier like SJSL) do not have the duty to warn
+the entire world about every danger that can result from improper use of their
+product.  20                              
+The plaintiff BVHB was clearly within the class of persons that SJSL and
+Raychem ought to have known might reasonably be affected by the use of
+Thermaclad.  SJSL was in a contractual relationship with BVHB, and Raychem had
+directly approached BVHB’s predecessor (a subsidiary of BVI) to encourage the
+use of its products in the construction of the rig.  21                              
+The defendant SJSL submits that there is an additional requirement for a
+duty to warn:  a knowledge imbalance between the manufacturer or supplier and
+the consumer.  It goes on to argue that since BVHB knew about the
+inflammability of Thermaclad no duty to warn arose.  The Court of Appeal held
+that knowledge may be a defence, but only where the plaintiff can be viewed as
+accepting the risk (volenti non fit injuria).  22                              
+I agree with the Court of Appeal that knowledge that there may be a risk
+in some circumstances does not negate a duty to warn.  Liability for failure to
+warn is based not merely on a knowledge imbalance.  If that were so every
+person with knowledge would be under a duty to warn.  It is based primarily on
+the manufacture or supply of products intended for the use of others and the
+reliance that consumers reasonably place on the manufacturer and supplier. 
+Unless the consumer’s knowledge negates reasonable reliance, the manufacturer
+or supplier remains liable.  This occurs where the consumer has so much
+knowledge that a reasonable person would conclude that the consumer fully
+appreciated and willingly assumed the risk posed by use of the product, making
+the maxim volenti non fit injuria applicable:   Lambert, supra.  23                              
+The evidence establishes that the plaintiff BVHB knew that Thermaclad
+would burn under some circumstances.  The defendants SJSL and Raychem, however,
+had much more detailed knowledge of the specific inflammability characteristics
+of the Thermaclad.  Raychem gained this knowledge through its own testing as
+manufacturer. SJSL gained it through its request to Raychem for information on
+Thermaclad’s inflammability.  BVHB did not have the degree of knowledge
+necessary to negate reliance on SJSL and Raychem.  SJSL and Raychem did not
+demonstrate that BVHB accepted the risk of using Thermaclad.  It follows that
+both SJSL and Raychem owed BVHB a duty to warn, subject to the special defences
+raised by SJSL and Raychem, to which I now turn.  B.                Was SJSL’s Duty to Warn
+Excluded by Its Contract With BVHB?   24                              
+SJSL argues that any duty to warn BVHB which might otherwise arise from
+the circumstances is negatived by the contract between them. The trial judge
+rejected this submission, as did the Court of  Appeal, on the ground that the
+contract provisions did not deal with or impact on SJSL’s duty to warn.  I
+agree.  25                              
+SJSL relies on clauses 702, 905 and 907 of its contract with BVHB.  
+Clause 702, under Article VII (Inspection), stipulates that upon delivery
+SJSL’s “sole obligation with respect to the Vessel shall be as specified in
+Article IX” (Warranties). Clause 905 excludes claims for defects except as
+provided in the warranty provision:  905.     The remedies provided in this Article are exclusive, and
+Builder shall have no liability whatever for any consequential loss, damage or
+expense arising from any defects.   Finally,
+clause 907 excludes liability for “owner directed supply”:  907.     Builder’s liability with respect to the Owner Directed Supply
+shall extend only to installation thereof in accordance with the certified
+equipment drawings and manuals furnished by the supplier in those instances
+where such equipment is actually installed by Builder.  In all other instances,
+the sole risk and responsibility for Owner Directed Supply shall, as between
+Builder and Owner, be borne by Owner.   26                              
+While BVHB’s claim sounds in tort, the contract remains relevant to
+determining whether a tort duty arises, and if so, its scope.  As this Court
+stated in BG Checo International Ltd. v. British Columbia Hydro and Power
+Authority, [1993] 1 S.C.R. 12, per La Forest and McLachlin JJ.,
+parties are free to contract “to limit or waive the duties which the common law
+would impose on them for negligence” (pp. 26-27).  However, “[i]n so far as the
+tort duty is not contradicted by the contract, it remains intact and may be
+sued upon” (p. 27).  27                              
+To borrow the language of La Forest J. in London Drugs Ltd. v. Kuehne
+& Nagel International Ltd., [1992] 3 S.C.R. 299, at p. 327, tort
+liability in a case such as this falls to be assessed in a contractual matrix. 
+The parties’ planned obligations must be given appropriate pre-eminence.  Where
+those planned obligations negate tort liability, contract “trumps” tort:  see
+J. Fleming, “Tort in a Contractual Matrix” (1993), 5 Canterbury L. Rev.
+269, at p. 270, citing P. Cane, Tort Law and Economic Interests (1991),
+at p. 293.  It follows that a tort claim cannot be used to escape an otherwise
+applicable contractual exclusion or limitation clause:  Central Trust Co. v.
+Rafuse, [1986] 2 S.C.R. 147.  28                              
+In order to determine the extent to which the parties’ planned
+obligations affect their tort liabilities, it is necessary to ascertain the
+intention of the parties with respect to the particular issue from the contract
+documents as a whole:  BG Checo, supra.  In doing so, it must be
+kept in mind that generally limitation and exclusion clauses are strictly
+construed against the party seeking to invoke the clause:  see e.g. Hunter
+Engineering Co. v. Syncrude Canada Ltd., [1989] 1 S.C.R. 426, per
+Wilson J., at p. 497.  29                              
+The provisions of the contract relied on by SJSL do not directly address
+responsibility for negligence or duty to warn. While the absence of a term
+expressly excluding tort liability is not determinative,  the contract
+provisions, considered as a whole, relate to the finding of and responsibility
+for defects.  They function, as the label of Article IX states, as a
+“warranty” of workmanship and materials.  More specifically, clauses 702, 905
+and 907, taken in combination, provide that in situations of “owner directed
+supply”, SJSL bears the responsibility for installation while BVHB bears the
+responsibility for defects.  30                              
+Warranties usually relate to the quality of goods and workmanship and do
+not relate to warnings about the risks associated with the use of products.  In
+University of Regina v. Pettick (1991), 45 C.L.R. 1, a majority of the
+Saskatchewan Court of Appeal dismissed a contractor’s argument that a one-year
+warranty it gave to the owner excluded any liability that it might have in
+tort.  In concluding that a warranty does not necessarily exclude tort
+liability, Sherstobitoff J.A. stated (at pp. 52-53):  There is nothing in a warranty by itself that suggests that further
+liability should be excluded.  The warranty is a bargain that holds the
+contractor liable irrespective of negligence for a period of time.  A tort
+claim requires proof of negligence.  That it should continue beyond the
+warranty period does not interfere with the legitimate expectations of the
+parties as to their contractual relationship.    Without
+concluding decisively that warranty provisions could never negative a duty to
+warn, it may be noted that we have been referred to no case in which a warranty
+like that set out in Articles VII and IX was found to limit tort liability for
+duty to warn. 31                              
+This case is distinguishable from Giffels Associates Ltd. v. Eastern
+Construction Co., [1978] 2 S.C.R. 1346, where a warranty coupled with a
+provision excluding liability for “all claims by the Owner” except those under
+the warranty (p. 1351) was held to exclude recovery for negligence in “the
+performance of the contract” (pp. 1354-55).  First, the wording of clause 702
+(obligations “with respect to the Vessel”) is narrower than the wording of the
+contract in Giffels (“all claims by the Owner”).  Second, the claim in Giffels
+was for damage due to faulty workmanship, which was specifically covered by the
+warranty clauses.  The tort claim constituted an attempt to avoid express
+contractual exclusions, something that cannot be done:  see Central Trust,
+supra.  BVHB’s claim against SJSL, by contrast, is not for negligence
+relating to the choice of, installation of, or defects in, the Thermaclad or
+other materials, but for failure to warn of the inflammability of Thermaclad. 
+SJSL’s duty to warn arose independently of the contract, through its greater
+knowledge of the inflammability characteristics of Thermaclad:  see e.g. Rivtow,
+supra, at pp. 1207 and 1214, and, more generally, Queen v. Cognos
+Inc., [1993] 1 S.C.R. 87.  32                              
+SJSL places special emphasis on the fact that Thermaclad was “owner
+directed supply”.  Clause 907, it submits, excludes all liability for
+owner-directed supply, including liability for breach of duty to warn of the
+risks associated with the use of a product.  I do not read clause 907 as
+extending to duty to warn.  The starting point in construing clause 907 is that
+it functions to exclude or exempt from liability.  As such, it must be narrowly
+construed.  With this in mind, one turns to the wording and context of the
+clause 907 exemption.  The first thing to note is that it falls under
+Article IX, entitled “Warranties”.  This suggests, as argued earlier, that
+the parties intended clause 907 to apply to defects in materials and
+workmanship.  The words of clause 907 are consistent with this interpretation.  The
+words “owner directed supply” connote goods supplied, not damages that might
+flow from the inappropriate use of a product.  The purpose of owner-directed
+supply clauses in the context of construction contract warranties is to narrow
+the scope of the warranty for owner-directed materials or “supply”.  The
+builder is not responsible for defects in the materials chosen by the owner,
+only for defective installation.  This is fair, since the owner has directed
+the use of the materials.  In this sense, SJSL limited its liability “for the
+choice of Thermaclad”: per Cameron J.A., at p. 114.  Through its
+contract, it stated that it would not be liable for defects in the product
+supplied.  Clause 907, however, does not address the quite different problem of
+whether, in all the circumstances, SJSL was under a duty to warn BVHB of the
+fire risks associated with the use of Thermaclad.  That duty arose
+independently of the contract.  It is grounded not in the contract but in
+SJSL’s particular knowledge of the inflammability of Thermaclad.  33                              
+To put it another way, clause 907 addresses defects in products or their
+installation.  If BVHB alleged that the Thermaclad supplied was defective,
+clause 907 would provide a complete defence.  But BVHB does not allege that the
+Thermaclad supplied was defective.  It makes the quite different claim that
+perfectly sound Thermaclad, properly installed, introduced a risk which SJSL
+was under a duty to warn it about.  To that claim, clause 907 provides no
+defence.  34                              
+I conclude that the contractual matrix in which the duty to warn of the
+inflammability of Thermaclad arose does not negate or “contradict”, to use the
+language of BG Checo, supra, that duty.  It follows that BVHB was
+entitled to claim against SJSL based on the tort duty to warn.   C.                Is Raychem Entitled to Rely on
+the “Learned Intermediary” Defence?  35                              
+Raychem argues that if it owed the plaintiff BVHB a duty to warn, it
+fulfilled that duty by advising the rig builder, SJSL, that the cladding was
+inflammable and was not flame retardant.  Additional testing by Raychem merely
+confirmed what it told SJSL.  Raychem submits that it is entitled to rely on
+the “learned intermediary” defence because SJSL, which was aware of the
+regulatory requirements, actually had greater knowledge than it about the
+suitability of Thermaclad, upon which Raychem was entitled to rely.  It was up
+to SJSL, armed as it was with the knowledge of Thermaclad’s inflammability, to
+take steps to accommodate its proper use or, alternatively, warn BVHB and obtain
+different instructions.  Raychem argues that it is too onerous to expect every
+supplier of a product used in the construction of a large undertaking such as a
+drilling rig to advise the ultimate owner.  A strict duty to warn should apply
+only when the product is intended for direct use by the public. Raychem submits
+that since the Thermaclad was sold to an experienced shipbuilder, not the
+public, and there was no knowledge imbalance between SJSL and Raychem with
+respect to the performance of the product, it discharged any duty that it had
+to warn BVHB by warning SJSL, which was in the position of “learned
+intermediary” vis-à-vis Raychem and BVHB.  36                              
+In my view, the facts of this case do not fall within the learned
+intermediary defence.  This Court has left open the possibility that a
+manufacturer might discharge its duty to warn by warning an intermediary:  Hollis,
+supra, at p. 659.  However, La Forest J., for the majority, made it
+clear that the rule was an exception to the general rule requiring
+manufacturers to provide a warning to the ultimate consumers of their product. 
+The exception will generally only apply either where the product is highly
+technical and is to be used with expert supervision, or where the nature of the
+product is such that it is unrealistic for the consumer to receive a warning
+directly from the manufacturer.  La Forest J. stated that since the rule
+operates to discharge the manufacturer’s duty to the ultimate consumer, the
+intermediary must be “learned” in the sense that its knowledge of the product
+and its risks is essentially the same as that of the manufacturer.  37                              
+Thermaclad was not a highly technical product, nor did its use and
+application require expert supervision.  Nor was it unrealistic to expect
+Raychem to have warned BVHB, the ultimate consumer, directly.  There was direct
+contact between BVHB and Raychem, independent of SJSL.  Raychem actively sought
+the business of BVHB, and the trial judge found that the Thermaclad was
+owner-directed supply.  In these circumstances Raychem had both the opportunity
+and the duty to warn BVHB directly.  I conclude that Raychem’s duty to warn the
+plaintiffs was not discharged through its communications with SJSL.  D.                Is Causation Established?  38                              
+SJSL submits that if BVHB’s knowledge did not negate SJSL’s duty to
+warn, it establishes that the failure to warn did not cause the loss.  BVHB, it
+argues, did not prove that it would have acted differently had it been aware of
+Thermaclad’s true characteristics.  BVHB continued to operate the rig without a
+functioning GFCB system, knowing that the Thermaclad could burn and that there
+was risk of explosion from arcing.  In response, BVHB argues, first, that it is
+not required to prove that it would have behaved differently had it been
+warned, and second, that the evidence supports its claim that it would have
+taken steps to address the risk had it been properly warned.  39                              
+I am satisfied that causation is established, on either a subjective or
+an objective standard.  There is evidence that had BVHB been aware of
+Thermaclad’s specific inflammability characteristics, it would not have been
+used, or alternatively, that BVHB would have taken additional steps to
+compensate for its inflammability.  BVHB, in accordance with applicable
+standards, would not have permitted inflammable materials to be used without
+careful consideration and investigation into the availability of nonflammable
+alternatives.  I conclude that a reasonable plaintiff or BVHB itself would have
+either declined to use Thermaclad or taken steps to deal with its
+inflammability had it been warned.  This suffices to meet the argument that the
+loss was not caused by the defendants’ breach of their duty to warn.  E.                How Should Fault Be Allocated
+Between SJSL and Raychem?  40                              
+The next question is how fault should be allocated between SJSL and
+Raychem.  The trial judge, affirmed by the Court of Appeal, apportioned
+liability equally.  SJSL submits that the relative fault of itself and Raychem
+should have been reapportioned in light of the Court of Appeal’s finding that
+SJSL’s failure to provide certificates of approval was not negligent.  It
+argues that Raychem’s knowledge of Thermaclad’s characteristics was much higher
+and that Raychem should therefore bear a correspondingly higher degree of
+fault.  41                              
+There was ample evidence before the trial judge to support his
+conclusion that the relative fault of Raychem and SJSL was equivalent.  Both
+defendants had a greater degree of knowledge of the risks inherent in the use
+of Thermaclad than did BVHB.  Neither of the defendants communicated or
+attempted to communicate their knowledge to BVHB.  Although SJSL might have had
+less knowledge of the specific characteristics of Thermaclad, its knowledge of
+the general regulatory requirements was arguably greater, and it had greater
+contact with BVHB.  I would not interfere with the equal apportionment of
+fault.  F.                Did SJSL and Raychem Owe BVI
+and HOOL a Duty to Warn?  (Recovery of Contractual Relational Economic
+Loss)  (1)   The Law  42                              
+The plaintiffs HOOL and BVI had contracts with BVHB for the use of the
+rig owned by BVHB.  They seek damages for economic loss incurred as a result of
+the shutdown of the drilling rig during the period it was being repaired.  In
+other words, the plaintiffs HOOL and BVI seek to recover the economic loss they
+suffered as a result of damage to the property of a third party.  This sort of
+loss is often called “contractual relational economic loss”.  The issue is
+whether the loss suffered by HOOL and BVI is recoverable.  43                              
+The issue arises because common law courts have traditionally regarded
+many types of contractual relational economic loss as irrecoverable.  The
+reasons for this were summarized by this Court, per Major J., in D’Amato
+v. Badger, [1996] 2 S.C.R. 1071.  First, economic interests have
+customarily been seen by the common law courts as less worthy of protection
+than either bodily security or property.  Second, relational economic loss
+presents the spectre of “liability in an indeterminate amount for an
+indeterminate time to an indeterminate class”:  Ultramares Corp. v.  Touche,
+174 N.E. 441 (N.Y. 1931), at p. 444, per Cardozo C.J.  Third, it may be
+more efficient to place the burden of economic loss on the victim, who may be
+better placed to anticipate and insure its risk.  Fourth, confining economic
+claims to contract discourages a multiplicity of lawsuits.  44                              
+In England the situation is clear -- no relational economic loss can
+ever be recovered: Murphy v. Brentwood District Council, [1991] 1 A.C.
+398 (H.L.).  Although Murphy concerned the liability of a public
+authority for approval of a negligently constructed building, not relational
+economic loss, the House of Lords stipulated that pure economic loss is
+recoverable only where there is actual physical damage to property of the
+plaintiff, thus excluding recovery for relational economic loss.  In the civil
+law jurisdictions of Quebec and France, by contrast, the law does not
+distinguish between loss arising from damage of one’s own property and loss
+arising from damage to the property of another.  If civil law judges restrict
+recovery, it is not as a matter of law, but on the basis of the facts and
+causal connection.  The law in the common law provinces of Canada falls
+somewhere between these two extremes.  While treating recovery in tort of
+contractual relational economic loss as exceptional, it is accepted in Canadian
+jurisprudence that there may be cases where it may be recovered.  45                              
+The foregoing suggests the need for a rule to distinguish between cases
+where contractual relational economic loss can be recovered and cases where it
+cannot be recovered.  Such a rule, as I wrote in Canadian National Railway
+Co. v. Norsk Pacific Steamship Co., [1992] 1 S.C.R. 1021, should be
+morally and economically defensible and provide a logical basis upon which
+individuals can predicate their conduct and courts can decide future cases (p.
+1147).  Although this Court attempted to formulate such a rule in Norsk,
+a split decision prevented the emergence of a clear rule.  Given the commercial
+importance of the issue, it is important that the rule be settled.  It is
+therefore necessary for this Court to revisit the issue.  46                              
+The differences between the reasons of La Forest J. and myself in Norsk
+are of two orders: difference in result and difference in methodology.  The
+difference in result, taken at its narrowest, is a difference in the definition
+of what constitutes a “joint venture” for the purposes of determining whether
+recovery for contractual relational economic loss should be allowed.  We both
+agreed that if the plaintiff is in a joint venture with the person whose
+property is damaged, the plaintiff may claim consequential economic loss
+related to that property.  We parted company because La Forest J. took a
+stricter view of what constituted a joint venture than I did.  47                              
+The difference in methodology is not, on close analysis, as great as
+might be supposed.  Broadly put, La Forest J. started from a general
+exclusionary rule and proceeded to articulate exceptions to that rule where
+recovery would be permitted.  I, by contrast, stressed the two-step test for
+when recovery would be available, based on the general principles of recovery
+in tort as set out in Anns v.  Merton London Borough Council, [1978] A.C.
+728 (H.L.), and Kamloops (City of) v. Nielsen, [1984] 2 S.C.R. 2:  (1)
+whether the relationship between the plaintiff and defendant was sufficiently
+proximate to give rise to a prima facie duty of care; and (2) whether,
+if such a  prima facie duty existed, it was negated for policy reasons
+and recovery should be denied.  48                              
+Despite this difference in approach, La Forest J. and I agreed on
+several important propositions: (1) relational economic loss is recoverable
+only in special circumstances where the appropriate conditions are met; (2)
+these circumstances can be defined by reference to categories, which will make
+the law generally predictable; (3) the categories are not closed.  La Forest J.
+identified the categories of recovery of relational economic loss defined to
+date as:  (1) cases where the claimant has a possessory or proprietary interest
+in the damaged property; (2) general average cases; and (3) cases where the
+relationship between the claimant and property owner constitutes a joint
+venture.  49                              
+The case at bar does not fall into any of the above three categories. 
+The plaintiffs here had no possessory or proprietary interest in the rig and
+the case is not one of general averaging.  While related contractually, the
+Court of Appeal correctly held that the plaintiff and the property owner
+cannot, on any view of the term, be viewed as joint venturers.  50                              
+However, that is not the end of the matter.  The categories of
+recoverable contractual relational economic loss in tort are not closed.  Where
+a case does not fall within a recognized category the court may go on to
+consider whether the situation is one where the right to recover contractual
+relational economic loss should nevertheless be recognized.  This is in
+accordance with Norsk, per  La Forest J., at p. 1134:  Thus I do not say that the right to recovery in all
+cases of contractual relational economic loss depends exclusively on the terms
+of the contract.  Rather, I note that such is the tenor of the exclusionary
+rule and that departures from that rule should be justified on defensible
+policy grounds. [Emphasis added.]    More
+particularly, La Forest J. suggested that the general rule against recovery for
+policy-based reasons might be relaxed where the deterrent effect of potential
+liability to the property owner is low, or, despite a degree of indeterminate liability,
+where the claimant’s opportunity to allocate the risk by contract is slight,
+either because of the type of transaction or an inequality of bargaining
+power.  I agreed with La Forest J. that policy considerations relating to
+increased costs of processing claims and contractual allocation of the risk are
+important (p. 1164).  I concluded that the test for recovery “should be
+flexible enough to meet the complexities of commercial reality and to permit
+the recognition of new situations in which liability ought, in justice, to lie
+as such situations arise” (p. 1166).  It thus appears that new categories of
+recoverable contractual relational economic loss may be recognized where
+justified by policy considerations and required by justice.  At the same time,
+courts should not assiduously seek new categories; what is required is a clear
+rule predicting when recovery is available.  51                              
+More recently, in Hercules Managements Ltd. v. Ernst & Young,
+[1997] 2 S.C.R. 165, this Court described the general approach that should
+be followed in determining when tort recovery for economic loss is
+appropriate.  The plaintiffs in that case were shareholders in a company,
+Hercules Managements Ltd.  The auditors for the company allegedly failed to
+disclose in their annual audits matters detrimental to the company.  The
+company failed and the plaintiffs suffered financial loss.  The plaintiff
+shareholders sued the auditors.  The first issue was whether the plaintiffs’
+action against the auditors could be maintained in law.  Although styled as an
+action for negligent misrepresentation, the plaintiffs’ claim was treated as a
+case of relational economic loss owing to the fact that the services were
+performed pursuant to a contract with the company.  The primary loser was the
+company, which had contracted with the auditors.  The plaintiffs’ loss was
+derivative of, or relational to, the company’s loss.  The defendant auditors
+asserted that their only duty was to the company with which they had
+contracted.  They argued that no relational tort duty to third parties lay in
+the circumstances.  To affirm such a duty, they maintained, would be contrary
+to the policy considerations that had led courts in the past to deny recovery
+for relational economic loss.  The Court, per La Forest J., unanimously
+held that the shareholders had no cause of action against the auditors.  52                              
+La Forest J. set out the methodology that courts should follow in
+determining whether a tort action lies for relational economic loss.  He held
+that the two-part methodology of Anns, supra, adopted by this
+Court in Kamloops, supra, should be followed: (1) whether a prima
+facie duty of care is owed; and (2) whether that duty, if it exists, is
+negated or limited by policy considerations.  In applying the second step, La
+Forest J. wrote that while policy considerations will sometimes result in the prima
+facie duty being negated, in certain categories of cases such
+considerations may give way to other overriding policy considerations.  53                              
+La Forest J. held that the existence of a relationship of
+“neighbourhood” or “proximity” distinguishes those circumstances in which the
+defendant owes a prima facie duty of care to the plaintiff from those
+where no such duty exists.  The term “proximity” is a label expressing the fact
+of a relationship of neighbourhood sufficient to attract a prima facie legal
+duty.  Whether the duty arises depends on the nature of the case and its
+facts.  Policy concerns are best dealt with under the second branch of the
+test.  Criteria that in other cases have been used to define the legal test for
+the duty of care can now be recognized as policy-based ways by which to curtail
+indeterminate or inappropriate recovery.  54                              
+Following this analysis, La Forest J. concluded that the first branch of
+the Anns test was satisfied and the defendant auditors owed a prima
+facie duty of care to the plaintiffs.  First, the possibility that the
+plaintiffs would rely on the audited statements prepared for the company was
+reasonably foreseeable.  Second, the relationship between the parties and
+nature of the statements themselves made the plaintiffs’ reliance reasonable.  55                              
+Policy considerations under the second branch of the test, however,
+negatived a duty of care.  La Forest J. began by noting that while policy
+concerns surrounding indeterminate liability will serve to negate a prima
+facie duty of care in many auditors’ negligence cases, there may be
+particular situations where such concerns do not inhere.  The specific factual
+matrix of a given case may bring it within a category which, for policy
+reasons, is identified as an exception to the exclusionary rule; considerations
+of proximity may militate in favour of finding a prima facie duty of
+care at the first stage, and the policy considerations which usually negate it
+may be absent.  In such cases, liability would appropriately lie.  The main
+policy consideration at stake in Hercules was the spectre of
+indeterminate liability.  Not everyone who picks up a financial statement and
+relies on it can sue for financial loss incurred as a result of reliance on the
+statement.  Only persons that the makers of the statement can reasonably be
+expected to have foreseen relying on the statements can sue, and then only for
+uses that the auditors could reasonably have foreseen.  The question thus
+became whether the plaintiffs had used the statements for the purpose for which
+they had been prepared.  The Court held they had not.  The statements had been
+prepared for the purpose of permitting the shareholders to collectively oversee
+the management of the company, not for the purpose of assisting individual shareholders
+in investment decisions.  The policy considerations surrounding indeterminate
+liability accordingly inhered, negating the prima facie duty of care.  56                              
+The same approach may be applied to the contractual relational economic
+loss at stake in the case at bar.  The first  step is to inquire whether the
+relationship of neighbourhood or proximity necessary to found a prima facie duty
+of care is present.  If so, one moves to the second step of inquiring whether
+the policy concerns that usually preclude recovery of contractual relational
+economic loss, such as indeterminacy,  are overridden.  (2)   Application of the Law  57                              
+Before applying the law set out above to the facts of this case, a
+preliminary point arises: is the loss claimed by the plaintiffs contractual
+relational economic loss at all?  The plaintiffs argue that the loss they claim
+against the defendants is really loss transferred from BVHB, the rig owner. 
+The plaintiffs argue that they were in a “common venture” (as distinguished from
+a joint venture) with BVHB, which resulted in BVHB’s losses being transferred
+to them.  Therefore, they argue, they should be able to claim the losses as
+though they stand in the shoes of BVHB.  BVHB could have claimed consequential
+losses for loss of use of the drilling rig; so then, on this theory, can HOOL
+and BVI.  58                              
+This argument suffers from a number of difficulties.  First, insofar as
+courts have recognized transferred loss, it has been confined to physical
+damage: Norsk, supra.  Applied to relational economic loss, it
+would need to meet the criteria for recovery of that category of loss, and
+hence would seem not to advance the plaintiffs’ case.  Second, the plaintiffs
+claim not only for loss of use of the drilling rig, but for losses related to
+unavoidable expenses they incurred for other supplies, including food, drilling
+mud and additional equipment.  It is more difficult to see how these losses,
+based entirely on contracts between the plaintiffs and others, independent of
+BVHB, can be said to be transferred from BVHB.  Third, there is nothing to show
+that the day rates paid by HOOL and BVI while the rig was idle are identical to
+what BVHB’s consequential losses would have been.  Finally, what does one do
+about the contributory negligence of BVHB?  Given that BVHB is 60 percent at
+fault, under the transferred loss theory would the plaintiffs be able to
+recover only 40 percent of their claim?  These difficulties suggest that the
+plaintiffs’ loss is not the transferred loss of BVHB, the owner of the damaged
+rig.  It is contractual relational economic loss, and should be treated as
+such.  59                              
+I return to the question of whether, on the approach articulated in Hercules,
+supra, the plaintiffs’ claim for contractual relational economic loss is
+actionable.  The Newfoundland Court of Appeal, without the benefit of Hercules,
+essentially followed the two-step process outlined in that case.  It held
+that the defendants owed a prima facie duty of care to BVI and HOOL. 
+The duty arose because BVI and HOOL’s economic interests could foreseeably have
+been affected by a failure to warn BVHB of the danger of fire resulting from
+the use of products supplied by the defendants.  The Court of Appeal went on to
+hold that there should be no recovery for other reasons.  It held that it would
+be totally impractical to warn every person who could foreseeably suffer
+economic loss arising from the shutdown of the drilling rig.  If there was a
+duty to warn BVI and HOOL, then there would also be a duty to warn other
+potential investors in the project, such as Mobil Oil Canada Ltd. and Petro
+Canada, as well as a host of other persons who stood to gain from the
+uninterrupted operation of the drilling rig, including employees and suppliers
+of the rig.  In these circumstances, in the Court of Appeal’s view, the only
+duty on the defendants was to warn the person in control and possession of the
+rig of the dangers of fire associated with the use of Thermaclad.  60                              
+As in Hercules, the decision as to whether a prima facie
+duty of care exists requires an investigation into whether the defendant and
+the plaintiff can be said to be in a relationship of proximity or
+neighbourhood.  Proximity exists on a given set of facts if the defendant may
+be said to be under an obligation to be mindful of the plaintiff’s legitimate
+interests in conducting his or her affairs:  Hercules, at para. 28.  On
+the facts of this case, I agree with the Court of Appeal that a prima facie
+duty of care arises.  Indeed, the duty to warn raised against the defendants is
+the correlative of the duty to disclose financial facts raised against the
+auditors in Hercules.  61                              
+Where a duty to warn is alleged, the issue is not reliance (there being
+nothing to rely upon), but whether the defendants ought reasonably to have
+foreseen that the plaintiffs might suffer loss as a result of use of the
+product about which the warning should have been made.  I have already found
+that the duty to warn extended to BVHB.  The question is, however, whether it
+extended as far as HOOL and BVI.  The facts establish that this was the case. 
+The defendants knew of the existence of the plaintiffs and others like them and
+knew or ought to have known that they stood to lose money if the drilling rig was
+shut down.  62                              
+The next question is whether this prima facie duty of care is
+negatived by policy considerations.  In my view, it is.  The most serious
+problem is that seized on by the Court of Appeal -- the problem of
+indeterminate liability.  If the defendants owed a duty to warn the plaintiffs,
+it is difficult to see why they would not owe a similar duty to a host of other
+persons who would foreseeably lose money if the rig was shut down as a result
+of being damaged.  Other investors in the project are the most obvious persons
+who would also be owed a duty, although the list could arguably be extended to
+additional classes of persons.  What has been referred to as the ripple effect
+is present in this case.  A number of investment companies which contracted
+with HOOL are making claims against it, as has BVI.  63                              
+No sound reason to permit the plaintiffs to recover while denying
+recovery to these other persons emerges.  To hold otherwise would pose problems
+for defendants, who would face liability in an indeterminate amount for an
+indeterminate time to an indeterminate class.  It also would pose problems for
+potential plaintiffs.  Which of all the potential plaintiffs can expect and
+anticipate they will succeed?  Why should one type of contractual relationship,
+that of HOOL, be treated as more worthy than another, e.g., that of the
+employees on the rig?  In this state, what contractual and insurance
+arrangements should potential plaintiffs make against future loss?  64                              
+The plaintiffs propose a number of solutions to the problem of
+indeterminacy.  None of them succeeds, in my respectful view.  The first
+proposal is to confine liability to persons whose identity was known to
+the defendants.  This is a reversion to the “known plaintiff” test, rejected by
+a majority of this Court in Norsk, supra.  As commentators have
+pointed out, the fact that the defendant knew the identity of the plaintiff
+should not in logic or justice determine recovery.  On such a test, the
+notorious would recover, the private would lose: Norsk.  The problem of
+indeterminate liability cannot be avoided by arbitrary distinctions for which
+there is no legal or social justification:  Norsk, at p. 1112.  There
+must be something which, for policy reasons, permits the court to say this
+category of person can recover and that category cannot, something which
+justifies the line being drawn at one point rather than another.  65                              
+Second, and in a similar vein, the plaintiffs argue that determinacy can
+be achieved by restricting recovery to the users of the rig, a class which they
+say is analogous in time and extent to the owners and occupiers of the building
+in Winnipeg Condominium Corporation No. 36 v. Bird Construction Co.,
+[1995] 1 S.C.R. 85.   This argument fails for the same reasons as the known
+plaintiff test.  There is no logical reason for drawing the line at users
+rather than somewhere else.  66                              
+Third, the plaintiffs attempt to distinguish themselves from other
+potential claimants through the concept of reliance.  The defendants correctly answer
+this argument by pointing out that any person who is contractually dependent on
+a product or a structure owned by another “relies” on the manufacturer or
+builder to supply a safe product.  67                              
+Finally, the plaintiffs argue that a finding of a duty to warn negates
+the spectre of indeterminate liability as the duty to warn does not extend to
+everyone in any way connected to the manufactured product.  This argument begs
+the question.  The duty to warn found to this point is only a prima facie
+duty to warn in accordance with the first requirement of Anns, supra,
+that there be sufficient proximity or neighbourhood to found a duty of care. 
+It is not circumscribed and imports no limits on liability.  Considerations of
+indeterminate liability arise in the second step of the Anns analysis. 
+Hence the prima facie duty of care, by itself, cannot resolve the
+problem of indeterminate liability.  68                              
+The problem of indeterminate liability constitutes a policy
+consideration tending to negative a duty of care for contractual relational
+economic loss.  However, the courts have recognized positive policy
+considerations tending to support the imposition of such a duty of care.  One
+of these, discussed by La Forest J. in Norsk, is the need to provide
+additional deterrence against negligence.  The potential liability to the owner
+of the damaged property usually satisfies the goal of encouraging persons to
+exercise due care not to damage the property.  However, situations may arise
+where this is not the case.  In such a case, the additional deterrent of
+liability to others might be justified.  The facts in the case at bar do not
+support liability to the plaintiffs on this basis.  BVHB, the owner of the
+drilling rig, suffered property damage in excess of five million dollars.  This
+is a significant sum.  It is not apparent that increasing the defendants’
+potential liability would have led to different behaviour and avoidance of the
+loss.  69                              
+Another situation which may support imposition of liability for
+contractual relational economic loss, recognized by La Forest J. in Norsk,
+is the case where the plaintiff’s ability to allocate the risk to the property
+owner by contract is slight, either because of the type of the transaction or
+inequality of bargaining power.  Again, this does not assist the plaintiffs in
+this case.  BVI and HOOL not only had the ability to allocate their risks; they
+did just that.  It cannot be said that BVI and HOOL suffered from inequality of
+bargaining power with BVHB, the very company they created.  Moreover, the
+record shows they exercised that power.  The risk of loss caused by down-time
+of the rig was specifically allocated under the Drilling Contracts between BVI,
+HOOL and BVHB.  The contracts provided for day rate payments to BVHB and/or
+termination rights in the event of lost or diminished use of the rig.  The
+parties also set out in the contracts their liability to each other and made
+provision for third party claims arising out of rig operations.  Finally, the
+contracts contained provisions related to the purchase and maintenance of
+insurance.  70                              
+I conclude that the policy considerations relevant to the case at bar
+negative the prima facie duty of care to BVI and HOOL.  G.                Was
+BVHB Contributorily Negligent?  71                              
+The Court of Appeal upheld the trial judge’s finding that BVHB was
+contributorily negligent in failing to have an operable GFCB system, that this
+negligence was the immediate cause of the fire, and that the fire was a
+reasonably foreseeable consequence of BVHB’s negligence.  BVHB contends that
+the entire responsibility for the fire and consequential loss is attributable
+to the defendants’ breach of their duty to warn of the dangers of using
+Thermaclad on the rig.  72                              
+BVHB argues that generally courts decline to ascribe contributory
+negligence in duty to warn cases for policy reasons related to assumption of
+risk.  BVHB urges that in failure to warn cases, a finding of contributory
+negligence cannot be made unless the defendant shows that the plaintiff
+voluntarily assumed the risk of injury.  This, it says, is not such a case.  73                              
+I cannot accept this argument.  A finding of contributory negligence is
+not the same as a finding that the injured party voluntarily accepted the risk
+of injury.  The latter is a complete defence (in the limited circumstances in
+which it applies), whereas the result of the former is that the injured party
+generally recovers less than full compensation for its injuries.  As Viscount
+Simon said in Nance v. British Columbia Electric Railway Co., [1951]
+A.C. 601 (P.C.), at p. 611:  But when contributory negligence is set up as a defence, its existence
+does not depend on any duty owed by the injured party to the party sued, and
+all that is necessary to establish such a defence is to prove to the
+satisfaction of the jury that the injured party did not in his own interest
+take reasonable care of himself and contributed, by this want of care, to his
+own injury.  For when contributory negligence is set up as a shield against the
+obligation to satisfy the whole of the plaintiff’s claim, the principle
+involved is that, where a man is part author of his own injury, he cannot call
+on the other party to compensate him in full.   74                              
+BVHB next submits that the burden on the tortfeasor of proving
+contributory negligence in duty to warn cases should be more onerous because
+the injured party lacks the knowledge necessary to make an informed assessment
+of the risks of using the product.  Here, BVHB’s failure to use the GFCB system
+is a foreseeable consequence of the failure to warn of the fire propagation
+propensity of Thermaclad.  In the absence of a warning of the dangers of using
+Thermaclad on the rig, BVHB viewed the GFCB system only as a protective measure
+against gas explosions.  BVHB contends that had it been warned of the dangers
+posed by the use of Thermaclad in this marine installation, it would never have
+permitted the rig to operate in the absence of an effective grounding system. 
+For these reasons, BVHB submits that the defendants bear total responsibility
+for the fire and its consequences.  75                              
+The defendants respond that the burden of showing contributory
+negligence is the same in duty to warn cases as in other cases.  The evidence,
+they submit, establishes contributory negligence.  The damage sustained by BVHB
+was a foreseeable result of BVHB’s negligent failure to operate with a
+functioning GFCB system.  BVHB did not need to foresee the specific role that
+Thermaclad would play in a fire.  It is enough that BVHB foresaw the
+possibility of a gas explosion.  76                              
+I accept the defendants’ submissions.  The test for contributory
+negligence was summarized by Denning L.J. in Jones v. Livox Quarries Ld.,
+[1952] 2 Q.B. 608 (C.A.), at p. 615:  Although contributory negligence does not depend on
+a duty of care, it does depend on foreseeability.  Just as actionable
+negligence requires the foreseeability of harm to others, so contributory
+negligence requires the foreseeability of harm to oneself.  A person is guilty
+of contributory negligence if he ought reasonably to have foreseen that, if he
+did not act as a reasonable, prudent man, he might be hurt himself; and in his
+reckonings he must take into account the possibility of others being careless.   The trial
+judge found that the fire started because the rig was being operated without a
+GFCB system.  The fire would not have occurred “but for” the negligence of
+BVHB:  Snell v. Farrell, [1990] 2 S.C.R. 311.  The conduct of BVHB
+viewed independently was negligent.  The fire was a foreseeable result of
+BVHB’s failure to operate with a functioning GFCB system.  It was not necessary
+for BVHB to foresee the precise type of damage or sequence of events that would
+result from its negligence:  Hughes v. Lord Advocate, [1963] A.C. 837
+(H.L.), and Overseas Tankship (U.K.) Ltd. v. Miller Steamship Co. Pty.,
+[1967] 1 A.C. 617 (P.C.) (Wagon Mound No. 2).  The fact that it was
+aware of the risk of explosion was enough.  It follows that the negligence of BVHB
+was a proximate cause of the fire.  77                              
+BVHB also argues that there should be a distinction between 
+responsibility for “fire initiation” damages and “fire propagation” damages. 
+The trial judge did not determine the precise role played by Thermaclad in the
+damage, particularly with respect to the damage to the cables.  Although he
+found that the fire was initially spread from the Thermaclad to the cables, he
+also found that once the cables caught fire they fuelled themselves and caused
+additional Thermaclad to catch fire.  These findings preclude distinguishing
+between the damage caused by initiation and propagation in this case.  78                              
+I agree with the courts below that BVHB was contributorily negligent. 
+The remaining question is the extent of BVHB’s responsibility.  Apportionment
+of liability is primarily a matter within the province of the trial judge, and
+appellate courts should not interfere with the trial judge’s apportionment
+unless there is demonstrable error in the trial judge’s appreciation of the
+facts or applicable legal principles: Sparks v. Thompson, [1975] 1
+S.C.R. 618; see also the judgment of Dickson J. (as he then was) in Taylor
+v. Asody, [1975] 2 S.C.R. 414 (dissenting in result).  79                              
+BVHB submits that the Court of Appeal should have reassessed the
+apportionment of responsibility because it reversed the trial judge’s finding
+that it was negligent in allowing the cables to accumulate residue.  The trial
+judge apportioned the majority of the fault to BVHB on the ground that BVHB’s
+negligence in continuing to operate the heat trace system, even when
+unnecessary, outweighed the defendants’ negligence.  The accumulation of
+residue on the cables was not determinative.  It follows that reversal on that
+issue does not invalidate the trial judge’s conclusion that the plaintiff
+should bear the greatest portion of responsibility for the loss.  80                              
+More generally, the trial judge made no error of fact or law in
+apportioning liability for the loss.  There was ample evidence to support his
+finding that BVHB’s negligence outweighed that of the defendants.  Although it
+may not have been aware of the detailed characteristics of Thermaclad, BVHB was
+aware that it could burn.  It was aware of the risk of arcing as there had been
+previous arcing incidents, and it was aware of the risk of explosion from
+arcing.  Nor did the trial judge misapprehend the applicable legal principles. 
+I would not disturb the trial judge’s finding that the liability should be
+apportioned 60 percent to BVHB and 40 percent to the defendants Raychem and
+SJSL.  H.                Does
+BVHB’s Contributory Negligence Bar Its Claims?  81                              
+The defendants assert that the plaintiffs’ claims are barred because at
+common law, contributory negligence is a bar to recovery.  The plaintiffs
+respond that their contributory negligence is not a bar because: (a) the law of
+the vessel’s flag, Bermuda, applies; (b) alternatively, the Newfoundland Contributory
+Negligence Act applies; (c) in the further alternative, the common law
+applicable in maritime cases does not make contributory negligence a bar.  I
+accept the plaintiffs’ contention on the last ground and conclude that BVHB’s
+right to recover is not barred by its contributory negligence.  82                              
+The first question is whether the law of the vessel applies.  The
+plaintiffs argue that the fire occurred on the high seas, making applicable the
+law of the flag of the vessel, Bermuda.  They then assert that since Bermuda
+law was not proven, the law of Newfoundland should be applied.  This argument
+rests on a series of tenuous propositions, the first of which is that the fire
+occurred on the high seas.  It must fail, if only because the fact was not
+proved.  83                              
+Alternatively, the plaintiffs submit that the law of Newfoundland should
+be applied.  The defendants reply that this is a maritime matter and that the
+applicable law is maritime law, not the law of Newfoundland.  This raises the
+question of which law applies — Newfoundland law or federal maritime law?  84                              
+The plaintiffs submit that maritime law should not apply because the
+Thermaclad had no relationship to the rig’s navigational equipment and because
+the claims are advanced in tort and contract, rather than navigation and
+shipping.  However, the legal nature of a claim is not the decisive factor in
+the determination of whether the principles of maritime law apply.  What is
+required is “that the subject-matter under consideration in any case [be] so
+integrally connected to maritime matters as to be legitimate Canadian maritime
+law within federal legislative competence”: ITO--International Terminal
+Operators Ltd. v. Miida Electronics Inc., [1986] 1 S.C.R. 752, at p. 774, per
+McIntyre J.  It follows that “tortious liability which arises in a maritime
+context is governed by a body of maritime law within the exclusive legislative
+jurisdiction of Parliament”: Whitbread v. Walley, [1990] 3 S.C.R. 1273,
+at p. 1289, per La Forest J.  85                              
+This case involves tortious liability arising in a maritime context. 
+The Court of Appeal, per Cameron J.A., held that “[t]he activities of
+the Bow Drill 3 are essentially maritime in nature, albeit a modern view of
+maritime activity” (p. 134).  The rig was not only a drifting platform, but a
+navigable vessel.  As Cameron J.A. put it at pp. 133-34, the rig “is capable of
+self-propulsion; even when drilling, is vulnerable to the perils of the sea; is
+not attached permanently to the ocean floor and, can travel world wide to drill
+for oil”.  Alternatively, even if the rig is not a navigable vessel, the tort
+claim arising from the fire would still be a maritime matter since the main
+purpose of the Bow Drill III was activity in navigable waters.  The operation
+of the rig’s heat trace system was hazardous because the GFCB system that was
+installed was not appropriate in the ungrounded marine context.  The claims
+against the defendants for failure to warn included allegations that the
+defendants knew about the special marine material requirements such as
+non-combustibility or flame retardancy.  The products liability issues in this
+case are clearly dominated by marine considerations.  86                              
+This is not a case that “is in ‘pith and substance’ a matter of local
+concern involving property and civil rights or any other matter which is in
+essence within exclusive provincial jurisdiction under s. 92  of the Constitution
+Act, 1867 ”: ITO, supra, at p. 774, per McIntyre J.  I
+conclude that the issues for resolution in this case are integrally connected
+with maritime matters, and fall to be resolved under Canadian maritime law.  87                              
+The plaintiffs next submit that even if the claims are maritime matters,
+the law of Newfoundland applies because treaties and related laws make
+Newfoundland the proper legal forum and provide for the operation of
+Newfoundland law on the continental shelf.  The difficulty with this submission
+is that assuming Newfoundland law to apply, Newfoundland law includes
+federal law and the principle that Canadian maritime law applies to maritime
+matters:  Once it has been determined that a matter is governed by
+constitutionally valid federal law, as in this case, then the relevant legal
+unit is Canada and not a particular province.  Federal law is not foreign law vis-à-vis
+the law of a province since it is an integral part of the law of each
+province and territory. [Emphasis added.]  (ITO, supra, at p. 777, per McIntyre J.)   Since the
+claims advanced relate to maritime matters, the law of Newfoundland  mandates
+the application of Canadian maritime law, not the Newfoundland Contributory
+Negligence Act.  88                              
+Policy considerations support the conclusion that marine law governs the
+plaintiffs’ tort claim.  Application of provincial laws to maritime torts would
+undercut the uniformity of maritime law.  The plaintiff BVHB argues that
+uniformity is only necessary with respect to matters of navigation and
+shipping, such as navigational rules or items that are the subject of
+international conventions.  I do not agree.  There is nothing in the
+jurisprudence of this Court to suggest that the concept of uniformity should be
+so limited.  This Court has stated that “Canadian maritime law”, not merely
+“Canadian maritime law related to navigation and shipping”, must be uniform. 
+BVHB argues that uniformity can be achieved through the application of
+provincial contributory negligence legislation as all provinces have
+apportionment provisions in the statutes.  However, there are important
+differences between the various provincial statutes.  These differences might
+lead over time to non-uniformity and uncertainty.  Difficulty might also arise
+as to what province’s law applies in some situations.  89                              
+The plaintiffs argue that this Court’s decision in Stein v. The Ship
+“Kathy K”, [1976] 2 S.C.R. 802, provides that provincial laws can apply to
+maritime matters in the absence of federal law.   Assuming this is so, it does
+not advance the plaintiffs’ case.  On the view I take, there is no “gap” that
+would allow for the application of provincial law.  While the federal government
+has not passed contributory negligence legislation for maritime torts, the
+common law principles embodied in Canadian maritime law remain applicable in
+the absence of federal legislation.  The question is not whether there is
+federal maritime law on the issue, but what that law decrees.  90                              
+The common law inherited from Britain barred a contributorily-negligent
+plaintiff from recovery.  Canadian maritime law embraces the common law
+principles of tort:  ITO, supra, at p. 779.  The basis of the old
+common law “defence” of contributory negligence, thought to have originated in Butterfield
+v. Forrester (1809), 11 East. 60, 103 E.R. 926 (K.B.), was that the damages
+suffered by a contributorily negligent party were not totally the fault of a
+tortfeasor.  Courts were reluctant to allow the injured party to recover where
+the tortfeasor was not fully responsible for the damage.  In essence, this was
+a “causation” rationale.  The Court took the view that the injured party had
+failed to prove that the tortfeasor caused the damage:  Toronto
+Transportation Commission v. The King, [1949] S.C.R. 510, at p. 515.  In
+England, prior to statutory revision, this bar for recovery by contributorily
+negligent plaintiffs was acknowledged to apply in maritime cases:  see e.g. The
+“Sobieski” (1949), 82 Ll.L.R. 370 (C.A.).  In Canada, the rule has been
+applied or referred to in the context of both non-maritime and maritime matters
+in cases including: Toronto Transportation Commission, supra, Gartland
+Steamship Co. v. The Queen, [1960] S.C.R. 315, Algoma Central &
+Hudson Bay Railway Co. v. Manitoba Pool Elevators Ltd., [1964] Ex. C.R.
+505, and Fraser River Harbour Commission v. The “Hiro Maru”, [1974] 1
+F.C. 490 (T.D.).  91                              
+The common law rule has been abrogated for certain collisions between
+vessels by s. 565  of the Canada Shipping Act, R.S.C., 1985, c. S-9 , but
+remains in effect for situations not covered by the Canada Shipping Act 
+provisions:  see e.g. Algoma Central, supra, and The “Hiro
+Maru”, supra.   Parliament recently tabled Bill C-73, which would
+(amongst other matters) reform the Canada Shipping Act  in relation to
+collision cases involving wrongful death by stating that in such cases
+contributory negligence is not a bar to recovery and establishing an
+apportionment regime.  The Department of Justice is considering wider reforms,
+including the abrogation of the contributory negligence bar through the
+enactment of federal legislation:  see Department of Justice, Admiralty and
+Maritime Law Section, Discussion Paper, Eliminating Outmoded Common Law
+Defences in Maritime Torts.  92                              
+The plaintiffs argue that this Court should follow the approach taken by
+the Newfoundland Court of Appeal and remove the maritime contributory
+negligence bar.  They contend that the bar is out of date, and that it is time
+for Canada to adopt a regime of apportionment in maritime claims, as other
+jurisdictions have done.  The defendants, in response, submit that the common
+law rule barring recovery for contributory negligence in maritime cases is long
+established.  They point out that parties involved in maritime activity arrange
+their affairs on the basis of the existing law, which bars recovery by
+contributorily negligent plaintiffs in maritime collision cases.  If the bar is
+to be lifted, this should be done by Parliament, they argue.  93                              
+The question is whether the proposed change falls within the test for
+judicial reform of the law which has been developed by this Court.  Courts may
+change the law by extending existing principles to new areas of the law where
+the change is clearly necessary to keep the law in step with the “dynamic and
+evolving fabric of our society” and the ramifications of the change are not
+incapable of assessment.  Conversely, courts will not intervene where the
+proposed changes will have complex and far-reaching effects, setting the law on
+an unknown course whose ramifications cannot be accurately gauged:  Watkins
+v. Olafson, [1989] 2 S.C.R. 750, and R. v. Salituro, [1991] 3 S.C.R.
+654.   As Iacobucci J. put it in Salituro (at p. 670):   These cases reflect the flexible approach that this
+Court has taken to the development of the common law.  Judges can and should
+adapt the common law to reflect the changing social, moral and economic fabric
+of the country.  Judges should not be quick to perpetuate rules whose social
+foundation has long since disappeared.  Nonetheless, there are significant
+constraints on the power of the judiciary to change the law.  As McLachlin J. indicated
+in Watkins, supra, in a constitutional democracy such as ours it
+is the legislature and not the courts which has the major responsibility for
+law reform; and for any changes to the law which may have complex
+ramifications, however necessary or desirable such changes may be, they should
+be left to the legislature.  The judiciary should confine itself to those
+incremental changes which are necessary to keep the common law in step with the
+dynamic and evolving fabric of our society.   In my view,
+recognition of shared liability for fault and elimination of the contributory
+negligence bar in maritime torts falls within these principles.  94                              
+First, the change is required to keep the maritime common law “in step
+with the dynamic and evolving fabric of our society”.  The considerations on
+which the contributory negligence bar was based no longer comport with the
+modern view of fairness and justice.  Tort law no longer accepts the
+traditional theory underpinning the contributory negligence bar — that the
+injured party cannot prove that the tortfeasor “caused” the damage.  The
+contributory negligence bar results in manifest unfairness, particularly where
+the negligence of the injured party is slight in comparison with the negligence
+of others.  Nor does the contributory negligence bar further the goal of modern
+tort law of encouraging care and vigilance.  So long as an injured party can be
+shown to be marginally at fault, a tortfeasor’s conduct, no matter how
+egregious, goes unpunished.  95                              
+Judges and commentators are united in condemning the bar.  The
+continuing existence of a maritime contributory negligence bar has been termed
+“archaic” (see W. Tetley, “A Definition of Canadian Maritime Law” (1996), 30 U.B.C.
+L. Rev. 137, at p. 138).  In a maritime personal injury case, Mackenzie J.
+described the bar much less charitably as “a harsh anachronism out of tune with
+contemporary standards of fairness”: Peters v. A.B.C. Boat Charters Ltd.
+(1992), 73 B.C.L.R. (2d) 389 (S.C.), at p. 397.  96                              
+Although admiralty law in the United States is a combination of
+legislation and judicially created rules, much of the reform in the area of
+contributory negligence and apportionment based on liability originated with
+the judiciary.  The United States Supreme Court removed the contributory
+negligence bar over one hundred years ago in The Max Morris, 137 U.S. 1
+(1890).  The plaintiff longshoreman sued for injuries sustained when he fell
+from the defendant ship’s bridge.  The accident was found to have been caused
+both by the negligence of the plaintiff and the negligent removal of a ladder
+by the defendant ship operators.  Blatchford J., after reviewing the case law,
+concluded that the contributory negligence bar had been gradually relaxed and
+applied the divided damages rule which then prevailed in maritime collision
+cases.  He stated (at pp.14-15):  All these were cases in admiralty, and were not
+cases of collision between two vessels.  They show an amelioration of the
+common law rule, and an extension of the admiralty rule in a direction which we
+think is manifestly just and proper.  Contributory negligence, in a case like
+the present, should not wholly bar recovery.  There would have been no injury
+to the libellant but for the fault of the vessel; and while, on the one hand,
+the court ought not to give him full compensation for his injury, where he
+himself was partly in fault, it ought not, on the other hand, to be restrained
+from saying that the fact of his negligence should not deprive him of all recovery
+of damages.  As stated by the District Judge in his opinion in the present
+case, the more equal distribution of justice, the dictates of humanity, the
+safety of life and limb and the public good, will be best promoted by holding
+vessels liable to bear some part of the actual pecuniary loss sustained by the
+libellant, in a case like the present, where their fault is clear, provided the
+libellant’s fault, though evident, is neither wilful, nor gross, nor
+inexcusable, and where the other circumstances present a strong case for his
+relief.  We think this rule is applicable to all like cases of marine tort
+founded upon negligence and prosecuted in admiralty, as in harmony with the
+rule for the division of damages in cases of collision.  The mere fact of the negligence
+of the libellant as partly occasioning the injuries to him, when they also
+occurred partly through the negligence of the officers of the vessel, does not
+debar him entirely from a recovery.   Legislation
+providing for apportionment based on fault in personal injury cases was later
+enacted.  More recently, the principle of contribution between tortfeasors was
+recognized in Cooper Stevedoring Co. v. Fritz Kopke, Inc., 417 U.S. 106
+(1974).  Finally,  in relation to collision cases, the United States Supreme
+Court reformed the common law divided damages rule and apportioned damages
+proportionately to the comparative degrees of fault: United States v.
+Reliable Transfer Co., 421 U.S. 397 (1975).  97                              
+I turn next to the question of whether removal of the contributory
+negligence bar will have unforeseeable or complex ramifications beyond the
+cognizance of the judiciary.  In my view, it will not.  The principle of
+apportionment for non-maritime torts is universally accepted in every part of
+Canada and indeed, around the world.  Statutes have eliminated the bar and
+substituted a rule of apportionment in England, Australia and the common law
+provinces of Canada.  The same holds under the Civil Code of Québec,
+S.Q. 1991, c. 64 (art. 1478): see J.-L. Baudouin, La responsabilité civile
+(4th ed. 1994), at paras. 490-91.  In England, Australia and the United States,
+the bar has been removed, and apportionment made the rule, for maritime torts. 
+In all these jurisdictions, the rule of apportionment operates without apparent
+problem.  In brief, the proposed change has been tried and tested.  This
+experience tells us what will happen if the contributory negligence bar is
+lifted and apportionment allowed.  We can confidently predict that lifting the
+bar will not produce unforeseen or problematic consequences.  Rather, the
+effect will be positive: to bring the law in step not only with “the changing
+social, moral and economic fabric of the country” (Salituro, supra,
+at p. 670), but with the law of other jurisdictions like the United States,
+Australia and England.  98                              
+The defendants submit that this Court should not change the law to
+eliminate the contributory negligence bar because it is not in a position to
+determine what type of  regime to put in its place.  Here again, however, the
+experience of other jurisdictions assists us.  99                              
+The first question is whether a defendant should be responsible for only
+its share of the damages (several liability), or for all of the plaintiff’s
+damages less the percentage of damage attributable to the plaintiff (joint and
+several liability).  The defendants submit that the first approach (several
+liability) should be adopted as it is more consistent with the collision
+provisions in s. 565  of the Canada Shipping Act , which provides:  565. (1)  Where, by the fault of two or more
+vessels, damage or loss is caused to one or more of those vessels, to their
+cargoes or freight or to any property on board, the liability to make good the
+damage or loss shall be in proportion to the degree in which each vessel was at
+fault.    This may be
+contrasted with s. 566 , which provides that the liability of vessel owners for
+personal injury is “joint and several”.  Without definitively determining the
+effect of s. 565 , which was not argued, the difference between the two sections
+falls short of demonstrating that Parliament intended liability under s. 565  to
+be several only.  The precursors to ss. 565  and 566  were originally enacted in
+the Maritime Conventions Act, 1914, S.C. 1914, c. 13, in order to give
+effect to the articles of the 1910 Brussels Convention.  Section 565  originated
+as a response to the common law admiralty divided damages rule which provided
+that when two ships collided, each bore 50 percent of the loss.  As collisions
+between more than two vessels are rare (no reported cases of such collisions
+have been cited to us), it may not have been considered necessary to address
+the issue of contribution between two or more vessels.  By contrast, personal
+injury actions are more likely to involve more than one defendant, which may
+explain the reference to joint and several liability in s. 566 .  100                          
+In the United States, joint and several liability is the rule:  Edmonds
+v. Compagnie Générale Transatlantique, 443 U.S. 256 (1979); see also W. B. Daly
+and G. H. Falter, “Contribution and Indemnity in Maritime Actions”, in Benedict
+on Admiralty (7th ed. 1995 (loose-leaf)), vol. 2, at p. 1-6.  Any
+tortfeasor paying the plaintiff a greater amount than its portion of liability
+can obtain contribution from the other tortfeasor(s):  Cooper Stevedoring,
+supra, and Daly and Falter.  This appears to be essentially consistent
+with the contributory negligence legislation of most provinces and England: 
+see e.g. L. Klar, “Contributory Negligence and Contribution Between
+Tortfeasors” in Studies in Canadian Tort Law (1977), at pp. 163-64, and
+R. F. V. Heuston and R. A. Buckley, Salmond and Heuston on the Law of Torts
+(21st ed. 1996), at p. 491.  The situation appears to be similar under the Civil
+Code of Québec (arts. 1523 and 1526):  J.-L. Baudouin, Les obligations
+(4th ed. 1993), at para. 870.  101                          
+A final question concerns the availability of contribution — that is,
+the right of a tortfeasor who pays more than its share of the plaintiff’s
+damages to recover the excess amount paid from other tortfeasors.  It is often
+stated that at common law there was no contribution between tortfeasors, citing
+Merryweather v. Nixan (1799), 8 T.R. 186, 101 E.R. 1337.  It may also be
+noted that in Sparrows Point v. Greater Vancouver Water District, [1951]
+S.C.R. 396, Rand J. (at p. 412), in concurring reasons, after holding that
+provincial contributory negligence legislation could not apply, stated that as
+a result of the application of common law admiralty principles, there could be
+no contribution.   However, the arguments in favour of and against contribution
+between tortfeasors appear not to have been considered.  Commentators have
+questioned whether the common law rule against contribution was absolute,
+particularly in cases where the tort committed was not intentional, and there
+was no malicious motivation:  see e.g. G. Williams, Joint Torts and
+Contributory Negligence (1951), at pp. 83-84, and see also Eliminating
+Outmoded Common Law Defences in Maritime Torts, supra, at pp. 5-6. 
+Again, under the Quebec Civil Code, contribution is available to a
+tortfeasor who has paid more than its share of the liability (art. 1536): 
+Baudouin, Les obligations, supra, at para. 881.  Like the
+contributory negligence bar, the idea that there can be no contribution between
+tortfeasors is anachronistic and not in keeping with modern notions of
+fairness.  102                          
+I conclude that this is an appropriate case for this Court to make an
+incremental change to the common law in compliance with the requirements of
+justice and fairness.  Contributory negligence may reduce recovery but does not
+bar the plaintiff’s claim.  The defendants SJSL and Raychem are jointly and
+severally liable to the plaintiff BVHB for 40 percent of its loss, subject to a
+right of contribution between defendants.  I.                 Summary
+of Findings on Tort Issues  103                          
+The defendants SJSL and Raychem owed the plaintiff BVHB a duty to warn
+of the dangers of using Thermaclad on the rig.  The contract did not exclude
+SJSL’s tort liability to BVHB.  SJSL and Raychem did not discharge their duty
+to warn and are equally responsible for failing to do so.  104                          
+The plaintiff BVHB was contributorily negligent, and responsible for 60
+percent of its loss.  Its contributory negligence does not bar recovery of the
+balance of its losses.  VI.              Is
+SJSL Liable to BVHB in Contract?  105                          
+The Court of Appeal found that the parties settled the contract issues
+out of court and that there was accord and satisfaction.  BVHB appeals this
+finding.  106                          
+In BVHB’s submission, the purpose of the settlement concluded by the
+countersigned letter dated November 12, 1985 was not to discharge all
+contractual liabilities but to determine the final cost of construction so that
+the day rates could be established.  The parties could not, it argues, have
+intended to abandon other rights in the contract, such as BVHB’s intellectual
+property claims, SJSL’s intellectual property reservations, or rights arising
+from breaches that they were unaware of at the time.  It argues that the
+general release language of the letter should be restrained by the limiting
+language in an earlier letter outlining construction costs and warranty
+matters.  BVHB also argues that the Court of Appeal’s conclusion of accord and
+satisfaction contravenes the express provisions of clause 1903 of the
+construction contract:  1903.   Any failure by Owner at any time or from time to time to
+enforce or require the strict keeping and performance of any of the terms or
+conditions of this Agreement shall not constitute a waiver of such terms or
+conditions and shall not affect or impair such terms or conditions in any way,
+or the right of Owner at any time to avail itself of such remedies as it may
+have for any breaches of such terms or conditions.  Thus, BVHB
+submits that SJSL’s breaches of contract — its failure to provide letters of
+certification for Thermaclad and its failure to ensure that Thermaclad met the
+non-combustibility requirements incorporated into the construction contract —
+remain actionable.  107                          
+SJSL responds by pointing out that the stated purpose of the exchange of
+cheques was to fully and finally settle all of the claims arising out of the
+contract, except in relation to the thruster problem (not at issue).  The
+letter did not state that the exchange was for the limited purpose of settling
+the capital cost of the rig for the determination of the day rates.  SJSL says
+that there is no evidence that SJSL knew or would have cared about BVHB’s need
+to settle contractual issues in order to determine the day rates.  Finally, in
+SJSL’s submission, clause 1903 does not apply.  A settlement agreement is not a
+“failure . . . to enforce or require the strict keeping and performance of any
+of the terms or conditions” of the contract.  The purpose of a provision such
+as clause 1903 is to prevent an argument based on waiver or promissory
+estoppel, not to prevent the reaching of a settlement agreement entered into
+for good consideration.  108                          
+I agree with the Court of Appeal that the countersigned letter of
+November 12, 1985 and the exchange of cheques settled the claims for breach of
+contract.  Cameron J.A. correctly stated the requirements of accord and
+satisfaction as outlined by Scrutton L.J. in British Russian Gazette and
+Trade Outlook, Ltd. v. Associated Newspapers, Ltd., [1933] 2 K.B. 616
+(C.A.), at pp. 643-44:  Accord and satisfaction is the purchase of a release from an obligation
+whether arising under contract or tort by means of any valuable consideration,
+not being the actual performance of the obligation itself.  The accord is the
+agreement by which the obligation is discharged.  The satisfaction is the
+consideration which makes the agreement operative.  109                          
+The knowledge that BVHB may or may not have had of other potential
+contractual claims is irrelevant in light of its intention that there be a
+“full and final settlement”.  BVHB made no reservations in the letter except
+for the thrusters.  I accept SJSL’s argument that BVHB’s motivation for
+entering into the agreement is also irrelevant.  The court need not go beyond
+the purpose of the exchange of cheques unambiguously stated in the
+countersigned letter:  to “constitute full and final settlement of the subject
+contract and the guarantee provision thereof, with the exception of the
+thruster problem”.  The accord and satisfaction was supported by consideration,
+discharging SJSL from any contractual liability to BVHB in relation to the
+alleged breaches raised in this case.  110                          
+In view of my conclusion that the contractual issues have been settled
+and are no longer litigable I make no findings on whether there was a breach of
+contract or whether if there was, damages would be reduced on account of BVHB’s
+contributory negligence.  VII.             Disposition  111                          
+I would dismiss the main appeal and all cross-appeals, with costs in
+this Court.  As to costs below, the order of the Newfoundland Court of Appeal
+remains.      //Iacobucci
+J.//  The judgment of Gonthier, Cory, Iacobucci and Major JJ. was delivered
+by  112                          
+Iacobucci J. -- I have had
+the advantage of reading the lucid reasons of my colleague, Justice McLachlin. 
+At the outset, I wish to commend my colleague for her treatment of the approaches
+taken by her and La Forest J. in Canadian National Railway Co. v. Norsk
+Pacific Steamship Co., [1992] 1 S.C.R. 1021.  In that respect, I simply
+wish to add one comment regarding the issue of contractual relational economic
+loss.  113                          
+I understand my colleague’s discussion of this matter to mean that she
+has adopted the general exclusionary rule and categorical exceptions approach
+set forth by La Forest J. in Norsk.  My colleague has found that the
+circumstances of the present case do not fall within any of the three
+exceptions identified in that case.  She points out that both her
+reasons and those of La Forest J. in Norsk recognize that the categories
+of recoverable contractual relational economic loss are not closed and that
+whether or not a new category ought to be created is determined on a
+case-by-case basis.  In that connection, I approve of her analysis of the facts
+of this case and applaud the approach she has taken to meld her reasoning in Norsk
+with that of La Forest J. in this very difficult area of the law.  114                          
+While I agree with most of her analysis in this case, I cannot, with
+respect, concur with her interpretation of clauses 702, 905 and 907 of the
+contract between SJSL and BVHB.  I agree with my colleague when she points out
+that limitation and exclusion clauses are to be strictly construed against the
+party seeking to invoke the clause.  I also agree that, where the planned
+contractual obligations of two parties negate tort liability, contract will
+“trump” tort.  But, I disagree with her conclusion that the clauses in question
+do not negate SJSL’s duty to warn.  115                          
+Clause 907 states in part that, “Builder’s liability with respect to the
+Owner Directed Supply shall extend only to installation thereof . . .”
+(emphasis added).  As I read this clause,  the parties have chosen to specify
+the only ground of builder liability related to the use of Thermaclad,
+namely, negligence in the installation thereof.  By expressly limiting
+liability to only these circumstances, the parties have, in my view, by
+necessary implication excluded all other grounds of builder liability,
+including the duty to warn.  116                          
+The fact that Thermaclad is “owner directed supply” reinforces my
+reading of the provisions in question.  In the instant case, Thermaclad was
+chosen by the owner, BVHB, and the builder, SJSL, was obliged to use that
+product.  Indeed, SJSL would have breached the contract if it had refused to
+use this material.  It seems to me that where the owner specifies a particular
+product to be used, it is generally the owner and not the builder who, unless
+otherwise specified in the contract, should bear the losses that flow from the
+risk associated with that product’s use.  117                          
+Additional reinforcement for my conclusion that the contract provisions
+create exclusive liability limited to installation is found in the concluding
+language of clause 907, which reads: “In all other instances, the sole
+risk and responsibility for Owner Directed Supply shall, as between Builder and
+Owner, be borne by Owner” (emphasis added).  I also draw support from clause
+905 which states in part that, the “remedies provided in this Article are exclusive”
+(emphasis added).  In addition, clause 702 states that “the Builder’s  sole
+obligation with respect to the Vessel shall be as specified in Article IX”
+(emphasis added).  That article contains both clauses 905 and 907.  118                          
+In concluding that the present contract does not exclude liability for
+negligence, my colleague puts much emphasis on the placement of the relevant
+provisions within the contract.  Clauses 905 and 907, both found in the
+“warranty” section of the contract, are said to function as a “‘warranty’ of
+workmanship and materials” (para. 29).  My colleague notes that warranties
+generally do not relate to the duty to warn about the risks associated with the
+use of the products they cover.  However, in my opinion, the placement of
+clauses within a contract, while a factor to be considered,  is not
+determinative.  Rather, in my view, one should examine the contract as a whole
+with a view to searching for the intention of the parties by recognizing the
+natural meaning that flows from the language chosen.  119                          
+When examined in the context of cases which have held parties responsible
+for negligence without any express contractual reference to that head of
+liability, it is clear that the clauses in the instant contract are of a very
+different nature.  For example, in Falcon Lumber Ltd. v. Canada Wood
+Specialty Co. (1978), 95 D.L.R. (3d) 503 (Ont. H.C.), the court found the
+defendant liable for negligence despite the following at paragraph 13 of the
+defendant’s price list: “The Canada Wood Specialty Company Limited is not
+responsible for damages or theft that may occur whilst customer lumber and/or
+property is on The Canada Wood Specialty Co. Ltd. premises.”  Whereas clauses
+such as this provide for general exclusion from liability, the language
+of the clauses at issue in the case at bar expressly provides for the assumption
+of liability limited to a specific circumstance, namely, negligent installation
+of owner-directed supply.  I do not accept that contract clauses which are so
+fundamentally different should necessarily be interpreted in the same manner.  120                          
+An alternative analysis set forth by this Court in ITO--International
+Terminal Operators Ltd. v. Miida Electronics Inc.,  [1986] 1 S.C.R. 752,
+leads me to the same conclusion.  In Miida Electronics, a marine carrier
+(Mitsui) agreed in a contract evidenced by a bill of lading to carry goods from
+Japan to Montreal where the respondent Miida, the other party to the contract
+and the owner of the goods, could take delivery.  The goods arrived in Montreal
+and were picked up by the appellant, ITO, a cargo-handling company and terminal
+operator.  ITO had agreed with Mitsui to store the goods until delivery was
+made to Miida.  Before the goods  could be delivered to Miida, thieves broke
+into the storage facility operated by ITO and a large number of Miida’s goods
+were stolen.  Miida alleged that the theft would not have occurred but for the
+negligence of ITO.  121                          
+One of the key issues in Miida Electronics was whether a
+“Himalaya” clause in Mitsui’s bill of lading extended limitation of liability
+to those it employed in the performance of the contract of carriage.  However,
+having decided that the Himalaya clause could be effective, the Court went on
+to consider whether the exemption clause in the bill of lading, which imposed
+limits on liability but did not expressly refer to negligence, could relieve
+ITO of liability for its own negligence.  McIntyre J., writing for the
+majority, relied heavily upon Lamport & Holt Lines Ltd. v. Coubro &
+Scrutton (M. & I.) Ltd. (The “Raphael”), [1982] 2 Lloyd’s Rep. 42
+(C.A.), where May L.J. canvassed the jurisprudence in the area and stated (at
+pp. 49-50):  . . . if an exemption clause of the kind we are considering excludes
+liability for negligence expressly, then the Courts will give effect to the
+exemption.  If it does not do so expressly, but its wording is clear and wide
+enough to do so by implication, then the question becomes whether the
+contracting parties so intended.  If the only head of liability upon which the
+clause can bite in the circumstances of a given case is negligence, and the
+parties did or must be deemed to have applied their minds to this eventuality,
+then clearly it is not difficult for a Court to hold that this was what the
+parties intended -- that this is its proper construction.  Indeed, to hold
+otherwise would be contrary to commonsense.  On the other hand if there is a
+head of liability upon which the clause could bite in addition to negligence
+then, because it is more unlikely than not that a party will be ready to excuse
+his other contracting party from the consequences of the latter’s negligence,
+the clause will generally be construed as not covering negligence.   If the
+parties did or must be deemed to have applied their minds to the potential
+alternative head of liability at the time the contract was made then, in the
+absence of any express reference to negligence, the Courts can sensibly only
+conclude that the relevant clause was not intended to cover negligence and will
+refuse so to construe it.  The Ontario
+Court of Appeal recently relied upon this same line of reasoning in Upper
+Lakes Shipping Ltd. v. St. Lawrence Cement Inc. (1992), 89 D.L.R. (4th)
+722.  122                          
+In Miida Electronics, supra, McIntyre J. found that, as
+the goods were in short-term storage awaiting delivery, the only liability that
+could be imposed on ITO would be based on negligence.  Therefore, the exemption
+clause in the bill of lading, despite the absence of an express reference to
+negligence, was found to relieve ITO of liability for negligence.  In my
+opinion, the contract provisions in the instant case warrant the same
+treatment.  By the wording of clause 905, SJSL is relieved of any liability
+arising from defects.  Clause 907 states that SJSL’s liability shall extend only
+to installation of owner-directed supply and that in all other instances,
+BVHB bears the risk and responsibility for these products.  Therefore, it seems
+to me that the natural meaning of these clauses indicates that the only head of
+liability upon which these clauses can bite is negligence in installation.  As
+such, based upon the authority of Miida Electronics, SJSL ought to be
+relieved of any liability for failing to warn BVHB of the dangers associated
+with the use of Thermaclad.  123                          
+Accordingly, I must respectfully disagree with McLachlin J.’s conclusion
+that BVHB was entitled to claim against SJSL based on the tort duty to warn.  I
+note that it is not open to Raychem to seek contribution from SJSL, as a
+contractor which has protected itself against liability cannot be said to have
+contributed to any actionable loss suffered by the plaintiff: Giffels
+Associates Ltd. v. Eastern Construction Co., [1978] 2 S.C.R. 1346. 
+Consequently, Raychem is liable for the entire 40 percent quantum found by the
+trial judge.  124                          
+I would therefore dismiss the appeal brought by HOOL and BVI.  Further,
+I would dismiss all of the cross-appeals save for that of SJSL with regard to
+the duty to warn, which I would allow with costs throughout.  As to costs on
+the main appeal and all other cross-appeals, I would assess these in the same
+manner as McLachlin J.   Solicitors for Husky Oil Operations Ltd.:  Code Hunter
+Wittmann, Calgary.  Solicitors for Bow Valley Industries Ltd.:  McCarthy
+Tétrault, Toronto.  Solicitors for Bow Valley Husky (Bermuda) Ltd.:  Stewart McKelvey Stirling
+Scales, St. John’s.  Solicitors for St. John Shipbuilding Limited:  Osler,
+Hoskin & Harcourt, Toronto.  Solicitors for Raychem Canada Limited and Raychem Corporation: 
+McInnes Cooper & Robertson, St. John’s.  * Sopinka J. took no part in the judgment.  

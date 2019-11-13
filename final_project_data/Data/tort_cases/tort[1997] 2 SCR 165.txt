@@ -1,0 +1,1178 @@
+Hercules Managements Ltd. v. Ernst & Young, [1997] 2
+S.C.R. 165  Hercules Managements Ltd., Guardian Finance of Canada Ltd. and Max Freed                                                             Appellants (Plaintiffs/ Respondents)  and  Friendly Family Farms Ltd., Woodvale Enterprises Ltd., Arlington Management Consultants Ltd., Emarjay Holdings Ltd. and David Korn                                                                                  (Plaintiffs)  v.  Ernst & Young and Alexander Cox                                                  Respondents (Defendants/ Applicants)  and  Max Freed, David Korn and Marshall Freed                                  (Third
+Parties)  and  The Canadian Institute of Chartered Accountants                          Intervener  Indexed as:  Hercules Managements Ltd. v. Ernst & Young  File No.:  24882.  1996:  December 6; 1997:  May 22. Present:  La Forest, Sopinka, Gonthier, Cory, McLachlin, Iacobucci
+and Major JJ.  on appeal from the court of appeal for manitoba    In 1984, both NGA and NGH went into
+receivership.  The appellants, and a number of other shareholders or
+investors in NGA, brought an action against the respondents in 1988 alleging
+that the audit reports for the years 1980, 1981 and 1982 were negligently
+prepared and that in reliance on these reports, they suffered various financial
+losses. They also alleged that a contract existed between themselves and the
+respondents in which the respondents explicitly undertook to protect the
+shareholders’ individual interests in the audits as distinct from the interests
+of the corporations themselves.  The respondents brought a motion for summary judgment
+in the Manitoba Court of Queen’s Bench seeking to have the plaintiffs’ claims
+dismissed.  The grounds for the motion were (a) that there was no contract
+between the plaintiffs and the respondents; (b) that the respondents did not
+owe the individual plaintiffs any duty of care in tort; and (c) that the claims
+asserted by the plaintiffs could only properly be brought by the corporations
+themselves and not by the shareholders individually.  The motions judge granted
+the motion with respect to four plaintiffs, including the appellants, and
+dismissed their actions on the basis that they raised no genuine issues for
+trial.  By agreement, the claims of the remaining plaintiffs were adjourned
+sine die.  An appeal to the Manitoba Court of Appeal was unanimously
+dismissed with costs.  Held:  The appeal should be dismissed.  Four preliminary matters were addressed before the
+principal issue.  Firstly, the question to be decided on a motion for summary
+judgment under rule 20 of the Manitoba Court of Queen’s Bench Rules is
+whether there is a genuine issue for trial.  Although a defendant who
+seeks dismissal of an action has an initial burden of showing that the case is
+one in which the existence of a genuine issue is a proper question for
+consideration, it is the plaintiff who must then, according to the rule,
+establish his claim as being one with a real chance of success.   Thus, the
+appellants (who were the plaintiffs-respondents on the motion) bore the burden
+of establishing that their claim had “a real chance of success”.  Secondly, no
+contract existed between the appellant shareholders and the respondents and, in
+any event, the contract claim was not properly before this Court. 
+Consequently, the appellants’ submissions in this regard must fail.  Thirdly,
+the independence requirements set out in s. 155 of the Manitoba Corporations
+Act do not themselves give rise to a cause of action in negligence. 
+Similarly, breach of those independence requirements could not establish a duty
+of care in tort.   Finally, it was not necessary to inquire into whether the
+appellants actually relied on the audited reports prepared by the respondents
+because the finding of an absence of a duty of care rendered the question of
+actual reliance inconsequential.     “Proximity” in negligent misrepresentation cases
+pertains to some aspect of the relationship of reliance.  It inheres when (a)
+the defendant ought reasonably to foresee that the plaintiff will rely on his
+or her representation, and (b) reliance by the plaintiff would, in the
+particular circumstances of the case, be reasonable.  Looking to whether reliance by the plaintiff would be
+reasonable in determining whether a prima facie duty of care exists (as
+opposed to looking at reasonable foreseeability alone) is not to abandon the
+basic tenets underlying the first branch of the Anns/Kamloops test.  
+While specific inquires into the reasonableness of the plaintiff’s expectations
+are not normally required in the context of physical damage cases (since the
+law has come to recognize implicitly that plaintiffs are reasonable in
+expecting that defendants will take reasonable care of their persons and
+property), such an inquiry is necessary in the negligent misrepresentation
+context.  This is because reliance by a plaintiff on a defendant’s
+representation will not always be reasonable.  Only by inquiring into the
+reasonableness of the plaintiff’s reliance will the Anns/Kamloops
+test be applied consistently in both contexts.    The fundamental policy consideration that must be
+addressed in negligent misrepresentation actions centres around the possibility
+that the defendant might be exposed to “liability in an indeterminate amount
+for an indeterminate time to an indeterminate class”.  While the criteria of
+reasonable foreseeability and reasonable reliance serve to distinguish cases
+where a prima facie duty is owed from those where it is not, these
+criteria can,  in certain types of situations, quite easily be satisfied and,
+absent some means by which to circumscribe the ambit of the duty, the prospect
+of limitless liability will loom.  The general area of auditors’ liability is a
+case in point. Here, the problem of indeterminate liability will often arise
+because the reasonable foreseeability/reasonable reliance test for ascertaining
+a prima facie duty of care may be satisfied in many, even if not all, such
+cases.  While policy concerns surrounding indeterminate
+liability will serve to negate a prima facie duty of care in many
+auditors’ negligence cases, there may be particular situations where such
+concerns do not inhere.  The specific factual matrix of a given case may render
+it an “exception” to the general class of cases, in that while considerations
+of proximity might militate in favour of finding that a duty of care inheres,
+the typical policy considerations stemming from indeterminate liability do not
+arise.  This concept can be articulated within the framework
+of the Anns/Kamloops test.  Under this test, factors such as (1) whether
+the defendant knew the identity of the plaintiff (or the class of plaintiff)
+and (2) whether the defendant’s statements were used for the specific purpose
+or transaction for which they were made ought properly to be considered in the
+“policy” branch of the test once the first branch concerning “proximity” has
+been found to be satisfied.  The absence of these factors will normally mean
+that concerns over indeterminate liability inhere and, therefore, that the prima
+facie duty of care will be negated.  Their presence, however, will mean
+that worries stemming from indeterminacy should not arise since the scope of
+liability is sufficiently delimited. In such cases, policy considerations will
+not override a positive finding on the first branch of the Anns/Kamloops
+test and a duty of care will quite properly be found to exist.  On the facts of this case, the respondents clearly
+owed a prima facie duty of care to the appellants.  Firstly, the
+possibility that the appellants would rely on the audited financial statements
+in conducting their affairs and that they might suffer harm if the reports were
+negligently prepared must have been reasonably foreseeable to the respondents. 
+Secondly, reliance on the audited statements by the appellant shareholders
+would, on the facts, be reasonable given both the relationship between the
+parties and the nature of the statements themselves.  The first branch of the Anns/Kamloops
+test is therefore satisfied.  As regards the second branch of this test, it is clear
+that the respondents knew the identity of the appellants when they provided the
+audit reports.  In determining whether this case is an “exception” to the
+generally prevailing policy concerns regarding auditors, the central question
+is therefore whether the appellants can be said to have used the  audit reports
+for the specific purpose for which they were prepared.  The answer will
+determine whether policy considerations surrounding indeterminate liability
+ought to negate the prima facie duty of care owed by the respondents.  The respondent auditors’ purpose in preparing the
+reports was to assist the collectivity of shareholders of the audited companies
+in their task of overseeing management.  The respondents did not prepare the
+audit reports in order to assist the appellants in making personal investment
+decisions or, indeed, for any purpose other than the standard statutory one. 
+The only purpose for which the  reports could have been used so as to give rise
+to a duty of care on the part of the respondents, therefore, is as a guide for
+the shareholders, as a group, in supervising or overseeing management.  In light of this finding, the specific claims of the
+appellants could each be assessed.  Those claims were in respect of:   (1)
+moneys injected  into NGA and NGH by Hercules and Freed, and (2) the
+devaluation of existing equity caused by the appellants’ alleged inability (a)
+to oversee personal investments properly, and  (b) to supervise the management
+of the corporations with a view to protecting their personal holdings.  As regards the first claim, the appellants alleged
+that they relied on the respondents’ audit reports for the purpose of making
+individual investments.  Since this was not a purpose for which the reports
+were prepared, policy concerns surrounding indeterminate liability are not
+obviated and these claims must fail.  Similarly,  the first branch of the
+appellants’ second claim must fail since monitoring existing personal
+investments is likewise not a purpose for which the audited statements were
+prepared. With respect to the second branch relating to the
+devaluation of appellants’ equity, the appellants’ position may at first seem
+consistent with the purpose for which the reports were prepared.  In reality,
+however, their claim did not involve the purpose of overseeing management per
+se.  Rather, it ultimately depended on being able to use the auditors’
+reports for the individual purpose of overseeing their own investments.  Thus,
+the purpose for which the reports were used was not, in fact, consistent with
+the purpose for which they were prepared.  The policy concerns surrounding
+indeterminate liability accordingly inhered and the prima facie duty of
+care was negated in respect of this claim as well.  The absence of a duty of care with respect to the
+appellant’s alleged inability to supervise management in order to monitor their
+individual investments is consistent with the rule in Foss v. Harbottle
+which provides that individual shareholders have no cause of action for wrongs
+done to the corporation.  When, as a collectivity, shareholders oversee the
+activities of a corporation through resolutions adopted at shareholder
+meetings, they assume what may be seen to be a “managerial” role.  In this
+capacity, they cannot properly be understood to be acting simply as individual
+holders of equity.  Rather, their collective decisions are made in respect of
+the corporation itself.  Any duty owed by auditors in respect of this aspect of
+the shareholders’ functions is owed not to shareholders qua individuals,
+but rather to all shareholders as a group, acting in the interests of the
+corporation.  Since the decisions taken by the collectivity of shareholders are
+in respect of the corporation’s affairs, the shareholders’ reliance on
+negligently prepared audit reports in taking such decisions will result in a
+wrong to the corporation for which the shareholders cannot, as individuals,
+recover.  A derivative action would have been the proper method of proceeding
+with respect to this claim.  Cases Cited  Considered:  Fidkalo
+v. Levin (1992), 76 Man. R. (2d) 267; Caparo Industries plc. v.
+Dickman, [1990] 1 All E.R. 568; Anns v. Merton London Borough Council,
+[1978] A.C. 728; Kamloops (City of) v. Nielsen, [1984] 2 S.C.R. 2; Canadian
+National Railway Co. v. Norsk Pacific Steamship Co., [1992] 1 S.C.R. 1021; Hedley
+Byrne & Co. v. Heller & Partners Ltd., [1964] A.C. 465; Haig v.
+Bamford, [1977] 1 S.C.R. 466; Ultramares Corp. v. Touche, 174
+N.E. 441 (1931); Glanzer v. Shepard,  135 N.E. 275 (1922); referred
+to:  Foss v. Harbottle (1843), 2 Hare 460, 67 E.R. 189;
+Hercules Management Ltd. v. Clarkson Gordon (1994), 91 Man. R. (2d) 216; R.
+in right of Canada v. Saskatchewan Wheat Pool, [1983] 1 S.C.R. 205; Queen
+v. Cognos Inc., [1993] 1 S.C.R. 87; Murphy v. Brentwood District
+Council, [1991] 1 A.C. 398; Sutherland Shire Council v. Heyman
+(1985), 60 A.L.R. 1; B.D.C. Ltd. v. Hofstrand Farms Ltd., [1986] 1
+S.C.R. 228; London Drugs Ltd. v. Kuehne & Nagel International Ltd.,
+[1992] 3 S.C.R. 299; Winnipeg Condominium Corporation No. 36 v. Bird
+Construction Co., [1995] 1 S.C.R. 85; Edgeworth Construction Ltd. v. N.
+D. Lea & Associates Ltd., [1993] 3 S.C.R. 206; Scott Group Ltd. v.
+McFarlane, [1978] 1 N.Z.L.R. 553; Donoghue v. Stevenson, [1932] A.C.
+562; Candler v. Crane, Christmas & Co., [1951] 2 K.B. 164; H.
+Rosenblum (1983), Inc. v. Adler, 461 A.2d 138 (1983); Roman Corp.
+Ltd. v. Peat Marwick Thorne (1992), 11 O.R. (3d) 248; Roman Corp.
+v. Peat Marwick Thorne (1993), 12 B.L.R. (2d) 10; Prudential Assurance
+Co. v. Newman Industries Ltd. (No. 2), [1982] 1 All E.R. 354; Goldex
+Mines Ltd. v. Revill (1974), 7 O.R. (2d) 216.  Statutes and Regulations Cited  Business Corporations Act, R.S.O. 1990, c. B.16.  Companies Act 1985 (U.K.), 1985, c. 6.  Corporations Act, R.S.M. 1987, c. C225, ss. 149(1), 155(1), (2), (6),
+163(1), 232.  Court of Queen’s Bench Rules, Man. Reg. 553/88, Rule 20.03(1).  Authors Cited  Cheffins, Brian R.  “Auditors’
+Liability in the House of Lords:  A Signal Canadian Courts Should Follow”
+(1991), 18 C.B.L.J. 118.  Cherniak, Earl A., and Kirk F.
+Stevens.  “Two Steps Forward or One Step Back?  Anns at the Crossroads
+in Canada” (1992), 20 C.B.L.J. 164.  Feldthusen, Bruce.  Economic
+Negligence, 3rd ed.  Scarborough:  Carswell, 1994.  Fleming, J. G.  “The Negligent
+Auditor and Shareholders” (1990), 106 L.Q. Rev. 349.   McHugh, M. H. “Neighbourhood,
+Proximity and Reliance”.  In P. D. Finn, ed., Essays on Torts. 
+Sydney:  Law Book Co., 1989. Sexton, J. Edgar, and John W.
+Stevens.  “Accountants’ Legal Responsibilities and Liabilities”.  In Meredith
+Memorial Lectures 1983-84, Professional Responsibility in Civil Law and
+Common Law.  Faculty of Law, McGill University.  Don Mills, Ont.: Richard
+De Boo, 1985, 88.  Stapleton, Jane.  “Duty of Care
+and Economic Loss: a Wider Agenda” (1991), 107 L.Q. Rev. 249.  Wiener, Howard B.  “Common Law
+Liability of the Certified Public Accountant for Negligent Misrepresentation”
+(1983), 20 San Diego L. Rev. 233.  APPEAL from a judgment of the Manitoba Court of Appeal
+(1995), 102 Man. R. (2d) 241, 93 W.A.C. 241, 125 D.L.R. (4th) 353, 19 B.L.R.
+(2d) 137, 24 C.C.L.T. (2d) 284, dismissing an appeal from judgment by Dureault
+J.  Appeal dismissed.  Mark M. Schulman, Q.C.,
+and Brian A. Crane, Q.C., for the appellants.  Robert P. Armstrong, Q.C., and Thor J. Hansell, for the respondents.  W. Ian C. Binnie, Q.C.,
+and Geoff R. Hall, for the intervener.  The judgment of the Court was delivered by  1                                  
+La Forest J. -- This
+appeal arises by way of motion for summary judgment.  It concerns the issue of
+whether and when accountants who perform an audit of a corporation’s financial
+statements owe a duty of care in tort to shareholders of the corporation who
+claim to have suffered losses in reliance on the audited statements.  It also
+raises the question of whether certain types of claims against auditors may
+properly be brought by shareholders as individuals or whether they must be
+brought by the corporation in the form of a derivative action.  Facts 2                                  
+Northguard Acceptance Ltd. (“NGA”) and Northguard Holdings Ltd. (“NGH”)
+carried on business lending and investing money on the security of real
+property mortgages.  The appellant Guardian Finance of Canada Ltd. (“Guardian”)
+was the sole shareholder of NGH and it held non-voting class B shares in NGA. 
+The appellants Hercules Managements Ltd. (“Hercules”) and Max Freed were also
+shareholders in NGA.  At all relevant times, ownership in the corporations was
+separated from management.  The respondent Ernst & Young (formerly known as
+Clarkson Gordon) is a firm of chartered accountants that was originally hired
+by NGA and NGH in 1971 to perform annual audits of their financial statements
+and to provide audit reports to the companies’ shareholders.  The partner in
+charge of the audits for the years 1980 and 1981 is the respondent William
+Alexander Cox.  Mr. Cox held personal investments in some of the syndicated
+mortgages administered by NGA and NGH.  3                                  
+In 1984, both NGA and NGH went into receivership.  The appellants, as
+well as Friendly Family Farms Ltd. (“F.F. Farms”), Woodvale Enterprises Ltd.
+(“Woodvale”), Arlington Management Consultants Ltd. (“Arlington”), Emarjay
+Holdings Ltd. (“Emarjay”) and David Korn (all of whom were shareholders or
+investors in NGA) brought an action against the respondents in 1988 alleging
+that the audit reports for the years 1980, 1981 and 1982 were negligently
+prepared and that in reliance on these reports, they suffered various financial
+losses.  More specifically, the appellant Hercules sought damages for advances
+totalling $600,000 which it made to NGA in January and February of 1983, and
+the appellant Freed sought damages for monies he added to an investment account
+in NGH in 1982.  All the plaintiffs claimed damages in tort for the losses they
+suffered in the value of their existing shareholdings.  In addition to their
+tort claims, the plaintiffs also alleged that a contract existed between
+themselves and the respondents in which the respondents explicitly undertook,
+as of 1978, to protect the shareholders’ individual interests in the audits as
+distinct from the interests of the corporations themselves.  4                                  
+After a series of amendments to the initial statement of claim, over 40
+days of discovery, and numerous pre-trial conferences and case management
+sessions, the respondents brought a motion for summary judgment in the Manitoba
+Court of Queen’s Bench seeking to have the plaintiffs’ claims dismissed.  The
+grounds for the motion were (a) that there was no contract between the
+plaintiffs and the respondents; (b) that the respondents did not owe the
+individual plaintiffs any duty of care in tort; and (c) that the claims
+asserted by the plaintiffs could only properly be brought by the corporations
+themselves and not by the shareholders individually.  The motions judge granted
+the motion with respect to the plaintiffs Hercules, F.F. Farms, Woodvale,
+Guardian and Freed and dismissed their actions on the basis that they raised no
+genuine issues for trial.  By agreement, the claims of the remaining plaintiffs
+were adjourned sine die.  An appeal to the Manitoba Court of Appeal by
+Hercules, Guardian and Freed was unanimously dismissed with costs.  Leave to
+appeal to this Court was granted on March 7, 1996 and the appeal was heard on
+December 6, 1996.  Judicial
+History  Manitoba
+Court of Queen’s Bench  5                                  
+Dureault J. began his reasons by noting that only the claims of
+Hercules, F.F. Farms, Woodvale, Guardian and Freed had to be addressed since,
+by agreement, the claims of the other plaintiffs had been adjourned.  He then
+proceeded to set out the appropriate test to be applied in summary judgment
+motions.  Referring to Rule 20.03(1) of the Manitoba Court of Queen’s Bench
+Rules, Reg. 553/88, (which governs summary judgment motions) and citing Fidkalo
+v. Levin (1992), 76 Man. R. (2d) 267 (C.A.), he explained that while the
+defendant bears the initial burden of proving that the case is one where the
+question whether there exists a genuine issue for trial can properly be raised,
+the plaintiff bears the subsequent burden of establishing that his claim has a
+real chance of success.  6                                  
+After rejecting the claim of  the plaintiff F.F. Farms on the ground
+that it failed from the outset to establish any cause of action, Dureault J.
+turned to the more substantive issues in the motion. He began by addressing the
+question whether the plaintiffs qua shareholders may properly bring an
+action for the devaluation in their shareholdings in NGA and NGH, and held that  . . . shareholders have no cause of action in law for
+any wrongs which may have been inflicted upon a corporation.  This principle of
+law is often referred to as “the rule in Foss v. Harbottle”.  The
+plaintiff shareholders are trying to get around this principle.  At best, if
+any wrong was done in the conduct of the defendants’ audits, it was done to
+[NGA] and [NGH] and cannot be considered an injury sustained by the
+shareholders.  Dureault J.
+found on this basis that the claims of Hercules, Guardian, Woodvale and Freed
+did not disclose any genuine issue for trial since they ought to have been
+brought by the corporations and not by the plaintiffs as individual
+shareholders.  7                                  
+The motions judge next addressed the question whether any duty of care in
+tort was owed by the defendants to the plaintiffs in their capacities as either
+shareholders or investors in the audited corporations.  He noted that  [g]enerally speaking, the law requires more than foreseeability and
+reliance.  Actual knowledge on the part of the accountant/auditor of the
+limited class that will use and rely on the statements, referred to as the
+“proximity test”, is also required.  Adopting the
+defendants’ submissions on this issue, Dureault J. found that no duty of care
+was owed the plaintiffs because the audited statements were not prepared
+specifically for the purpose of assisting them in making investment decisions.  8                                  
+Finally, Dureault J. addressed the plaintiffs’ claim that their losses
+stemmed from a breach of contract by the defendants.  He recognized that the
+engagement of the auditors by the corporations is a contractual relationship,
+but rejected the contention that this relationship can be extended to include
+the shareholders so as to permit them to bring personal actions against the
+auditors in the event of breach.  Finding that none of the plaintiffs’ claims
+raised a genuine issue for trial, Dureault J. granted the motion with costs.  Manitoba
+Court of Appeal (1995), 102 Man. R. (2d) 241 (Philp, Lyon and Helper JJ.A.)  9                                  
+An appeal was brought to the Manitoba Court of Appeal by Hercules,
+Guardian and Freed.  Helper J.A., writing for the court, began her reasons by finding
+that the learned motions judge had correctly applied the Fidkalo test
+for summary judgment motion under Rule 20.03(1)  She also distinguished that
+test from that applicable on a motion to strike pleadings on the ground that,
+unlike the situation on a motion to strike, a Rule 20 motion requires an
+examination of the evidence in support of the plaintiff’s claim.  10                              
+Turning to the question whether the respondents owed a duty of care in
+tort to the appellants, Helper J.A. noted the latter’s two alternative
+submissions.  The first (at p. 244) was that  . . . a common law duty of care arose . . .
+because the respondents knew or ought to have known:  i) that the appellants
+were relying on the audited statements and the services and advice provided by
+the respondents; ii) the purpose for which the appellants would rely upon the
+respondents’ services and statements; iii) that the appellants did so rely upon
+those audited statements for investment and other purposes; and iv) that the
+respondents breached their duties to the appellants thereby causing them a
+financial loss.  In response to
+this claim, Helper J.A. explained, the respondents contended that the appellants
+were simply trying to avoid the rule in Foss v. Harbottle (1843),
+2 Hare 460, 67 E.R. 189 (H.L.), by asserting their claims as individual
+shareholders rather than by way of derivative action.  The respondents also
+argued that they had no knowledge that investments would be made on the basis
+of the audited statements and that there was no evidence to support the
+contention that they ought to have known that their reports would be relied
+upon in this manner.  Finally, Helper J.A. noted, the respondents asserted that
+there was no evidence demonstrating that the appellants had, in fact, relied on
+the audited statements at issue.  11                              
+In analysing this first main submission, Helper J.A. undertook a
+thorough review of Caparo Industries plc. v. Dickman, [1990] 1
+All E.R. 568, where the House of Lords considered the question of the scope of
+the duty of care owed by auditors to shareholders and investors.  After
+reviewing the Canadian case law on the matter, she concluded, at p. 248, that  [t]he appellants were unable to direct this court to any evidence in
+support of their position which was ignored by the motions judge.  Nor am I
+persuaded that the order dismissing the appellants’ claims is contrary to the
+existing jurisprudence.  The evidence showed that the auditors had prepared
+the annual reports to comply with their statutory obligations.  There was a
+total absence of evidence to indicate the respondents knew the appellants would
+rely upon the reports for any specific purpose or that the appellants did rely
+upon the reports before infusing more capital into their companies.  The
+appellants were content to allow management to continue running the companies
+despite a drop in profitability reflected in the 1982 audited report and
+invested more capital in the face of that report.  The evidence filed in
+opposition to the motion did not support the appellants’ claim on this issue. In the view of
+the Manitoba Court of Appeal, then, the first of the appellants’ submissions
+regarding the existence of a duty of care could not succeed.  12                              
+The appellants’ second main submission concerning the existence of a
+duty of care consisted in an allegation that the respondent auditors
+contravened the statutory independence requirements set out in s. 155 of the
+Manitoba Corporations Act, R.S.M. 1987, c. C225, and that this in itself
+gave rise to a cause of action in the individual shareholders.  The relevant
+portions of s. 155 are as follows:  155(1)  Subject to subsection (5), a person is disqualified from
+being an auditor of a corporation if he is not independent of the corporation,
+all of its affiliates, and the directors or officers of the corporation and its
+affiliates.  155(2)  For the purposes of this section,  (a) independence is a question of fact; and  (b) a person is deemed not to be independent if he or his business
+partner  (i) is a business partner, a director, an officer or an employee of the
+corporation or any of its affiliates, or a business partner of any director,
+officer or employee of the corporation or any of its affiliates, or  (ii) beneficially owns or controls, directly or indirectly, a material
+interest in the securities of the corporation or any of its affiliates, or  (iii) has been a receiver, receiver-manager, liquidator or trustee in
+bankruptcy of the corporation or any of its affiliates within two years of his
+proposed appointment as auditor of the corporation.                                                                     . . .  155(6)  The shareholders of a corporation may resolve to appoint
+as auditor, a person otherwise disqualified under subsections (1) and (2) if
+the resolution is consented to by all the shareholders including shareholders
+not otherwise entitled to vote.  Specifically,
+the appellants alleged that because s. 155(6) of the Act allows a single
+shareholder to exercise a veto power over the appointment of the auditors, each
+shareholder also has a right of action against the auditors where damage has
+been occasioned by a breach of the independence requirement in s. 155(2). 
+Helper J.A. rejected this submission both on the ground that it was unsupported
+by authority and on the basis that the wording of s. 155 as a whole does not
+suggest the interpretation urged by the appellants.  13                              
+Finally, Helper J.A. addressed the appellants’ contractual claim and
+held that the respondents’ engagement to audit the financial statements of NGA
+and NGH  in accordance with the Act did not give rise to a contractual
+relationship between them and the appellants.  Similarly, she found the
+appellants could not sue on the contract between the corporations and the
+respondent Ernst & Young because of the lack of privity.  Finding no
+evidence to support the existence of the requisite contractual relationship,
+Helper J.A. rejected the appellants’ claim in this regard.  For all these
+reasons, the Court of Appeal unanimously dismissed the appeal with costs.  Issues  14                              
+The issues in this case may be stated as follows:  (1) Do the respondents owe the appellants a duty of care with respect
+to  (a) the investment losses they incurred allegedly as a result of
+reliance on the 1980-82 audit reports; and  (b) the losses in the value of their existing shareholdings they
+incurred allegedly as a result of reliance on the 1980-82 audit reports?  (2) Does the rule in Foss v. Harbottle affect the
+appellants’ action?  Analysis  Preliminary
+Matters  15                              
+Four preliminary matters should be addressed before turning to the
+principal issues in this appeal.  The first concerns the procedure to be
+followed in a motion for summary judgment brought under Rule 20.03(1) of the
+Manitoba Court of Queen’s Bench Rules.  That rule provides as follows:  20.03(1)  Where the court is satisfied that there is no genuine
+issue for trial with respect to a claim or defence, the court shall grant
+summary judgment accordingly.  I would agree
+with both the Court of Appeal and the motions judge in their endorsement of the
+procedure set out in Fidkalo, supra, at p. 267, namely:  The question to be decided on a rule 20 motion is
+whether there is a genuine issue for trial.  Although a defendant who seeks
+dismissal of an action has an initial burden of showing that the case is one in
+which the existence of a genuine issue is a proper question for consideration,
+it is the plaintiff who must then, according to the rule, establish his claim
+as being one with a real chance of success.  In the instant
+case, then, the appellants (who were the plaintiffs-respondents on the motion)
+bore the burden of establishing that their claim had “a real chance of
+success”.  They bear the same burden in this Court.  16                              
+The second preliminary matter concerns the appellants’ claim that as a
+result of a meeting in the summer of 1978 between David Korn, Max Freed and the
+respondent Cox and in light of an engagement letter sent by the respondents to
+NGA and NGH in 1981, a contract was formed between the shareholders of the
+audited corporations, on the one hand, and the respondents, on the other.  This
+purported contract ostensibly required the respondents to conduct their audits
+for the benefit of the shareholders themselves and not merely for the benefit of
+the corporations.  I have reviewed the portions of the record upon which the
+appellants base this submission and I am unable to find that the requisite
+elements of contract formation inhere on the facts.  In any event, as the
+respondents pointed out, the appellants’ request to amend their pleadings
+before trial to include a claim for breach of contract was denied by Kennedy J.
+and no appeal was brought from that decision.  (See:  Hercules Management
+Ltd. v. Clarkson Gordon (1994), 91 Man. R. (2d) 216 (Q.B.).)  I would find,
+therefore, that the claim in breach of contract is not properly before this
+Court and that the appellants’ submissions in this regard must fail.  17                              
+Thirdly, the appellants allege that the respondent Cox’s investments in
+certain syndicated mortgages administered by NGA and NGH constituted a breach
+of the statutory independence requirements set out in s. 155 of the Manitoba Corporations
+Act and that such a breach either gives rise to a private law cause of action
+or, alternatively, that it provides an independent basis for finding a duty of
+care in a tort action.  Assuming without deciding that the respondent Cox was
+in breach of the independence requirements set out in that section, I would
+agree with Helper J.A. in finding that the section does not, in and of itself,
+give rise to a cause of action in negligence; see:  R. in right of Canada v.
+Saskatchewan Wheat Pool, [1983] 1 S.C.R. 205.  Similarly, I cannot see how
+breach of the independence requirements could establish a duty of care in
+tort.  This does not mean, of course, that the statutory audit requirements set
+out in the Manitoba Corporations Act are entirely irrelevant to the
+appellants’ claim.  Rather, it simply means that a breach of the independence
+provisions does not, by itself, give rise either to an independent right of
+action or to a duty of care.  18                              
+The final preliminary matter concerns whether or not the appellants
+actually relied on the 1980-82 audited reports prepared by the respondents.  More
+specifically, the appellants allege that the Court of Appeal erred in finding,
+at p. 248, that  [t]here was a total absence of evidence to indicate the respondents
+knew the appellants would rely upon the reports for any specific purpose or
+that the appellants did rely upon the [1980-82] reports before infusing more
+capital into their companies.  The appellants were content to allow
+management to continue running the companies despite a drop in profitability
+reflected in the 1982 audited report and invested capital in the face of that
+report.  The evidence filed in opposition to the motion did not support the
+appellants’ claim on this issue.  [Emphasis added.]   Issue 1: 
+Whether the Respondents owe the Appellants a Duty of Care  (i) Introduction  19                              
+It is now well established in Canadian law that the existence of a duty
+of care in tort is to be determined through an application of the two-part test
+first enunciated by Lord Wilberforce in Anns v. Merton London Borough
+Council, [1978] A.C. 728 (H.L.), at pp. 751-52:   While the
+House of Lords rejected the Anns test in Murphy v. Brentwood District
+Council, [1991] 1 A.C. 398, and in Caparo, supra, at p. 574, per
+Lord Bridge and at pp. 585-86, per Lord Oliver (citing Brennan J. in Sutherland
+Shire Council v. Heyman (1985), 60 A.L.R. 1 (H.C.), at pp. 43-44), the
+basic approach that test embodies has repeatedly been accepted and endorsed by
+this Court.  (See, e.g.:  Kamloops (City of) v. Nielsen, [1984] 2 S.C.R.
+2; B.D.C. Ltd. v. Hofstrand Farms Ltd., [1986] 1 S.C.R. 228; Canadian
+National Railway Co. v. Norsk Pacific Steamship Co., [1992] 1 S.C.R. 1021; London
+Drugs Ltd. v. Kuehne & Nagel International Ltd., [1992] 3 S.C.R. 299; Winnipeg
+Condominium Corporation No. 36 v. Bird Construction Co., [1995] 1 S.C.R.
+85.)  20                              
+In Kamloops, supra, at pp. 10-11, Wilson J. restated Lord
+Wilberforce’s test in the following terms:  (1)   is there a sufficiently close relationship
+between the parties (the [defendant] and the person who has suffered the
+damage) so that, in the reasonable contemplation of the [defendant],
+carelessness on its part might cause damage to that person?  If so,  (2)   are there any considerations which ought to
+negative or limit (a) the  scope of the duty and (b) the class of persons to
+whom it is owed or (c) the damages to which a breach of it may give rise? As will be
+clear from the cases earlier cited, this two-stage approach has been applied by
+this Court in the context of various types of negligence actions, including
+actions involving claims for different forms of economic loss.  Indeed, it was
+implicitly endorsed in the context of an action in negligent misrepresentation
+in Edgeworth Construction Ltd. v. N. D. Lea & Associates Ltd.,
+[1993] 3 S.C.R. 206, at pp. 218-19.  The same approach to defining duties of
+care in negligent misrepresentation cases has also been taken in other
+Commonwealth courts.  In Scott Group Ltd. v. McFarlane, [1978] 1
+N.Z.L.R. 553, for example, a case that dealt specifically with auditors’
+liability for negligently prepared audit reports, the Anns test was
+adopted and applied by a majority of the New Zealand Court of Appeal.  21                              
+I see no reason in principle why the same approach should not be taken
+in the present case.  Indeed, to create a “pocket” of negligent
+misrepresentation cases (to use Professor Stapleton’s term) in which the existence
+of a duty of care is determined differently from other negligence cases would,
+in my view, be incorrect; see:  Jane Stapleton, “Duty of Care and Economic
+Loss: a Wider Agenda” (1991), 107 L.Q. Rev. 249.  This is not to say, of
+course, that negligent misrepresentation cases do not involve special
+considerations stemming from the fact that recovery is allowed for pure
+economic loss as opposed to physical damage.  Rather, it is simply to posit
+that the same general framework ought to be used in approaching the duty of
+care question in both types of case.  Whether the respondents owe the
+appellants a duty of care for their allegedly negligent preparation of the
+1980-82 audit reports, then, will depend on (a) whether a prima facie
+duty of care is owed, and (b) whether that duty, if it exists, is negatived or
+limited by policy considerations.  Before analysing the merits of this case, it
+will be useful to set out in greater detail the principles governing this
+appeal.  (ii) The Prima Facie Duty of Care  23                              
+What constitutes a “relationship of proximity” in the context of
+negligent misrepresentation actions?  In approaching this question, I would
+begin by reiterating the position I took in Norsk, supra, at pp.
+1114-15, that the term “proximity” itself is nothing more than a label
+expressing a result, judgment or  conclusion; it does not, in and of itself,
+provide a principled basis on which to make a legal determination.  This view
+was also explicitly adopted by Stevenson J. in Norsk, supra, at
+p. 1178, and McLachlin J. also appears to have accepted it when she wrote, at
+p. 1151, of that case that “[p]roximity may usefully be viewed, not so much as
+a test in itself, but as a broad concept which is capable of subsuming
+different categories of cases involving different factors”; see also:  M. H.
+McHugh, “Neighbourhood, Proximity and Reliance”, in P. D. Finn, ed., Essays
+on Torts (1989), 5, at pp. 36-37; and John G. Fleming, “The Negligent
+Auditor and Shareholders” (1990), 106 L.Q. Rev. 349, at p. 351, where
+the author refers to proximity as a “vacuous test”.  While Norsk, supra,
+was concerned specifically with whether or not a defendant could be held liable
+for “contractual relational economic loss” (as I called it, at p. 1037), I am
+of the view that the same observations with respect to the term “proximity” are
+applicable in the context of negligent misrepresentation.  In order to render “proximity”
+a useful tool in defining when a duty of care exists in negligent
+misrepresentation cases, therefore, it is necessary to infuse that term with
+some meaning.  In other words, it is necessary to set out the basis upon which
+one may properly reach the conclusion that proximity inheres between a
+representor and a representee.  24                              
+This can be done most clearly as follows.  The label “proximity”, as it
+was used by Lord Wilberforce in Anns, supra, was clearly intended
+to connote that the circumstances of the relationship inhering between the
+plaintiff and the defendant are of such a nature that the defendant may be said
+to be under an obligation to be mindful of the plaintiff’s legitimate interests
+in conducting his or her affairs.  Indeed, this idea lies at the very heart of
+the concept of a “duty of care”, as articulated most memorably by Lord Atkin in
+Donoghue v. Stevenson, [1932] A.C. 562, at pp. 580-81.  In cases of
+negligent misrepresentation, the relationship between the plaintiff and the
+defendant arises through reliance by the plaintiff on the defendant’s words. 
+Thus, if “proximity” is meant to distinguish the cases where the defendant has
+a responsibility to take reasonable care of the plaintiff from those where he
+or she has no such responsibility, then in negligent misrepresentation cases,
+it must pertain to some aspect of the relationship of reliance.  To my mind,
+proximity can be seen to inhere between a defendant-representor and a
+plaintiff-representee when two criteria relating to reliance may be said to
+exist on the facts:  (a) the defendant ought reasonably to foresee that the
+plaintiff will rely on his or her representation; and (b) reliance by the
+plaintiff would, in the particular circumstances of the case, be reasonable. 
+To use the term employed by my colleague, Iacobucci J., in Cognos, supra,
+at p. 110, the plaintiff and the defendant can be said to be in a “special
+relationship” whenever these two factors inhere.  25                              
+I should pause here to explain that, in my view, to look to whether or
+not reliance by the plaintiff on the defendant’s representation would be
+reasonable in determining whether or not a prima facie duty of care
+exists in negligent misrepresentation cases as opposed to looking at reasonable
+foreseeability alone is not, as might first appear, to abandon the basic tenets
+underlying the first branch of the Anns/Kamloops formula.  The purpose
+behind the Anns/Kamloops test is simply to ensure that enquiries into
+the existence of a duty of care in negligence cases is conducted in two parts: 
+The first involves discerning whether, in a given situation, a duty of care
+would be imposed by law; the second demands an investigation into whether the
+legal duty, if found, ought to be negatived or ousted by policy
+considerations.  In the context of actions based on negligence causing physical
+damage, determining whether harm to the plaintiff was reasonably foreseeable to
+the defendant is alone a sufficient criterion for deciding proximity or
+neighbourhood under the first branch of the Anns/Kamloops test because
+the law has come to recognize (even if only implicitly) that, absent a
+voluntary assumption of risk by him or her, it is always reasonable for a
+plaintiff to expect that a defendant will take reasonable care of the
+plaintiff’s person and property.  The duty of care inquiry in such cases,
+therefore, will always be conducted under the assumption that the plaintiff’s
+expectations of the defendant are reasonable.  26                              
+In negligent misrepresentation actions, however, the plaintiff’s claim
+stems from his or her detrimental reliance on the defendant’s (negligent)
+statement, and it is abundantly clear that reliance on the statement or
+representation of another will not, in all circumstances, be reasonable.  The
+assumption that always inheres in physical damage cases concerning the
+reasonableness of the plaintiff’s expectations cannot, therefore, be said to
+inhere in reliance cases.  In order to ensure that the same factors are taken
+into account in determining the existence of a duty of care in both instances,
+then, the reasonableness of the plaintiff’s reliance must be considered in
+negligent misrepresentation actions.  Only by doing so will the first branch of
+the Kamloops test be applied consistently in both contexts.  27                              
+As should be evident from its very terms, the reasonable
+foreseeability/reasonable reliance test for determining a prima facie
+duty of care is somewhat broader than the tests used both in the cases decided
+before Anns, supra, and in those that have rejected the Anns
+approach.  Rather than stipulating simply that a duty of care will be found in
+any case where reasonable foreseeability and reasonable reliance inhere, those
+cases typically require (a) that the defendant know the identity of either the
+plaintiff or the class of plaintiffs who will rely on the statement, and (b)
+that the reliance losses claimed by the plaintiff stem from the particular
+transaction in respect of which the statement at issue was made. This narrower
+approach to defining the duty can be seen in a number of the more prominent
+English decisions dealing either with auditors’ liability specifically or with
+liability for negligent misstatements generally.  (See, e.g.:  Candler v.
+Crane, Christmas & Co., [1951] 2 K.B. 164 (C.A.), at pp. 181-82 and p.
+184, per Denning L.J. (dissenting); Hedley Byrne & Co. v. Heller
+& Partners Ltd., [1964] A.C. 465; Caparo, supra, per
+Lord Bridge, at p. 576, and per Lord Oliver, at pp. 589.)  It is also
+evident in the approach taken by this Court in Haig v. Bamford, [1977] 1
+S.C.R. 466.     (iii) Policy Considerations  31                              
+As Cardozo C.J. explained in Ultramares Corp. v. Touche, 174 N.E.
+441 (N.Y.C.A. 1931), at p. 444, the fundamental policy consideration that must
+be addressed in negligent misrepresentation actions centres around the
+possibility that the defendant might be exposed to “liability in an
+indeterminate amount for an indeterminate time to an indeterminate class”. 
+This potential problem can be seen quite vividly within the framework of the Anns/Kamloops
+test.  Indeed, while the criteria of reasonable foreseeability and reasonable
+reliance serve to distinguish cases where a prima facie duty is owed
+from those where it is not, it is nevertheless true that in certain types of
+situations these criteria can, quite easily, be satisfied and absent some means
+by which to circumscribe the ambit of the duty, the prospect of limitless
+liability will loom.   The increasing growth and changing role of
+corporations in modern society has been attended by a new perception of the
+societal role of the profession of accounting.  The day when the accountant
+served only the owner-manager of a company and was answerable to him alone has
+passed.  The complexities of modern industry combined with the effects of
+specialization, the impact of taxation, urbanization, the separation of
+ownership from management, the rise of professional corporate managers, and a
+host of other factors, have led to marked changes in the role and
+responsibilities of the accountant, and in the reliance which the public must
+place upon his work.  The financial statements of the corporations upon which
+he reports can affect the economic interests of the general public as well as
+of shareholders and potential shareholders.  (See also: 
+Cherniak and Stevens, supra, at pp. 169-70.)  In light of these
+considerations, the reasonable foreseeability/reasonable reliance test for
+ascertaining a prima facie duty of care may well be satisfied in many
+(even if not all) negligent misstatement suits against auditors and, consequently,
+the problem of indeterminate liability will often arise.  33                              
+Certain authors have argued that imposing broad duties of care on
+auditors would give rise to significant economic and social benefits in so far
+as the spectre of tort liability would act as an incentive to auditors to
+produce accurate (i.e., non-negligent) reports.  (See, e.g.:  Howard B. Wiener,
+“Common Law Liability of the Certified Public Accountant for Negligent
+Misrepresentation” (1983), 20 San Diego L. Rev. 233.)  I would agree
+that deterrence of negligent conduct is an important policy consideration with
+respect to auditors’ liability.  Nevertheless, I am of the view that, in the
+final analysis, it is outweighed by the socially undesirable consequences to
+which the imposition of indeterminate liability on auditors might lead. 
+Indeed, while indeterminate liability is problematic in and of itself inasmuch
+as it would mean that successful negligence actions against auditors could, at
+least potentially, be limitless, it is also problematic in light of certain
+related problems to which it might give rise.  34                              
+Some of the more significant of these problems are thus set out in Brian
+R. Cheffins,  “Auditors’
+Liability in the House of Lords:  A Signal Canadian Courts Should Follow” (1991),
+18 C.B.L.J. 118, at pp. 125-27:  In addition to providing only limited benefits,
+imposing widely drawn duties of care on auditors would probably generate
+substantial costs. . . .  One reason [for this] is that auditors would expend
+more resources trying to protect themselves from liability.  For example,
+insurance premiums would probably rise since insurers would anticipate more
+frequent claims.  Also, auditors would probably incur higher costs since they
+would try to rely more heavily on exclusion clauses.  Hiring lawyers to draft
+such clauses might be expensive because only the most carefully constructed
+provisions would be likely to pass judicial scrutiny. . . .  Finally, auditors’ opportunity costs would increase.  Whenever members
+of an accounting firm have to spend time and effort preparing for litigation,
+they forego revenue generating accounting activity.  More trials would mean
+that this would occur with greater frequency.                                                                     . . .  The higher costs auditors would face as a result of
+broad duties of care could have a widespread impact.  For example, the supply
+of accounting services would probably be reduced since some marginal firms
+would be driven to the wall.  Also, because the market for accounting services
+is protected by barriers to entry imposed by the profession, the surviving
+firms would pass [sic] at least some of the increased costs to their
+clients.  Professor
+Ivankovich describes similar sources of concern.  While he acknowledges certain
+social benefits to which expansive auditors’ liability might conduce, he also
+recognizes the potential difficulties associated therewith (at pp. 520-21):  . . . [expansive auditors’ liability] is also likely to
+increase the time expended in the performance of accounting services.  This
+will trigger a predictable negative impact on the timeliness of the financial
+information generated.  It is equally likely to increase the cost of
+professional liability insurance  and reduce its availability, and to increase
+the cost of accounting services which, as a result, may become less generally
+available.  Additionally, it promotes “free ridership” on the part of reliant
+third parties and decreases their incentive to exercise greater vigilance and
+care and, as well, presents an increased risk of fraudulent claims.  Even though I
+do not share the discomfort apparently felt by Professors Cheffins and
+Ivankovich with respect to using an Anns-type test in the context of
+negligent misrepresentation actions (See:  Cheffins, supra, at pp.
+129-31, and Ivankovich, supra, at p. 530), I nevertheless agree with
+their assessment of the possible consequences to both auditors and the public
+generally if liability for negligently prepared audit reports were to go
+unchecked.  35                              
+I should, at this point, explain that I am aware of the arguments put
+forth by certain scholars and judges to the effect that concerns over
+indeterminate liability have sometimes been overstated. (See, e.g.:  J. Edgar
+Sexton and John W. Stevens, “Accountants’ Legal Responsibilities and
+Liabilities”, in Professional Responsibility in Civil Law and Common Law
+(Meredith Memorial Lectures, McGill University, 1983-84) (1985), 88, at pp.
+101-2; and H. Rosenblum (1983), Inc. v. Adler, 461 A.2d 138 (N.J. 1983),
+at p. 152, per Schreiber J.)  Arguments to this effect rest essentially
+on the premise that actual liability will be limited in so far as a
+plaintiff will not be successful unless both negligence and reliance are
+established in addition to a duty of care.  While it is true that damages will
+not be owing by the defendant unless these other elements of the cause of
+action are proved, neither the difficulty of proving negligence nor that of
+proving reliance will preclude a disgruntled plaintiff from bringing an action
+against an auditor and such actions would, we may assume, be all the more
+common were the establishment of a duty of care in any given case to amount to
+nothing more than a mere matter of course.  This eventuality could pose serious
+problems both for auditors, whose legal costs would inevitably swell, and for
+courts, which, no doubt, would feel the pressure of increased litigation. 
+Thus, the prospect of burgeoning negligence suits raises serious concerns, even
+if we assume that the arguments positing proof of negligence and reliance as a
+barrier to liability are correct.  In my view, therefore, it makes more sense
+to circumscribe the ambit of the duty of care than to assume that difficulties
+in proving negligence and reliance will afford sufficient protection to
+auditors, since this approach avoids both “indeterminate liability” and
+“indeterminate litigation”.  36                              
+As I have thus far attempted to demonstrate, the possible repercussions
+of exposing auditors to indeterminate liability are significant.  In applying
+the two-stage Anns/Kamloops test to negligent misrepresentation actions
+against auditors, therefore, policy considerations reflecting those
+repercussions should be taken into account.  In the general run of auditors’
+cases, concerns over indeterminate liability will serve to negate a prima
+facie duty of care.  But while such concerns may exist in most such cases,
+there may be particular situations where they do not.  In other words, the
+specific factual matrix of a given case may render it an “exception” to the
+general class of cases in that while (as in most auditors’ liability cases)
+considerations of proximity under the first branch of the Anns/Kamloops
+test might militate in favour of finding that a duty of care inheres, the
+typical concerns surrounding indeterminate liability do not arise.  This
+needs to be explained.  37                              
+As discussed earlier, looking to factors such as “knowledge of the
+plaintiff (or an identifiable class of plaintiffs) on the part of the
+defendant” and “use of the statements at issue for the precise purpose or
+transaction for which they were prepared” really amounts to an attempt to limit
+or constrain the scope of the duty of care owed by the defendants.  If the
+purpose of the Anns/Kamloops test is to determine (a) whether or not a prima
+facie duty of care exists and then (b) whether or not that duty ought to be
+negated or limited, then factors such as these ought properly to be considered
+in the second branch of the test once the first branch concerning “proximity”
+has been found to be satisfied.  To my mind, the presence of such factors in a
+given situation will mean that worries stemming from indeterminacy should not
+arise, since the scope of potential liability is sufficiently delimited.  In
+other words, in cases where the defendant knows the identity of the plaintiff
+(or of a class of plaintiffs) and where the defendant’s statements are used for
+the specific purpose or transaction for which they were made, policy
+considerations surrounding indeterminate liability will not be of any concern
+since the scope of liability can readily be circumscribed. Consequently, such
+considerations will not override a positive finding on the first branch of the Anns/Kamloops
+test and a duty of care may quite properly be found to exist.  38                              
+As I see it, this line of reasoning serves to explain the holding of
+Cardozo J. (as he then was) in Glanzer v. Shepard, 135 N.E. 275
+(N.Y.C.A. 1922) .  There, the New York Court of Appeals held that the defendant
+weigher was liable in damages for having negligently prepared a weight
+certificate he knew would be given to the plaintiff, who relied upon it for the
+specific purpose for which it was issued.  In reaching his decision, Cardozo J.
+explicitly noted that the weight certificate was used for the very “end and aim
+of the transaction” and not for any collateral or unintended purpose  (Glanzer,
+supra, at p. 275).  On the facts of Glanzer, supra, then,
+the scope of the defendant’s liability could readily be delimited and
+indeterminacy, therefore, was not a concern.  39                              
+The same idea serves to explain the rationale underlying the seminal
+judgment of the House of Lords in Hedley Byrne, supra.  While
+that case did not involve an action against auditors, similar concerns about
+indeterminate liability were, nonetheless, clearly relevant.  On the facts of Hedley
+Byrne, supra, the defendant bank provided a negligently prepared
+credit reference in respect of one of its customers to another bank which, to
+the knowledge of the defendants, passed on the information to the plaintiff for
+a stipulated purpose.  The plaintiff relied on the credit reference for the
+specific purpose for which it was prepared.  The House of Lords found that but
+for the presence of a disclaimer, the defendants would have been liable to the
+plaintiff in negligence.  While indeterminate liability would have raised some
+concern to the Lords had the plaintiff not been known to the defendants or had
+the credit reference been used for a purpose or transaction other than that for
+which it was actually prepared, no such difficulties about indeterminacy arose
+on the particular facts of the case.  40                              
+This Court’s decision in Haig, supra, can be seen to rest
+on precisely the same basis.  There, the defendant accountants were retained by
+a Saskatchewan businessman, one Scholler, to prepare audited financial
+statements of Mr. Scholler’s corporation.  At the time they were engaged, the
+accountants were informed by Mr. Scholler that the audited statements would be
+used for the purpose of attracting a $20,000 investment in the corporation from
+a limited number of potential investors.  The audit was conducted negligently
+and the plaintiff investor, who was found to have relied on the audited
+statements in making his investment, suffered a loss.  While Dickson J. was
+clearly cognizant of the potential problem of indeterminacy arising in the
+context of auditors’ liability (at p. 476), he nevertheless found that the
+defendants owed the plaintiff a duty of care.  In my view, his conclusion was
+eminently sound given that the defendants were informed by Mr. Scholler of the
+class of persons who would rely on the report and the report was used by the
+plaintiff for the specific purpose for which it was prepared.  Dickson J.
+himself expressed this idea as follows, at p. 482:  The case before us is closer to Glanzer than
+to Ultramares.  The very end and aim of the financial statements
+prepared by the accountants in the present case was to secure additional
+financing for the company from [a  Saskatchewan government agency] and an
+equity investor; the statements were required primarily for these third parties
+and only incidentally for use by the company.  On the facts
+of Haig, then, the auditors were properly found to owe a duty of care
+because concerns over indeterminate liability did not arise.  I would note that
+this view of the rationale behind Haig, supra, is shared by
+Professor Feldthusen.  (See Feldthusen, supra, at pp. 98-100.)  41                              
+The foregoing analysis should render the following points clear.  A prima
+facie duty of care will arise on the part of a defendant in a negligent
+misrepresentation action when it can be said (a) that the defendant ought
+reasonably to have foreseen that the plaintiff would rely on his representation
+and (b) that reliance by the plaintiff, in the circumstances, would be
+reasonable.  Even though, in the context of auditors’ liability cases, such a
+duty will often (even if not always) be found to exist, the problem of
+indeterminate liability will frequently result in the duty being negated by the
+kinds of policy considerations already discussed.  Where, however,
+indeterminate liability can be shown not to be a concern on the facts of a
+particular case, a duty of care will be found to exist.  Having set out the law
+governing the appellants’ claims, I now propose to apply it to the facts of the
+appeal.  (iv) Application to the Facts  42                              
+In my view, there can be no question that a prima facie duty of
+care was owed to the appellants by the respondents on the facts of this case. 
+As regards the criterion of reasonable foreseeability, the possibility that the
+appellants would rely on the audited financial statements in conducting their
+affairs and that they may suffer harm if the reports were negligently prepared
+must have been reasonably foreseeable to the respondents.  This is confirmed
+simply by the fact that shareholders generally will often choose to rely on
+audited financial statements for a wide variety of purposes. It is further
+confirmed by the fact that under ss. 149(1) and 163(1) of the Manitoba Corporations
+Act, it is patently clear that audited financial statements are to be
+placed before the shareholders at the annual general meeting.  The relevant
+portions of those sections read as follows:  149(1)  The directors of a corporation shall place before the
+shareholders at every annual meeting                                                                     . . .  (b) the report of the auditor, if any; and                                                                     . . .  163(1)  An auditor of a corporation shall make the examination
+that is in his opinion necessary to enable him to report in the prescribed
+manner on the financial statements required by this Act to be placed before the
+shareholders, except such financial statements or part thereof as relate to the
+period referred to in sub-clause 149(1)(a)(ii).  In my view, it
+would be untenable to argue in the face of these provisions that some form of
+reliance by shareholders on the audited reports would be unforeseeable.  43                              
+Similarly, I would find that reliance on the audited statements by the
+appellant shareholders would, on the facts of this case, be reasonable. 
+Professor Feldthusen (at pp. 62-63) sets out five general indicia of
+reasonable reliance; namely:  (1)   The defendant had a direct or indirect
+financial interest in the transaction in respect of which the representation
+was made.  (2)   The defendant was a professional or someone
+who possessed special skill, judgment, or knowledge.  (3)   The advice or information was provided in
+the course of the defendant’s business.  (4)   The information or advice was given
+deliberately, and not on a social occasion.  (5)   The information or advice was given in
+response to a specific enquiry or request.  While these indicia
+should not be understood to be a strict “test” of reasonableness, they do help
+to distinguish those situations where reliance on a statement is reasonable
+from those where it is not.  On the facts here, the first four of these indicia
+clearly inhere.  To my mind, then, this aspect of the prima facie duty
+is unquestionably satisfied on the facts.  44                              
+Having found a prima facie duty to exist, then, the second branch
+of the Anns/Kamloops test remains to be considered.  It should be clear
+from my comments above that were auditors such as the respondents held to owe a
+duty of care to plaintiffs in all cases where the first branch of the Anns/Kamloops
+test was satisfied, the problem of indeterminate liability would normally
+arise.  It should be equally clear, however, that in certain cases, this
+problem does not arise because the scope of potential liability can adequately
+be circumscribed on the facts.  An investigation of whether or not
+indeterminate liability is truly a concern in the present case is, therefore,
+required.  45                              
+At first blush, it may seem that no problems of indeterminate liability
+are implicated here and that this case can easily be likened to Glanzer,
+supra, Hedley Byrne, supra, and Haig, supra. 
+After all, the respondents knew the very identity of all the appellant
+shareholders who claim to have relied on the audited financial statements
+through having acted as NGA’s and NGH’s auditors for nearly 10 years by the
+time the first of the audit reports at issue in this appeal was prepared. It
+would seem plausible to argue on this basis that because the identity of the
+plaintiffs was known to the respondents at the time of preparing the 1980-82
+reports, no concerns over indeterminate liability arise.  46                              
+To arrive at this conclusion without further analysis, however, would be
+to move too quickly.  While knowledge of the plaintiff (or of a limited class
+of plaintiffs) is undoubtedly a significant factor serving to obviate concerns
+over indeterminate liability, it is not, alone, sufficient to do so.  In my
+discussion of Glanzer, supra, Hedley Byrne, supra,
+and Haig, supra, I explained that indeterminate liability did not
+inhere on the specific facts of those cases not only because the defendant knew
+the identity of the plaintiff (or the class of plaintiffs) who would rely on
+the statement at issue, but also because the statement itself was used by the
+plaintiff for precisely the purpose or transaction for which it was prepared. 
+The crucial importance of this additional criterion can clearly be seen when
+one considers that even if the specific identity or class of potential
+plaintiffs is known to a defendant, use of the defendant’s statement for a
+purpose or transaction other than that for which it was prepared could still
+lead to indeterminate liability.  47                              
+For example, if an audit report which was prepared for a corporate
+client for the express purpose of attracting a $10,000 investment in the
+corporation from a known class of third parties was instead used as the basis
+for attracting a $1,000,000 investment or as the basis for inducing one of the
+members of the class to become a director or officer of the corporation or,
+again, as the basis for encouraging him or her to enter into some business venture
+with the corporation itself, it would appear that the auditors would be exposed
+to a form of indeterminate liability, even if they knew precisely the identity
+or class of potential plaintiffs to whom their report would be given.  With
+respect to the present case, then, the central question is whether or not the
+appellants can be said to have used the 1980-82 audit reports for the specific
+purpose for which they were prepared.  The answer to this question will
+determine whether or not policy considerations surrounding indeterminate
+liability ought to negate the prima facie duty of care owed by the
+respondents.  48                              
+What, then, is the purpose for which the respondents’ audit statements
+were prepared?  This issue was eloquently discussed by Lord Oliver in Caparo,
+supra, at p.  583:  My Lords, the primary purpose of the statutory
+requirement that a company’s accounts shall be audited annually is almost
+self-evident. . . .   The management is confided to a board of
+directors which operates in a fiduciary capacity and is answerable to and
+removable by the shareholders who can act, if they act at all, only
+collectively and only through the medium of a general meeting.  Hence the
+legislative provisions requiring  the board annually to give an account of its
+stewardship to a general meeting of the shareholders.  This is the only
+occasion in each year on which the general body of shareholders is given the
+opportunity to consider, to criticise and to comment on the conduct by the
+board of the company’s affairs, to vote the directors’ recommendation as to
+dividends, to approve or disapprove the directors’ remuneration and, if thought
+desirable, to remove and replace all or any of the directors.  It is the
+auditors’ function to ensure, so far as possible, that the financial
+information as to the company’s affairs prepared by the directors accurately
+reflects the company’s position in order first, to protect the company itself
+from the consequences of undetected errors or, possibly, wrongdoing
+. . . and, second, to provide shareholders with reliable intelligence
+for the purpose of enabling them to scrutinise the conduct of the company’s
+affairs and to exercise their collective powers to reward or control or remove
+those to whom that conduct has been confided.  [Emphasis added.]  Similarly,
+Farley J. held in Roman Corp. Ltd. v. Peat Marwick Thorne (1992), 11
+O.R. (3d) 248 (Gen. Div.), at p. 260 (hereinafter Roman I) that  as a matter of law the only purpose for which shareholders receive an
+auditor’s report is to provide the shareholders with information for the
+purpose of overseeing the management and affairs of the corporation and not for
+the purpose of guiding personal investment decisions or personal speculation
+with a view to profit.  (See also:  Roman
+Corp. v. Peat Marwick Thorne (1993), 12 B.L.R. (2d) 10 (Ont. Gen. Div.).) 
+Lord Oliver was referring to the relevant provisions of the U.K. Companies
+Act 1985 (U.K.), 1985, c. 6, in making his pronouncements, and Farley J.
+rendered his judgment against the backdrop of the statutory audit requirements
+set out in the Ontario Business Corporations Act, R.S.O. 1990, c. B.16.  49                              
+To my mind, the standard purpose of providing audit reports to the 
+shareholders of a corporation should be regarded no differently under the
+analogous provisions of the Manitoba Corporations Act.  Thus, the
+directors of a corporation are required to place the auditors’ report before
+the shareholders at the annual meeting in order to permit the shareholders, as
+a body, to make decisions as to the manner in which they want the corporation
+to be managed, to assess the performance of the directors and officers, and to
+decide whether or not they wish to retain the existing management or to have
+them replaced.  On this basis, it may be said that the respondent auditors’
+purpose in preparing the reports at issue in this case was, precisely, to
+assist the collectivity of shareholders of the audited companies in their task
+of overseeing management.  50                              
+The appellants, however, submit that, in addition to this statutorily
+mandated purpose, the respondents further agreed to perform their audits for
+the purpose of providing the appellants with information on the basis of which
+they could make personal investment decisions.  They base this claim largely on
+a conversation that allegedly took place at the 1978 meeting between Mr. Cox,
+Mr. Freed and Mr. Korn, as well as on certain passages of the engagement letter
+sent to them by the respondents.  I have read the relevant portions of the record
+on this question and I am unable to accept the appellants’ submission.  Indeed,
+on examination for discovery, Mr. Freed discussed the engagement letter of the
+respondents and stated as follows:  Q    It is this that you say is the document that
+says, it will speak for itself, but you interpret it to mean that they [the
+respondents] will look after your interests specifically [sic]? . . .  A    I am saying that I took for granted that that
+was their duty.  Q    I see.  All right.  Was there ever anything
+in writing specifically that says that is your duty, is to look after my
+interests, I am away all the time?  A    I am not aware.  Q    Either, from you, or to you in that respect?  A    I am not aware of any.  Q    This letter happens to say, “We are always
+prepared upon instruction  to extend our services beyond these required
+procedures.”  Did you ever give them any additional instructions?  A    No.  I never saw them.  Q    Nor did you communicate with them in writing,
+or otherwise?  Is that right?  A    Not that I recall.  Similarly, the
+transcript of Mr. Korn’s examination for discovery reveals the following
+exchange:  Q    You emphasized [at the 1978 meeting] you say
+to Mr. Cox that because you were no longer in the management stream or chain,
+you would be relying more on the audited statements?   Q    Did you consider that to be a change from the
+normal kind of audit engagement, or were you just emphasizing something that
+was part of the normal audit engagement?  A    I just pointed out the change.  As a matter
+of fact, he already knew about the change.                                                                     . . .  Q    But my question was whether you considered
+that to be any kind of  alteration from the usual audit engagement process.  A    Well, that’s what happened.  That’s the fact
+that I said it to him and those are the words I said, and however he took it,
+that’s however he took it.  Q    But I’m asking you if you considered that to
+be a change from a normal audit engagement.   Q    I’m entitled to know what you consider to be
+the case.  A    Well, I made it clear that he should remember
+that he’s the shareholders’ auditor, that Clarkson was the shareholders’
+auditor, notwithstanding his personal relationship with Murray Morris.  Q    Auditors are always the shareholders’
+auditors, are they not?   Q    And that’s in fact what they are always?  A    Well, that’s good, I’m glad to hear that,
+glad to hear you say it.  Q    Do you agree?  A    That the auditors are the shareholders’
+auditors?  Q    Yes.  A    I agree precisely.  To my mind,
+these passages serve to demonstrate that despite the appellants’ submissions,
+the respondents did not, in fact, prepare the audit reports in order to assist
+the appellants in making personal investment decisions or, indeed, for any
+purpose other than the standard statutory one. This finding accords with that
+of Helper J.A. in the Court of Appeal, and nothing in the record before this
+Court suggests the contrary.  51                              
+It follows from the foregoing discussion that the only purpose  for
+which the 1980-82 reports could have been used in such a manner as to give rise
+to a duty of care on the part of the respondents is as a guide for the
+shareholders, as a group, in supervising or overseeing management.  In assessing
+whether this was, in fact, the purpose to which the appellants purport to have
+put the audited reports, it will be useful to take each of the appellants’
+claims in turn.  First, the appellant Hercules seeks compensation for its
+$600,000 injection of capital into NGA over January and February of 1983 and
+the appellant Freed seeks damages commensurate with the amount of money he
+contributed in 1982 to his investment account in NGH.  Secondly, all the
+appellants seek damages for the losses they suffered in the value of their
+existing shareholdings.  52                              
+The claims of Hercules and Mr. Freed with respect to their 1982-83
+investments can be addressed quickly.  The essence of these claims must be that
+these two appellants relied on the respondents’ reports in deciding whether or
+not to make further investments in the audited corporations.  In other words,
+Hercules and Mr. Freed are claiming to have relied on the audited reports for
+the purpose of making personal investment decisions.  As I have already discussed,
+this is not a purpose for which the respondents in this case can be said to
+have prepared their reports.  In light of the dissonance between the purpose
+for which the reports were  actually prepared and the purpose for which the
+appellants assert they were used, then, the claims of Hercules and Mr. Freed
+with respect to their investment losses are not such that the concerns over
+indeterminate liability discussed above are obviated; viz., if a duty of
+care were owed with respect to these investment transactions, there would seem
+to be no logical reason to preclude a duty of care from arising in
+circumstances where the statements were used for any other purpose of which the
+auditors were equally unaware when they prepared and submitted their report. 
+On this basis, therefore, I would find that the prima facie duty that
+arises respecting this claim is negated by policy considerations and,
+therefore, that no duty of care is owed by the respondents in this regard.  53                              
+With respect to the claim concerning the loss in value of their existing
+shareholdings, the appellants make two submissions.  First, they claim that
+they relied on the 1980-82 reports in monitoring the value of their equity and
+that, owing to the (allegedly) negligent preparation of those reports, they
+failed to extract it before the financial demise of NGA and NGH.  Secondly, and
+somewhat more subtly, the appellants submit that they each relied on the
+auditors’ reports in overseeing the management of NGA and NGH and that had
+those reports been accurate, the collapse of the corporations and the
+consequential loss in the value of their shareholdings could have been avoided.  54                              
+To my mind, the first of these submissions suffers from the same
+difficulties as those regarding the injection of fresh capital by Hercules and
+Mr. Freed.  Whether the reports were relied upon in assessing the prospect of
+further investments or in evaluating existing investments, the fact remains
+that the purpose to which the respondents’ reports were put, on this claim, concerned
+individual or personal investment decisions.  Given that the reports were not
+prepared for that purpose, I  find for the same reasons as those earlier set
+out that policy considerations regarding indeterminate liability inhere here
+and, consequently, that no duty of care is owed in respect of this claim.  55                              
+As regards the second aspect of the appellants’ claim concerning the
+losses they suffered in the diminution in value of their equity, the analysis
+becomes somewhat more intricate.  The essence of the appellants’ submission
+here is that the shareholders would have supervised management differently had
+they known of the (alleged) inaccuracies in the 1980-82 reports, and that this
+difference in management would have averted the demise of the audited
+corporations and the consequent losses in existing equity suffered by the
+shareholders.  At first glance, it might appear that the appellants’ claim
+implicates a use of the audit reports which is commensurate with the purpose
+for which the reports were prepared, i.e., overseeing or supervising
+management.  One might argue on this basis that a duty of care should be found
+to inhere because, in view of this compatibility between actual use and
+intended purpose, no indeterminacy arises.  In my view, however, this line of
+reasoning suffers from a subtle but fundamental flaw.  56                              
+As I have already explained, the purpose for which the audit reports
+were prepared in this case was the standard statutory one of allowing
+shareholders, as a group, to supervise management and to take decisions
+with respect to matters concerning the proper overall administration of the
+corporations.  In other words, it was, as Lord Oliver and Farley J. found
+in the cases cited above, to permit the shareholders to exercise their role, as
+a class, of overseeing the corporations’ affairs at their annual
+general meetings.  The purpose of providing the auditors’ reports to the
+appellants, then, may ultimately be said to have been a “collective” one; that
+is, it was aimed not at protecting the interests of individual shareholders but
+rather at enabling the shareholders, acting as a group, to safeguard the
+interests of the corporations themselves.  On the appellants’ argument,
+however, the purpose to which the 1980-82 reports were ostensibly put was not
+that of allowing the shareholders as a class to take decisions in respect of
+the overall running of the corporation, but rather to allow them, as individuals,
+to monitor management so as to oversee and protect their own personal
+investments.  Indeed, the nature of the appellants’ claims (i.e. personal tort
+claims) requires that they assert reliance on the auditors’ reports qua
+individual shareholders if they are to recover any personal damages.  In so far
+as it must concern the interests of each individual shareholder, then, the
+appellants’ claim in this regard can really be no different from the other
+“investment purposes” discussed above, in respect of which the respondents owe
+no duty of care.  57                              
+This argument is no different as regards the specific case of the
+appellant Guardian, which is the sole shareholder of NGH.  The respondents’
+purpose in providing the audited reports in respect of NGH was, we must assume,
+to allow Guardian to oversee management for the better administration of the
+corporation itself.  If Guardian in fact chose to rely on the reports for the
+ultimate purpose of monitoring its own investment it must, for the policy
+reasons earlier set out, be found to have done so at its own peril in the same
+manner as shareholders in NGA.  Indeed, to treat Guardian any differently
+simply because it was a sole shareholder would do violence to the fundamental
+principle of corporate personality.  I would find in respect of both Guardian
+and the other appellants, therefore, that the prima facie duty of care
+owed to them by the respondents is negated by policy considerations in that the
+claims are not such as to bring them within the “exceptional” cases discussed
+above.  Issue 2: 
+The Effect of the Rule in Foss v. Harbottle   59                              
+The rule in Foss v. Harbottle provides that individual
+shareholders have no cause of action in law for any wrongs done to the
+corporation and that if an action is to be brought in respect of such losses,
+it must be brought either by the corporation itself (through management) or by
+way of a derivative action.  The legal rationale behind the rule was eloquently
+set out by the English Court of Appeal in Prudential Assurance Co. v. Newman
+Industries Ltd. (No. 2), [1982] 1 All E.R. 354, at p. 367, as follows:  The rule [in Foss v. Harbottle] is the consequence of the fact
+that a corporation is a separate legal entity.  Other consequences are limited
+liability and limited rights.  The company is liable for its contracts and
+torts; the shareholder has no such liability.  The company acquires causes of
+action for breaches of contract and for torts which damage the company.  No
+cause of action vests in the shareholder.  When the shareholder acquires a
+share he accepts the fact that the value of his investment follows the fortunes
+of the company and that he can only exercise his influence over the fortunes of
+the company by the exercise of his voting rights in general meeting.  The law
+confers on him the right to ensure that  the company observes the limitations
+of its memorandum of association and the right to ensure that other
+shareholders observe the rule, imposed on them by the articles of association. 
+If it is right that the law has conferred or should in certain restricted
+circumstances confer further rights on a shareholder the scope and consequences
+of such further rights require careful consideration.  To these lucid
+comments, I would respectfully add that the rule is also sound from a policy
+perspective, inasmuch as it avoids the procedural hassle of a multiplicity of
+actions.  60                              
+The manner in which the rule in Foss v. Harbottle, supra,
+operates with respect to the appellants’ claims can thus be demonstrated.  As I
+have already explained, the appellants allege that they were prevented from
+properly overseeing the management of the audited corporations because the
+respondents’ audit reports painted a misleading picture of their financial
+state.  They allege further that had they known the true situation, they would
+have intervened to avoid the eventuality of the corporations’ going into
+receivership and the consequent loss of their equity.  The difficulty with this
+submission, I have suggested, is that it fails to recognize that in supervising
+management, the shareholders must be seen to be acting as a body in
+respect of the corporation’s interests rather than as individuals in respect of
+their own ends.  In a manner of speaking, the shareholders assume what may be
+seen to be a “managerial role” when, as a collectivity, they oversee the
+activities of the directors and officers through resolutions adopted at
+shareholder meetings.  In this capacity, they cannot properly be understood to
+be acting simply as individual holders of equity.  Rather, their collective
+decisions are made in respect of the corporation itself.  Any duty owed by
+auditors in respect of this aspect of the shareholders’ functions, then, would
+be owed not to shareholders qua individuals, but rather to all
+shareholders as a group, acting in the interests of the corporation.  And if
+the decisions taken by the collectivity of shareholders are in respect of the
+corporation’s affairs, then the shareholders’ reliance on negligently prepared
+audit reports in taking such decisions will result in a wrong to the
+corporation for which the shareholders cannot, as individuals, recover.  61                              
+This line of reasoning finds support in Lord Bridge’s comments in Caparo,
+supra, at p. 580:  The shareholders of a company have a collective interest in the
+company’s proper management and in so far as a negligent failure of the auditor
+to report accurately on the state of the company’s finances deprives the
+shareholders of the opportunity to exercise their powers in general meeting to
+call the directors to book and to ensure that errors in management are
+corrected, the shareholders ought to be entitled to a remedy.  But in
+practice no problem arises in this regard since the interest of the
+shareholders in the proper management of the company’s affairs is
+indistinguishable from the interest of the company itself and any loss suffered
+by the shareholders . . . will be recouped by a claim against the
+auditor in the name of the company, not by individual shareholders. 
+[Emphasis added.]  It is also
+reflected in the decision of Farley J. in Roman I, supra, the
+facts of which were similar to those of the case at bar. In that case, the
+plaintiff shareholders brought an action against the defendant auditors
+alleging, inter alia, that the defendant’s audit reports were
+negligently prepared.  That negligence, the shareholders contended, prevented
+them from properly overseeing management which, in turn, led to the winding up
+of the corporation and a loss to the shareholders of their equity therein. 
+Farley J. discussed the rule in Foss v. Harbottle and concluded that it
+operated so as to preclude the shareholders from bringing personal actions
+based on an alleged inability to supervise the conduct of management.  62                              
+One final point should be made here.  Referring to the case of Goldex
+Mines Ltd. v. Revill (1974), 7 O.R. (2d) 216 (C.A.), the appellants submit
+that where a shareholder has been directly and individually harmed, that
+shareholder may have a personal cause of action even though the corporation may
+also have a separate and distinct cause of action.  Nothing in the foregoing paragraphs
+should be understood to detract from this principle.  In finding that claims in
+respect of losses stemming from an alleged inability to oversee or supervise
+management are really derivative and not personal in nature, I have found only
+that shareholders cannot raise individual claims in respect of a wrong done to
+the corporation.  Indeed, this is the limit of the rule in Foss v.
+Harbottle.  Where, however, a separate and distinct claim (say, in tort)
+can be raised with respect to a wrong done to a shareholder qua
+individual, a personal action may well lie, assuming that all the requisite
+elements of a cause of action can be made out.  63                              
+The facts of Haig, supra, provide the basis for an example
+of where such a claim might arise. Had the investors in that case been
+shareholders of the corporation, and had a similarly negligent report knowingly
+been provided to them by the auditors for a specified purpose, a duty of care
+separate and distinct from any duty owed to the audited corporation would have
+arisen in their favour, just as one arose in favour of Mr. Haig.  While the
+corporation would have been entitled to claim damages in respect of any losses
+it might have suffered through reliance on the report (assuming, of course,
+that the report was also provided for the corporation’s use), the shareholders
+in question would also have been able to seek personal compensation for the
+losses they suffered qua individuals through their personal reliance and
+investment. On the facts of this case, however, no claims of this sort can be
+established.  Conclusion  64                              
+In light of the foregoing, I would find that even though the respondents
+owed the appellants (qua individual claimants) a prima facie duty
+of care both with respect to the 1982-83 investments made in NGA and NGH by
+Hercules and Mr. Freed and with respect to the losses they incurred through the
+devaluation of their existing shareholdings, such prima facie duties are
+negated by policy considerations which are not obviated by the facts of the
+case.  Indeed, to come to the opposite conclusion on these facts would be to
+expose auditors to the possibility of indeterminate liability, since such a
+finding would imply that auditors owe a duty of care to any known class of
+potential plaintiffs regardless of the purpose to which they put the auditors’
+reports.  This would amount to an unacceptably broad expansion of the bounds of
+liability drawn by this Court in Haig, supra.  With respect to
+the claim regarding the appellants’ inability to oversee management properly, I
+would agree with the courts below that it ought to have been brought as a
+derivative action.  On the basis of these considerations, I would find under
+Rule 20.03(1) of the Manitoba Court of Queen’s Bench Rules that the
+appellants have failed to establish that their claims as alleged would have “a
+real chance of success”.  65                              
+I would dismiss the appeal with costs.  Appeal dismissed with costs.  Solicitors for the appellants:  Schulman & Schulman, Winnipeg.  Solicitors for the respondents:  Aikins, MacAulay, Thorvaldson,
+Winnipeg.  Solicitors for the intervener:  McCarthy, Tétrault, Toronto.    

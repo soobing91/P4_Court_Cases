@@ -1,0 +1,956 @@
+Walker Estate v. York Finch General Hospital, [2001] 1 S.C.R.
+647, 2001 SCC 23  The Canadian Red Cross Society                                                     Appellant  and  York Finch General Hospital                                                            (Defendant)  v.  Douglas Walker as Executor of the Estate of Alma Walker, deceased, Douglas Walker, infants Scott Walker and Danielle Walker by their Litigation Guardian Douglas Walker, J. Bob Alderson and Velma Alderson                 Respondents  and between  The Canadian Red Cross Society                                                     Appellant  and  Toronto Hospital   (Defendant)  v.  Lois Osborne as Executrix of the Estate of Ronald Charles Osborne, deceased, Lois Osborne, Paul Osborne, Karen McCraw and David Osborne             Respondents  and between  The Canadian Red Cross Society                                                     Appellant  and  Hospital for Sick Children                                                                 (Defendant)  v.  A.A.M., A.M., on his own behalf and as Litigation Guardian for D.R.M. and A.M.M.                                                   Respondents  Indexed as:  Walker Estate v. York Finch General
+Hospital  Neutral citation:  2001 SCC 23.  File Nos.:  27284, 27285.  2000:  November 7; 2001:  April 19.   on appeal from the court of appeal for ontario  Negligence -- Standard of care -- Blood banks --
+Plaintiffs contracting HIV from blood products supplied by Canadian Red Cross
+Society -- Plaintiffs claiming that Society was negligent in procedures used to
+screen blood donors with HIV and AIDS -- Appropriate standard of care for
+professional voluntary blood banks in North America -- Whether Society met
+proper standard of care -- Whether trial judge correct in finding that
+Society’s May 1984 pamphlet given to blood donors was inadequate despite
+evidence of two medical experts to the contrary.  Negligence -- Causation -- Proper test for
+causation in cases of negligent donor screening by blood banks -- Plaintiff
+contracting HIV from blood and blood products supplied by Canadian Red Cross
+Society -- Plaintiff claiming that Society was negligent in procedures used to
+screen blood donors with HIV and AIDS -- Trial judge concluding that infected
+donor would still have given blood even if Society had met proper standard of
+care and dismissing negligence action for failure to prove causation -- Court
+of Appeal imposing liability on basis of presumptive causal link -- Whether
+rebuttable presumption of causation appropriate standard to apply in cases of
+negligent blood donor screening.  The plaintiffs -- W, O and M -- contracted HIV from
+blood and blood products supplied by the Canadian Red Cross Society (“CRCS”). 
+They claimed that the CRCS was negligent in the procedures used to screen blood
+donors with HIV and AIDS.  In W’s case, the infected donor gave blood in
+September 1983.  At the time, the CRCS’s donor-screening method was a
+questionnaire given to potential donors.  This April 1983 questionnaire
+contained questions that generally pertained to the donor’s health, but made no
+reference to persons at high risk for contracting AIDS or to signs and symptoms
+of AIDS.  A pamphlet published in May 1984 was the first to make reference to
+AIDS.  In that pamphlet, the CRCS requested that homosexual or bisexual males
+who have multiple partners refrain from donating blood.  The cases of O and M
+involved a single donor.  The blood received by O and M was given in December
+1984 and in March 1985 respectively.  The donor was a long-time blood donor. 
+He had swollen lymph nodes in his neck, but these had been present since about
+1975 and, as far as he was concerned, they had no effect on his overall health
+and gave no cause for concern in his donating blood.  Since he had not been
+sexually active with men since 1982, he did not regard himself as a sexually
+active homosexual at the time he donated blood in December 1984.  It was not
+until November 1985 that the CRCS revised its May 1984 pamphlet to
+describe a typical member of the group of high-risk donors as a person who was
+“a male and [has] had sex with another male since 1977”.  Around the same time,
+it also began testing all blood donations for the presence of HIV antibodies
+using the ELISA test.  In May 1986 the CRCS introduced the first brochure that
+asked symptom-specific questions about HIV.  The three cases were heard together.  The O and M
+actions in negligence were successful.  In determining the appropriate standard
+of care for the CRCS at the time, the trial judge indicated that the American
+Red Cross (“ARC”) pamphlet released in March 1983 referred to AIDS and
+mentioned the high-risk groups and the signs and symptoms of AIDS.  He noted
+that it was not until May 1984 that the CRCS released a pamphlet to potential
+donors which referred to AIDS and that the pamphlet did not mention the signs
+and symptoms of AIDS.  Despite the opinions of two expert witnesses who
+testified that the “good health” question in the pamphlet provided an adequate
+alternative to symptom-specific questions, the trial judge concluded that the
+question did not meet the appropriate standard of care.  The CRCS was in breach
+of the duty that it owed to users of blood and blood products, to use the same
+standard as its counterparts in the U.S. to screen blood donors.  The trial
+judge also concluded that the causal link was established in both actions.  He
+held that if either the description of the male homosexual high risk group had
+been less ambiguous and more precise in the May 1984 pamphlet or the infected
+donor had been asked if he experienced any of the signs and symptoms of AIDS
+(such as swollen lymph glands), he would have been precluded from donating
+blood on December 1984 and March 1985.  The Court of Appeal upheld
+that decision. The trial judge dismissed W’s action for failure to
+show causation.  The trial judge found that even if the CRCS had met the proper
+standard of care, the infected donor still would have given blood.  The trial
+judge rejected the evidence of the donor that in the fall of 1983 he was not
+aware of AIDS or the request by the CRCS that gay men who engaged in sex with
+other men should defer from donating blood, and concluded that the donor was
+aware of the issue but believed he could ignore the warnings to self-defer
+because he was in good health.  The Court of Appeal set aside that decision. 
+The court found that the CRCS was in breach of its duty of care because, during
+the relevant time frame, it failed to take adequate or any measures to screen
+persons known to pose a high risk of transmitting the HIV virus.  On the issue
+of causation, the court applied the principles in Hollis.  Given that
+the plaintiff bore the onus of proving causation, it held that the necessary
+causal link was presumptively established once it was shown that the CRCS had
+failed in its duty to implement adequate donor screening measures at the time
+the infected donor gave the fatal HIV-tainted blood to the plaintiff.  There
+was no evidence of conduct on the part of the donor that would have made the
+CRCS’s failure to adequately screen high risk donors irrelevant.  It was not
+open to the CRCS to dislodge the presumptive causal link by showing that proper
+screening measures would have proved ineffective in deterring the donor because
+of his own negligence.  Held:  The appeals
+should be dismissed.  In the O and M actions, the Court of Appeal was
+correct in upholding the trial judge’s decision.  The trial judge was entitled
+to find that the donor screening procedures of the CRCS May 1984 pamphlet,
+which was in use when the donor made his HIV-infected blood donations in
+December 1984 and March 1985, were inadequate and to reject the
+opinions of the experts who testified on the issue.  The trial judge was not
+asked to assess complex scientific or highly technical matters.  The issue was
+whether the general health question was sufficient to deter the infected donor
+from donating blood.  The issue is not how an expert would respond to the donor
+screening question in the questionnaire, but how a lay person would respond.  In W’s action, the Court of Appeal wrongly relied on Hollis
+to determine causation on the basis of a presumptive causal link.  Unlike Hollis,
+there is no “learned intermediary” in this case and a rebuttable presumption of
+causation is therefore an inappropriate standard to apply.  In cases of
+negligent donor screening, it may be difficult or impossible to prove
+hypothetically what the donor would have done had he or she been properly
+screened by the CRCS.  In such cases, therefore, the question should not be
+whether the CRCS’s conduct was a necessary condition for the plaintiffs’
+injuries using the “but-for” test, but whether that conduct was a sufficient
+condition.  The proper test for causation in cases of negligent donor screening
+is whether the defendant’s negligence “materially contributed” to the occurrence
+of the injury.  In the present case, it is clear that it did.  The plaintiff
+accordingly retains the burden of proving that the failure of the CRCS  to
+screen donors with tainted blood materially contributed to W contracting HIV
+from the tainted blood.  The trial judge erred on the question of causation. 
+Rather than asking whether the donor would have self-deferred or been excluded
+from donating blood in September 1983 if he had seen the CRCS May 1984
+pamphlet, the trial judge should have asked whether the donor would have
+self-deferred or been excluded if the CRCS  had followed the appropriate
+standard of care for a professional voluntary blood bank in North America at
+the time, as represented by the ARC March 1983 pamphlet.  The problem with
+the CRCS May 1984 pamphlet is the focus on being in “good health”, a focus
+which the trial judge found to be inadequate in O’s case.  Even using the
+strict but-for test, which is not required in these types of cases, causation
+is proved on the facts.  The trial judge concluded, in response to a
+hypothetical question, that the donor would not have been deferred or excluded
+from donating blood on September 1983, had he seen the CRCS May 1984
+pamphlet.  That would not have been the case, however,  had the donor seen the
+ARC 1983 pamphlet.  When the proper standard of care is applied the causal link
+is established.   Cases Cited  Distinguished:  Hollis v. Dow Corning Corp., [1995] 4
+S.C.R. 634; applied:  Snell v. Farrell, [1990] 2 S.C.R. 311; referred
+to:  Ter Neuzen v. Korn, [1995] 3 S.C.R. 674; Athey
+v. Leonati, [1996] 3 S.C.R. 458.  Statutes and Regulations Cited  Rules of Civil Procedure, R.R.O. 1990,
+Reg. 194.  APPEALS from a judgment of the Ontario Court of Appeal
+(1999), 43 O.R. (3d) 461, 169 D.L.R. (4th) 689, 118 O.A.C. 217, 44 C.C.L.T.
+(2d) 205, 31 C.P.C. (4th) 24, [1999] O.J. No. 644 (QL), dismissing the
+Canadian Red Cross Society’s appeals and allowing the Walkers’ appeal from a
+judgment of Borins J. (1997), 39 C.C.L.T. (2d) 1, [1997] O.J. No. 4017
+(QL), allowing the Osborne and M actions in negligence and
+dismissing the Walker action.  Appeals dismissed.  Christopher Morrison
+and Peter K. Boeckle, for the appellant.  Bonnie A. Tough, Jill
+Lawrie, David Harvey and Cathy Beagan Flood, for the
+respondents Walker et al.  David Harvey, Bonnie
+A. Tough and Leah Rachin, for the respondents Osborne et al.  Kenneth Arenson, for
+the respondents A.A.M. et al.  The judgment of the Court was delivered by  1                                  
+Major J.— Canadians
+gradually became aware of the AIDS disease at the beginning of the 1980s. 
+There was no scientific advice available and knowledge about the disease was
+practically all anecdotal.  The scientific community, from that point on, began
+collecting data and sharing information as it became available.  It was not
+until May 1985 that scientists developed the ELISA test that screened for the
+presence of HIV antibodies in the blood.  2                                  
+The three respondents (plaintiffs) in these appeals contracted HIV from
+blood and blood products supplied by the appellant, Canadian Red Cross Society
+(CRCS).  Each respondent claimed that the appellant was negligent in the
+procedures used to screen blood donors with HIV and AIDS.  3                                  
+The respondents Osborne and M succeeded at their trial on liability. 
+Damages were not in issue.  However, the action by Walker was dismissed. 
+Ultimately all three respondents were successful in the Ontario Court of
+Appeal.  4                                  
+The unique circumstances of these appeals confine these findings of
+negligence to cases arising in the same time period.  The advancements in
+understanding HIV and AIDS have now equipped the medical community and the
+blood services industry to better protect the integrity of the blood supply. 
+In light of what is now known it is difficult not to view the allegations of
+negligence with some hindsight.  It is important to resist that temptation and
+to assess the claims on the basis of what was or reasonably ought to have been
+known at the time that the appellants attempted to screen blood donors who were
+infected with HIV or AIDS.  5                                  
+For the reasons that follow, the three appeals are dismissed.  I.   Relevant
+Blood Donor Literature  6          
+For the purposes of these reasons, there were three crucial documents
+prepared for distribution or presentation to blood donors, which were used by
+Canadian and American voluntary blood banks during the relevant period. They
+are the American Red Cross (ARC) pamphlet entitled “An important message to all
+blood donors” published in March 1983; the CRCS donor questionnaire entitled
+“Canadian Red Cross Blood Transfusion Service Donor Questionnaire” published in
+April 1983; and the CRCS pamphlet entitled “An Important Message to Our Blood
+Donors” published in April 1984, implemented on May 1, 1984, and distributed to
+potential donors thereafter.  The content of these documents bears directly on
+the issues in these appeals and the relevant parts are reproduced below.  Other
+materials were published by the CRCS in 1985 and in subsequent years but those
+are not relevant in this appeal.  A.                
+American Red Cross Pamphlet entitled “An important message to all
+blood donors” -- March 1983  This information is distributed to all potential blood donors to help
+prevent the spreading of certain illnesses from donors to patients by blood
+transfusions.  Please read this statement, and if you think that
+there is a risk that your   blood could cause illness in a patient who might
+receive it, please refrain from donating blood at this time.  What Are These Illnesses?  Some persons may feel in excellent health but have viruses or other
+infectious agents in their blood that could cause illness in persons receiving
+a transfusion of their blood.  If you think any of the following information
+pertains to you, please do not donate blood today:  1.    Acquired Immune Deficiency Syndrome (AIDS). 
+This newly described illness of unknown cause is believed to be spread by
+intimate personal contact and, possibly, by blood transfusion.  Persons with
+AIDS have reduced defenses against disease and as a result may develop
+infections such as pneumonia, or other serious illnesses.  At this time there
+is no laboratory test to detect all persons with AIDS.  Therefore, we must rely
+on blood donors’ health histories to exclude individuals whose blood might
+transmit AIDS to patients who will receive that blood.  The Office of Biologics of the Food and Drug Administration has
+identified groups at an increased risk of developing AIDS.  These groups are 
+–  ·           
+Persons with symptoms and signs suggestive of AIDS.  These include
+severe night sweats, unexplained fevers, unexpected weight loss,
+lymphadenopathy (swollen glands), or Kaposi’s Sarcoma (a rare cancer).  ·       
+  Sexually active homosexual or bisexual men with multiple partners.  ·           
+Recent Haitian entrants into the United States.  ·       
+  Present or past abusers of intravenous drugs.  ·           
+Sexual partners of persons at increased risk of AIDS.                                                                     .
+. .  What Should I Do?  If you believe that you may be carrying one of the above-mentioned
+illnesses, or if you are an individual in a group at increased risk of
+developing AIDS, we ask that you refrain from donating blood at this time.  You
+may leave now without providing an explanation.  Or, if you prefer, you may
+proceed to be deferred confidentially, without further questioning, by the
+health history interviewer. B.         CRCS
+Blood Transfusion Service Donor Questionnaire –  April 1983  Thank you for your gift of blood.  In order to protect you and the
+patients who may receive your blood, it is important that you be in good
+health.  Please read these questions carefully each time you give.  If your
+answer to any question is yes, please speak to the nurse who will tell you if
+you can give blood today.  A yes answer does not necessarily disqualify you as a donor.  1.    Do you participate in any other blood
+programme?        (plasmapheresis, cell apheresis, etc.)  2.    Have you fainted at any previous donation?  3.    Do you now or have you ever had: Hepatitis or “yellow jaundice”; Epilepsy (Seizures); High Blood
+Pressure; Lung Disease; Cancer; Malaria, Diabetes; Kidney Disease; Heart
+Disease; Blood Disease. Any other chronic health problem?  4.    In the past 3 years: Have you been outside North America?        Did you take medication to prevent Malaria?  5.    In the past six months have you had: Any serious illness or have you required physician or hospital care? 
+Transfusion of blood or blood products, Vaccination, Tattoo, Ear piercing,
+Acupuncture? Contact with Infectious Hepatitis? Have you been pregnant?  Did you breast feed your infant?  6.    Do you now have: Any active allergic condition (Asthma or Hay Fever), sore throat, cold,
+flu, skin problems?  7.    Are you currently taking any medications or
+injections?  8.    Within the last 24 hours: Have you taken any medication for headache, cough, cold, arthritis or
+stomach upset?  C.        CRCS Pamphlet entitled “An Important
+Message To Our Blood Donors” –  May 1, 1984  Recently it has become apparent that the condition
+known as AIDS (Acquired Immune Deficiency Syndrome) is probably blood borne and
+should be included in the list of illnesses which excludes donation.  AIDS is a condition in which the body’s natural
+resistance to various diseases is seriously reduced, frequently with fatal
+results. The cause is unknown.  There is no laboratory test to detect it in its
+early, non-symptomatic stage.  Therefore, it is recommended that for the
+present, persons who have been indicated, according to current evidence, as
+being at above average risk of contracting AIDS should not donate blood.  These persons include:  ·       
+homosexual or bisexual males who have multiple partners  ·       
+present or past abusers of intravenous drugs  ·       
+recent immigrants from, or visitors to, those areas where AIDS is
+endemic, i.e., Chad, Haiti and Zaire  ·       
+sexual partners of any of the above persons.   II.         Facts  7          
+The respondents Alma Walker (“Walker”), Ronald Osborne (“Osborne”) and
+A.M.M. (“M”) each received blood products between 1983 and 1985 from the CRCS. 
+The blood was tainted with the HIV virus.  Eventually, both Walker and Osborne
+developed AIDS and died.  M, who will be 20 in August 2001, is currently
+HIV-positive.  8                   
+            All three recipients brought actions against the CRCS
+claiming, among other things, that the CRCS was negligent in the process it
+took to screen blood donors with HIV and AIDS between 1983 and 1985.  They
+claimed that as a result, the tainted blood infected them with HIV and caused
+Walker and Osborne to eventually develop AIDS and die.  9          
+The time frame of these claims was the early to mid-1980s.  This was
+when information and data about HIV and AIDS was emerging quickly.  In the
+early 1980s, scientists did not know how to test blood for the presence of HIV
+or AIDS.  10      
+In May 1985, scientists developed the ELISA test which screens for the
+presence of HIV antibodies in the blood.  Prior to this, attempts to protect
+the blood system were restricted to screening blood donors to exclude those
+most likely to carry HIV.  Consequently, the donor-screening procedures of the
+CRCS are the focus of these appeals.  11      
+As a result of evolving scientific knowledge in the 1980s, the
+chronology of events is important.  It is necessary to review the facts in
+greater detail than usual to establish what the CRCS knew about HIV and AIDS,
+when they knew it, and how the CRCS  responded to the new information.  A.      The
+Walker Action  12      
+On September 12, 1983, “Robert M.” made a blood donation that was
+collected by the CRCS at its permanent clinic in the Manulife Centre in
+Toronto.   This unit of blood, identified as 73693, was later determined to be
+HIV positive.  13      
+On October 1, 1983, the respondent Walker was transfused with two units
+of red blood cells while in York Finch General Hospital recuperating from a
+Caesarean section.  One unit of red blood cells came from the HIV-infected unit
+73693.  14      
+Her  infection with HIV was confirmed on November 21, 1990.  She died of
+AIDS on August 17, 1993 at the age of 31.  Before her death, she started an
+action against the CRCS that is now carried on by her estate (the “Walkers”). 
+In that action she claimed, among other things, that the CRCS failed to
+implement appropriate blood donor screening procedures and that its failure
+resulted in the donation of blood that was HIV positive.  15      
+Before he died, the donor Robert M. was examined under oath on November
+13, 1992 in accordance with the Ontario Rules of Civil Procedure, R.R.O.
+1990, Reg. 194.  He testified that he was gay and had lived in Toronto from
+1975 until the fall of 1983 when he moved to Montreal.  He estimated that in
+the eight years he lived in Toronto he had approximately 1,000 homosexual
+encounters.  16      
+When asked about his knowledge of HIV and AIDS, Robert M. testified that
+he did not know that there was an emerging connection between AIDS and the gay
+community and that, as of 1983, he had no knowledge of either HIV or AIDS.  He
+said that he was a member of the gay community in Toronto that “stuck together”
+because of the prejudice against it.  He testified that he did not subscribe to
+newspapers and did not have any interest in current events.  He was not involved
+politically with gay issues or concerns.  17      
+Robert M. was a regular blood donor in Toronto and continued to donate
+blood when he moved to Montreal in 1983 until he was told to stop in January
+1987.  He did not recall hearing any warnings through the media, conversations
+with friends, at work, or through the gay community that gay men should not
+donate blood.  He testified that had he heard such warnings, he would have
+questioned why he should not donate blood because he was healthy.  He also
+stated that had he seen or been given information on AIDS and about those
+people who fell within high risk categories and should not donate blood, he
+would have raised this issue with the nurse in attendance at the donor clinic. 
+He said that he would have recognized that he belonged to one of the high risk
+groups – homosexual males with multiple partners.  18      
+When Robert M. made the fateful donation in September 1983, the CRCS’s
+donor-screening method was a questionnaire given to potential donors.  This April
+1983 questionnaire contained questions that generally pertained to the donor’s
+health, but made no reference to persons at high risk for contracting AIDS or
+to signs and symptoms of AIDS.  19      
+In April 1984, six months after Walker’s transfusion, the CRCS drafted a
+pamphlet entitled “An Important Message to Our Blood Donors”, which was
+presented to donors beginning on May 1, 1984.  20      
+The May 1984 pamphlet was both the first pamphlet to be used at CRCS
+donor clinics and the first CRCS document to make reference to AIDS.  In that
+pamphlet, the CRCS  requested that homosexual or bisexual males who have
+multiple partners refrain from donating blood.  21      
+The 1984 pamphlet obviously did not exist when Robert M. made his
+September 12th, 1983 donation.  Robert M. made five subsequent donations in
+Montreal after the CRCS  began to use the May 1984 pamphlet.  He testified that
+he had not seen the pamphlet before it was shown to him when he gave evidence
+before his death.  22      
+When Robert M. was asked what he would have done had he been asked to
+read that May 1984 pamphlet on September 12, 1983, he said he would have told
+the nurse at the donor clinic that he was homosexual and asked him or her what
+he should do.  B.   The
+Osborne Action  23      
+On December 17, 1984, a man referred to as “Everett” made a blood
+donation to the CRCS at the Manulife Centre in Toronto.   This unit of blood,
+numbered 10746, was later found to be HIV positive.  24      
+In late December 1984, Osborne was admitted to hospital suffering from
+acute Guillain-Barré Syndrome (“AGBS”).  On January 7, 1985, he was given
+plasma, a blood product, to treat his AGBS.  One unit of blood products came
+from the HIV-infected unit 10746, donated by Everett.  25      
+The respondent Osborne fully recovered from AGBS but was diagnosed with
+HIV on August 28, 1990 and died of AIDS on June 18, 1993.  Before he died, he
+brought an action against the CRCS that is now being carried by his estate (the
+“Osbornes”).  In the action, he alleged, among other things, that the CRCS
+failed to implement appropriate blood donor screening procedures and that its
+failure resulted in the donation of blood that was HIV positive.  26      
+Before he died, the donor Everett was examined under oath on December 3,
+1992 in accordance with the Ontario Rules of Civil Procedure.  He
+testified that from 1974 to 1982 he was involved in sexual relations with
+between 200 and 400 different men.  He said that he gave up the gay lifestyle
+in 1982.  He testified that while he was living the gay lifestyle he was not
+aware of any connection between gay sex and HIV or AIDS.  27      
+Everett was a long-time blood donor who thought he was in good health. 
+He did not know that he was HIV positive prior to giving blood on December 17,
+1984.  He had swollen lymph nodes in his neck, but these had been present since
+about 1975 and, as far as Everett was concerned, they had no effect on his
+overall health and gave no cause for concern in his donating blood.  Although
+he had engaged in sexual relations with between 200 and 400 men between 1974
+and 1982, he did not regard himself as a sexually-active homosexual at the time
+he donated blood in December 1984.  28      
+Everett said that he was asked to read a laminated heath questionnaire
+each time he attended the Manulife clinic.  He testified that he never saw any
+mention of HIV, AIDS, gay sexual behaviour, homosexual behaviour or bisexuality
+in the material that he was given to read.  Everett said that in December 1984,
+if he had been questioned by a nurse whether he had ever had sex with a man, he
+would have said yes. 29      
+Everett did not recall seeing the CRCS’s May 1984 pamphlet.  When asked
+whether, on December 17, 1984, he would have included himself in the category
+of “homosexual or bisexual males who have multiple partners”, Everett
+said no.  He had not been sexually active with men since 1982.  However, had
+the pamphlet used the language “homosexual or bisexual males who have had
+multiple partners”, he said he would have included himself in that category.  C.  The M
+Action  30      
+Everett also donated blood at the CRCS in the Manulife Centre on March
+25, 1985.  On March 27, 1985, when he was about 3 ½ years old, M received blood
+from that donation during the course of elective surgery to repair a hole in
+his heart.  He contracted HIV.  He is currently 19 years old and his infection
+is controlled by anti-viral medications.  The M case was ordered to be heard
+with the Osborne case as the actions involved the same blood donor.  All
+three actions, Osborne, M, and Walker were heard together.  31      
+In November 1985, the CRCS revised its pamphlet to describe a typical
+member of the group of high-risk donors as a person who was “a male and [has]
+had sex with another male since 1977”.  Around the same time, it also began
+testing all blood donations for the presence of HIV antibodies using the ELISA
+test.  In May 1986 the CRCS introduced the first brochure that asked symptom-specific
+questions about HIV.  III.     Judicial
+History  A.   Ontario
+Court of Justice (General Division) (1997), 39 C.C.L.T. (2d) 1  (1)   The Osborne and M Actions  32      
+In the Osborne and M actions, the trial judge held that
+the CRCS owed a duty of care to users and recipients of blood and blood
+products to take reasonable measures to protect the safety of the blood, and
+blood products, it provided for therapeutic use.  33      
+With respect to the standard of care, the trial judge said that “the
+conduct of a voluntary blood bank will be measured against the professional
+standards of other voluntary blood banks” (para. 132). (All references to
+paragraphs refer to the reasons of the trial judge except where otherwise
+indicated.)  The parties conceded that it was appropriate, in determining the
+standard of care for the CRCS, to consider the practices of the voluntary blood
+collection industry in the United States with respect to safeguarding blood.  34      
+In the trial judge’s view, “the Americans had it right” (para. 153). 
+The ARC pamphlet, which was released in March 1983, made reference to AIDS, and
+made mention of high-risk groups and the signs and symptoms of AIDS.  By March
+1983, the CRCS had not released a pamphlet of its own.  The donor questionnaire
+of April 1983 did not mention AIDS.  It was not until May 1, 1984 that the CRCS
+released a pamphlet to potential donors which referred to AIDS.  35      
+The trial judge found that “the CRCS has provided no credible
+explanation why it did not make any AIDS risk information available to donors
+at clinic sites before May, 1984” (para. 155).  He said at para. 158:  When one looks to the measures taken to screen donors by the voluntary
+blood collection industry in the United States, it becomes clear that the CRCS
+was not in compliance with all the professional standards followed in the
+United States.  Because the CRCS had access to the same scientific body of
+knowledge and data available to the ARC, AABB and CCBC when they formulated the
+Joint Statement, [which refers to the Joint Statement on AIDS Related to
+Transfusion issued on January 13, 1983] and because it was in regular
+communication with the ARC, NIH and CDC, it is reasonable to conclude that the
+CRCS possessed the same knowledge as the American voluntary blood collection
+industry, or ought to have been possessed of it.  36      
+Borins J. noted that the Canadian and American blood collection agencies
+took different approaches to achieve the same objective.  When the CRCS finally
+implemented the May 1984 pamphlet, it made no reference to the signs and
+symptoms of AIDS.  The trial judge noted at para. 160:  The CRCS followed the “good health” approach, while virtually all of
+its peers in North America attempted to prevent, or reduce, the risk of
+infected blood from entering the blood supply by symptom specific questions
+deliberately designed and intended to eliminate donors at high risk for being
+infected with HIV.  37      
+He concluded that the “good health” question was based on a false
+premise and said that a donor could not know if he or she was in good health
+unless told what would constitute bad health in this context.  The American
+procedure did this by identifying the signs and symptoms of bad health. 
+According to the trial judge, this deficiency was illustrated by the fact that
+Everett had swollen lymph glands for several years.  The fact that these glands
+were swollen for so long lead him to believe that that was his normal condition
+and that he was therefore in good health.  38      
+The trial judge stated that there was a basic contradiction in the
+CRCS’s May 1984 pamphlet.  On the one hand, donors were told not to donate if
+they were not “feeling generally well”.  On the other hand, they were told that
+“some apparently healthy persons” were infected with viruses.  AIDS was not
+included in the list of diseases.  The pamphlet listed those persons who were
+at high risk for AIDS, but said nothing about the health indicators of HIV
+infection.  As a result, he concluded that the “good health” questions did not
+meet the appropriate standard of care.  39      
+The CRCS retained two expert witnesses at the trial, Drs. Allen and
+Barker, who testified that the “good health” question provided an adequate
+alternative to symptom-specific questions.  Dr. Barker was the senior physician
+responsible for the general management of blood service operations at the 57
+centres of the ARC in the United States.  Dr. Allen was in charge of AIDS
+surveillance for the Centers for Disease Control and Prevention (CDC) in
+Atlanta and was recognized as being at the forefront of the worldwide fight
+against AIDS.  Although Borins J. described them as “eminent physicians and
+scientists”, he did not, as he was entitled, accept their expert opinions.  
+Borins J. stated at para. 162:  As I have indicated, the “good health” question is not an effective
+substitute to asking a donor about specific symptoms which, if he has them, are
+indicative that he may be infected with AIDS.  Everett’s circumstances
+illustrate the inadequacy and ineffectiveness of the “good health” question. 
+Had he been asked if he had swollen lymph glands, he would have answered
+affirmatively, and he would have been excluded as a donor.  40      
+Borins J. concluded that the standard of care adopted by the CRCS did
+not meet the standard required to safeguard the blood supply from the risk of
+infection by HIV.  The CRCS was in breach of the duty that it owed to users of
+its blood and blood products to use the same standard as its counterparts in
+the United States to screen blood donors.  It failed in its duty to exercise
+the standard that other blood banks used to screen high risk donors under
+similar circumstances.  41      
+Borins J. found that the causal link was established in the Osborne
+and M actions.  He decided that if either the description of the male
+homosexual high risk group had been less ambiguous and more precise in the May
+1, 1984 pamphlet (“homosexual or bisexual males who have had multiple
+partners”, rather than “homosexual or bisexual males who have multiple
+partners”), or if Everett had been asked if he experienced any of the signs and
+symptoms of AIDS (such as swollen lymph glands), he would have been precluded
+from donating blood on December 17, 1984 (Osborne) and March 25, 1985 (M).  42      
+The findings of negligence of the CRCS in respect of donor screening
+made in the Osborne case also apply in the M case because the
+CRCS was still using the May 1, 1984 pamphlet, which was found to be inadequate
+in the Osborne case, on March 25, 1985 when Everett donated the blood
+received by the infant M.  (2)   The Walker Action  43      
+While he found liability on the part of the CRCS in the Osborne
+and M actions, Borins J. found that the CRCS was not liable for Walker
+contracting AIDS as the Walkers had failed to show causation.  That is, the
+trial judge found that even if the CRCS had met the proper standard of care,
+Robert M. still would have given blood.  44      
+The trial judge rejected the evidence of the Walker donor, Robert M.,
+that in the fall of 1983 he was not aware of AIDS or the request by the CRCS
+that gay men who engaged in sex with other men should defer from donating
+blood.  Borins J. concluded that Robert M. was aware of the issue but believed
+he could ignore the warnings to self-defer because he was in good health.  45      
+Borins J. also noted that Robert M. continued to donate blood in
+Montreal after the CRCS May 1984 pamphlet was implemented.  Although Robert M.
+testified that he had not seen the CRCS May 1984 brochure before it was shown
+to him at his examination in November 1992 (para. 35), Borins J. found that
+“[Robert M.] tried his best to avoid acknowledging that he received, and read,
+the AIDS pamphlets available in the Montreal clinic” (para. 40).  46      
+Borins J. held that “if the CRCS had published an AIDS pamphlet in
+September 1983 which was similar to the May 1, 1984, pamphlet, and if it had
+been given to [Robert M.] on September 12, 1983 at the Manulife clinic, he
+would have donated blood” (para. 41).  He would have done so because he thought
+that he was in good health and believed that his blood would be tested.  47      
+Borins J. felt that the Walker case could be decided without
+determining negligence, as the case failed on causation.  See para. 45:  In regard to donor screening, assuming, without deciding, that when
+Robert M. donated blood on September 12, 1983 the CRCS was negligent in not
+having instituted a donor screening programme which focused on asking the donor
+symptom-specific questions, the [Walkers] have not satisfied me that this would
+have resulted in the deferral of Robert M., who was in good health at that
+time.  48      
+In addition to dismissing the Walker action on a failure to prove
+causation, Borins J. found that the alternate claim based on strict liability
+in tort also failed.  49      
+Borins J. declined to decide whether the CRCS was similar to a
+manufacturer of whole blood or plasma.  He concluded that the principle of
+strict liability in tort is not available to the Walkers regardless of how one
+characterizes the role of the CRCS in the collecting, processing and
+distribution of blood and blood substances.  50      
+Borins J. based his findings on several factors.  The infected donations
+were obtained prior to the general use in Canada of the ELISA test in November
+1985.  He cited Sopinka J.’s comments in Ter Neuzen v. Korn,
+[1995] 3 S.C.R. 674, that blood, in some ways, is an inherently dangerous
+substance, in contrast to the commercial world, where a manufacturer has
+control over the goods.  He examined case law in the United States and noted
+that although strict liability had become the norm for defective products,
+blood and blood products had been excepted from that rule in order to ensure
+that they continued to be available to the public.  Borins J. concluded that on
+policy grounds, it would be wrong to find the CRCS strictly liable in tort for
+the infected blood received by Mrs. Walker on October 1, 1983.  B.    Ontario
+Court of Appeal (1999), 43 O.R. (3d) 461  51      
+The court dismissed the CRCS’s appeal in the Osborne and M
+actions, but allowed the Walkers’ appeal.  (1)   CRCS’s Appeal of the Osborne and M
+Actions  52      
+As the CRCS had agreed that it owed a duty of care to recipients of its
+blood and blood products, the issue before the Court of Appeal was the
+appropriate standard of care.  53      
+The trial judge had found that the CRCS May 1, 1984 pamphlet fell below
+the applicable standard of care, having regard to the practices in place in the
+United States.  Before the Court of Appeal, it was argued that the trial judge
+could not reasonably reach that conclusion when the only two medical experts,
+Barker and Allen, testified that the steps taken by the CRCS met the
+appropriate standard of care.  As stated above, the medical experts testified
+that the “good health” question in the CRCS’s May 1984 pamphlet was a
+reasonable alternative to asking symptom-specific questions to potential blood
+donors.  54      
+The Court of Appeal rejected that argument and held that the trial judge
+was entitled to conclude that the “good health” question was insufficient to
+meet the requisite standard of care (at p. 468):  [Borins J.’s] finding that the pamphlet was inadequate did not turn on
+any disagreement with the experts on a medical issue, but rather on his
+evaluation of whether the message conveyed by the pamphlet was sufficient to
+deter those at high risk of having the HIV virus from donating blood.  The
+finding that the pamphlet did not meet that purpose turned on his evaluation of
+how that pamphlet would be read and understood by possible donors and not on
+the application of any medical expertise.  (2)   The Walker Appeal  55      
+The trial judge declined to determine whether the CRCS had been
+negligent in the Walker case as the action failed on causation.  The
+Court of Appeal did determine that issue.  It found that the respondent CRCS
+was in breach of its duty of care because, during the relevant time frame, the
+CRCS failed to take adequate or any measures to screen persons known to pose a
+high risk of transmitting the HIV virus.  The CRCS knew or ought to have known
+that its failure to implement adequate screening measures could result in the
+transmission of HIV infected blood to recipients.  56      
+The remaining issue was causation.  The Court of Appeal overruled the
+trial judge on the ground that he was incorrect in dismissing that action on
+the failure to show causation.  According to the trial judge, the Walkers bore
+the additional onus of showing that had proper screening measures been in
+place, Robert M. would have been deterred from donating.  The Walkers’ claim
+failed at trial because they did not succeed in meeting this onus.  57      
+In allowing the Walker appeal, the Court of Appeal relied on Hollis
+v. Dow Corning Corp., [1995] 4 S.C.R. 634.  In that case, it was
+found that the manufacturer, Dow, was negligent in failing to adequately warn
+doctors of the possibility that its breast implants could rupture. However, the
+plaintiff did not have to prove that if warned, the doctor would have
+communicated that warning to the plaintiff.  La Forest J. stated at para. 60:  Simply put, I do not think a manufacturer should be
+able to escape liability for failing to give a warning it was under a duty to
+give, by simply presenting evidence tending to establish that even if the
+doctor had been given the warning, he or she would not have passed it on to the
+patient, let alone putting an onus on the plaintiff to do so. Adopting such a
+rule would, in some cases, run the risk of leaving the plaintiff with no
+compensation for her injuries. She would not be able to recover against a
+doctor who had not been negligent with respect to the information that he or
+she did have; yet she also would not be able to recover against a
+manufacturer who, despite having failed in its duty to warn, could escape
+liability on the basis that, had the doctor been appropriately warned, he or
+she still would not have passed the information on to the plaintiff.  Our tort
+law should not be held to contemplate such an anomalous result.  [Emphasis in
+original.]  58      
+The Court of Appeal applied the principles in Hollis, supra,
+to the Walker case.  Given that the Walkers bore the onus of proving
+causation, it held that the necessary causal link was presumptively established
+once it was shown that the CRCS had failed in its duty to implement adequate
+donor screening measures at the time Robert M. donated the fatal HIV-tainted
+blood to the plaintiff Walker.  There was no evidence of conduct on the part of
+Robert M. that would have made the CRCS’s failure to adequately screen high
+risk donors irrelevant.  It was not open to the CRCS to dislodge the
+presumptive causal link by showing that proper screening measures would have
+proved ineffective in deterring Robert M. because of his own negligence.  59      
+The Court of Appeal concluded that had the trial judge applied the
+correct causal analysis, he would have found the necessary causal link and,
+given the Court of Appeal’s finding of negligence, the appeal was allowed.  IV.    Issues A.   Standard
+of Care  60      
+Did the Court of Appeal err in holding that the trial judge was correct
+to find that the CRCS May 1, 1984 pamphlet was inadequate in the Osborne
+and M appeals, despite the evidence of two medical experts to the contrary?  B.   Causation  61      
+Did the Court of Appeal err in finding that the necessary causal link in
+the Walker appeal was presumptively established once it was shown that
+the CRCS had failed in its duty to implement adequate donor screening measures
+at the time of Robert M.’s donation and that it was not open to the CRCS to
+dislodge that presumptive causal link?  V.   Analysis  A.   The
+AIDS Crisis  62      
+The trial judge set out the history and the knowledge of AIDS that was
+developing in the United States to determine the standard of care required in
+safeguarding the Canadian blood supply (see paras. 134 to 152).  A summary of
+which is useful to demonstrate the uniqueness of the time frame in these
+appeals, and to highlight the difference between the American and Canadian
+responses to the emerging AIDS crisis.  63               
+The first AIDS cases were diagnosed in North America in June and July of
+1981.  As more cases surfaced, it appeared that AIDS was especially prevalent
+among certain groups, namely homosexual males, intravenous drug users, and
+recently-immigrated Haitians.  It was not until January 1984 that the medical
+community  asserted with certainty that AIDS was transmissible by blood.  64      
+In July 1982, three cases of Pneumocystis carinii pneumonia were
+diagnosed in hemophiliacs, raising the possibility that AIDS might be blood
+borne.  65      
+In December 1982, the Centers for Disease Control and Prevention
+reported a case of “Possible Transfusion-Associated AIDS (TAA) - California”. 
+In that case, an infant, who did not fit into any of the previously noted high
+risk categories for AIDS, received blood platelets from transfusions.  The
+infant contracted AIDS and the transfusions he received became the focus of the
+medical community’s attention.  66      
+In January 1983, a Workgroup to Identify Opportunities for the
+Prevention of AIDS was convened.  At that meeting, based on the emerging
+information about AIDS, a consensus was reached for the proposition that
+members of high risk groups for AIDS should somehow be excluded from donating
+blood.  The report indicates that “no consensus was reached as to the best
+method for doing this”.  67      
+The Workgroup rejected the idea of screening out male homosexuals, as
+that procedure would be “intrusive”, “unethical” and might “institutionalize a
+stigma on groups already prone to prejudice and persecution”.  Further, the
+Workgroup questioned whether such a procedure would be effective, given the
+possibility that many potential donors would be reluctant to disclose that they
+were homosexual, or might conclude that they were not at risk for contracting
+or carrying the disease.  No recommendations were made at this meeting on how
+to screen high risk donors.  68      
+On January 13, 1983, the ARC, the American Association of Blood Bankers,
+and the Council of Community Blood Banks issued a “Joint Statement on AIDS
+Related to Transfusion” (“Joint Statement”).  The Joint Statement concluded
+that evidence was inconclusive that AIDS was transmissible by blood.  It
+recommended more thorough screening for symptoms of AIDS in potential donors;
+however, it did not recommend that donors be screened on the basis of their
+sexual preference.  It further noted that only 10 of 800 reported AIDS cases,
+diagnosed to date, were possibly blood-related, while approximately 10 million
+transfusions had been performed in the lapse of one year from 1982.  69      
+On March 4, 1983, the American Public Health Service Committee issued
+its promised recommendations for donor screening.  The committee recommended
+that, prior to donating blood, donors be given pamphlets describing high risk
+groups so that they could self-screen based on the information in the
+pamphlets.  The Bureau of Biologics of the Food and Drug Administration (FDA)
+recommended improved educational programs for blood bank personnel so that they
+could better assist donors in recognizing the symptoms of AIDS.  These
+guidelines were promptly implemented by the ARC.  70      
+The ARC prepared a pamphlet in March 1983 for use at its donor clinics
+entitled “An important message to all blood donors”.  71      
+Donors were required to sign an acknowledgment that they had read the
+ARC 1983 pamphlet concerning AIDS, and to acknowledge their understanding that
+members of high risk groups had been asked to refrain from donating blood.  B.    Canada’s
+Response  72      
+The CRCS’s response to the Joint Statement of January 1983 is usefully
+compared to the ARC response.  The CRCS became aware of the Joint Statement
+shortly after it was released.  On February 7, 1983, the CRCS and the Canadian
+Hemophilia Society met.  The latter recommended expanding the CRCS donor
+questionnaire to include “questions more specifically related to the
+symptomatology of AIDS” (para. 149 (emphasis deleted)).  73      
+On March 10, 1983, the National Office of the CRCS issued a press
+release advising “members of groups identified as high risk of carrying
+Acquired Immunodeficiency Syndrome (AIDS) not to give blood.  These groups are:
+Patients diagnosed with AIDS, sexual partners of AIDS patients, persons with
+AIDS symptoms, sexually-active homosexual or bisexual men with multiple
+partners, recent Haitian immigrants, current or past drug abusers, and sexual
+partners of individuals at high risk for AIDS” (para. 147 (emphasis deleted)).  74      
+The CRCS also indicated it was to expand the steps taken to protect
+blood recipients from the possible transmission of AIDS through blood by
+expanding the current screening process for blood donors to include specific
+questions to detect potential donors with symptoms of AIDS or who might be
+carriers of AIDS.  In the March 10, 1983 press release, the CRCS assured that
+it was “doing everything possible under current conditions of knowledge to
+protect recipients of blood and blood products from any possible threat to
+their health” and promised to “continue to monitor new developments, in
+association with other agencies in Canada and the United States, and [to]
+revise its position promptly should medical or other scientific findings
+indicate that a different course of action is warranted” (para. 147 (emphasis
+deleted)).  75      
+It is significant to note that Borins J. stated at para. 148:  It is clear that in identifying “persons with AIDS
+symptoms” as a discrete high risk group, and in committing itself to extending
+its current donor screening process to “include specific questions to detect
+potential donors with symptoms of AIDS or who might be carriers of AIDS”, the
+CRCS had adopted the recommendations of the Joint Statement and the FDA, as
+reflected in ARC pamphlet.  76      
+On April 15, 1983, the National Advisory Committee and Blood Transfusion
+Services met.  After what was described as a “spirited debate”, it was decided
+not to ask symptom-specific questions of potential donors, but instead to
+modify the existing donor questionnaire by adding the preamble with a “good
+health” aspect.  The revised preamble read as follows (at para. 150):  Thank you for your gift of blood.  In order to protect you and the
+recipient of your blood, it is important that you be in good health. 
+Please read these questions carefully each time you give.  If your answer is
+yes to any question, notify the nurse.  A yes answer does not necessarily disqualify you as
+a donor.  [Emphasis added.]  77      
+The decision not to ask symptom-specific questions of potential donors
+was apparently made with disregard for the advice of the CRCS’s own medical
+staff.  The Medical Directors of the CRCS met on March 24-25, 1983, where the
+general consensus reached was that it would be appropriate to ask donors
+symptom-specific questions.  There was no satisfactory explanation as to why
+the National Advisory Committee and Blood Transfusion Services decided not to
+follow the advice of its own medical staff, and instead retained the “good
+health” approach.  78      
+As early as April 1983, the CRCS also decided to implement a
+donor-screening pamphlet, albeit not symptom-specific.  However, this was not
+done for over a year (May 1, 1984).  79      
+Finally, in November 1985, the CRCS revised its 1984 pamphlet to
+describe a typical member of the group of high-risk donors as a person who was
+“a male and [has] had sex with another male since 1977” (para. 144).  The CRCS
+began testing all blood donations for the presence of HIV antibodies using the
+ELISA test in November 1985.  In May 1986 the CRCS introduced the first
+brochure that asked symptom-specific questions about HIV.  C.  
+Osborne and M  80      
+The issue is whether the trial judge was entitled to find that the donor
+screening procedures of the CRCS May 1984 pamphlet, which was in use when
+Everett made his blood donations on December 17, 1984 and March 25, 1985, were
+inadequate.  The trial judge rejected the opinions of the only two experts who
+testified on this issue, Allen and Barker.  As noted earlier, these experts
+testified that the “good health” question provided an adequate alternative to
+symptom-specific questions in the CRCS May 1984 pamphlet.  The trial judge
+found that the CRCS’s “good health” questions were not an effective substitute
+for symptom-specific questions about AIDS as they were based on a false premise
+(at para. 160):  A donor cannot know if he or she is in “good health” unless told what
+would constitute “bad health” in the context of the purpose of the “good
+health” question. The American procedure did this by identifying the signs and
+symptoms of bad health from the perspective of the object it was seeking to
+achieve by donor screening. Nowhere is the false premise better illustrated
+than in the case of Everett, who had swollen lymph glands for several years. A
+person’s good health is often subjective. A person may experience a particular
+condition for a long period of time, but because of the long period during
+which he or she has experienced it, believe that it is his or her normal
+condition. Such a person may believe that he or she is in good health. This
+illustrates why a “good health” question is not a substitute for the symptom
+specific questions.  [Emphasis in original.]  81      
+Borins J. found that the CRCS May 1984 pamphlet contained a basic
+contradiction (at para. 161):  On the one hand, donors were told not to donate if they were not
+“feeling generally well”.  On the other hand, donors were told that “some
+apparently healthy persons” were infected with viruses. Yet other than
+indicating those people at high risk for AIDS, nothing was said about health
+indicators of HIV infection. To use a “good health” question and nothing more
+to ask a person if he believed he had AIDS, would have been like asking Mr.
+Osborne if he thought he had AGBS, without telling him its signs and symptoms.  82      
+I agree with the Court of Appeal in upholding the trial judge’s
+conclusions in the Osborne and M cases.  The trial judge was not
+asked to assess complex scientific or highly technical matters.  Simply, the
+issue was whether the general health question was sufficient to deter the
+infected donor from donating blood.  The issue is not how an expert would
+respond to the donor screening questions in the questionnaire, but how a lay
+person would respond (see also Ter Neuzen, supra, at p. 701).  83      
+I agree with the reasoning of the Court of Appeal at p. 468:  Nor is the factual issue at the heart of Justice
+Borins’ conclusion that the screening procedures followed by the CRCS were
+inadequate, one that fell within the exclusive domain of medical experts.  His
+finding that the pamphlet was inadequate did not turn on any disagreement with
+the experts on a medical issue, but rather on his evaluation of whether the
+message conveyed by the pamphlet was sufficient to deter those at high risk of
+having the HIV virus from donating blood.  The finding that the pamphlet did
+not meet that purpose turned on his evaluation of how that pamphlet would be
+read and understood by possible donors and not on the application of any
+medical expertise. D.     Walker  84      
+The Court of Appeal confirmed Borins J.’s finding on the issue of
+negligence but disagreed with him on the issue of causation.  On the question
+of negligence the Court of Appeal stated at p. 471:  1.  That the CRCS was in breach of its duty in
+failing, by September 1983, to have in place at its donor clinics a program
+designed to screen out individuals known to pose a high risk of transmitting
+the HIV virus; and  2.  That the CRCS knew or ought to have known that
+its failure to implement adequate screening measures could result in the
+transmission of HIV-infected blood to innocent recipients such as Mrs. Walker.  85      
+The Court of Appeal relied on Hollis, supra, to determine
+causation on the basis that, as the Walkers bore the onus of proving causation,
+the necessary causal link was presumptively established once it was shown that
+the CRCS had failed in its duty to implement adequate donor screening measures
+when Robert M. donated the HIV-tainted blood that proved fatal to Walker. 
+There was no evidence of extraneous conduct on the part of Robert M. which
+would have made the CRCS’s failure to adequately screen high risk donors
+irrelevant.  Therefore, they concluded that it was not open to the CRCS to
+dislodge the presumptive causal link by showing that proper screening measures
+would have proved ineffective in deterring Robert M. on the basis of any
+extraneous conduct.  On this point I respectfully disagree.  86      
+The law of torts may, from time to time, reflect policy considerations
+which can impact, in part, on the burden of proof in a negligence action.  The
+Court of Appeal here in Walker relied on Hollis to determine
+causation on the basis of a presumptive causal link.  In my opinion, Walker
+can be distinguished from Hollis as it does not involve the “‘learned
+intermediary’ rule”.  In Hollis, the manufacturer discharged its duty of
+care to the consumer through an informed intermediary.  The manufacturer was
+entitled to rely on the assumption that the learned intermediary would
+discharge this duty of care, and, once it relied on this assumption, the causal
+link was presumptively established.  This permissible delegation of
+responsibility and the resulting reliance supports a presumptive causal link. 
+However, in Walker there is no “learned intermediary” and, as such, a
+rebuttable presumption of causation is an inappropriate standard to apply.  87      
+With respect to negligent donor screening, the plaintiffs must establish
+the duty of care and the standard of care owed to them by the CRCS.  The
+plaintiffs must also prove that the CRCS caused their injuries.  The unique
+difficulties in proving causation make this area of negligence atypical.  The
+general test for causation in cases where a single cause can be attributed to a
+harm is the “but-for” test.  However, the but-for test is unworkable in some situations,
+particularly where multiple independent causes may bring about a single harm.  88      
+In cases of negligent donor screening, it may be difficult or impossible
+to prove hypothetically what the donor would have done had he or she been
+properly screened by the CRCS.  The added element of donor conduct in these
+cases means that the but-for test could operate unfairly, highlighting the
+possibility of leaving legitimate plaintiffs uncompensated.  Thus, the question
+in cases of negligent donor screening should not be whether the CRCS’s conduct
+was a necessary condition for the plaintiffs’ injuries using the “but-for”
+test, but whether that conduct was a sufficient condition.  The proper test for
+causation in cases of negligent donor screening is whether the defendant’s
+negligence “materially contributed” to the occurrence of the injury.  In the
+present case, it is clear that it did.  “A contributing factor is material if
+it falls outside the de minimis range” (see Athey v. Leonati,
+[1996] 3 S.C.R. 458, at para. 15).  As such, the plaintiff retains the burden
+of proving that the failure of the CRCS to screen donors with tainted blood
+materially contributed to Walker contracting HIV from the tainted blood.  89      
+The trial judge found that the Walker action failed on causation
+because Robert M. was not deterred from donating blood when the CRCS May 1984
+pamphlet was in existence.  Borins J. stated at para. 41:  On the basis of the view that I hold of Robert M.’s
+evidence, I have reached the conclusion that if the CRCS had published an AIDS
+pamphlet in September 1983 which was similar to the May 1, 1984, pamphlet, and
+if it had been given to him on September 12, 1983 at the Manulife clinic, he
+would have donated blood.  He would have done so because he was in good health
+and believed that his blood would be tested.  I am satisfied that the May 1,
+1984 brochure was available to him in Montreal on at least some of the
+occasions he attended to make a donation, and that it did not deter him from
+donating blood at that clinic.  This supports the view that I hold that if
+there had been a similar brochure available on September 12, 1983 at the
+Manulife clinic, it would not have deterred him on that occasion.  90      
+With respect, the trial judge asked himself the wrong question.  Rather
+than asking whether Robert M. would have self-deferred or been excluded from
+donating blood on September 12, 1983 if he had seen the CRCS May 1984
+pamphlet, he should have asked whether Robert M. would have self-deferred
+or been excluded if the CRCS had followed the appropriate standard of care as
+represented by the ARC March 1983 pamphlet.  It is my opinion that the
+ARC March 1983 pamphlet represented the appropriate standard of care for a
+professional voluntary blood bank in North America at that time.  91      
+Borins J. noted the primacy of the ARC March 1983 pamphlet over the CRCS
+May 1984 pamphlet during a discussion of the standard of care to be used in the
+Osborne case.  He noted that both pamphlets make reference to the newly
+described condition known as AIDS.  However, the CRCS May 1984 pamphlet states
+that it is important that a donor be in “good health” and cautions the
+prospective donor to “be sure that you are feeling generally well”.  However,
+the CRCS May 1984 pamphlet does not mention any signs or symptoms of AIDS.  On
+the other hand, the ARC March 1983 pamphlet points out that although “some
+persons may feel in excellent health”, they may have viruses or infectious
+agents in their blood and informs donors that the ARC must rely on donors’
+health histories to exclude individuals whose blood might contain AIDS.  “The
+ARC then includes among the high risk groups those persons ‘with signs and
+symptoms suggestive of AIDS’, and lists the signs and symptoms....” (para.
+143).  92      
+Listing the signs and symptoms of AIDS in the CRCS May 1984 pamphlet (as
+was done in the ARC 1983 pamphlet) would not have excluded Robert M. as he had
+no signs or symptoms of AIDS on any occasion that he donated blood.  Therefore,
+it is not surprising that the trial judge concluded at para. 45 that a donor
+screening programme which focussed on symptom-specific questions would not have
+deterred Robert M. from donating blood.  93      
+However, the true problem with the CRCS May 1984 pamphlet is the focus
+on being in “good health”, a focus which Borins J. found to be inadequate in
+the Osborne case.  Borins J. found that Robert M. likely would have
+donated blood because he believed that he was in good health and believed that
+his blood would be tested (para. 41).  The earlier ARC 1983 pamphlet makes it
+clear that some persons may feel in excellent health but may be carrying
+viruses.  94      
+Another important difference is that, according to the trial judge,
+while the ARC 1983 pamphlet is clearly focussed on the AIDS problem, the CRCS
+May 1984 pamphlet is not.  95      
+Borins J. noted at para. 155: “In my view, the CRCS has provided no
+credible explanation why it did not make any AIDS risk information available to
+donors at clinic sites before May, 1984”.  96      
+The trial judge applied the correct standard of care (the ARC 1983
+pamphlet) in the Osborne action, but erred on the question of causation
+in the Walker action.  The Court of Appeal seemed to recognize this
+discrepancy in the trial judge’s reasons.  The Court of Appeal stated at pp.
+474-75:  In coming to this conclusion, the trial judge placed
+considerable emphasis on the fact that Robert M. continued to donate blood
+after May 1, 1984, even though by that time, the CRCS had introduced a new
+pamphlet at its donor clinics which referred to AIDS and cautioned certain high
+risk donors, including homosexuals with multiple partners such as Robert M.,
+not to donate blood.  Although the trial judge did not find that Robert M.
+had read the new pamphlet on any of the five occasions after May 1, 1984 when
+he donated blood, he concluded, at least implicitly, that even if he had,
+Robert M. would not have been deterred because of his mistaken belief that he
+could donate so long as he was in good health and that his blood would, in any
+event, be tested.  Much as the Walkers contest these findings, and
+questionable though they may be, we think they were available on the evidence
+and we are not in a position to interfere with them.  What troubles us is
+not so much the findings of the trial judge as they relate to Robert M., but
+the further finding, implicit in his ultimate conclusion, that the donor
+screening measures implemented by the CRCS in May 1984 were adequate to prevent
+homosexual males with multiple partners, like Robert M., who did not have
+AIDS-specific symptoms, from donating blood.  Without going into detail, suffice it to say that,
+in our view, there are two constituent elements against which the adequacy of
+donor screening measures in place at CRCS clinics after May 1, 1984 should have
+been tested.  The first, the informational component, involves a consideration
+of the nature and extent of the information made available to potential
+donors.  The second, the awareness component, relates to the measures taken to
+ensure that this critical information is brought to the attention of potential
+donors and fully understood by them.  We do not propose to say more about the subject,
+other than to note that it would appear that the trial judge did not follow
+this approach.  Had he done so, he may well have concluded that the donor
+screening measures implemented by the CRCS in May 1984 were inadequate and that
+proper screening measures would, more likely than not, have deterred Robert M.
+from donating.  [Emphasis added.]  97      
+Although the Court of Appeal declined to interfere with the findings of
+Borins J. on this issue, there is evidence in the record which demonstrates
+that the causal link was established.  As stated above, the proper test for
+causation in negligent donor screening cases is whether the defendant’s
+negligence materially contributed to the plaintiff’s harm.  Even using the
+strict but-for test, which is not required in these types of cases, causation
+is proved on the facts.  The trial judge concluded, in response to a
+hypothetical question, that Robert M. would not have been deferred or excluded
+from donating blood on September 12, 1983 had he seen the CRCS May 1, 1984
+pamphlet.  That would not have been the case had Robert M. seen the ARC 1983
+pamphlet.   Robert M. told the trial judge that had he seen, or been given,
+information on AIDS and the four high risk categories of people who were
+requested not to donate blood, he would have raised the issue with a nurse,
+since he fit into one of the risk groups -_  homosexual males who
+have multiple partners.  The trial judge disbelieved him, expressing the
+thought that Robert M. did not raise the issue because he considered himself to
+be in good health.  This was the very misconception which the CRCS’s May 1,
+1984 pamphlet failed to warn against, while the ARC 1983 pamphlet did so
+expressly.  98      
+As a result, the CRCS’s appeal in the Walker action should be
+dismissed.  The Court of Appeal erred in this case by imposing liability on the
+basis of an inference of causation.  When the proper standard of care is
+applied in this appeal (that is, the requirements of the ARC pamphlet of March
+1983) the causal link is established.  99      
+I adopt the reasoning of Sopinka J. in Snell v. Farrell,
+[1990] 2 S.C.R. 311, where he considered the causation requirement with respect
+to malpractice cases at pp. 326-27:  The question that this Court must decide is whether
+the traditional approach to causation is no longer satisfactory in that
+plaintiffs in malpractice cases are being deprived of compensation because they
+cannot prove causation where it in fact exists.  Causation is an expression of the relationship that
+must be found to exist between the tortious act of the wrongdoer and the injury
+to the victim in order to justify compensation of the latter out of the pocket
+of the former.  Is the requirement that the plaintiff prove that the
+defendant’s tortious conduct caused or contributed to the plaintiff’s injury
+too onerous?  Is some lesser relationship sufficient to justify compensation? 
+I have examined the alternatives arising out of the McGhee [[1973] 1
+W.L.R. 1] case.  They were that the plaintiff simply prove that the defendant
+created a risk that the injury which occurred would occur.  Or, what amounts to
+the same thing, that the defendant has the burden of disproving causation.  If
+I were convinced that defendants who have a substantial connection to the
+injury were escaping liability because plaintiffs cannot prove causation under
+currently applied principles, I would not hesitate to adopt one of these
+alternatives.  In my opinion, however, properly applied, the principles
+relating to causation are adequate to the task.  Adoption of either of the
+proposed alternatives would have the effect of compensating plaintiffs where a
+substantial connection between the injury and the defendant’s conduct is
+absent.  Reversing the burden of proof may be justified where two
+defendants negligently fire in the direction of the plaintiff and then by their
+tortious conduct destroy the means of proof at his disposal.  In such a case it
+is clear that the injury was not caused by neutral conduct.  It is quite a
+different matter to compensate a plaintiff by reversing the burden of proof for
+an injury that may very well be due to factors unconnected to the defendant and
+not the fault of anyone. [Emphasis added.]  100   Although
+the trial judge rejected Robert M.’s evidence and found that he tried his best
+to avoid acknowledging that he received, and read, the CRCS May 1984 pamphlet
+available in the Montreal clinic, that was the wrong question for the trial
+judge to ask.  The proper question is whether Robert M. would have been
+excluded had he been shown the ARC 1983 pamphlet, which meets the appropriate
+standard of care.  It is worth noting that there is no suggestion of malicious
+conduct on the part of Robert M. such that he was incapable of being screened
+as a blood donor.  VI.       Disposition  101   The
+CRCS’s appeals of the Osborne, M and Walker actions are
+dismissed with costs.  The hospitals named in the style of cause are not
+parties in these actions.  Appeals dismissed with costs.  Solicitors for the appellant:  MacMillan Rooke Boeckle,
+Toronto.  Solicitors for the respondents Walker et al.:  Hodgson,
+Tough, Shields, DesBrisay, O’Donnell, Toronto.  Solicitors for the respondents Osborne et al.:  Hodgson, Tough,
+Shields, DesBrisay, O’Donnell, Toronto.  Solicitor for the respondents A.A.M. et al.: Kenneth Arenson,
+Toronto.     

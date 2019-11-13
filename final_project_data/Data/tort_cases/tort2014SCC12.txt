@@ -1,0 +1,1228 @@
+SCC Case Information: 34863   SUPREME
+COURT OF CANADA  Citation: 
+  A.I. Enterprises Ltd. v. Bram Enterprises Ltd., 2014 SCC 12,
+  [2014] 1 S.C.R. 177 Date:
+  20140131 Docket:
+  34863  Between: A.I.
+Enterprises Ltd. and Alan Schelew Appellants and Bram
+Enterprises Ltd. and Jamb Enterprises Ltd. Respondents -
+and - Attorney
+General of British Columbia Intervener    Coram: McLachlin C.J. and LeBel, Fish, Rothstein, Cromwell,
+Karakatsanis and Wagner JJ.  Reasons for
+  Judgment: (paras. 1 to 106) Cromwell J. (McLachlin C.J. and LeBel, Fish, Rothstein,
+  Karakatsanis and Wagner JJ. concurring)    A.I.
+Enterprises Ltd. v. Bram Enterprises Ltd., 2014 SCC 12, [2014] 1 S.C.R.
+177 A.I. Enterprises Ltd. and Alan Schelew                                                                                                 Appellants v. Bram Enterprises Ltd. and Jamb Enterprises Ltd.                                                                               Respondents and Attorney General of British
+Columbia                                                        Intervener Indexed
+as:  A.I. Enterprises Ltd. v. Bram Enterprises Ltd. 2014 SCC 12 File No.:  34863. 2013:  May 22; 2014:  January 31. Present:  McLachlin C.J. and LeBel, Fish, Rothstein, Cromwell,
+Karakatsanis and Wagner JJ. on appeal from the court of appeal for new brunswick                     Torts
+— Intentional torts — Unlawful interference with economic relations — Scope of liability
+— Minority owner of apartment building and its director interfering with
+attempts by majority owners to sell building to third parties — Whether
+minority owner and its director liable in tort for unlawful interference with
+economic relations.                     Fiduciary duty — Breach by director — Minority
+owner of apartment building and its director interfering with attempts by
+majority owners to sell building to third parties — Whether director liable for
+breach of fiduciary duty.                     Joyce,
+a corporation, owned an apartment building in Moncton, New Brunswick.  Corporate
+entities Bram and Jamb together owned a majority of Joyce while a minority
+interest was held by corporation A.I., whose owner and sole director was A.  A
+syndication agreement between Joyce, Bram, Jamb and A.I. contained a sale
+mechanism giving a majority of investors the right to sell the building subject
+to a right of first refusal of any dissenting investor to purchase it at a
+professionally appraised value.  In 2000, Bram and Jamb wanted to sell the
+property but A.I. and A did not.  Notice was given to A.I. under the
+syndication agreement and the building was appraised at $2.2 million.  A.I. did
+not purchase the property and thus it was listed for sale.  While the property
+was listed, A.I. and A attempted to invoke the arbitration process under the
+syndication agreement, filed encumbrances against the property, and denied
+entry to the property to prospective buyers.  Potential sales to third party
+purchasers failed, and A.I. ultimately bought the building for the appraised
+value of $2.2 million.                     Subsequently,
+Bram and Jamb brought an action against A.I. and A claiming that, as a result
+of A.I. and A’s wrongful conduct, the sale had been substantially delayed and
+was for less money than they could have obtained from a third party purchaser. 
+The trial judge found that A.I. and A’s conduct amounted to interference by
+unlawful means and awarded damages reflecting the difference between the sale
+price paid by A.I. and the price that could have been obtained from a third
+party.  The Court of Appeal dismissed A.I. and A’s appeal.  Although the court
+found that the acts of A.I. and A did not meet the requirements for liability
+under the unlawful means tort, it held that liability could be imposed on the
+basis of a principled exception.                     Held:
+ The appeal should be dismissed.                     The
+tort of unlawful interference with economic relations has also been referred to
+as “interference with a trade or business by unlawful means”, “intentional
+interference with economic relations”, “causing loss by unlawful means” or
+simply as the “unlawful means” tort.  The unlawful means tort is an intentional
+tort which creates a type of “parasitic” liability in a three-party situation:
+it allows a plaintiff to sue a defendant for economic loss resulting from the
+defendant’s unlawful act against a third party.  Liability to the plaintiff is
+based on (or parasitic upon) the defendant’s unlawful act against the third
+party.  The two core components of the unlawful means tort are that the
+defendant must use unlawful means and that the defendant must intend to harm
+the plaintiff through the use of the unlawful means.                     In
+order for conduct to constitute “unlawful means” for this tort, the conduct
+must give rise to a civil cause of action by the third party or would do so if
+the third party had suffered loss as a result of that conduct.  The unlawful
+means tort should be kept within narrow bounds.  Its scope should be understood
+in the context of the broad outlines of tort law’s approach to regulating
+economic and competitive activity.  Several aspects of that approach support
+adopting a narrow scope: the common law accords less protection to purely
+economic interests; it is reluctant to develop rules to enforce fair
+competition; it is concerned not to undermine certainty in commercial affairs;
+and the history of the common law shows that tort liability, if unduly
+expanded, may undermine fundamental rights.  The rationale underlying the
+unlawful means tort is the “liability stretching” rationale, which focuses on
+extending an existing right to sue from the immediate victim of the unlawful
+act to another party whom the defendant intended to target with the unlawful
+conduct.  It extends civil liability without creating new actionable wrongs,
+thereby closing a perceived liability gap where the wrongdoer’s acts in
+relation to a third party, which are in breach of established legal obligations
+to that third party, intentionally target the injured plaintiff.  This
+rationale of the tort supports a narrow definition of “unlawful means”:  the
+tort does not seek to create new actionable wrongs but simply to expand the
+range of persons who may sue for harm intentionally caused by existing
+actionable wrongs to a third party.  Thus, criminal offences and breaches of
+statute will not be per se actionable under the unlawful means tort, but
+the tort will be available if, under common law principles, those acts also
+give rise to a civil action by the third party and interfered with the
+plaintiff’s economic activity.  This approach avoids “tortifying” the criminal
+and regulatory law by imposing civil liability where there would otherwise not
+be any.                     The
+unlawfulness requirement is not subject to principled exceptions.  Providing
+trial judges with room to deal with cases that do not fall within the scope of
+the tort’s liability simply confers an unstructured judicial discretion to do
+what appears to the particular judge to be just in the particular circumstances. 
+Allowing for exceptions without clearly outlining the principles to guide the
+development of the law invites the danger of ad hoc decisions tailored
+to achieve a vision of commercial morality — precisely the danger which the
+“unlawful means” requirement is meant to avoid.                     Mere
+foreseeability of economic harm does not meet the requirement for intention in
+the unlawful means tort.  The defendant must have the intention to cause
+economic harm to the plaintiff as an end in itself or the intention to cause
+economic harm to the plaintiff because it is a necessary means of achieving an
+end that serves some ulterior motive.  It is the intentional targeting of the
+plaintiff by the defendant that justifies stretching the defendant’s liability
+so as to afford the plaintiff a cause of action.  It is not sufficient that the
+harm to the plaintiff be an incidental consequence of the defendant’s conduct,
+even where the defendant realizes that it is extremely likely that harm to the plaintiff
+may result.  Such incidental economic harm is an accepted part of market
+competition.                     The
+existence of a valid business relationship between the plaintiff and the third
+party and the defendant’s knowledge of that relationship are not elements of
+the unlawful means tort.  The focus of this tort is unlawful conduct that
+intentionally harms the plaintiff’s economic interests.  There need be no
+contract or even other formal dealings between the plaintiff and the third
+party so long as the defendant’s conduct is unlawful and it intentionally harms
+the plaintiff’s economic interests.                     The
+tort of unlawful means is available even if there is another cause of action
+available to the plaintiff against the defendant in relation to the alleged
+misconduct.  The gist of the tort is the targeting of the plaintiff by the
+defendant through the instrumentality of unlawful acts against a third party.  It
+is that conduct by the defendant which gives rise to liability quite apart from
+conduct that may be otherwise actionable by the plaintiff.  General principles
+of tort liability accept concurrent liability and overlapping causes of action
+for distinct wrongs suffered by the plaintiff in respect of the same incident.                     In
+this case, the Court of Appeal concluded that there was no wrong that would be
+actionable by the third party (the prospective purchasers) against A.I. and A. 
+Accordingly, A.I. and A cannot be found liable to Bram and Jamb on the basis of
+the unlawful means tort; however, the trial judge made strong findings that A
+breached his fiduciary obligations as a director of the family companies and
+the trial judge’s award should be upheld on that basis.  While A.I. was not a
+fiduciary, A was its sole director and shareholder and it is therefore liable
+for knowing assistance in the breach of fiduciary duty and knowing receipt of
+proceeds of the breach. Cases Cited Statutes and Regulations Cited Civil Code of Québec, S.Q. 1991,
+c. 64, arts. 6, 7. Trade Disputes Act, 1906 (U.K.), 6 Edw.
+7, c. 47. Authors Cited Adams, George W.  Canadian Labour Law, 2nd ed.  Toronto: 
+Canada Law Book, 1993 (loose-leaf updated September 2013, release 47). Adell, Bernard.  “Secondary Picketing after Pepsi-Cola:  What’s
+Clear, and What Isn’t?” (2003), 10 C.L.E.L.J. 135. American Law Institute.  Restatement of the Law, Second:  Torts
+2d.  St. Paul, Minn.:  American Law Institute Publishers, 1989. Barker, Kit, et al. The Law of Torts in Australia, 5th ed.  South
+Melbourne:  Oxford University Press, 2012. Burns, Peter.  “Tort Injury to Economic Interests:  Some Facets of
+Legal Response” (1980), 58 Can. Bar Rev. 103. Burns, Peter T., and Joost Blom.  Economic Interests in
+Canadian Tort Law.  Markham, Ont.:  LexisNexis, 2009. Carty, Hazel.  An Analysis of the Economic Torts.  Oxford:  Oxford
+University Press, 2001. Carty, Hazel.  An Analysis of the Economic Torts, 2nd ed.  Oxford: 
+Oxford University Press, 2010. Carty, Hazel.  “Intentional Violation of Economic Interests:  The
+Limits of Common Law Liability” (1988), 104 Law Q. Rev. 250. Carty, Hazel.  “The Economic Torts in the 21st Century” (2008), 124 Law
+Q. Rev. 641. Deakin, Simon, and John Randall.  “Rethinking the Economic Torts”
+(2009), 72 Mod. L. Rev. 519. Eekelaar, John.  “The Conspiracy Tangle” (1990), 106 Law Q. Rev.
+223. Elias, Patrick, and Keith Ewing.  “Economic Torts and Labour Law:  Old
+Principles and New Liabilities” (1982), 41 Cambridge L.J. 321. Estes, Jerry C.  “Expanding Horizons in the Law of Torts —
+Tortious Interference” (1974), 23 Drake L. Rev. 341. Fleming’s The Law of Torts, 10th ed. by Carolyn
+Sappideen and Prue Vines, eds.  Pyrmont, N.S.W.:  Lawbook Co., 2011. Fridman, G. H. L.  The Law of Torts in Canada, 3rd
+ed. by G. H. L. Fridman et al. Toronto:  Carswell, 2010. Kain, Brandon, and Anthony Alexander.  “The ‘Unlawful Means’ Element
+of the Economic Torts:  Does a Coherent Approach Lie Beyond Reach?”, in Todd L.
+Archibald and Randall Scott Echlin, eds., Annual Review of Civil Litigation,
+2010.  Toronto:  Carswell, 2010, 33. Lee, Pey Woan.  “Causing Loss by Unlawful Means”, [2011] S.J.L.S.
+330. Linden, Allen M., and Bruce Feldthusen.  Canadian Tort Law,
+9th ed.  Markham, Ont.:  LexisNexis, 2011. Markesinis and Deakin’s Tort Law, 7th
+ed. by Simon Deakin, Angus Johnston and Basil Markesinis.  Oxford:  Clarendon
+Press, 2013. Osborne, Philip H.  The Law of Torts, 4th ed.  Toronto: 
+Irwin Law, 2011. Perlman, Harvey S.  “Interference with Contract and Other
+Economic Expectancies:  A Clash of Tort and Contract Doctrine” (1982), 49 U.
+Chicago L. Rev. 61. Podolny, Ronald.  “The Tort of Intentional Interference with
+Economic Relations:  Is Clarity Out of Reach?” (2012), 52 Can. Bus.
+L.J. 63. Sales, Philip, and Daniel Stilitz.  “Intentional Infliction of Harm
+by Unlawful Means” (1999), 115 Law Q. Rev. 411. Stevens, Lyn L.  “Interference With Economic Relations — Some
+Aspects of the Turmoil in the Intentional Torts” (1974), 12 Osgoode Hall
+L.J. 595. Stevens, Robert.  Torts and Rights.  Oxford:  Oxford University
+Press, 2007. Waters’ Law of Trusts in Canada, 4th ed.
+by Donovan W. M. Waters, Mark R. Gillen and Lionel D. Smith,
+eds.  Toronto:  Carswell, 2012. Watkins, Larry.  “Tort Law — Tortious Interference with Business
+Expectancy — A Trap for the Wary and Unwary Alike” (2012), 34 U. Ark. Little
+Rock L. Rev. 619. Weir, Tony.  Economic Torts.  Oxford:  Clarendon Press, 1997. Winfield and Jolowicz on Tort, 18th ed. by
+W. V. H. Rogers.  London:  Sweet & Maxwell, 2010.                     APPEAL
+from a judgment of the New Brunswick Court of Appeal (Robertson, Bell and Green
+JJ.A.), 2012 NBCA 33, 387 N.B.R. (2d) 215, 350 D.L.R. (4th) 601, 96 C.C.L.T.
+(3d) 1, 2 B.L.R. (5th) 171, [2012] N.B.J. No. 116 (QL), 2012 CarswellNB 194,
+affirming a decision of Dionne J., 2010 NBQB 245, July 22, 2010.  Appeal dismissed.                     Richard J. Scott, Q.C., for the appellants.                     J. Gareth Morley and Christina Drake, for the intervener.                     The judgment of the Court was
+delivered by                     Cromwell J. — I.         
+Overview [1]                             
+A group of family members, through their
+companies, owned an apartment building. The majority of them wanted to sell it,
+but one of them did not. He took a series of actions to thwart the sale. The
+result was that the ultimate sale price was nearly $400,000 less than it
+otherwise might have been. When the majority sued to recover this loss, the
+main question was whether the dissenting family member and his company were
+liable for what the trial judge referred to as the tort of unlawful
+interference with economic relations. [2]                             
+While this tort is far from new, its scope is
+unsettled and needs clarification.  There is not even any generally accepted
+nomenclature for the tort. It is variously referred to as “unlawful
+interference with economic relations”, “interference with a trade or business
+by unlawful means”, “intentional interference with economic relations”, or
+simply “causing loss by unlawful means”. I will refer to it by either the
+latter name or simply as the “unlawful means” tort. [3]                             
+The uncertainty surrounding the unlawful means
+tort is reflected in the different approaches taken by the trial judge and the
+Court of Appeal in this case. The trial judge found the dissenting family
+member and his company liable. They had, he concluded, unlawfully and
+intentionally interfered with the economic relations between the majority
+owners and the prospective purchasers. Their conduct qualified as unlawful
+because it lacked any legal justification. The New Brunswick Court of Appeal
+upheld this result, although for significantly different reasons. The acts of
+the dissenting family member and his company did not meet the general
+requirement that they be unlawful because they did not provide any basis for a
+civil suit by the prospective purchasers.  However, liability could be imposed
+on the basis of a “principled exception” to this requirement. [4]                             
+Before us, the main issue concerns the scope of
+liability for this tort and, in particular, what the unlawfulness requirement
+means. If the tort does not apply to these facts, we must also decide whether
+liability may be imposed on the basis of the breach of fiduciary duty of the
+dissenting family member as a director of the majority corporations. [5]                             
+In summary, the issues and my conclusions are
+these: A.        What
+is the scope of liability for the tort of causing loss by unlawful means? (1)        What sorts of
+conduct are considered “unlawful” for the purposes of this tort? Conduct is unlawful if it
+would be actionable by the third party or would have been actionable if the
+third party had suffered loss as a result of it. The alleged misconduct of the
+defendants in this case was not unlawful in this sense and therefore they
+cannot be held liable on the basis of the unlawful means tort. (2)        Is
+the tort available only if there is no other cause of action available to the
+plaintiff against the defendant in relation to the alleged misconduct? In my view the answer to
+this question is no. (3)        Should the
+“unlawfulness” requirement be subject to principled exceptions? The answer to this question
+is also no in my view. (4)        Application
+to this case The appellants cannot be
+found liable to the respondents on the basis of the unlawful means tort. (5)        Did the Court
+of Appeal err in finding that the defendants had the required knowledge for the
+unlawful means tort? My answer to this
+question is also no. B.        If the unlawful
+means tort is not available, are the appellants otherwise liable? The trial judge made
+strong findings that the dissenting family member breached his fiduciary
+obligations as a director of the family companies and the trial judge’s award
+should be upheld on that basis. [6]                             
+I would therefore dismiss the appeal with costs. [7]                             
+In order to sort out the scope of liability for
+causing loss by unlawful means, we must delve deeply into the rationale of the
+tort and its place in the larger scheme of tort liability for causing economic
+harm.  But first, I will briefly summarize the facts and judicial history
+giving rise to the appeal. II.      
+Facts and Judicial History A.       Facts [8]                             
+Joyce Avenue Apartments Ltd. owned an apartment
+building in Moncton, New Brunswick. Joyce was owned by Lillian Schelew and her
+four sons, Jeffrey, Michael, Bernard and Alan, through corporate entities.  The
+respondents, Bram Enterprises Ltd. and Jamb Enterprises Ltd., each owned 40 percent
+of Joyce. The four Schelew brothers owned equal numbers of common shares and
+were directors of both corporations while Lillian held voting preferred shares
+in Bram. The remaining 20 percent interest in Joyce was held by the appellant
+A.I. Enterprises Ltd., whose owner and sole director was the appellant Alan
+Schelew. A.I. (effectively Alan) managed the building for a fee. [9]                             
+Joyce, as owner of the building, and Bram, Jamb
+and A.I., as the investors, entered into a syndication agreement. The agreement
+contained a sale mechanism which gave a majority of the investors the right to
+sell the building subject to a right of first refusal of any dissenting
+investor to purchase it at a professionally appraised value. Once the appraisal
+was obtained, the investors wishing to sell were deemed to have made an
+irrevocable offer of sale in that amount to the dissenting investor. The offer
+would remain open for 15 days: Syndication Agreement, s. 9.02. [10]                         
+The trouble started in the year 2000. The
+respondents, Bram and Jamb (in effect all of the family members except Alan
+Schelew), wanted to sell the property but the appellants, A.I. and Alan
+Schelew, did not. The respondents gave notice to A.I. under s. 9.02 of the
+Syndication Agreement and the building was appraised at $2.2 million. A.I. did
+not accept the deemed offer within the prescribed time and the property was
+listed for sale.  Over the next 16 months, the respondents dealt with four
+potential purchasers but no sale was completed. The respondents allege that the
+sale was thwarted by a series of intentional actions by the appellants, which
+form the basis of the claim against them for causing loss by unlawful means.
+Ultimately, about two years after the first attempts to sell, A.I. bought the
+building for the appraised value of $2.2 million. [11]                         
+The respondents then sued the appellants. They
+claimed that, as a result of the appellants’ wrongful conduct, the sale had
+been substantially delayed and was for less money than they could have obtained
+from a third party purchaser. While the respondents’ statement of claim did not
+spell out the legal bases for the claim, the pre- and post-trial briefs alleged
+that the appellants breached their obligations arising under the Syndication
+Agreement, that Alan Schelew had breached his fiduciary duty as a director of
+Bram and Jamb by putting his interests ahead of those of the companies and that
+the appellants had unlawfully interfered with economic relations. B.       Judicial History and the Parties’
+Positions on Appeal (1)      Court of Queen’s Bench of New Brunswick, 2010 NBQB 245,
+July 22, 2010 (Dionne J.) [12]                         
+Dionne J. at trial found that the appellants’
+conduct amounted to interference by unlawful means and awarded damages
+reflecting the difference between what A.I. paid and what could have been
+obtained but for the appellants’ obstruction. [13]                         
+The trial judge focused on four of the
+appellants’ acts: they misused the arbitration provisions of the Syndication
+Agreement as a means of stalling the sale of the Joyce property; they advanced
+legally groundless defences for a “Notice of its first
+right of refusal” which they had filed against the Joyce property; they
+subsequently filed an equally baseless certificate of pending litigation
+against the property; finally, they denied entry to the Joyce property to
+prospective buyers. These acts had the effect of “complicating, delaying,
+impeding and ultimately and for all intents and purposes completely obstructing
+and preventing” the respondents’ efforts to sell the property to third parties:
+para. 282. [14]                         
+All of this conduct was unlawful in the trial
+judge’s view because it lacked any legal basis or justification. He found that
+Alan Schelew’s conduct in obstructing the sale also breached his fiduciary
+obligations as director of Bram and Jamb and that A.I. had breached its obligations
+towards Bram and Jamb under the Syndication Agreement. [15]                         
+The trial judge rejected the appellants’
+submission that the harm to Bram and Jamb was merely an incidental effect of
+the pursuit of their legitimate business interests. Rather, he found that the
+appellants “possessed actual intent to do whatever they could to pursue the
+interest of A I Enterprises and that they were well aware that their
+actions would cause harm to Jam[b] & Bram”: para. 287. He concluded
+that but for the actions of the appellants, the respondents would have sold the
+Joyce property in 2001 for $2.58 million, an amount which was $380,000 more
+than the respondents received on the sale to A.I. in 2002.  Factoring in the
+real estate commission and pre-judgment interest, he fixed total damages at
+$183,061 for each plaintiff, plus costs. (2)     
+New Brunswick Court of Appeal, 2012 NBCA 33, 387
+N.B.R. (2d) 215 (Robertson J.A., Bell and Green JJ.A. Concurring) [16]                         
+At trial, neither party drew the attention of
+the court to the decision of the House of Lords in OBG Ltd. v. Allan,
+[2007] UKHL 21, [2008] 1 A.C. 1, a decision which extensively examined the
+proper scope of the economic torts in general and of the unlawful means tort in
+particular. The decision was, however, placed before the Court of Appeal and,
+speaking through Robertson J.A., the court carefully and fully examined the law
+in light of it and subsequent developments. While the court took a considerably
+different view of the unlawful means tort than had the trial judge, it
+nonetheless dismissed the appeal. [17]                         
+The Court of Appeal noted that the unlawful
+means tort has been “in a state of flux” (para. 18) and that two opposing views
+on the proper scope of the unlawful means component have stemmed from the OBG
+decision. Lord Hoffmann, who was in the majority on this point, adopted a
+narrow definition of “unlawful means” whereby only breaches of the civil law
+such as a tort or breach of contract would suffice. The unlawful conduct would
+need to be actionable by the party against which it was directed in order to
+give rise to liability: see OBG, at para. 49. Lord Nicholls of
+Birkenhead advocated a broader view, according to which “unlawful means”
+included “common law torts, statutory torts, crimes, breaches of contract,
+breaches of trust and equitable obligations, breaches of confidence, and so
+on”: OBG, at paras. 150 and 155. [18]                         
+The Court of Appeal preferred Lord Hoffmann’s
+narrow definition. The conduct of the appellants, while lacking any legal
+justification, did not amount to a wrong actionable by the prospective
+purchasers. However, the Court of Appeal allowed for principled exceptions to
+mitigate the rigidity of the narrow rule. The court crafted an exception, which
+covered this case, in the following terms:      In my view, the intentional
+erection of self-help legal barriers, some of which are enforceable through
+statutory processes not subject to prior judicial authorization, in
+circumstances where those barriers rest on rights fabricated with arguments of
+sand, warrants redress under the tort of unlawful means (akin to the tort of
+abuse of legal process). [para. 9] [19]                         
+A.I. and Alan Schelew appeal from that decision. (3)     
+Parties’ Positions [20]                         
+Before this Court, the parties take
+diametrically opposed views of the scope of the unlawful means tort. [21]                         
+The appellants urge us to adopt the position
+taken by a majority of the House of Lords, speaking through Lord Hoffmann in OBG,
+at para. 49: “unlawful” means actionable by the third party (or that the
+act would be actionable but for the fact that it did not cause the third party
+any loss). This approach may be described as the narrow view: it is premised on
+the tort having a limited sphere of operation so that only actionable civil
+wrongs against the third party provide a basis for allowing the intended victim
+to sue.  The appellants also urge us to hold that the tort is only available to
+the plaintiff if the defendant’s conduct causing the injury does not give rise
+to another cause of action by the plaintiff against the defendant. [22]                         
+The respondents, on the other hand, urge us to
+adopt one of two alternative positions, both of which stake out a broader role
+for the tort. The primary submission is that “unlawful means” is defined by a
+“broad bright-line rule” that an act is unlawful if there exists a legal
+proceeding through which its legitimacy can be successfully challenged.
+Alternatively, the respondents submit that we should adopt Lord Hoffmann’s
+narrow formulation but hold, as did the Court of Appeal, that it is subject to
+principled exceptions. III.    Analysis A.      
+What Is the Scope of Liability for the Tort of
+Causing Loss by Unlawful Means? (1)      What Sorts of Conduct Are Considered “Unlawful” for the Purposes of
+This Tort? [23]                         
+The unlawful means tort creates a type of
+“parasitic” liability in a three-party situation: it allows a plaintiff to sue
+a defendant for economic loss resulting from the defendant’s unlawful act
+against a third party. Liability to the plaintiff is based on (or parasitic
+upon) the defendant’s unlawful act against the third party. While the elements
+of the tort have been described in a number of ways, its core captures the
+intentional infliction of economic injury on C (the plaintiff) by A (the
+defendant)’s use of unlawful means against B (the third party): see
+H. Carty, An Analysis of the Economic Torts (2001), at p. 103;
+J. W. Neyers, “Rights-based justifications for the tort of unlawful
+interference with economic relations” (2008), 28 L.S. 215; G. H. L.
+Fridman, The Law of Torts in Canada (3rd ed. 2010), at pp. 773-75;
+P. H. Osborne, The Law of Torts (4th ed. 2011), at pp. 336-38;
+P. T. Burns and J. Blom, Economic Interests in Canadian Tort Law
+(2009), at p. 186.  There is no dispute here that this is an intentional
+tort; the focus of the dispute in this case is on the unlawful means element. [24]                         
+An old case will serve as an example. The
+defendant, the master of a trading ship, fired its cannons at a canoe that was
+attempting to trade with its competitor, the plaintiffs’ trading ship, in order
+to prevent it from doing so. The defendant was held liable, Lord Kenyon being
+of the opinion that these facts supported an action:  Tarleton v. M’Gawley
+(1793), Peake 270, 170 E.R. 153. The plaintiffs were able to recover damages
+for the economic injury resulting from the defendant’s wrongful conduct toward
+third parties (the occupants of the canoe) which had been committed with the
+intention of inflicting economic injury on the plaintiffs. [25]                         
+The question of what sort of conduct constitutes
+the necessary unlawful means is important. It has been described as the most
+important question concerning this tort:  OBG, at para. 45, per
+Lord Hoffmann; H. Carty, An Analysis of the Economic Torts (2nd ed.
+2010), at p. 84. Giving the concept of “unlawful means” a “sound,
+economically relevant and judicially supported interpretation” is “[t]he key to
+keeping the economic torts in harmony with contemporary legal values”: No. 1
+Collision Repair & Painting (1982) Ltd. v. Insurance Corp. of British
+Columbia, 2000 BCCA 463, 80 B.C.L.R. (3d) 62, at para. 19, per
+Lambert J.A., dissenting, leave to appeal refused, [2001] 1 S.C.R. xv. [26]                         
+The scope of the unlawful means tort depends on
+the answers to three questions. First, does the unlawful conduct have to be
+actionable by the person at whom it is immediately directed? In my view, the
+conduct must be an actionable civil wrong or conduct that would be actionable
+if it had caused loss to the person at whom it was directed. Second, is there a
+requirement that the unlawful means not be otherwise actionable by the
+plaintiff? I propose to answer this question “no”. Third, should the definition
+of “unlawful means” be subject to principled exceptions? I would also answer
+this question in the negative. While the approach outlined by these answers
+leaves only a narrow scope for liability, my view is that it is most consistent
+with the history and rationale of the tort as well as with its place in the
+modern scheme of liability for causing economic harm. [27]                         
+I will turn first to my understanding of these
+broader concerns and a review of the relevant law before returning to the
+reasons for my conclusions. (a)       The Economic Torts and the Common Law [28]                         
+I will not dwell on the unfortunate state of the
+common law in relation to the unlawful means tort.  As I noted earlier, there
+is not even consensus about what it ought to be called. One leading scholar
+simply observed that “[t]he economic torts [of which the unlawful means tort is
+one] are in a mess”: H. Carty, “Intentional Violation of Economic
+Interests: The Limits of Common Law Liability” (1988), 104 Law Q. Rev.
+250, at p. 278.  Careful review of the development of the unlawful means
+tort reveals confusion, overlap and inconsistency: see, e.g., Carty, An
+Analysis of the Economic Torts (2nd ed.), at pp. 73-78;
+P. Burns, “Tort Injury to Economic Interests: Some Facets of Legal Response”
+(1980), 58 Can. Bar Rev. 103, at pp. 145-48; T. Weir, Economic
+Torts (1997), at pp. 36-43; L. L. Stevens, “Interference With
+Economic Relations — Some Aspects of the Turmoil in the Intentional Torts”
+(1974), 12 Osgoode Hall L.J. 595, at pp. 617-19. At its core,
+however, the tort has two key ingredients: intention and unlawfulness. The gist
+of the tort is the intentional infliction of economic harm by unlawful means. [29]                         
+The scope of the unlawful means tort should be
+understood in the context of the broad outlines of tort law’s approach to
+regulating economic and competitive activity. Several aspects of that approach
+support adopting a narrow scope for the unlawful means tort: the common law
+accords less protection to purely economic interests; it is reluctant to
+develop rules to enforce fair competition; it is concerned not to undermine
+certainty in commercial affairs; and the history of the common law shows that
+tort liability, if unduly expanded, may undermine fundamental rights. [30]                         
+Potential liability for the unlawful means tort
+often arises when there are contingent economic interests at stake, such as
+legitimate business expectations. Such interests, however, are at the margins
+of the traditional concerns of tort law. The first point, therefore, is that
+tort law has traditionally accorded less protection to purely economic interests
+than to physical integrity and property rights. As this Court stated in R.W.D.S.U.,
+Local 558 v. Pepsi-Cola Canada Beverages (West) Ltd., 2002 SCC 8, [2002] 1
+S.C.R. 156, “[t]he law has never recognized a sweeping right to protection from
+economic harm”: para. 72. The unlawful means tort should not be viewed
+as providing that sort of “sweeping protection”:  see, e.g., S. Deakin,
+A. Johnston and B. Markesinis, Markesinis and Deakin’s Tort Law
+(7th ed. 2013), at p. 471; H. Carty, “The Economic Torts and English Law:
+An Uncertain Future” (2006-2007), 95 Ky. L.J. 845, at p. 845; A. M.
+Linden and B. Feldthusen, Canadian Tort Law (9th ed. 2011), at pp.
+447-50; W. V. H. Rogers, Winfield and Jolowicz on Tort (18th ed. 2010),
+at pp. 859-60. [31]                         
+Second, the common law has traditionally been
+reluctant to develop rules about fair competition: OBG, at para. 56, per
+Lord Hoffmann.  The common law in general, and tort law in particular, have
+been astute to assure “some elbow-room [many would say much elbow-room] for the
+aggressive pursuit of self-interest”: C. Sappideen and P. Vines, eds., Fleming’s
+The Law of Torts (10th ed. 2011), at para. 30.120. As Bowen L.J. put it in Mogul
+Steamship Company v. McGregor, Gow, & Co. (1889), 23 Q.B.D. 598 (C.A.),
+at p. 614, aff’d [1892] A.C. 25 (H.L.), there can be no liability for a
+person who has “done nothing more against the plaintiffs than pursue to the
+bitter end a war of competition waged in the interest of their own trade”. The
+same sentiment comes through in Lord Davey’s speech in Allen v. Flood,
+[1898] A.C. 1, at p. 173: “The right which a man has to pursue his trade
+or calling is qualified by the equal right of others to do the same and compete
+with him, though to his damage.” More recently, Lord Nicholls acknowledged the
+common law’s respect for competition in OBG where he wrote: Competition between businesses
+regularly involves each business taking steps to promote itself at the expense
+of the other. . . . Far from prohibiting such conduct, the
+common law seeks to encourage and protect it. The common law recognises the
+economic advantages of competition. [para. 142] [32]                         
+This reluctance is directly relevant in this
+case. The trial judge found that the appellants intended to do “whatever they
+could to pursue the interest of A I Enterprises and . . . were
+well aware that their actions would cause harm to Jam[b] & Bram”: trial
+reasons, at para. 287. Although he went on to find that the harm caused was not
+incidental to the pursuit by the defendants of their legitimate self-interest,
+this same conclusion could apply to a great deal of legitimate competitive
+activity in the marketplace. That, it seems to me, suggests the need for a
+limited role for the unlawful means tort. [33]                         
+A third point also favours a limited role for
+this tort. The common law in the Anglo-Canadian tradition has generally
+promoted legal certainty for commercial affairs. That certainty is easily put
+in jeopardy by adopting vague legal standards based on “commercial morality” or
+by imposing liability for malicious conduct alone: see Deakin, Johnston and
+Markesinis, at pp. 472-73. The majority in Allen, for example,
+rejected the view that “malice” was a sufficient basis for liability on the
+basis that it was too vague a notion to be applied by the courts: pp. 118-19, per
+Lord Herschell, and pp. 152-53, per Lord Macnaghten; see also
+Deakin, Johnston and Markesinis, at p. 472; OBG, at para. 14, per Lord
+Hoffmann. Regulating commercial activity should not, it has been said, depend
+on the “idiosyncrasies of individual judges”: Mogul Steamship (H.L.), at
+p. 51, per Lord Morris. [34]                         
+A final consideration supports a limited scope
+for this tort: the risk inherent in the economic torts generally that they will
+undermine legislated schemes favouring collective action in, for example,
+labour relations and interfere with fundamental rights of association and
+expression. At one time, the common law of tort was ready — and many would say
+overready — to intervene to prevent economic coercion in the context of
+industrial disputes.  The common law’s approach in this area led to legislative
+intervention to grant greater freedom to labour unions by enacting immunities
+to specific economic torts, in legislation modelled on the U.K. Trade
+Disputes Act, 1906, 6 Edw. 7, c. 47, and successor legislation:
+Deakin, Johnston and Markesinis, at p. 474; G. W. Adams, Canadian Labour Law
+(2nd ed. (loose-leaf)), at para. 11.340. Writing about the experience in
+England, Deakin, Johnston and Markesinis observe that despite the intention
+underlying the creation of these immunities, the courts at times expanded
+economic tort liability which had the effect of “‘outflanking’ the immunities
+provided by statute . . . .  At times it has seemed that
+the courts . . . were engaged in a battle of wits with the
+parliamentary draftsman, to see which side could develop the optimal formula
+for widening or for narrowing liability respectively”: p. 474. This history
+draws attention to the risk that expanded liability for the economic torts may
+be used to undermine legislative choices and perhaps even constitutionally
+protected rights of expression and association: see, e.g., P. Elias and K.
+Ewing, “Economic Torts and Labour Law: Old Principles and New Liabilities”
+(1982), 41 Cambridge L.J. 321; B. Adell, “Secondary Picketing after
+Pepsi-Cola: What’s Clear, and What Isn’t?” (2003), 10 C.L.E.L.J.
+135.  A narrow and clear definition of the scope of liability reduces this
+risk. [35]                         
+All of these factors, in my view, point to the
+wisdom of viewing the unlawful means tort as one of narrow scope. (b)      Rationale of the Unlawful Means Tort [36]                         
+As Hazel Carty wisely said, “the scope of this
+tort can only be established by clarifying its rationale so that there is a
+principled definition of unlawful means”: An Analysis of the Economic
+Torts (2nd ed.), at p. 102. Unfortunately, there is no consensus about
+what that rationale is or should be. Scholars have remarked that there is no
+single unifying principle underlying the economic torts generally and that the
+unlawful means tort in particular is “radically under-theorized”:  see, e.g.,
+Deakin, Johnston and Markesinis, at p. 473; Neyers, at p. 233; B.
+Kain and A. Alexander, “The ‘Unlawful Means’ Element of the Economic Torts:
+Does a Coherent Approach Lie Beyond Reach?”, in T. L. Archibald and
+R. S. Echlin, eds., Annual Review of Civil Litigation, 2010
+(2010), 33, at p. 162.  Identifying the tort’s rationale is therefore far
+from a straightforward task. But, although there may be no clear rationale as a
+matter of historical fact, we can consider what rationale best reflects the
+modern role that the tort should play in the broader scheme of civil liability. [37]                         
+There are several possible rationales for the
+tort but they are mostly variations on two themes: see, e.g., Neyers, at pp.
+220-33, and Kain and Alexander, at pp. 162-74. The first — what I will
+call the “intentional harm” rationale — focuses on the fact that harm has been
+intentionally inflicted. This rationale supports the creation of new tort
+liabilities in order to reach clearly excessive and unacceptable intentional
+conduct: see, e.g., Carty, An Analysis of the Economic Torts (2nd
+ed.), at p. 104.  The second, and in my view the preferred rationale,
+focuses on extending an existing right to sue from the immediate victim of the
+unlawful act to another party whom the defendant intended to target with the
+unlawful conduct. I will call this the “liability stretching” rationale. The
+focus of the tort on this understanding is not on enlarging the basis of civil
+liability, but on allowing those intentionally targeted by already actionable
+wrongs to sue for the resulting harm.  On either rationale, the tort is, at its
+core, a tort of intention. The main difference is that on the “intentional
+harm” rationale, the intention requirement is seen as the main limitation on
+the potential scope of liability, whereas in the “liability stretching”
+rationale, the potential scope of liability is limited by both the intention
+requirement and the more restrictive definition of the conduct which will
+support liability. [38]                         
+I will explain why I would not accept the first
+rationale and then turn to my reasons for preferring the second. [39]                         
+There are two versions of the “intentional harm”
+rationale, one bolder and the other more modest. The bolder version sees the
+unlawful means tort as part of a broader pattern of liability for all
+intentionally inflicted harm: see, e.g., OBG, at para. 153, per
+Lord Nicholls; P. Sales and D. Stilitz, “Intentional Infliction of Harm by
+Unlawful Means” (1999), 115 Law Q. Rev. 411. By contrast, the modest
+version envisions a more limited role for the tort: it is not meant to sanction
+all intentional infliction of economic harm but only conduct that is a flagrant
+abuse of the competitive process. On this view, the tort seeks to maintain the
+integrity of the competitive process by curbing conduct that deserves to be
+called “cheating”: Kain and Alexander, at p. 171; S. Deakin and J.
+Randall, “Rethinking the Economic Torts” (2009), 72 Mod. L. Rev. 519, at
+p. 520. [40]                         
+The intentional harm rationale supports a
+broader understanding of the unlawful means requirement. Under this rationale,
+the tortfeasor’s conduct must rise to a level of wrongfulness that amounts to
+cheating or upsetting the fundamental rules of market competition. Such conduct
+clearly encompasses torts and crimes but not conduct that is simply ultra
+vires or morally objectionable. So, for example, Kain and Alexander, who
+would adopt a version of the fair competition rationale, propose that “unlawful
+means” should extend to all conduct (both acts and omissions) that is forbidden
+by law whatever its source, regardless of whether it is actionable:
+p. 178. The unlawfulness requirement exists mainly to provide some broad
+outer limit for the judicial discretion to impose liability: see Carty, An
+Analysis of the Economic Torts (2nd ed.), at p. 104. [41]                         
+This understanding of the tort is attractive
+because it provides a principled explanation for why liability should be
+imposed and one that accords with widely held views of commercial morality.
+While no person has a common law right to trade per se, a person does
+have a general freedom to participate in the commercial and labour market and a
+legitimate expectation that the basic rules of the game will be respected. To
+the extent that the defendant intentionally inflicts economic loss on the
+plaintiff through unlawful means which are clearly off-side those basic rules,
+the defendant gains an illegitimate advantage and causes the plaintiff to
+suffer an unfair disadvantage. [42]                         
+However, for several reasons, I do not accept
+either the more modest or the bolder version of the intentional harm rationale.
+Accepting either version would lead to an unwieldy concept of “unlawful means”
+and thus to undue uncertainty in commercial affairs. Furthermore, the modest
+version of this rationale fails to account for a central feature of the
+unlawful means tort, namely that it is a tort of intention. If the primary
+purpose of the tort were to uphold the institution of market competition, it
+would be irrelevant whether the interference was intentional or negligent: see
+Neyers, at pp. 229-30. The more ambitious rationale for the tort is
+inconsistent with two broad policies of the common law. As I outlined earlier,
+the common law generally prefers a limited role for the economic torts in the
+modern marketplace. The more ambitious rationale is also inconsistent with the
+unfailing refusal over many years of the courts in England and in common law
+Canada to adopt a prima facie tort which makes actionable intentional
+and unjustifiable interference with economic interests even in the absence of
+unlawful means: see, e.g., Allen, at p. 121, per Lord
+Herschell; Canada Cement LaFarge Ltd. v. British Columbia Lightweight
+Aggregate Ltd., [1983] 1 S.C.R. 452, at p. 469; OBG, at
+para. 145, per Lord Nicholls. [43]                         
+This brings me to the rationale I prefer. The
+liability stretching rationale sees the tort as extending civil liability
+without creating new actionable wrongs. It thereby closes a perceived liability
+gap where the wrongdoer’s acts in relation to a third party, which are in
+breach of established legal obligations to that third party, intentionally
+target the injured plaintiff: Quinn v. Leathem, [1901] A.C. 495, at
+pp. 534-35, per Lord Lindley; J. Eekelaar, “The Conspiracy Tangle”
+(1990), 106 Law Q. Rev. 223, at pp. 225-26; Carty, An Analysis
+of the Economic Torts (2nd ed.), at pp. 103-4.  The liability
+stretching rationale underlies Lord Hoffmann’s speech on behalf of the majority
+in OBG: see paras. 46-48. It also commands considerable (although far
+from unanimous) support among commentators: see, e.g., R. Podolny, “The
+Tort of Intentional Interference with Economic Relations: Is Clarity Out of Reach?”
+(2012), 52 Can. Bus. L.J. 63, at pp. 77-78; H. Carty, “The Economic
+Torts in the 21st Century” (2008), 124 Law Q. Rev. 641, at p. 672;
+Neyers, at pp. 231-33. [44]                         
+Why do I favour the liability stretching
+rationale? It provides a rational explanation for the expansion of tort
+liability which rests on pre-existing causes of action. This type of expansion
+provides certainty because it establishes a clear “control mechanism” on
+liability in this area of the law, consistent with tort law’s reticence to
+intrude too far into the realm of competitive economic activity: OBG, at
+para. 266, per Lord Walker of Gestingthorpe.  In the words of Baroness
+Hale of Richmond in OBG, it is “consistent with legal policy to limit
+rather than to encourage the expansion of liability in this area”: para. 306. I
+agree in general terms with Hazel Carty that “a narrow remit . . .
+based on existing civil liability is the best policy”: An Analysis of the
+Economic Torts (2nd ed.), at p. 301. [45]                         
+This rationale of the tort supports a narrow
+definition of “unlawful means”: the tort does not seek to create new actionable
+wrongs but simply to expand the range of persons who may sue for harm
+intentionally caused by existing actionable wrongs to a third party. Thus,
+criminal offences and breaches of statute would not be per se actionable
+under the unlawful means tort, but the tort would be available if, under common
+law principles, those acts also give rise to a civil action by the third party
+and interfered with the plaintiff’s economic activity. For example, crimes such
+as assault and theft would be actionable by a third party in the torts of
+trespass to the person and conversion.  But other breaches of criminal or
+regulatory law will not give rise to a civil action and there will be therefore
+no potential liability under the unlawful means tort.  This approach avoids
+“tortifying” the criminal and regulatory law by imposing civil liability where
+there would not otherwise be any: see OBG, at paras. 57 and 266.
+The two core components of the unlawful means tort are thus that the defendant
+must use unlawful means, in the narrow sense, and that the defendant must
+intend to harm the plaintiff through the use of the unlawful means. [46]                         
+There are at least two objections to the
+liability stretching rationale, but I do not find either persuasive. [47]                         
+One objection is that this rationale cannot
+explain imposing liability in situations where the third party also suffers a
+loss: see Neyers, at p. 232.  This objection sees a gap in liability as
+arising only if A commits a wrong against B but the harm is suffered only by C;
+the “gap” arises because neither B nor C has a claim. If filling that gap is
+the purpose of the unlawful means tort, then it would be difficult to justify
+imposing liability in classic cases of the unlawful means tort, such as Tarleton,
+where the third party also suffers harm and has a valid claim. My view,
+however, is that this objection is predicated on an unduly narrow understanding
+of the “gap” in liability. It is desirable to stretch liability even if other
+forms of action may be available. Take Tarleton as an example. Both the
+occupants of the canoe and the competitor trading ship suffered harm, but they suffered
+different and distinct harms.  The occupants of the canoe suffered physical
+harm while the ship owners suffered economic harm distinct from those physical
+injuries. Allowing recovery for only one type of loss would leave the other
+loss uncompensated for no obvious reason. The liability stretching rationale,
+as I see it, justifies imposing liability in these circumstances. [48]                         
+The second potential objection to the liability
+stretching rationale is that it provides a cause of action even though no right
+of the plaintiff has been engaged by the defendant’s conduct: see Neyers, at p.
+232. But the question is whether there ought to be a right of recovery.  The
+affirmative answer rests on the notion that a modest expansion of the range of
+persons who can sue is justified where the breach of an existing duty to one
+party is intended to, and does, economically harm another. [49]                         
+I conclude that the best rationale for the
+unlawful means tort is “liability stretching”, a rationale that favours a
+narrow approach to the unlawful means requirement. (c)      
+Review of the Jurisprudence [50]                         
+The case law does not form a tidy package of
+consistent approaches.  But on balance it favours a narrow approach to the
+unlawful means requirement. (i)       
+England and Wales [51]                         
+The leading case on the unlawful means tort in
+England is the decision of the House of Lords in OBG. Lord Hoffmann, for
+the majority, adopted a narrow definition of “unlawful means”. The plaintiff
+will have a claim only where the wrong to the third party would have been
+actionable at the instance of that third party: OBG, at para. 49. The
+only exception identified by Lord Hoffmann to this narrow view was that the
+defendant would still be liable if the third party would have had an action but
+for the fact that he or she had suffered no loss. This exception is tailored to
+capture facts where the loss is suffered by the plaintiff rather than the third
+party, as where, for example, the defendant intimidates the third party into
+acting to the detriment of the plaintiff. Lord Hoffmann added a further
+requirement to his definition of “unlawful means”: the unlawful means must
+interfere with the third party’s “freedom to deal with the claimant”: para. 51.
+The plaintiff must therefore have an economic interest at stake in the
+interference by the defendant with the third party. [52]                         
+The majority in OBG rejected the much
+broader view of unlawful means adopted by Lord Nicholls. On that wider view,
+“unlawful means” comprise “all acts which a person is not permitted to do. The
+distinction is between ‘doing what you have a legal right to do and doing what
+you have no legal right to do’”: para. 150, citing Lord Reid in Rookes v.
+Barnard, [1964] A.C. 1129, at pp. 1168-69. “Unlawful means” include
+common law torts, statutory torts, crimes, breaches of contract, breaches of
+trust and equitable obligations, breaches of confidence, and so on:
+para. 150. To this broad definition of “unlawful means”, Lord Nicholls
+added the requirement that the plaintiff must be harmed through the “instrumentality”
+of the third party: paras. 159-60. [53]                         
+Less than a year after OBG, the House of
+Lords reconsidered the scope of “unlawful means”, but this time in the context
+of unlawful means conspiracy: Revenue and Customs Commissioners v. Total
+Network SL, [2008] UKHL 19, [2008] 1 A.C. 1174. The House of Lords
+distinguished the conspiracy tort from the unlawful means tort and held that a
+more flexible definition of “unlawful means” was needed in the conspiracy
+context: paras. 44, 76-77 and 94. Their Lordships echoed the views of Lord
+Nicholls in OBG in noting that criminal conduct is “at the top end” of
+“the scale of blameworthy conduct”: see para. 91, per Lord Walker of
+Gestingthorpe. (ii)      Australia [54]                         
+While the position in Australia is not entirely
+settled, it is clear that the unlawful means tort will have at most a modest
+role to play in that country. In its most recent case on the unlawful means
+tort, the High Court left open the question of whether or not the independent
+tort of causing loss by unlawful means was even part of Australian law:  Sanders
+v. Snell, [1998] HCA 64, 196 C.L.R. 329. Lower court decisions suggest that
+if the tort does exist, it exists in a narrow form similar to that articulated
+in OBG: Canberra Data Centres Pty Ltd. v. Vibe Constructions (ACT) Pty
+Ltd., [2010] ACTSC 20, 173 A.C.T.R. 33, at para. 141; Hardie Finance
+Corporation Pty Ltd. v. Ahern (No. 3), [2010] WASC 403 (AustLII); see also
+K. Barker et al., The Law of Torts in Australia (5th ed. 2012), at
+pp. 291 ff. (iii)    New Zealand [55]                         
+The unlawful means tort is more firmly
+established in New Zealand and a narrow approach is taken to the unlawful means
+requirement: Van Camp Chocolates Ltd. v. Aulsebrooks Ltd., [1984] 1
+N.Z.L.R. 354 (C.A.).  More recently, in Diver v. Loktronic Industries Ltd.,
+[2012] NZCA 131 (NZLII), the New Zealand Court of Appeal adopted Lord
+Hoffmann’s analysis of the unlawful means tort in OBG, although this may
+not be the final word on the subject, as the analysis is brief and it is not
+clear that the point was argued: see para. 100. (iv)    United States [56]                         
+The approach in several states of the United States
+departs markedly from the Commonwealth jurisprudence.  In many states,
+liability is imposed where the defendant’s conduct is “improper”. In the
+several states that follow the Restatement of the Law, Second: Torts 2d (1989),
+this is determined by reference to a combination of factors including the
+defendant’s motive, the nature of the plaintiff’s interest, and the social
+value of the defendant’s conduct: see § 767. The lack of an “unlawful means”
+requirement in most U.S. states has been criticized as creating commercial
+uncertainty, although this approach also has its defenders:
+H. S. Perlman, “Interference with Contract and Other Economic
+Expectancies: A Clash of Tort and Contract Doctrine” (1982), 49 U. Chicago
+L. Rev. 61; compare J. C. Estes, “Expanding Horizons in the Law
+of Torts — Tortious Interference” (1974), 23 Drake L. Rev. 341; see
+also L. Watkins, “Tort Law — Tortious Interference with Business Expectancy — A
+Trap for the Wary and Unwary Alike” (2012), 34 U. Ark. Little Rock L. Rev.
+619. Given the fundamentally different paths which Anglo-Canadian and American
+tort law have taken on this subject, there is no need to examine the American
+jurisprudence in greater detail here. It is sufficient to note that the feared
+dangers associated with a broad approach to this tort appear to have
+materialized. (v)      Canada [57]                         
+The position in the common law jurisdictions, as
+I read it, favours a narrow understanding of the unlawful means requirement. I
+will examine first the previous decisions of this Court and then turn to the
+jurisprudence from Canadian appellate courts. [58]                         
+There is only one decision of this Court dealing
+with the unlawful means tort, although the Court has also addressed the
+unlawful means requirement in the context of unlawful means conspiracy and
+intimidation. I read this jurisprudence as being consistent with a narrow
+approach to unlawful means in the unlawful means tort context. [59]                         
+The case addressing the unlawful means tort is International
+Brotherhood of Teamsters v. Therien, [1960] S.C.R. 265. Mr. Therien owned a
+small trucking business which loaned trucks and drivers to a construction
+company in British Columbia. After the employees of the construction company
+unionized, Mr. Therien was told that he needed to join the union, which he
+did not do. The union threatened to picket the construction company, which then
+decided to cease doing business with Mr. Therien. Mr. Therien brought
+an action against the union for interference with business by illegal means.
+Locke J. held that the union’s threat to picket the employer was a breach of
+its obligation under the collective agreement to submit disputes relating to
+the agreement to arbitration and of s. 21 of the Labour Relations Act,
+S.B.C. 1954, c. 17, which made it an offence for any person to violate an
+obligation arising under a collective agreement. Locke J. held that “to
+ascertain whether the means employed were illegal inquiry may be made both at
+common law and of the statute law” and concluded that both the union’s breach
+of contract and breach of statute constituted unlawful means: p. 280. [60]                         
+The intervener, the Attorney General of British
+Columbia, argues that the inclusion of statutory offences within the scope of
+the unlawful means tort in Therien precludes the adoption of the narrow
+view of the tort. I do not think this is the case for two reasons. [61]                         
+First, it was not necessary to rely on the
+breach of statute in Therien: the conduct giving rise to the claim was
+also a breach of the collective agreement between the union and the company
+employing Mr. Therien’s firm: see pp. 283-84, per Cartwright J. In
+any case, there was no analysis of the question whether unlawful means may
+include all breaches of statute. [62]                         
+Second, the comments in Therien about
+civil liability for breach of statute must be read in light of this Court’s
+subsequent jurisprudence about the interplay between statutory duties and civil
+causes of action: see, e.g., The Queen in Right of Canada v. Saskatchewan
+Wheat Pool, [1983] 1 S.C.R. 205; Edwards v. Law Society of Upper Canada,
+2001 SCC 80, [2001] 3 S.C.R. 562; Odhavji Estate v. Woodhouse, 2003 SCC
+69, [2003] 3 S.C.R. 263; Hill v. Hamilton-Wentworth Regional Police Services
+Board, 2007 SCC 41, [2007] 3 S.C.R. 129.  The law in this regard has
+evolved significantly since Therien and the brief reference to breach of
+statute must be read in light of those developments. The position that I
+propose in relation to the scope of unlawful means is consistent with this
+approach.  A breach of statute will constitute unlawful means if it would be
+otherwise actionable under the principles developed in these later cases. While
+this Court has held that the unlawful means conspiracy tort continues to impose
+liability for breaches of statute, as I explain below, there is no need for
+consistency in the unlawful means component of unlawful means conspiracy and of
+the tort of causing loss by unlawful means. [63]                         
+The Court has also considered the unlawful means
+requirement in the context of unlawful means conspiracy. In Gagnon v.
+Foundation Maritime Ltd., [1961] S.C.R. 435, a shipbuilder refused to
+negotiate with an uncertified union. The union responded by picketing which
+resulted in a work stoppage which was found to have been an unlawful strike.
+The shipbuilder sued the union members responsible. A majority of the Court
+found them liable on the basis of unlawful means conspiracy, reasoning that the
+means employed by the union were prohibited by statute: 
+“. . . this of itself supplies the ingredient necessary to
+change a lawful agreement which would not give rise to a cause of action into a
+tortious conspiracy, the carrying out of which exposes the conspirators to an
+action for damages if any ensue therefrom”: Gagnon, at p. 446, per
+Ritchie J. [64]                         
+This approach was also adopted in LaFarge.
+The case involved a conspiracy to prevent or unduly lessen competition in the
+production of cement contrary to s. 32(1)(c) of the Combines
+Investigation Act, R.S.C. 1970, c. C-23. The plaintiff successfully brought
+an action against the conspirators claiming damages for conspiracy to injure.
+The Court allowed the appeal of the conspirators on the basis that they did not
+intend to injure the plaintiff but rather to advance their business interests.
+However, Estey J. stated for the Court that “the conduct of the appellants, although
+not directed towards the plaintiff, was unlawful. They have been convicted of
+offences in contravention of a federal statute and have been fined in company
+with their fellow accused in the total sum of $432,000”: LaFarge, at p.
+472. The Court confirmed the LaFarge understanding of unlawful means
+conspiracy in Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959, at
+pp. 984-90. [65]                         
+The scope of unlawful means has also arisen in
+the context of the tort of intimidation. Intimidation is committed when the
+defendant threatens to commit an unlawful act and in so doing causes loss to
+the person threatened (two-party intimidation) or to a third party (three-party
+intimidation). The tort of intimidation was recognized before the unlawful
+means tort fully in its present form was well established: Fridman, at p. 765. [66]                         
+In Roman Corporation Ltd. v. Hudson’s Bay Oil
+and Gas Co. Ltd., [1973] S.C.R. 820, the Court recognized the tort of
+intimidation, though held that it was not available in that case as there had
+been no threat to use unlawful means:  pp. 829-30. The tort of
+intimidation reached this Court again in the case of Central Canada Potash
+Co. v. Government of Saskatchewan, [1979] 1 S.C.R. 42. The Minister of
+Mineral Resources threatened to cancel the plaintiff’s mineral leases if it did
+not lower its potash production under regulations which on separate grounds
+were held to be ultra vires. Martland J. rejected the plaintiff’s claim
+in intimidation on the grounds that the Minister lacked the necessary intention
+for the tort. The Minister had not acted unreasonably, let alone intentionally.
+Martland J. also distinguished between two-party and three-party intimidation.
+He held that, unlike the three-party scenario, in a two-party intimidation case
+a mere threat to breach a contract could not ground liability because the
+plaintiff should be left to the remedies available under the contract: Central
+Canada Potash, at p. 87. This Court reiterated the application of the
+intimidation tort to both two-party and three-party situations in Pepsi-Cola,
+at para. 113. [67]                         
+The Court has clearly taken a different approach
+to “unlawful means” in the context of unlawful means conspiracy and
+intimidation than I propose to adopt in the context of the unlawful means
+tort.  For example, liability based on all breaches of statute is more clearly
+established in the context of the unlawful means conspiracy tort. Not only Gagnon
+but also LaFarge involved liability in the unlawful means conspiracy
+tort for breaches of statute. Does this suggest that a broader approach should
+also be followed in the unlawful means tort?  In my view, it does not. [68]                         
+While the economic torts may sometimes develop
+along parallel lines, they have distinct historical roots and roles to play in
+the regulation of the modern marketplace. So, for example, this Court in Central
+Canada Potash accepted the proposition that a narrower definition of
+“unlawful means” applies in the two-party intimidation tort than in the
+three-party intimidation tort. This suggests that there is no general requirement
+of consistency in the elements of the economic torts. Similarly, the House of
+Lords accepted the need for different definitions of “unlawful means” for the
+unlawful means and conspiracy torts in Total Network.  As Lord
+Mance put it, “[t]he two torts are different in their nature, and the interests
+of justice may require their development on somewhat different bases”: 
+para. 123. This same point was made recently by Goudge J.A. on behalf of
+the Ontario Court of Appeal, who stated that “these two economic torts [i.e.
+the unlawful means and conspiracy torts] have evolved separately, and thus each
+ha[s] developed [its] own concept of unlawful conduct”: Agribrands Purina
+Canada Inc. v. Kasamekas, 2011 ONCA 460, 106 O.R. (3d) 427, at para.
+34; see also R. Stevens, Torts and Rights (2007), at p. 297.
+Moreover, it may well be that the presence of an agreement in the tort of
+conspiracy justifies a different and broader definition of “unlawful means” for
+the tort of “unlawful means” conspiracy than is appropriate for the unlawful
+means tort.  This is illustrated by the Court’s retention, although as an
+anomaly, of the so-called predominant purpose conspiracy tort on the basis that
+the fact of agreement between conspirators (or “combination”) could itself justify
+imposing liability: see, e.g., LaFarge, at pp. 471-72, per
+Estey J. [69]                         
+I conclude that it is not necessary to seek
+identical treatment of the unlawful means component for all of the torts of
+which it is a requirement. The Court has not insisted on this uniformity in the
+past and there are reasons of principle that support different approaches in
+different contexts. Of course, my reasons in this case are confined to the
+unlawful means tort and nothing I have said should be taken as opining on the
+elements of other torts which are not before us for decision in this case. [70]                         
+To conclude the review of this Court’s
+jurisprudence, it does not settle the point before us for decision and the
+Court has not addressed the unlawful means requirement in this context since Therien. [72]                         
+I conclude my review by noting the fundamentally
+different approach which the civil law of Quebec takes to this problem. It
+offers what is perhaps a more straightforward analysis under the doctrine of
+“abuse of rights”: see St. Lawrence Cement Inc. v. Barrette, 2008 SCC
+64, [2008] 3 S.C.R. 392, at para. 24. This doctrine is rooted in the Civil
+Code of Québec, S.Q. 1991, c. 64, which provides in art. 6 that “[e]very
+person is bound to exercise his civil rights in good faith” and in art. 7 that
+“[n]o right may be exercised with the intent of injuring another”. (d)      Conclusion Regarding the Unlawfulness Requirement [74]                         
+In light of the examination of the jurisprudence
+in this country and comparable common law jurisdictions, the trend of authority
+is towards a narrow definition of “unlawful means”. In addition to being
+consistent with precedent, this approach is also in my view desirable in
+principle. Restricting unlawful means to acts that would give rise to civil
+liability to the third party (or would do so if the third party suffered loss
+from them) provides a coherent and rational basis for the development of the
+unlawful means tort. The limitation of unlawful means to actionable civil
+wrongs provides certainty and predictability in this area of the law, since it
+does not expand the types of conduct for which a defendant may be held liable
+but merely adds another plaintiff who may recover if intentionally harmed as a
+result of that conduct. While details relating to the scope of what is
+“actionable” may need to be worked out in the future, the basic contours of
+liability would be clear: see Alleslev-Krofchak, at para. 63. This
+approach does not risk “tortifying” conduct rendered illegal by statute for
+reasons remote from civil liability: see OBG, at paras. 57 and 152.
+The narrow definition of “unlawful means”, in short, keeps tort law within its
+proper bounds. [75]                         
+There are of course arguments to the contrary. I
+concede that it may in some cases be artificial to limit the plaintiff’s
+recovery by reference exclusively to factors that relate to the defendant’s
+liability to the third party. For example, a statutory immunity might be
+intended to shield the defendant from liability to the third party for reasons
+which have nothing to do with the plaintiff: see Deakin and Randall, at
+p. 545. Looked at from another perspective, however, it is unjust to
+impose liability on the defendant in such a scenario, since he or she would
+have not committed a legal wrong. The narrow definition of “unlawful means” may
+also be criticized as unduly narrow for excluding crimes: see OBG, at
+para. 152, per Lord Nicholls; Total Network, at
+paras. 90-94, per Lord Walker. This exclusion, however, is much
+less sweeping than it may at first appear, given that many crimes, such as
+assault or theft, are also tortious. Other crimes, such as bribery, may still
+be actionable under the tort of unlawful means conspiracy: see P. W. Lee,
+“Causing Loss by Unlawful Means”, [2011] S.J.L.S. 330, at p. 349 (fn.
+115). The possibility that immoral or malicious conduct may not be remediable
+through the economic torts in some cases is simply a consequence of the
+Anglo-Canadian conception of the limited role of the common law and is a price
+worth paying for certainty in this area. [76]                         
+I conclude that in order for conduct to
+constitute “unlawful means” for this tort, the conduct must give rise to a
+civil cause of action by the third party or would do so if the third party had
+suffered loss as a result of that conduct. (2)     
+Is the Tort Available Only if There Is No Other
+Cause of Action Available to the Plaintiff Against the Defendant in Relation to
+the Alleged Misconduct? [77]                         
+The appellants urge us to hold that the unlawful
+means tort, because it has a gap-filling function, should only be available where
+the defendant’s conduct does not provide the plaintiff with any other cause of
+action against the defendant. This was the view of the Court of Appeal in this
+case and this view has also been adopted by the Ontario Court of Appeal and
+followed by other Canadian courts. For example, in Correia, the unlawful
+means alleged by the plaintiff were directly actionable in negligence against
+one of the defendants and in Alleslev-Krofchak, the unlawful means were
+directly actionable in defamation and for this reason, the plaintiffs’ claims
+for causing loss by unlawful means failed: see also Westcoast Landfill
+Diversion Corp. v. Cowichan Valley (Regional District), 2009 BCSC 53, 55
+M.P.L.R. (4th) 208, at paras. 379-87; 0856464 B.C. Ltd. v. TimberWest Forest
+Corp., 2012 BCSC 597, 89 C.B.R. (5th) 235, at para. 47; Canuck Security
+Services Ltd. v. Gill, 2013 BCSC 893 (CanLII), at paras. 188-89. On
+this view, the tort exists “to fill a gap where no action could otherwise be
+brought for intentional conduct that caused harm through the instrumentality of
+a third party”: Correia, at para. 107. The question is whether we should
+accept this limitation on the scope of the unlawful means tort. My view is
+that, for several reasons, we should not. [78]                         
+This limitation seems to me to be wrong in
+principle. The gist of the tort is the targeting of the plaintiff by the
+defendant through the instrumentality of unlawful acts against a third party.
+It is that conduct by the defendant which gives rise to liability quite apart
+from conduct that may be otherwise actionable by the plaintiff.  Moreover,
+general principles of tort liability accept concurrent liability and
+overlapping causes of action for distinct wrongs suffered by the plaintiff in
+respect of the same incident: see, e.g., Central Trust Co. v. Rafuse,
+[1986] 2 S.C.R. 147. Finally, and as I explained earlier, this limitation is
+premised on an unduly narrow understanding of the “gap-filling” function of the
+tort. A gap need not be a void. [80]                         
+The “not otherwise actionable” requirement is
+not consistent with the majority view in OBG and can be awkward to apply
+in practice. In OBG, Lord Hoffmann accepted that it would be possible
+for there to be concurrent liability for inducing breach of contract and
+causing loss by unlawful means, as where the defendant threatens to break his
+or her contract with the third party in order to convince the third party to
+breach a separate contract with the plaintiff. Such a scenario might trigger
+liability both for the tort of inducing a breach of contract and the unlawful
+means tort, a result which is inconsistent with the “not otherwise actionable”
+requirement: see OBG, at para. 21. In addition, the “not otherwise
+actionable” requirement could give rise to some nice questions about whether
+some other cause of action that might be available to the plaintiff provides an
+adequate remedy for the loss. [81]                         
+Finally, this limitation is not necessary to
+ensure that the unlawful means tort is kept within its proper bounds. The
+restrictions on the “unlawful means” and intention components of the unlawful
+means tort that I propose mean that it will rarely, if ever, be more
+advantageous to a plaintiff to plead the unlawful means tort rather than
+another available cause of action. [82]                         
+I would therefore not limit liability for the
+unlawful means tort to situations in which the defendant’s conduct is not
+otherwise actionable by the plaintiff. (3)     
+Should the “Unlawfulness” Requirement Be Subject
+to Principled Exceptions? [83]                         
+The Court of Appeal, while adopting a narrow
+view of the unlawful means requirement, held that it must be subject to
+principled exceptions.  The court found that this case falls within such an
+exception because the appellants’ conduct was akin to the tort of abuse of
+process. As Robertson J.A. put it for the court, “the intentional erection of
+legal barriers, some of which are enforceable through statutory processes not
+subject to prior judicial authorization, in circumstances where those barriers
+rest on rights fabricated with arguments of sand” falls within the ambit of the
+unlawful means tort: para. 82.  This approach was intended to provide judges
+with some “wiggle room” to respond “adequately” to unanticipated factual
+scenarios or changing circumstances: para. 81. [84]                         
+I respectfully disagree with this approach and
+would hold that there are no exceptions to the scope of liability which I
+propose for the unlawful means tort. [85]                         
+My difficulty with the “principled exception”
+approach is that I cannot, with respect, find any principle on which it is
+based. Providing trial judges with “wiggle room” to deal “adequately” with
+cases that do not fall within the scope of the tort’s liability simply confers
+an unstructured judicial discretion to do what appears to the particular judge
+to be just in the particular circumstances. This to me is the antithesis of a
+principled approach and, if adopted, it would largely undercut the efforts to
+give a certain and narrow ambit to the tort.  Allowing for exceptions without
+clearly outlining the principles to guide the development of the law invites
+the danger of ad hoc decisions tailored to achieve a vision of
+commercial morality — precisely the danger which the unlawful means requirement
+is meant to avoid. [86]                         
+I conclude that for the purposes of the unlawful
+means tort, the defendant’s means are “unlawful” if they support a civil action
+for damages or compensation by the third party, or would do so except for the
+fact that the third party did not suffer any loss as a result of the
+defendant’s acts. There is no requirement that these acts not be otherwise
+actionable by the plaintiff against the defendant and there are no exceptions
+to the scope of the liability imposed by this approach. [87]                         
+In Lord Hoffmann’s reasons in OBG, he
+added a further requirement to the unlawful means tort, namely that the unlawful
+means employed must interfere with the third party’s freedom to deal with the
+plaintiff: paras. 51-54. Lord Hoffmann held that without such a limitation,
+“there is a danger that it will provide a cause of action based on acts which
+are wrongful only in the irrelevant sense that a third party has a right to
+complain if he chooses to do so”: para. 56. This additional requirement has not
+been included in the formulation of the tort adopted by Canadian appellate
+decisions that otherwise approve of Lord Hoffmann’s approach to the unlawful
+means tort, although the point was not specifically at issue in those cases:
+see Correia, O’Dwyer, and Alleslev-Krofchak. It has also
+been roundly criticized by commentators: see Carty, An Analysis of
+the Economic Torts (2nd ed.), at pp. 97-98; Kain and Alexander, at
+pp. 181-82; Deakin and Randall, at pp. 548-49. Respectfully, I do not
+find this additional requirement helpful in outlining the proper bounds of the
+unlawful means tort. This requirement is not supported either by the
+authorities or by the rationale for imposing liability. Whether the unlawful
+means interfere with the plaintiff’s right to deal with the injured third party
+or with some other party, the fact that the defendant aims at the plaintiff
+provides a sufficient nexus between the unlawful means and the interests of the
+plaintiff to justify imposing liability. Rather than resort to this additional
+“freedom to deal” qualification, I prefer to limit the scope of the unlawful
+means tort through a narrow approach to both the unlawful means component, as
+discussed above, and the intention component, as discussed below. (4)      Application to This Case [88]                         
+The Court of Appeal concluded that there was no
+wrong that would be actionable by the third party (the prospective purchasers)
+against the appellants, and the respondents do not point to one:  paras. 79 and
+83. [89]                         
+Accordingly, I conclude that the appellants
+cannot be found liable to the respondents on the basis of the unlawful means
+tort. (5)      Did the Court of Appeal Err in Finding That the Defendants Had the
+Required Knowledge for the Unlawful Means Tort? [90]                         
+The trial judge found that the appellants had
+unlawfully interfered with the sale of the property in various ways. The
+appellants contend, however, that none of this activity can sustain liability
+because there was no proof that they had appropriate knowledge of the existence
+of any business relationship between the respondents and prospective
+purchasers. The appellants submit that they must be shown to have had actual
+knowledge of the relationship between prospective purchasers, such as Greenarm
+Developments Ltd., and the respondents and that the record does not support
+such a finding. [91]                         
+Given my conclusion that the unlawful means tort
+was not available to the respondents in this case, it is not strictly speaking
+necessary to address this issue.  However, it will be helpful to do so. [92]                         
+In my opinion, the appellants’ submission is
+premised on a faulty view of the elements of the unlawful means tort. [93]                         
+I do not agree with the Court of Appeal that the
+existence of a valid business relationship between the plaintiff and the third
+party and the defendant’s knowledge of that relationship are essential elements
+of the unlawful means tort. The inclusion of these elements in my view flows
+from confusion between the unlawful means tort and the tort of inducing breach
+of contract. It is now commonly accepted that for the latter, the plaintiff
+must prove that the defendant actually understood that he or she was procuring
+a breach of contract: see, e.g., OBG, at para. 39, per Lord
+Hoffmann. The position is different, however, in the unlawful means tort, the
+focus of which is unlawful conduct that intentionally harms the plaintiff’s
+economic interests. There need be no contract or even other formal dealings
+between the plaintiff and the third party so long as the defendant’s conduct is
+unlawful and it intentionally harms the plaintiff’s economic interests.  In
+this case, it was more than sufficient that the appellants were shown to know
+that “various persons were negotiating with the majority of investors” (C.A.
+reasons, at para. 75) for the purchase of the premises and that the
+allegedly unlawful acts were committed with the intention to cause economic
+harm to the respondents. [94]                         
+It may be helpful to add a few words about the
+intention requirement for the unlawful means tort, given that there is some
+confusion about it: see Carty, “The Economic Torts in the 21st Century”, at pp.
+658-59; Podolny, at pp. 79-80; Kain and Alexander, at p. 135; Osborne, at
+pp. 336-37. [96]                         
+Goudge J.A. put this point aptly in Alleslev-Krofchak,
+where he summarized the House of Lords’ discussion in OBG: . . . intentional interference with
+economic relations requires that the defendant intend to cause loss to the
+plaintiff, either as an end in itself or as a means of, for example, enriching
+himself. If the loss suffered by the plaintiff is merely a foreseeable
+consequence of the defendant’s actions, that is not enough. [para. 50] [97]                         
+In my view, this narrow approach to intention is
+consistent both with the policy concerns relevant to this area of law as well
+as the underlying “liability stretching” rationale for the tort. It is an
+important safeguard against attaching liability to vigorous but lawful
+competitive behaviour. Economic harm to a competitor is often a foreseeable
+consequence of such behaviour. Mere foreseeability of such harm does not meet
+the requirement for intention in the unlawful means tort. B.       If the Unlawful Means Tort Is Not Available, Are the Appellants
+Otherwise Liable? [98]                         
+Given the conclusion I have reached on the
+question of liability for the unlawful means tort, I have to confront the final
+issue: Did the respondents establish liability for breach of fiduciary duty and
+is that issue properly before us? [99]                         
+In my view, they did and it is.  Alan Schelew
+was a director of both of the respondent corporations. The record is clear that
+he breached his fiduciary duty to the respondent corporations to act in good
+faith in the interests of the corporations and the point was argued before us. [100]                     
+As the Court of Appeal noted, the respondents
+did not plead breach of fiduciary duty in their statement of claim: para. 10. 
+However, the same may be said about all other causes of action. The pleading
+was purely factual and did not set out any legal basis for the claim for
+relief. However, the alleged breaches of fiduciary duty were clearly live
+issues at the trial as is apparent from the respondents’ pre- and post-trial
+briefs. [101]                     
+Contrary to the conclusion of the Court of
+Appeal, the trial judge made numerous clear and specific findings with respect
+to Alan Schelew’s breach of his fiduciary obligations to the respondent
+companies of which he was a director. Examples include: •                                
+At paras. 233-34, the trial judge found that by
+attempting to invoke the arbitration process, Alan Schelew had acted in a way
+that violated his obligations as a director of Bram and Jamb;  •                                
+At paras. 243 and 247-48, the trial judge found
+that the appellants’ defence, long after there was any legal basis to do so, of
+a “Notice of its first right of refusal” which they had registered against the
+property was a tactic that had no lawful basis and which was a “blatant breach
+of [Alan Schelew’s] fiduciary obligations as director in Jamb and Bram”;  •                                
+At para. 254, the trial judge concluded that the
+appellants’ filing of a “second encumbrance” against the property, this time a
+certificate of pending litigation, based on the “bogus” arbitration process was
+another “illegitimate and unjustified measure” that constituted a further
+breach of Alan Schelew’s fiduciary duty to Bram and Jamb;  •                                
+At paras. 262-65, the trial judge found that
+Alan Schelew’s role in impeding access to the building by a potential purchaser
+was in breach of fiduciary duties to Bram and Jamb;  •                                
+At paras. 270-71, the trial judge found that
+“Alan [Schelew] . . . would in fact take whatever steps were
+necessary to prevent the sale of 99 Joyce to anyone other than himself” and
+that he “was resolved in not letting his director’s fiduciary duties in Bram
+and Jamb interfere in his plan”. [102]                     
+The fiduciary duty point was argued in this
+Court. The appellants submitted, in my view correctly, that the trial judge
+made numerous specific findings with respect to Alan Schelew’s breach of his
+fiduciary obligations to the respondents. These submissions were in support of
+their position that this excluded their liability for the unlawful means tort
+because the wrong was otherwise actionable by the respondents: A.F., at para.
+87. The respondents submitted that if Alan Schelew breached his fiduciary duty
+and these breaches were sufficient for the trial judge to have issued judgment
+on that basis, then it is open to this Court to affirm the judgment against
+Alan Schelew on that basis.  As the respondents put it, “[t]he Appellants
+cannot assert the findings of the trial judge were sufficient to ground
+liability for breach of fiduciary duty, while at the same time trying to escape
+liability from same”: R.F., at para. 125. [103]                     
+I agree with the respondents on this point. [104]                     
+No one disputes that Alan Schelew had a
+fiduciary duty as a director of Bram and Jamb.  Although there was a certain
+conflict of interest inherent between that role and his role, through his
+company A.I., as building manager, it cannot be suggested that this permitted
+him to take groundless legal steps to obstruct the sale in order to further his
+personal interests. [105]                     
+The trial judge’s assessment of damages is not
+challenged on appeal. The breaches of fiduciary duty are precisely the same
+acts which the trial judge found to constitute the unlawful means for the
+purposes of the unlawful means tort. The breaches of fiduciary duty resulted in
+Alan Schelew’s company, A.I., acquiring Bram and Jamb’s units under the
+Syndication Agreement as well their shares in Joyce.  The trial judge found as
+a fact that but for Alan Schelew’s conduct, the building would have been sold
+to a third party for $2.58 million: para. 327. Whether the compensation is
+viewed as being aimed at restoring the respondents’ loss or requiring the
+appellants to disgorge the gain obtained by Alan Schelew’s breach of fiduciary
+duty, the assessment of compensation remains the same. While the appellant,
+A.I., was not a fiduciary, Alan Schelew was its sole director and shareholder
+and it is therefore liable for knowing assistance in the breach of fiduciary
+duty and knowing receipt of the proceeds of the breach: see D. W. M.
+Waters, M. R. Gillen and L. D. Smith, eds., Waters’ Law of Trusts
+in Canada (4th ed. 2012), at pp. 516-23. IV.   
+Disposition [106]                     
+I would dismiss the appeal with costs.                     Appeal
+dismissed with costs.                     Solicitors
+for the appellants:  McInnes Cooper, Fredericton.                     Solicitors
+for the respondents:  Stewart McKelvey, Moncton; Supreme Advocacy,
+Ottawa.                     Solicitor for the
+intervener:  Attorney General of British Columbia, Victoria.   

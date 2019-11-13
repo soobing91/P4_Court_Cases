@@ -1,0 +1,826 @@
+                                                   SUPREME
+COURT OF CANADA   Citation:  Galambos v.
+  Perez, 2009 SCC 48, [2009] 3 S.C.R. 247  Date:  20091023 Docket:  32586  Between: Michael
+Z. Galambos and Michael Z. Galambos Law Corporation,
+both carrying on business as “Galambos &
+Company” and the said Galambos & Company Appellants and Estela
+Perez Respondent  Coram: McLachlin C.J. and Binnie, LeBel, Deschamps, Fish,
+Abella, Charron, Rothstein and Cromwell JJ.   Reasons for
+  Judgment: (paras. 1 to 88)   Cromwell J. (McLachlin C.J. and Binnie, LeBel, Deschamps,
+  Fish, Abella, Charron and Rothstein JJ. concurring)   ______________________________ Galambos v. Perez, 2009 SCC 48, [2009] 3 S.C.R. 247  Michael Z.
+Galambos and Michael Z. Galambos Law Corporation,
+both carrying on business as “Galambos & Company” and the said Galambos & Company                                                         Appellants  v.  Estela Perez                                                                                                                     Respondent  Indexed as:  Galambos v. Perez  Neutral citation:  2009 SCC 48.  File No.:  32586.  2009:  April 15; 2009:  October 23.  Present:  McLachlin C.J. and Binnie, LeBel,
+Deschamps, Fish, Abella, Charron, Rothstein and Cromwell JJ.  on appeal from the court of appeal
+for british columbia     Held:  The appeal should
+be allowed and the trial judgment should be restored except that, if the
+parties cannot agree, the question as to whether P is entitled to a judgment in
+debt against the law firm and, if so, whether there is any impact on the costs
+ordered at trial or on appeal to the Court of Appeal flowing from that
+judgment, should be remanded to the Court of Appeal.  The Court of Appeal exceeded the limits of appellate
+review and unduly extended the scope of fiduciary obligations.  Absent an error
+of law or a palpable and overriding error of fact, of which there is none, the
+trial judge’s findings of fact and conclusion that a fiduciary duty did not
+exist must be upheld on appeal.  In this case, the Court of Appeal retried the
+case on the basis of the written record and substituted its view of the facts
+and their significance for that of the trial judge.  [3] [49] [53]      With respect to P’s contractual claims against the law
+firm, out of an abundance of caution and if the parties cannot agree, the
+question of whether a judgment in debt in P’s favour against the firm should
+issue and, if so, its impact, if any, on the costs ordered at trial and on the
+appeal to the Court of Appeal should be remanded to the Court of Appeal.  [46]  Cases Cited  Referred to:  Hodgkinson
+v. Simms, [1994] 3 S.C.R. 377; MacDonald Estate v. Martin, [1990] 3
+S.C.R. 1235; Meadwell Enterprises Ltd. v. Clay and Co. (1983), 44
+B.C.L.R. 188; R. v. Neil, 2002 SCC 70, [2002] 3 S.C.R. 631; Lac
+Minerals Ltd. v. International Corona Resources Ltd., [1989] 2 S.C.R. 574; Strother
+v. 3464920 Canada Inc., 2007 SCC 24, [2007] 2 S.C.R. 177; Shafron v. KRG
+Insurance Brokers (Western) Inc., 2009 SCC 6, [2009] 1 S.C.R. 157; Norberg
+v. Wynrib, [1992] 2 S.C.R. 226; Mustaji v. Tjin (1995), 24 C.C.L.T.
+(2d) 191, aff’d (1996), 25 B.C.L.R. (3d) 220; Guerin v. The Queen,
+[1984] 2 S.C.R. 335; Frame v. Smith, [1987] 2 S.C.R. 99.  Statutes and Regulations Cited    Authors Cited  American Law Institute.  Restatement (Third) of
+the Law Governing Lawyers.  St. Paul, Minn.:  American Law Institute
+Publishers, 2000.  Finn, P. D.  Fiduciary Obligations.  Sydney: 
+Law Book Co., 1977.  Grant, Stephen M., and Linda R. Rothstein.  Lawyers’
+Professional Liability, 2nd ed.  Toronto:  Butterworths, 1998.  Jackson & Powell on Professional Liability, 6th ed.  London:  Sweet & Maxwell, 2007.  Law Society of British Columbia.  Professional
+Conduct Handbook.  The Society, 1993. Scott, Austin W.  “The Fiduciary Principle” (1949),
+37 Cal. L. Rev. 539.  Smith, Lionel.  “Fiduciary Relationships — Arising in
+Commercial Contexts — Investment Advisors:  Hodgkinson v. Simms”
+(1995), 74 Can. Bar Rev. 714.  Weinrib, Ernest J.  “The Fiduciary
+Obligation” (1975), 25 U.T.L.J. 1.  APPEAL from a judgment of the British Columbia Court of
+Appeal (Rowles, Levine and Thackray JJ.A.), 2008 BCCA 91, 78 B.C.L.R.
+(4th) 268, 253 B.C.A.C. 149, 425 W.A.C. 149, 291 D.L.R. (4th) 537, [2008] 7
+W.W.R. 39, 55 C.C.L.T. (3d) 243, [2008] B.C.J. No. 309 (QL), 2008 CarswellBC
+339, setting aside a decision of Rice J., 2006 BCSC 899, [2006] B.C.J.
+No. 1396 (QL), 2006 CarswellBC 1523.  Appeal allowed.  George K. Macintosh,
+Q.C., and Tim Dickson, for the appellants.  Robert D. Holmes
+and John W. Bilawich, for the respondent.  The judgment of the Court was delivered by  Cromwell J. —  I.       Introduction   [2]     
+Ms. Perez’s claims failed at trial where the judge found that her
+rights were those of a creditor and nothing more (2006 BCSC 899, [2006] B.C.J.
+No. 1396 (QL)).  The Court of Appeal, however, set aside that decision (2008
+BCCA 91, 78 B.C.L.R. (4th) 268).  It concluded that Ms. Perez was entitled to
+equity’s protection because there were fiduciary duties owed to her by the
+appellants which they had breached. The appellants now appeal to this Court. 
+Although there are several issues, the main question is whether the Court of
+Appeal was correct to find the appellants owed and breached fiduciary duties to
+Ms. Perez.  [3]     
+In my respectful view, the Court of Appeal exceeded the limits of
+appellate review and unduly extended the scope of fiduciary obligations.  The
+trial judge was right to dismiss Ms. Perez’s claims and the Court of Appeal
+erred in law by reversing that decision.  II.      Issues   [5]     
+I find it more convenient to address Ms. Perez’s submissions on
+these points first and then turn to what I view as the heart of the appeal, the
+appellants’ challenge to the Court of Appeal’s decision.  A brief overview of
+the facts, claims and proceedings will set the stage.  III.    Overview of Facts, Claims and Proceedings  A.     Facts   [7]     
+In January 2002 the firm experienced a cash flow problem.  To
+resolve it, Ms. Perez obtained a personal loan and deposited $40,000 into the
+firm’s account. The trial judge found that Mr. Galambos did not ask her to
+advance this money and that he did not even know about the advance until
+several days later (para. 61). It is common ground that Mr. Galambos instructed
+Ms. Perez to reimburse herself with interest, an instruction she did not follow
+other than by repaying herself  $15,000.  [8]     
+During and after 2002, the firm’s financial situation
+deteriorated. Ms. Perez made several more deposits of her own funds into the
+firm’s account and covered some firm expenses with her personal credit card.
+The trial judge found that Ms. Perez made several of the advances without
+informing Mr. Galambos beforehand and that she extended the loans voluntarily,
+much on her own initiative and without undue influence by Mr. Galambos (paras.
+62-63). The trial judge described what happened this way:  As the [financial] decline continued, Mrs. Perez began to deposit more
+monies of her own into the general account of the firm. On February 12 and 21,
+2003, she deposited cheques for $10,000 and $22,000. She testified that she
+would observe that the funds were needed and inform Mr. Galambos. According to
+her, he would simply ask her to "do something". She would then,
+without necessarily telling him first, deposit more funds of her own into the
+firm’s account.  In addition to these deposits, Mrs. Perez frequently paid for the
+firm’s supplies with her own credit card and then reimbursed herself for those
+expenses. She even used her card to make certain personal purchases for Mr.
+Galambos, such as two suits when she accompanied him once to Harry Rosen’s and
+a down payment when she accompanied him once to sign a lease for a Mercedes.
+Mr. Galambos was aware that this was her practice. He said she volunteered to
+use her personal credit card in this way so that she could pick up frequent
+flyer points as a perquisite.  All the while, throughout 2003 and early 2004, the
+decline in the firm’s fortunes continued, and clearly so. The DOJ work, which
+had made up most of the firm’s revenue, continued to drop. The firm laid off
+staff. The bank overdraft was constantly at its limit and beyond. The plaintiff
+kept advancing money, asserting several times in her testimony that she did so
+in reliance on Mr. Galambos’s promises that the firm’s fortunes would improve
+and that he would pay her back. According to Mrs. Perez, he told her that there
+were one or two files soon to be completed with high contingency fees and that
+he was on the verge of obtaining lucrative new legal work. He even took her to
+meet the new client. By March 2004, the firm owed Mrs. Perez approximately
+$200,000. [paras. 17-19]  [9]     
+During the time she worked for the firm, it handled the preparation
+and execution of new wills for Ms. Perez and her husband as well as two
+mortgage transactions, with respect to at least one of which the firm also
+acted for the lender.  The firm did not expect to be and was not paid for these
+services.  B.      Claims  [10] 
+Ms. Perez claimed that there was an ongoing solicitor-client
+relationship between her and Mr. Galambos’s firm because free legal services
+were part of her employment contract. She submitted that Mr. Galambos and the
+firm breached an implied term of the retainer and their fiduciary duties to her
+by failing to provide her with the legal advice she required in connection with
+her loans to the firm and by acting for her while in a conflict of interest. 
+She also asserted that Mr. Galambos and the firm were fiduciaries even apart
+from the solicitor-client relationship and that they had breached their
+obligations to her.  She made other claims in contract and negligence.  C.     Proceedings  [11] 
+At trial, all of Ms. Perez’s claims were dismissed. The trial
+judge, Rice J., found that there were no fiduciary duties in relation to the
+cash advances. He rejected Ms. Perez’s contention that there was any ongoing,
+general solicitor-client relationship; he found, contrary to her position, that
+free legal services were not a term of her employment.  He concluded that the
+retainers for the wills and mortgages were each distinct and limited to the
+services requested and that the loans were outside the ambit of the limited
+solicitor-client relationship which existed between the parties (paras. 24-40).
+He also found that there was no fiduciary relationship apart from these
+retainers since Ms. Perez was not vulnerable and had not relinquished any
+decision-making power to Mr. Galambos (paras. 41-46). As for Ms. Perez’s negligence
+claim, the trial judge concluded that Mr. Galambos had not been negligent in
+his conduct of his business, that he owed no special duty to Ms. Perez in that
+regard in any case, that she did not rely on Mr. Galambos’s expressions of hope
+that things would turn around and that it would have been unreasonable for her
+to do so, given her detailed knowledge of the firm’s finances.  Finally, the
+judge firmly rejected Ms. Perez’s allegations of coercion and undue influence
+by Mr. Galambos (paras. 54-55).  [12] 
+Writing for the Court of Appeal, Rowles J.A. agreed with the
+trial judge that it was not a term of Ms. Perez’s employment that the firm
+would provide free legal services on all matters or act as her lawyer
+generally.  Also in apparent agreement with the trial judge, the court doubted
+that the limited solicitor-client relationships that did exist between Ms.
+Perez and the firm provided a basis for finding any breach of the per se
+fiduciary obligations arising from the relationship of solicitor and client. 
+However, the court concluded that Mr. Galambos had breached an ad hoc
+fiduciary duty which arose in all of the circumstances, even though Ms. Perez
+did not specifically submit before the Court of Appeal that there was  a duty
+arising that way.  The court held that there was a “power-dependency”
+relationship between Ms. Perez and Mr. Galambos; it is not necessary for the
+duty to arise that there be any mutual understanding that Mr. Galambos had
+relinquished his self-interest in favour of hers; Ms. Perez was vulnerable; and
+the  evidence “overwhelmingly” supported the conclusion that Mr. Galambos took
+advantage of her trust (paras. 16 and 50-56). The Court of Appeal therefore
+allowed the appeal and granted Ms. Perez judgment for $200,000.  IV.    Analysis  A.     Respondent’s Issues  [13] 
+Ms. Perez submits that the appellants acted throughout as her
+lawyers and that, in doing so, they acted negligently, in breach of contract
+and in breach of a fiduciary duty flowing from that solicitor-client
+relationship.  She also makes brief submissions with respect to her contract of
+employment and her claim in debt against the now-defunct firm.  [14] 
+Except in one aspect, I am not persuaded that these points have
+merit. I will first address the submissions arising from the solicitor-client
+relationship and then turn to the other claims.  1.    Claims Arising From the Solicitor-Client
+Relationship  a.     Negligence  [15] 
+At trial, Ms. Perez submitted that the appellants had a duty of
+care towards her under negligence principles, both within the solicitor-client
+relationship and apart from that relationship. In this Court, her submissions
+about negligence are limited to breaches of duty within the solicitor-client
+relationship.  [16] 
+In June of 2002, a Galambos & Co. lawyer handled the
+preparation and execution of new wills for Ms. Perez and her husband.  The firm
+also handled mortgage transactions in January and September of 2003.  [17] 
+The foundation of Ms. Perez’s negligence submission is that there
+was a general and ongoing solicitor-client relationship between the appellants
+and herself.  She maintains that this relationship existed throughout her
+employment and covered all necessary legal work during that time including, of
+course, the period during which she advanced funds to the firm.  Ms. Perez
+submits that the appellants breached the duty of care which was inherent in
+this solicitor-client relationship, saying that they were negligent by placing
+themselves in a position of conflict of interest with her, failing to advise
+her in connection with the cash advances and failing to require or suggest that
+she seek independent legal advice before making the cash advances to the firm.  [18] 
+In the particular and admittedly unusual facts of this case,
+these submissions cannot be accepted. Given the strong findings of fact by the
+trial judge, the particular nature of the appellants’ retainers and the nature
+of the advances themselves, I see no reviewable error in Rice J.’s rejection of
+these claims.  [19] 
+The trial judge made three especially important factual findings 
+which in my view cannot be disturbed on appeal.  [20] 
+The first is that, contrary to Ms. Perez’s contentions, there was
+no ongoing, general solicitor-client relationship.  While Ms. Perez claimed
+that she had been promised free legal work as a condition of her employment,
+the judge concluded that this was not a term of her employment and that the firm
+had not undertaken to be her lawyer generally or to provide her with any
+specific legal service (para. 27).  This was a finding of fact made by the
+judge after consideration of conflicting evidence and no basis has been made
+out for setting it aside.  It follows that an important factual element of Ms.
+Perez’s claims does not exist.  [21] 
+The judge’s second finding related to the legal work undertaken
+by the firm on Ms. Perez’s behalf.  He found that each retainer was limited to
+the specific services requested and was unrelated to the advances she made to
+the firm.  While the judge did make a factual mistake in his discussion of this
+issue as I shall describe, I see no proper basis to interfere with his
+conclusions about the nature of the retainers.  [22] 
+With respect to the wills, the trial judge noted that Ms. Perez
+herself acknowledged that this legal work had nothing to do with the previous
+or subsequent advances of funds that she made to the firm (para. 29).  [23] 
+With respect to the mortgages, the judge found that these
+retainers were unrelated to the cash advances and were limited to the
+particular services requested.  He put it this way, at paras. 36-37:  On the whole, the evidence indicates that Mrs. Perez retained Galambos
+& Company for three specific legal purposes: to obtain a new will and to
+complete two mortgage transactions. Aside from those, Mrs. Perez’s only
+relationship with the firm was as an employee and a creditor. There was, at the
+time these services were performed, no commitment of the firm to provide Mrs.
+Perez with any legal service in the future. There is no evidence that Mrs.
+Perez consulted anyone in the firm for legal advice on any matter outside the
+confines of the three specific transactions. In particular, there is no
+evidence that she ever asked Mr. Galambos or another lawyer at the firm to
+advise her about the loans or about her financial circumstances generally. On
+the contrary, she made some advances on her own initiative without telling Mr.
+Galambos beforehand.  In the circumstances, I find that each retainer was
+separate, distinct, and limited to the specific services Mrs. Perez requested.
+[Emphasis added.]  [24] 
+The judge’s third finding was that Ms. Perez did not ask for or
+receive advice about the advances, that she did not rely on anything Mr.
+Galambos told her when she decided to make the advances and that, even if she
+had so relied, that reliance would have been unreasonable in the particular
+circumstances of the case (paras. 47-53).  [25] 
+In light of these findings, Ms. Perez’s submissions about
+negligence cannot succeed.  The solicitor-client relationship between Ms. Perez
+and the appellants was very limited and there is no plausible suggestion that
+the firm’s preparation of the wills and the mortgages breached the standard of
+care owed to her.  As the trial judge put it,  “Mrs. Perez has no complaint
+relating to any of the legal services or advice that the firm provided. Those
+transactions did not leave her disadvantaged in any way” (para. 40).  [26] 
+Was there a breach of any duty owed in relation to the cash
+advances? Ms. Perez argues that it is illogical to say that the subject matters
+of the legal services were distinct from the loans because drawing up a will
+involves knowing the state of a client’s assets and liabilities and that “the
+relation of the two mortgage transactions to the loans is obvious” (Factum, at
+para. 66). She submits that the proceeds were used to provide the advances. 
+However, the trial judge found as a fact that the mortgages had nothing to do
+with her advances to the firm and rejected as inconclusive the only piece of
+evidence which could have supported the theory that Mr. Galambos helped her
+obtain one of the loans by attesting to her employment status (paras. 29 and
+56-61). Ms. Perez has pointed to no proper basis for appellate interference
+with these findings.  [27] 
+That said, Ms. Perez correctly submits that the judge was wrong
+to find that there was no solicitor-client relationship between her and the
+firm at the time of any of her cash advances. The record discloses that Ms.
+Perez did make some advances to the firm while there were open files for some
+of the matters in which the firm acted for her. During these periods, Ms. Perez
+advanced Galambos & Co.  amounts which are difficult to calculate precisely
+from the record, but which were at least in the tens of thousands of dollars. 
+The judge erred, therefore, in saying, at para. 37, that she was not a client
+at any of the times when she made loans to the firm. However, this factual
+mistake does not in my view invalidate the judge’s critical finding that the
+retainers were distinct, limited and had no bearing on these advances.  [28] 
+I would not wish to be thought as saying that the firm complied
+with all of the applicable rules of professional conduct.  The fact that these
+advances were made outside the confines of this particular solicitor-client
+relationship does not circumvent the nearly absolute professional standard not
+to borrow from  clients. As provided in rule 4 of Chapter 7 of the Law Society
+of British Columbia Professional Conduct Handbook (1993): “Unless the
+transaction is of a routine nature to and in the ordinary course of business of
+the client, a lawyer must not borrow money or obtain credit from a client of
+the lawyer’s firm, or obtain a benefit from any security or guarantee given by
+such a client.”  [29] 
+However, two points must be made with respect to this rule of
+conduct. The first is that there is an important distinction between the rules
+of professional conduct and the law of negligence.  Breach of one does not
+necessarily involve breach of the other. Conduct may be negligent but not
+breach rules of professional conduct, and breaching the rules of professional
+conduct is not necessarily negligence. Codes of professional conduct, while
+they are important statements of public policy with respect to the conduct of
+lawyers, are designed to serve as a guide to lawyers and are typically enforced
+in disciplinary proceedings.  They are of importance in determining the nature
+and extent of duties flowing from a professional relationship: Hodgkinson v.
+Simms, [1994] 3 S.C.R. 377, at p. 425.  They are not, however, binding on
+the courts and do not necessarily describe the applicable duty or standard of
+care in negligence: see, e.g., MacDonald Estate v. Martin, [1990] 3
+S.C.R. 1235, at pp. 1244-45; Meadwell Enterprises Ltd. v. Clay and Co. (1983),
+44 B.C.L.R. 188 (S.C.); S. M. Grant and L. R. Rothstein, Lawyers’
+Professional Liability (2nd ed. 1998), at pp. 8-10.  [30] 
+The second point relates to the concerns underlying the rules of
+conduct in relation to borrowing from clients. The rule is a specific
+application of the general rules about conflict of interest. There is concern
+that a lawyer’s legal skill and training, coupled with the relationship of
+trust that arises between a solicitor and a client, creates the possibility of
+overreaching by the lawyer. A further concern is that the lawyer is in a
+position to arrange the form of the transaction and may therefore further his
+or her own interests instead of those of the client: see Restatement (Third)
+of the Law Governing Lawyers _
+126 cmt. b (2000).  However, given the trial judge’s factual findings in this
+unusual case, the concerns giving rise to the rule are not in play here.  [31] 
+A situation of conflict of interest occurs when there is a
+“substantial risk that the lawyer’s representation of the client would be
+materially and adversely affected by the lawyer’s own interests or by the
+lawyer’s duties to another current client, a former client, or a third person”:
+Restatement (Third) of the Law Governing Lawyers § 121, cited with
+approval in R. v. Neil, 2002 SCC 70, [2002] 3 S.C.R. 631, at para. 31.
+On this point, Rice J. effectively found that there was no risk that the firm’s
+representation of Ms. Perez  in connection with the wills or mortgages could be
+affected by the firm’s interest in receiving the cash advances from her. 
+Similarly, the trial judge found no reliance and therefore certainly no
+overreaching and no effort on the part of the lawyers to structure the advances
+to their advantage.  As the trial judge found, at para. 62: “. . . although it
+is truly strange, [Ms. Perez] appears to have extended the loans voluntarily
+and much on her own initiative.”  He concluded that there was “no evidence of
+undue influence, or unconscionability” (para. 63).  [32] 
+I cannot fault the judge for reaching this conclusion on the
+admittedly unusual facts which confronted him. These were routine legal
+services, wholly unrelated, as the judge found, to the advances and they were
+provided without fee to an employee.  The cash advances were unusual and far
+removed from the sorts of loans from clients envisaged by the professional
+conduct rule.  The advances were not requested by the firm or Mr. Galambos, 
+they were sometimes made without Ms. Perez advising the firm that they had
+been.  Ms. Perez, the bookkeeper and employee of the firm, did not obey her
+employer’s instructions to repay the advances even when the firm’s finances
+would have permitted it and she did not provide an accounting to the firm of
+what it owed to her. This situation is as about as far removed as one can
+imagine from the typical case of a lawyer improperly borrowing money from a
+client. In short, there was no conflict between the firm’s duties to her in
+connection with the wills and mortgages and the advances, and the firm did not
+in any way trade upon its position as her lawyer to obtain them.  [33] 
+I conclude that, given the limited nature of the retainers and
+the unusual nature of the advances, the trial judge did not err in finding that
+the appellants did not breach their duty of care arising from the
+solicitor-client relationship between them and Ms. Perez.  There was no actual
+conflict of interest between the firm’s duties to her in connection with the
+limited retainers and its interest in receiving the advances.  Similarly, there
+could not be in these unusual facts any reasonable apprehension of conflict. 
+Given the very limited nature of those retainers and the manner in which the
+advances were made — unsolicited and frequently without advance notice — there
+was no duty on the firm under negligence principles to give Ms. Perez advice
+about those advances or to insist that she obtain independent legal advice
+about them.  b.    Contract for Legal Services  [34] 
+The claim that the solicitor-client contract was breached is
+essentially a differently labelled repetition of the claim in negligence, and
+this contractual claim falls with it.  c.     Per se Fiduciary Duty  [35] 
+Ms. Perez submits that the appellants breached the fiduciary
+obligations owed by lawyers to clients.  In my view, this contention fails for
+much the same reason as Ms. Perez’s claims in negligence.  [36] 
+Certain categories of relationships are considered to give rise
+to fiduciary obligations because of their inherent purpose or their presumed
+factual or legal incidents: Lac Minerals Ltd. v. International Corona
+Resources Ltd., [1989] 2 S.C.R. 574, per La Forest J., at p. 646. 
+These categories are sometimes called per se fiduciary relationships.  There
+is no doubt that the solicitor-client relationship is an example.  It is
+important to remember, however, that not every legal claim arising out of a per
+se fiduciary relationship, such as that between a solicitor and client,
+will give rise to a claim for a breach of fiduciary duty.  [37] 
+A claim for breach of fiduciary duty may only be founded on
+breaches of the specific obligations imposed because the relationship is one
+characterized as fiduciary: Lac Minerals, at p. 647. This point is
+important here because not all lawyers’ duties towards their clients are
+fiduciary in nature.  Sopinka and McLachlin JJ. (as the latter then was)
+underlined this in dissent (but not on this point) in Hodgkinson, at pp.
+463-64, noting that while the solicitor-client relationship has fiduciary
+aspects, many of the tasks undertaken in the course of the solicitor-client
+relationship do not attract a fiduciary obligation. Binnie J. made the same
+point in Strother v. 3464920 Canada Inc., 2007 SCC 24, [2007] 2 S.C.R.
+177, at para. 34: “Not every breach of the contract of retainer is a breach of
+a fiduciary duty.”  The point was also put nicely by Rupert M. Jackson and John
+L. Powell, Jackson & Powell on Professional Liability (6th ed.
+2007), at para. 2-130, when they said that any breach of any duty by a
+fiduciary is not necessarily a breach of fiduciary duty.  [38] 
+The launching pad for Ms. Perez’s submissions based on the
+solicitor-client relationship is that there was a general solicitor-client
+relationship between her and the firm for all necessary legal work during the
+time that she advanced funds to the firm.  As noted earlier, the judge made a
+finding against her on this point: he found, on conflicting evidence, that it
+was not a term of Ms. Perez’s employment that the firm would provide her with
+all necessary legal services and that the cash advances were not within the
+terms of any of the specific and limited retainers which the firm undertook on
+her behalf.  The Court of Appeal agreed.  It concluded that whatever fiduciary
+obligations arose from the limited solicitor-client relationship, they did not
+extend to the cash advances.  As the Court of Appeal put it:   [39] 
+I am not persuaded that there is any basis to interfere with the
+trial judge’s conclusion, endorsed by the Court of Appeal, that the retainers
+were unrelated to the cash advances and that no obligation arose on the part of
+Mr. Galambos and his firm to act solely in Ms. Perez’s interest in relation to
+the advances. I conclude that the judge did not err in finding that there had
+been no breach of the per se fiduciary obligations that arose from the
+solicitor-client relationship.  d.    Conclusion on Solicitor-Client Issues  [40] 
+In my view, the trial judge did not err by dismissing Ms. Perez’s
+claims in negligence, contract and breach of fiduciary duty arising from the
+solicitor-client relationship between her and the firm.  2.    Other Contractual Claims  [41] 
+Two paragraphs of Ms. Perez’s factum are devoted to two other
+contractual claims: the first relating to an alleged breach of employment
+contract and the second to an alleged breach of a “covenant to repay” the
+advances.  I will address each in turn.  a.     Employment Contract  [42] 
+While Ms. Perez’s submissions on this point are not easy to
+follow, the point appears to be that the firm breached an implied obligation
+under Ms. Perez’s employment contract not to undermine the trust and confidence
+of the employment relationship.  The question of whether there was an
+obligation of trust and confidence arising in the particular circumstances of
+the parties’ relationship will be addressed in the next section of my reasons. 
+I do not discern in Ms. Perez’s submissions any other independent alleged
+breach of the employment contract.  b.    Covenant to Repay  [43] 
+Ms. Perez submits that she is entitled to, but did not receive, a
+judgment in debt against the appellant law corporation.  While Mr. Galambos is
+personally shielded from any action in debt under the Bankruptcy and
+Insolvency Act , she submits that a judgment in debt should issue against
+the firm, which, so far as may be ascertained from the record in this Court,
+has not obtained the same protection.  [44] 
+The fact of the debt is not disputed and it appears that the
+Amended Statement of Claim includes language which may be broad enough to
+include this claim (Appellants’ Record, p. 80, at para. 12). While the law
+corporation, we are told, is defunct and without assets, Ms. Perez’s counsel
+mentioned during oral argument that a judgment against the firm might have some
+impact on the question of costs.  [45] 
+This issue is mentioned in neither of the judgments below; the
+trial judge’s order dismissed all claims and awarded scale 3 costs to April 24,
+2006 and double scale 3 costs thereafter, and the Court of Appeal set aside
+this order, gave Ms. Perez judgment for $200,000, prejudgment interest and
+costs of the trial and the appeal.  It was, therefore, not necessary for it to
+consider the debt claim or the trial judge’s costs award.   3.    Summary of Conclusions With Respect to the
+Respondent’s Issues  [47] 
+I conclude that Ms. Perez’s claims fail with respect to alleged
+breaches within the solicitor-client relationship and her contract of employment. 
+Subject to any agreement among the parties, I would remand to the Court of
+Appeal the questions of whether she ought to have judgment in debt against the
+Michael Z. Galambos Law Corporation and, if so, whether that judgment has any
+impact on the disposition of costs in the courts below.  B.      Appellants’ Issues  [48] 
+The appellants’ issues address the holding of the Court of
+Appeal. As noted, it held, reversing the trial judge, that the particular
+circumstances of the relationship between Ms. Perez and Mr. Galambos and his
+firm gave rise to what may be called an ad hoc fiduciary duty. This
+means that apart from the categories of relationships to which fiduciary
+obligations are innate, such obligations may arise as a matter of fact out of the
+specific circumstances of a particular relationship: see, e.g., Lac Minerals,
+at p. 648; Hodgkinson, at p. 409.  The existence of the fiduciary
+obligation is thus primarily a question of fact to be determined by examining
+the specific facts and circumstances: Lac Minerals, at p. 648.  [49] 
+This is an important point in relation to the standard of
+appellate review.  Absent an error of law or a palpable and overriding error of
+fact, the trial judge’s conclusion that a fiduciary duty did not exist must be
+upheld on appeal: Shafron v. KRG Insurance Brokers (Western) Inc., 2009
+SCC 6, [2009] 1 S.C.R. 157, at para. 13; Hodgkinson, at pp. 425-26. As
+La Forest J. put it in Hodgkinson, at p. 426, this principle of
+non-intervention on appeal “is not merely cautionary; it is a rule of  law. 
+Failing a manifest error, an appellate court simply has no jurisdiction to
+interfere with the findings and conclusions of fact of a trial judge.”  [50] 
+The core of the Court of Appeal’s reasoning consists of three
+points, two of which are expressly set out and the third of which is implied. 
+The explicit points are, first, that a “power-dependency” relationship existed
+between Ms. Perez and Mr. Galambos and second, that in such relationships,
+fiduciary duties may arise simply on the basis of the reasonable expectations
+of the weaker party and without any mutual understanding of both parties that
+one must act in the interests of the other.  The third point arises by
+implication because the court appears to have accepted the proposition, without
+expressly stating it, that a fiduciary duty may arise even though the fiduciary
+has no discretionary power to affect the other party’s legal or important
+practical interests.  [51] 
+The appellants challenge each of these points.  For reasons which
+I will develop, I agree that the Court of Appeal erred in these three respects.  1.    Was There a Power-Dependency Relationship?  [52] 
+The Court of Appeal found that the parties’ relationship in this
+case was similar in nature to the “power-dependency” relationship found in Norberg
+v. Wynrib, [1992] 2 S.C.R. 226.  By the term “power-dependency”
+relationship, I understand the Court of Appeal to have meant that Mr. Galambos
+had gained a position of overriding power or influence over Ms. Perez: see Hodgkinson,
+at p. 411; Mustaji v. Tjin (1995), 24 C.C.L.T. (2d) 191 (B.C.S.C.),
+aff’d (1996), 25 B.C.L.R. (3d) 220 (C.A.). As the Court of Appeal put it, at
+para. 50: “As [Ms. Perez’s] employer, [Mr. Galambos] was in a position of power
+and influence relative to [Ms. Perez].  It is clear from the circumstances that
+[Ms. Perez] looked up to Mr. Galambos and expected that he would look out for
+her best interests as a result of the nature of their relationship.”  [53] 
+This conclusion is directly at odds with the clear findings of
+fact at trial. In effect, the Court of Appeal retried the case on the basis of
+the written record and substituted its view of the facts and their significance
+for that of the trial judge.  This, respectfully, was not the court’s function
+on appeal and it erred in law by doing so.  [54] 
+The trial judge found that Ms. Perez was not vulnerable in terms
+of her relationship with Mr. Galambos, that she had not relinquished her
+decision-making power with respect to the loans to Mr. Galambos and that he had
+no discretion over her interests that he was able to exercise unilaterally or
+otherwise (paras. 45-46). He found (at paras. 45-46, 54 and 63) that:  -      Ms. Perez was well educated and well
+experienced in dealing with successful, busy lawyers;  -      she was as knowledgeable and probably more
+knowledgeable than Mr. Galambos about most aspects of the firm’s financial
+affairs;  -      she was not, as a result of their relative
+position or her respect for Mr. Galambos, vulnerable to him;  -      the evidence did not establish that Ms. Perez
+relinquished her decision-making power with respect to the loans to Mr.
+Galambos;  -      Mr. Galambos had no discretion over her
+interests that he was able to exercise unilaterally or otherwise;  -      aside from the limited retainers for routine
+legal services, their relationship was one of friendship between employer and
+employee which gave rise to a creditor-debtor relationship;  -      there was never any suggestion that Ms.
+Perez’s employment evaluations or prospects would be affected in any way by the
+loans or by any refusal to make them; -      there was no evidence that Mr. Galambos made
+any efforts to impose his will on Ms. Perez or to convince her to act against
+her wishes, to appeal to her sympathy or to cultivate hero-worship or
+subservience on her part.  [55] 
+The trial judge specifically rejected Ms. Perez’s contention that
+due to the power dynamics of their relationship she was simply unable to refuse
+requests for loans.  There was no evidence accepted by the trial judge of any
+express requests for loans, which makes it illogical to conclude that Ms. Perez
+was unable to refuse requests when there were in fact none.  Moreover, the
+trial judge was not persuaded on the balance of probabilities that Mr.
+Galambos’s instructions to “do something” when advised of cash flow problems
+were, or could reasonably have been understood by Ms. Perez as pressure on her to
+loan her personal funds, a course she frequently took without any solicitation
+or, in some instances, any knowledge on Mr. Galambos’s part (para. 54).  [56] 
+The trial judge’s findings do not support the existence of the
+parallel that the Court of Appeal found between this case and power-dependency
+cases such as Norberg and Mustaji. Norberg involved an
+aging physician extorting sex for drugs from a young woman addicted to
+prescription drugs.  Mustaji involved a claim by a nanny brought to
+Canada under the Foreign Domestic Movement Program.  There were findings of
+fact that the defendants had taken over her affairs concerning her immigration
+and employment in Canada, that they had the opportunity to exercise power or
+discretion over her, were capable of using that power or discretion without her
+knowledge or consent so as to affect her legal and practical interests and that
+she was especially vulnerable to that exercise of discretion and control: see
+reasons of Vickers J., at para. 27, and reasons of the Court of Appeal, at
+para. 12.  The trial judge in the present case found nothing of this sort.  [57] 
+The trial judge addressed Ms. Perez’s argument that she advanced
+funds relying on and trusting Mr. Galambos’s assurances that the firm’s
+finances would turn around and that there were some major files coming to him. 
+As noted earlier, the trial judge found as facts that she did not rely on these
+alleged statements, that she knew that the financial circumstances of the firm
+were not improving, that the influx of new legal work was speculative and that
+the potential for large amounts of contingency fees was exaggerated.  As the
+judge put it, “both Mr. Galambos and [Ms.] Perez shared a hope for better times
+to come and blinded themselves to the true situation” (para. 53).  Moreover,
+the judge also found that even if Ms. Perez had in fact relied on Mr.
+Galambos’s general statements to the effect that things would turn around, her
+reliance was not reasonable.  As the judge put it, “[a] reasonable person in
+[Ms. Perez’s] position would not have relied on [these statements], given
+especially her personal knowledge of the state of Mr. Galambos’s financial
+affairs.  She probably had more knowledge than he” (para. 52).  [58] 
+The Court of Appeal, however, found that the judge’s finding of
+fact that Ms. Perez was not vulnerable to Mr. Galambos was unreasonable. The
+court based its reversal of the trial judge on this point on the facts that Mr.
+Galambos had superior legal knowledge and experience, that he understood when
+professional advice was needed with respect to his financial affairs, that Ms.
+Perez looked up to and trusted him, that there was a power imbalance in their
+relationship and that Ms. Perez’s conduct could not be explained on the basis
+of simple friendship (paras. 50 and 64-65).  [59] 
+Respectfully, the reasons of the Court of Appeal disclose no
+basis for appellate intervention. The most that may be said is that  the
+considerations identified by the Court of Appeal could plausibly sustain more
+than one conclusion about Ms. Perez’s vulnerability.  The Court of Appeal
+identified no finding of fact relevant to the judge’s conclusion on this point
+that was both clearly wrong and determinative of the result. Rather, the Court
+of Appeal simply drew different inferences from the evidence than the ones
+drawn by the trial judge.  This was not a proper basis for appellate reversal
+of his findings.  The Court of Appeal ought not to have interfered with the
+judge’s finding that Ms. Perez was not vulnerable to Mr. Galambos.  [60] 
+The Court of Appeal also found that the judge erred by concluding
+that any reliance by Ms. Perez on Mr. Galambos’s statements that things would
+turn around was unreasonable.  The court reasoned that Mr. Galambos was in the
+best position to assess the prospects of the firm and that Ms. Perez had no
+means of knowing whether the flow of work from the Department of Justice would
+again increase.  On this basis, the court found the judge’s conclusion to be
+“plainly wrong” (para. 61) and this error was part of the justification for
+appellate intervention. However, there are two difficulties with the Court of
+Appeal’s approach to this issue.  [61] 
+First, the trial judge found as a fact that Ms. Perez did not
+rely on these statements (para. 53) and the Court of Appeal did not directly
+take issue with this finding. This makes hypothetical and irrelevant the
+question of whether such reliance, had it occurred, would have been reasonable;
+any error by the judge on this hypothetical question provides no basis for
+interfering with his decision.  Second, even if an error on this point were
+pertinent to the result, the reasons of the Court of Appeal disclose no clear
+and determinative error in the judge’s holding to the effect that any reliance
+would have been unreasonable.  Once again, the Court of Appeal in my respectful
+view substituted its reading of the record for the trial judge’s findings. 
+This was not its role.  [62] 
+In summary, the trial judge’s findings of fact should not have
+been disturbed on appeal and those findings do not support the Court of
+Appeal’s conclusion that there was a “power-dependency” relationship between
+Ms. Perez and Mr. Galambos.  2.    Mutual Understanding or Undertaking by the
+Fiduciary  [63] 
+The Court of Appeal held that, in the case of a
+“power-dependency” relationship, a fiduciary duty may arise even in the absence
+of a mutual understanding that one party would act only in the interests of the
+other.  Respectfully, I do not agree.  [64] 
+Relying on Hodgkinson, the trial judge held that in order
+to find an ad hoc fiduciary duty, there must be a mutual understanding
+between the fiduciary and the beneficiary that the fiduciary party has
+relinquished his or her own self-interest and agreed to act solely on behalf of
+the beneficiary (para. 43). The judge concluded that there was no such mutual
+understanding here (para. 46).  The Court of Appeal, on the other hand, held
+that as the relationship between Mr. Galambos and Ms. Perez was one of
+“power-dependency”, there need not be a mutual understanding that one party has
+relinquished his or her own self-interest and undertaken to act in the
+interests of the other (para. 43).  According to the Court of Appeal, what is
+required in the case of power-dependency relationships is proof of an
+expectation on the part of the plaintiff, which is reasonable in all of the
+circumstances, that the defendant would act in his or her best interests (para.
+43).  It found Ms. Perez to have such a reasonable expectation (paras. 60-65).  [65] 
+The appellants challenge this conclusion, submitting that one
+party’s reasonable expectation is not sufficient and that there must be a
+mutual understanding that the fiduciary has undertaken to act only in the
+interests of the other party. Ms. Perez seeks to uphold the Court of Appeal’s
+decision, arguing that equity is inherently flexible and that a reasonable
+expectation is enough in a power-dependency relationship.  [66] 
+In my view, while a mutual understanding may not always be
+necessary (a point we need not decide here), it is fundamental to ad hoc fiduciary
+duties that there be an undertaking by the fiduciary, which may be either
+express or implied, that the fiduciary will act in the best interests of the
+other party. In other words, while it may not be necessary for the beneficiary
+in all cases to consent to this undertaking, it is clearly settled that the
+undertaking itself is fundamental to the existence of an ad hoc
+fiduciary relationship. To explain why I have reached this conclusion, I need
+to go back to some basic principles of fiduciary law.  a.     Some Basic Principles  [67] 
+An important focus of fiduciary law is the protection of one
+party against abuse of power by another in certain types of relationships or in
+particular circumstances.  However, to assert that the protection of the vulnerable
+is the role of fiduciary law puts the matter too broadly.  The law seeks to
+protect the vulnerable in many contexts and through many different doctrines.
+As La Forest J. noted in Hodgkinson, at p. 406: “[W]hereas undue
+influence focuses on the sufficiency of consent and unconscionability looks at
+the reasonableness of a given transaction, the fiduciary principle monitors
+the abuse of a loyalty reposed” (emphasis added).  This brief sentence
+makes two important points which help sharpen the focus on the role of
+fiduciary law.  [68] 
+The first is that fiduciary law is more concerned with the
+position of the parties that results from the relationship which gives
+rise to the fiduciary duty than with the respective positions of the parties before
+they enter into the relationship.  La Forest J. in Hodgkinson, at p.
+406, made this clear by approving these words of Professor Ernest J. Weinrib:
+“It cannot be the sine qua non of a fiduciary obligation that the
+parties have disparate bargaining strength. . . . In contrast to notions of
+conscionability, the fiduciary relation looks to the relative position of the
+parties that results from the agreement rather than the relative position that
+precedes the agreement” (“The Fiduciary Obligation” (1975), 25 U.T.L.J. 1,
+at p. 6).  Thus, while vulnerability in the broad sense resulting from factors
+external to the relationship is a relevant consideration, a more important one
+is the extent to which vulnerability arises from the relationship: Hodgkinson,
+at p. 406.  [69] 
+The second is that a critical aspect of a fiduciary relationship
+is an undertaking of loyalty: the fiduciary undertakes to act in the interests
+of the other party.  This was put succinctly by McLachlin J. in Norberg,
+at p. 273, when she said that “fiduciary relationships ... are always dependent
+on the fiduciary’s undertaking to act in the beneficiary’s interests”.  See
+also Hodgkinson, per La Forest J., at pp. 404-7.  [70] 
+Underpinning all of this is the focus of fiduciary law on
+relationships.  As Dickson J. (as he then was) put it in Guerin v. The Queen,
+[1984] 2 S.C.R. 335, at p. 384: “It is the nature of the relationship . . .
+that gives rise to the fiduciary duty. . . .”  The underlying purpose of
+fiduciary law may be seen as protecting and reinforcing “the integrity of
+social institutions and enterprises”, recognizing that “not all relationships
+are characterized by a dynamic of mutual autonomy, and that the marketplace
+cannot always set the rules”: Hodgkinson, at p. 422 (per La
+Forest J.).  The particular relationships on which fiduciary law focusses are
+those in which one party is given a discretionary power to affect the legal or
+vital practical interests of the other: see, e.g., Frame v. Smith,
+[1987] 2 S.C.R. 99, per Wilson J., at pp. 136-37; Norberg, per
+McLachlin J., at p. 272; Weinrib, at p. 4, quoted with approval in Guerin,
+at p. 384.  [71] 
+I return to the Court of Appeal’s holding that a fiduciary duty
+may arise in “power-dependency” relationships without any express or implied
+undertaking by the fiduciary to act in the best interests of the other party. 
+I respectfully disagree with this approach, for two reasons: “power-dependency”
+relationships are not a special category of fiduciary relationships and the law
+is, in my view, clear that fiduciary duties will only be imposed on those who
+have expressly or impliedly undertaken them.  b.    Power-Dependency Relationships as a Special
+Category  [72] 
+As noted by the Court of Appeal, La Forest J. used the term
+“power-dependency” relationships in Norberg and in Hodgkinson. 
+In the latter case he wrote, at p. 411:   [73] 
+It is clear from these comments that La Forest J. was describing
+certain relationships which may also be fiduciary, but was not creating a
+separate category of ad hoc fiduciary relationships.  In other words,
+this concept borrowed from academic writing may be useful to describe certain
+relationships, but it has not been and should not be used as a tool for
+categorization. Fiduciary relationships, he explained, are “simply a species of
+a broader family of relationships that may be termed ‘power-dependency’
+relationships” (p. 411).  The law’s approach to the situation of vulnerable
+people “gives rise to a variety of often overlapping duties” and “the precise
+legal or equitable duties the law will enforce in any given relationship are
+tailored to the legal and practical incidents of a particular relationship”
+(pp. 412-13).  [74] 
+In short, not all power-dependency relationships are fiduciary in
+nature, and identifying a power-dependency relationship does not, on its own,
+materially assist in deciding whether the relationship is fiduciary or not. It
+follows, in my view, that there are not and should not be special rules for
+recognition of fiduciary duties in the case of “power-dependency”
+relationships.  I am therefore of the view that the Court of Appeal erred in
+this respect.  c.     Mutual Understanding and Undertaking by the
+Fiduciary  [75] 
+The appellants fault the Court of Appeal for holding that
+fiduciary duties may arise only on the basis of the reasonable expectations of
+one party.  The appellants say that there must be a mutual understanding that
+the fiduciary will act only in the interests of the other party.  While I agree
+with the appellants that the Court of Appeal erred by basing a fiduciary
+obligation on Ms. Perez’s reasonable expectation, it is not necessary in order
+to resolve this appeal to go so far as to say that a mutual understanding is
+necessary in all cases. It is sufficient to say here that what is required in
+all cases is an undertaking by the fiduciary, express or implied, to act in
+accordance with the duty of loyalty reposed on him or her.  [76] 
+I note that in Hodgkinson, this Court considered competing
+bases for the imposition of ad hoc fiduciary duties, opposing to a
+certain extent mutual understanding and reasonable expectations of the alleged
+beneficiary. While the seven judges sitting on the case were not fully
+unanimous in this respect, they all agreed that ad hoc fiduciary
+obligations may be imposed when there is a mutual understanding to this effect,
+and, following the example of Dickson J. in Guerin, at p. 384, left the
+door open to such an obligation arising from a unilateral undertaking by the
+fiduciary (see on this point Professor Lionel Smith’s insightful comment on  Hodgkinson,
+“Fiduciary Relationships — Arising in Commercial Contexts — Investment
+Advisors: Hodgkinson v. Simms” (1995), 74 Can. Bar Rev. 714). 
+Thus, what is required in all cases of ad hoc fiduciary obligations is
+that there be an undertaking on the part of the fiduciary to exercise a
+discretionary power in the interests of that other party.  To repeat what was
+said by McLachlin J. in Norberg, “fiduciary relationships . . . are
+always dependent on the fiduciary’s undertaking to act in the beneficiary’s
+interests” (p. 273).  As Dickson J. put it in Guerin, fiduciary duties
+may arise where “by statute, agreement, or perhaps by unilateral undertaking,
+one party has an obligation to act for the benefit of another” (p. 384).  [77] 
+The fiduciary’s undertaking may be the result of the exercise of
+statutory powers, the express or implied terms of an agreement or, perhaps,
+simply an undertaking to act in this way.  In cases of per se fiduciary
+relationships, this undertaking will be found in the nature of the category of
+relationship in issue.  The critical point is that in both per se and ad
+hoc fiduciary relationships, there will be some undertaking on the part of
+the fiduciary to act with loyalty.  [78] 
+Commentators support this view.  In his seminal work, Fiduciary
+Obligations (1977), Professor P. D. Finn writes at para. 15:  For a person to be a fiduciary he must first and
+foremost have bound himself in some way to protect and/or to advance
+the interests of another. This is perhaps the most obvious of the
+characteristics of the fiduciary office for Equity will only oblige a person to
+act in what he believes to be another’s interests if he himself has assumed a
+position which requires him to act for or on behalf of that other in some
+particular matter. [Emphasis added.]  To the same
+effect, Professor Smith writes in his comment on Hodgkinson, at p. 717
+(echoing Dickson J.’s comments in Guerin, at p. 384, and Austin W.
+Scott, “The Fiduciary Principle” (1949), 37  Cal. L. Rev. 539, at p.
+540):  The fiduciary must relinquish self-interest; that is an act which
+the fiduciary does, not an act which is done to the fiduciary. This was put
+slightly differently by Austin Scott, who said that “a fiduciary is a person
+who undertakes to act in the interest of another person.” [Emphasis in
+original.]  [79] 
+This does not mean, however, that an express undertaking is
+required.  Rather, the fiduciary’s undertaking may be implied in the particular
+circumstances of the parties’ relationship. Relevant to the enquiry of whether
+there is such an implied undertaking are considerations such as professional
+norms, industry or other common practices and whether the alleged fiduciary
+induced the other party into relying on the fiduciary’s loyalty.  [80] 
+In my respectful view, the Court of Appeal’s analysis went wrong
+on this point.  It found a fiduciary duty without finding an undertaking,
+express or implied, on the part of Mr. Galambos that he would act in relation
+to the loans only in Ms. Perez’s interests. The court’s reasoning is premised
+on the fact that there was no such undertaking; otherwise, there would have
+been no need to base the conclusion that a fiduciary duty existed on Ms.
+Perez’s expectations alone.  [81] 
+It is clear from the evidence that there was no explicit
+undertaking that Mr. Galambos was to act in Ms. Perez’s best interest in
+relation to the cash advances; she does not even allege as much. Moreover, it
+would be inconsistent with the judge’s findings to conclude that any such
+undertaking should be implied on the facts of this case. The trial judge found
+that Mr. Galambos never explicitly requested a loan and that his requests that
+Ms. Perez “do something” to solve the cashflow problem referred to contacting
+the bank to extend the firm’s line of credit, which had been done several times
+in the past (paras. 54-55).  Having never requested the advances, it is
+difficult to see how there was any implied undertaking to act only in Ms.
+Perez’s interests with respect to them. The judge also found that if Ms. Perez
+formed any expectation that Mr. Galambos was to act as her fiduciary, it was
+unreasonable. Rice J. found that if there was a disparity in knowledge of the
+firm’s finances, it was Ms. Perez who was more knowledgeable (para. 52). In
+such circumstances, any reasonable person would have understood that he or she
+assumed the position of a precarious unsecured creditor, not that of a
+protected beneficiary.  [82] 
+In summary, my view is that the Court of Appeal erred in holding
+that in the case of power-dependency relationships, a fiduciary duty may arise
+absent some undertaking on the part of the fiduciary to act in the interests of
+the other party.  The Court of Appeal did not suggest that there was any such
+undertaking here and in any event, it would be inconsistent with the judge’s
+factual findings to conclude that any such undertaking should be implied.  3.    Transfer of Discretionary Power  [83] 
+It is fundamental to the existence of any fiduciary obligation
+that the fiduciary has a discretionary power to affect the other party’s legal
+or practical interests. In Guerin, Dickson J. spoke of this
+discretionary power as “the hallmark of any fiduciary relationship” (p. 387)
+and, while making no comment on whether it was broad enough to embrace all
+fiduciary obligations, he endorsed Professor Weinrib’s description of a
+fiduciary relationship as one in which “the principal’s interests can be
+affected by, and are therefore dependent on, the manner in which the fiduciary
+uses the discretion which has been delegated to him” (p. 384).  The influential
+guidelines set out by Wilson J. in Frame, at p. 136, for identifying new
+categories of fiduciary relationships included that the fiduciary have scope
+for the exercise of some discretion or power, the exercise of which affects the
+beneficiary’s legal or practical interests.  In Norberg, McLachlin J.
+noted that a fiduciary must be entrusted with such power in order to perform
+his or her functions (p. 275).  [84] 
+The nature of this discretionary power to affect the
+beneficiary’s legal or practical interests may, depending on the circumstances,
+be quite broadly defined.  It may arise from power conferred by statute,
+agreement, perhaps from a unilateral undertaking or, in particular situations
+such as the professional advisory relationship addressed in Hodgkinson, 
+by the beneficiary entrusting the fiduciary with information or seeking advice
+in circumstances that confer a source of power: see, e.g., Lac Minerals and
+Hodgkinson.  While what is sufficient to constitute power in the hands
+of the fiduciary may be controversial in some cases, the requirement for the
+existence of such power in the fiduciary’s hands is not.  The presence of this
+sort of power will not necessarily on its own support the existence of an ad
+hoc fiduciary duty; its absence, however, negates the existence of such a
+duty.  [85] 
+As noted, the trial judge held that the evidence did not
+establish that Ms. Perez relinquished her decision-making power with respect to
+the loans to Mr. Galambos or that there was any discretion over her interests
+that he was able to exercise unilaterally or otherwise (para. 46).  The Court
+of Appeal did not disagree with these conclusions and no basis for doing so has
+been suggested.  [86] 
+In my respectful view, the finding of the trial judge that Mr.
+Galambos had no discretionary power over Ms. Perez’s interests that he was able
+to exercise unilaterally or otherwise is fatal to her claim that there was an ad
+hoc fiduciary duty on Mr. Galambos’s part to act solely in her interests in
+relation to these cash advances.  4.    Conclusion With Respect to Appellants’
+Issues  [87] 
+I conclude that the Court of Appeal erred in finding that Mr.
+Galambos and his firm had an ad hoc fiduciary obligation towards Ms.
+Perez with respect to the cash advances.  V.     Disposition  [88] 
+I would allow the appeal and restore the trial judgment, except
+that, if the parties are not able to agree about whether Ms. Perez is entitled
+to a judgment in debt against the law corporation and the costs consequences if
+any flowing from it,  I would remand to the Court of Appeal the question of
+whether Ms. Perez is entitled to a judgment in debt against the Michael Z.
+Galambos Law Corporation and, if so, whether that judgment should have any
+impact on the question of costs in the courts below.  Subject to any adjustment
+resulting from an agreement between the parties or from the remand, the
+appellants are entitled to their costs throughout if demanded.  Appeal allowed with costs.  Solicitors for the appellants:  Farris, Vaughan, Wills &
+Murphy, Vancouver.  Solicitors for the respondent:  Holmes & King,
+Vancouver.   

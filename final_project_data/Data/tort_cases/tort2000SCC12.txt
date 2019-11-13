@@ -1,0 +1,1144 @@
+Ingles v. Tutkaluk Construction Ltd., [2000] 1 S.C.R. 298  James Ingles                                                                                     Appellant  v.  The Corporation of the City of Toronto                                           Respondent  Indexed as:  Ingles v. Tutkaluk Construction Ltd.  Neutral citation:  2000 SCC 12.  File No.:  26634.  1999:  October 8; 2000:  March 2.   on appeal from the court of appeal for ontario  Negligence -- Duty of care -- Municipalities --
+Building inspection -- Homeowner engaging contractor to renovate house -- Owner
+aware that building permit required in order to obtain inspection of work --
+Owner accepting contractor’s advice to commence construction prior to obtaining
+building permit -- Construction partially completed when permit obtained --
+Building inspectors unable to inspect critical aspect of construction and
+relying on contractor’s assurances that it conformed to building code  -- Work
+proving defective -- Owner paying for extensive repairs and suing municipality
+for negligent inspection -- Whether municipality owed duty of care to owner in
+conducting inspection -- Whether owner’s conduct absolved municipality of all
+or part of its liability.  Municipal law -- Building inspection -- Negligence
+-- Municipal liability -- Duty of care -- Homeowner engaging contractor to
+renovate house -- Owner aware that building permit required in order to obtain
+inspection of work -- Owner accepting contractor’s advice to commence
+construction prior to obtaining building permit -- Construction partially
+completed when permit obtained -- Building inspectors unable to inspect
+critical aspect of construction and relying on contractor’s assurances that it
+conformed to building code -- Work proving defective -- Owner paying for
+extensive repairs and suing municipality for negligent inspection -- Whether
+municipality owed duty of care to owner in conducting inspection -- Whether
+owner’s conduct absolved municipality of all or part of its liability.  The appellant hired a contractor to renovate his
+basement.  This project required the installation of underpinnings under the
+existing foundation to prevent the walls from cracking and the home from
+collapsing.  Although the contract specified that the contractor would obtain a
+building permit prior to commencing construction, and the appellant wanted the
+permit obtained and inspection made, the contractor convinced him that
+construction should commence before the building permit was obtained. 
+By the time the permit was issued, the underpinnings had been completed, but
+were concealed by subsequent construction. It was impossible to determine with
+a visual inspection whether the underpinnings conformed to the building code.
+Because it was raining the day of the first inspection, the inspector could not
+dig a hole next to the underpinnings to determine their depth. He relied
+instead upon the contractor’s assurances that the underpinnings were properly
+constructed, without verifying this information, except for an examination of
+the concrete.  The appellant began to experience flooding in the basement
+shortly after the construction had been completed.  He hired another
+contractor, who determined that the underpinnings were completely inadequate
+and failed to meet the standard prescribed in the Building Code Act, and
+who made the repairs.   The appellant sued the first contractor in contract and
+the respondent city for negligence.  The trial judge allowed the action and,
+after deducting an amount to reflect the appellant’s contributory negligence,
+held  the contractor and the city jointly and severally liable, and apportioned
+damages of $49,368.80 between them.  The Court of Appeal set aside the
+decision, holding that by allowing the construction to proceed without a
+permit,  the appellant had removed himself from the class of persons to whom
+the city owed a duty of care.  Held:  The appeal should be allowed.  The Anns/Kamloops test should be applied to
+determine whether a public body owes a duty of care toward individuals.  Under
+the first branch of the test, a prima facie duty of care will be
+established if it can be shown that a relationship of proximity existed between
+the parties such that it was reasonably foreseeable that carelessness on the
+part of the public actor would result in injury to the individual.  Under the
+second branch of the test, the court must examine the legislation which governs
+the public authority to determine whether a private law duty should be imposed
+in the circumstances.  Such legislation includes statutes which confer a power
+but leave the scale on which it is to be exercised to the discretion of the
+public authority, so that where the authority elects to perform the authorized
+act, and does so negligently, there is a duty at the operational level to use
+due care.  Inspection schemes fall within this category of legislation, and in
+order to subject the local authority to a private law duty of care, it must be
+determined whether the inspection scheme represents a policy decision reached
+by the local authority which is exempt from civil liability, or whether that
+policy has been implemented at the operational level.  Once the policy decision
+is made to inspect, in certain circumstances, the authority owes a duty of care
+to all who may be injured by the negligent implementation of that policy. 
+Municipalities are created by statute and have clear responsibility for health
+and safety. Any policy decision as to whether or not to inspect must accord
+with this statutory purpose.  Once it is determined that an inspection has
+occurred and that a duty of care is owed by the public actor to all who might
+be injured by a negligent inspection, a traditional negligence analysis will be
+applied.  To avoid liability, the government agency must exercise the standard
+of care in its inspection that would be expected of an ordinary, reasonable and
+prudent person in the circumstances.  The first step in the Anns/Kamloops test is
+met. A prima facie duty of care arose by virtue of the sufficient
+relationship of proximity between the appellant and the city, such that it was
+foreseeable that a deficient inspection of the construction could result in
+damage to the property or injury to the owners.  Under the second arm of the
+test, the Building Code Act was enacted to ensure the imposition
+of uniform standards of construction safety.  In this case, a policy decision
+was made to inspect construction even if it had commenced prior to the issuance
+of a building permit.  Once the city chose to implement this decision, and
+exercised its power to enter upon the premises to inspect the renovations at
+the appellant’s home, it owed a duty of care to all who it is reasonable to
+conclude might be injured by the negligent exercise of that power.  The Court of Appeal erred in concluding that the
+appellant, through his own negligence, removed himself from the class of
+persons to whom a duty of care was owed.  The negligent conduct of an
+owner-builder does not absolve a municipality of its duty to take reasonable
+care in exercising its power of inspection.  A municipality will only be
+absolved completely of the liability which flows from an inspection which does
+not meet the standard of reasonable care in rare circumstances, when the
+conduct of the owner-builder is such as to make it impossible for the inspector
+to do anything to avoid the danger.  To avoid liability, a municipality must show that its
+inspectors exercised the standard of care that would be expected of an
+ordinary, reasonable and prudent inspector in the same circumstances.  The
+measure of what constitutes a reasonable inspection will vary, depending on the
+facts of each case, including the likelihood of a known or foreseeable harm,
+the gravity of that harm, and the burden or cost which would be incurred to
+prevent the injury.  Municipalities will not be held to the standard of
+insurers for the work; nor are they required to discover every latent defect. 
+A reasonable inspection in light of the circumstances is required.  The Building
+Code Act delineates that a city can only be held liable for those defects
+which the municipal inspector could reasonably be expected to have detected and
+had the power to have remedied.  Whether an inspection has met the standard of
+care is a question of fact, and once it is determined that a trial judge has
+applied the correct standard, an appeal court can only reverse the finding of
+whether the standard has been met if it can be established that a palpable or
+overriding error was made which affected the assessment of the facts.  Here,
+the trial judge concluded that in light of the contractor’s failure to apply
+for the permit until after the underpinnings were put in, his failure to post the
+permit as required, and his failure to notify the inspector that the
+underpinnings were being installed, it would have been reasonable to conduct a
+more thorough inspection.  The legislation authorized a more vigilant
+inspection as was required in the circumstances.  By failing to exercise those
+powers to ensure that the underpinnings were compliant with the Code, the
+inspector failed to meet the standard of care that would have been expected of
+a reasonable and prudent inspector in the circumstances, and was therefore
+negligent.  While it is clear that the appellant was negligent in
+relying on the contractor’s advice that it was appropriate to proceed with
+construction before the permit was obtained, in order to avail itself of the
+defence set out in Rothfield, the city must show that the appellant’s
+conduct was such as to make him the sole source of his loss.  His conduct must
+amount to a flouting of the inspection scheme.  Here, the Court of Appeal erred
+in concluding that the appellant had flouted the inspection regulations, and in
+absolving the city of all liability.  The concept of “flouting” denotes conduct
+which extends far beyond mere negligence on the part of the owner-builder.  The apportionment of liability is primarily a matter within
+the province of the trial judge and appellate courts should not interfere with
+a trial judge’s apportionment unless there is demonstrable error in his
+appreciation of the facts or applicable legal principles.  No such demonstrable
+error was shown in this case and the trial judge’s apportionment of fault
+should be restored.  Further, prejudgment interest at the rate prescribed by
+the trial judge is also restored, there being no reason to interfere with his
+discretion under the Courts of Justice Act.  Cases Cited  Applied:  Anns v.
+Merton London Borough Council, [1977] 2 All E.R.
+492; Kamloops (City of) v. Nielsen, [1984] 2 S.C.R. 2; Ryan v.
+Victoria (City), [1999] 1 S.C.R. 201; Stein v. The Ship “Kathy K”,
+[1976] 2 S.C.R. 802; Bow Valley Husky (Bermuda) Ltd. v. Saint John
+Shipbuilding Ltd., [1997] 3 S.C.R. 1210; considered:  Rothfield
+v. Manolakos, [1989] 2 S.C.R. 1259; distinguished:  McCrea v.
+White Rock, [1975] 2 W.W.R. 593; Leischner v. West Kootenay Power
+& Light Co. (1986), 24 D.L.R. (4th) 641; Hospitality
+Investments Ltd. v. Everett Lord Building Construction Ltd., [1996]
+3 S.C.R. 605; referred to:  Just v. British Columbia, [1989] 2
+S.C.R. 1228; Acrecrest Ltd. v. Hattrell & Partners, [1983] 1 All
+E.R. 17; Hall v. Hebert, [1993] 2 S.C.R. 159; Fitzgerald v. Lane,
+[1988] 2 All E.R. 961; Colonial Coach Lines Ltd. v. Bennett, [1968] 1
+O.R. 333; Menow v. Honsberger Ltd., [1970] 1 O.R. 54, aff’d [1971] 1
+O.R. 129, aff’d [1974] S.C.R. 239 (sub nom. Jordan House Ltd. v. Menow);
+Hospitality Investments Ltd. v. Lord (Everett) Building Construction Ltd.
+(1993), 143 N.B.R. (2d) 258.  Statutes and Regulations Cited  Building
+Code Act, R.S.O. 1980, c. 51.  Building Code Act, R.S.O. 1990, c. B.13, ss. 3, 5(1), 6, 8, 9, 10, 11.  Building Code Act, 1992, S.O. 1992, c. 23, s. 13(6).  Courts of Justice Act, R.S.O. 1990, c. C.43, s. 130.  Negligence Act, R.S.B.C. 1979, c. 298, s. 2(c).  Negligence Act, R.S.O. 1990, c. N.1, ss. 1, 3.  Rules of the Supreme Court of
+Canada, SOR/83-74, Rule 29 [rep. & sub.
+SOR/93-488; am. SOR/95-325].   APPEAL from a judgment of the Ontario Court of Appeal
+(1998), 38 O.R. (3d) 384, 158 D.L.R. (4th) 147, 107 O.A.C. 310, 37 C.L.R. (2d)
+192, 46 M.P.L.R. (2d) 1, [1998] O.J. No. 1126 (QL), setting aside a judgment
+of the Ontario Court, General Division (1994), 18 C.L.R. (2d) 67 and 82, 24
+M.P.L.R. (2d) 293 and 308, [1994] O.J. No. 1714 (QL) and [1995] O.J. No.
+231 (QL), allowing in part the plaintiff’s claim for damages for negligence. 
+Appeal allowed.  Philip Anisman and Barbara
+J. Murchie, for the appellant.  Diana W. Dimmer and Naomi
+Brown, for the respondent.   The judgment of the Court was delivered by  Bastarache J. --  I.  Introduction  1                                  
+The issue to be resolved in this appeal is the liability of a public
+authority for breach of its duty of care in the exercise of a function that it
+has undertaken pursuant to a policy decision to that effect.  II.  Factual
+Background  2                                  
+The appellant Mr. Ingles and his wife own an 80-year-old home in Toronto. 
+In 1990, they decided to renovate the basement of the home, lowering it by18
+inches, and to build a patio at the rear of the house.  Lowering the basement
+would necessitate installing underpinnings under the existing foundations of
+the house to keep the walls from cracking and the house from falling down. 
+They hired a contractor, Tutkaluk Construction Limited (“Tutkaluk”) to do the
+work.  The contract specified that the contractor would apply for and obtain a
+building permit and offered him an extra $500 for doing so.  Mr. Ingles knew
+that a building permit was required to ensure that an inspection of the
+renovations would take place.  He wanted such an inspection to ensure that the
+construction was being done properly.  3                                  
+Tutkaluk informed Mr. Ingles and his wife that the work would be delayed
+if it had to obtain a building permit before starting the renovations.  Mr.
+Ingles reluctantly agreed that the work should begin as soon as possible,
+without the permit.  Both Mr. Ingles and his wife asked the contractor several
+times in the following weeks to apply for the permit.  The respondent, City of
+Toronto, received and approved the application for the permit two weeks after
+construction had begun.  At this point, the underpinning work had already been
+completed, but the concrete for the new basement floor had not yet been poured.  4                                  
+The respondent added the following conditions to the permit before
+approving the application:  first, that the underpinning be carried out to the
+satisfaction of the building inspector; second, that the building inspector be
+notified before proceeding with the underpinning and pouring of the concrete;
+and third, that the underpinning be at least as wide as the existing footings.  5                                  
+The morning after the permit was issued, Mr. Tecson, a building
+inspector with the city, noticed that there was construction under way at the
+Ingles’ residence, and that the permit was not posted.  After asking to see the
+permit, Mr. Tecson began to inspect the construction.  He conducted a 30-minute
+inspection of the visible portions of the work.  Because the underpinning had
+already been installed, it was not possible to determine visually whether the
+underpinning continued for the full width of the footing as required by the
+building permit.  It was also not possible to determine visually the depth of
+the underpinning.  Therefore, the inspector looked at the colour of the
+concrete and struck it with a hammer to see if it had set.  It was raining the
+day of the inspection, and hence it was not possible to dig a hole next to the
+underpinning to determine its depth.  With respect to the width of the
+underpinning, Mr. Tecson relied on Tutkaluk’s assurances that everything was
+done in accordance with the drawings attached to the building plan.  Mr. Tecson
+noted on his building card that the underpinning had been done prior to his
+inspection.  This was contrary to the specifications on the permit, which
+required that an inspector be notified before starting the underpinning work.  6                                  
+Approximately two weeks later, Mr. Grimaldi, the regular building
+inspector for the area, also visited the site.  By this time, the basement
+floor had been laid and visual inspection of the underpinning as a whole was
+even less possible than it had been at the time of Mr. Tecson’s inspection. 
+Mr. Grimaldi carried out the same inspection as had Mr. Tecson.  In addition he
+noticed that the concrete was smooth and without voids, an indication that it
+had been packed down adequately.  On the job card he wrote that the
+underpinning appeared to be complete.  7                                  
+Within weeks of the completion of the project, the appellant began to
+experience flooding in his basement.  He hired another contracting company to
+remedy the drainage problems.  In the course of their work, the contractors
+discovered that the initial underpinning construction was completely inadequate. 
+The underpinning was only 6 inches wide, instead of the 24 inches specified in
+the permit.  In several places, the underpinning had not been installed to the
+depth stated in the plans.  In fact, neither the width, nor the depth of the
+underpinning was in accordance with the specifications, and neither met the
+requirements of the Building Code Act, R.S.O. 1980, c. 51.  III.  Judicial
+History  8                                  
+Conant J. of the Ontario Court (General Division) examined the basic
+duties and responsibilities for the regulation and inspection of construction
+in Ontario as set out in the Building Code Act ((1994), 24 M.P.L.R. (2d)
+293).  He found that it was clear from the statutory provisions that
+municipalities have a duty to appoint inspectors as are necessary to enforce
+the Act.  The purpose of conducting inspections before issuing building permits
+was to ensure that permits were issued only for those plans that would conform
+with the building code.  The purpose of conducting inspections after the
+permits were issued was to ensure that all construction was carried out in
+conformity with the plans.  Conant J. concluded that the province had made a
+policy decision that cities inspect building plans and construction, and, as a
+result, that cities owe a duty of care to all who it is reasonable to conclude
+might be injured by the negligent exercise of those powers.  9                                  
+Having found that the city owed a duty of care to Mr. Ingles, Conant J.
+proceeded to determine the appropriate standard of care for a municipal
+inspector.  Following the decision of La Forest J. in Rothfield v.
+Manolakos, [1989] 2 S.C.R. 1259, he found that the city must show
+reasonable care in the exercise of its powers of inspection.  The standard
+would not hold the city to the standard of an insurer, bound to discover every
+latent defect in the project and every derogation from the building code
+requirements.  Instead, the city would be liable for those defects which it
+could reasonably be expected to have detected and to have ordered remedied.  10                              
+Conant J. found that the city failed to meet the standard of care in its
+inspection of the construction at Mr. Ingles’ home for two reasons.  First, he
+found that it was not reasonable for Mr. Tecson to rely on Tutkaluk’s assurance
+that the construction met the specifications.  Mr. Tecson should have been wary
+of the contractor’s assurances for the following reasons:  the contractor did
+not apply for the permit until after the underpinning had been put in; the
+contractor did not give notice as to the status of the project, despite the
+requirements on the building permit; the permit was not posted outside the
+home; and Mr. Tecson did not know the contractor or his work.  Second, he found
+that a more thorough inspection was reasonable because the underpinning was a major
+structural element.  A defect in that element could lead to a collapse of the
+entire house.  Conant J. concluded that the inspector could have used his
+investigatory powers to determine the width and depth of the underpinnings and
+was negligent in failing to do so.  11                              
+As for the appellant’s negligence, Conant J. found that he knew, or
+should have known, what he was doing in agreeing to a delay in obtaining a
+building permit.  As such, he was required to bear some of the responsibility
+for the damage.  However, Conant J. also found that the appellant and his wife
+did not participate in a conscious effort to prevent the building inspector
+from examining the underpinnings.  They were not disentitled from recovering
+against the city, which failed to discharge its obligations.  Tutkaluk was
+found 80 percent liable for the damage and the city was found to be 20 percent
+liable.  The city’s liability was reduced by a further 30 percent to account
+for the appellant’s contributory negligence.  12                              
+In a subsequent addendum to the original judgment ((1995), 24 M.P.L.R.
+(2d) 308), Conant J. clarified the apportionment of liability as between the
+co-defendants, and the effect of the reduction on the award against the
+respondent city.  He found that the respondent and the contractor were jointly
+and severally liable for the damages.  The net effect of this finding was that
+the $52,520 in damages was apportioned 6 percent to the appellant, 14 percent
+to the city and 80 percent to Tutkaluk, with a judgment against both the city
+and Tutkaluk for $49,368.80 representing 94 percent of the damages.  In a
+second addendum, he also awarded prejudgment interest fixed at the statutory
+rate of 12.9 percent.  13                              
+Sharpe J. (ad hoc), writing for the Ontario Court of Appeal,
+allowed the appeal, solely on the ground that the trial judge erred in failing
+to address whether the appellant had removed himself from the scope of the
+city’s duty of care:  (1998), 38 O.R. (3d) 384.  14                              
+Sharpe J. applied the test set out in Kamloops (City of ) v. Nielsen,
+[1984] 2 S.C.R. 2, and agreed with the trial judge that the city had made a
+policy decision to inspect building plans and construction, and thus that it
+owed a duty of care to any person reasonably within its contemplation as
+someone to be injured by a breach of its duty.  Sharpe J. then proceeded to
+apply the two-step analysis of the duty of care as set out in Kamloops v.
+Nielsen.  Namely, he asked whether the city was in a relationship of
+proximity with the appellant such that it could contemplate that carelessness
+in its inspection would harm the appellant.  Second, he asked whether there
+were any policy considerations which would negate the duty in these
+circumstances.  15                              
+Sharpe J. answered both questions in the affirmative.  Although there
+was a relationship of proximity between the city and the appellant, the Court
+of Appeal also found that there were considerations that removed the appellant
+from the class of persons to whom the city owed a duty of care.  Sharpe J.
+based this finding on the remarks of La Forest J. in Rothfield v.
+Manolakos, supra, followed in Hospitality Investments Ltd. v.
+Lord (Everett) Building Construction Ltd. (1993), 143 N.B.R. (2d) 258
+(Q.B.), to the effect that an owner-builder could exclude himself from the
+municipality’s duty of care when he knowingly flouted the applicable building
+regulations.  In his view, the appellant “[went] along with Tutkaluk’s scheme”
+to proceed with the underpinning work without a permit.  The appellant knew
+that this would preclude inspections while the underpinning work was being done
+and that it would make the inspection much more difficult afterwards.  In the
+opinion of the Court of Appeal, this course of action was simply incompatible
+with the appellant attempting to recover from the city.  IV.  Analysis  A.  Duty of
+Care  16                              
+This Court recently affirmed in Ryan v. Victoria (City), [1999] 1
+S.C.R. 201, that the test set in Anns v. Merton London Borough Council,
+[1977] 2 All E.R. 492 (H.L.), adopted by this Court in Kamloops v. Nielsen
+(the “Anns/Kamloops” test) is the appropriate test for determining
+whether a private or public actor owes a duty of care.  These cases provide the
+basis for determining whether the law can impose on a public authority a
+private law duty towards individuals, enabling individuals to sue the authority
+in a civil suit, and for determining whether a duty of care is owed by a public
+authority in particular circumstances.  To determine whether a private law duty
+of care exists, two questions must be asked.  These questions are set out by
+Wilson J. at pp. 10-11 of the decision in Kamloops v. Nielsen as
+follows:  (1)   is there a sufficiently close relationship
+between the parties (the local authority and the person who has suffered the
+damage) so that, in the reasonable contemplation of the authority, carelessness
+on its part might cause damage to that person?  If so,  (2)   are there any considerations which ought to
+negative or limit (a) the scope of the duty and (b) the class of persons to
+whom it is owed or (c) the damages to which a breach of it may give rise?  17                              
+The first step of the Anns/Kamloops test presents a relatively
+low threshold.  A prima facie duty of care will be established if it can
+be shown that a relationship of proximity existed between the parties such that
+it was reasonably foreseeable that carelessness on the part of the public actor
+would result in injury to the other party; see, for example, Ryan v.
+Victoria, supra, at para. 22.  However, as Lord Wilberforce
+recognized in Anns, only in certain circumstances will a public
+authority owe a private law duty of care towards individuals.  Thus, under the
+second step of the test, the court must examine the legislation which governs
+the public authority to determine whether a private law duty should be imposed
+in the circumstances.  Wilson J. summarized the types of legislation identified
+by Lord Wilberforce, at p. 11 of Kamloops v. Nielsen, supra, as
+follows: (1)   statutes conferring powers to interfere with
+the rights of individuals in which case an action in respect of damage caused
+by the exercise of such powers will generally not lie except in the case where
+the local authority has done what the legislature authorized but has done it
+negligently;  (2)    statutes conferring powers but leaving the
+scale on which they are to be exercised to the discretion of the local
+authority.  Here there will be an option to the local authority whether or not
+to do the thing authorized but, if it elects to do it and does it negligently,
+then the policy decision having been made, there is a duty at the operational
+level to use due care in giving effect to it.  18                              
+Inspection schemes fall within the second type of legislation identified
+by Lord Wilberforce.  To determine whether an inspection scheme by a local
+authority will be subject to a private law duty of care, the court must
+determine whether the scheme represents a policy decision on the part of the
+authority, or whether it represents the implementation of a policy decision, at
+the operational level.  True policy decisions are exempt from civil liability
+to ensure that governments are not restricted in making decisions based upon
+political or economic factors.  It is clear, however, that once a government
+agency makes a policy decision to inspect, in certain circumstances, it owes a
+duty of care to all who may be injured by the negligent implementation of that
+policy; see, for example, Just v. British Columbia, [1989] 2 S.C.R.
+1228, at p. 1243, per Cory J.; Rothfield v. Manolakos, supra,
+at p. 1266, per La Forest J.  19                              
+While I have stated above that a government agency will not be liable
+for those decisions made at the policy level, I must emphasize that, where
+inspection is provided for by statute, a government agency cannot immunize itself
+from liability by simply making a policy decision never to inspect.  The
+decisions in Anns v. Merton London Borough Council, supra, and Kamloops
+v. Nielsen, supra, establish that in reaching a policy decision
+pertaining to inspection, the government agency must act in a reasonable manner
+which constitutes a bona fide exercise of discretion.  In the context of
+a municipal inspection scheme, we must bear in mind that municipalities are
+creatures of statute which have clear responsibilities for health and safety in
+their area.  A policy decision as to whether or not to inspect must accord with
+this statutory purpose; see, for example, Kamloops v. Nielsen, at
+p. 10.  20                              
+Once it is determined that an inspection has occurred at the operational
+level, and thus that the public actor owes a duty of care to all who might be
+injured by a negligent inspection, a traditional negligence analysis will be
+applied.  To avoid liability, the government agency must exercise the standard
+of care in its inspection that would be expected of an ordinary, reasonable and
+prudent person in the same circumstances.  Recently, in Ryan v. Victoria,
+supra, at para. 28, Major J. reaffirmed that the measure of what is
+reasonable in the circumstances will depend on a variety of factors, including
+the likelihood of a known or foreseeable harm, the gravity of that harm and the
+burden or cost which would be incurred to prevent the injury.  The same standard
+of care applies to a municipality which conducts an inspection of a
+construction project.  While the municipal inspector will not be expected to
+discover every latent defect in a project, or every derogation from the
+building code standards, it will be liable for those defects that it could
+reasonably be expected to have detected and to have ordered remedied; see, for
+example, Rothfield v. Manolakos, supra, at pp. 1268-69.  (1)  Did the City Owe the Appellant a Duty of Care?  21                              
+Both the trial judge and the Court of Appeal found that the city owed
+the appellant a prima facie duty of care in these circumstances.  I
+agree with their finding in this respect.  It is certainly foreseeable that a
+deficient inspection of the underpinnings of a home could result in damage to
+the property of the homeowners, or injury to the homeowners or others.  As a
+result, I agree that there was a sufficient relationship of proximity between
+the appellant and the city such that the city owed the appellant a prima
+facie duty to conduct an inspection of the renovations of the appellant’s
+home and to do so with reasonable care.  The first stage of the Anns/Kamloops
+test has been met.  22                              
+Having found that the city owed the appellant a prima facie duty
+of care, I now turn to the legislative scheme which governs municipal
+inspections in Ontario to determine whether there is any policy reason to limit
+the prima facie duty of care.  The relevant provisions of the Building
+Code Act, R.S.O. 1990, c. B.13, are as follows:  3.–(1)  The council of each municipality is
+responsible for the enforcement of this Act in the municipality.  (2)  The council of each municipality shall appoint
+a chief building official and such inspectors as are necessary for the purposes
+of the enforcement of this Act in the areas in which the municipality has
+jurisdiction.   5.–(1)  No person shall construct or
+demolish or cause to be constructed or demolished a building in a municipality
+unless a permit has been issued therefor by the chief official.   6.–(1)  The chief official shall issue a
+permit except where,  (a)       the proposed building or the proposed
+construction or demolition will not comply with this Act or the building code
+or will contravene any other applicable law;                                                                     .
+. .  (3)  No person shall make a material change or
+cause a material change to be made to a plan, specification, document or other
+information on the basis of which a permit was issued without notifying the
+chief official and filing details of such change with him or her for the purpose
+of obtaining his or her authorization.                                                                     .
+. .  (5)  No person shall construct or cause to be
+constructed a building in a municipality except in accordance with the plans,
+specifications, documents and any other information on the basis of which a
+permit was issued or any changes thereto authorized by the chief official.  8.--(1)  Subject to section 11, an inspector
+may, for the purpose of inspecting a building or site in respect of which a
+permit is issued or an application for a permit is made, enter in or upon any
+land or premises at any time without a warrant.  (2)  Where an inspector finds that any provision of
+this Act or the building code is being contravened, the inspector may give to
+the person whom he or she believes to be the contravener an order in writing
+directing compliance with such provision and may require the order to be
+carried out forthwith or within such time as he or she specifies.  (3)  Where an inspector gives an order under this
+section, the order shall contain sufficient information to specify the nature
+of the contravention and its location.                                                                     .
+. .  (5)  Where an order of an inspector made under this
+section is not complied with within the time specified therein, or where no
+time is specified, within a reasonable time in the circumstances, the chief
+official may order that all or any part of the construction or demolition
+respecting the building cease and such order shall be served on such persons
+affected thereby as the chief official specifies and a copy thereof shall be
+posted on the site of the construction or demolition and no person except an
+inspector or the chief official shall remove such copy unless authorized by an
+inspector or the chief official.  (6)  Where an order to cease construction or
+demolition is made under subsection (5), no person shall perform any act in the
+construction or demolition of the building in respect of which the order is
+made other than such work as is necessary to carry out the order of the
+inspector made under subsection (2).  9.--(1)  An inspector or chief official may
+issue an order prohibiting the covering or enclosing of any part of a building
+pending inspection and where such an order is issued, an inspection shall be
+made within a reasonable time after notice is given by the person to whom the
+order is issued that the person is ready for the inspection.  (2)  Where a chief official has reason to believe
+that any part of a building has not been constructed in compliance with this
+Act and such part has been covered or enclosed, contrary to an order made by an
+inspector or chief official under subsection (1), the chief official may order
+any person responsible for the construction to uncover the part at the person’s
+own expense for the purpose of an inspection.   10.--(1)  Subject to section 11, an
+inspector may enter in or upon any land or premises at any time without a
+warrant for the purpose of inspecting any building to determine whether such
+building is unsafe. (2)  Where an inspector finds that a building is
+unsafe, he or she may serve upon the assessed owner and each person apparently
+in possession of the building an order in writing setting out the reasons why
+the building is unsafe and the remedial steps that the inspector requires to be
+taken to render the building safe and may require the order to be carried out
+within such time as the inspector specifies in the order.  (3)  Where an order of an inspector under
+subsection (2) is not complied with within the time specified therein, or where
+no time is specified, within a reasonable time in the circumstances, the chief
+official may by order prohibit the use or occupancy of the building and such
+order shall be served on the assessed owner and each person apparently in
+possession and such other persons affected thereby as the chief official
+specifies and a copy thereof shall be posted on the building, and no person
+except an inspector or the chief official shall remove such copy unless
+authorized by an inspector or the chief official.  (4)  Where the chief official has made an order
+under subsection (2) and considers it necessary for the safety of the public,
+the chief official may cause the building to be renovated, repaired or
+demolished for the purpose of removing the unsafe condition or take such other
+action as he or she considers necessary for the protection of the public and,
+where the building is in a municipality, the cost of the renovation, repair,
+demolition or other action may be added by the clerk to the collector's roll
+and collected in like manner as municipal taxes.  11.--(1)  For the purposes of an inspection
+under section 8 or 10, the inspector may,  (a)       require the production of the drawings
+and specifications of a building or any part thereof, including any drawings
+prescribed by the regulations, for his or her inspection and may require
+information from any person concerning any matter related to a building or part
+thereof;  (b)       be accompanied by any person who has
+special or expert knowledge of any matter in relation to a building or part
+thereof;  (c)       alone or in conjunction with such other
+person or persons possessing special or expert knowledge, make such
+examinations, tests, inquiries, or, subject to subsections (2) and (3), take
+such samples or photographs as are necessary for the purposes of the
+inspection;  (d)       order any person responsible for the
+construction to take and supply at the person's own expense such tests and
+samples as are specified in the order.  23                              
+The legislative scheme is designed to ensure that uniform standards of
+construction safety are imposed and enforced by the municipalities.  Sections 5
+and 6 of the Act require that building plans and specifications be inspected
+before a permit is issued to ensure that they conform with the building code. 
+Sections 8 to 11 set out the powers of the inspector to ensure that all work
+that is being completed conforms with the permit and, as a result, with the
+building code.  Inspectors are given a broad range of powers to enforce the
+safety standards set out in the code, from ordering tests at the owners’
+expense, to ordering that all work cease in general.  Section 9 grants
+inspectors the power to order builders not to cover work pending inspection, or
+to uncover work when there is reason to believe that any part of the building
+has not been constructed in compliance with the Act.  The purpose of the
+building inspection scheme is clear from these provisions:  to protect the
+health and safety of the public by enforcing safety standards for all
+construction projects.  The province has made the policy decision that the
+municipalities appoint inspectors who will inspect construction projects and
+enforce the provisions of the Act.  Therefore, municipalities owe a duty of
+care to all who it is reasonable to conclude might be injured by the negligent
+exercise of their inspection powers.  24                              
+It would appear from the use of the word “may” in ss. 8 to 11 that
+municipalities have the discretion under the Act to decide whether to inspect
+and enforce the safety standards after construction has begun.  Therefore, it
+may be open to the municipalities to make policy decisions as to whether to
+inspect in certain circumstances.  Of course, all such policy decisions must be
+made in good faith and in a way that is consistent with the overall purpose of
+ensuring the health and safety of the public.  Such decisions can only be
+immune from civil action when they accord with the overall purpose of the
+statutory scheme.  Here, the evidence is that the city had made a policy
+decision to inspect construction, even if the permit was issued after the
+construction had begun.  At trial, Fred Breeze, the city’s Director of
+Inspections, testified as follows:  Q.  Well, if the inspector is not in the position to do proper
+inspection because of the lateness of the building permit, can you tell me why
+the city doesn’t simply refuse to do such inspections and insist that the owner
+get an inspection from an independent engineer, for instance?  A.  Well, that’s not our policy.  Our policy is to inspect once a
+permit has been issued, and we will inspect to the best the inspector can do at
+the time on what they can see while they are there.  [Emphasis added.]  This policy
+has since been codified in the Building Code Act, 1992, S.O. 1992, c.
+23, s. 13(6), which grants powers to the chief building official to order work
+to be uncovered when notice to inspect is not given in a timely fashion.  While
+the Act gave the city the discretion to decide when to inspect, the city made a
+policy decision to inspect even when a permit was received late.  Once the city
+chose to implement this decision, and exercised its power to enter upon the
+premises to inspect the renovations at Mr. Ingles’ home, it owed a duty of care
+to all who it is reasonable to conclude might be injured by the negligent
+exercise of that power.  25                              
+Following the Anns/Kamloops test, the city owed Mr. Ingles a duty
+of care to conduct an inspection of the renovations on their home and to
+exercise reasonable care in doing so, despite the fact that the building permit
+was obtained late.  Therefore, the city could be found negligent if it ignored
+its own scheme and chose not to inspect the renovations.  It could also be
+found negligent for conducting an inspection of the renovations without
+adequate care.  (2)  The Negligent Owner-Builder  26                              
+The Ontario Court of Appeal found that, despite the fact that the
+inspection scheme was operational, there were considerations that removed the
+appellant from the class of persons to whom the city owed a duty of care. 
+Relying on the decision of La Forest J. in Rothfield v. Manolakos, supra,
+the court found that owner-builders could be excluded from the ambit of a
+municipality’s duty of care regarding building inspections if they are seen as
+the sole source of their loss.  After reviewing the appellant’s negligence, the
+Ontario Court of Appeal concluded that the appellant had knowingly flouted the
+building code by agreeing with Tutkaluk’s scheme to apply for the permit late. 
+In doing so, the court found, the appellant removed himself from the ordinary inspection
+scheme and from the scope of the city’s duty of care.  27                              
+With respect, the Ontario Court of Appeal erred in its interpretation of
+the meaning of the decision in Rothfield v. Manolakos.  While there may
+be some ambiguity in the language of that decision, Rothfield v. Manolakos stands
+for the proposition that an owner’s negligence may, in very rare circumstances,
+be considered as a complete defence to a finding of negligence on the part of
+municipal inspectors.  The decision does not stand for the proposition that an
+owner’s negligence can remove him or her from the scope of a municipality’s duty
+of care.  28                              
+The facts of the case of Rothfield v. Manolakos were quite
+similar to the facts of the case at bar.  The plaintiffs were owners of a home
+who hired contractors to build a retaining wall in their backyard.  The
+contractors applied for a building permit and presented the building inspector
+with a rough sketch of the project.  The inspector exercised his discretion and
+granted a permit despite the fact that the plans had not been certified by an
+engineer.  Neither the owners, nor the contractors, advised the city, as
+required by the by-law, that the project had come to a stage where inspection
+was required.  When the inspector did come to inspect the construction, most of
+the wall had been put in place and it was not possible to conduct a standard
+inspection.  29                              
+La Forest J., for the majority of the Court, began his analysis of
+facts by applying the Anns/Kamloops test.  After examining the legislative
+scheme, he found that once the city had made a policy decision to inspect
+building plans and construction, it owed a duty of care to all who it is
+reasonable to conclude might be injured by the negligent exercise of those
+powers.  He then proceeded to consider whether owner-builders, as a class,
+should be excluded from the scope of a municipality’s duty of care under the
+second portion of the Anns/Kamloops test.  He could see no reason why an
+owner-builder would not fall within the scope of the duty of care owed by a
+municipality.  Owner-builders are no better versed in the technical aspects of
+building construction than other members of the public, and cannot see to it
+that their contractors comply with the building codes.  Owner-builders thus rely
+on the disinterested expertise of building inspectors to ensure that
+construction work is safe.  In addition, La Forest J. found that
+owner-builders are also ratepayers in the municipality, members of the public
+for whose benefit the by-law was passed.  Therefore, it is clear that
+La Forest J. decided that owner-builders are a class of persons to whom a
+duty is owed by municipal inspectors.  30                              
+Having decided that municipal inspectors owe a duty of care to
+owner-builders, La Forest J. proceeded to discuss the implications of the
+owner-builder’s negligence.  He considered the dictum of Lord
+Wilberforce in Anns v. Merton London Borough Council, supra, that
+no duty is owed “to a negligent building owner, the source of his own loss”;
+see Rothfield v. Manolakos, supra, at p. 1271.  La Forest J.
+found that this principle was applicable only in the narrowest of
+circumstances.  At p. 1271, he states:  It is to be expected that contractors, in the normal course of events,
+will fail to observe certain aspects of the building by-laws.  That is why
+municipalities employ building inspectors.  Their role is to detect such
+negligent omissions before they translate into dangers to health and safety. 
+If, as I believe, owner builders are within the ambit of the duty of care owed
+by the building inspector, it would simply make no sense to proceed on the
+assumption that every negligent act of an owner builder relieved the
+municipality of its duty to show reasonable care in approving building plans
+and inspecting construction.  Negligent
+owners would be viewed as the sole source of their own loss where they, for
+example, knowingly flouted the applicable building regulations or the
+directives of the municipality, or totally failed to acquit themselves of the
+responsibilities that properly rested on them, none of which apply in this
+appeal.  La Forest J. concluded that the conduct of the plaintiffs in Rothfield
+v. Manolakos, supra, was not such as to make them the sole source of
+their own loss.  31                              
+There is some ambiguity in the decision in Rothfield v. Manolakos
+as to where in the traditional tort law analysis the consideration of an
+owner-builder’s negligence should take place, namely whether the analysis
+should take place in the determination of whether a municipality owes a duty of
+care to the negligent owner-builder, or whether the negligence of an
+owner-builder can serve as a defence to a finding of negligence on the part of
+a municipal inspector.  This ambiguity stems from the fact that La Forest
+J. began his analysis of the consequences of the negligence of an owner-builder
+by quoting the dictum of Lord Wilberforce in Anns v. Merton London
+Borough Council, supra.  At p. 504, Lord Wilberforce states:  To whom the duty is owed.  There is, in my
+opinion, no difficulty about this.  A reasonable man in the position of the
+inspector must realise that if the foundations are covered in without adequate
+depth or strength as required by the byelaws, injury to safety or health may be
+suffered by owners or occupiers of the house.  The duty is owed to them, not of
+course to a negligent building owner, the source of his own loss.  Lord
+Wilberforce’s dictum does imply that an examination of the negligence of
+an owner-builder will take place within the two-step analysis of whether a duty
+of care is owed by a municipality in conducting an inspection.  As a result,
+the analysis of the consequences of the negligence of an owner-builder in Rothfield
+v. Manolakos, supra, also uses language which implies that the
+inquiry into whether a municipality is liable for its negligent inspection will
+end at the duty stage of the analysis if the plaintiff’s conduct is found to be
+such as to make him or her the sole source of his or her own loss.  Upon
+further examination, however, it is my view that the true intention of the
+decision in Rothfield v. Manolakos was to create a defence available to
+municipalities in a very limited set of circumstances.  32                              
+There are several passages in the reasons of La Forest J. in Rothfield
+v. Manolakos which make it clear that the negligent conduct of an
+owner-builder should not absolve a municipality of its duty to take reasonable
+care in its inspection.  For example, at p. 1273, he states:  It cannot be disputed that the owners were
+negligent in failing to give timely notice for the pre-pour inspection.  The
+by-law places this obligation squarely on every property owner.  But the fact
+remains that when the inspector did attend at the site he was confronted with a
+situation in which it must have been at once clear to him that the retaining
+wall was potentially substandard.  As I have just pointed out, there is no
+mystery to the fact that uninspected foundations may give rise to hidden
+defects.  Again, at p.
+1274, he states:  . . . when he attended at the site, [the inspector] was
+confronted with a situation which, if left unremedied, manifestly stood to pose
+a threat to the health and safety of the public, including the neighbours and
+the owner builder.  Of course, the cause of the problem would have been evident
+if the inspector had been asked to come at the proper time.  But this does not
+absolve the inspector of his duties.  It must be remembered that the inspector
+was, at the time, armed with all the powers necessary to remedy the situation. 
+As I see the matter, it was incumbent on the building inspector, in view of the
+responsibility that rested on him, to order the cessation of the work, and the
+taking of whatever corrective measures were necessary to enable him to ensure
+that the structure was up to standard. In light of
+these two passages, it is apparent that an inspector who attends at a site owes
+a duty of care to the public, to third-party neighbours, and to owner-builders
+to ensure that all renovation and construction projects meet the standards set
+out in the by-laws.  This duty arises regardless of the conduct or negligence
+of the owner-builder.  33                              
+Having found that a municipality whose inspector conducts a site
+inspection owes a duty to conduct a reasonable inspection, despite the
+negligence of the owner-builder, La Forest J. proceeds to set out a
+defence that may be available to municipalities in limited circumstances.  He
+underlines that it may be open to a municipality to argue in its defence that
+an owner-builder’s conduct was such that it was impossible to fulfill the duty
+to take reasonable care in its inspection.  He sets out the test as follows, at
+pp. 1273-74:  The key question, it seems to me, is whether it is reasonable to
+conclude that despite the negligence of the owners, the inspector was still in
+a position to acquit himself of the responsibility that the by-law placed on
+him, i.e., to take reasonable care to ensure that all building was done in
+accordance with the applicable standards of the by-law.  In other words, is it
+reasonable, in the circumstances, to conclude that a due exercise by the
+inspector of his powers, even though he was summoned late, could have avoided
+the danger?  The test
+assumes that inspectors owe a duty to take reasonable care to ensure that all
+construction is done in accordance with the standards.  A municipality will
+only be absolved completely of the liability which flows from an inspection
+which does not meet the standard of reasonable care when the conduct of the
+owner-builder is such as to make it impossible for the inspector to do anything
+to avoid the danger.  In such circumstances, for example when an owner-builder
+determines to flout the building by-law, or is completely indifferent to the
+responsibilities that the by-law places on him or her, that owner-builder
+cannot reasonably allege that any damage suffered is the result of the failure
+of the building inspector to take reasonable care in conducting an inspection.  34                              
+La Forest J.’s interpretation of Lord Wilberforce’s dictum
+in Anns v. Merton London Borough Council, supra, is consistent
+with the interpretation provided by the English Court of Appeal.  In Acrecrest
+Ltd. v. Hattrell & Partners, [1983] 1 All E.R. 17, Donaldson L.J. found
+that the principle does not exclude negligent builder-owners from the ambit of
+a municipality’s duty of care, but rather that it serves as a defence.  He
+interprets the Lord Wilberforce’s dictum as follows, at p. 31:  . . . the local authority’s duty of care extends to the
+building owner and the builder-owner to the same extent as to future owners and
+present and future occupiers.  The difference in the position of the building
+owner or builder-owner is not in the ambit of the duty, but in the fact that
+they may have more difficulty in proving a causal connection between the damage
+and the building inspector’s negligence and may also be faced with allegations
+of contributory negligence which may partially or even wholly defeat their
+claim.  This, I think, is what Lord Wilberforce meant when in the Anns
+case . . . he said:   “The duty is owed to them [the owners or occupiers
+of the house], not of course to the negligent building owner, the source of his
+own loss.”  If the building owner’s negligence was the effective source of his
+loss, he would fail on the ground that there was a break in the chain of
+causation or on the ground that it was just and equitable that the damages
+recoverable should be reduced to nothing, having regard to the building owner’s
+share in the responsibility for the damage. . . .  Clearly, the
+English Court of Appeal interpreted Lord Wilberforce’s dictum as a
+defence to a claim of negligence on the part of an owner-builder who was the
+sole source of his or her own loss.  Such a defence could be invoked, either to
+show that the negligence of an inspector could not in any way be the cause of
+the owner-builder’s loss, or as a complete bar to recovery for the
+owner-builder’s contributory negligence.  35                              
+La Forest J.’s interpretation of Lord Wilberforce’s dictum
+as a defence to a finding of negligence against a municipality, rather than as
+a principle which excludes a class of negligent builder-owners from the scope
+of a municipality’s duty of care, is also consistent with this Court’s approach
+to other defences in tort law which focus on the plaintiff’s conduct.  In the
+context of the defence of ex turpi causa non oritur actio, this Court
+has ruled that it is inappropriate to consider the effect of the conduct of a
+plaintiff within the duty of care analysis.  In Hall v. Hebert, [1993] 2
+S.C.R. 159, McLachlin J., for the majority of the Court, found that it is
+inconsistent with the conceptual role of the duty of care within the
+traditional tort law analysis to consider the plaintiff’s conduct as a
+consideration which can remove him or her from the scope of a duty which would
+otherwise be owed to him or her.  She found that a duty of care should be
+grounded in considerations of proximity and foreseeability.  The legality or
+morality of the plaintiff’s conduct is an extrinsic consideration.  As such, she
+found, in those cases where the conduct of the plaintiff does become an issue
+to be considered, it should be done by way of a defence, rather than by
+distorting the notion of the duty of care owed by the defendant to the
+plaintiff; see Hall v. Hebert, supra, at p. 182.  It would be
+inconsistent with this Court’s jurisprudence to develop an area of negligence
+law where the conduct of the plaintiff is determinative of whether he or she is
+owed a duty of care when this Court has specifically pronounced that a plaintiff’s
+conduct may not be considered in determining whether a duty of care is owed to
+him or her in other areas of negligence law.  36                              
+The respondent city argues that to interpret the decision of
+La Forest J. in Rothfield v. Manolakos, supra, as
+setting out the parameters for a defence to a claim of negligence by a
+negligent owner-builder against a municipality would necessitate overruling
+this Court’s decision in Hospitality Investments Ltd. v. Everett Lord
+Building Construction Ltd., [1996] 3 S.C.R. 605.  This decision consists of
+one paragraph which restores the judgment of the New Brunswick Court of Queen’s
+Bench at (1993), 143 N.B.R. (2d) 258, and is set out, at p. 606, as follows:  We agree with the trial judge that no duty of care
+was owed to the respondent in the circumstances of this case.  Accordingly, the
+appeal is allowed, the judgment of the Court of Appeal (1995), 166 N.B.R. (2d)
+241, is reversed, and the trial judgment (1993), 143 N.B.R. (2d) 258, is
+restored, the whole with costs throughout.  This decision
+does appear to contradict the decision in Rothfield v. Manolakos, supra,
+as it seems to exempt the municipality from liability at the first stage of the
+negligence analysis.  However, the Court did not adopt the reasons of the trial
+judge in the case and wrote only one sentence in disposing of the appeal.  To
+the extent that the decision can be read as departing from the analysis of Rothfield
+v. Manolakos, it should not be followed.  37                              
+The respondent city also relies on the decision of the British Columbia
+Court of Appeal in McCrea v. White Rock, [1975] 2 W.W.R. 593, to support
+its contention that a duty of care is not owed to the appellant in the case at
+bar.  That case is also distinguishable from the case at bar.  In that case,
+the plaintiffs had hired a contractor to renovate their grocery store.  The
+contractor applied for and received a building permit on the basis of a plan
+which he submitted to the inspector.  He did not, however, follow the plan when
+installing a beam into the renovations and eventually the building collapsed. 
+The by-law which governed inspections in the City of White Rock provided for a
+scheme of inspections to occur at various stages of the construction.  A duty
+was placed on the owners of the building to notify the inspector at various
+stages of the construction to receive inspections.  The city had made a policy
+decision not to inspect until notified of the need for an inspection.  The
+contractor called the inspector on behalf of the owners, and received three
+inspections pursuant to the by-law.  There was evidence that the practice in
+White Rock was for the contractor to call for inspections on behalf of the
+owner.  No further calls for inspection were made and as a result the inspector
+did not inspect the beam and did not conduct any further inspections of the
+site.  38                              
+While three separate and concurring sets of reasons were delivered in
+that case, all three of the judges of the British Columbia Court of Appeal
+agreed that the by-law imposed a duty to inspect the construction only when the
+inspector was notified by the owners that the construction had reached one of
+the stages where inspection was required by by-law.  A municipal inspector
+could not be expected to attend at a site continuously to ensure that the
+construction met the specifications in the permit.  Since the owners had failed
+to notify the inspector of the need to inspect the work, the inspector owed no
+duty to them.  Two of the sets of reasons were careful to distinguish the case
+from those cases where inspectors had attended at construction cites and been
+negligent in conducting their inspections.  This case is distinguishable from
+the case at bar, where the owners did notify the inspector of a need to
+inspect, and the inspector did attend at the site to conduct the inspection.  39                              
+To summarize, despite some ambiguity in the language used in his
+decision, it is clear that La Forest J. created a complete defence for
+municipalities that could be used to militate against a finding of negligence
+only in the rarest of circumstances, namely, when the owner-builder’s conduct
+was such that a court could only conclude that he or she was the sole source of
+his or her own loss.  This complete defence may encompass those situations
+where an owner-builder never applies for a building permit, or never notifies
+the inspector of the need for an inspection, or those situations where the
+inspector receives notification so late that it would be impossible, upon full
+exercise of the powers granted under the governing legislation, to discover any
+hidden defects.  In other cases, such as Rothfield v. Manolakos, supra,
+itself, it will still be open to municipalities to show that a plaintiff was
+contributorily negligent, and to seek an apportionment of the damages
+accordingly.  It is also clear that once a municipality chooses to implement a
+policy decision to inspect, it owes a duty to all who might be injured by the
+negligent exercise of those powers, including builder-owners, to take
+reasonable care in conducting that inspection.  As a result, I must disagree
+with the findings of the Ontario Court of Appeal in this case.  The city owed a
+duty to the appellant to conduct a reasonable inspection of the renovations to
+his home.  B.  Standard
+of Care  40                              
+As I have stated above, to avoid liability the city must show that its
+inspectors exercised the standard of care that would be expected of an
+ordinary, reasonable and prudent inspector in the same circumstances.  The
+measure of what constitutes a reasonable inspection will vary depending on the
+facts of each case, including the likelihood of a known or foreseeable harm,
+the gravity of that harm, and the burden or cost which would be incurred to
+prevent the injury; see, for example, Ryan v. Victoria, supra, at
+para. 28.  For example, a more thorough inspection may be required once an
+inspector is put on notice of the possibility that a construction project may
+be defective.  In addition, a municipal inspector may be required to exercise
+greater care when the work being inspected is integral to the structure of the
+house and could result in serious harm if it is defective.  While in some
+circumstances a more thorough inspection will be required to meet the standard
+of care, municipalities will not be held to a standard where they are required
+to act as insurers for the renovation work.  The city was not required to
+discover every latent defect in the renovations at the appellant’s home.  It
+was, however, required to conduct a reasonable inspection in light of all of
+the circumstances; see, for example, Rothfield v. Manolakos, supra,
+at pp. 1268-69.  41                              
+The inspection scheme set out in the 1990 Building Code Act
+delineates the powers that are available to municipal inspectors to discover defects
+in a construction project.  The city can only be held liable for those defects
+which the municipal inspector could reasonably be expected to have detected and
+had the power to have remedied.  42                              
+I turn now to the inspection that took place at the appellant’s home. 
+In examining whether the inspection was reasonable in the circumstances, we
+must bear in mind that the determination of whether a defendant has met the
+standard of care required in the circumstances is a question of fact.  While it
+is open to an appeal court to find that a trial judge applied the wrong
+standard of care, once it is determined that he or she applied the correct
+standard, an appeal court can reverse a trial judge’s findings with respect to
+whether that standard was met by the defendant only if it can be established
+that he or she made some palpable and overriding error which affected the
+assessment of the facts; see, for example, Ryan v. Victoria, supra,
+at para. 57; Stein v. The Ship “Kathy K”, [1976] 2 S.C.R. 802, at p.
+808.  43                              
+After conducting a thorough examination of the facts in this case,
+Conant J. concluded that the city’s inspection fell short of meeting a
+reasonable standard in the circumstances.  He accepted the appellant’s
+submission that the behaviour of the contractor should have made the inspector
+wary.  The contractor did not apply for the building permit until after the
+underpinning had been put in.  The contractor had ignored the instructions in
+the permit, which specified that the inspector was to be notified before
+proceeding with the underpinning.  The contractor had also failed to post the
+permit outside the appellant’s home.  Mr. Tecson testified that he did not know
+the contractor and had no basis for relying on him.  The trial judge concluded
+that, given these circumstances, it would have been reasonable to inspect
+further.  It was simply insufficient for the inspector to rely on the
+contractor’s assurances that the work, which was not readily visible, had been completed
+according to the specifications.  Indeed, it has been recognized by this Court
+that it is to be expected that contractors, in the normal course of events,
+will fail to observe certain aspects of the building by-laws.  It is for this
+reason that municipalities employ building inspectors; see, for example, Rothfield
+v. Manolakos, supra, at p. 1271.  It is, therefore, unreasonable for
+an inspector to conclude that a project has met the standards in the building
+code simply because the contractor has said so.  Such a conclusion is
+especially unreasonable when the inspector has been put on notice of the
+contractor’s willingness to contravene the instructions in the building permit.  44                              
+Conant J. also found that a more thorough inspection was reasonable in this
+case because of the nature of the work that was being carried out.  He found
+that the risk of harm was great, requiring a higher standard of care.  The
+construction work consisted of the installation of underpinning, which was to
+bear the weight of the entire house.  It was a major structural element, and a
+serious defect in its construction could have led to the collapse of the entire
+house.  While the tests conducted by the inspector could help to ascertain the
+quality of the materials used, they could not help to ascertain whether the
+dimensions of the underpinning were in accordance with the plan.  Given the
+importance of the underpinning to the safety of the entire house, verification
+that its construction met the specifications of the plan was necessary.  45                              
+The city argued that the inspector lacked the power to do anything
+further than the inspection that he conducted.  The underpinning had been laid
+before his arrival and it was impossible to determine visually whether it
+continued for the full width of the footing.  The basement was dug up for the
+laying of the drains, and only a few inches of the depth of the underpinning
+were visible because of the piles of dirt from the excavation.  The city argued
+that the powers of the building inspector to uncover work were limited. 
+Section 9(2) restricted those powers to situations where there was a reason to
+believe that a part of the building had not been constructed in compliance with
+the Act and there was a pre-existing order not to cover.  At trial, Conant J.
+accepted that the preconditions to satisfy granting an order pursuant to s.
+9(2) of the Act were absent in this case.  However, he rejected the argument
+that this was the only power available to the municipality to remedy the
+defect.  46                              
+The trial judge found that, pursuant to s. 11(1)(d) of the 1990 Act, the
+inspector had the power to order the appellant to call in an engineer to saw
+through the underpinning to determine its width.  Furthermore, pursuant to s.
+9(1) of the Act, the inspector could have ordered that the basement floor not
+be laid.  He could then have returned after the drains had been installed, when
+it was not raining, and dug down to determine the depth of the underpinning. 
+The city argues that this places too high a standard on the inspector.  He had
+no reason to believe that the underpinning did not meet the specifications in
+the plan.  His inspection indicated that the work had been done properly.  I
+find no error in the findings of the trial judge in this respect.  The
+inspector reached his conclusion that the depth and the width of the
+underpinning met the specifications in the plan on the assurance of a
+contractor who had already shown disregard for the requirements of the building
+permit, and tests which concluded that the other aspects of the underpinning
+had met the standard.  Given the nature of the work, it was unreasonable to
+conclude that the width and the depth of the underpinning met the requirements
+of the building code without actually inspecting that aspect of the work.  47                              
+The trial judge applied the correct principles in determining that the
+inspector failed to conduct a reasonable inspection in the circumstances.  He
+recognized that in the circumstances, especially in light of the importance of
+the underpinning to the structural safety of the home, a more vigilant
+inspection was required.  The Act granted the power to the inspector to conduct
+such an inspection.  By failing to exercise those powers to ensure that the
+underpinning met the specifications in the plan, the inspector failed to meet
+the standard of care that would have been expected of an ordinary, reasonable
+and prudent inspector in the circumstances.  I therefore agree with Conant J.
+that the municipality was negligent in conducting the inspection of the
+renovations on the appellant’s home.  C.  The
+Negligent Owner-Builder  48                              
+Having found that the city owed a duty to the appellant to conduct a
+reasonable inspection, and that its inspector failed to conduct a reasonable
+inspection in the circumstances, I must now examine whether the conduct of the
+appellant in this case was negligent, absolving the city of some of its
+liability for its insufficient inspection.  The appellant’s conduct may even
+have been such as to justify absolving the city of all liability for its
+negligence.  49                              
+Mr. Ingles had specified in his contract that Tutkaluk was to apply for
+a building permit.  Tutkaluk told him that the work would be delayed if it had
+to obtain a building permit before it began.  The trial judge found that the
+appellant knew or should have known what he was doing in agreeing to a delay in
+obtaining a building permit, and found that he was negligent in allowing the
+construction to begin without a permit.  On the other hand, the trial judge
+also found that it was impossible to conclude that the appellant and his wife
+participated in a conscious effort to prevent the building inspector from
+examining the underpinnings of their home.  The Court of Appeal found that the
+appellant and his wife were “sadly mistaken” in relying on Tutkaluk’s advice
+that it was appropriate to proceed with the underpinning without a permit.  It
+is clear that the appellant was negligent.  That negligence may reduce, in
+part, the city’s liability.  However, for the city to avail itself of the
+complete defence described in Rothfield v. Manolakos, supra, it
+must show that the appellant’s conduct was such as to make him the sole source
+of his own loss.  50                              
+As I have discussed above, the defence described in Rothfield v. Manolakos
+applies only in the narrowest circumstances.  To avail itself of the defence,
+the municipality must show that the owner-builders knowingly flouted the
+applicable building regulations or the directives of the building inspector, or
+that the owner-builders totally failed to acquit themselves of the
+responsibilities that rested on them, such that the inspector was no longer in
+a position to take reasonable measures to ensure that the construction was done
+in accordance with the applicable standards.  In delineating the type of
+conduct which might be considered “flouting” of the building regulations, or a
+total failure to meet the requirements of the legislative scheme on the part of
+the owner, it is important to consider the fact that the defence absolves
+municipalities of all liability.  As a result it serves as a complete bar to
+recovery for certain plaintiffs.  The scope of the defence must be consistent
+with the purposes of a system of tort law, and with tort law principles
+themselves.  51                              
+The contributory negligence bar, where a plaintiff was denied any means
+of recovery once he or she was seen to have contributed to his or her own loss,
+is no longer a part of our system of tort law.  It has been replaced by
+statutory schemes which apportion liability between negligent defendants and
+contributorily negligent plaintiffs.  This Court recently reaffirmed its
+disapproval of the bar in Bow Valley Husky (Bermuda) Ltd. v. Saint John
+Shipbuilding Ltd., [1997] 3 S.C.R. 1210.  In the course of determining
+whether the contributory negligence bar could still apply in maritime law,
+McLachlin J. states (at para. 94):  The considerations on which the contributory negligence bar was based
+no longer comport with the modern view of fairness and justice.  Tort law no
+longer accepts the traditional theory underpinning the contributory negligence
+bar –  that the injured party cannot prove that the tortfeasor “caused” the
+damage.  The contributory negligence bar results in manifest unfairness, particularly
+where the negligence of the injured party is slight in comparison with the
+negligence of others.  Nor does the contributory negligence bar further the
+goal of modern tort law of encouraging care and vigilance.  So long as an
+injured party can be shown to be marginally at fault, a tortfeasor’s conduct,
+no matter how egregious, goes unpunished.  In light of
+this Court’s approach to the contributory negligence bar, a municipality cannot
+avail itself of the defence set out in Rothfield v. Manolakos, supra,
+simply because a plaintiff acted negligently.  To allow the municipality to do
+so would amount to a reintroduction of the contributory negligence bar into the
+sphere of municipal inspection.  It would be inconsistent with the modern goal
+of tort law of encouraging care and vigilance to absolve a municipality of all
+liability for a negligent inspection simply because its inspectors were
+contacted late.  Municipalities, having made a policy decision to inspect even
+when a permit is obtained late, would be able to conduct unreasonable
+inspections, while being assured that there would be no financial sanction for
+doing so.  As I have stated above, the contributory negligence of a plaintiff
+may still be relevant to the apportionment of liability.  In Bow Valley v.
+Saint John Shipbuilding, supra, McLachlin J. reduced the plaintiff’s
+recovery by 60 percent due to its negligence.  In the case at bar, the
+liability will also be apportioned in accordance with the appellant’s
+negligence.  In the rarest of circumstances, such as those described in Rothfield
+v. Manolakos, a defendant may be absolved of all liability because it is
+shown that the owner-builder is entirely responsible for the damage and did not
+rely on the inspection.  52                              
+The concept of  “flouting”, therefore, must denote conduct which extends
+far beyond mere negligence on the part of an owner-builder.  The word suggests
+that the owner-builder in fact mocks the inspection scheme.  Certainly, an
+owner-builder who submitted false plans and documents to receive a permit would
+be mocking the scheme.  Similarly, an owner-builder who never contacted an
+inspector to conduct an inspection would show a lack of respect for the
+inspection scheme and certainly no reliance on it.  However, in this case the appellant
+did not act in these ways.  He certainly acted negligently.  The trial judge,
+however, found that he did not participate in a conscious effort to undermine
+the building code regime.  In my view, such conduct does not amount to a
+“flouting” of the building code.  As a result, I find that the Court of Appeal
+erred in absolving the city of all liability.  D.  Damages  53                              
+The appellant contends that this Court does not have the jurisdiction to
+review the trial judge’s award of damages in this case because the respondent
+city did not apply for leave to cross-appeal pursuant to Rule 29 of the Rules
+of the Supreme Court of Canada, SOR/83-74.  The relevant provisions of Rule
+29 provide as follows:  29.  (1)  A respondent who seeks to set
+aside or vary the whole or any part of the disposition of the judgment appealed
+from shall apply for leave to cross-appeal within 30 clear days after the
+service of the application for leave.                                                                     . . .  (3)  A respondent who seeks to uphold the judgment
+on a ground or grounds not raised in the reasons for the judgment appealed from
+may do so in the respondent’s factum without applying for leave to
+cross-appeal, and the appellant may serve and file a factum in reply in
+accordance with Rule 41.  The appellant
+argues that since the city’s arguments with respect to apportionment, damages,
+and joint and several liability do not seek to uphold the Court of Appeal
+judgment on a ground not raised in the reasons for judgment, the city must
+apply for leave to cross-appeal pursuant to Rule 29(1).  54                              
+The Court of Appeal did not find that the city was negligent in this
+case, and as such, did not comment upon the apportionment of the damages by the
+trial judge.  In asking this Court to review the trial judge’s apportionment of
+fault in this case, the city is not seeking to set aside or vary any part of
+the Court of Appeal judgment.  In addition, the city is not seeking to uphold
+the judgment on a ground or grounds not raised in the reasons for judgment. 
+The city is merely responding to the appellant’s position that the appellant’s
+negligence is properly considered in the apportionment of fault, and not in the
+determination of whether a duty of care was owed by the municipality. 
+Therefore, I find that the city’s arguments do not fall within Rule 29 and that
+this Court has the jurisdiction to review the apportionment of fault by the
+trial judge.  55                              
+The trial judge found that Tutkaluk was 80 percent liable for the damage
+suffered by the appellant.  The city was 20 percent liable for its negligent
+inspection.  He then turned to the appellant’s negligence.  Having found that
+the appellant should bear some of the responsibility for his loss, the trial
+judge reduced the city’s liability by 30 percent to account for the appellant’s
+negligence.  It appears that the trial judge took this approach to ensure that
+Tutkaluk would not benefit from the finding of negligence against the
+appellant, by having his damages reduced in proportion to the appellant’s
+fault.  With respect, this initial apportionment is not consistent with the Negligence
+Act, R.S.O. 1990, c. N.1.  Sections 1 and 3 of that Act read as follows:  1.  Where damages have been caused or
+contributed to by the fault or neglect of two or more persons, the court shall
+determine the degree in which each of such persons is at fault or negligent,
+and, where two or more persons are found at fault or negligent, they are
+jointly and severally liable to the person suffering loss or damage for such
+fault or negligence, but as between themselves, in the absence of any contract
+express or implied, each is liable to make contribution and indemnify each
+other in the degree in which they are respectively found to be at fault or negligent.   3.  In any action for damages that is
+founded upon the fault or negligence of the defendant if fault or negligence is
+found on the part of the plaintiff that contributed to the damages, the court
+shall apportion the damages in proportion to the degree of fault or negligence
+found against the parties respectively.  When there are
+two or more tortfeasors, and a plaintiff has also been found negligent, the
+proper approach to apportionment is to first reduce the extent of the
+recoverable damages in proportion with the plaintiff’s negligence, and then to
+apportion the remaining damages between the defendants, in accordance with
+their fault; see, for example, Fitzgerald v. Lane, [1988] 2 All E.R. 961
+(H.L.); Bow Valley v. Saint John Shipbuilding, supra; Colonial
+Coach Lines Ltd. v. Bennett, [1968] 1 O.R. 333.  56                              
+In his subsequent addendum, however, the trial judge clarified that his
+intention was to apportion fault so that the appellant would be 6 percent
+liable, the city would be 14 percent liable and Tutkaluk would be 80 percent
+liable.  In assessing the damages, he corrected his previous error, and
+subtracted the portion of the damages that could be attributed to the plaintiff
+in accordance with his findings of fault.  57                              
+The city has asked this Court to overturn the trial judge’s
+apportionment of fault in this case.  It argues that his apportionment is
+inconsistent with other apportionments in similar situations; see, for example,
+Rothfield v. Manolakos, supra, at p. 1278.  The apportionment of
+liability is primarily a matter within the province of the trial judge. 
+Appellate courts should not interfere with the trial judge’s apportionment
+unless there is demonstrable error in the trial judge’s appreciation of the
+facts or applicable legal principles; see Bow Valley v. Saint John
+Shipbuilding, supra, at para. 78.  While the trial judge applied an
+unorthodox method of apportionment in his original judgment, his subsequent
+addendum clearly shows his intention to apportion fault between the plaintiff
+and the defendants as follows:  6 percent to the appellant; 14 percent to the
+city; and 80 percent to the contractor.  The trial judge was well apprised of
+all of the facts in the case, and based his final apportionment on these
+facts.  In my view, there is no demonstrable error in the trial judge’s
+appreciation of the facts in this case to justify interfering with his
+apportionment.  58                              
+The city also argues that it should not be held to be jointly and
+severally liable with the contractor and that it should be liable only for its
+portion of the fault.  To support this contention, the city relies on
+authorities from British Columbia that have held that where the plaintiff is
+contributorily negligent, multiple tortfeasors will only be liable to the
+extent of their fault; see, for example, Leischner v. West Kootenay Power
+& Light Co. (1986), 24 D.L.R. (4th) 641 (B.C.C.A.).  I do not find
+these authorities to be applicable in this case.  The legislation in British
+Columbia differs significantly from the legislation in Ontario.  Section 2(c)
+of the Negligence Act, R.S.B.C. 1979, c. 298, reads as follows:  . . . as between each person who has sustained damage or loss
+and each other person who is liable to make good the damage or loss, the
+person sustaining the damage or loss shall be entitled to recover from that
+other person the percentage of the damage or loss sustained as corresponds to
+the degree of fault of that other person.  [Emphasis added.]  Therefore, it
+is possible to read the British Columbia legislation as allowing contributorily
+negligent plaintiffs to recover only the percentage of the damage sustained
+that corresponds to the degree of fault of each of the individual tortfeasors.  59                              
+The Ontario legislation has been interpreted differently, and joint and
+several judgments have been awarded to contributorily negligent plaintiffs; see
+Menow v. Honsberger Ltd., [1970] 1 O.R. 54 (H.C.), aff’d [1971] 1 O.R.
+129 (C.A.), aff’d on other grounds, [1974] S.C.R. 239 (sub nom. Jordan House
+Ltd. v. Menow).  Similarly, in Bow Valley v. Saint John Shipbuilding,
+supra, this Court ruled that defendants would be jointly and severally
+liable for a negligent plaintiff’s damages in the context of the Canada
+Shipping Act, R.S.C., 1985, c. S-9 .  The purpose of a regime which imposes
+joint and several liability on multiple defendants is to ensure that plaintiffs
+receive actual compensation for their loss.  Given the wording of the Ontario Negligence
+Act, I can see no reason to deny this benefit to a plaintiff who
+contributes to his or her loss.  His or her responsibility for the loss is
+accounted for in the apportionment of fault.  There is no reason to account for
+it again by denying him or her the benefit of a scheme of joint and several
+liability when the wording of the legislation does not intend it to be so.  60                              
+In light of the foregoing analysis, I would allow the appeal and restore
+the apportionment of fault by the trial judge.  As a result, the damages of
+$52,520 will be reduced by $3,151.20, representing 6 percent of the damages, to
+account for the appellant’s negligence.  I would thus restore the judgment of
+$49,368.80 against both the city and the contractor.  The city is entitled to
+have judgment for indemnity against the contractor for $42,016.  61                              
+I turn now to the prejudgment interest that was awarded by the trial
+judge.  The trial judge awarded prejudgment interest at the rate of 12.9
+percent.  The city has asked this Court to review that award to account for the
+fluctuations in the market interest rates that occurred between the date that
+the action was commenced and the date of judgment.  The Courts of Justice
+Act, R.S.O. 1990, c. C.43, s. 130, grants trial judges the discretion to
+award prejudgment interest at a different rate than the prescribed interest
+rate to account for changes in market interest rates.  The trial judge did not
+find that this was an appropriate case to lower the prejudgment interest rate
+from the one prescribed.  He did not find that he was prevented from adjusting
+the interest rate, but simply chose not to do so.  I find no reason to
+interfere with the trial judge’s exercise of his discretion on this matter.  62                              
+I would accordingly allow the appeal, set aside the judgment of the
+Court of Appeal and restore the decision of the trial judge, with costs
+throughout.  Appeal allowed with costs.  Solicitor for the appellant:  Philip Anisman, Toronto.  Solicitor for the respondent:  City Solicitor, Toronto.    

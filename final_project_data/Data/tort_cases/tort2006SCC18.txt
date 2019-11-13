@@ -1,0 +1,545 @@
+                                                   SUPREME
+COURT OF CANADA   Citation:  Childs v.
+  Desormeaux, [2006] 1 S.C.R. 643, 2006 SCC 18  Date:  20060505 Docket:  30472  Between: Zoe
+Childs, Andrew Childs, Pauline Childs, Heather
+Lee Childs and Jennifer Christine Childs Appellants and Desmond
+Desormeaux, Julie Zimmerman and Dwight Courrier Respondents and Mothers
+Against Drunk Driving (MADD Canada) and Insurance
+Bureau of Canada Interveners  Coram:
+McLachlin C.J. and Bastarache, Binnie, LeBel, Deschamps, Fish and Abella JJ.   Reasons for
+  Judgment: (paras. 1 to 49)   McLachlin C.J. (Bastarache,
+  Binnie, LeBel, Deschamps, Fish and Abella JJ. concurring)  ______________________________ Childs v. Desormeaux, [2006] 1 S.C.R. 643, 2006 SCC 18  Zoe Childs, Andrew Childs, Pauline Childs, Heather Lee Childs and Jennifer Christine Childs                                       Appellants  v.  Desmond Desormeaux, Julie Zimmerman and
+Dwight Courrier              Respondents  and  Mothers Against Drunk Driving (MADD Canada) and Insurance Bureau of Canada                                                                        Interveners  Indexed as:  Childs v. Desormeaux  Neutral citation:  2006 SCC 18.  File No.:  30472.  2006:  January 18; 2006:  May 5.  Present:  McLachlin C.J. and Bastarache, Binnie,
+LeBel, Deschamps, Fish and Abella JJ.  on appeal from the court of appeal for ontario  Torts — Duty of care — Social
+host liability — Accident caused by guest driving his car after
+leaving party intoxicated — Whether social host owes duty of care to
+third parties who may be injured by intoxicated guest.   Held:  The
+appeal should be dismissed.   Because a prima facie duty of care has not
+been established in this case, it is unnecessary to consider whether any duty
+would be negated by policy considerations at the second stage of the Anns
+test.  [48]  Cases Cited  Applied:  Anns
+v. Merton London Borough Council, [1978]
+A.C. 728; Kamloops (City of) v. Nielsen, [1984]
+2 S.C.R. 2; Cooper v. Hobart, [2001] 3 S.C.R. 537,
+2001 SCC 79; distinguished:  Stewart v. Pettie,
+[1995] 1 S.C.R. 131; Hendricks v. The Queen, [1970]
+S.C.R. 237; Horsley v. MacLaren, [1972] S.C.R. 441; Arnold
+v. Teno, [1978] 2 S.C.R. 287; Crocker v. Sundance Northwest
+Resorts Ltd., [1988] 1 S.C.R. 1186; Lambert v. Lastoplex
+Chemicals Co., [1972] S.C.R. 569; Hollis v. Dow Corning Corp.,
+[1995] 4 S.C.R. 634; Dziwenka v. The Queen in right of Alberta,
+[1972] S.C.R. 419; Bain v. Board of Education (Calgary) (1993),
+146 A.R. 321; Dunn v. Dominion Atlantic Railway Co. (1920),
+60 S.C.R. 310; Jordan House Ltd. v. Menow, [1974]
+S.C.R. 239; Doe v. Metropolitan Toronto (Municipality) Commissioners of
+Police (1998), 39 O.R. (3d) 487; referred to:  Donoghue
+v. Stevenson, [1932] A.C. 562; Odhavji Estate v. Woodhouse,
+[2003] 3 S.C.R. 263, 2003 SCC 69.  Statutes and Regulations Cited  Liquor Control Act,
+R.S.O. 1990, c. L.18.  Liquor Licence Act, R.S.O. 1990,
+c. L.19.   R.R.O. 1990, Reg. 719.  Authors Cited  Fridman,
+Gerald Henry Louis.  The Law of Torts in Canada, 2nd ed.
+Toronto:  Carswell, 2002.  APPEAL from a judgment of the Ontario Court of Appeal
+(O’Connor A.C.J.O. and Weiler and Sharpe JJ.A.) (2004), 71 O.R.
+(3d) 195, 239 D.L.R. (4th) 61, 187 O.A.C. 111,
+23 C.C.L.T. (3d) 216, 4 M.V.R. (5th) 1, [2004] O.J.
+No. 2065 (QL), affirming a decision of Chadwick J. (2002),
+217 D.L.R. (4th) 217, 13 C.C.L.T. (3d) 259, [2002] O.J.
+No. 3289 (QL).  Appeal dismissed.  Barry D. Laushway, Scott Laushway and Beth Alexander, for the
+appellants.  No one appeared for the respondent
+Desmond Desormeaux.  Eric R. Williams and Jaye E. Hooper, for the respondents
+Julie Zimmerman and Dwight Courrier.  Kirk F. Stevens, for the intervener Mothers Against Drunk Driving (MADD Canada).  Alan L. W. D’Silva, Nicholas McHaffie and Vaso Maric, for the
+intervener the Insurance Bureau of Canada.  The judgment of the Court was delivered by  The Chief Justice —  1.  Introduction  1                                  
+A person hosts a party.  Guests drink alcohol.  An inebriated guest
+drives away and causes an accident in which another person is injured.  Is the
+host liable to the person injured?  I conclude that as a general rule, a social
+host does not owe a duty of care to a person injured by a guest who has
+consumed alcohol and that the courts below correctly dismissed the appellants’
+action.  2.  Facts  2                                  
+This case arises from a tragic car accident in Ottawa in the early hours
+of January 1, 1999.  At 1:30 a.m., after leaving a party hosted by Dwight
+Courrier and Julie Zimmerman, Desmond Desormeaux drove his vehicle into
+oncoming traffic and collided head-on with a vehicle driven by Patricia
+Hadden.  One of the passengers in Ms. Hadden’s car was killed and three others
+seriously injured, including Zoe Childs, who was then a teenager.  Ms. Childs’ 
+spine was severed and she has since been paralyzed from the waist down.  Mr.
+Desormeaux and the two passengers in his car were also injured.  3                                  
+       Mr. Desormeaux was impaired at the time of the accident.  The
+trial judge found that he had probably consumed 12 beers at the party over two
+and a half hours, producing a blood-alcohol concentration of approximately 235
+mg per 100 ml when he left the party and 225 mg per 100 ml at the time of the
+accident —  concentrations well over the legal limit for driving of 80 mg per
+100 ml.  Mr. Desormeaux pleaded guilty to a series of criminal charges arising
+from these events and received a 10-year sentence.  4                                  
+The party hosted by Dwight Courrier and Julie Zimmerman at their home
+was a “BYOB” (Bring Your Own Booze) event.  The only alcohol served by the
+hosts was three-quarters of a bottle of champagne in small glasses at
+midnight.  Mr. Desormeaux was known to his hosts to be a heavy drinker.  The
+trial judge heard evidence that when Mr. Desormeaux walked to his car to leave,
+Mr. Courrier accompanied him and asked, “Are you okay, brother?”  Mr.
+Desormeaux  responded “No problem”, got behind the wheel and drove away with
+two passengers.  5                                  
+The trial judge found that a reasonable person in the position of Mr.
+Courrier and Ms. Zimmerman would have foreseen that Mr. Desormeaux might cause
+an accident and injure someone else.  However, the prima facie duty of
+care this gave rise to was negatived, in his view, by policy considerations
+involving the social and legal consequences of imposing a duty of care on
+social hosts to third parties injured by their guests, government regulation of
+alcohol sale and use and the preferability of a legislative, rather than a
+judicial, solution.  Accordingly, the trial judge dismissed the action ((2002),
+217 D.L.R. (4th) 217).  6                                  
+The Court of Appeal for Ontario dismissed Ms. Childs’ appeal.  In its
+view, the circumstances did not disclose even a prima facie duty of
+care.  Unless social hosts are actively implicated in creating the risk that
+gives rise to the accident, they cannot be found liable.  Here, the social
+hosts “did not assume control over the supply or service of alcohol, nor did
+they serve alcohol to [Mr.] Desormeaux when he was visibly impaired” ((2004),
+71 O.R. (3d) 195, at para. 75).  Unlike commercial hosts, they were under no
+statutory duty to monitor the consumption of alcohol or to control the premises
+where alcohol was served, nor did anyone rely on them to do so.  The court, per
+Weiler J.A., concluded (at para. 75):  . . . I cannot accept the proposition that by merely supplying the
+venue of a BYOB party, a host assumes legal responsibility to third party users
+of the road for monitoring the alcohol consumed by guests, . . . It would not
+be just and fair in the circumstances to impose a duty of care.  7                                  
+Ms. Childs appeals to this Court and asks that we reverse the courts
+below and conclude that Mr. Courrier and Ms. Zimmerman, as social hosts of the
+party where Mr. Desormeaux was drinking, are liable for the injuries she
+suffered.  8                                  
+The central legal issue raised by this appeal is whether social hosts
+who invite guests to an event where alcohol is served owe a legal duty of care
+to third parties who may be injured by intoxicated guests.  It is clear that
+commercial hosts, like bars or clubs, may be under such a duty.  This is the
+first time, however, that this Court has considered the duty owed by social
+hosts to plaintiffs like Ms. Childs.  3.  Analysis  3.1  The
+General Test for a Duty of Care  9                                  
+Before the decision of the House of Lords in Donoghue v. Stevenson,
+[1932] A.C. 562, the law governing tort liability for wrongs to others was a
+complex of categories derived from cases decided over the centuries.  In Donoghue
+v. Stevenson, the House of Lords replaced the category approach with a
+principled approach.  It recognized the existence of a “general conception of
+relations giving rise to a duty of care, of which the particular cases found in
+the books are but instances” (p. 580, per Lord Atkin).  The general
+concept of a duty owed to those whom one might injure proved both powerful and
+practical.  However, it brought with it a question — a question we wrestle with
+to this day.  How do we define the persons to whom the duty is owed?  10                              
+Lord Atkin recognized this problem in Donoghue v. Stevenson.  He
+accepted that negligence is based on a “general public sentiment of moral
+wrongdoing for which the offender must pay”, but distinguished legal duties
+from moral obligation: “. . . acts or omissions which any moral code would
+censure cannot in a practical world be treated so as to give a right to every
+person injured by them to demand relief” (p. 580).  My legal duty, he said,
+extends to my “neighbour”.  Legal neighbourhood is “restricted” to “persons who
+are so closely and directly affected by my act that I ought reasonably to have
+them in contemplation as being so affected when I am directing my mind to the
+acts or omissions which are called in question” (p. 580).  This concept,
+sometimes referred to as proximity, remains the foundation of the modern law of
+negligence.  11                              
+In Anns v. Merton London Borough Council, [1978] A.C. 728 (H.L.),
+Lord Wilberforce proposed a two-part test for determining whether a duty of
+care arises.  The first stage focuses on the relationship between the plaintiff
+and the defendant, and asks whether it is close or “proximate” enough to give
+rise to a duty of care (p. 742).  The second stage asks whether there are
+countervailing policy considerations that negative the duty of care. The
+two-stage approach of Anns was adopted by this Court in Kamloops
+(City of) v. Nielsen, [1984] 2 S.C.R. 2, at pp. 10-11, and recast as follows:  (1)    is there “a sufficiently close relationship
+between the parties” or “proximity” to justify imposition of a duty and, if so,  (2)    are there policy considerations which ought
+to negative or limit the scope of the duty, the class of persons to whom it is
+owed or the damages to which breach may give rise?  12                              
+In Odhavji Estate v. Woodhouse, [2003] 3 S.C.R. 263, 2003 SCC 69,
+the Court affirmed the Anns test and spoke, per Iacobucci J., of
+three requirements: reasonable foreseeability; sufficient proximity; and the
+absence of overriding policy considerations which negate a prima facie
+duty established by foreseeability and proximity: para. 52.  Some cases speak
+of foreseeability being an element of proximity where “proximity” is used in
+the sense of establishing a relationship sufficient to give rise to a duty of
+care: see, e.g., Kamloops.  Odhavji, by contrast, sees
+foreseeability and proximity as separate elements at the first stage;
+“proximity” is here used in the narrower sense of features of the relationship
+other than foreseeability.  There is no suggestion that Odhavji was
+intended to change the Anns test; rather, it merely clarified that
+proximity will not always be satisfied by reasonable foreseeability.  What is
+clear is that at stage one, foreseeability and factors going to the
+relationship between the parties must be considered with a view to determining
+whether a prima facie duty of care arises.  At stage two, the issue is
+whether this duty is negated by other, broader policy considerations.  13                              
+The plaintiff bears the ultimate legal burden of establishing a valid
+cause of action, and hence a duty of care:  Odhavji.  However,
+once the plaintiff establishes a prima facie duty of care, the
+evidentiary burden of showing countervailing policy considerations shifts to
+the defendant, following the general rule that the party asserting a point
+should be required to establish it.  14                              
+The courts in this case applied these general principles and concluded,
+for different reasons, that they did not give rise to a duty of care on social
+hosts of parties where alcohol is served, to members of the public who may be
+injured by an intoxicated guest’s conduct.  The trial judge found that the
+first stage of the test had been met, but that policy considerations at stage
+two negated a duty of care.  The Court of Appeal, by contrast, found that the
+first stage of establishing a prima facie duty of care had not been met,
+making it unnecessary to go on to the second stage of the Anns test.  3.2  Is the
+Proposed Duty Novel?  15                              
+A preliminary point arises from a nuance on the Anns test
+developed in Cooper v. Hobart, [2001] 3 S.C.R. 537, 2001 SCC 79.  The
+Court in Cooper introduced the idea that as the case law develops,
+categories of relationships giving rise to a duty of care may be recognized,
+making it unnecessary to go through the Anns analysis.  The reference to
+categories simply captures the basic notion of precedent: where a case is like
+another case where a duty has been recognized, one may usually infer that
+sufficient proximity is present and that if the risk of injury was foreseeable,
+a prima facie duty of care will arise.  On the other hand, if a case
+does not clearly fall within a relationship previously recognized as giving
+rise to a duty of care, it is necessary to carefully consider whether proximity
+is established.  Following Cooper, the first issue raised in this case
+is whether claims against private hosts for alcohol-related injuries caused by
+a guest constitute a new category of claim.  Like the courts below, I conclude
+that it does.  16                              
+Canadian law does not provide a clear answer to the question of whether
+people who host social events where alcohol is served owe a duty of care to
+third-party members of the public who may be harmed by guests who leave the
+event inebriated.  The closest comparison is that of commercial alcohol providers,
+who have been held to owe a duty to third-party members of the public who are
+injured as a result of the drunken driving of a patron: Stewart v. Pettie,
+[1995] 1 S.C.R. 131.  Although the action was dismissed on the facts, Stewart
+affirmed that a special relationship existed between taverns and the motoring
+public that could require the former to take positive steps to protect the
+latter.  17                              
+The situation of commercial hosts, however, differs from that of social
+hosts.  As discussed, in determining whether a duty of care arises, the focus
+is on the nature of the relationship between the parties.  Three differences in
+the plaintiff-defendant  relationship suggest that the possibility of a duty of
+care on commercial hosts does not automatically translate into a duty of care
+for social hosts.  18                              
+First, commercial hosts enjoy an important advantage over social hosts
+in their capacity to monitor alcohol consumption.  As a result, not only is
+monitoring relatively easy for a commercial host, but it is also expected by
+the host, patrons and members of the public.  In fact, commercial hosts have a
+special incentive to monitor consumption because they are being paid for
+service.  Patrons expect that the number of drinks they consume will be monitored,
+if only to ensure that they are asked to pay for them.  Furthermore, regulators
+can require that servers undertake training to ensure that they understand the
+risks of over-service and the signs of intoxication (see, e.g., R.R.O. 1990,
+Reg. 719).  This means that not only is monitoring inherently part of the
+commercial transaction, but that servers can generally be expected to possess
+special knowledge about intoxication.  19                              
+Second, the sale and consumption of alcohol is strictly regulated by
+legislatures, and the rules applying to commercial establishments suggest that
+they operate in a very different context than private-party hosts.  This
+regulation is driven by public expectations and attitudes towards intoxicants,
+but also serves, in turn, to shape those expectations and attitudes.  In
+Ontario, where these facts occurred, the production, sale and use of alcohol is
+regulated principally by the regimes established by the Liquor Control Act,
+R.S.O. 1990, c. L.18, and the Liquor Licence Act, R.S.O. 1990, c. L.19. 
+The latter Act is wide-ranging and regulates how, where, by and to whom alcohol
+can be sold or supplied, where and by whom it can be consumed and where
+intoxication is permitted and where it is not.  20                              
+These regulations impose special responsibilities on those who would
+profit from the supply of alcohol.  This is clear by the very existence of a
+licensing scheme, but also by special rules governing the service of alcohol
+and, as noted above, special training that may be required. Clearly, the sale
+of alcohol to the general public is understood as including attendant
+responsibilities to reduce the risk associated with that trade.  21                              
+The importance of this regulatory environment does not relate to the
+statutory requirements per se, but what they demonstrate about the
+nature of commercial alcohol sales and about the expectations of purveyors,
+patrons and the public.  Selling alcohol is a carefully regulated industry. 
+The dangers of over-consumption, or of consumption by young or otherwise
+vulnerable persons, means that its sale and service in commercial settings is
+controlled.  It is not treated like an ordinary commodity sold in retail
+stores.  The public expects that in addition to adherence to regulatory
+standards, those who sell alcohol to the general public take additional steps
+to reduce the associated risks.  Furthermore, patrons are aware that these
+special responsibilities have very real and visible manifestations.  The
+imposition of a “cut-off” at the bar is understood, and expected, as part of
+the institutionalization of these responsibilities.  Similarly, in many
+establishments, “bouncers” both enforce admission and assist other members of
+the staff who might have to deal with patrons who may have become intoxicated. 
+These features have no equivalent in the non-commercial context.  A party host
+has neither an institutionalized method of monitoring alcohol consumption and
+enforcing limits, nor a set of expectations that would permit him or her to
+easily do so.  22                              
+Third, the contractual nature of the relationship between a tavern
+keeper serving alcohol and a patron consuming it is fundamentally different
+from the range of different social relationships that can characterize private
+parties in the non-commercial context.  The appellants argue that there is
+“nothing inherently special” about profit making in the law of negligence.  In
+the case of alcohol sales, however, it is clear that profit making is
+relevant.  Unlike the host of a private party, commercial alcohol servers have
+an incentive not only to serve many drinks, but to serve too many. 
+Over-consumption is more profitable than responsible consumption.  The costs of
+over-consumption are borne by the drinker him or herself, taxpayers who collectively
+pay for the added strain on related public services and, sometimes tragically,
+third parties who may come into contact with intoxicated patrons on the roads. 
+Yet the benefits of over-consumption go to the tavern keeper alone, who enjoys
+large profit margins from customers whose judgment becomes more impaired the
+more they consume.  This perverse incentive supports the imposition of a duty
+to monitor alcohol consumption in the interests of the general public.  23                              
+The differences just discussed mean that the existence of a duty on the
+part of commercial providers of alcohol cannot be extended by simple analogy to
+the hosts of a private party.  The duty proposed in this case is novel.  We
+must therefore ask whether a duty of care is made out on the two-stage Anns test.  3.3  Stage
+One: A Prima Facie Duty?  24                              
+Applying the first stage of the Anns test requires, as noted
+above, an examination of the relationship between the parties to determine if
+it meets the requirement of sufficient proximity.  The question is: What, if
+anything, links party hosts to third-party users of the highway?  25                              
+The law of negligence not only considers the plaintiff’s loss, but
+explains why it is just and fair to impose the cost of that loss on the
+particular defendant before the court.  The proximity requirement captures this
+two-sided face of negligence.  26                              
+I conclude that the necessary proximity has not been established and,
+consequently, that social hosts of parties where alcohol is served do not owe a
+duty of care to public users of highways.  First, the injury to Ms. Childs was
+not reasonably foreseeable on the facts found by the trial judge.  Second, even
+if foreseeability were established, no duty would arise because the wrong
+alleged is a failure to act or nonfeasance in circumstances where there was no
+positive duty to act.  3.3.1  Foreseeability  27                              
+Ms. Childs argues that the parties are linked by the foreseeability of
+physical harm due to the manner in which the party hosts exercised “control or
+influence over” the party at which Mr. Desormeaux was drinking.  28                              
+The question of foreseeability is complicated by ambiguity in the
+findings of the trial judge.  The trial judge found that Mr. Desormeaux would
+be showing “obvious signs of impairment” (para. 73), but did not find that the
+hosts in the circumstances knew, or ought to have known, that Mr. Desormeaux
+was too drunk to drive.  The risks of impaired driving, and their consequences
+for motorists and their passengers, are well known.  However, if there is no
+finding that the hosts knew, or ought to have known, that the guest who
+was about to drive was impaired, how can it be said that they should have
+foreseen that allowing him to drive might result in injury to other motorists?  29                              
+Instead of finding that the hosts ought reasonably to have been aware
+that Mr. Desormeaux was too drunk to drive, the trial judge based his finding
+that the hosts should have foreseen injury to motorists on the road on
+problematic reasoning.  He noted that the hosts knew that Mr. Desormeaux had
+gotten drunk in the past and then driven.  He inferred from this that they
+should have foreseen that unless Mr. Desormeaux’s drinking at the party
+was monitored, he would become drunk, get into his car and drive onto the
+highway.  The problem with this reasoning is that a history of alcohol
+consumption and impaired driving does not make impaired driving, and the
+consequent risk to other motorists, reasonably foreseeable.  The inferential
+chain from drinking and driving in the past to reasonable foreseeability that
+this will happen again is too weak to support the legal conclusion of
+reasonable foreseeability — even in the case of commercial hosts, liability has
+not been extended by such a frail hypothesis.  30                              
+Ms. Childs points to the findings relating to the considerable amount of
+alcohol Mr. Desormeaux had consumed and his high blood-alcohol rating,
+coupled with the fact that Mr. Courrier accompanied Mr. Desormeaux to his car
+before he drove away, and asks us to make the finding of knowledge of
+inebriation that the trial judge failed to make.  The problem here is the
+absence of any evidence that Mr. Desormeaux displayed signs of intoxication
+during this brief encounter.  Given the absence of evidence that the hosts in this
+case in fact knew of Mr. Desormeaux’s intoxication and the fact that the
+experienced trial judge himself declined to make such a finding, it would not
+be proper for us to change the factual basis of this case by supplementing the
+facts on this critical point.  I conclude that the injury was not reasonably
+foreseeable on the facts established in this case.  3.3.2            Failure to Act: Nonfeasance
+Versus Misfeasance  31                              
+Foreseeability is not the only hurdle Ms. Childs’ argument for a duty of
+care must surmount.  “Foreseeability does not of itself, and automatically,
+lead to the conclusion that there is a duty of care”:  G. H. L. Fridman, The
+Law of Torts in Canada (2nd ed. 2002), at p. 320.  Foreseeability
+without more may establish a duty of care.  This is usually the case,
+for example, where an overt act of the defendant has directly caused
+foreseeable physical harm to the plaintiff: see Cooper.  However,
+where the conduct alleged against the defendant is a failure to act,
+foreseeability alone may not establish a duty of care.  In the absence of an
+overt act on the part of the defendant, the nature of the relationship must be
+examined to determine whether there is a nexus between the parties.  Although
+there is no doubt that an omission may be negligent, as a general principle,
+the common law is a jealous guardian of individual autonomy.  Duties to take
+positive action in the face of risk or danger are not free-standing. 
+Generally, the mere fact that a person faces danger, or has become a danger to others,
+does not itself impose any kind of duty on those in a position to become
+involved.  32                              
+In this case, we are concerned not with an overt act of the social
+hosts, but with their alleged failure to act.  The case put against them is
+that they should have interfered with the autonomy of Mr. Desormeaux by
+preventing him from drinking and driving.  It follows that foreseeability alone
+would not establish a duty of care in this case.  33                              
+The appellants’ argument that Mr. Courrier and Ms. Zimmerman committed
+positive acts that created, or contributed to, the risk cannot be sustained. 
+It is argued that they facilitated the consumption of alcohol by
+organizing a social event where alcohol was consumed on their premises.  But
+this is not an act that creates risk to users of public roads.  The real
+complaint is that having organized the party, the hosts permitted their guest
+to drink and then take the wheel of an automobile.  34                              
+A positive duty of care may exist if foreseeability of harm is present and
+if other aspects of the relationship between the plaintiff and the defendant
+establish a special link or proximity.  Three such situations have been
+identified by the courts. They function not as strict legal categories, but
+rather to elucidate factors that can lead to positive duties to act.  These
+factors, or features of the relationship, bring parties who would otherwise be
+legal strangers into proximity and impose positive duties on defendants that
+would not otherwise exist.  35                              
+The first situation where courts have imposed a positive duty to act is
+where a defendant intentionally attracts and invites third parties to an
+inherent and obvious risk that he or she has created or controls: Hendricks
+v. The Queen, [1970] S.C.R. 237; Horsley v. MacLaren, [1972] S.C.R.
+441; Arnold v. Teno, [1978] 2 S.C.R. 287; and Crocker v. Sundance
+Northwest Resorts Ltd., [1988] 1 S.C.R. 1186.  For example, it has been
+held that a boat captain owes a duty to take reasonable care to rescue a
+passenger who falls overboard (Horsley) and that the operator of
+a dangerous inner-tube sliding competition owes a duty to exclude people who
+cannot safely participate (Crocker).  These cases turn on the
+defendant’s causal relationship to the origin of the risk of injury faced by
+the plaintiff or on steps taken to invite others to subject themselves to a
+risk under the defendant’s control.  If the defendant creates a risky situation
+and invites others into it, failure to act thereafter does not immunize the
+defendant from the consequences of its acts.  These cases are akin to the
+positive and continuing duty of manufacturers or transferors of goods to
+warn of inherently dangerous products or dangerous uses of safe products: Lambert
+v. Lastoplex Chemicals Co., [1972] S.C.R. 569; Hollis v. Dow Corning
+Corp., [1995] 4 S.C.R. 634.  36                              
+The second situation where a positive duty of care has been held to
+exist concerns paternalistic relationships of supervision and control, such as
+those of parent-child or teacher-student: Dziwenka v. The Queen in right of
+Alberta, [1972] S.C.R. 419; Bain v. Board of Education (Calgary)
+(1993), 146 A.R. 321 (Q.B.).  The duty in these cases rests on the special
+vulnerability of the plaintiffs and the formal position of power of the
+defendants.  The law recognizes that the autonomy of some persons may be
+permissibly violated or restricted, but, in turn, requires that those with
+power exercise it in light of special duties.  In the words of Virtue J. in Bain,
+in the context of a teacher-student relationship, “[t]hat right of control
+carries with it a corresponding duty to take care for the safety of, and to
+properly supervise the student, whether he or she is a child, an adolescent or
+an adult” (para. 38).  37                              
+The third situation where a duty of care may include the need to
+take positive steps concerns defendants who either exercise a public function
+or engage in a commercial enterprise that includes implied responsibilities to
+the public at large: Dunn v. Dominion Atlantic Railway Co. (1920), 60
+S.C.R. 310; Jordan House Ltd. v. Menow, [1974] S.C.R. 239; Doe v.
+Metropolitan Toronto (Municipality) Commissioners of Police (1998), 39 O.R.
+(3d) 487 (Gen. Div.).  In these cases, the defendants offer a service to the
+general public that includes attendant responsibilities to act with special
+care to reduce risk.  Where a defendant assumes a public role, or benefits from
+offering a service to the public at large, special duties arise.  The duty of a
+commercial host who serves alcohol to guests to act to prevent foreseeable harm
+to third-party users of the highway falls into this category:  Stewart v.
+Pettie.  38                              
+Running through all of these situations is the defendant’s material
+implication in the creation of risk or his or her control of a risk to which
+others have been invited.  The operator of a dangerous sporting competition
+creates or enhances the risk by inviting and enabling people to participate in
+an inherently risky activity.  It follows that the operator must take special
+steps to protect against the risk materializing.  In the example of the parent
+or teacher who has assumed control of a vulnerable person, the vulnerability of
+the person and its subjection to the control of the defendant creates a
+situation where the latter has an enhanced responsibility to safeguard against
+risk. The public provider of services undertakes a public service, and must do
+so in a way that appropriately minimizes associated risks to the public.  39                              
+Also running through the examples is a concern for the autonomy of the
+persons affected by the positive action proposed.  The law does not impose a
+duty to eliminate risk.  It accepts that competent people have the right to
+engage in risky activities.  Conversely, it permits third parties witnessing
+risk to decide not to become rescuers or otherwise intervene.  It is only when
+these third parties have a special relationship to the person in danger or a
+material role in the creation or management of the risk that the law may
+impinge on autonomy.  Thus, the operator of a risky sporting activity may be
+required to prevent a person who is unfit to perform a sport safely from
+participating or, when a risk materializes, to attempt a rescue.  Similarly,
+the publican may be required to refuse to serve an inebriated patron who may
+drive, or a teacher be required to take positive action to protect a child who
+lacks the right or power to make decisions for itself.  The autonomy of risk
+takers or putative rescuers is not absolutely protected, but, at common law, it
+is always respected.  40                              
+Finally, the theme of reasonable reliance unites examples in all
+three categories.  A person who creates or invites others into a dangerous
+situation, like the high-risk sports operator, may reasonably expect that those
+taking up the invitation will rely on the operator to ensure that the risk is a
+reasonable one or to take appropriate rescue action if the risk materializes. 
+Similarly, a teacher will understand that the child or the child’s parents rely
+on the teacher to avoid and minimize risk.  Finally, there is a reasonable
+expectation on the part of the public that a person providing public services,
+often under licence, will take reasonable precautions to reduce the risk of the
+activity, not merely to immediate clients, but to the general public.  41                              
+Does the situation of the social host who serves alcohol to guests fall
+within the three categories just discussed or represent an appropriate
+extension of them having regard to the factors of risk-control and reasonable
+preservation of autonomy that animate them?  I conclude that it does not.  42                              
+The first category concerns defendants who have created or invited
+others to participate in highly risky activities.  Holding a house party where
+alcohol is served is not such an activity.  Risks may ensue, to be sure, from
+what guests choose to do or not do at the party.  But hosting a party is a far
+cry from inviting participation in a high-risk sport or taking people out on a
+boating party.  A party where alcohol is served is a common occurrence, not one
+associated with unusual risks demanding special precautions.  The second
+category of paternalistic relationships of supervision or control is equally
+inapplicable.  Party hosts do not enjoy a paternalistic relationship with their
+guests, nor are their guests in a position of reduced autonomy that invites
+control.  Finally, private social hosts are not acting in a public capacity
+and, hence, do not incur duties of a public nature.  43                              
+More broadly, do the themes that animate the cases imposing positive duties
+to act — risk enhancement and control, autonomy and reasonable reliance —
+suggest that the social hosts in this case owed a duty of care to third-party
+users of the highway, to take reasonable steps to prevent what happened? 
+Again, the answer is that they do not.  44                              
+Holding a private party at which alcohol is served — the bare facts of
+this case — is insufficient to implicate the host in the creation of a risk
+sufficient to give rise to a duty of care to third parties who may be
+subsequently injured by the conduct of a guest.  The host creates a place where
+people can meet, visit and imbibe alcohol, whether served on the premises or
+supplied by the guest.  All this falls within accepted parameters of
+non-dangerous conduct.  More is required to establish a danger or risk that
+requires positive action.  It might be argued that a host who continues to
+serve alcohol to a visibly inebriated person knowing that he or she will be
+driving home has become implicated in the creation or enhancement of a risk
+sufficient to give rise to a prima facie duty of care to third parties,
+which would be subject to contrary policy considerations at the second stage of
+the Anns test.  This position has been taken in some states in the
+U.S.A.: N.J.  Stat. Ann. §§ 2A:15-5.5 to 2A:15-5.8 (West 2000).  We need not
+decide that question here.  Suffice it to say that hosting a party where
+alcohol is served, without more, does not suggest the creation or exacerbation
+of risk of the level required to impose a duty of care on the host to members
+of the public who may be affected by a guest’s conduct.  45                              
+Nor does the autonomy of the individual support the case for a duty to
+take action to protect highway users in the case at bar.  As discussed, the
+implication of a duty of care depends on the relationships involved.  The
+relationship between social host and guest at a house party is part of this
+equation.  A person who accepts an invitation to attend a private party does
+not park his autonomy at the door.  The guest remains responsible for his or
+her conduct.  Short of active implication in the creation or enhancement of the
+risk, a host is entitled to respect the autonomy of a guest. The consumption of
+alcohol, and the assumption of the risks of impaired judgment, is in almost all
+cases a personal choice and an inherently personal activity.  Absent the
+special considerations that may apply in the commercial context, when such a
+choice is made by an adult, there is no reason why others should be made to
+bear its costs. The conduct of a hostess who confiscated all guests’ car keys
+and froze them in ice as people arrived at her party, releasing them only as
+she deemed appropriate, was cited to us as exemplary.  This hostess was
+evidently prepared to make considerable incursions on the autonomy of her
+guests.  The law of tort, however, has not yet gone so far.  46                              
+This brings us to the factor of reasonable reliance.  There is no
+evidence that anyone relied on the hosts in this case to monitor guests’ intake
+of alcohol or prevent intoxicated guests from driving.  This represents an
+important distinction between the situation of a private host, as here, and a
+public host.  The public host provides alcohol to members of the public, under
+a strict regulatory regime.  It is reasonable to expect that the public
+provider will act to protect the public interest.  There is public reliance
+that he will comply with the rules that prohibit serving too much alcohol to a
+patron and that if this should occur and the patron seeks to drive, that the
+public host will take reasonable steps to prevent the person from driving.  The
+same cannot be said of the private social host, who neither undertakes nor is
+expected to monitor the conduct of guests on behalf of the public.  47                              
+I conclude that hosting a party at which alcohol is served does not,
+without more, establish the degree of proximity required to give rise to a duty
+of care on the hosts to third-party highway users who may be injured by an
+intoxicated guest.  The injury here was not shown to be foreseeable on the
+facts as found by the trial judge.  Even if it had been, this is at best a case
+of nonfeasance.  No duty to monitor guests’ drinking or to prevent them from
+driving can be imposed having regard to the relevant cases and legal
+principles.  A social host at a party where alcohol is served is not under a
+duty of care to members of the public who may be injured by a guest’s actions,
+unless the host’s conduct implicates him or her in the creation or exacerbation
+of the risk.  On the facts of this case, I agree with the Court of Appeal, at
+para. 75, per Weiler J.A.:  The person sought to be held liable must be implicated in the creation
+of the risk. . . . The social hosts had no statutory duty to monitor the
+consumption of alcohol or to control the structure of the atmosphere in which
+alcohol was served. There is no evidence that anyone relied on them to do so. .
+. . I cannot accept the proposition that by merely supplying the venue of a
+BYOB party, a host assumes legal responsibility to third party users of the
+road for monitoring the alcohol consumed by guests, . . . It would not be just
+and fair in the circumstances to impose a duty of care.  48                              
+Having concluded that a prima facie duty of care has not been
+established, I find it  unnecessary to consider whether any duty would be
+negated by policy considerations at the second stage of the Anns test.  4.  Conclusion  49                              
+I would dismiss the appeal with costs.  Appeal dismissed with costs.  Solicitors for the appellants:  Laushway Law Office,
+Prescott.  Solicitors  for the respondents Julie Zimmerman and Dwight Courrier:
+Williams McEnery, Ottawa.  Solicitors for the intervener Mothers Against Drunk Driving (MADD
+Canada):  Lerners, Toronto.  Solicitors for the intervener the Insurance Bureau of
+Canada:  Stikeman Elliott, Toronto.   

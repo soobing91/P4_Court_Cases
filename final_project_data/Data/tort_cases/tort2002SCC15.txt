@@ -1,0 +1,1162 @@
+  v.  Denis Mercier                                                                                               Respondent   Neutral citation:  2002 SCC 15.  File No.:  27515.  2001:  April 18; 2002:  February 21.   on appeal from the court of appeal for quebec  Civil responsibility – Physicians and surgeons –
+Duty of prudence and diligence – Victim of car accident bringing action in
+civil responsibility arising out of treatment of his injuries by orthopaedic
+surgeon – Trial judge finding surgeon to be without fault and ruling that
+causation had not been established – Whether Court of Appeal justified in intervening
+in trial judge’s decision – Whether presumption of causation applies.  Appeals – Standard of review – Victim of car
+accident bringing action in civil responsibility arising out of treatment of
+his injuries by orthopaedic surgeon – Trial judge finding surgeon to be without
+fault and ruling that causation had not been established – Whether Court of
+Appeal justified in intervening in trial judge’s decision – Whether Supreme
+Court of Canada has reason to intervene in Court of Appeal’s decision.   The appellant’s action against the respondent went to
+trial.  After the case had been heard and while the trial judge was
+deliberating, he fell ill and so the case was transferred to another judge, to
+be decided on the basis of the evidence entered at trial.  The new trial judge
+found the respondent to be without fault, concluding that he could not be
+reproached for not having diagnosed a medullary contusion rather than a sciatic
+condition.  He also found that the appellant had not discharged his burden to
+show causation.  The Court of Appeal found that the respondent had committed a
+fault, but affirmed the trial judge’s ruling that causation had not been
+established.  Held:  The appeal
+should be dismissed.  The inquiry to be made in this case is the traditional
+one: was the Court of Appeal correct in intervening in the trial judge’s
+decision because there was an error of law, an error of mixed law and fact, or
+an overriding and palpable error of fact?  The Court of Appeal concluded that the
+trial judge made a mistake in the analysis of fault by asking the wrong
+question in determining whether a fault had been committed.  The correct
+inquiry to be made in assessing whether a professional committed a fault is to
+ask whether the defendant behaved as would a reasonably prudent and diligent
+fellow professional in the same circumstances.  To ask, as the principal
+question in the general inquiry, whether a specific positive act or an instance
+of omission constitutes a fault is to collapse the inquiry and may confuse the
+issue.  What must be asked is whether that act or omission would be acceptable
+behaviour for a reasonably prudent and diligent professional in the same
+circumstances.  The erroneous approach runs the risk of focussing on the result
+rather than the means.  Here, the Court of Appeal was concerned that a proper
+inquiry was not made and the wrong standard of fault was applied by the trial
+judge.  This concern entitled the Court of Appeal to intervene.  The Court of Appeal also faulted the trial judge’s
+decision for not taking a position on the scientific debate as to causation.  A
+trial judge must assess whether the evidence supports, on a balance of
+probabilities, a finding of causation.  It is not enough to say that there are
+opposing medical theories on causation and that it is not up to the court to
+decide between them.  It was thus open to the Court of Appeal to be concerned
+that the trial judge had erred in this manner and accordingly undertake its own
+analysis of causation.   The Court is not clearly satisfied that there was an
+error in the Court of Appeal’s findings of fact as to causation.  The Court of
+Appeal concluded that notwithstanding the faults committed by the respondent,
+the accident was the legal cause of the injury suffered by the appellant
+resulting in paraparesis.  This conclusion was amply supportable by the
+evidence.  The Court of Appeal ultimately gave its sanction to the respondent’s
+experts’ theory that it was at the point and moment of impact that there
+occurred a medullary contusion, which set in motion the chain of physiological
+phenomena which would lead to the subsequent paraparesis.  The Court of Appeal
+committed no error in its interpretation of the evidence and its conclusion
+that given the initial harm caused by the accident, no causation can be
+attributed to the respondent’s faults.  The initial harm of the accident simply
+outweighed any kind of effect the faulty treatment might have had, to the point
+where it cannot be said on a probabilistic basis that the faulty treatment had
+any causal effect.  The chances of recuperation in this case were not
+significant enough on a balance of probabilities to establish that the faulty
+treatment caused the harm suffered.   The rule of imposing solidary liability where a wrong
+causing injury has been jointly committed should not be applied in favour of
+the appellant.  It should only be applied in cases where there is a true
+impossibility to determine the author of the delict, which impossibility did
+not exist here.  Cases Cited   Statutes and Regulations Cited  An Act respecting the
+implementation of the reform of the Civil Code,
+S.Q. 1992, c. 57, ss. 9, 85.  Civil Code of Lower Canada, arts. 1053, 1238, 1242.  Civil Code of Québec, S.Q. 1991, c. 64, arts. 1480, 2846, 2847, 2849.  Authors Cited     Jutras, Daniel.  “Expertise
+scientifique et causalité”.  Dans Congrès annuel du Barreau du Québec (1992). 
+Montréal:  Service de la formation permanente, Barreau du Québec, 1992, 897.  Karim, Vincent.  Commentaires
+sur les obligations, vol. 1.  Cowansville, Qué.:  Yvon Blais, 1997.  Kerans, Roger P.  Standards
+of Review Employed by Appellate Courts.  Edmonton:  Juriliber, 1994.  Mayrand, Albert.  “L’énigme des
+fautes simultanées” (1958), 18 R. du B. 1.  Québec.  Ministère de la Justice. 
+Commentaires du ministre de la Justice:  Le Code civil du Québec: Un
+mouvement de société, t. II.  Québec:  Publications du Québec, 1993.   Woods, Thomas S.  “Overturning
+Findings of Fact on Appeal:  A Justifiably Narrow Jurisdiction” (1998), 56 The
+Advocate 61.  APPEAL from a judgment of the Quebec Court of Appeal,
+[1999] R.J.Q. 1658, [1999] Q.J. No. 2584 (QL), affirming a decision of the
+Superior Court, [1998] Q.J. No. 234 (QL).  Appeal dismissed.   Gérald R. Tremblay,
+Q.C., Louis Terriault and David E. Platts, for the
+respondent.  English version of the judgment of the Court delivered
+by  Gonthier J. –  I.  Introduction  1                                  
+This tragic case raises issues in the areas of medical liability under
+Quebec civil law and appellate review of lower court decisions.  The appellant,
+who was the victim of a serious car accident, appeals against a decision of the
+Quebec Court of Appeal dismissing his appeal of Morin J.’s decision in the
+Superior Court, which rejected his action in civil responsibility arising out
+of the treatment of his injuries by  the respondent orthopaedic surgeon as well
+as another defendant physician against whom the appellant did not pursue his
+action in this Court.  The general issue raised by this appeal is whether the
+Court of Appeal was justified in intervening in the Superior Court’s decision,
+and likewise whether this Court has reason to intervene in the Court of
+Appeal’s decision.  An incidental question is whether this case warrants an
+application in favour of the appellant of a presumption as to causation between
+the respondent’s alleged fault and the harm suffered by the appellant.  For the
+reasons that follow, I have concluded that the Court of Appeal was entitled to
+intervene in the Superior Court’s decision and find fault but nevertheless
+confirm the latter’s ruling that there was no causation.  This Court is
+justified in modifying certain findings of fault made by the Court of Appeal,
+all the while allowing the finding of fault to stand.  The latter court’s
+conclusion that there was no causation is affirmed.  On the incidental
+question, there is no reason to apply a presumption in favour of the appellant since,
+given the divergent facts and expert opinion on the matter, there were no
+serious, precise, and concordant presumptions to be made in this case.  II.  Facts  2                                  
+In the evening of August 11, 1986, the appellant was hit by an
+automobile travelling at 90 km/h an hour while he was hitchhiking along highway
+20 in Saint-Jean-Chrysostome, in the Quebec City area.  He was transported by
+ambulance to Hôtel-Dieu de Lévis Hospital where he came under the care of the
+attending emergency doctor, Dr. Couture.  The doctor found that the appellant
+was conscious but agitated, had open fractures in both legs and abrasions on
+the abdomen, and was bleeding from the head.  3                                  
+The appellant was hovering between life and death upon arrival at the
+hospital.  He was losing a lot of blood from the lower limbs and his pulse was
+very rapid.  The appellant suffered from partial amnesia so his memory of
+events between noon on August 11 and the evening of August 18 is confused at
+best.  Dr. Couture treated him for approximately three hours.  The doctor asked
+for x-rays to be done on the lungs, abdomen, thorax, and the dorsolumbar
+column, indicating in the x-ray requisition that this was a case of a
+“polytrauma”.  These x-rays showed nothing abnormal except that Dr. Couture suspected
+a fracture in the spine at the T7 vertebra.  He made a note of this as well as
+the appellant’s complaint of back pain which he testified meant general back
+pain.  4                                  
+The appellant was examined by the respondent Dr. Mercier, an orthopaedic
+surgeon, later that evening.  The respondent was aware of the suspected
+fracture at T7 and noted it as follows: [translation]
+“Fx T7? Will see with radiologist”.  He nonetheless concluded that the fracture
+was stable or that it was actually only a benign anomaly, thus not impeding his
+ability to operate.  The operation was extremely urgent as it was necessary to
+treat the open wounds in the legs.  5                                  
+The appellant was brought to the operating room that evening to
+treat the leg fractures.  The respondent noted that the procedure was well
+tolerated.  There are two notes describing the appellant’s condition written by
+the respondent that evening.  The first indicates that the neurovascular exam
+was satisfactory.  The respondent said at trial that this exam was basically a
+vascular one, despite the terminology used.  The second note, which is undated
+but considered to have been written at the same time, reads: [translation] “From a
+neurological point of view, drowsy and agitated at times. No neurovascular
+deficit but difficult to assess on lower limbs given the open fractures. No
+dorsolumbar pain.”  The respondent said at trial that what he meant by the
+latter observation was that there was no specific back pain.  6                                  
+In the afternoon of August 12, a nurse entered a note that there was
+good warmth and colour to the two feet as well as good movement of the toes of
+both feet.  She observed that both feet, but especially the left one, were
+edematous.  7                                  
+On August 13, the respondent decided that the appellant’s condition had
+sufficiently improved to allow another operation on the leg the next day. 
+Unlike the first operation, this one was not urgent though it was desirable that
+it be performed promptly so as to avoid prolonging immobilization.  8                                  
+The second operation was carried out on August 14.  A nurse’s note
+states that the appellant was carried to the operating room in a stretcher,
+contrary to the usual practice of taking the patient to the operating room in
+his own bed.  The appellant had earlier in the day complained of pains in the
+back and abdomen, as well as being thirsty and hot.  The operation took place
+on an orthopaedic table and it went well.  9                                  
+In the evening of August 14, a nurse entered a note that the appellant
+could feel physical contact to his legs but that he was unable to move his legs
+and toes.  The same observation was made in the course of the next few days.  10                              
+On August 15, the respondent attributed this condition to sciatica on
+the right side consequent to the surgery.  The respondent noted on August 18
+that there was still no recuperation of the sciatic nerve.  A similar
+observation was made on August 21, the day a third operation was carried out to
+modify a traction device attached to the leg.  Since the appellant was able to
+feel his toes when they were touched, the respondent decided that there was
+nonetheless an amelioration in the sciatica.  11                              
+The respondent left for vacation on August 22 and was replaced by Dr.
+Nolin, who was given a treatment plan that called for progressive mobilization
+of the appellant.  The appellant started moving around in a wheelchair and was
+able to move around in his bed with the aid of supports.  12                              
+The appellant was discharged from the hospital on August 27 and was
+scheduled to meet with the respondent in the out-patient clinic on September
+12.  It was during this visit, upon removing the plaster covering the right
+leg, that the respondent witnessed spasms to his great surprise, a symptom of
+spastic paraplegia.  He consulted a neurologist, Dr. Bergeron, who confirmed a
+condition of spastic paraplegia arising from a medullary contusion.  13                              
+No x-ray of the back was taken on September 12.  The appellant returned
+to school while waiting for more thorough tests, which were fixed for September
+19.  The x-rays and myelogram revealed a fracture at the T8 vertebra with a
+subluxation (partial dislocation) of 9 millimetres in relation to T9.  A more
+detailed review of the x-rays taken on August 11 revealed that the fracture at
+T8 was visible but that the subluxation was only 3 millimetres.  Tomography
+tests were also done on September 22.  14                              
+The respondent ordered the immobilization of the appellant and proposed
+surgery in order to decompress the spinal cord.  On September 24, the appellant
+requested to be transferred to the Enfant-Jésus Hospital, where the treating
+neurosurgeon decided not to operate.  15                              
+The appellant was diagnosed with paraparesis, a type of paralysis where
+the motor activity of the lower limbs is undermined but sensitivity is still
+retained.  He underwent physiotherapy and continued with his education,
+obtaining a law degree and being called to the Quebec Bar.  16                              
+The appellant applied for and received compensation from the Société de
+l’assurance automobile du Québec (“SAAQ”).  The SAAQ informed him in July 1991
+that it would no longer grant him full compensation as it found no causal
+relationship between the paraparesis and the automobile accident of August 11,
+1986.  However, after the Superior Court’s ruling finding the car accident to
+be the cause of the appellant’s injuries, the SAAQ reversed its decision.  17                              
+The appellant’s action against the respondent and Dr. Couture, the
+emergency-room doctor, went to trial on February 10, 1997 before Rioux J.  The
+appellant’s action against Hôtel-Dieu de Lévis Hospital was settled out of court
+on March 23, 1994.  Five medical experts appeared for each side.  After the
+case had been heard and while Rioux J. was deliberating, he fell ill and so the
+case was transferred to Morin J., to be decided on the basis of the evidence
+entered at trial.  III.  Relevant
+Statutory Provisions  18                              
+An Act respecting the implementation of the reform of the Civil Code,
+S.Q. 1992, c. 57  9.  Proceedings pending continue to be
+governed by the former legislation.  . . . A further exception is made for all
+matters concerning proof and procedure in such proceedings.  85. The conditions of civil liability are
+governed by the legislation in force at the time of the fault or act which
+causes the injury.  Civil Code
+of Lower Canada  1053.  Every person capable of discerning
+right from wrong is responsible for the damage caused by his fault to another,
+whether by positive act, imprudence, neglect or want of skill.  1238.  Presumptions are either established
+by law or arise from facts which are left to the discretion of the courts.  1242.  Presumptions not established by law
+are left to the discretion and judgment of the court.  Civil Code
+of Québec, S.Q. 1991, c. 64  2846.  A presumption is an inference
+established by law or the court from a known fact to an unknown fact.  2847. . . .  A presumption concerning presumed facts is simple
+and may be rebutted by proof to the contrary; a presumption concerning deemed
+facts is absolute and irrebuttable.  2849.  Presumptions which are not
+established by law are left to the discretion of the court which shall take
+only serious, precise and concordant presumptions into consideration.  IV.  Judgments
+Below  A.  Quebec
+Superior Court, [1998] Q.J. No. 234 (QL)  19                              
+Morin J. found that Dr. Couture had committed no fault in the manner
+that he treated the appellant and accordingly rejected the action against him.  20                              
+Morin J. also found the respondent Dr. Mercier to be without fault.  He
+began with the suspected fracture at T7 and concluded that either it was stable
+or it was not a fracture at all.  This was the assessment of all of the expert
+witnesses as well as the respondent himself.  In those circumstances, there can
+be no reproach for not discussing T7 with the radiologist since it would not
+have led to anything and there were no injuries resulting from this supposed
+fracture.  21                              
+The trial judge found that reviewing the x-rays with the radiologist
+would not have shed any light on the T8-T9 fracture-luxation since the
+radiologist himself testified that he could not see it on the x-rays taken on
+August 11, 1986.  Similarly, the respondent could not be blamed for not seeing
+it.  22                              
+On the question of back pain, Morin J. accepted the respondent’s
+testimony that the reason he wrote [translation] “no dorsolumbar pain” was because the appellant indicated no precise back pain in
+response to questions posed by the respondent on that subject.  Since there was
+no indication to suspect a fracture of the spinal column, the respondent had no
+reason to immobilize the patient to stabilize the spine.  23                              
+The respondent diagnosed the appellant with a sciatic problem when, in
+retrospect, it was a case of paraparesis stemming from a medullary (spinal)
+contusion.  Morin J. listed some factors explaining why this could not be
+characterized as a fault.  By August 15, when the respondent made the diagnosis
+of sciatica, he had the radiologist’s report which made no mention of the
+fracture-luxation at T8-T9.  The appellant did not complain to the respondent
+of any specific back pain.  Even though the nurses took note of back pain, they
+testified that this meant that it was of a generalized nature.  The appellant
+himself testified that from what he remembers of that time, he had back pain
+but of a tolerable nature.  Morin J. found that it was not unreasonable to
+think that the appellant did not consider it important to mention it to the
+respondent.  Even though the appellant’s friend, Jocelyn Richard, did testify
+that the former complained to him of back pain, there was no indication that
+the respondent was witness to this.  Moreover, the friend did not mention the
+complaints of back pain to any medical personnel.  Richard also claims to have
+frequently seen the appellant with priapism (which would have been indicative
+of medullary trauma) but no nurse ever noticed this, and they testified that
+they would have taken note of such a state had they seen it.  There is no
+evidence that the respondent knew of this condition.  Finally, the state of the
+appellant’s lower limbs made an adequate neurological exam very difficult.  24                              
+For all of these reasons, Morin J. concluded that the respondent could
+not be reproached for not having diagnosed a medullary contusion rather than a
+sciatic condition.  This conclusion is reinforced by the fact that many experts
+testified that the nature of the injuries suffered by the appellant was very
+unusual, which made diagnosis even more difficult.  25                              
+Even though Morin J. found there to be no fault and therefore no civil
+liability, he canvassed the arguments regarding the causal link between the
+purported fault and the injury.  He indicated that the respondent’s experts’
+theory seemed more probable, but that even if it was not, the court found
+itself confronted by two opposing medical theories regarding causation among
+which it could not choose one against the other.  He consequently found that
+the appellant had not discharged his burden to show causation and thus there
+was a second reason to dismiss the action.  B.  Quebec
+Court of Appeal, [1999] R.J.Q. 1658  26                              
+The Court of Appeal (Gendreau, Proulx and Rousseau-Houle JJ.A.)
+concluded that Morin J. had asked himself the wrong question in determining
+whether there was a fault.  Morin J. had asked whether the respondent had
+committed a fault by not diagnosing the neurological deficit and the unstable fracture
+at the T8 and T9 vertebrae.  The true question to be asked according to the
+Court of Appeal was whether the respondent [translation]
+“had abided by the rules of art in the treatment of a seriously injured patient
+who has the potential, if not the probability, of having a back fracture” (p.
+1662).  This error on the part of the trial judge led him to apply the wrong
+standard in evaluating the conduct of the respondent and therefore permitted
+the Court of Appeal to make its own assessment as to fault.  27                              
+The Court of Appeal found that in not following up on the suspected
+fracture at the T7 vertebra, in not doing more complete neurological exams, in
+not consulting the nurses’ notes alerting to the possibility of a neurological
+deficit, and in not ordering immobilization of the spinal column, the
+respondent did not behave like a prudent and diligent orthopaedic surgeon.  The
+respondent had thus committed a fault.  28                              
+On the issue of causation, the Court of Appeal corrected what it
+considered to be a mistaken approach by Morin J.  The trial judge had refused
+to take sides in the experts’ dispute as to the cause of the neurological
+deficit, saying that it was not his role to judge between two opposed medical
+theories.  The Court of Appeal found that such an approach to causation would
+unduly favour defendants in all cases where the establishment of the causal
+link depends on contradictory expert scientific evidence. Even if the
+scientific conclusions are not absolute or not incontestable, a judge must
+convert scientific conclusions to a legal conclusion since scientific causation
+is not the same as legal causation.  The latter is established on the balance
+of probabilities based on all of the evidence.  29                              
+The Court of Appeal rejected the appellant’s claim for a reversal of the
+burden of proof.  It said that there was enough evidence to maintain the
+traditional rule of the burden of proof.  It specified that this rule should be
+set aside in only the most exceptional cases, such as the one where two defendants
+negligently fire in the same direction and at the same time, their delictual
+conduct eliminating any means of proof available to the plaintiff.  30                              
+On the question of causation, the Court of Appeal concluded that the
+medullary injury was already complete on the evening of the accident and that
+the manifestations of that injury presented themselves gradually.  It took note
+that even the appellant’s principal experts did not exclude the hypothesis that
+a subluxation already occurred in the evening of August 11 and that this
+entailed a certain medullary contusion.  Their only contention was that only
+external mobilization could account for the subluxation of T8.  The Court of
+Appeal accepted the respondent’s experts’ evidence regarding the ligaments’
+rupture, compression, and MRI results to conclude that the medullary lesion was
+probably complete at the time of the accident.  It acknowledged that an early
+immobilization resulting in a better recuperation was more than a simple
+possibility, but that this was not significant enough to give rise to civil
+liability given the extent of the initial harm caused.  V.  Issues  31                              
+The questions raised by this appeal are the following:  (1) What is
+the standard of review of a lower court decision?  (a) Did the Court of Appeal properly intervene in the Superior Court
+decision?  (b) Is there a basis for this Court to intervene in the Court of Appeal
+decision?  (2) Is there a
+reason to apply a presumption of causation in favour of the appellant?  VI.  Analysis  A.  Transitional
+Law  32                              
+The events in this case all took place before the coming into force of
+the new Civil Code of Québec in 1994.  Sections 9 and 85 of An Act
+respecting the implementation of the reform of the Civil Code make it clear
+that the substantive law governing this case is that of the Civil Code of
+Lower Canada, more specifically art. 1053 of that Code.  While questions of
+evidence such as presumptions are governed by the new code, there has been no
+break in the approach towards presumptions from the previous regime.  The
+relevant provisions in the Civil Code of Lower Canada did not provide a
+definition and did not specify the kind of presumptions to be taken into
+account.  However, the case law has always made those specifications and the
+new code has simply codified them in art. 2849 (see Ministère de la Justice, Commentaires
+du ministre de la Justice (1993), vol. II, at p. 1783; J.-L. Baudouin and
+Y. Renaud, Code civil du Québec annoté (3rd ed. 2000), vol. 2, at pp.
+3355-58).  B.  Reviewing Lower Court Decisions  33                              
+Questions about the correct legal test are questions of law (Canada
+(Director of Investigation and Research) v. Southam Inc., [1997] 1 S.C.R.
+748, at para. 35).  In the case at bar, the question of the correct
+inquiry or legal test in determining a delictual fault is a question of law.  34                              
+An appellate court must review a lower court’s judgment on questions of
+law to determine their correctness (P. (D.) v. S. (C.), [1993] 4 S.C.R.
+141, at p. 189 (a contrario); Moge v. Moge, [1992] 3 S.C.R. 813,
+at p. 833; R. v. Nova Scotia Pharmaceutical Society, [1992] 2 S.C.R.
+606, at p. 647; Lapointe v. Hôpital Le Gardeur, [1992] 1 S.C.R. 351, at
+p. 373 (a contrario); and R. P. Kerans, Standards of Review Employed
+by Appellate Courts (1994), at p. 90).  35                              
+Questions of fact are “questions about what actually took place between
+the parties” (Southam, supra, at para. 35).  The question of
+whether the respondent did this or that is a question of fact, as is the
+question of whether the accident or any lack of immobilization caused the
+appellant’s state of paraparesis or hindered his recovery.   37                              
+The principle of non-intervention on questions of fact is also
+applicable to a second appellate court such as this Court vis-à-vis a
+first appellate court (Demers v. Montreal Steam Laundry Co. (1897), 27
+S.C.R. 537, at pp. 538-39; Pelletier v. Shykofsky, [1957] S.C.R. 635, at
+p. 638; Dorval, supra, at p. 294; Scotsburn Co-operative
+Services Ltd. v. W. T. Goodwin Ltd., [1985] 1 S.C.R. 54, at pp. 63-64).  38                              
+In Demers, supra, at pp. 538-39, Taschereau J. said:  For it is settled law upon which we have often acted here, that where a
+judgment upon facts has been rendered by a court of first instance, and a first
+court of appeal has reversed that judgment, a second court of appeal should
+interfere with the judgment on the first appeal, only if clearly satisfied that
+it is erroneous. . . .  This statement
+was endorsed in Pelletier, supra, and both of these cases were
+discussed in Dorval, supra, where Fauteux J. examined the
+principle that must govern this Court’s review of an appeal court’s judgment on
+questions of fact once the latter has examined the facts and arrived at a
+conclusion after justifiably intervening in the trial judgment.  He said, at p.
+294:  [translation] Thus, in
+order to intervene in this case, it would be necessary to be clearly satisfied
+that the judgment of the Court of Appeal is erroneous, either with respect to
+the reason for its intervention or with respect to its assessment of the
+evidence in the record.  Fauteux J.
+said that he was not “clearly satisfied” that the Court of Appeal erred and
+therefore dismissed the appeal.  39                              
+Similarly in Scotsburn, supra, this Court was asked to
+review the decision of a court of appeal where the latter justifiably
+intervened in the trial judgment.  Dickson J. (as he then was) applied the rule
+in Dorval, supra, and held, at p. 64, that he was not “clearly
+satisfied” that there was an error by the Court of Appeal in its interpretation
+of the evidence.  40                              
+In Beaudoin-Daigneault v. Richard, [1984] 1 S.C.R. 2, even though
+this Court did disturb the findings of fact made by the Court of Appeal, it did
+so only after affirming the validity of the principle expressed in Dorval,
+supra, and finding that the Court of Appeal erroneously intervened in
+the trial judgment.  This Court intervened for the purpose of restoring the
+trial decision, which simply confirms the general principle of appellate
+non-intervention.  41                              
+A peculiarity of the case at bar is that the first trial judge, Rioux
+J., fell ill after hearing all the evidence and was consequently substituted by
+Morin J.  The latter made his decision based on the evidence entered at trial. 
+There is seemingly less of a basis for deference where the trial judge did
+exactly what the Court of Appeal and, by extension, this Court do to arrive at
+a decision.  However, the Quebec Court of Appeal has upheld the principle of
+deference in cases similar to the one at bar where the judge of first instance
+is not the one who presided over the trial:  Cie de volailles Maxi Ltée v.
+Empire Cold Storage Co., [1995] Q.J. No. 731 (QL); Cooke v. Suite,
+[1995] R.J.Q. 2765.  42                              
+Even where observation of the witnesses and hearing the testimonies are
+not of any particular importance for the disposition of the case, the principle
+of non-intervention is still important since the trial judge is entrusted with
+the task of making a decision based on the facts, and is presumed to have
+diligently discharged that duty.  In Toneguzzo-Norvell (Guardian ad litem
+of) v. Burnaby Hospital, [1994] 1 S.C.R. 114, the British Columbia Court of
+Appeal justified its intervention on the basis that it was in as good a
+position to draw inferences from the expert evidence as was the trial judge
+since there was no issue of credibility.  In this Court, McLachlin J. (as she
+then was), at p. 122, agreed that the principle of non-intervention does not
+apply with the same force where the credibility of witnesses is not in issue. 
+However, she did observe that the weight to be assigned to the various pieces
+of evidence under our trial system is essentially the province of the trier of
+fact.  More broadly it is correct to say that where a trial judge has been
+given the mandate to make a decision based on questions of fact, there is still
+a need for appellate judicial restraint given that the assessment of facts is
+the province of the trier of fact.  Also, the autonomy and integrity of the
+trial process as well as resource allocation militate in favour of the finality
+of judgments (see Schwartz v. Canada, [1996] 1 S.C.R. 254, at para. 32;
+T. S. Woods, “Overturning Findings of Fact on Appeal: A Justifiably Narrow
+Jurisdiction” (1998), 56 The Advocate 61, at pp. 63 and 65-67;  Kerans, supra,
+at pp. 10-16; and R. D. Gibbens, “Appellate Review of Findings of Fact”
+(1991-92), 13 Adv. Q. 445, at pp. 445-47).  43                              
+Schwartz, supra, brought an element of refinement to the
+established case law that a second appellate court should only disturb findings
+of fact if it is clearly satisfied that an error has occurred in the first
+appellate judgment.  La Forest J. said, at para. 37:  In my view, nothing justifies a second appellate
+court in showing that kind of deference to the assessment of the balance of
+probabilities made by the first appellate court.  If the second appellate court
+agrees that the trial judge made some kind of error that justifies
+intervention, it should be free to reconsider the evidence and substitute its
+own findings of fact for that of the first court of appeal’s if disagreement
+occurs.  44                              
+Schwartz, supra, is a refinement on the previous case law
+in the sense that where the first appellate court reverses the trial judge on
+findings of fact related to credibility, this Court should not feel constrained
+in assessing the evidence on a balance of probabilities since the first
+appellate court was no better placed in assessing credibility, and this Court
+is faced with a trial level decision going in one direction and an appellate
+decision going in the opposite direction.  This Court can in that context make
+its own assessments on questions of fact such as whether something has been
+established on a balance of probabilities.  45                              
+In contrast, where there are concurrent findings of fact at the
+lower courts, this Court will be hesitant to intervene and disturb findings of
+fact.  This Court has already said in Ontario (Attorney General) v. Bear
+Island Foundation, [1991] 2 S.C.R. 570, at p. 574, that the principle of
+non-intervention “is all the stronger in the face of concurrent findings
+of both courts below” (emphasis added).  46                              
+In either case, the second appellate court must be “clearly satisfied
+that [the judgment of the Court of Appeal] is erroneous” (Dorval, supra,
+at p. 294).  I do not consider La Forest J.’s statement as being a departure
+from the previous case law on the role of second appellate courts on questions
+of fact.  He cited some of the same cases as I have here (Beaudoin-Daigneault,
+Demers, and Dorval), and did not express any kind of opposition
+to that case law, not to mention any desire to overturn those cases.  Despite
+the freedom with which this Court can reconsider the evidence and “substitute
+its own findings of fact for that of the first court of appeal’s if
+disagreement occurs” (Schwartz, supra, at para. 37),  that
+disagreement must nonetheless stem from a clear satisfaction that an error has
+occurred in the first appellate court’s assessment of the facts.  47                              
+In the case at bar, the Court of Appeal did not really disturb the
+Superior Court’s findings on causation since it substantially agreed with the
+ultimate conclusion of Morin J.  The Court of Appeal did intervene on the
+causation issue since Morin J. had framed the legal analysis of causation in an
+erroneous manner, which I discuss in greater detail below.  But after
+reassessing the evidence, the Court of Appeal came to the same conclusion as
+Morin J. that no causation was proven on the balance of probabilities.  Thus,
+on the issue of causation, there is substantive agreement between the Superior
+Court and the Court of Appeal, which takes us away from the pattern described
+in Schwartz, supra, and brings us closer to the scenario in Bear
+Island, supra.  48                              
+A question “about whether the facts satisfy the legal tests” is one of
+mixed law and fact.  Stated differently, “whether the defendant satisfied the
+appropriate standard of care is a question of mixed law and fact” (Southam,
+at para. 35).  49                              
+Generally, such a question, once the facts have been established
+without overriding and palpable error, is to be reviewed on a standard of
+correctness since the standard of care is normative and is a question of law
+within the normal purview of both the trial and appellate courts.  Such is the
+standard for medical negligence.  There is no issue of expertise of a
+specialized tribunal in a particular field which may go to the determination of
+facts and be pertinent to defining an appropriate standard and thereby call for
+some measure of deference by a court of general appeal (Southam, supra,
+at para. 45; and Nova Scotia Pharmaceutical Society, supra, at p.
+647).  50                              
+The inquiry to be made here is the traditional one.  Was the Court of
+Appeal correct in intervening in the Superior Court’s decision because there
+was an error of law, an error of mixed law and fact, or an overriding and
+palpable error of fact?  Do the appropriate bases present themselves for this
+Court to intervene in the Court of Appeal’s decision?  C.  Errors
+of Law in the Reasons of the Superior Court  51                              
+The Court of Appeal found two errors of law in the Superior Court
+judgment.  First, it concluded that Morin J. made a mistake in the analysis of
+fault.  Second, it found that Morin J. made a mistake in the analysis of
+causation.  I shall deal with these in turn.  52                              
+The Court of Appeal said that Morin J. had asked the wrong question in
+determining whether a fault had been committed and thereby applied the wrong
+standard in evaluating the conduct of the respondent.  According to the Court
+of Appeal, instead of asking whether the respondent was at fault in failing to
+diagnose or badly diagnosing the medullary contusion and the fracture-luxation
+at T8-T9, Morin J. should have asked whether the respondent acted according to
+the professional rules of art in the treatment of this patient.  The Court of
+Appeal essentially said that the question to be answered should be cast in
+general terms according to the appropriate standard of conduct in the analysis
+of fault under Quebec civil law, rather than incorporating the specific facts
+of the case into the question.  53                              
+The correct inquiry to be made in assessing whether a professional
+committed a fault is indeed to ask whether the defendant behaved as would a
+reasonably prudent and diligent fellow professional in the same circumstances
+(J.-L. Baudouin and P. Deslauriers, La responsabilité civile (5th ed.
+1998), at p. 850).  To ask, as the principal question in the general
+inquiry, whether a specific positive act or an instance of omission constitutes
+a fault is to collapse the inquiry and may confuse the issue.  What must be
+asked is whether that act or omission would be acceptable behaviour for a
+reasonably prudent and diligent professional in the same circumstances.  The
+erroneous approach runs the risk of focussing on the result rather than the
+means.  Professionals have an obligation of means, not an obligation of result.  54                              
+In deciding that the wrong question had been asked, the Court of
+Appeal was concerned that a proper inquiry was not made and the wrong standard
+of fault was applied by the trial judge.  This concern entitled the Court of
+Appeal to intervene.  While it is not entirely clear that Morin J. was unaware
+of the appropriate inquiry to be made, his conclusion, at para. 78, that [translation] “Dr.
+Mercier cannot be faulted for failing to diagnose the medullary contusion his
+patient suffered . . . and having thought instead that he was
+suffering from sciatica on the right side” raises some doubt as to whether he
+was sufficiently focussed on a delictual analysis of means rather than
+one of result.  55                              
+The Court of Appeal also faulted the decision by the trial judge for
+not  taking a position on the scientific debate as to causation.  Morin J.
+wrote, at para. 90:  [translation] [T]he court
+concludes that it is not up to it to decide between the opposing medical
+theories it is finally presented with concerning the causal link between the
+defendants’ actions and the paraplegia the plaintiff is suffering from.  The trial judge must assess whether the evidence supports, on a
+balance of probabilities, a finding of causation.  If this standard of proof is
+not met, the plaintiff has simply been unsuccessful in discharging his burden
+of proof.  It is not enough to say that there are opposing medical theories on
+causation and that it is not up to the court to decide between them.  56                              
+A trial judge must reach a legal conclusion based on the scientific
+evidence and other evidence presented.  Not to come to a definitive conclusion
+on a balance of probabilities amounts to an undue advantage granted to the
+defendant, who might simply need to come up with a plausible but contrary
+scientific theory in order to negative the plaintiff’s claim.  Such an approach
+is tantamount to an alteration of the standard of proof since the trial judge
+is no longer looking at which scientific theory is most probable.  It is an
+error of law in the analysis of causation for a trial judge to conclude that he
+or she does not have the authority to make a final legal determination in the
+face of competing theories.  57                              
+There is room for the principle of judicial neutrality in the analysis
+of fault.  It is appropriate for the courts not to take a position when there
+are competing but recognized medical theories on what is competent professional
+practice or an appropriate diagnosis.  In Lapointe, supra, at p.
+363, L’Heureux-Dubé J. said that “a doctor will not be found liable if the
+diagnosis and treatment given to a patient correspond to those recognized by
+medical science at the time, even in the face of competing theories”
+(emphasis added).  However, it is not appropriate to be similarly neutral on
+matters of causation and thereby refrain from determining whether causation has
+been established on the legal standard of balance of probabilities.  58                              
+It was open to the Court of Appeal to be concerned that the trial judge
+had erred in this manner and accordingly to undertake its own analysis of
+causation.  There is no reason for this Court to question that intervention. 
+At issue are the Court of Appeal’s findings as to fault and causation.  I will
+now turn to these.  D.  Fault  59                              
+The Court of Appeal identified four principal faults committed by the
+respondent:  not verifying with the radiologist the fracture at T7 and not
+ensuring that there were no other fractures in the spinal column; not asking
+for more complete neurological tests; not taking cognizance of the nurses’
+notes indicating a neurological deficit; and not ordering the immobilization of
+the spinal column.  Because of all these failings, it was possible to conclude
+that the respondent did not behave as a prudent and diligent orthopaedist would
+in similar circumstances.  60                              
+As I discussed above, findings of fault in the law of delict are
+questions of mixed law and fact.  They are the application of a legal concept
+onto a set of facts.  The standard to be applied in this instance of a question
+of mixed law and fact is one of correctness.  It is open to this Court to vary
+the findings of fault of the Court of Appeal if it judges that these were done
+erroneously.  61                              
+The Court of Appeal, at p. 1664, identified as a fault the omission by
+the respondent to verify with the radiologist the possible fracture at T7 and
+to assure himself that there were no other fractures, given the violence of the
+impact during the accident:   [translation]
+Dr. Mercier’s
+presumption concerning the relative importance of the fracture at T7 did not
+exempt him from examining, after the first emergency operation, the appellant’s neurological state in order to verify the injury
+at T7 and to ensure that there were no other spinal column fractures, given the
+violence of the impact during the accident.  There are two elements to this finding of fault: the suspicion about
+a fracture at T7 and the violence of the impact.  The majority of the expert
+opinion concluded that there was no fracture at T7 but rather a benign
+anomaly.  In any case, at the time of diagnosis by Dr. Couture and the
+respondent, there was only a suspicion of a fracture at T7.  The Court
+of Appeal undoubtedly meant this implicitly as it reproached the respondent not
+for being ignorant of the fracture at T7 (there was none to be discovered), but
+rather, for not inquiring further, so long as there was a remaining doubt, into
+the possibility of a fracture at T7 or elsewhere, given the extreme
+violence of the accident.  62                              
+The fault of the respondent lies in making neither further examinations
+of the spine based on the suspected fracture at T7 nor neurological
+examinations.  Even though it was generally accepted among the experts that
+there was no fracture at T7, the suspicion of a fracture at one level should
+have motivated the respondent to ensure that there were no fractures at any
+other level, and to ensure that there was no other injury in the back.  By his
+own testimony, the respondent was concerned about T7 even after the second
+operation, and expressed that concern by asking the appellant about back pain,
+though by that time he could no longer move his toes.  63                              
+There can be no reproach against the respondent for not verifying the
+fracture at T7 with the radiologist.  As far as T7 itself was concerned, the
+respondent had exercised his professional judgement and decided that whatever
+fracture there may be at that level, it was stable.  64                              
+However, the suspected fracture at T7 together with the violence of the
+impact, as well as the consequent concern of the respondent about back pain
+later on, should have led the respondent to examine more fully the state of the
+spine once the urgent first operation was done.  Further investigation would
+have permitted him to discover the true fracture at T8.  The fault lies in not
+conducting the requisite neurological tests, and not examining the back
+properly with the available tests such as more localized x-rays and scans.  The
+respondent admitted at trial that these tests were available on August 11, and
+so they clearly could have been done after the first operation.  Dr. Bouvier
+for the appellant testified that there is a general need upon admission to the
+emergency ward to do tests frequently to assess whether there is deterioration
+or amelioration.  Both Dr. Lévesque and Dr. Drouin, also for the appellant,
+testified that neurological tests were possible despite the limitations posed
+by the injuries to the lower limbs.  While these experts said that the exams
+could have been done upon admission, which was contested by the respondent’s
+experts, Dr. Jodoin and Dr. Séguin, they certainly could have been done
+after the first operation, once the appellant’s injuries in the lower limbs
+were stabilized.  Dr. Charlebois for the respondent did say that he would have
+inquired into the patient’s ability to withstand further tests, and would have
+required more specific information before conducting further tests.  The
+respondent’s other experts did not contest the possibility for doing more localized
+x-rays and scans, but said that there was no indication to the respondent for
+the need to do them.  For the reasons mentioned above, I find no error in the
+Court of Appeal’s concluding that a reasonably prudent and diligent orthopaedic
+surgeon would have done them.  65                              
+The Court of Appeal considered it a fault for the respondent not to take
+cognizance of the nurses’ notes made after the second operation.  These notes
+indicated a neurological deficit as well as back pain.  However, it is
+difficult to see this as a fault given that the respondent personally checked
+to see how the appellant was recovering after the second operation and asked
+specifically about back pain.  There is no reason to find a fault on this
+point.  66                              
+The Court of Appeal found the lack of immobilization to be a fault.  It
+did not make clear whether this fault was contingent on the first fault.  I
+cannot see how it could be otherwise.  Obviously, if T7 was considered to be
+stable and there was no reason to suspect any other fracture, there was no
+reason to immobilize.  It is only upon learning or at least being suspicious
+that there is an unstable fracture that there would be a reason to immobilize. 
+I do consider that a lack of immobilization, more specifically the second operation,
+could be a fault, but only in conjunction with the first fault of not making
+further inquiries.  67                              
+As for the particulars of that fault of not immobilizing, the Court of
+Appeal reproached the respondent for not making an immobilization order.  However,
+the testimony of two nurses was quite explicit to the effect that there is
+immobilization in cases such as these until an explicit order for mobilization
+is given.  This is corroborated by the fact that the respondent made a
+mobilization order on August 14, after the second operation.  68                              
+On the other hand, there is documentary evidence in the hospital record
+stating that the respondent had been turned over several times, was rubbed in
+the back, and was given a bath in bed between August 12 and 13.  The appellant’s
+expert, Dr. Bouvier, considered this to be an example of wrongful
+mobilization.  69                              
+There was thus evidence for the Court of Appeal to conclude as it did on
+this point.  There is no reason for this Court to disturb that conclusion.  70                              
+The Court of Appeal found the use of a stretcher in carrying the
+appellant to the operating room to be a fault.  It made this finding on the
+basis of nurse Couture’s note that said that the patient was moved on a “civière”
+(stretcher) for the second operation on August 14.  71                              
+Nurse Couture testified at trial that she found it odd that she should
+have written such a thing since the normal practice was to take orthopaedic
+patients in their own beds, especially when there is a traction device on the
+patient, as was the case here.  She said that it normally never happens that
+such a patient is taken on a stretcher.  The respondent testified that all
+patients in traction on whom he has operated are brought to the operating room
+in their beds.  Dr. Jodoin, expert for the respondent, insisted that it is
+impossible that a stretcher was used instead of bringing the appellant into the
+operating room in his own bed since he was attached to a traction device.  This
+device with its pulley mechanism is fixed to the bed with the result that a
+patient is never put on a stretcher when traction is needed.  Dr. Jodoin said
+that he was [translation]
+“morally certain” that the appellant was not put on a stretcher to be taken to
+the operating room.  72                              
+It was open to the Court of Appeal to rely on nurse Couture’s written
+note regarding use of the stretcher, even though the author of that note as
+well as other medical professionals cast serious doubt about its accuracy.  73                              
+The second operation conducted on August 14 is an instance of a lack of
+immobilization.  The respondent admitted at trial that the second operation was
+not urgent.  Carrying it out without making the appropriate examinations to
+ensure adequate stability was clearly a fault.  There was a need to ensure
+prior stability through appropriate examinations because the operation, with
+its attendant curarization resulting in the neutralization of the muscular
+support around the spine, posed an unacceptable danger to the stability of the
+spine.  The respondent did not behave as a reasonably prudent and diligent
+orthopaedic surgeon, and thereby committed a fault.  E.  Causation 74                              
+The Court of Appeal concluded, at p. 1669, that, notwithstanding the
+faults committed by the respondent, the accident was the legal cause of the
+injury suffered by the appellant resulting in paraparesis,  [translation] While an
+early immobilization and a diminution of the oedema in the spinal cord are more
+than mere possibilities with regard to a better recovery of the neurological
+deficit, they are not significant enough, given the magnitude of the initial
+damage caused by the accident, to hold Dr. Mercier liable in part.  It canvassed
+the principal points of the expert evidence and reached a conclusion.  This
+conclusion was amply supportable by the evidence.  I am not clearly satisfied
+that there was an error in the Court of Appeal’s findings of fact as to
+causation that would permit me to intervene in the latter’s decision.  75                              
+The general theory of the appellant’s experts is that the injury took
+place due to hospital mobilization that related principally to the second
+operation.  The appellant’s toes were moving after the first operation, but
+were not after the second.  It is argued that the paraparesis is due to an
+absence of adequate immobilization of the appellant.  According to these
+experts, it was the faulty treatment that aggravated the injury caused by the
+accident.  Immobilization would have decompressed the spinal cord.  According
+to Dr. Bouvier, the paraparesis is due to the displacement of the vertebrae
+caused by the mobilization of the appellant, such as the back rub given between
+the first and second operations, the turning over of the appellant, the giving
+of baths in bed, the transfer from bed to stretcher before the second
+operation, and the second operation itself.  Dr. Guimond ascribed greatest
+probability of injury to the second operation.  He specified that the
+curarization of the second operation had the effect of relaxing the back muscles,
+which resulted in a lack of support for the spine.  It was this instability
+that caused the vertebral displacement at T8-T9 to go from 3 millimetres
+ascertained upon arrival to 8 or 9 millimetres discovered a month later.  Dr.
+Guimond acknowledged that some neurological deficit to the lower limbs may have
+been caused by the accident, but asserted that the deficit was not complete. 
+He attributed 25 percent of the injury to the accident, the remainder to the
+respondent’s fault of not properly immobilizing the appellant.  The appellant’s
+experts pointed to the spinal compression shown on the myelogram and MRI as
+proof that the hospital mobilizations caused the harm.  76                              
+The general theory of the respondent’s experts is that the violence of
+the accident was so great that there was a fracture-luxation at T8-T9 of 8 or 9
+millimetres, which was spontaneously reduced by virtue of elastic recoil to 3
+millimetres.  The vertebrae assumed their normal position because these bone
+structures are linked not only by ligaments but also muscles that are all
+around the spinal column.  The initial displacement caused a contusion to the
+spinal cord, setting off a chain of physiological phenomena that caused
+irreversible damage to the spinal cord.  A contusion is an injury produced by
+an instantaneous blunt force.  The spinal column ultimately stabilized at the 8
+or 9 millimetre mark which it had reached at the peak of the impact.  Dr.
+Jodoin observed in support of the recoil theory that nothing other than a
+violent impact making the spinal column stretch could have caused the ligaments
+to tear.  Given the violence of the impact, the subsequent movements in the
+hospital had a negligible effect on an injury that was definitive and final in
+its amplitude, leaving no room for recuperation.  In support of this
+conclusion, the respondent’s experts drew a distinction between primary and
+secondary compression, saying that the tests only show the latter, which
+indicates that the harm was caused by a contusion rather than a compression.  77                              
+The uncontested facts are that there was a massive shearing between the
+thoracic vertebrae upon impact, causing fractures to a vertebra and a rib, and
+causing all but one of the surrounding ligaments to tear.  The one ligament
+that did not tear was attached to a rib that did fracture, such was the
+violence of the impact.  Experts for both the appellant and respondent
+acknowledged the tearing of the ligaments.  Dr. Milette for the appellant
+stated in his report, at p. 9:  [translation] Several vertebral
+ligaments were probably partially or completely torn at T8-T9, including the
+posterior ligamentary complex.  Certain costo-vertebral ligaments resisted, and
+a fracture occurred at the origin of the ninth rib on the left side and
+probably on the right side.  Dr. Milette also stated numerous times in his testimony that the
+ligaments were torn: [translation] “all those ligaments were torn”; “that means tearing of many
+structures which, normally, are very solid”; “the violence causes the tearing,
+causes the fractures and the torn ligaments . . .”.  This assessment
+was confirmed by both Dr. Jodoin and Dr. Charlebois, the latter saying in
+his testimony that [translation] “the subsequent displacement shows that there was in fact a
+rupture of all those ligaments and we see that among other things on the
+tomography, the scan, that was subsequently carried out
+. . .”.  78                              
+The Court of Appeal ultimately gave its sanction to the respondent’s
+experts’ theory that it was at the point and moment of impact that there
+occurred a medullary contusion, which set in motion the chain of physiological
+phenomena such as swelling, intramedullary oedema, ischemia by compression, and
+destruction of nerve cells, all of which would lead to the subsequent
+paraparesis.  There then occurred a recoil, hence explaining the mere 3
+millimetre subluxation of T8 upon admission to the hospital, which was
+universally considered to be within normal range.  The later subluxation of 8
+to 9 millimetres was simply a return to the state of the spine as it existed
+immediately upon impact.  This happened because the ligaments started healing
+in their elongated form.  The fact that the toes were moving on August 12 but
+were not moving on August 14 after the second operation was merely a delayed
+manifestation of the injury that occurred at the time of the accident.  79                              
+The appellant’s experts have no alternative explanation for the torn
+ligaments.  The fact that the ligaments were torn lends much credence to the
+respondent’s theory that there was a violent extension and recoil action of the
+spine.  Nothing less than this would have caused such tough ligaments to tear. 
+This in turn supports the view that the sudden displacement of the vertebrae
+caused a contusion to the spinal cord, setting in motion the destructive
+phenomena that resulted in paraparesis.  80                              
+As part of their general contestation of the respondent’s experts’
+theory that all the damage was done upon impact, the appellant’s experts
+provide a contrary affirmation on three points in support of their own theory
+that any injury from the accident could have been contained and reversed
+without much lasting adverse effect.  The first and most significant point is
+the extent of the immobilization in the hospital.  The second is the significance
+to be assigned to compression of the spinal cord as shown in the tests.  The
+third is the significance to be assigned to spinal shock and the ostensible
+lack of it in this case.  81                              
+The appellant alleges that inadequate immobilization, as evidenced by
+the back rub, the baths, the turning over, and the second operation and
+attendant curarization, was the cause of the harm he suffered.  The evidence
+shows that there was no explicit order for the immobilization of the
+appellant.  However, nurse Plante testified that immobilization of patients
+such as the appellant is done as a matter of course due to the extent of the
+injuries suffered until an order of mobilization is given.  This appears to
+have occurred given that an express order for the progressive mobilization of
+the patient was made after the second operation.  Nurse Couture testified that
+patients in intensive care are moved by at least two people, and care is taken
+to use a pillow between the legs to guard against torsion.  Hospital records
+indicate that this was the care taken even after the mobilization order was
+given.  There is no reason to suspect that it was otherwise before the order
+was given.  The respondent testified that when the appellant was transferred
+onto the operating table, he was moved en bloc with at least four
+people.  Thus, even if we accept that the appellant was first moved onto a “civière”
+and then onto the operating table, it was done with minimal possibility of
+torsion.  82                              
+As for the second operation itself, an orthopaedic operating table was
+used which was described as having a post in the centre that immobilized the
+appellant’s back during the operation.  While curarization would have weakened
+the muscular support around the spine, the care taken in transporting the
+patient to and from the operation and the immobilization of his back on the
+operating table left little or no possibility of its having any harmful effect.  83                              
+The respondent testified that after the operation, the appellant would
+have been moved in the same way as he was prior to the operation, namely en
+bloc.  While the respondent’s testimony about how the appellant was moved
+before and after the operation, and how the appellant was placed on the
+orthopaedic table during the operation, was introduced under reserve of an
+objection to its admissibility as descriptive of general practice rather than
+specific recollection, it is of lesser probative value but nevertheless useful
+in assessing probability.  It is properly admissible.  84                              
+The appellant was indeed allowed to move after the second operation. 
+However, even the appellant’s experts limit the cause of the paraparesis to
+movements up to the second operation and immediately after (i.e. the transfer
+from the operating table to the “civière” and then back to the bed), but
+not the progressive mobilization subsequent to the second operation.  Dr.
+Bouvier explicitly admitted that he had no indication that aggravation took
+place after the second operation.  85                              
+The appellant’s experts argued that it was the hospital movements that
+caused the subluxation of 8 or 9 millimetres.  As Dr. Jodoin for the respondent
+testified, the relative impact of the accident in contrast to the hospital
+movements would be a ratio of 100:1.  Given that it takes a violent trauma for
+the spinal ligaments to tear, and given that they were in fact torn in this
+case, it is hard to believe that the accident caused a mere 3 millimetre
+displacement but the hospital movements caused an 8 or 9 millimetre
+displacement.  The Court of Appeal was entitled to weigh the evidence and
+conclude that the harm caused by the accident was so great and definitive in
+its effect that any lack of immobilization was not significant enough to
+impinge upon a better recovery.  Even though there obviously was some
+mobilization of the appellant between the first and second operations, this was
+minimal in light of the general level of immobilization and the precautions
+taken.  86                              
+A significant part of the evidence, and a major point of contention
+between the experts as to its diagnostic value, concerned the existence of
+spinal cord compression as shown by the myelogram and MRI.  Compression here
+means the pathological and sustained vertebral pressure on the spinal cord.  It
+was accepted by both groups of experts that compression can cause paraparesis
+and that evidence of compression would be an indication that hospital movements
+had caused damage.  The respondent’s experts added the caveat that it is only
+direct compression that would be such an indication, whereas indirect or
+secondary compression would mean that there was another cause for the medullary
+damage, namely contusion to the spinal cord with  the consequent damaging
+physiological phenomena.  87                              
+The appellant’s experts, Dr. Lévesque and Dr. Drouin, pointed to the
+compression depicted by the tests as an indication that the hospital movements
+had caused damage.  Dr. Laroche and Dr. Séguin, experts for the respondent,
+distinguished between a direct and an indirect compression of the spinal cord. 
+Dr. Laroche said that while the dural sac that contains the spinal cord was
+compressed, the spinal cord itself was not.  In other words, there was no
+direct compression, only a secondary compression.  Dr. Séguin said that
+secondary compression was brought on by the oedema, swelling of the spinal
+cord, and destruction of the nerve cells.  88                              
+There is one slight error committed by the Court of Appeal in
+understanding the expert evidence, but this does not bear in any way on the
+result that it ultimately arrived at.  The Court of Appeal says that Dr. Séguin
+stated that if there was a medullary compression caused by the subluxation of
+the already fractured and unstable vertebrae, this compression would have been
+visible on the myelogram even 5 to 6 weeks after the hospitalization.  89                              
+What Dr. Séguin actually said was that if there was a direct compression
+caused by the accident, there would have been a residual appearance of
+it in the myelogram.  However, what he said is as true about compression caused
+by the lack of immobilization as it is about compression caused by the
+accident.  In other words, if there had been direct compression of the spinal
+cord itself, regardless of the cause, it would have appeared on the myelogram.  90                              
+The Court of Appeal was entitled to accord more weight to Dr. Séguin’s
+interpretation of the myelogram and Dr. Bélanger’s and Dr. Charlebois’s
+interpretations of the MRI, and come to the conclusion that there was a
+contusion to the spinal cord at impact but not a compression brought on by
+subsequent hospital mobilization.  Both Dr. Séguin and Dr. Laroche were quite
+detailed at trial in their explanations of how the dye in the myelogram still
+managed to flow through the suspected point of compression, thus indicating
+that there was no direct compression.  The contusion to the spine, which was an
+instantaneous blow to the tissue by the vertebral structure, was the injury
+that sparked the physiological chain reaction that ultimately resulted in paraparesis.  91                              
+There was much discussion before this Court about the spinal shock
+syndrome.  Neither the Superior Court nor the Court of Appeal discussed this. 
+The appellant’s position is that both lower courts failed to appreciate the
+significance of the absence of spinal shock in this case.  92                              
+The appellant asserted that spinal shock is a syndrome that is
+recognized in medicine and that manifests itself in cases where there has been
+a major trauma to the spinal cord, even when this trauma leads only to partial
+disability in terms of mobility, and that spinal shock manifests itself by the
+observable lack of mobility and sensitivity on the part of the patient.  93                              
+The appellant’s expert, Dr. Guimond, stated that, as a rule, serious
+trauma to the spine is usually accompanied by spinal shock, where the patient
+is rendered completely immobile for a temporary period after the traumatic
+incident.  The appellant argued that since no deduction of a state of temporary
+immobility could be made from the hospital record, there was no spinal shock. 
+Since there was no spinal shock, the neurological damage had not been
+irreversibly caused at the moment of the car accident.  94                              
+Counsel for the respondent argued that the absence of spinal shock was
+not inconsistent with a severe but partial medullary lesion causing
+paraparesis.  The expert evidence, notably that of Dr. Jodoin and Dr. Séguin
+which remained uncontradicted in this respect, supports the respondent’s
+position.  95     
+The significance, if any, of the absence of spinal shock is a matter of
+fact which has to be appreciated in the context of all of the evidence. 
+Despite the cogent argument advanced by the appellant on this issue, the
+evidence relating to spinal shock is inconclusive, and does not justify
+overlooking all the evidence that points in the other direction.  96                              
+There was ample evidence that all of the damage suffered was caused by
+the accident and that there was no aggravation or independent damage caused by
+the faults of the respondent.  The profusely bleeding and life-threatening open
+wounds on the legs, the fractures at the T8 vertebra and the ninth rib, the
+tearing of all but one of the ligaments attaching the vertebral column to the
+ribs, the bleeding head wounds and brain concussion, and the partial memory
+loss all speak to the extreme violence of the appellant being hit by a car
+travelling at 90 km/h.  It is also important to keep in mind that the appellant
+was an Olympic-level wrestler whose muscular structure was exceptionally
+strong, as evidenced by the infliction of an extremely unusual injury rather
+than a complete and fatal fracture of the spine.  97                              
+Most of the appellant’s experts conceded that the accident did cause at
+least some harm.  Dr. Guimond considered the second operation as the most
+probable cause of the vertebral subluxation since the appellant’s toes were
+still moving after the first operation.  Dr. Guimond and the appellant’s other
+experts did not consider the progressive mobilization permitted after the
+second operation to be a causal factor.  Dr. Guimond apportioned the causation
+as 25 percent due to the accident and 75 percent due to the respondent’s faults
+because the toes were moving upon arrival and there was no spinal shock.  Dr.
+Bouvier also considered the turning over of the appellant, and the rubbing and baths
+given to the appellant between the two operations as causal elements of the
+paraparesis.  However, to do so he relied on the respondent’s written note upon
+the appellant’s arrival in emergency that the neurovascular exam was all right,
+despite the fact that the respondent testified that “neurovasc” was simply a
+shorthand manner of saying “vascular”.  The limited neurological examination
+cannot be taken to mean that there was no neurological problem until the second
+operation.  Dr. Guimond did not justify his apportionment of causation.  It is
+inconsistent with the fact that the accident was far more violent than the
+subsequent movements during the hospitalization, more specifically the second
+operation.  98                              
+Causation here is a question of fact.  There seems to be some confusion
+as to whether this element in the analysis of civil liability is a question of
+fact or a question of mixed law and fact.  Baudouin and Deslauriers, supra,
+at p. 348, observe that the Quebec Court of Appeal has a tendency to
+characterize the issue as one of fact and leaves the determination to the
+sovereign appreciation of the trial judge.  However, they also say that this
+Court in Morin v. Blais, [1977] 1 S.C.R. 570, considered the matter to
+be a question of law. While there is nothing explicit to that effect in Morin,
+supra, Beetz J. did seem to be aware of the need to justify intervention
+since he said, at p. 578, that “the determination of a causal relation between
+one or more facts evincing fault and the damage presupposes a choice, an
+appraisal and a characterization of the facts”.  He then cited Hébert v.
+Lamothe, [1974] S.C.R. 1181, as an example of how “this Court did not
+hesitate to intervene and divide the liability between the two drivers”.  The
+issue was one of the points of contention between the majority judgment and the
+dissenting opinion of Ritchie and de Grandpré JJ., where de Grandpré J. said,
+at p. 574, that he found nothing “clearly erroneous” in the judgment of the
+Court of Appeal, citing Dorval, supra, as well as Pelletier,
+supra, where this Court held that it could only intervene in the
+judgment of the Court of Appeal on questions of inference (whether the
+defendant’s employee was in the performance of his duties) if it was clearly
+satisfied that an error had occurred.  99                              
+It is important to note that this Court in Morin, supra,
+sought to correct an approach by the Quebec Court of Appeal where the latter
+“appeared to see no choice except between two mutually exclusive hypotheses,
+namely respondent’s fault or appellant’s fault” (p. 578).  The Court also laid
+down a legal principle for a particular circumstance in which a presumption of
+causation can be made (pp. 579-80).  100                          
+The Quebec Court of Appeal in Bonenfant v. O.T.J. de la
+Rédemption, [1994] R.R.A. 225, at p. 227, cited Morin, supra,
+as authority for the proposition that it can intervene on a question of
+causation since it is an issue [translation]
+“where the facts and the law intersect, a question of characterization”.  I have stated above the peculiarity of the Morin
+judgment.  101                          
+V. Karim, Commentaires sur les obligations (1997), vol. 1, at p.
+271, supports this characterization of causation as a question of mixed law and
+fact.  He says that the intervention of an appellate court is justified when  [translation] the trier
+of fact does not give reasons for his or her decision in justifying the
+application of the law to the facts.  The same applies when the trial court’s
+decision does not conform to the evidence adduced, or its conclusions as to the
+existence of causation cannot be reconciled with the established facts.    102                          
+It is true that the reasons Karim lists are grounds for intervention by
+an appellate court.  However, not giving reasons for a decision, not making the
+decision conform to the proven facts, and not having conclusions that are
+reconcilable with the established facts have nothing to do with the nature of
+the causation inquiry per se.  They are general grounds for appellate
+intervention.  103                          
+The confusion on this issue perhaps stems from an inability to
+distinguish between cause in the pure physical sense and cause as it is
+cognizable in law.  The latter is a question of law only insofar as we are
+looking at facts through the lens of the law.  However, the inconsequentiality
+of this observation is made obvious by the truth that everything in
+judicial decision making is looked at through the lens of the law.  This does
+not make everything a question of law.  For example, even questions of pure
+fact like whether a person was present in a certain place, or whether a person
+committed a certain act are determined according to the probability of that
+being so (or according to certainty beyond a reasonable doubt in the criminal
+domain).  This use of the legal rule of evidence of proof on a balance of
+probabilities to ascertain facts does not transform the question of fact into
+one of law.  104                          
+In the determination of fault one applies norms of behaviour required by
+law to a set of facts.  This obviously makes the question one of mixed law and fact. 
+In contrast, in the determination of causation one is inquiring into whether
+something happened between the fault and the damage suffered so as to link the
+two.  That link must be legally significant in an evidentiary sense, but it is
+rendered no less a question of fact.  105                          
+The difficulty on this point may also arise from the fact that the
+analysis of causation sometimes depends on presumptions that can be drawn. 
+However, as indicated by the legislator in the Civil Code of Québec in
+making “Presumptions” a chapter in the title on proof, and as L’Heureux-Dubé J.
+discussed in Quebec (Public Curator), supra, at para. 47, these
+too are means of proof and so are properly within the realm of fact.  106                          
+I am not clearly satisfied that the Court of Appeal committed an
+error in its interpretation of the evidence and its conclusion that given the
+initial harm caused by the accident, no causation can be attributed to the
+respondent’s faults.  The court found that while an early immobilization and a
+diminution of the oedema in the spinal cord offered chances of recuperation
+that were more than simple possibilities, these were not significant enough
+given the magnitude of the initial harm caused by the accident.  The court here
+touched upon the likelihood of the treatment preventing recuperation.  It
+concluded that the treatment administered by the respondent did not cause the
+harm suffered.  By saying [translation]
+“more than simple possibilities” and [translation]
+“not significant enough”, the Court of Appeal basically found
+the likelihood of an early immobilization leading to recuperation to be
+somewhere on the spectrum in between the poles of possibility and probability:
+greater than the realm of what is merely possible but still not enough to meet
+the threshold of probability.  The initial harm of the accident simply
+outweighed any kind of effect the faulty treatment might have had, to the point
+where it cannot be said on a probabilistic basis that the faulty treatment had
+any causal effect.  It is worth repeating the traditional principle set out in Laferrière
+v. Lawson, [1991] 1 S.C.R. 541, at pp. 608-9, where I found that causation
+must be established on a balance of probabilities and that the loss of a mere
+chance cannot be a compensable harm.  Accordingly, the chances of recuperation
+in this case were not significant enough on a balance of probabilities to
+establish that the faulty treatment caused the harm suffered.  F.  Presumptions and Burden of Proof  107                          
+The appellant strenuously argued for a presumption of causation and a
+reversal of the burden of proof in this case.  He posited that since the
+respondent created a risk and that the harm subsequently occurred within the
+ambit of the risk created, there should be either a reversal of the burden of
+proof or a presumption of causation.  He also argued that he was deprived of
+some important means of proof because more tests were not done, and therefore
+there should be a reversal of the burden of proof onto the respondent to show
+that his fault did not cause the damage.  108                          
+There are two concepts here that must be disentangled.  First, there is
+the evidentiary tool of presumptions.  Second, there is an allocation of
+liability on defendants where there is an impossibility in proving causation
+between the specific fault and the damage.  I will deal with these in turn.  109                          
+The law of presumptions in the case at bar has its source in arts. 2846,
+2847 and 2849 of the Civil Code of Québec (“C.C.Q.”), as well as
+arts. 1238 and 1242 of the Civil Code of Lower Canada.  Since the law of
+presumptions has to do with proof, the new articles are applicable to this pre-C.C.Q.
+case by virtue of s. 9 of An Act respecting the implementation of the reform
+of the Civil Code.  As mentioned above, there has been no change in the law
+on this matter in the transition from the old code to the new one, except that
+the C.C.Q. has codified the judicial specifications of the kind of
+presumptions that can be taken into account.  110                          
+Presumptions of fact can establish both fault as well as
+causation.  D. Jutras, “Expertise scientifique et causalité”, in Congrès
+annuel du Barreau du Québec (1992), 897, at fn. 24, has observed, [translation] “Presumptions of fact serve to establish, sometimes
+simultaneously, fault and causation.”  111                          
+On the matter of presumptions and burden of proof, Baudouin and
+Deslauriers, supra, at pp. 358-59, say:  [translation] . . . in medical matters, presumptions of fact sometimes
+result in a reversal of the burden of proving either fault or a causal link
+between the action in question and the damage sustained.   J.-C. Royer, La preuve civile (2nd ed. 1995), at p. 518, is
+more specific in saying:  [translation] This constitutes a reversal of the evidentiary
+burden, since a presumption of fact does not alter the general principle of
+article 2803 of the Civil Code of Québec and,
+consequently, cannot reverse the burden of proof.  Royer says that in order to avoid the confusion of terminology
+regarding burdens of proof, authors and case law have preferred to use
+“unfavourable inference” against the defendant rather than a reversal of the
+burden of proof.  One of the cases cited is Snell v. Farrell, [1990] 2
+S.C.R. 311, at p. 330, which of course expresses greater comfort with use of
+the term “inference” rather than “reversal of burden”.  112                          
+The C.C.Q. itself alludes to this inference or reversal of
+the evidentiary burden in art. 2847 where it says that a simple presumption may
+be rebutted by proof to the contrary.  Jutras, supra, at fn. 24,
+accurately discusses the consequence of this reversal for the defendant:  [translation] “The
+defendant may rebut the presumption by showing that the occurrence of the harm
+is just as consistent with a lack of fault as with the existence of fault.” 
+Nevertheless, the legal burden of proof remains on the plaintiff.  113                          
+As for the conditions of the applicability of presumptions in the civil
+law context, art. 2849 makes it clear that only serious, precise, and
+concordant presumptions are to be taken into consideration.  Failing the
+satisfaction of these criteria, the plaintiff must actually establish the
+unknown fact rather than the trier of fact being permitted to draw an inference
+from the known fact to the unknown fact.  114                          
+I am not clearly satisfied that the Court of Appeal made an error in its
+decision not to apply presumptions of causation in favour of the appellant. 
+L’Heureux-Dubé J. in Quebec (Public Curator), supra, at para. 47,
+said that presumptions of fact were a method of proof among others.  Although
+she was addressing a case where the lower court judge had made presumptions of
+fact, her comments regarding non-intervention are equally applicable where the
+lower court chooses not to make presumptions.  The refusal to make presumptions
+is as much an evidentiary decision as is any other acceptance or non-acceptance
+of methods of proof.  115                          
+There was evidentiary material for the appellant to make his
+case: the initial x-rays, the doctors’ notes, the nurses’ notes, his friend
+Jocelyn Richard’s observations, and the subsequent tests.  Article 2849 C.C.Q.
+provides that only serious, precise, and concordant presumptions are to be
+taken into consideration.  These criteria were not fulfilled in this case.  The
+evidence pointed in different and sometimes opposite directions.  Jutras, supra,
+at fn. 24, is correct in saying:  [translation]
+“In cases where the expert evidence is disputed . . ., presumptions of fact are
+therefore of little use, since it will not be sufficient to assert that the
+fault is one of the possible causes.”  116                          
+The Court of Appeal appropriately said that it is insufficient to show
+that the defendant created a risk of harm and that the harm subsequently
+occurred within the ambit of the risk created.  To the extent that such a
+notion is a separate means of proof with a less stringent standard to satisfy, Snell,
+supra, and definitely Laferrière, supra, should have put
+an end to such attempts at circumventing the traditional rules of proof on the
+balance of probabilities.  There may be a misapprehension of what I said in Laferrière,
+supra, at p. 609:  “In some cases, where a fault presents a clear danger
+and where such a danger materializes, it may be reasonable to presume a
+causal link, unless there is a demonstration or indication to the contrary”
+(emphasis added).  This is merely a reiteration of the traditional approach on
+presumptions, and does not create another means of proof in Quebec civil law in
+the establishment of the causal link.  The Court of Appeal correctly
+interpreted this passage as pertaining to presumptions within the traditional
+rules of causation.  117                          
+I have dealt with the law of presumptions and how it relates to the
+burden of proof.  The second concept I wish to deal with is the impossibility
+of proving causation and the allocation of liability.  118                          
+The appellant cited art. 1480 C.C.Q. in his discussion of
+establishing the causal link.  This article imposes solidary liability on
+defendants where they have jointly committed a wrong causing an injury or where
+each has committed a separate fault, one of which may have caused the injury. 
+For this article to operate, it is necessary for the plaintiff to show an
+impossibility to determine the causal connection between the damage suffered
+and the specific culprit.  The classic scenario is one where hunters
+simultaneously fire their guns, injuring the plaintiff.  This was in fact the
+situation in cases such as Labelle v. Charette, [1960] Que. Q.B. 770,
+and Massignani v. Veilleux, [1987] R.R.A. 541 (C.A.), as well as the
+common-law case of Cook v. Lewis, [1951] S.C.R. 830, where this Court
+ruled that if the defendants’ own wrongdoing prevents the plaintiff from making
+the necessary causal connection to the specific author of the wrong, liability
+is to be attributed collectively so as to avoid the injustice of leaving the
+victim with no recourse.  (See also A. Mayrand, “L’énigme des fautes
+simultanées” (1958), 18 R. du B. 1, and Baudouin and Deslauriers, supra,
+at pp. 348 and 370-71, for the doctrinal discussion of the matter.)  It is in
+cases such as these that there is a true reversal of the burden of proof, but
+not on the issue of causation between fault and damages, but rather on the
+particular issue of linking the damage to the particular author of the delict.  119                          
+I agree with Morin J. in Stéfanik v. Hôpital Hôtel-Dieu de Lévis,
+[1997] R.J.Q. 1332, at pp. 1354-55, that art. 1480 C.C.Q. is about the
+modalities of liability rather than a question of proof, and thus the article
+is not applicable to situations arising before the advent of the Civil Code
+of Québec.  Morin J. correctly stated though that this was not of great
+significance since art. 1480 merely enshrined the rule set out by the case law,
+some examples of which I have given above.  120                          
+There is no reason to apply this rule in favour of the appellant.  It
+should only be applied in cases where there is a true impossibility to
+determine the author of the delict.  There was no such impossibility here:
+either it was the car accident, or the respondent, or a combination of both in
+certain proportions.  VII.  Disposition  121                          
+For the foregoing reasons, I would dismiss the appeal without costs.  Appeal dismissed.   Solicitors for the respondent:  McCarthy Tétrault,
+Montréal.    

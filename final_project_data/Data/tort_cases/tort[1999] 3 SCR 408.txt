@@ -1,0 +1,345 @@
+Royal Bank of Canada v. W. Got Associates Electric Ltd.,
+[1999] 3 S.C.R. 408  Royal Bank of Canada                                                                      Appellant  v.  W. Got & Associates Electric Ltd. and Donald E. Sanderlin                                                                    Respondents  Indexed as:  Royal Bank of Canada v. W. Got &
+Associates Electric Ltd.  File No.:  26081.  1998:  December 2; 1999:  October 15.   on appeal from the court of appeal for alberta  Receivership -- Wrongful appointment of receiver --
+Bank obtaining order for appointment of receiver -- Misleading material placed
+before Master -- Receiver seizing and liquidating debtor’s assets -- Whether
+bank liable.  Contracts -- Notice  -- Contract with no provision
+as to notice  -- Demand for repayment of loan made with no or minimal notice --
+Whether creditor liable for breach of contract. Damages  -- Exemplary damages -- Master misled in
+application for order of receivership -- Misconduct not on level of fraud,
+malicious prosecution or abuse of process -- Whether exemplary damages
+warranted.  The bank granted Got a revolving line of credit
+margined to its accounts receivable and as security obtained a floating charge
+debenture, a general assignment of book debts and a personal guarantee of its
+president.  Got exceeded the line of credit, and negotiations ensued.  The
+security promised by Got was not produced and the other measures Got agreed to
+were not acted upon.  The bank finally cut off contact with the respondents,
+and intentionally avoided telling them that it would be calling in the
+debenture and would be seeking to appoint a receiver.  A notification of
+accounts receivable and a letter of demand were served.  The following day, the
+bank brought a motion to appoint a receiver.  The lawyer for the respondents
+attended without instructions from his clients.  A receiver was appointed, 
+took control of the company and subsequently was granted further powers by the
+court.  The court later approved the sale of Got’s assets.  The bank sued for its debt.  The respondents defended
+the claim and Got filed a counterclaim alleging breach of contract and
+conversion, based on the bank’s lack of notice in calling its loan and
+appointing a receiver.  Prior to the trial, Got also brought a motion to set
+aside the receivership order, but this was later withdrawn, and Got ultimately
+co-operated with the receiver pursuant to an agreement that it be permitted to
+counterclaim against the bank for damages.  The bank succeeded in its claim for
+debt at trial and this decision was upheld on appeal.  The trial judge, on
+Got’s counterclaim for damages, found the bank liable in both contract and
+tort.  The Court of Appeal unanimously held that the bank was liable for breach
+of contract and a majority found it liable in tort as well.  At issue here is
+whether a creditor who, without reasonable notice, files a misleading affidavit
+in a motion to procure a court-appointed receiver should be liable for damages.  Held:  The appeal
+should be dismissed.  The bank was liable to Got for breach of contract. 
+The debtor must be given reasonable notice of intention to enforce the security
+and reasonable time to pay following this notice of intention.  The length of
+time required may vary depending on the facts of the case.  Here, the bank
+clearly intended to make the demand for payment at the same time as a motion to
+appoint a receiver.  There was neither a reason offered to explain why the bank
+gave such little notice nor any indication of a cause for urgency or inability
+to pay the debt.  While an action for conversion may lie, it was unnecessary to
+consider it because damages in this case were the same for contract and tort.  The award of exemplary damages in commercial disputes
+is an extraordinary remedy.  Here, it was within the trial judge’s discretion
+to award such damages as the bank’s conduct seriously affronted the
+administration of justice.  In upholding the award notwithstanding its
+reservations, the Court viewed the trial judge’s concerns cumulatively, gave
+due weight to his advantage in assessing the need for deterrence and
+condemnation of the abuse of the court’s process and recognized the need to
+maintain proper business practices.  The suggestion that banks be held to a
+higher standard of scrutiny was not endorsed.  Cases Cited  Applied:  Lister
+(R.E.) Ltd. v. Dunlop Canada Ltd., [1982] 1 S.C.R. 726; Mister Broadloom
+Corporation (1968) Ltd. v. Bank of Montreal (1979), 25 O.R. (2d) 198, rev’d
+on other grounds (1983), 44 O.R. (2d) 368, leave to appeal refused, [1984] 1
+S.C.R. v; BG Checo International Ltd. v. British Columbia Hydro and Power
+Authority, [1993] 1 S.C.R. 12; referred to:  Massey v. Sladen
+(1868), L.R. 4 Ex. 13; Pax Management Ltd. v. Canadian Imperial Bank of
+Commerce, [1992] 2 S.C.R. 998; Jeannette B.B.Q. Ltée v. Caisse Populaire
+de Tracadie Ltée (1991), 117 N.B.R. (2d) 129, leave to appeal refused,
+[1992] 1 S.C.R. viii; Kavcar Investments Ltd. v. Aetna Financial Services
+Ltd. (1989), 70 O.R. (2d) 225; Royal Bank of Canada v. Nobes (1982),
+49 N.S.R. (2d) 634; Vorvis v. Insurance Corp. of British Columbia,
+[1989] 1 S.C.R. 1085.  APPEAL from a judgment of the Alberta Court of Appeal
+(1997), 196 A.R. 241, 141 W.A.C. 241, [1997] 6 W.W.R. 715, [1997] A.J. No. 373
+(QL), dismissing an appeal from a judgment of McDonald J. (1994), 150 A.R. 93,
+17 Alta. L.R. (3d) 23, [1994] 5 W.W.R. 337, [1994] A.J. No. 94 (QL), granting
+in an action to recover debt a counterclaim for damages for conversion with
+supplementary reasons (1994), 154 A.R. 277, 18 Alta. L.R. (3d) 140.  Appeal
+dismissed.  Frank R. Foran, Q.C.,
+and M. G. Massicotte, for the appellant.  F. David Cook and John
+A. Weir, Q.C., for the respondents.  The judgment of the Court was delivered by  1                                  
+McLachlin and Bastarache JJ.
+--  This appeal raises the question of whether a creditor who, without
+reasonable notice, files a misleading affidavit in a motion to procure a public
+receiver should be liable for damages.  The Alberta Court of Appeal unanimously
+held that the creditor was liable for breach of contract.  We agree, and would
+dismiss the appeal.   I.  Factual
+Background  2                                  
+In 1980, the Royal Bank of Canada (“the bank”) granted the corporate
+respondent (“Got”) a revolving line of credit margined to its accounts
+receivable.  As security, the bank obtained a floating charge debenture payable
+on demand, a general assignment of book debts and a personal guarantee limited to
+a principal amount of $1,350,000 plus interest from the respondent Mr.
+Sanderlin, the president of Got.  3                                  
+In November 1983, the bank reduced the line of credit to $1,150,000.  In
+early 1984, an employee of Got represented that, pursuant to the bank’s request
+to reduce inventory, Got had hired a new employee to be responsible for
+reducing inventory.  In fact, no new employee was hired and nothing appears to
+have been done to meet the bank’s request.  Got also made certain
+representations to the bank in respect of the security.  In mid-March 1984, the
+operating line exceeded Got’s limit by $130,000 and Got was asked to bring the
+loan within margin.  Despite representations that the bank could expect
+payments from Mr. Sanderlin and related companies, such deposits were never
+made.  Over the next few months, the respondents repeatedly promised additional
+security to the bank, but never delivered.  4                                  
+In April 1984, Mr. Sanderlin was warned not to issue any large cheques
+until the loan was brought within its limits.  The trial judge found ((1994),
+150 A.R. 93, at p. 134) that he “forgot” this warning and issued cheques
+totalling $140,000, that the bank returned NSF.  Again Mr. Sanderlin promised
+to provide further security, and the bank certified part of the expenditure. 
+After further negotiations, the bank agreed to provide excess loan facilities
+to cover Got’s expenses in exchange for further security to be provided by five
+specific assignments.  5                                  
+On May 25, 1984, Got’s solicitor, Mr. Covey, met with the bank’s
+employee, Mr. Hood, and assured him that the security would be completed
+forthwith.  The trial judge found that the bank undertook to provide a comfort
+letter in which the bank would state that it would carry on business with Got
+without enforcing security, so long as the business was progressing.  Mr. Hood
+gave Mr. Sanderlin an ultimatum asking that all securities be provided by May
+29, failing which the bank would “notify receivables on our own” (p. 104).  On
+May 29, Mr. Sanderlin still had not brought in the additional security and
+advised that if the bank did not honour payroll cheques, it “would have an
+electrical business”.  It was the view of the bank’s officers that Mr.
+Sanderlin did not intend to co-operate and was engaging in “constant stall
+tactics”.  6                                  
+On May 30, 1984, the bank told Mr. Sanderlin that if the security was
+not in by 3 p.m., it would have to return the payroll cheques.  Later that day,
+Mr. Covey informed the bank that, as he had to attend court that day, the
+security instrument could not be signed until May 31 or June 1.  Mr. Sanderlin
+promised that Can-Am Electric Ltd., a related company, would deposit funds into
+Got’s account to cover the payroll cheques.  No such payment was made.  The
+bank returned the payroll cheques and notified creditors that payments should
+be made directly to the bank.  The trial judge found that up to this point the
+bank’s conduct was not open to criticism.  7                                  
+After 3 p.m. on May 30, 1984, the bank cut off contact with Got and
+Mr. Sanderlin, and intentionally avoided telling them that it would be
+calling in the debenture and would be seeking to appoint a receiver.  On the
+morning of May 31, 1984, a notification of accounts receivable and a letter of
+demand were served to Mr. Covey’s office, the head office of Got pursuant
+to the debenture, and to Got’s place of business.  8                                  
+During the afternoon of May 31, Mr. Covey accidentally encountered Mr.
+Bailey, solicitor for the bank, who informed him that he was on his way to the
+Law Courts to obtain an order to appoint a receiver.  He was unsuccessful in
+seeing a judge that afternoon, but appeared before Master Funduk on the morning
+of June 1, 1984.  The Master required Mr. Bailey to notify Mr. Covey, and the
+matter was heard in the afternoon of the same day.  While Mr. Covey was in
+attendance, the trial judge found that he had no notice of the bank’s actions
+nor instructions from Got or Mr. Sanderlin and hence was unable to properly
+represent them at the hearing.  The Master refused an adjournment on the basis
+that the order was a mere preservation order and that nothing would be done to
+realize any assets until June 21.  9                                  
+The receiver took control of the company on June 1, 1984.  On June 6,
+1984, Bowen J. issued a consent order permitting the receiver to borrow money
+and directing Mr. Sanderlin to produce records relating to the construction
+projects.  The trial judge found that by June 18, 1984, the receiver had taken
+steps, including terminating contracts and firing employees, that were beyond
+the scope of the powers granted in the June 1 order of Master Funduk.  On
+August 15, 1984, the court granted the receiver further powers.  On September
+26, 1984, and again on December 3, 1984, the court approved of the sale of
+Got’s assets.   II.  The
+Legal Proceedings  10                              
+The bank sued for its debt.  Got and Mr. Sanderlin defended the claim
+and Got filed a counterclaim alleging breach of contract and conversion, based
+on the bank’s lack of notice in calling its loan and appointing a receiver.  It
+also sued the receiver for negligently mismanaging and liquidating the
+business, a matter not on appeal.  Prior to the trial, Got also brought a
+motion to set aside the receivership order, but this was later withdrawn, and
+Got ultimately co-operated with the receiver.  Got’s abandonment of its
+proceedings to set aside the receiver was predicated on an agreement that Got
+be permitted to counterclaim against the bank for damages.  The effect of this
+agreement was disputed in the subsequent proceedings.  The bank brought a
+motion to strike the paragraphs of Got’s defence and counterclaim impugning the
+receivership order, on the ground that to call the validity of the receivership
+order into question would constitute an impermissible collateral attack on the
+order, which was res judicata.  The motions judge, upheld on appeal,
+rejected the bank’s request.  The bank’s debt claim and Got’s counterclaim for
+damages proceeded to trial.  11                              
+The trial judge, McDonald J., granted both the claim and the
+counterclaim.  He found that the bank had failed to give Got the required
+notice of its intention to put Got into receivership and had failed to allow
+Got reasonable time for repayment.  He also dismissed the bank’s argument that
+it was contractually excused from giving Got reasonable notice.  12                              
+In addition, McDonald J. found that the bank’s wrongful conduct in
+securing the receivership order was not limited to insufficient notice; he
+concluded that the bank had misled Master Funduk in obtaining the receivership
+order by tendering a misleading affidavit.  The trial judge found that the
+affidavit of the bank’s officer, Mr. McTavish, submitted in support of the
+receivership motion, failed to meet the duty of candour and utmost good faith
+required for ex parte orders.  The two most serious errors in the
+affidavit were the suggestion that the bank had reason to believe that Got
+would move the inventory and the failure to disclose that the bank had already
+secured its financial position by notifying the debtor’s accounts receivable
+and perfecting the assignment of book debts.  McDonald J. concluded that,
+absent the false air of urgency created in the affidavit, the receivership
+order would not have been granted.  13                              
+The trial judge also rejected the bank’s renewed insistence that Got’s
+action was procedurally barred by the collateral attack rule.  He similarly
+dismissed the bank’s alternative procedural argument that the court’s
+appointment of a public receiver shielded it from liability, holding that the
+bank’s misleading conduct in securing the public receiver placed it in the same
+position as if it had simply appointed the receiver privately.  14                              
+Accordingly, McDonald J. found the bank liable in tort for conversion of
+Got’s assets and awarded compensatory damages, as well as exemplary damages in
+the sum of $100,000 to send a clear message of the impropriety of the bank’s
+grave and irrevocable conduct and misuse of the judicial system by rushing to foreclose
+on Got and misleading the judge in obtaining the receiver.  He also found that
+the bank forfeited its right to rely on Mr. Sanderlin’s personal guarantee
+of Got’s loan.  15                              
+The majority of the Court of Appeal ((1997), 196 A.R. 241) upheld the
+judgment of McDonald J. and affirmed the bank’s liability in conversion. 
+Hetherington J.A., dissenting in part, would have held that the bank was not
+liable in conversion.  The majority agreed with her that the bank was liable
+for breach of contract for failing to give notice as required by the
+debenture.  Hetherington J.A. would have remanded the case for recalculation of
+damages on a contractual basis and consequent re-examination of mitigation.  III.  Analysis  1.  Is the
+Bank Liable for Breach of Contract?  16                              
+The Court of Appeal unanimously agreed that the bank breached its
+implied contractual obligations to Got by (1) not giving reasonable time to
+respond to its demand for payment and (2) not giving notice of its intention to
+apply for an order appointing a receiver and manager.  17                              
+The bank counters that the receivership order was a preservation order
+that did not require a demand or reasonable notice and that the granting of the
+order precludes claims for breach of contract.  We would reject these
+arguments.  Even though Master Funduk appears to have intended to give Got 21
+days for repayment, paragraph 18(c) of the receivership order authorized the
+receiver to “take steps for the preservation or realization of the
+undertaking, property and assets of Got” (emphasis added), and paragraph 20
+allowed the receiver to apply to the court to approve a distribution of the net
+proceeds of sale.  Thus, we would accept the view of the courts below that this
+was an order for both preservation and realization.  18                              
+According to this Court’s decision in Lister (R.E.) Ltd. v. Dunlop
+Canada Ltd., [1982] 1 S.C.R. 726, the bank was required to give the debtor
+reasonable notice of its intention to enforce the security and reasonable time
+to pay following this notice of intention.  The debtor must be given “some
+notice on which he might reasonably expect to be able to act”:  Massey v.
+Sladen (1868), L.R. 4 Ex. 13, at p. 19.  In determining the length of time
+amounting to reasonable notice, courts generally employ the following criteria,
+established in Mister Broadloom Corporation (1968) Ltd. v. Bank of Montreal
+(1979), 25 O.R. (2d) 198 (H.C.), at p. 208, reversed on other grounds (1983),
+44 O.R. (2d) 368, leave to appeal refused, [1984] 1 S.C.R. v:  (1)   the amount of the loan; (2)   the risk to the creditor of losing his money
+or the security;  (3)   the length of the relationship between the
+debtor and the creditor;  (4)   the character and reputation of the debtor;  (5)   the potential ability to raise the money
+required in a short period;  (6)   the circumstances surrounding the demand for
+payment; and  (7)   any other relevant factors.  19                              
+It is clear from the trial judge’s assessment of the chronology of
+events that the bank’s intention was to make the demand for payment at the same
+time as a motion to appoint a receiver.  According to the trial judge, at p.
+109, the bank and its solicitors proceeded “with no intention at all of seeing
+that a genuine demand be given, or that any time (much less, reasonable time)
+be given to respond, or that any notice be given of the application to the
+court for the appointment of a receiver”.  20                              
+The length of time required may vary widely depending on the facts of
+the case.  In some cases, giving very little or almost no notice is reasonable
+in the circumstances.  For example, if there is an appreciable risk that the
+debtor will abscond with negotiable assets, if the debtor’s assets are
+depreciating quickly or if a debtor is unable to meet its obligations
+regardless of the amount of notice, it may be reasonable to proceed on little
+notice:  Pax Management Ltd. v. Canadian Imperial Bank of Commerce,
+[1992] 2 S.C.R. 998; Jeannette B.B.Q. Ltée v. Caisse Populaire de Tracadie
+Ltée (1991), 117 N.B.R. (2d) 129 (C.A.), leave to appeal refused, [1992] 1
+S.C.R. viii; Kavcar Investments Ltd. v. Aetna Financial Services Ltd.
+(1989), 70 O.R. (2d) 225 (C.A.); Royal Bank of Canada v. Nobes (1982),
+49 N.S.R. (2d) 634 (C.A.).  21                              
+In this case, no reason has been offered to explain why the bank gave so
+little notice.  There is no indication that there was a cause for urgency or
+that Got would be absolutely unable to pay the debt.  Thus, there is no reason
+to question the finding of the trial judge, affirmed on appeal, that the amount
+of notice provided by the bank was unreasonable.  The bank is, therefore,
+liable to Got for breach of contract.  2.  Is the Bank
+Liable for Conversion?  22                              
+In BG Checo International Ltd. v. British Columbia Hydro and Power
+Authority, [1993] 1 S.C.R. 12, this Court accepted the proposition that
+where a given wrong supports an action both in contract and in tort, a party
+may sue in either or both.  The only limit to concurrency was based on the
+principle of the primacy of private ordering and allowed for a restriction on
+the right to sue in tort where an express or implied contractual obligation
+limits or contradicts the tort duty.  Thus, it is theoretically possible for
+the bank to be liable both in contract and in tort.  However, since damages in
+this case are the same for contract and tort, as discussed later in these
+reasons, it is unnecessary to consider the matter of conversion.  3.  Damages
+for Breach of Contract  23                              
+The trial judge and the majority of the Court of Appeal dealt with
+damages on the basis of conversion.  Hetherington J.A., in the minority of the
+Court of Appeal, based her decision on contract and would have remitted the
+matter to the trial judge for reassessment of damages on the basis of breach of
+contract.  24                              
+While finding liability for breach of contract, we conclude that the
+damages awarded on the basis of conversion represent an appropriate assessment
+of damages for the breach of contract in this case, and we therefore find it
+unnecessary to refer the matter back for assessment of damages for breach of
+contract.  (a)  Compensatory Damages  25                              
+Where a claim is made for the same wrongful acts under different heads
+of liability, compensatory damages will generally be similar, subject to
+adjustment for the particular wrong targeted by a particular cause of action. 
+This position was clearly stated in BG Checo, supra, where a
+majority of this Court held, at p. 38, that:  In situations of concurrent liability in tort and contract, however, it
+would seem anomalous to award a different level of damages for what is
+essentially the same wrong on the sole basis of the form of action chosen,
+though, of course, particular circumstances or policy may dictate such a
+course.  In this case,
+there are no special features which call for different damages for contract and
+tort.  The conversion action is concerned with damages for the appropriation of
+goods; the breach of contract action is concerned with damages for the same
+wrong.  Therefore, compensatory damages in this case are the same.  The trial
+judge did not err in assessing damages for conversion.  It follows that in
+considering this matter on the basis of contract, there is no reason to
+interfere with the trial judge’s determination or to send the matter back for
+reassessment.  (b)  Exemplary Damages  26                              
+The trial judge and the Court of Appeal awarded exemplary damages for
+the egregious conduct of the bank and we would not disturb this finding. 
+Punitive damages are available for breach of contract, although, as McIntyre J.
+held in Vorvis v. Insurance Corp. of British Columbia, [1989] 1 S.C.R.
+1085, at p. 1107, the circumstances that would justify punitive damages for breach
+of contract in the absence of actions also constituting a tort are rare:  . . . while it may be very unusual to do so, punitive damages
+may be awarded in cases of breach of contract.  It would seem to me, however,
+that it will be rare to find a contractual breach which would be appropriate
+for such an award . . . .  Where the defendant has breached the
+contract, the remedies open to the plaintiff must arise from that contractual
+relationship, that “private law”, which the parties agreed to accept.  The
+injured plaintiff then is not entitled to be made whole; he is entitled to have
+that which the contract provided for him or compensation for its loss.  This
+distinction will not completely eliminate the award of punitive damages but it
+will make it very rare in contract cases.  27                              
+The trial judge explained that his substantial award of exemplary
+damages was intended to address the following five concerns:  1.    that the court will not condone a clear
+violation of the rule of law that requires a debenture-holder to give
+reasonable notice;  2.    that the court will not condone an abuse of
+its process for commercial advantage;  3.    that because no crime had been committed, no
+other form of punishment was available;  4.    that the bank’s conduct caused grave and
+irrevocable consequences to the business of its client;  5.    that courts are entitled to expect honest
+behaviour from the major chartered banks.  28                              
+It is argued  that these five concerns do not rise to the level required
+to trigger an award for exemplary damages.  We agree that the first concern of
+the trial judge, deterrence, may not, taken alone, justify exemplary damages. 
+As a rule, deterrence can be achieved through the award of compensatory damages
+and refusal to grant exemplary damages is not condonation of the violation of
+the rule of law.  We also question the third concern, the absence of other
+forms of punishment.  With regard to the trial judge’s fifth concern, we would
+not endorse the suggestion that the bank could be subjected to a higher
+standard of scrutiny than the average commercial litigant because of its
+privileged condition in Canadian society.  Nevertheless, this is a case where
+the conduct of the bank “seriously affronts the administration of justice”, as
+stated by the trial judge.  We agree that the bank’s conduct did not have to
+rise to the level of fraud, malicious prosecution, or abuse of process to
+justify an award of exemplary damages.  29                              
+Therefore, despite our reservations, we agree that it was within the
+discretion of the trial judge to award exemplary damages.  Viewing the trial
+judge’s concerns cumulatively, and giving due weight to the advantage he had to
+assess the need for deterrence and condemnation of the abuse of the court’s
+process, as well as the need to maintain proper business practices, we are not
+prepared to interfere with the award for exemplary damages in this case.  We
+emphasize, however, that an award for exemplary damages in commercial disputes
+will remain an extraordinary remedy.  IV.  Conclusion  30                              
+We would, therefore, dismiss the appeal with costs.  Appeal dismissed with costs.  Solicitors for the appellant:  Howard, Mackie, Calgary. Solicitors for the respondents:  Weir, Bowen, Edmonton.   * Cory J. took no part in the judgment.  

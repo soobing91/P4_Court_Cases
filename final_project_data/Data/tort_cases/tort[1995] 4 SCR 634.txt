@@ -1,0 +1,1857 @@
+Hollis v. Dow Corning Corp.,
+[1995] 4 S.C.R. 634  Dow Corning Corporation                                                                 Appellant  v.  Susan Hollis and John Robert
+Birch                                                 Respondents  Indexed as:  Hollis v.
+Dow Corning Corp.  File No.:  23776.  1995:  February 2; 1995:  December
+21.   on appeal from the court of appeal
+for british columbia                       Torts -- Causation -- Whether
+subjective or objective test to patient's decision to undergo surgery knowing
+risks -- Whether manufacturer entitled to escape liability on what doctor would
+have done if properly warned.                       Dr. Birch received little
+warning from the implant manufacturer as to the possibility of the implants'
+rupturing.  Even as early as 1979, Dow was aware that implant ruptures could
+cause adverse reactions in the body arising from loose gel.  While the 1985
+warning referred to the dangers of "enlarged lymph nodes, scar formation,
+inflammation" and the potential, after a rupture, for "distant
+migration of the gel", the 1976 and 1979 warnings made no reference to any
+such potential consequences.  Nor did these earlier warnings make reference to
+rupture occurring from anything less than "abnormal squeezing or
+trauma".                      Held (Sopinka and McLachlin JJ.
+dissenting):  The appeal should be dismissed.                       The "learned
+intermediary" rule applies where an intermediate inspection of the product
+is anticipated because the product is highly technical in nature or where a
+consumer is placing primary reliance on the judgment of a "learned
+intermediary" and not the manufacturer.  In such cases, a warning to the
+ultimate consumer may not be necessary and the manufacturer may satisfy its
+duty to warn the ultimate consumer by warning the learned intermediary of the
+risks inherent in the use of the product.  This rule generally applies either
+where a product is highly technical in nature and is intended to be used only
+under the supervision of experts, or where the nature of the product is such
+that the consumer will not realistically receive a direct warning from the
+manufacturer before using the product.  The rule, which is in essence an
+application of the common law principle of intermediate examination and
+intervening cause, is an exception to the general manufacturer's duty to warn
+the consumer and operates to discharge the manufacturer's duty to the ultimate
+consumer, who has a right to full and current information about any risks
+inherent in the ordinary use of the product.  The rule presumes that the
+intermediary is "learned", i.e., fully apprised of the risks
+associated with the use of the product.  Accordingly, the manufacturer can only
+be said to have discharged its duty to the consumer when the intermediary's
+knowledge approximates that of the manufacturer.  To allow manufacturers to
+claim the benefit of the rule where they have not fully warned the physician
+would undermine the policy rationale for the duty to warn, which is to ensure
+that the consumer is fully informed of all risks.  Since the manufacturer is in
+the best position to know the risks attendant upon the use of its product and is
+also in the best position to ensure that the product is safe for normal use,
+the primary duty to give a clear, complete, and current warning must fall on
+its shoulders.                      The earlier warnings given the
+medical profession by the manufacturer implied that rupture would occur only in
+extreme cases of violent impact.  The 1985 warning, however, made it clear that
+a patient who received an implant would have to consider altering her lifestyle
+to avoid rupture.  A more accurate warning could quite reasonably have affected
+Ms. Hollis' choice of professional and her resulting exposure to unnecessary
+risk.                     Dow knew or should have known
+of the risks referred to in the 1985 warning when the surgery was performed in
+1983.  Between 1976 and 1984, Dow received 78 field reports from doctors of
+post-operative "unexplained" ruptures occurring in its implants.  It
+had a duty to convey its findings concerning both the "unexplained"
+rupture phenomenon and the possible harm caused by loose gel inside the body to
+the medical community much sooner than it did.  Since implants are surgically
+placed inside the human body, and given that any defects in these products will
+obviously have a highly injurious effect on the user, the onus on Dow to be
+forthcoming with information was extremely high throughout the relevant
+period.  The duty to warn is a continuing one and manufacturers of potentially
+hazardous products have an obligation to keep doctors abreast of developments
+even if they do not consider those developments to be conclusive.                       While some ambiguity existed
+as to Dr. Birch's warning practices in 1983, Dow cannot argue on this basis
+that no direct causal link existed between its breach of duty and the injuries
+suffered by the plaintiff.  It is true that had Dr. Birch been adequately
+warned and not passed on the information to Ms. Hollis, Dow would have been
+absolved of liability by virtue of the learned intermediary doctrine.  It does
+not follow from this, however, that, for Dow to be liable, Ms. Hollis must now
+establish that Dr. Birch would have informed her if he had known.  To require
+her to do so would be to ask her to prove a hypothetical situation relating to
+her doctor's conduct -- a situation only brought about by Dow's failure to perform
+its duty.  While the legal and persuasive onus in a negligence case generally
+falls on the plaintiff, the plaintiff is not required to prove a hypothetical
+situation of this kind.                     The victim's power of proof is
+seriously undermined if called upon to prove what a doctor would have done in a
+hypothetical situation.  The governing principle in a case of this nature is
+informed consent, namely, the right of the patient to be fully informed by the
+manufacturer of all material risks associated with the use of a medical
+product.  This right to informed consent was not respected in this case.  Dow's
+failure to warn was a cause of her injury; whether Dr. Birch's actions in the
+hypothetical situation posited by Dow might also have been a cause is not a
+matter for Ms. Hollis to prove.  Ms. Hollis, who was in a position of great
+informational inequality with respect to both the manufacturer and the doctor,
+played no part in creating the set of causal conditions leading to her injury. 
+Justice dictates that she should not be penalized for the fact that had the
+manufacturer actually met its duty to warn, the doctor still might have been at
+fault.                     A manufacturer should not be
+able to escape liability for failing to give a warning it was under a duty to
+give by simply presenting evidence tending to establish that even if the doctor
+had been given the warning, he or she would not have passed it on to the
+patient, let alone putting an onus on the plaintiff to do so.  Adopting such a
+rule would, in some cases, run the risk of leaving the plaintiff with no
+compensation for her injuries.  She would not be able to recover against a
+doctor who had not been negligent with respect to the information that he or
+she did have; yet she also would not be able to recover against a manufacturer
+who, despite having failed in its duty to warn, could escape liability on the
+basis that, had the doctor been appropriately warned, he or she still would not
+have passed the information on to the plaintiff.  Our tort law should not be
+held to contemplate such an anomalous result.                     Per Sopinka and McLachlin JJ. (dissenting): 
+La Forest J.'s analysis of the principles relating to the duty to
+warn, and in particular the way the learned intermediary principles apply, were
+agreed with.                      To establish liability, the
+plaintiff must show not only a breach of duty by the defendant, but also that
+the breach in question was the cause of the plaintiff's injury.  Here, Ms.
+Hollis must show that her doctor would have warned her of any dangers that had
+been brought to his attention and that if warned she would have refused the
+operation.  Absent this form of proof, it cannot be said with any degree of
+certainty that the failure of Dow to warn physicians was the cause of the
+injuries suffered.  The absence of cause cannot be finessed by sweeping it
+under the apportionment rug.                     The cases referred to by La
+Forest J. with respect to reversal or relaxation of the burden of proof with
+respect to causation do not support treating causation as irrelevant.  In any
+event the cases referred to do not support reversing the burden of proof in
+this case or, if they did, the issue of causation would not be resolved.  There
+was abundant evidence to raise the issue of causation which should be weighed
+by the trial judge at a new trial.                     A new trial should be ordered
+when disposing of an appeal on a legal basis that was not dealt with or
+resolved at trial and where crucial findings of fact concerning that issue were
+not made by the trial judge.  A court of appeal is extremely reluctant to
+assume the role of the trial judge in making factual findings essential to
+resolving an issue.  More importantly, there is considerable support for the
+view that the party affected is entitled to a new trial virtually as of right.                     An appellate court may be in
+as good a position as a trial judge to make a factual finding in the following
+limited circumstances:  (i) the trial judge has made the necessary
+findings albeit in respect of a different legal issue, or it can be safely assumed
+from findings actually made that but for the error of law the necessary
+findings would have been made; (ii) the evidence is not in dispute or
+conflict and no issue of credibility is involved; (iii) special
+circumstances exist in which the parties urge the appellate court to make
+necessary findings of fact.  No circumstances were present which would bring
+this case within these criteria and this Court was clearly not in as good a
+position as the trial judge to make the requisite findings.                     In addition to addressing
+issues relating to the duty, factual issues needed to be decided.  No findings
+were made at trial as to whether Ms. Hollis would have consented to the
+operation, even if properly warned and as to whether Dr. Birch's conduct
+would have been the same whether or not Dow was in breach of the duty to warn. 
+In the absence of a finding in this Court that evidence was lacking to raise
+the issues or that a weighing of the evidence cannot resolve the matter, a new
+trial would enable the trial judge to carry out this function.  In any event, a
+new trial will be held with respect to Dr. Birch, and the judgment of this
+Court will not put an end to the litigation.  This Court should not decide the
+issue because a subsequent trial judge would then not be able to decide
+otherwise.  Finally, under the Negligence Act, where damage or loss is
+caused by the fault of two or more persons, liability for the damage should be
+apportioned in accordance with the degrees of fault.  Cases Cited  By La Forest J.   By Sopinka J. (dissenting)                     Buchan v. Ortho Pharmaceutical
+(Canada) Ltd. (1986), 12 O.A.C.
+361; Cobbs v. Grant, 502 P.2d 1 (1972); Reibl v. Hughes, [1980] 2
+S.C.R. 880; Cook v. Lewis, [1951] S.C.R. 830; Snell v. Farrell,
+[1990] 2 S.C.R. 311; McGhee v. National Coal Board, [1973] 1 S.L.T.R.
+14; Wilsher v. Essex Area Health Authority, [1988] A.C. 1074; Just v.
+British Columbia, [1989] 2 S.C.R. 1228; Koschman v. Hay (1977), 17
+O.R. (2d) 557; Chan v. Canada (Minister of Employment and Immigration),
+[1995] 3 S.C.R. 593; Davie Shipbuilding Ltd. v. The Queen, [1984] 1 F.C.
+461; Jardine v. Northern Co-operative Timber and Mill Association,
+[1945] 1 W.W.R. 533; Nova, An Alberta Corporation v. Guelph Engineering Co.
+(1989), 70 Alta. L.R. (2d) 97; Glow v. Paquin, [1932] 1 W.W.R. 737;  Patterson
+v. Township of Aldborough (1913), 11 D.L.R. 437; Colautti Construction Ltd.
+v. City of Ottawa (1984), 9 D.L.R. (4th) 265; Bank of Nova Scotia v.
+Dunphy Leasing Enterprises Ltd. (1991), 83 Alta. L.R. (2d) 289; Fitz
+Randolph v. Fitz Randolph (1918), 41 D.L.R. 739; McCarroll v. Powell,
+[1955] 4 D.L.R. 631; Hunt v. MacLeod Construction Co., [1958] S.C.R.
+737.  Statutes and Regulations Cited  Negligence Act, R.S.B.C.
+1979, c. 298, s. 2.  Sale of
+Goods Act, R.S.B.C. 1979, c.
+370.  Authors Cited  Cross, Sir
+Rupert.  Cross on Evidence, 7th ed.  By the late Sir Rupert Cross and
+Colin Tapper.  London:  Butterworths, 1990.  Fleming, John G.  The Law of Torts, 8th
+ed.  Sydney:  Law Book Co., 1992.  McCormick, Charles Tilford.  McCormick on
+Evidence, 3rd ed. By Edward W.         Cleary, General Editor.  St. Paul,
+Minn.:  West Publishing Co., 1984.                      APPEAL from a judgment of the
+British Columbia Court of Appeal (1993), 81 B.C.L.R. (2d) 1, 103 D.L.R. (4th)
+520, 48 W.A.C. 108, [1993] 6 W.W.R. 609, 16 C.C.L.T. (2d) 140,  ordering a new
+trial (with respect to John Robert Birch) and dismissing an appeal (with
+respect to Dow Corning Corporation) from a judgment of Bouck J., [1990] B.C.J.
+No. 1059, allowing Susan Hollis' action against Dow Corning Corporation and
+dismissing her action against John Robert Birch.  Appeal dismissed, Sopinka and
+McLachlin JJ. dissenting.                     D. J. Mullan, Q.C., and D. W. Donohoe, for the
+appellant.                     Donald J. McKinlay, for the respondent Susan Hollis.                     James M. Lepp and William S. Clark, for the respondent
+John Robert Birch.                     The judgment of La Forest,
+L'Heureux-Dubé, Gonthier, Cory and Iacobucci JJ. was delivered by  1                        La Forest J. --
+The question raised in this appeal is whether a manufacturer of silicone breast
+implants may be held liable in tort to a patient who suffers injuries from an
+unexplained rupture in the implants when the manufacturer has failed to give
+adequate warning to the patient or the surgeon concerning the risks of
+rupture.  The appellant, Dow Corning Corporation ("Dow"), is a United
+States corporation which, during the course of the 1970s and 1980s, developed
+and manufactured the silicone breast implant carrying the trade name
+"Silastic".  On May 7, 1990, Bouck J. of the Supreme Court of British
+Columbia awarded damages and costs against Dow to the respondent, Susan Hollis,
+for the negligent manufacture of a Silastic breast implant that ruptured in her
+body approximately 17 months after it was implanted in 1983.  Hollis' claims
+against the respondent Dr. John Robert Birch, who inserted the implant, Dr.
+James Quayle, who subsequently removed the implant, and Dow Corning Canada Inc.
+("Dow Canada"), the Canadian sales agent for Dow, were dismissed.  A
+majority of the Court of Appeal overturned Bouck J.'s finding that Dow had
+negligently manufactured the implant, but dismissed the appeal on the ground
+that Dow had failed to warn Ms. Hollis adequately concerning the risks of
+rupture.  A majority of the Court of Appeal also ordered a new trial with
+respect to Ms. Hollis' claim against Dr. Birch.  2                 Dow
+was granted leave by this Court to appeal the Court of Appeal's finding that
+Dow had breached its duty to warn, and asks this Court either to dismiss Ms.
+Hollis' claim or to order a new trial.  For the reasons that follow, it is my
+view that Dow's appeal should be dismissed.  The relevant facts are as follows.  Facts  3                 In
+early June, 1983, Ms. Hollis, then 23 years old, was given a complete physical
+examination by her family physician, Dr. Ken Mills.  Ms. Hollis was a shy and
+quiet woman who had never before had a complete physical examination.  During
+the course of the examination, Dr. Mills determined that Ms. Hollis suffered
+from a congenital deformity of the breasts called "tubular breasts",
+which produced a cylinder-like shape in her breasts and caused blood to collect
+in the nipple area, resulting in a larger than normal areola.  Ms. Hollis told
+Dr. Mills that she had suspected for several years that her breasts were
+deformed, and had been self-conscious about them, but that she had never felt
+the deformity was sufficiently serious to merit medical attention.  Despite Ms.
+Hollis' reservations concerning her need for medical treatment, Dr. Mills
+suggested that she see Dr. John Birch, an experienced plastic surgeon, whom Ms.
+Hollis had seen earlier that year for treatment of a severe case of acne
+scarring on her cheeks.  4                 Ms.
+Hollis met with Dr. Birch in July, 1983.  During the meeting, Dr. Birch
+informed her that her breasts were indeed deformed and explained that surgery
+and implants could correct the shape of her breasts and the size of her areolae. 
+Dr. Birch showed Ms. Hollis an implant and explained the surgical implantation
+procedure.  He also told her that she would not be able to feel the implants
+inside her after the operation and that they would not prevent her from
+breast-feeding.  However, Dr. Birch did not warn Ms. Hollis that there were
+risks of post-surgical complications.  He also failed to warn her of the
+possibility that the implants might rupture inside her body.  On the basis of
+Dr. Birch's advice, Ms. Hollis consented to surgery.  5                 On
+October 21, 1983, Ms. Hollis underwent surgery for the implantation of two
+Silastic silicone breast implants at the Kelowna General Hospital in Kelowna,
+B.C.  The implants were "gel-filled, low profile round" Silastic implants
+manufactured by the appellant Dow and purchased by Dr. Birch from Dow's
+Canadian agent, Dow Canada.  These implants are sold only to doctors or medical
+establishments and are not directly available to the public.  The operation
+went smoothly and Ms. Hollis experienced a normal recovery.  However, by the
+spring of 1984, the abnormality in Ms. Hollis' breasts had returned.  Dr. Birch
+operated on Ms. Hollis a second time.  During the second operation, the plastic
+surgeon assisting Dr. Birch stretched the areolae of the breasts, which
+involved the application of light pressure to the breasts.  In April, 1984, Ms.
+Hollis was examined by Dr. Birch, who found no problems with the breasts.  On
+May 15, 1984, Ms. Hollis started a baker's course, which involved heavy upper
+body and arm movements.  6                 In
+January, 1985, Ms. Hollis noticed a lump in her right breast, and began to feel
+pain there as well as in her right side.  Concerned that the lump might be
+related to the implant, she went to see Dr. Quayle, another plastic surgeon,
+who referred her to Dr. Turner, an expert in breast surgery.  Dr. Turner
+concluded that the lump was likely related to the downward slippage of the
+implants, although he noted that it could represent an area of benign breast
+disease.  Dr. Turner recommended the removal of the implants.  On January 29,
+1985, Ms. Hollis was again examined by Dr. Quayle.  He noted a degree of
+fullness in the right lower breast.  She complained that her right side was
+becoming very painful.  7                 On
+March 19, 1985, Dr. Quayle operated to remove the implants.  He discovered that
+the left implant was intact but that the right implant had ruptured, causing
+irritation to the walls of the cavity in the right breast where the gel had
+come into contact with the tissue.  The silicone gel from the right implant was
+lying in the breast cavity, which was red and swollen.  Dr. Quayle removed the
+gel with sponges but was unable to find the silicone envelope that had
+surrounded the gel when the implant was originally inserted.  Dr. Quayle did
+not preserve the gel for analysis, but returned the left implant to Ms.
+Hollis.  The cause of the rupture of the implant in the right breast remains
+unknown.  8                 After
+the removal of the breast implants, Ms. Hollis' physical condition worsened. 
+Between May 1985 and February 1987, she continued to experience pain in her
+right breast and armpit and once again developed lumps in her right breast. 
+The pain was especially severe when she raised her right arm and when she was
+busy at work.  During that time, she met with several doctors and underwent
+numerous tests.  On February 3, 1987, Dr. A. D. Courtemanche, a plastic
+surgeon, operated on Ms. Hollis and found a tender elongated mass in both lower
+quadrants of her right breast, which he thought was probably a remnant of the
+breast implant, although he did not find any silicone in the right breast.  On
+June 10, 1987, Dr. Courtemanche performed a subcutaneous mastectomy on both
+breasts.  For cosmetic purposes, Ms. Hollis elected to have Dr. Courtemanche
+implant two Dow Silastic II implants.  These implants were of a different model
+and make-up than the original Silastic implants.  9                 The
+subcutaneous mastectomy was successful, and Ms. Hollis has suffered no further
+complications since 1987.  However, there is still residual scarring around the
+breasts and Ms. Hollis maintains a lingering belief that the ruptured envelope
+remains somewhere inside her body.  She is worried that the new implants will
+break if she does routine exercises or returns to any vigorous job such as
+baking.  These concerns have caused Ms. Hollis to suffer depression, for which
+she has received psychiatric help.  10               Ms.
+Hollis brought action in 1989 against Dow, Dow's Canadian agent, Dr. Birch and
+Dr. Quayle.  The claim against Dow was for negligence in the manufacture of the
+implant placed in her right breast and, alternatively, for failure of a duty to
+give adequate warning to the medical profession or the public of the
+possibility that the implants could rupture.  The claim against Dow's agent was
+for failure to warn about the possibility that the implant might rupture.  The
+claims against Dr. Birch were for negligent advice and negligent surgery with
+respect to the original implants, as well as a claim, under the Sale of
+Goods Act, R.S.B.C. 1979, c. 370, that he sold her the implants when they
+were not fit for their intended purpose.  The claims against Dr. Quayle were
+for negligence in failing to operate and remove the implants promptly when he
+discovered there might be a defect, and for failing to remove all the remnants
+of the gel from her right breast.  Judgments of the Courts Below  British Columbia Supreme Court, [1990] B.C.J. No. 1059 (Bouck J.)  11               Bouck
+J. found Dow liable to Ms. Hollis for negligently manufacturing the Silastic
+implants.  He proceeded on the basis that there were four possible causes of
+the rupture:  (i) an act or omission by Dr. Birch in inserting the implant;
+(ii) an act or omission by Dr. Quayle in removing the implant; (iii) external
+trauma to the implant during the time it was in Ms. Hollis' body; and (iv) an
+inadequacy in the design or manufacture of the implant.  He made findings of
+fact that eliminated all causes of rupture except faulty manufacturing and, on
+that basis, reasoned that Dow was negligent either by inference or through the
+application of the doctrine of res ipsa loquitur.  He stated:                     I
+already found Dr. Birch took proper care to ensure the prosthesis remained
+undamaged from the time he took possession of it until he finished the surgical
+implantation.  There is no evidence Dr. Quayle punctured the envelope when he
+removed it from the right breast of Miss Hollis. All the evidence is to the
+effect the implant ruptured at some earlier time.  Nor is there anything to
+indicate Miss Hollis intentionally or unintentionally abused the implant in any
+way.  She made use of it in the normal manner contemplated by Dow Corporation. 
+All of these findings rebut the defendants' suggestion that the implant was
+damaged by others who had control of it, thus allowing the application of the
+doctrine of res ipsa loquitur.  Bouck J. drew further support for his conclusion
+from the fact that Dow had "replaced" the Silastic implant during the
+mid-1980s with the thicker and more durable Silastic II model.  He observed
+that Dow had introduced the Silastic II "to counteract that defect in the
+earlier Silastic implant" and in response to 78 field reports Dow had
+received between 1975 and 1984 of unexplained ruptures in the Silastic
+implants.  This, he reasoned, "is a piece of evidence from which an
+inference of negligence can be drawn".  12               Having
+found Dow liable for negligent manufacture, Bouck J. did not proceed to address
+Ms. Hollis' subsidiary claim that Dow had breached its duty to warn Ms. Hollis
+or the medical profession of the possibility of post-surgical implant rupture.  13               Bouck
+J. dismissed the actions against Dow Canada, Dr. Birch and Dr. Quayle.  With
+respect to the claim against Dr. Birch, he found that Dr. Birch had not fallen
+below the standard of care for doctors in 1983, when he performed the surgery
+on Ms. Hollis, because the possibility of rupture of gel-filled implants was
+neither well-known to the medical community in 1983 nor prevalent in the
+medical literature.  With respect to the claim against Dr. Quayle, Bouck J.
+found no evidence of negligence, and concluded that Dr. Quayle had followed the
+correct medical procedures throughout.  With respect to the claim against Dow
+Canada, he found that Dow Canada did not breach its duty to warn consumers or
+doctors about the risk of rupture because it was only a sales agent; he further
+found that it did not contribute any technical knowledge to the production of
+the product, and therefore had insufficient knowledge in 1983 that the implants
+were defectively manufactured.  British Columbia Court of Appeal (1993), 81 B.C.L.R. (2d) 1 (Prowse J.A.,
+McEachern C.J.B.C., Southin J.A.)  14               A
+majority of the Court of Appeal dismissed Dow's appeal from Bouck J.'s finding
+of liability by Dow, but allowed Ms. Hollis' appeal from Bouck J.'s dismissal
+of the action against Dr. Birch, ordering a new trial solely to resolve the
+question of Dr. Birch's liability to Ms. Hollis.  15               With
+respect to Dow's appeal, the Court of Appeal was unanimous in ruling that Bouck
+J. had erred in drawing an inference of negligence against Dow, finding that he
+had based his decision upon two erroneous factual findings:  first, that the
+Silastic II implant "replaced" the Silastic I during the 1980s, when
+these two products in fact shared the market from mid-1983 until late 1987 and,
+second, that the evidence adduced at trial eliminated Ms. Hollis as a possible
+cause of the rupture.  However, Prowse J.A., writing for a majority of the
+Court of Appeal on this issue (McEachern C.J.B.C. concurring), dismissed the
+appeal on the ground that Dow had failed to provide either Ms. Hollis or Dr.
+Birch with adequate warnings of the risk of post-surgical implant rupture
+arising from ordinary, non-traumatic, human activities.  16               Although
+Bouck J. declined to rule on the duty to warn issue, Prowse J.A. found there
+was sufficient evidence adduced at trial to substantiate Ms. Hollis' claim.  In
+particular, Prowse J.A. found it significant that Dow had received reports of
+between 77 and 81 "unexplained" post-surgical implant ruptures during
+the period from 1975 to 1984, the majority of which were received prior to
+1984, yet failed to warn the medical community until 1985 that the life
+expectancy of any implant was unpredictable and that an implant could rupture
+for a variety of reasons, including normal use.  Prowse J.A. also ruled that
+Dow's breach of its duty to warn was the cause of Ms. Hollis' injuries, finding
+that a reasonable woman in Ms. Hollis' position would not have consented to the
+surgery in the face of an adequate warning.  In support of this conclusion,
+Prowse J.A. observed that the surgery on Ms. Hollis was not medically necessary
+and that, in contrast to many women who consent to breast implant surgery, Ms.
+Hollis was not "pre-sold" when she first went to see Dr. Birch.  17               Southin
+J.A. dissented with respect to the duty to warn, observing, at p. 34, that
+Bouck J.'s failure to rule on this issue had created an "absence of
+findings on crucial issues of fact".  Southin J.A. also ruled (McEachern
+C.J.B.C. concurring) that a new trial was necessary to resolve the question of
+Dr. Birch's liability.  Southin J.A. decided that Bouck J. had erred in
+concluding that Dr. Birch did not have knowledge of the risk of rupture in
+1983, but concluded that a new trial was necessary to determine whether that
+risk was material and whether its non-disclosure caused Ms. Hollis' injury. 
+Prowse J.A. dissented on this issue, deciding that Dr. Birch had knowledge of the
+risk in 1983 and, as a result, found him liable for negligently failing to warn
+Ms. Hollis of the risk of implant rupture.  Analysis  18               The
+sole issue raised in this appeal is whether the Court of Appeal erred in
+finding Dow liable to the respondent Ms. Hollis for failing adequately to warn
+the implanting surgeon, Dr. Birch, of the risk of a post-surgical implant
+rupture inside Ms. Hollis' body.  The appellant Dow does not contest Bouck J.'s
+factual finding that Ms. Hollis' seven-year surgical ordeal caused her great
+physical and psychological pain, residual scarring on her breasts, and a loss
+of past and future income.  However, Dow submits that it was not responsible
+for Ms. Hollis' injuries.  In support of this submission, Dow argues, first,
+that the warning it gave Dr. Birch was adequate and sufficient to satisfy its
+duty to Ms. Hollis, and second, that even if it did breach its duty to warn Ms.
+Hollis, this breach was not the proximate cause of her injuries.  19               For
+the reasons that follow, it is my view that the Court of Appeal reached the
+correct conclusion and that the appeal should be dismissed.  Since Dow does not
+challenge the trial judge's findings concerning Ms. Hollis' injuries, I will
+concentrate on the issues of duty and causation which form the basis for Dow's
+submissions in this appeal.  In the first part of these reasons, I will address
+the question whether Dow breached its duty to warn, and the related question
+whether Dow can rely on the so-called "learned intermediary" rule to
+absolve itself of liability.  In the second part, I will consider whether Dow's
+failure to warn was a proximate cause of Ms. Hollis' injuries.  1.  Dow's Duty to Warn and the "Learned
+Intermediary" Rule                     (a)  The General Principles                     (i)  The Duty to Warn  20               It
+is well established in Canadian law that a manufacturer of a product has a duty
+in tort to warn consumers of dangers inherent in the use of its product of
+which it has knowledge or ought to have knowledge.  This principle was
+enunciated by Laskin J. (as he then was), for the Court, in Lambert v.
+Lastoplex Chemicals Co., [1972] S.C.R. 569, at p. 574, where he stated:                     Manufacturers
+owe a duty to consumers of their products to see that there are no defects in
+manufacture which are likely to give rise to injury in the ordinary course of
+use.  Their duty does not, however, end if the product, although suitable for
+the purpose for which it is manufactured and marketed, is at the same time
+dangerous to use; and if they are aware of its dangerous character they cannot,
+without more, pass the risk of injury to the consumer.  The duty to warn is a continuing duty, requiring
+manufacturers to warn not only of dangers known at the time of sale, but also
+of dangers discovered after the product has been sold and delivered; see Rivtow
+Marine Ltd. v. Washington Iron Works, [1974] S.C.R. 1189, at p. 1200, per
+Ritchie J.  All warnings must be reasonably communicated, and must clearly
+describe any specific dangers that arise from the ordinary use of the product;
+see, for example, Setrakov Construction Ltd. v. Winder's Storage &
+Distributors Ltd. (1981), 11 Sask. R. 286 (C.A.); Meilleur v.
+U.N.I.-Crete Canada Ltd. (1985), 32 C.C.L.T. 126 (Ont. H.C.); Skelhorn
+v. Remington Arms Co. (1989), 69 Alta. L.R. (2d) 298 (C.A.); McCain
+Foods Ltd. v. Grand Falls Industries Ltd. (1991), 116 N.B.R. (2d) 22
+(C.A.).  21               The
+rationale for the manufacturer's duty to warn can be traced to the
+"neighbour principle", which lies at the heart of the law of
+negligence, and was set down in its classic form by Lord Atkin in Donoghue
+v. Stevenson, [1932] A.C. 562 (H.L.).  When manufacturers place products
+into the flow of commerce, they create a relationship of reliance with
+consumers, who have far less knowledge than the manufacturers concerning the
+dangers inherent in the use of the products, and are therefore put at risk if the
+product is not safe.  The duty to warn serves to correct the knowledge
+imbalance between manufacturers and consumers by alerting consumers to any
+dangers and allowing them to make informed decisions concerning the safe use of
+the product.  22               The
+nature and scope of the manufacturer's duty to warn varies with the level of
+danger entailed by the ordinary use of the product.  Where significant dangers
+are entailed by the ordinary use of the product, it will rarely be sufficient for
+manufacturers to give general warnings concerning those dangers; the warnings
+must be sufficiently detailed to give the consumer a full indication of each of
+the specific dangers arising from the use of the product.  This was made clear
+by Laskin J. in Lambert, supra, where this Court imposed
+liability on the manufacturer of a fast-drying lacquer sealer who failed to
+warn of the danger of using the highly explosive product in the vicinity of a
+furnace pilot light.  The manufacturer in Lambert had placed three
+different labels on its containers warning of the danger of inflammability. 
+The plaintiff, an engineer, had read the warnings before he began to lacquer
+his basement floor and, in accordance with the warnings, had turned down the
+thermostat to prevent the furnace from turning on.  However, he did not turn
+off the pilot light, which caused the resulting fire and explosion.  Laskin J.
+found the manufacturer liable for failing to provide an adequate warning,
+deciding that none of the three warnings was sufficient in that none of them
+warned specifically against leaving pilot lights on near the working area.  At
+pages 574-75, he stated:  Where
+manufactured products are put on the market for ultimate purchase and use by
+the general public and carry danger (in this case, by reason of high
+inflammability), although put to the use for which they are intended, the
+manufacturer, knowing of their hazardous nature, has a duty to specify the
+attendant dangers, which it must be taken to appreciate in a detail not known
+to the ordinary consumer or user.  A general warning, as for example, that the
+product is inflammable, will not suffice where the likelihood of fire may be
+increased according to the surroundings in which it may reasonably be expected
+that the product will be used.  The required explicitness of the warning will,
+of course, vary with the danger likely to be encountered in the ordinary use of
+the product.  23               In
+the case of medical products such as the breast implants at issue in this
+appeal, the standard of care to be met by manufacturers in ensuring that
+consumers are properly warned is necessarily high.  Medical products are often
+designed for bodily ingestion or implantation, and the risks created by their
+improper use are obviously substantial.  The courts in this country have long
+recognized that manufacturers of products that are ingested, consumed or
+otherwise placed in the body, and thereby have a great capacity to cause injury
+to consumers, are subject to a correspondingly high standard of care under the
+law of negligence; see Shandloff v. City Dairy, [1936] 4 D.L.R. 712
+(Ont. C.A.), at p. 719; Arendale v. Canada Bread Co., [1941] 2 D.L.R. 41
+(Ont. C.A.), at pp. 41-42; Zeppa v. Coca-Cola Ltd., [1955] 5 D.L.R. 187
+(Ont. C.A.), at pp. 191-93; Rae and Rae v. T. Eaton Co. (Maritimes) Ltd.
+(1961), 28 D.L.R. (2d) 522 (N.S.S.C.), at p. 535; Heimler v. Calvert
+Caterers Ltd. (1975), 8 O.R. (2d) 1 (C.A.), at p. 2.  Given the intimate
+relationship between medical products and the consumer's body, and the
+resulting risk created to the consumer, there will almost always be a heavy
+onus on manufacturers of medical products to provide clear, complete and
+current information concerning the dangers inherent in the ordinary use of
+their product.  24               I
+pause at this point to observe that there is an important analogy to be drawn
+in this context between the manufacturer's duty to warn and the doctrine of
+"informed consent" developed by this Court in recent years with
+respect to the doctor-patient relationship.  In Hopp v. Lepp, [1980] 2
+S.C.R. 192, at pp. 195-96, 210, and Reibl v. Hughes, [1980] 2 S.C.R.
+880, at pp. 884-85, this Court decided that physicians have a duty, without
+being questioned, to disclose to a patient the material risks of a proposed
+procedure, its gravity, and any special or unusual risks, including risks with
+a low probability of occurrence, attendant upon the performance of the
+procedure; see also Ciarlariello v. Schacter, [1993] 2 S.C.R. 119.  The
+principle underlying "informed consent", as Laskin C.J. explained in Hopp,
+supra, at p. 196, is the "right of a patient to decide what, if
+anything, should be done with his body"; see also Schloendorff v.
+Society of New York Hospital, 105 N.E. 92 (N.Y.C.A. 1914), per
+Cardozo J.  The doctrine of "informed consent" dictates that every
+individual has a right to know what risks are involved in undergoing or
+foregoing medical treatment and a concomitant right to make meaningful
+decisions based on a full understanding of those risks.  As Robinson J.
+observed in Canterbury v. Spence, 464 F.2d 772 (D.C. Cir. 1972), at p.
+780:  True consent
+to what happens to one's self is the informed exercise of a choice, and that
+entails an opportunity to evaluate knowledgeably the options available and the
+risks attendant upon each.  The average patient has little or no understanding
+of the medical arts, and ordinarily has only his physician to whom he can look
+for enlightenment with which to reach an intelligent decision.  From these
+almost axiomatic considerations springs the need, and in turn the requirement,
+of a reasonable divulgence by physician to patient to make such a decision
+possible.  25               In
+my view, the principles underlying the doctrine of "informed consent"
+are equally, if not more, applicable to the relationship between manufacturers
+of medical products and consumers than to the doctor-patient relationship.  The
+doctrine of "informed consent" was developed as a judicial attempt to
+redress the inequality of information that characterizes a doctor-patient
+relationship.  An even greater relationship of inequality pertains both between
+the manufacturer of medical products and the consumer and, to a lesser degree,
+between the manufacturer and the doctor.  In contrast to the doctor-patient
+relationship, where the patient can question the doctor with respect to the
+risks and benefits of particular procedures and where doctors can tailor their
+warnings to the needs and abilities of the individual patients, the
+manufacturer-consumer relationship is characterized primarily by a lack of
+direct communication or dialogue.  This lack of dialogue between manufacturer
+and consumer creates, as Patricia Peppin notes in "Drug/Vaccine Risks: 
+Patient Decision-Making and Harm Reduction in the Pharmaceutical Company Duty
+to Warn Action" (1991), 70 Can. Bar Rev. 473, at p. 474, a
+relationship of complete dependency between manufacturer and patient.  She
+explains the relationship in the following terms:  The patient is
+dependent both on the company and on the doctor to provide sufficient
+information for an informed decision to be made, as well as for treatment to
+heal the body, prevent a disease or palliate the pain.  Dependency
+characterizes the relationship between vulnerable patient and the experts who
+exercise control over the patient's bodily fate.  The physician's relationship
+with the pharmaceutical company also exhibits a dependency of the doctor,
+because of his or her limited pharmaceutical knowledge, on the company's
+information; but the relationship is also one in which the physician is courted
+through the company's marketing efforts and one in which the doctor is immune
+from physical harm and vulnerability.                     Another
+element of the context within which the legal principles operate is the
+widespread use of pharmaceutical products apparently unaccompanied by
+significant public knowledge of the inherent risks.  A similar observation was made by Robins J.A. in Buchan
+v. Ortho Pharmaceutical (Canada) Ltd. (1986), 12 O.A.C. 361, which involved
+a suit by a woman against the Ortho pharmaceutical company after that woman had
+suffered a stroke from the use of Ortho's Novum oral contraceptives.  In
+finding Ortho liable for failing to warn consumers about the risk of stroke
+inherent in the use of the contraceptives, Robins J.A. made the following
+observation, at p. 380:  As between
+drug manufacturer and consumer, the manufacturer is a distant commercial entity
+that, like manufacturers of other products, promotes its products directly or
+indirectly to gain consumer sales, sometimes, as in this case, accentuating
+value while under-emphasizing risks.  Manufacturers hold an enormous
+informational advantage over consumers and, indeed, over most physicians.  The
+information they provide often establishes the boundaries within which a
+physician determines the risks of a possible harm and the benefits to be gained
+by a patient's use of a drug.  26               In
+light of the enormous informational advantage enjoyed by medical manufacturers
+over consumers, it is reasonable and just to require manufacturers, under the
+law of tort, to make clear, complete and current informational disclosure to
+consumers concerning the risks inherent in the ordinary use of their products. 
+A high standard for disclosure protects public health by promoting the right to
+bodily integrity, increasing consumer choice and facilitating a more meaningful
+doctor-patient relationship.  At the same time, it cannot be said that
+requiring manufacturers to be forthright about the risks inherent in the use of
+their product imposes an onerous burden on the manufacturers.  As Robins J.A.
+explained in Buchan, supra, at p. 381, "drug manufacturers
+are in a position to escape all liability by the simple expedient of providing
+a clear and forthright warning of the dangers inherent in the use of their
+products of which they know or ought to know".                     (ii)  The "Learned
+Intermediary" Rule  27               As
+a general rule, the duty to warn is owed directly by the manufacturer to the
+ultimate consumer.  However, in exceptional circumstances, a manufacturer may
+satisfy its informational duty to the consumer by providing a warning to what
+the American courts have, in recent years, termed a "learned
+intermediary".  The "learned intermediary" rule was first
+elaborated in Sterling Drug, Inc. v. Cornish, 370 F.2d 82 (8th Cir.
+1966), a suit brought by a patient blinded after taking the drug chloroquine
+phosphate.  The rationale for the rule was outlined by Wisdom J. in Reyes v.
+Wyeth Laboratories, 498 F.2d 1264 (5th Cir. 1974), at p. 1276, cert.
+denied 419 U.S. 1096 (1974), a suit against a manufacturer of oral polio
+vaccine, in the following terms:  Prescription
+drugs are likely to be complex medicines, esoteric in formula and varied in
+effect.  As a medical expert, the prescribing physician can take into account
+the propensities of the drug, as well as the susceptibilities of his patient. 
+His is the task of weighing the benefits of any medication against its
+potential dangers.  The choice he makes is an informed one, an individualized
+medical judgment bottomed on a knowledge of both patient and palliative. 
+Pharmaceutical companies then, who must warn ultimate purchasers of dangers
+inherent in patent drugs sold over the counter, in selling prescription drugs
+are required to warn only the prescribing physician, who acts as a
+"learned intermediary" between manufacturer and consumer.  The rule was later reaffirmed and developed in a
+series of American cases during the 1970s and 1980s involving the liability of
+manufacturers of prescription drugs; see, for example, Schenebeck v.
+Sterling Drug, Inc., 423 F.2d 919 (8th Cir. 1970); Hoffman v. Sterling
+Drug, Inc., 485 F.2d 132 (3rd. Cir. 1973); Dunkin v. Syntex
+Laboratories, Inc., 443 F.Supp. 121 (W. D. Tenn. 1977); Lindsay v. Ortho
+Pharmaceutical Corp., 637 F.2d 87 (2nd Cir. 1980); Timm v. Upjohn Co.,
+624 F.2d 536 (5th Cir. 1980), cert. denied, 449 U.S. 1112 (1981); Stanback
+v. Parke, Davis and Co., 657 F.2d 642 (4th Cir. 1981); Walker v. Merck
+& Co., 648 F.Supp. 931 (M.D. Ga. 1986), aff'd 831 F.2d 1069 (11th Cir.
+1987); Plummer v. Lederle Laboratories, 819 F.2d 349 (2nd Cir. 1987). 
+In Canada, the rule was first considered in an obiter passage by Linden
+J. in Davidson v. Connaught Laboratories (1980), 14 C.C.L.T. 251 (Ont.
+H.C.), at p. 274, and later applied by a five-member panel of the Ontario Court
+of Appeal in Buchan, supra.  28               While
+the "learned intermediary" rule was originally intended to reflect,
+through an equitable distribution of tort duties, the tripartite informational
+relationship between drug manufacturers, physicians and patients, the rationale
+for the rule is clearly applicable in other contexts.  Indeed, the
+"learned intermediary" rule is less a "rule" than a
+specific application of the long-established common law principles of
+intermediate examination and intervening cause developed in Donoghue v.
+Stevenson, supra, and subsequent cases; see, for example, Holmes
+v. Ashford, [1950] 2 All E.R. 76, at p. 80.  Generally, the rule is
+applicable either where a product is highly technical in nature and is intended
+to be used only under the supervision of experts, or where the nature of the product
+is such that the consumer will not realistically receive a direct warning from
+the manufacturer before using the product.  In such cases, where an
+intermediate inspection of the product is anticipated or where a consumer is
+placing primary reliance on the judgment of a "learned intermediary"
+and not the manufacturer, a warning to the ultimate consumer may not be
+necessary and the manufacturer may satisfy its duty to warn the ultimate
+consumer by warning the learned intermediary of the risks inherent in the use
+of the product.  29               However,
+it is important to keep in mind that the "learned intermediary" rule
+is merely an exception to the general manufacturer's duty to warn the
+consumer.  The rule operates to discharge the manufacturer's duty not to the
+learned intermediary, but to the ultimate consumer, who has a right to full and
+current information about any risks inherent in the ordinary use of the
+product.  Thus, the rule presumes that the intermediary is "learned",
+that is to say, fully apprised of the risks associated with the use of the
+product.  Accordingly, the manufacturer can only be said to have discharged its
+duty to the consumer when the intermediary's knowledge approximates that of the
+manufacturer.  To allow manufacturers to claim the benefit of the rule where
+they have not fully warned the physician would undermine the policy rationale
+for the duty to warn, which is to ensure that the consumer is fully informed of
+all risks.  Since the manufacturer is in the best position to know the risks
+attendant upon the use of its product and is also in the best position to
+ensure that the product is safe for normal use, the primary duty to give a
+clear, complete, and current warning must fall on its shoulders.                     (b)  Application of the
+General Principles to the Case at Bar  30               The
+first question to be answered in this appeal is whether Dow owed Ms. Hollis a
+duty to warn her that the Silastic implant could rupture post-surgically inside
+her body and, if so, whether Dow satisfied that duty.  In light of the
+foregoing jurisprudence, it is clear that the answer to this question depends
+on the answers to two subsidiary questions.  First, did Dow have a duty to warn
+Ms. Hollis directly, or could it satisfy its duty to warn her by warning a
+"learned intermediary", namely, Dr. Birch?  Second, assuming that Dow
+could properly discharge its duty to Ms. Hollis by warning Dr. Birch, did Dow
+adequately warn Dr. Birch of the risk of post-surgical rupture in light of its
+state of knowledge at that time?  31               Turning
+to the first of these questions, it is my view that the "learned
+intermediary" rule is applicable in this context, and that Dow was
+entitled to warn Dr. Birch concerning the risk of rupture without warning Ms.
+Hollis directly.  A breast implant is distinct from most manufactured goods in
+that neither the implant nor its packaging are placed directly into the hands
+of the ultimate consumer.  It is the surgeon, not the consumer, who obtains the
+implant from the manufacturer and who is therefore in the best position to read
+any warnings contained in the product packaging.  In this respect, breast
+implants are, in my view, analogous to prescription drugs, where the patient
+places primary reliance for information on the judgment of the surgeon, who is
+a "learned intermediary", and not on the manufacturer; see Buchan,
+supra, at p. 368.  They are not analogous to oral contraceptives, with
+respect to which many American courts have recently imposed a direct duty to
+warn, because direct warnings from manufacturers of breast implants are simply
+not feasible given the need for intervention by a physician; see MacDonald
+v. Ortho Pharmaceutical Corp., 475 N.E.2d 65 (Mass. J.C. 1985), at p. 70, cert.
+denied 474 U.S. 250 (1985); Buchan, supra, at pp. 368-69.  In
+this respect, I observe that it is not, and has never been, Dow's practice to
+send warnings concerning their breast implants directly to patients.  Although
+Dow includes product information with its implants, the implants are sold only
+to doctors or medical establishments, who are expected to pass this information
+on to their patients.  In light of this fact, I conclude that a manufacturer in
+Dow's position can discharge its duty to the ultimate consumer by giving the
+treating surgeon clear, complete and current information concerning any general
+and specific risks that arise from the ordinary use of the product.  32               However,
+the mere fact that the "learned intermediary" rule is applicable in
+this context does not absolve Dow of liability.  As I mentioned earlier, the
+"learned intermediary" rule presumes that the intermediary is fully
+apprised of the risks, and can only provide shelter to the manufacturer where
+it has taken adequate steps to ensure that the intermediary's knowledge of the
+risks in fact approximates that of the manufacturer.  Thus, the second, and
+more important, question to be resolved is whether Dow fulfilled its duty to
+Ms. Hollis by adequately warning Dr. Birch of the risk of post-surgical rupture
+of the implant.  33               Although
+Bouck J. declined to rule on this issue, a majority of the Court of Appeal
+found that Dow's warning to Dr. Birch was inadequate.  In my view, the Court of
+Appeal was correct in reaching this conclusion.  It is well established that
+appellate courts have the jurisdiction to make a fresh assessment of the
+evidence on the record where they deem such an assessment to be in the
+interests of justice and feasible on a practical level; see Prudential Trust
+Co. v. Forseth, [1960] S.C.R. 210, at pp. 216-17.  In this case, there was
+sufficient evidence on the record to allow the Court of Appeal to make a full
+and proper re-assessment of the duty to warn issue without sending the case
+back to trial.  While appellate courts are generally, and justifiably, wary of
+making findings of fact without having the advantage of seeing and hearing
+testimony first-hand, I do not believe that such concerns arise in this case
+because the bulk of the critical evidence adduced at trial was documentary, not
+testimonial.  In light of the fact that Ms. Hollis has now waited close to
+seven years for the final resolution of her claim, and the high costs already
+created by the unusual length of this appeal process, I believe the Court of
+Appeal followed the proper course in weighing and assessing this evidence in
+order to achieve a measure of finality in this case; see, e.g., Davie
+Shipbuilding Ltd. v. The Queen, [1984] 1 F.C. 461, at p. 464 (C.A.); Nova,
+An Alberta Corporation v. Guelph Engineering Co. (1989), 70 Alta. L.R. (2d)
+97 (Alta. C.A.), at pp. 110-12.  34               Turning
+now to an assessment of the evidence itself, it is my view that the most
+compelling evidence supporting the Court of Appeal's decision can be found in
+the product inserts and literature which Dow supplied to doctors shortly before
+and after Ms. Hollis' surgery.  By 1983, when Dr. Birch advised Ms. Hollis to
+have implantation surgery, Dow had made available to doctors two warnings
+regarding the risk of rupture of the Silastic implants.  The first was a
+brochure directed at the medical community, dated 1976, and entitled
+"Suggested Surgical Procedures for Silastic Mammary Prostheses",
+which provided instructions regarding the use of the Silastic I breast implant
+and read as follows:  1.This
+prosthesis should be implanted without any alterations to its original design
+or fabrication.  Meticulous care must be taken to avoid contact of any sharp
+edges or pointed objects with the prosthesis; any inadvertent cut or puncture
+will expose the silicone gel and render the prosthesis unusable.  Do not
+implant or attempt to repair and then insert a ruptured mammary prosthesis.  2.When
+antibiotic therapy and/or steroids (triamcinilone) are indicated, extreme care
+should be taken to ensure that these are delivered into the surrounding tissue
+and not inadvertently within the prosthesis.                                                                     . . .  5.Be
+certain that the patient understands that following implantation, abnormal
+squeezing or trauma to the breasts could conceivably rupture the implant. 
+[Emphasis added.]  The second warning was a product insert for the
+Silastic implant, dated November 1979, which outlined potential problems in
+using the implants in the following terms:  3.If the
+implant should accidentally rupture during insertion or be nicked with a sharp
+instrument or suture needle during closure, remove the implant and replace.  Do
+not try to repair implant or leave in surgical pocket with torn envelope and
+exposed gel.  Note  A thorough
+study of the information provided and the exercise of due care in handling
+these devices should result in no problems for the surgeon.  However, since Dow
+Corning realizes that accidental rupture of a device can occasionally occur, it
+is recommended that an extra pair of the same size implants be available at the
+time of surgery.  [Emphasis in original.]  35               It
+is significant that the only reference in the 1976 and 1979 warnings to a risk
+of post-surgical rupture was the statement that "abnormal squeezing or
+trauma" might rupture the implants.  There is no reference in these
+warnings to the possibility of rupture arising from normal squeezing or
+non-traumatic, everyday activity.  This is significant because, in 1985, Dow
+began warning physicians of the possibility of rupture due to normal,
+non-traumatic activity in the product insert for the Silastic II implant, a new
+breast implant developed in the early 1980s with a thicker envelope and greater
+durability than the earlier Silastic I model.  The relevant portions of the
+1985 insert read as follows:  Rupture of
+implants has been reported both intra- and post-operatively.  Rupture may
+result from the following . . . excessive stresses or manipulation
+as may be experienced during normal living experiences including routine and
+purposeful trauma as in vigorous exercise, athletics, and intimate physical
+contact . . . or other unknown causes at the site of implantation.
+. . .  The patient should be adequately informed of the possibility of implant
+rupture with the use of this technique and of the necessity to remove a
+ruptured implant should that occur.  [Emphasis added.]  It continues with a warning about the danger of
+gel infection:  As reported in
+the literature, when an implant ruptures gel may be released from the implant
+envelope despite the cohesive properties of the gel. If left in place,
+complications such as enlarged lymph nodes, scar formation, inflammation
+. . . may result.  A limited
+preliminary study has been reported to the medical community that in the
+presence of select bacterial infection at the site of a ruptured implant,
+extravasated gel may be altered by the bacteria with a resultant decrease in
+cohesivity of the gel.  If true, there is greater potential for distant migration
+of the gel.  In the event
+that a ruptured prosthesis is suspected, and especially if the area becomes
+infected, Dow Corning recommends removal of the envelope and gel.  These
+potential consequences should be understood by the surgeon and explained to the
+patient prior to implantation.  .
+. .  In the event
+of a rupture, Dow Corning recommends prompt removal of the envelope and gel. 
+The long term physiological effects of uncontained silicone gel are currently
+unknown.                                                                     . . .  Therefore, the
+patient should not be lead [sic] to unrealistic expectations as to the
+performance or cosmetic results that the surgery and prosthesis can provide. 
+The patient should be informed that the life expectancy of any implant is
+unpredictable.  36               It
+is clear from a comparison of the 1985 warning with the earlier warnings that
+the 1985 warning is far more explicit, both with respect to the potential
+causes of post-surgical implant rupture and the potential effects.  Of
+particular significance, in my view, is the statement in the 1985 warning that
+rupture can be caused by "excessive stresses or manipulation as may be
+experienced during normal living experiences" such as "vigorous
+exercise, athletics, and intimate physical contact".  There is, without
+question, a substantial difference between "trauma", on the one hand,
+and the "stresses" and "manipulation" of "normal
+living experiences", on the other hand.  The difference is that, while the
+earlier warnings implied that rupture would occur only in extreme cases of
+violent impact, the 1985 warning made it clear that a patient who received an
+implant would have to consider altering her lifestyle to avoid rupture.  The
+difference between the 1985 warning and the earlier warnings was significant to
+a woman in Ms. Hollis' position because, subsequent to her surgery, she decided
+to enrol in a baker's course, which involved regular and heavy upper body
+movements.  While a baker's course may not cause "trauma" to an
+implant, it would certainly create a risk of "excessive stresses or
+manipulation".  Thus, a more accurate warning could quite reasonably have
+affected her choice of profession and her resulting exposure to unnecessary
+risk.  37               This
+is not to say, of course, that the standard of care to which Dow must be held
+for its warning practices in 1983 should be measured according to its knowledge
+of the risks of implant rupture in 1985.  In light of the significant
+differences between the 1985 warning and the earlier warnings, the crucial next
+question is whether Dow knew or should have known of the risks referred to in
+the 1985 warning when Ms. Hollis had her implantation surgery in 1983.  In my
+view, there was sufficient evidence adduced at trial to establish that Dow did
+have such knowledge.  At trial, evidence was introduced that, between 1976 and
+1984, Dow had received 78 field reports from doctors of post-operative
+"unexplained" ruptures occurring in the Silastic implants.  These
+ruptures were categorized as "unexplained" because they were not
+attributable to any known causes of rupture, such as trauma or surgical
+mishap.  The number of complaints of implant ruptures Dow received during the
+period 1975 to 1984 were as follows:  YearNumber
+of Complaints                     1975           
+                                  1                    1976           
+                                  3                    1977           
+                                  6                    1978           
+                                  5                    1979           
+                                  5                    1980           
+                                  8                    1981                                             13                    1982                                             
+7                    1983                                             13                    1984                                             17                    Total    78  38               From
+the above table, it is apparent that, by late 1983, Dow had already received
+between 48 and 61 of the 78 unexplained rupture reports it received before
+issuing its revised 1985 warning.  Counsel for Dow conceded that the nature and
+quantity of the information available to Dow did not change significantly
+between late 1983 and early 1985.  Thus, although the reports were admitted
+into evidence at trial for the purpose of establishing their existence and not
+as to the truth of their contents, the mere fact that Dow had these reports in
+their possession demonstrates that, in 1983, Dow had notice that ruptures were
+occurring that were not directly attributable to abnormal squeezing or trauma. 
+Counsel for Dow was unable to explain why it took Dow more than two years to
+convey the information concerning the unexplained ruptures to either the
+medical community or the consumers.  39               A
+similar lag time can be discerned with respect to Dow's warnings concerning the
+effects of implant ruptures on the body.  The evidence indicates that, prior to
+1983, and even as early as 1979, Dow was aware that implant ruptures could
+cause adverse reactions in the body arising from loose gel.  In a 1979 research
+paper prepared by Dow's research department, the purpose of which was to
+determine the nature of the particulate matter produced from implants by
+abrasion, and to investigate possible changes in the lymph nodes and the
+possible transfer of the particulate material from the implant site to the
+lymph nodes, the department indicated the following:  The production
+of particulate matter from orthopedic implants by abrasion, flexion, or other
+stresses is a well known and common occurrence with most prosthetic materials. 
+The occurrence of particulate matter associated with silicone elastomer
+prostheses within the tissue capsule surrounding the prostheses is also known
+to occur.  In late 1977,
+we were appraised [sic] by Dr. A. B. Swanson of two patients, both of
+whom had borne SILASTIC implants for several years, from whom enlarged axillary
+lymph nodes had been removed due to suspicion of malignancy.  The department also concluded that loose gel
+could travel from the implant site to the lymph nodes and could cause negative
+reactions:  Thus, the
+intracellular material within the lymph node in all probability, has originated
+from the prosthetic device and appears to have produced a foreign body
+granulomatous inflammatory reaction within the lymph node without a significant
+degree of collagen proliferation.  The appearance of large aggregate masses in
+the outer medullary regions is consistent with transport of the particulate elastomer
+via the lymphatic system but does not exclude concomitant vascular transport.  In light of the state of Dow's knowledge in 1979,
+it is significant that none of the Dow warnings before 1985 made reference to
+adverse reactions to loose gel in the body or the possibility that loose gel
+could travel away from the implant site.  While the 1985 warning referred to
+the dangers of "enlarged lymph nodes, scar formation, inflammation"
+and the potential, after a rupture, for "distant migration of the
+gel", the 1976 and 1979 warnings make no reference to any such potential
+consequences.  40               In
+my view, Dow had a duty to convey its findings concerning both the
+"unexplained" rupture phenomenon and the possible harm caused by
+loose gel inside the body to the medical community much sooner than it did.  In
+light of the fact that implants are surgically placed inside the human body,
+and that any defects in these products will obviously have a highly injurious
+effect on the user, the onus on Dow to be forthcoming with information was
+extremely high throughout the relevant period.  Despite this fact, for over six
+years Dow took no action to express its concerns to the medical community. 
+Given Dow's knowledge of the potential harm caused by loose gel in the body,
+this lag time is simply unacceptable.  The duty to warn is a continuing one and
+manufacturers of potentially hazardous products have an obligation to keep
+doctors abreast of developments even if they do not consider those developments
+to be conclusive.  As Robins J.A. noted in Buchan, supra, at p.
+375:  A manufacturer
+of prescription drugs occupies the position of an expert in the field; this requires
+that it be under a continuing duty to keep abreast of scientific developments
+pertaining to its product through research, adverse reaction reports,
+scientific literature and other available methods.  When additional dangerous
+or potentially dangerous side-effects from the drug's use are discovered, the
+manufacturer must make all reasonable efforts to communicate the information to
+prescribing physicians.  Unless doctors have current, accurate and complete
+information about a drug's risks, their ability to exercise the fully informed
+medical judgment necessary for the proper performance of their vital role in
+prescribing drugs for patients may be reduced or impaired.                                                                    . . .  . . .
+where medical evidence exists which tends to show a serious danger inherent in
+the use of a drug, the manufacturer is not entitled to ignore or discount that
+information in its warning solely because it finds it to be unconvincing; the
+manufacturer is obliged to be forthright and to tell the whole story.  41               In
+its submissions to this Court, Dow attempted to justify its recalcitrant
+warning practices by arguing that the numbers of "unexplained"
+ruptures were small over the relevant period (the rate of rupture was less than
+1/10 of 1 percent) and by arguing that "unexplained" ruptures, being
+unexplained, are not a distinct category of risk of which they could
+realistically have warned.  In my view, these arguments fail because both are
+based upon the assumption that Dow only had the obligation to warn once it had
+reached its own definitive conclusions with respect to the cause and effect of
+the "unexplained" ruptures.  This assumption has no support in the
+law of Canada.  Although the number of ruptures was statistically small over
+the relevant period, and the cause of the ruptures was unknown, Dow had an
+obligation to take into account the seriousness of the risk posed by a
+potential rupture to each user of a Silastic implant.  Indeed, it is precisely
+because the ruptures were "unexplained" that Dow should have been
+concerned.  Certainly, it would not have been onerous for Dow to have included
+an update in their product inserts to the effect that "unexplained"
+ruptures had been reported which were not attributable to surgical procedures,
+and a list of the possible side-effects of such ruptures.  As Prowse J.A.
+observed, at pp. 20-21, of her reasons in the Court of Appeal:                     Dow
+was in a much better position to advise of the incidence of rupture than was
+any individual doctor or even the community of plastic surgeons performing
+breast implantations, since Dow was the repository for complaints of rupture. 
+This placed a significant onus on Dow to keep the medical community advised of
+developments with respect to its products which could have serious consequences
+for their patients.                                                                     . . .  Dow was not
+required to issue a warning each time a rupture occurred, but it would not be
+expecting too much to expect it to issue updated information in this regard to
+the medical community on a yearly basis, or sooner, if the circumstances
+warranted it.  42               I
+conclude, therefore, that the Court of Appeal made no error in ruling that Dow
+did not discharge its duty to Ms. Hollis by properly warning Dr. Birch
+concerning the risk of post-surgical implant rupture.  2.  Did Dow's Breach of the Duty to Warn Cause
+Ms. Hollis' Injury?  43               Dow
+raises two distinct causation issues in this appeal.  The first is whether Ms.
+Hollis would have elected to have the operation if she had been properly warned
+of the risk by Dr. Birch.  Dow submits that a reasonable woman in Ms. Hollis'
+position would have consented to the surgery despite the risk and, on this
+basis, argues that its failure to warn was not the proximate cause of Ms.
+Hollis' injury.  The second issue Dow raises is whether Dr. Birch would have
+warned Ms. Hollis if he had been properly warned by Dow of the risk.  Dow
+submits that Ms. Hollis had the onus of establishing that Dr. Birch would not
+have warned Ms. Hollis even if fully apprised by Dow of the risk and, once
+again, argues that its failure to warn cannot be the proximate cause of her
+injuries.  Counsel for Ms. Hollis sought to meet the first issue on a factual
+basis alone.  As to the second issue, however, he contested as well the
+underpinnings of Dow's argument, which as will appear raises more substantial
+legal issues.  I shall accordingly approach the issues on that basis.  (a)Would
+Ms. Hollis Have Consented to the Operation Even if Properly Warned of the Risk?                     (i)  The Appropriate Test  44               In
+determining whether Ms. Hollis would have consented to the operation had she
+been properly warned by Dr. Birch of the risk of rupture, Prowse J.A. applied
+the modified objective test developed by this Court in Reibl, supra,
+which involved a negligence action by a patient against a surgeon for failing
+to warn him of the risk of paralysis entailed in elective surgery performed by
+that surgeon.  The test applied by Prowse J.A. was as follows:  would a
+reasonable woman in Ms. Hollis' particular circumstances have consented to the
+surgery if she had known all the material risks?  I note, however, that in Buchan,
+supra, at pp. 380-81, Robins J.A. found the Reibl test to be
+inapplicable to products liability cases, and instead applied a subjective
+test.  Robins J.A.'s rationale deserves to be quoted at length:                     The
+considerations applicable to and the responsibilities involved in a
+doctor-patient relationship differ markedly from those of a
+manufacturer-consumer relationship.  As between doctor and patient, there is a
+direct and intimate relationship in which the relative advantages and
+disadvantages of a proposed medical treatment, including the taking of a drug,
+can be considered, discussed and evaluated.  As between drug manufacturer and
+consumer, the manufacturer is a distant commercial entity that, like
+manufacturers of other products, promotes its products directly or indirectly
+to gain consumer sales, sometimes, as in this case, accentuating value while
+under-emphasizing risks.  Manufacturers hold an enormous informational
+advantage over consumers and, indeed, over most physicians.  The information
+they provide often establishes the boundaries within which a physician
+determines the risks of possible harm and the benefits to be gained by a
+patient's use of a drug.  Manufacturers, unlike doctors, are not called upon to
+tailor their warnings to the needs and abilities of the individual patient;
+and, unlike doctors, they are not required to make the type of judgment call
+that becomes subject to scrutiny in informed consent actions.                     When
+a manufacturer's breach of the duty to warn is found to have influenced a
+physician's opinion as to the safety of a drug thereby contributing to the
+physician's non-disclosure of a material risk and the consumer's ingestion of
+the drug, the manufacturer is not entitled to require the injured consumer to
+prove that a reasonable consumer in her position would not have taken the drug
+if properly warned.  At this juncture, the case stands on no different footing
+than the usual products liability case in which there is no question of the
+intervention of an intermediary, and should be treated as such.  The
+manufacturer has put a product on the market without proper warning.  The
+likelihood that the consumer will take the drug without knowledge of its potential
+risks is a foreseeable consequence of the breach of the duty to warn.  Whether
+the particular consumer would have taken the drug even with a proper warning is
+a matter to be decided by the trier of fact on all of the relevant evidence.                                                                     . . .                     In
+my opinion, it was open to the trial judge, viewing the evidence as he did, to
+credit the plaintiff's testimony that she would not have taken the pill had she
+been told of the danger of stroke, and to determine the causation issue
+accordingly.  Whether a so-called reasonable woman in the plaintiff's position
+would have done likewise is beside the point.  Robins J.A. also addressed the argument that the
+imposition of a subjective standard would place an undue burden on drug
+manufacturers.  He rejected this argument for the following reason, at p. 381:                     The
+suggestion that the determination of this causation issue other than by way of
+an objective test would place an undue burden on drug manufacturers is answered
+by noting that drug manufacturers are in a position to escape all liability by
+the simple expedient of providing a clear and forthright warning of the dangers
+inherent in the use of their products of which they know or ought to know.  In
+my opinion, it is sound in principle and in policy to adopt an approach which
+facilitates meaningful consumer choice and promotes marketplace honesty by
+encouraging full disclosure.  This is preferable to invoking evidentiary
+burdens that serve to exonerate negligent manufacturers as well as
+manufacturers who would rather risk liability than provide information which
+might prejudicially affect their volume of sales.  45               In
+my view, the rationale given by Robins J.A. for a subjective test is compelling
+and justifies the adoption of the subjective test in cases of this nature.  The
+most serious concern raised by the application of a subjective test is that the
+plaintiff, with the benefit of hindsight, will always claim that she would not
+have used the product if she had been properly warned.  In Reibl, supra,
+at pp. 897-99, Laskin C.J. elaborated upon this concern in the following terms:                             Since
+proximate causation exists only if disclosure would have resulted in the
+patient's foregoing the proposed treatment, a standard must be developed to
+determine whether the patient would have decided against the treatment had he
+been informed of its risks.  Two possible standards exist:  whether, if
+informed, the particular patient would have foregone treatment (subjective
+view); or whether the average prudent person in plaintiff's position, informed
+of all material risks, would have foregone treatment (objective view).  The
+objective standard is preferable, since the subjective standard has a gross
+defect:  it depends on the plaintiff's testimony as to his state of mind,
+thereby exposing the physician to the patient's hindsight and bitterness.                                                                     . . .  It could hardly
+be expected that the patient who is suing would admit that he would have agreed
+to have the surgery, even knowing all the accompanying risks.  His suit would
+indicate that, having suffered serious disablement because of the surgery, he
+is convinced that he would not have permitted it if there had been proper
+disclosure of the risks, balanced by the risks of refusing the surgery.  46               Although
+the concern raised by Laskin C.J. is valid and should continue to be applied in
+a doctor-patient relationship, in a suit against a manufacturer for failure to
+warn this concern can be adequately addressed at the trial level through
+cross-examination and through a proper weighing by the trial judge of the
+relevant testimony.  While this difference between the type of proof required
+in the two kinds of actions may seem anomalous, it is amply justified having
+regard to the different circumstances in which the relevant duties arise, and
+the consequent difference in the nature of these duties.  As Robins J.A.
+intimated in Buchan, the duty of the doctor is to give the best medical
+advice and service he or she can give to a particular patient in a specific
+context.  It is by no means coterminous with that of the manufacturer of
+products used in rendering that service.  The manufacturer, on the other hand,
+can be expected to act in a more self-interested manner.  In the case of a
+manufacturer, therefore, there is a greater likelihood that the value of a
+product will be overemphasized and the risk underemphasized.  It is, therefore,
+highly desirable from a policy perspective to hold the manufacturer to a strict
+standard of warning consumers of dangerous side effects to these products. 
+There is no reason, as in the case of a doctor, to modify the usual approach to
+causation followed in other tortious actions.  Indeed the imbalance of
+resources and information between the manufacturer and the patient, and even
+the doctor, weighs in the opposite direction.  Moreover, it is important to
+remember that many product liability cases of this nature will arise in a
+context where no negligence can be attributed to a doctor.  It would appear
+ill-advised, then, to distort the rule that is appropriate for claims against a
+manufacturer simply because of an apparent anomaly that results in cases where
+a doctor is also alleged to have been negligent.                     (ii)  The Application of
+the Test to the Facts of the Case at Bar  47               In
+my view, there was sufficient evidence adduced at trial to satisfy the
+subjective Buchan test.  Ms. Hollis testified quite clearly at trial
+that, had she had been properly warned by Dr. Birch of the risk of rupture, she
+would not have had the surgery.  She stated:                     Q.And
+what, if anything, would you have done if you had been advised that that was a
+risk of the procedure?                     A.I
+would not have had the procedure.                     Q.Why
+would that be?                     A.Well,
+when I held that implant in my hand, I gave it back very quickly and it did
+bother me to hold it.  Had I known that that gel could have escaped the bag in
+some way, I know I wouldn't have had the surgery.  No adverse findings were made either at trial or
+on appeal with respect to the credibility of Ms. Hollis' testimony.  48               Moreover,
+there was ample evidence adduced at trial to lend credence to Ms. Hollis' claim
+that she would not have had the surgery if properly warned.  At trial, two
+plastic surgeons gave testimony concerning whether a reasonable woman in Ms.
+Hollis' position would have consented to the surgery if properly warned.  Dow's
+witness was Dr. Warren, a plastic surgeon specializing in breast prosthesis
+implantation, who testified that "the vast majority" of women who
+seek breast implants "seem to come in `pre-sold'" on the idea of
+getting an implant.  According to Dr. Warren, when the women are
+"pre-sold" they are not generally deterred by warnings concerning the
+risk of rupture.  He stated:                     Q.And
+they have obviously gone ahead and had the operation?   Dr. Birch called Dr. Thompson as a witness.  Dr.
+Thompson is a plastic surgeon who, in the course of his practice, does breast
+prosthesis implantation.  Under cross-examination, Dr. Thompson testified that
+the decision whether to have implant surgery following a proper warning will
+depend in large part upon the level of risk aversion to which each individual
+patient is susceptible.  He stated:                     QIn
+your experience with patients, is it apparent to you that some patients are
+risk takers and others are not risk takers?                     AYes.                     QSome
+people think nothing at all of accepting the risk of death under anaesthesia to
+have breast implants, when you think about it, is that correct?                     AYes.                     QAnd
+other people would single out that risk, as an example, as too great a risk to
+bother having breast implants?                     AYes. 
+Yes.                     QAnd
+those judgments are different between virtually everyone in the population?                     AYes.                     QAnd
+both views are reasonable?                     AYes.  49               In
+my view, there was ample evidence on the record to demonstrate that Ms. Hollis
+did not fall into the category of "pre-sold" women described by Dr.
+Warren.  On the contrary, the evidence indicates that Ms. Hollis was not a risk
+taker and that she did not even consider having breast surgery until after her
+general practitioner, Dr. Mills, referred her for that purpose to Dr. Birch, a
+plastic surgeon who had been treating her for acne scarring on her cheeks.  Ms.
+Hollis testified that, prior to her first physical exam in 1983, she had not
+been interested in having plastic surgery on her breasts.  She stated:  A.I knew my
+breasts were not attractive.  I might say that I became more conscious of it or
+self-conscious of it in my later teens.                                                                     . . .                     A.I
+never really thought of getting them fixed.  I just thought they were
+unattractive.  I never thought of having anything done to them.  Ms. Hollis also testified that, prior to her
+second referral to Dr. Birch, she had never seen a doctor specifically about
+correcting her condition.  She stated:                                                                      . . .                      And
+he said, if nothing else, Dr. Birch might be able to do something with the
+nipple or the nipple could have something done.  50               At
+trial, Dow's lawyers cross-examined Ms. Hollis persistently concerning whether
+she was ashamed of her breasts, whether she thought they were abnormal and
+whether she thought they would affect her ability to get married.  Ms. Hollis
+admitted that she knew her breasts did not fit the "ideal" concept of
+an attractive breast but insisted that she was not ashamed of them.  She
+testified:                     Q.And
+you were concerned about what effect your appearance at that time would have on
+your prospects of marriage, weren't you?                     A.I
+hadn't thought of them in that way, to that extent.  I thought they were
+unattractive breasts and that I would live with them.                                                                     . . .                     A.I
+looked at it more that the breasts would not be something I would have given a
+lot of thought to had I been in love with someone and wanted to marry.  I would
+think that they would have been fine, even though they were unattractive.  Ms. Hollis also testified that, prior to the
+surgery, the appearance of her breasts had no significant effect on her social
+life.  Her concerns about their appearance did not affect the way she wore
+clothing or her relationships with other people.  Indeed, when asked if she had
+breast implant surgery to help her poor self-image, Ms. Hollis testified that
+her low self-esteem at that time was attributable to other factors.  She
+stated:                     Q.I
+mean, you did have a poor self-image of yourself at that point, didn't you?                     A.I
+don't know if you would say poor, you know.  I didn't have a wonderful
+self-image of myself, but, again, I'm not sure if it was simply because of my
+breasts.                     Q.Well,
+that was the major ingredient, if there were other factors?                     A.I
+don't know if I could even agree to that at that time.  51               The
+veracity of Ms. Hollis' testimony concerning this question was borne out by Dr.
+Birch's testimony.  Dr. Birch testified that, when he originally saw Ms. Hollis
+to examine the acne scarring on her face, they had no discussion with respect
+to breast problems or a desire on her part to have breast surgery.  Dr. Birch
+testified that it was only when Dr. Mills referred her back to him a second
+time that he examined her breasts.  Prior to that second examination, Dr. Mills
+spoke to Dr. Birch, explained to him that Ms. Hollis was very shy, and told him
+to be gentle with her.  Dr. Birch also testified that Ms. Hollis was very
+tentative about approaching the whole issue of the condition of her breasts. 
+He stated:                     QNow,
+what was Miss Hollis' reaction or manner of presentation to you in your office
+on that occasion, that July 28th visit?                     AWell,
+she was as Dr. Mills had described her to be, a quiet, shy person who didn't
+seem to me to have easily approached this whole question of the problem she was
+having with her breasts.  It seemed to be a very important problem to her, but
+she was extremely reticent in being examined so that it almost created some
+difficulty in carrying out an examination at first . . . .  Dr. Birch testified that Ms. Hollis was more shy
+than the average woman with respect to exposing her naked body.  He stated:  . . .
+I probably examine an average of five women a day that way and so I have some
+idea of what average characteristics of women's behavior in that regard are and
+she was not within the average at all.  Dr. Birch testified under cross-examination that
+the majority of his patients who have breast implants are pleased with the
+results.  However, he felt that Ms. Hollis' case could not be compared to cases
+of purely cosmetic surgery in which women may be very keen to keep implants
+even though they may have experienced problems with them.  He stated:                      AYes,
+in general I think that that's a true statement.  They become happy with the
+increased volume.  Now, we're not talking about cases like Miss Hollis, we're
+talking usually about cases that are just routine breast enlargement
+procedures.  52               I,
+therefore, conclude that Ms. Hollis would not have opted for the surgery had
+she known of all the attendant risks.   (b)Would
+Dr. Birch's Conduct Have Been the Same Whether or Not Dow Was in Breach of the
+Duty to Warn?  53               The
+second causation issue raised by Dow is whether Dr. Birch would have
+warned Ms. Hollis of the risk of rupture if Dow had properly warned Dr. Birch
+about that risk.  Dow argues that there is no direct causal link between its
+breach of the duty to warn and Ms. Hollis' injury because, in 1983, Dr. Birch
+was aware of the risk of implant rupture but did not make a habit of warning
+his patients about that risk.  In support of this argument, Dow relies on Dr.
+Birch's testimony at trial that, in 1983, he was warning only 20% to 30% of his
+patients of implant rupture, and that, in determining the nature and scope of
+his warnings to patients, he relied more on the articles he read in medical
+journals than on manufacturers' warnings.  54               It
+is right to say, however, that the trial judge found that in 1983 the average
+plastic surgeon in British Columbia did not in fact know about the possibility
+that rupture of Silastic implants could be a factor of any significance.  This
+finding is supported and amplified by the fact that after Dow began circulating
+its more extensive 1985 warning and knowledge of the risk of rupture in the
+medical community became more prevalent, Dr. Birch adapted his practice
+accordingly, and by 1989 he was warning all his patients of the risk of
+rupture.  55               I
+do not propose to enter further into or assess these factors.  I say this
+because, while Dow is correct in submitting that there was some ambiguity at
+trial concerning Dr. Birch's warning practices in 1983, Dow's argument is based
+upon the assumption that to succeed in her claim against Dow Ms. Hollis must
+prove that Dr. Birch would have warned her if Dow had properly warned Dr.
+Birch.  I do not think this assumption is well founded.  Ms. Hollis, it will be
+remembered, demonstrated that Dow had breached its duty to warn her of the risk
+of rupture, that she would not have undergone the medical procedure if she had
+been fully informed of the risks, and that she suffered injury from the
+rupture.  Had Dr. Birch been adequately warned but had not passed on the
+information to Ms. Hollis, Dow would, it is true, have been absolved of
+liability by virtue of the learned intermediary doctrine.  But I fail to see
+how one can reason from this that, for Dow to be liable, Ms. Hollis must now establish
+that Dr. Birch would have informed her if he had known.  To require her to do
+so would be to ask her to prove a hypothetical situation relating to her
+doctor's conduct, one, moreover, brought about by Dow's failure to perform its
+duty.  While the legal and persuasive onus in a negligence case generally falls
+on the plaintiff, I do not see how this can require the plaintiff to prove a
+hypothetical situation of this kind.  56               The
+reasoning in this Court's decision in Cook v. Lewis, [1951] S.C.R. 830,
+is helpful in this context.  In that case, the plaintiff was shot by one of two
+members of a hunting party.  The jury had found that the plaintiff had been
+shot by one of the two hunters, and that both of the hunters had been negligent
+in shooting in the plaintiff's direction, but were unable to say which hunter's
+bullet had actually hit the plaintiff.  On this basis, the jury exculpated both
+defendants from negligence.  This Court set aside the jury finding and ruled
+that, once the plaintiff had proved that he had been shot by one of the
+defendants, the onus was on the defendants to establish absence of negligence. 
+Unless they could exculpate themselves both would be liable.  In a concurring
+judgment setting forth his reasons for reversing the burden of proof, Rand J.
+made the following remarks, at pp. 832-33, that serve to illuminate the present
+discussion:                     What,
+then, the culpable actor has done by his initial negligent act is, first, to
+have set in motion a dangerous force which embraces the injured person within
+the scope of its probable mischief; and next, in conjunction with circumstances
+which he must be held to contemplate, to have made more difficult if not
+impossible the means of proving the possible damaging results of his own act or
+the similar results of the act of another.  He has violated not only the
+victim's substantive right to security, but he has also culpably impaired the
+latter's remedial right of establishing liability.  By confusing his act with
+environmental conditions, he has, in effect, destroyed the victim's power of
+proof.                     The
+legal consequence of that is, I should say, that the onus is then shifted to
+the wrongdoer to exculpate himself; it becomes in fact a question of proof
+between him and the other and innocent member of the alternatives, the burden
+of which he must bear.  The onus attaches to culpability, and if both acts
+bear that taint, the onus or prima facie transmission of responsibility
+attaches to both, and the question of the sole responsibility of one is a
+matter between them.  [Emphasis added.]  57               In
+my view, a close analogy can be drawn between Cook and the case at bar. 
+The facts on the record demonstrate that Ms. Hollis was inadequately warned of
+the possibility that the breast implants manufactured by Dow and surgically
+implanted by Dr. Birch could rupture.  While the victim's power of proof has
+not been destroyed in the same sense as in the hunting party case, it has been
+seriously undermined in that the plaintiff is, on Dow's contention, called upon
+to prove what a doctor would have done in a hypothetical situation.  It must be
+kept in mind that the governing principle in a case of this nature is informed
+consent, namely, the right of the patient to be fully informed by the
+manufacturer of all material risks associated with the use of a medical
+product.  It is clear from the record that Ms. Hollis' right to informed
+consent was not respected in this case.  We know that Dow's failure to warn was
+a cause of her injury; whether Dr. Birch's actions in the hypothetical
+situation posited by Dow might also have been a cause is not a matter for Ms.
+Hollis to prove.  Ms. Hollis, who was in a position of great informational
+inequality with respect to both the manufacturer and the doctor, played no part
+in creating the set of causal conditions leading to her injury.  Justice
+dictates that she should not be penalized for the fact that had the
+manufacturer actually met its duty to warn, the doctor still might have been at
+fault.  58               I
+observe that the Ontario Court of Appeal in obiter in Buchan, supra,
+has adopted a somewhat similar approach to causal analysis in cases of this
+nature.  There Robins J.A. had this to say, at p. 377:                     Once
+the breach of duty to warn prescribing physicians has been established, I think
+it fair and reasonable to presume that the inadequacy of the warning was a
+contributing cause of the ingestion of the drug.  It ought not to be
+incumbent on a plaintiff to prove as part of her case what her doctor might or
+might not have done had he been adequately warned.  One can assume that a
+doctor would not ignore a proper warning or fail to disclose a material risk or
+otherwise act negligently.  Even if the evidence were to indicate that the
+doctor was negligent, the manufacturer would not be shielded from liability if
+such negligence were a foreseeable consequence of the breach of duty to warn. 
+The presumption may, of course, be rebutted if the defendant comes forth with
+evidence that despite the inadequacy of the warning the doctor's conduct toward
+his patient would have been the same whether or not the manufacturer was in
+breach of the duty.  [Emphasis added.]  59               In
+the last sentence of this statement, Robins J.A. refers to the possibility that
+the manufacturer might be able to adduce evidence that the doctor's conduct
+might have been the same whether or not the manufacturer was in breach of its
+duty.  I should say that whatever effect this may have regarding the
+apportionment of liability between the doctor and the manufacturer in the event
+that the doctor is also found to be negligent, it in no way absolves the
+manufacturer from liability to the plaintiff, except in cases where some
+extraneous conduct by the doctor would have made the failure to give adequate
+warning irrelevant.  But that is not this case.  In sum, in a case like the
+present, I see no reason why in establishing the liability of the manufacturer
+the law should adopt a rule requiring the plaintiff to delve into what the
+doctor might have done.  60               Simply
+put, I do not think a manufacturer should be able to escape liability for
+failing to give a warning it was under a duty to give, by simply presenting evidence
+tending to establish that even if the doctor had been given the warning, he or
+she would not have passed it on to the patient, let alone putting an onus on
+the plaintiff to do so.  Adopting such a rule would, in some cases, run the
+risk of leaving the plaintiff with no compensation for her injuries.  She would
+not be able to recover against a doctor who had not been negligent with respect
+to the information that he or she did have; yet she also would not be
+able to recover against a manufacturer who, despite having failed in its duty
+to warn, could escape liability on the basis that, had the doctor been
+appropriately warned, he or she still would not have passed the information on
+to the plaintiff.  Our tort law should not be held to contemplate such an
+anomalous result.  61               As
+I see it, the plaintiff's claim against the manufacturer should be dealt with
+in accordance with the following rationale.  The ultimate duty of the
+manufacturer is to warn the plaintiff adequately.  For practical reasons, the
+law permits it to acquit itself of that duty by warning an informed
+intermediary.  Having failed to warn the intermediary, the manufacturer has
+failed in its duty to warn the plaintiff who ultimately suffered injury by
+using the product.  The fact that the manufacturer would have been absolved had
+it followed the route of informing the plaintiff through the learned
+intermediary should not absolve it of its duty to the plaintiff because of the
+possibility, even the probability, that the learned intermediary would not have
+advised her had the manufacturer issued it.  The learned intermediary rule
+provides a means by which the manufacturer can discharge its duty to give
+adequate information of the risks to the plaintiff by informing the
+intermediary, but if it fails to do so it cannot raise as a defence that the
+intermediary could have ignored this information.  I observe that a number of
+courts in the United States have reached a similar conclusion.  In McCue v.
+Norwich Pharmacal Co., 453 F.2d 1033 (1st Cir. 1972), at p. 1035, for
+example, the Court of Appeal for the First Circuit stated:  Even if a
+physician's carelessness may have taken a form not specifically anticipated,
+defendant should not escape liability so long as its failure to give an
+adequate warning may have contributed thereto . . . .  [H]aving
+put a dangerous drug on the market without adequate warning defendant cannot be
+heard to say that the physician might have disregarded a proper one. 
+[Emphasis added.]  See also Sterling, supra, and Hamilton
+v. Hardy, 549 P.2d 1099 (Colo. C.A. 1976).  Conclusion  62               On
+the basis of the foregoing, it is my view that Dow breached its duty to warn
+Dr. Birch concerning the risks of post-surgical rupture in the Silastic implant
+and because of this failure to warn is liable to Ms. Hollis for her injuries. 
+Accordingly, I would dismiss the appeal.  63               Ms.
+Hollis is entitled to her costs throughout.                     The reasons of Sopinka and
+McLachlin JJ. were delivered by  64               Sopinka J. (dissenting)
+-- I agree with Justice La Forest in his analysis of the principles relating to
+the duty to warn and in particular that the learned intermediary principles
+apply as he proposes.  I respectfully disagree, however, with his analysis and
+application of the principles relating to causation.  In my view the so-called
+subjective test is inappropriate to determine whether Ms. Hollis would have
+consented to the operation if properly warned.  In addition, I cannot agree
+that Ms. Hollis need not prove that any warning received by Dr. Birch would
+have been passed along by the doctor to his patients.  Finally, I  disagree
+that this Court is in a position to resolve factual issues which were not
+addressed at trial and which are vital to a determination of the liability of
+Dow.  In my opinion a new trial is necessary to resolve these issues by reason
+of:                     (1)  the settled practice of
+appellate courts not to make findings of fact that were not made at trial in
+the circumstances of this case;                     (2)  the finding of fact with
+respect to whether Ms. Hollis would not have consented to the operation if
+properly warned will trump this issue in the new trial relating to the
+liability of Dr. Birch;                     (3)  a finding of liability of
+Dow in this Court will make it extremely difficult or impossible for the trial
+judge to assess the degrees of fault of Dow and Dr. Birch.  Analysis  Causation                     The Test  65               In
+his reasons, La Forest J. adopts a subjective test to determine whether Ms.
+Hollis would have consented to the operation if properly warned.  In this
+regard, he adopts the reasoning of Robins J.A. in Buchan v. Ortho
+Pharmaceutical (Canada) Ltd. (1986), 12 O.A.C. 361.  In reviewing the
+evidence to determine if there "was sufficient evidence adduced at trial
+to satisfy the subjective Buchan test" (para. 47), however, he
+refers to the evidence of experts which is only relevant in applying a
+reasonable woman test.  He concludes, at para. 52, that "Ms. Hollis would
+not have opted for the surgery".  66               In
+determining that Ms. Hollis would not have opted to undergo the implantation,
+my colleague refers to the evidence of experts in the field of breast implant
+surgery.  In support of his position, La Forest J. (at para. 48)
+relies on the evidence of two plastic surgeons who "gave testimony
+concerning whether a reasonable woman in Ms. Hollis' position would have consented
+to the surgery if properly warned".  The Buchan subjective test,
+however, places no reliance on evidence as to what a reasonable woman would
+do.  The exposition of the subjective test which my colleague adopts is set out
+in the following passage from Buchan, at p. 381, part of which is
+reproduced in La Forest J.'s decision:                     In
+my opinion, it was open to the trial judge, viewing the evidence as he did, to
+credit the plaintiff's testimony that she would not have taken the pill had she
+been told of the danger of stroke, and to determine the causation issue
+accordingly.  Whether a so-called reasonable woman in the plaintiff's position
+would have done likewise is beside the point.  The selection of a method of
+preventing unwanted pregnancy in the case of a healthy woman is a matter, not
+of medical treatment, but of personal choice; and it is not unreasonable that
+notice of a serious potential hazard to users of oral contraceptives could
+influence her selection of another method of birth control.  So long as the
+court is satisfied that the plaintiff herself would not have used the drug if
+properly informed of the risks, this causation issue should be concluded in her
+favour regardless of what other women might have done.  [Emphasis added.]  67               The
+Buchan subjective approach fails to take into account the inherent
+unreliability of the plaintiff's self-serving assertion.  It is not simply a
+question as to whether the plaintiff is believed.  The plaintiff may be
+perfectly sincere in stating that in hindsight she believed that she would not
+have consented to the operation.  This is not a statement of fact that, if
+accepted, concludes the matter.  It is an opinion about what the plaintiff
+would have done in respect of a situation that did not occur.  As such, the
+opinion may be honestly given without being accepted.  In evaluating the
+opinion, the trier of fact must discount its probity not only by reason of its
+self-serving nature, but also by reason of the fact that it is likely to be
+coloured by the trauma occasioned by the failed procedure.  For this reason,
+the most reliable approach in determining what would in fact have occurred
+is to test the plaintiff's assertion by reference to objective evidence as to
+what a reasonable person would have done.  The matter is aptly summarized by
+the Supreme Court of California in Cobbs v. Grant, 502 P.2d 1 (1972). 
+At pp. 11-12, they held:                     The
+patient-plaintiff may testify on this subject but the issue extends beyond his
+credibility.  Since at the time of trial the uncommunicated hazard has
+materialized, it would be surprising if the patient-plaintiff did not claim
+that had he been informed of the dangers he would have declined treatment. 
+Subjectively he may believe so, with the 20/20 vision of hindsight, but we doubt
+that justice will be served by placing the physician in jeopardy of the
+patient's bitterness and disillusionment.  Thus an objective test is
+preferable:  i. e., what would a prudent person in the patient's position have
+decided if adequately informed of all significant perils.  This was the test adopted by this Court in Reibl
+v. Hughes, [1980] 2 S.C.R. 880, which was followed by Prowse J.A. for the
+majority in the Court of Appeal.  In Reibl, Laskin C.J. stated, at
+p. 898:  It could hardly
+be expected that the patient who is suing would admit that he would have agreed
+to have the surgery, even knowing all the accompanying risks.  His suit would
+indicate that, having suffered serious disablement because of the surgery, he
+is convinced that he would not have permitted it if there had been proper
+disclosure of the risks, balanced by the risks of refusing the surgery.  Yet, to
+apply a subjective test to causation would, correlatively, put a premium on
+hindsight, even more of a premium than would be put on medical evidence in
+assessing causation by an objective standard.  [Emphasis added.]  Laskin C.J. went on, however, to stress at p. 900
+that the patient's testimony is essential but "it must be objectively
+assessed in terms of reasonableness".  68               In
+Laskin C.J.'s view, this was the most reliable way to answer the question as to
+what would have occurred.  This answers the concern of Robins J.A. that the
+plaintiff's choice must be respected.  The Reibl approach is a more
+reliable method of determining what that choice would have been.  The
+subjective test places too much of a premium on the plaintiff's present belief
+as to what it would have been.  Assuming that it is in fact the Buchan
+subjective test that my colleague advocates, expert medical evidence as to what
+a reasonable woman would do is, to use the words of Robins J.A. at p. 381,
+"beside the point".  La Forest J.'s apparent need to bolster Ms.
+Hollis' testimony by reference to such expert evidence clearly demonstrates the
+inherent weakness of the Buchan subjective test.  As a result of this
+weakness, I would reject the subjective test in favour of the approach adopted
+in Reibl.  69               Moreover,
+I see no reason why the test for determining the same issue should be different
+for the physician and the manufacturer.  With respect to both, the question for
+the plaintiff is the same.  How would the plaintiff have responded if properly
+warned by the physician?  Is the trial judge to apply two different tests to
+determine the same question?  If so, this could conceivably result in a finding
+that, vis-à-vis the physician, the patient would have consented, and vis-à-vis
+the manufacturer, she would not.  Indeed, in the new trial which has been
+directed by the Court of Appeal with respect to Dr. Birch, the trial judge is
+obliged to apply the Reibl test and may very well find that Ms. Hollis
+would have agreed to the implant if properly warned.  70               I
+fail to understand how a different test for the physician and the manufacturer,
+which, my colleague acknowledges, seems anomalous, can be redeemed on the basis
+that a stricter standard can be expected of the manufacturer.  This ignores the
+fact we are dealing with a situation in which the manufacturer's duty to the
+plaintiff is discharged by informing the physician of risks.  The physician is
+expected to pass this on to the patient.  If the risk is one about which the
+plaintiff ought to be warned, it can hardly be suggested that the physician can
+water down the warning because a lower standard applies to the physician.  One
+could, perhaps, talk about a different standard when comparing the respective
+duties to warn when the learned intermediary rule does not apply and both the
+physician and manufacturer have a duty to warn the plaintiff directly. 
+However, when the duties of the manufacturer and the physician to warn the
+plaintiff are to be discharged by virtue of the information received from the
+manufacturer being passed on to the plaintiff and both the physician and
+manufacturer are sued in one action for breach of that duty, there is no room
+for the application of a different standard.  Indeed, the issue of causation
+has nothing to do with the standard of disclosure.  In resolving this issue,
+the Court attempts to determine what the plaintiff's response would have been
+on the assumption that the appropriate warning has been given in accordance
+with the appropriate standard.  The debate concerns the bases on which that response
+should be measured, not about the standard of disclosure.  71               But,
+whether the subjective or objective test is adopted, it is a difficult question
+of fact which should be determined at trial and not on appeal.  I will return
+to this later in these reasons.                     Burden of Proof  72               In
+determining the second causation issue of whether Dr. Birch would have warned
+Ms. Hollis of the risk of rupture if Dow had properly warned Dr. Birch about
+that risk, La Forest J. proposes to eliminate the fundamental
+requirement of tort law that the plaintiff establish causation in order to
+prove the defendant's liability.  Once Ms. Hollis demonstrated that Dow had
+breached its duty to warn of the risk of rupture, La Forest J. would hold that
+the plaintiff's burden of proving her case had been discharged, and that any
+possibility that Dr. Birch would have failed to pass on any warning is
+nothing more than a question of apportionment.  This approach runs counter to
+well established tort principles.  Simply put, in order to establish liability,
+the plaintiff must show not only a breach of duty by the defendant, but also
+that the breach in question was the cause of the plaintiff's injury.  73               In
+the instant case, this burden applies to require the plaintiff to show that her
+injuries would not have occurred had Dow discharged its duty to warn Dr. Birch
+of any dangers inherent in the implants.  In other words, Ms. Hollis must show
+that her doctor would have warned her of any dangers that had been brought to
+his attention and that if warned she would have refused the operation.  Absent
+this form of proof, it cannot be said with any degree of certainty that the
+failure of Dow to warn physicians was the cause of the unfortunate
+injuries suffered by Ms. Hollis.  74               Professor
+John G. Fleming, in The Law of Torts (8th ed. 1992), at p. 143,
+explains the necessity of a factual finding of a cause and effect relationship
+between the defendant's breach of duty and the plaintiff's injury as follows:  If such a
+causal relation does not exist, that puts an end to the plaintiff's case: to
+impose liability for loss to which the defendant's conduct has not in fact
+contributed would be incompatible with the principle of individual
+responsibility on which the law of torts has been traditionally based. 
+[Emphasis in original.]  75               If
+Dr. Birch would not have passed on information from Dow to Ms. Hollis, Dow's
+failure to provide the warning cannot be said to have contributed to Ms.
+Hollis' injury.  Liability cannot be based on failure to take measures which
+would have no effect and be pointless.  76               The
+absence of cause cannot be finessed by sweeping it under the apportionment rug
+as suggested by my colleague.  A finding of causation is a prerequisite to
+apportionment.  Apportionment is authorized only in the circumstances mandated
+by the Negligence Act, R.S.B.C. 1979, c. 298, where the damage or loss
+is caused by the fault of two or more persons.  77               My
+colleague refers to a number of cases, such as Cook v. Lewis, [1951]
+S.C.R. 830, Snell v. Farrell, [1990] 2 S.C.R. 311, and Buchan, supra,
+which either reversed or relaxed the ordinary burden which rests on the
+plaintiff to prove causation.  Those cases do not support treating causation as
+irrelevant.  Indeed, they start with the premise that causation is a
+fundamental principle and address whether the plaintiff's ordinary burden
+should be eased.  Not only is the requirement that causation be established
+fundamental to the law of torts, but, as well, the principle that the burden of
+proof of causation generally rests with the plaintiff is also well entrenched. 
+The House of Lords in McGhee v. National Coal Board, [1973] 1 S.L.T.R.
+14, toyed with the notion that the burden should be reversed in certain
+circumstances.  On further consideration, however, this approach was firmly
+rejected in Wilsher v. Essex Area Health Authority, [1988] A.C. 1074. 
+In none of the foregoing cases was it suggested that the problem could be
+avoided by treating the issue of causation as irrelevant.  I propose, however,
+to discuss the cases to which my colleague refers because they either do not
+support the reversal of the burden of proof or, if they did, that would not
+resolve the issue of causation in this case.  78               My
+colleague refers to the judgment of this Court in Cook v. Lewis, supra. 
+In that appeal, the plaintiff hunter had been shot in the face by bird-shot. 
+Two defendants admitted to having discharged their guns in the vicinity of the
+plaintiff at almost the same time, but not at the same bird.  In that case,
+this Court determined that the plaintiff's need to prove causation could be
+obviated by reversing the ordinary burden of proof in certain situations. 
+According to the Court in Cook, the reversal of the burden was
+appropriate in that case because the defendants had essentially removed the
+means of proof of causation from the plaintiff.  As Rand J. stated, at p. 832:                     What,
+then, the culpable actor has done by his initial negligent act is, first, to
+have set in motion a dangerous force which embraces the injured person within
+the scope of its probable mischief; and next, in conjunction with circumstances
+which he must be held to contemplate, to have made more difficult if not
+impossible the means of proving the possible damaging results of his own act or
+the similar results of the act of another.  He has violated not only the
+victim's substantive right to security, but he has also culpably impaired
+the latter's remedial right of establishing liability.  By confusing his
+act with environmental conditions, he has, in effect, destroyed the victim's
+power of proof.  [Emphasis added.]  Since the "negligent actor ha[d] culpably
+participated in the proof-destroying fact", the burden of proof was
+reversed (at p. 835), and the plaintiff was relieved of the need to prove
+direct causation.  79               Similarly,
+this Court in Snell v. Farrell, supra, at p. 321, expressed the
+view that the burden on the plaintiff could be reversed where the subject matter
+of the alleged tortious conduct lies "particularly within the
+knowledge" of the defendant.  In Snell, the defendant surgeon had
+removed a cataract from the patient plaintiff's eye and the patient had later
+lost her sight in that eye as a result of optic nerve atrophy.  The defendant
+doctor, knowing what he had done, was in a significantly better position to
+determine what had occurred.  In the reasons for judgment for a unanimous
+Court, the grounds for reversing the burden of proof with respect to causation
+were stated at pp. 326-27:  If I were
+convinced that defendants who have a substantial connection to the injury were
+escaping liability because plaintiffs cannot prove causation under currently
+applied principles, I would not hesitate to adopt one of these alternatives. 
+In my opinion, however, properly applied, the principles relating to causation
+are adequate to the task.  Adoption of either of the proposed alternatives
+would have the effect of compensating plaintiffs where a substantial connection
+between the injury and the defendant's conduct is absent.  Reversing the burden
+of proof may be justified where two defendants negligently fire in the
+direction of the plaintiff and then by their tortious conduct destroy the means
+of proof at his disposal.  In such a case it is clear that the injury was not
+caused by neutral conduct.  It is quite a different matter to compensate a
+plaintiff by reversing the burden of proof for an injury that may very well be
+due to factors unconnected to the defendant and not the fault of anyone.  80               As
+a result, the burden of proof is properly reversed where the defendant has
+somehow participated in destroying the means of proving the case against it or
+where the defendant somehow controls the relevant evidence.  Only within this limited
+sphere of cases is the plaintiff partially relieved of the burden of proving
+causation.  In this case, there is neither any suggestion of a tortious
+destruction of the means of proof nor does the evidence lie peculiarly in the
+control of the defendant Dow.  On the contrary, the issue in question is
+largely dependent on the evidence of Dr. Birch.  Both Ms. Hollis and Dow have
+equal access to the evidence of Dr. Birch.  Indeed, in this situation, the
+physician is likely to be inclined to favour his patient, the plaintiff.  It is
+not in the interests of the physician to assert that he would not have passed
+on a warning that the manufacturer was duty-bound to give him for the benefit
+of the plaintiff.  As the means of proving causation remains available to the
+plaintiff, it would be inconsistent with Snell to reverse the burden of
+proof.  As a result, the burden of proving causation remains on the plaintiff
+in this case.  In order to discharge the burden in question, the plaintiff must
+adduce evidence that her doctor would have warned her of any dangers associated
+with breast implants had those dangers been brought to his attention by the
+defendant.  81               An
+alternative method of obviating the plaintiff's burden of proof was suggested
+by the Court of Appeal in Buchan.  In that case, the court expressed the
+view that a "rebuttable presumption" exists such that a plaintiff in
+Ms. Hollis' position need not establish all elements of causation.  According
+to the court, at p. 377:                     Once
+the breach of duty to warn prescribing physicians has been established, I think
+it fair and reasonable to presume that the inadequacy of the warning was a
+contributing cause of the ingestion of the drug.  It ought not to be incumbent
+on a plaintiff to prove as part of her case what her doctor might or might not
+have done had he been adequately warned.  One can assume that a doctor would
+not ignore a proper warning or fail to disclose a material risk or otherwise
+act negligently.  Even if the evidence were to indicate that the doctor was
+negligent, the manufacturer would not be shielded from liability if such
+negligence were a foreseeable consequence of the breach of duty to warn.  The
+presumption may, of course, be rebutted if the defendant comes forth with evidence
+that despite the inadequacy of the warning the doctor's conduct toward his
+patient would have been the same whether or not the manufacturer was in breach
+of the duty.  Based on this approach, the plaintiff need not
+prove that her doctor would have warned her of any dangers unless the
+defendant presents some evidence tending to show that the doctor may not
+have in fact passed along the appropriate warning.  The burden on the defendant
+is discharged where sufficient evidence is adduced to raise the issue of
+causation.  This is an "evidential" burden of proof, which has been
+described by Professor Tapper in Cross on Evidence (7th ed. 1990), at
+p. 113, as:  . . . the
+obligation to show, if called upon to do so, that there is sufficient evidence
+to raise an issue as to the existence or non-existence of a fact in issue, due
+regard being had to the standard of proof demanded of the party under such
+obligation.  Thus, the rebuttable presumption referred to in Buchan
+merely requires the defendant to furnish sufficient proof to raise a question
+of whether or not the "learned intermediary" would have passed a
+warning along had one been provided by the manufacturer.  Where this nominal
+burden has been discharged, the ultimate burden of proving causation remains on
+the plaintiff, requiring her to show that any warnings received by Dr. Birch
+would have been passed along.  82               If
+the burden of proof were reversed as proposed in Cook v. Lewis, it would
+not operate against the defendant if there was sufficient evidence to raise the
+issue of causation.  In that event, the trier of fact would be obliged to weigh
+the evidence.  The burden of proof would only be applied if the trier of fact
+were unable to come to a determinate conclusion.  See Cross on Evidence,
+supra, at pp. 112-13, and McCormick on Evidence (3rd ed.
+1984), at p. 947.  83               Whether
+one applies the presumption in Buchan or reverses the burden of proof as
+in Cook v. Lewis, I am of the view that there was abundant evidence in
+this case to raise the issue and it was conflicting.  My colleague has reviewed
+some of this evidence.  I agree with Bouck J.'s finding that the
+possibility of rupture of gel-filled implants, including the risk of rupture
+owing to trauma or abnormal squeezing, was not well known to the medical
+community in July-October 1983 when Ms. Hollis consulted Dr. Birch and he
+performed the surgery.  The only apparent warning received by Dr. Birch
+concerned ruptures resulting from abnormal trauma, and contained the following
+statement:  5.Be certain
+that the patient understands that following implantation, abnormal squeezing or
+trauma to the breasts could conceivably rupture the implant.  84               Dr.
+Birch failed to warn Ms. Hollis and it was not his habit to warn patients of
+the risk of rupture due to trauma or abnormal squeezing because he did not
+regard it as a common occurrence.  In this regard, he relied primarily on
+medical literature and not the manufacturer's literature.  He testified as
+follows:  Q.I'm going to
+point number five, do you see that?  It says:                            "Be
+certain that the patient understands that following implantation, abnormal
+squeezing or trauma to the breast could conceivably rupture the implant."                            Doctor, do --                     A.   Yes.                     Q.--
+you see that.  Now, doctor, you don't rely on the manufacturers' literature,
+though, with respect to these particular products, do you?                     A.No. 
+I rely more on the medical literature.  85               Counsel
+for Ms. Hollis relies heavily on the 1985 warning as evidence of the type of
+warning that Dow had a duty to give in 1983.  My colleague accepts this as
+significant evidence as to the type of warning that should have been given. 
+There is cogent evidence in the record that if this warning had been given to
+Dr. Birch in 1983, he would not necessarily have passed it on.  In October
+1987, two years after Dr. Birch had received the 1985 warning referred to
+above, it was still not his practice to pass the warning on to patients. 
+Examined for discovery in October 1987, he gave the following evidence:  QIs that your
+practice now to do that, to discuss the possibility of rupture of prosthesis?  ANot usually.  86               While
+by 1989 he was warning all his patients of the risk of rupture, at trial he
+could not say "[w]hen it became more than 50 per cent".  This is
+consistent with his testimony that he relied more upon the state of medical knowledge
+and medical literature than upon manufacturers' literature.  This evidence
+might very well have been accepted by the trial judge if he had considered this
+issue.  In my view, if my colleague had referred to this evidence, he could not
+have concluded but that there was ample evidence to raise the issue.  87               Accordingly,
+if this issue had been addressed at trial, the trial judge would have been
+obliged to weigh the evidence in order to resolve the conflict.  The burden of
+proof would play no part in this determination.  Only if the evidence were so
+evenly balanced that a determinate conclusion could not be reached would resort
+to the legal burden of proof have been necessary.  The weighing of conflicting
+evidence is vital in the resolution of any factual issue in respect of which
+the evidence is in conflict.  This did not occur at trial here. 
+Prowse J.A., in her majority judgment, did not weigh the evidence because
+she concluded that Dow had a duty to warn Ms. Hollis directly.  As a result,
+this aspect of causation did not arise.  My colleague does not weigh the
+evidence because he largely dispenses with the need to prove causation.  The
+result is that this fundamental step in the trial process which is so important
+in resolving factual disputes will have been by-passed if a new trial is not
+directed.  I now turn to address that issue more specifically.  A New Trial is Necessary  88               The
+issue in this case is not the right of an appellate court to review findings of
+fact made at trial or what standard governs such review.  The issue is what
+approach should a court of appeal adopt when disposing of an appeal on a legal
+basis that was not dealt with or resolved at trial, where crucial findings of
+fact concerning that issue were not made by the trial judge.  In the former
+case, the trial judge has addressed the factual question with which the
+appellate court should not interfere or substitute its own decision unless the
+appellate court can identify why the trial judge's conclusions are clearly
+wrong.  The parties, however, have had the factual issue considered.  The claim
+to a new trial in such circumstances is less compelling by reason of the fact
+that the factual issues have been weighed at trial.  If the court of appeal can
+identify where the trial judge was clearly wrong, there is less concern that
+the parties are deprived of the advantage of having had at least one assessment
+of the facts.  The appellate court can correct clear error with the background
+of that assessment.  Nevertheless, findings of credibility and conflicts in the
+evidence that are dependent on the advantages of seeing and hearing the witness
+are generally exceptions to the exercise of the power of an appellate court to
+substitute its findings for those of the trial judge.  This applies even if the
+conflict is between expert witnesses.  Moreover, even when an appellate court
+exercises the power to interfere with the findings, the usual order is to
+direct a new trial if the nature of the evidence is such that there is an
+advantage in hearing and seeing the witnesses.  89               In
+contrast, in a case in which a trial judge fails to make factual findings which
+are essential to resolve an issue, a court of appeal is extremely reluctant to
+assume the role of the trial judge.  In such circumstances, it is more
+hazardous to venture an opinion that the trial judge would not have had an
+advantage when there has been no demonstration as to how the trial judge
+availed himself or herself of the advantage.  More importantly, there is
+considerable support for the view that the party affected is entitled to a new
+trial virtually as of right.  In Just v. British Columbia, [1989] 2
+S.C.R. 1228, this Court reversed the Court of Appeal which had affirmed the
+judgment at trial dismissing the plaintiff's action.  The trial judge
+classified certain practices of the government agency as policy rather than
+operational and therefore exempt from liability.  Although these practices and
+their deficiencies were fully explored in the evidence presented at trial, this
+Court nevertheless ordered a new trial.  Speaking for the majority,
+Cory J. stated, at pp. 1246-47:                     At
+trial the conclusion was reached that the number and frequency of inspections,
+of scaling and other remedial measures were matters of policy; as a result no
+findings of fact were made on the issues bearing on the standard of care. 
+Since the matter was one of operation the respondent was not immune from suit
+and the negligence issue had to be canvassed in its entirety.  The appellant
+was therefore entitled to a finding of fact on these questions and a new trial
+should be directed to accomplish this.                                                                     .
+. .                     To
+proceed in this way is fair to both the government agency and the litigant. 
+Once a duty of care that is not exempted has been established the trial will
+determine whether the government agency has met the requisite standard of
+care.  At that stage the system and manner of inspection may be reviewed. 
+However, the review will be undertaken bearing in mind the budgetary restraints
+imposed and the availability of personnel and equipment to carry out such an
+inspection.  90               Similarly,
+in Koschman v. Hay (1977), 17 O.R. (2d) 557 (C.A.), in an appeal in
+which the trial judge had failed to resolve conflicts in the evidence,
+Lacourcière J.A. stated, at p. 558:                     The
+vital importance of reasons for judgment in such cases cannot be
+over-emphasized.  This Court cannot decide issues of fact on the bald record. 
+The parties are entitled to the findings of the trial Judge on disputed
+evidence, and an appellate Court cannot properly exercise its function without
+them.  I refer to a decision of this Court in DeJussel et al. v. Hajzer,
+[1948] O.W.N. 468, and to Wright and Wright v. Ruckstuhl, [1955] O.W.N.
+32, [1955] 2 D.L.R. 77, where Chief Justice Pickup, speaking for the Court,
+expressed this principle in no uncertain terms.  This Court has never departed
+from that principle.  We are, therefore, unanimously forced to conclude that
+the assessment of the plaintiffs' damages must be sent back for a new trial.  91               La
+Forest J. in Chan v. Canada (Minister of Employment and Immigration),
+[1995] 3 S.C.R. 593, identifies the difficulty which an appellate court faces
+in assessing factual issues when the trier of fact has failed to do so.  He
+states, at para. 45:                     A
+reviewing court must, in assessing a Board's factual decision, attempt to put
+itself in its position.  This can pose serious difficulties where the Board has
+made no finding on a critical issue but has simply disposed of the matter on
+the basis of a legal finding.  92               Courts
+have departed from this established practice in exceptional circumstances in
+which the appellate court is able to conclude that it is in as good a position
+to resolve the issue as the trial judge.  In such circumstances, there is no
+special advantage in remitting the matter back to the trial judge, and the
+party affected is not prejudiced thereby.  A material consideration is that a
+final resolution of the case will avoid a new trial.  93               Circumstances
+that permit the conclusion to be drawn that the appellate court is in as good a
+position as the trial judge and that no advantage is lost include:  (i)the trial
+judge has made the necessary findings albeit in respect of a different legal
+issue, or it can be safely assumed from findings actually made that but for the
+error of law the necessary findings would have been made;  (ii)the
+evidence is not in dispute or conflict and no issue of credibility is involved;  (iii)special
+circumstances exist in which the parties urge the appellate court to make
+necessary findings of fact.  See Snell v. Farrell, supra; Davie
+Shipbuilding Ltd. v. The Queen, [1984] 1 F.C. 461 (C.A.); Jardine v.
+Northern Co-operative Timber and Mill Association, [1945] 1 W.W.R. 533
+(B.C.C.A.); Nova, An Alberta Corporation v. Guelph Engineering Co.
+(1989), 70 Alta. L.R. (2d) 97.  94               Cases
+in which this power has been exercised have stressed that it should only be
+resorted to in "unique" circumstances (Nova, at p. 112) and
+with extreme care to ensure that "such a course will . . . do complete
+justice between the parties" (Glow v. Paquin, [1932] 1 W.W.R. 737
+(Man. C.A.), at p. 742).  As a result, the preferred course of action is to
+order a new trial.  See Patterson v. Township of Aldborough (1913), 11
+D.L.R. 437 (Ont. C.A.); Colautti Construction Ltd. v. City of Ottawa
+(1984), 9 D.L.R. (4th) 265 (Ont. C.A.); Bank of Nova Scotia v. Dunphy
+Leasing Enterprises Ltd. (1991), 83 Alta. L.R. (2d) 289 (C.A.); Fitz Randolph
+v. Fitz Randolph (1918), 41 D.L.R. 739 (N.B.C.A.).  95               No
+circumstances are present which would bring this case within the above criteria
+and we are clearly not in as good a position as the trial judge to make the
+requisite findings.  My colleague addresses this issue (at para. 33) only
+in relation to the finding of a duty to warn and justifies our addressing the
+issue on the basis that the "bulk of the critical evidence adduced at
+trial was documentary, not testimonial".  This is not, however, the only
+factual issue which was not addressed at trial.  We have two additional factual
+issues in respect of which there were no findings at trial:  (i)Would Ms.
+Hollis have consented to the operation even if properly warned?  (ii)Would Dr.
+Birch's conduct have been the same whether or not Dow was in breach of the duty
+to warn?  96               With
+respect to the first issue, notwithstanding that it was not dealt with by the
+trial judge, my colleague concludes (at para. 47) that "there was
+sufficient evidence adduced at trial to satisfy the subjective Buchan
+test".  La Forest J. recognizes the concern expressed by Laskin
+C.J. that this test places too high a premium on the self-serving evidence of
+the plaintiff.  In his view (at para. 46), however, this concern is adequately
+addressed "through cross-examination and through a proper weighing by the
+trial judge of the relevant testimony".  I do not understand how the
+concern of Laskin C.J. is addressed when the evidence was not weighed by the
+trial judge and is dealt with on the basis of the subjective Buchan test
+for the first time in this Court.  The hallmark of this test as explained in Buchan
+is acceptance of the evidence of the plaintiff on the assertion that she would
+not have consented to the operation.  Ms. Hollis was asked at trial what she
+would have done if advised of "all of those complications".  She
+replied: "I would not have had the surgery".  If, as explained by
+Robins J.A. in Buchan, the entire issue turns on whether the trial judge
+gives credit to this statement and the evidence of expert witnesses as to what
+other reasonable women would do is not relevant, then it is vital that the
+trial judge make a specific finding as to the credibility of this statement. 
+The fact that in this case the trial judge made no adverse finding with respect
+to this statement and accepted her evidence on other issues cannot be a
+substitute for a finding on this crucial issue.  Indeed, the trial judge made
+no comment with respect to Ms. Hollis' credibility or demeanour as a witness in
+general.  A trial judge or jury is perfectly at liberty to accept part of a
+witness's evidence and reject other parts.  We do not know whether he would
+have done so in this case.  97               On
+the other hand, if the testimony of experts was relevant, five plastic surgeons
+testified that many women were not deterred by possible complications.  This
+evidence conflicted with the evidence of Ms. Hollis and could only be resolved
+at trial.  98               My
+colleague resolves the second causation issue (namely, whether or not Dr. Birch
+would have passed any warnings along), by effectively deciding that this aspect
+of causation does not arise.  As explained above, my colleague's approach flies
+in the face of well established legal principles by eliminating the need for
+the plaintiff to show that her injuries would not have occurred had Dow warned
+the "learned intermediary".  Clearly, the issue of causation must be
+resolved.  In the absence of a finding in this Court that evidence was lacking
+to raise the issues or that a weighing of the evidence cannot resolve the
+matter, a new trial should be ordered for the purpose of enabling the trial
+judge to carry out this function.  99               Apart
+from the foregoing, there are three additional reasons for ordering a new trial
+in this case.  100             First,
+there will be a new trial in any event with respect to Dr. Birch, and the
+judgment of this Court will not put an end to the litigation.  101             Second,
+the issue as to whether Ms. Hollis would have proceeded with the implant if
+properly warned is an issue in the new trial ordered in respect of Dr. Birch. 
+That order is not in issue here.  Dr. Birch is entitled to raise the issue of
+causation.  If this Court determines that issue and decides that on the
+evidence Ms. Hollis would have refused consent, I cannot see how a trial judge
+could decide otherwise.  If he did, such inconsistent findings would not
+enhance the image of justice.  102             Finally,
+under the Negligence Act, where damage or loss is caused by the fault of
+two or more persons, liability for the damage must be apportioned in accordance
+with the degrees of fault.  In accordance with s. 2 of the Negligence Act,
+the trial judge will have to determine the degree to which Dr. Birch was at
+fault.  This involves a comparison of the degrees of fault of Dow and Dr.
+Birch.  Such a comparison is at worst impossible and at best extremely
+difficult without hearing and weighing the evidence of negligence with respect
+to each defendant.  It is, therefore, the practice to have a joint trial which
+includes as parties all those alleged to be at fault for having caused the
+damage or loss claimed.  It is in keeping with the intent and purpose of the Negligence
+Act that all parties alleged to be at fault should be before the trial
+judge at the end of the case.  See McCarroll v. Powell, [1955] 4 D.L.R.
+631 (Ont. C.A.), at pp. 635-36; Hunt v. MacLeod Construction Co., [1958]
+S.C.R. 737.  The problem that I foresee for the trial judge is that the
+evidence with respect to Dow's breach of duty will have to be tendered but
+presumably in the absence of Dow as a party.  The trial judge will not,
+however, be free to evaluate this evidence free of the opinion of this Court. 
+For example, the trial judge might be of the view that on the evidence before
+him or her no fault is established.  Yet he or she must find some fault because
+this Court has determined that Dow was at fault.  Moreover, unless Dow is able
+to re-inject itself into the proceedings, its degree of fault will be
+determined ex parte.  103             Accordingly,
+I would allow the appeal and direct a new trial as proposed by Southin J.A.
+dissenting on this issue.                     Appeal dismissed with costs to
+the respondent Susan Hollis, Sopinka and McLachlin JJ. dissenting.                     Solicitors for the
+appellant:  Clark, Wilson, Vancouver.                     Solicitors for the respondent
+Susan Hollis:  Lang, Michener, Vancouver.                     Solicitors for
+the respondent John Robert Birch:  Harper, Grey, Easton, Vancouver.  

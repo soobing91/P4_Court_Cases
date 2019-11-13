@@ -1,0 +1,282 @@
+Townsend v. Kroppmanns, [2004] 1 S.C.R. 315, 2004 SCC
+10  Dale Kroppmanns and Allison Muriel Currie                                               Appellants  v.  Pamela Jean Townsend                                                                                 Respondent  Indexed as:  Townsend v. Kroppmanns  Neutral citation:  2004 SCC 10.  File No.:  29345.  Hearing and judgment:  December 2, 2003.  Reasons delivered:  February 19, 2004.  Present:  McLachlin C.J. and Iacobucci, Major, Bastarache,
+LeBel, Deschamps and Fish JJ.  on appeal from the court of appeal for british columbia  Torts — Damages — Determination of award — Whether
+rate of return should be taken into account in assessing award — Whether tax
+gross-up and management fees should be calculated on award established at trial
+or on figure determined at later date — Law and Equity Act, R.S.B.C. 1996,
+c. 253, s. 56 — Law and Equity Regulation, B.C. Reg. 352/81. After assessing damages against the appellants in the
+respondent’s action arising out of a motor vehicle accident, the trial judge
+issued supplementary reasons to deal with the tax gross-up and management
+fees.   By then, the respondent had already received partial payment and spent
+part of it purchasing a house and paying legal fees.  The trial judge deducted
+the capital expenditure and the legal fees in calculating management fees and the
+tax gross-up.  He also reduced the fee award by 50 percent to account for a
+predicted increased return, assumed to result from the investment counselling
+for which the management fee award was granted.  In British Columbia, the
+discount rates are fixed by the Law and Equity Regulation and a
+four-level classification for calculating management fees is regularly applied
+by the courts.  The Court of Appeal unanimously held that the evidence did not
+support the reduction of the award for management fees and that management fees
+and the tax gross-up were to be calculated in relation to the full amount of
+damages awarded, without deducting the respondent’s legal fees and the capital
+investment.  Held:  The
+appeal should be dismissed.  The higher rate of return on the award attributed to
+investment counselling should not result in a reduction of  the award.  The
+statutory discount rates do not take investment costs into consideration and
+apply in all cases.  Moreover, the fee classification was formulated on the
+basis that victims do not benefit from advice costs being already built into
+the statutory discount rate.  Indeed, deducting the difference between the
+potential rate of return and the statutory rate from the award would defeat the
+whole purpose of the deeming provisions, which is to render irrelevant any
+evidence on actual or potential rates of return or inflation.  The effect of
+the statutory rate and the classification cannot be avoided by claiming a
+reduction in the fees award.  The legislature made a policy choice which the
+courts must respect. The cost of the respondent’s legal fees and house
+should not be deducted from the amount upon which management fees and tax
+gross-up are calculated.   This conclusion is supported by three principles
+involved in assessing damages.  First, since damages are assessed, not
+calculated, the notional amount assessed for future damages cannot be mixed
+with actual amounts.  Second, the principle of finality would be undermined if
+the award were to be adjusted for changing circumstances.  Finally, the
+plaintiff has property of the award and how he or she chooses to use it is
+irrelevant.  Cases Cited  Applied:  Andrews v.
+Grand & Toy Alberta Ltd., [1978] 2 S.C.R. 229; referred to:  Mandzuk
+v. Insurance Corporation of British Columbia, [1988] 2 S.C.R. 650; Arnold
+v. Teno, [1978] 2 S.C.R. 287; Walker v. The King, [1939] S.C.R. 214.  Statutes and Regulations Cited  Law and Equity Act, R.S.B.C. 1996, c. 253, s. 56 [ad. 1981, c. 10,
+s. 30].  Law and Equity Regulation, B.C. Reg. 352/81.  Rules of Court, B.C. Reg. 221/90, r. 37(23).  Authors Cited  British Columbia.  Law Reform
+Commission.  Report on Standardized Assumptions for Calculating Income Tax
+Gross-up and Management Fees in Assessing Damages.  Vancouver:  The
+Commission, 1994.  APPEAL from a judgment of the British Columbia Court
+of Appeal (2002), 2 B.C.L.R. (4th) 10, 171 B.C.A.C. 11, 280 W.A.C. 11, 12
+C.C.L.T. (3d) 88, [2002] B.C.J. No. 1287 (QL), 2002 BCCA 365, allowing an
+appeal from a decision of the British Columbia Supreme Court, [1998] B.C.J.
+No. 2447 (QL), and its supplementary reasons regarding damage awards for
+management fees and tax gross-up, [2000] B.C.J. No. 1352 (QL), 2000 BCSC
+964.  Appeal dismissed.  Patrick G. Foy, Q.C.,
+and Robert J. C. Deane, for the appellants.  Joseph J. Arvay, Q.C.,
+and Aaron A. G. Gordon, for the respondent.  The judgment of the Court was delivered by  1                                  
+Deschamps J. — This appeal
+deals with issues which are often raised in large personal injury cases.  It
+concerns management fees and tax gross-up awarded to a victim in a tort case. 
+More specifically, first, should the award take into account the rate of return
+by the victim and, second, should the tax gross-up and management fees be
+calculated on the estimated amount established at the time of the trial or on
+some other figure likely to become known at a later date.  This Court dismissed
+the appeal at the conclusion of the hearing, with reasons to follow.  These are
+the reasons for judgment.  2                                  
+On December 8, 1990, while walking on a road in the middle of the night,
+the respondent Townsend was struck by a vehicle owned by the appellant Currie,
+and driven by the appellant Kroppmanns.  Liability was at issue.  The trial was
+held in May 1995 and judgment was delivered in July 1995.  The trial judge
+dismissed the action ([1995] B.C.J. No. 1625 (QL)).  On appeal, liability was
+apportioned by attributing 55 percent of the fault to Ms. Townsend and 45
+percent to Mr. Kroppmanns and Ms. Currie ((1998), 108 B.C.A.C. 23).  The
+Court of Appeal referred the matter back to the trial judge for assessment of
+damages.  In October 1998, the damages were assessed at $1,445,000 before
+apportionment ([1998] B.C.J. No. 2447 (QL)).  3                                  
+In June 2000, the trial judge issued supplementary reasons to deal with
+the tax gross-up and management fees ([2000] B.C.J. No. 1352 (QL), 2000 BCSC
+964).  By then, the respondent had already received partial payment and spent
+part of it purchasing a house and paying legal fees.  The trial judge deducted
+the capital expenditure and the legal fees from the amount used to calculate
+management fees and tax gross-up.  He also reduced the fee award by 50 percent
+to account for a predicted increased return, assumed to result from the
+investment counselling for which the management fee award was granted.  4                                  
+The judgment was appealed on many issues, but only two remain.  On
+those, Finch C.J.B.C. held, for a unanimous court, that the evidence did not
+support the reduction of the award for management fees ((2002), 2 B.C.L.R.
+(4th) 10).  He also found that management fees and tax gross-up were to be
+calculated in relation to the full amount of damages, without deducting the
+respondent’s legal fees and investment in her home.  The questions will be
+dealt with in turn, but first some preliminary comments will help in
+understanding the issues.  5                                  
+Compensation aims at restoring the victim to the position that person
+would have been in had no loss been incurred.  Compensation is awarded in the
+form of a lump sum payment.  The dollar amount received for future costs is
+actually lower than projected costs because it is assumed that the amount paid
+will be invested and will earn income before being used for future needs.  The same
+reasoning applies for loss of future income.  The victim is awarded a lower
+amount for income than that person would have actually earned at a future
+date.  In other words, the amounts are discounted to reflect the present value
+of the expenses incurred or the income earned at a future date, taking
+inflation adjustments into consideration.  The purpose of the discount rate is
+thus to insure that victims will be fully compensated but that defendants will
+not be called on to overpay.  In British Columbia, to avoid courts’ having to
+hear expert evidence in every case in order to determine the appropriate
+discount rate, s. 56 of the Law and Equity Act, R.S.B.C. 1996, c. 253,
+which was added in 1981 (S.B.C. 1981, c. 10, s. 30), authorizes the Chief
+Justice of the British Columbia Supreme Court to set the discount rate. 
+Pursuant to the Law and Equity Regulation, B.C. Reg. 352/81, which was
+adopted pursuant to s. 56 of the Law and Equity Act, the Chief Justice
+has fixed the discount rate at 2½ percent for future earnings and 3½ percent
+for future costs.  6                                  
+The same underlying rationale guides the attribution of management fees
+and tax gross-up.  The law aims at ensuring that the value of the amounts
+awarded to victims is maintained over time.  In tort law, victims of personal
+injuries are awarded management fees when their ability to manage the amount
+they receive is impaired as a result of the tortious conduct.  The purpose of
+this segment of the award is to ensure that amounts related to future needs are
+not exhausted prematurely due to the inability of the victims to manage their
+affairs.  Depending on the needs of the victims, more or less extensive help is
+required.  The assessment is made on a case-by-case basis: Mandzuk v.
+Insurance Corporation of British Columbia, [1988] 2 S.C.R. 650.  In the
+same vein, since the earnings on the capital awarded are subject to income tax,
+an amount called tax gross-up is awarded to ensure that the amount will not be
+eroded by the tax liability.  7                                  
+With this background information, the appellants’ arguments will be
+easier to deal with.  I.     Reduction of Management Fees  8                                  
+The appellants argue, first, that the statutory discount rates take into
+consideration some investment costs and, second, that when an allowance for
+investment counselling is made, one can expect the rate of return to be higher
+than that otherwise achieved, which is a benefit both the victim and the
+defendants should share.  In their view, the reduction of 50 percent ordered by
+the trial judge was appropriate.  9                                  
+The first part of the appellants’ argument is not consonant with the
+development of the law in British Columbia.  As mentioned above, the s. 56 of
+the Law and Equity Act was added in 1981 to obviate the need to resort
+to expert evidence on discount rates.  Pursuant to the regulation of the Chief
+Justice, these rates have been in force since 1981.  They apply in all cases,
+no matter how impaired the victim is and do not take into account whether
+management fees are awarded or not.  The adoption of the statutory discount rates
+postdates the judgment of this Court in Arnold v. Teno, [1978] 2 S.C.R.
+287, in which the award of management fees was approved.  The legislature is
+presumed to have known the law concerning management fees when it adopted the Law
+and Equity Act: Walker v. The King, [1939] S.C.R. 214, at p. 220 (per
+Duff C.J.) and to have known that courts award management fees according to a
+calculation that is distinct from the discount rate.  As no exception is made
+for cases where management fees are awarded, the two distinct calculations are
+upheld.  Discount rates and management fees are two complementary but distinct
+components of the calculation of the final award.  10                              
+Moreover, the appellants’ argument is not compatible with the implicit
+basis of the recommendations in the Report on Standardized Assumptions for
+Calculating Income Tax Gross-up and Management Fees in Assessing Damages of
+the Law Reform Commission of British Columbia (the “Commission”). These
+recommendations provide for a four-level classification (at p. 52), to which
+courts of British Columbia have referred:  Level 1 –    The plaintiff requires only a single
+session of investment advice and the preparation of an investment plan at the
+beginning of the period the award is to cover.  Level 2 –    The plaintiff will require an initial
+investment plan and a review of the investment plan approximately every five
+years throughout the duration of the award.  Level 3 –    The plaintiff will need management
+services in relation to custody of the fund and accounting for investments on a
+continuous basis.  Level 4 –    The plaintiff will require full
+investment management services on a continuous basis, including custody of the
+fund, accounting, and discretionary responsibility for making and carrying out
+investment decisions.  Such a plaintiff is likely to be mentally incapacitated
+or otherwise incapable of managing personal financial affairs.  11                              
+It seems apparent that Level 1 fees cover a very limited involvement
+from the investment advisor.  If the cost of any advice was already included in
+the discount rate, one would expect that at least the limited advice provided
+for by Level 1 would be covered.  It must then be inferred that the fee
+classification was formulated on the basis that victims did not benefit from
+advice costs being already built into the statutory discount rate.  12                              
+The second part of the appellants’ argument, which seeks to compare the
+potential rate of return with the statutory rate, defeats the whole purpose of
+the deeming provision.  The statutory discount rate is mandatory and renders
+irrelevant any evidence on actual or potential rates of return or inflation. 
+In order to entertain the appellants’ approach, courts would have to enquire
+into the potential rates of return and inflation with the assistance of expert
+actuarial evidence, compare it with the statutory rate to determine whether the
+victim is likely to achieve a higher rate than the one provided for by the
+statute, and then apportion any perceived overpayment between the victim and
+the defendant.  This kind of inquiry is exactly the one that the legislature
+allowed the parties to avoid by adopting a mandatory deeming provision.  With
+the deeming provision, parties no longer need to adduce evidence on rate of
+return.  Assessment of management fees should not be an indirect and incidental
+means of reverting to costly complex evidence.  13                              
+The four-level classification of the Commission seems to be guided by
+the same preoccupations (Report on Standardized Assumptions, at p. 51):  Much court time could nevertheless be saved if the amount of the fee
+could be readily linked to the amount and duration of the award for future
+loss, without the need for re-inventing the wheel through evidence and argument
+in each case.  14                              
+The goal sought by the Commission was obviously to simplify the evidence
+and reduce court costs.  It would therefore be counter-intuitive to allow a
+party to proceed exactly in the way sought to be avoided by admitting evidence
+regarding the rate of return likely to be earned with the assistance of
+investment advice.  15                              
+In this case, both parties appear to have agreed before the Court of
+Appeal that an extension of Level 4 value is not inappropriate.  In my view, it
+is not now open to the appellants to seek to avoid the effect of the statutory
+rate nor the use of the classification recommended by the Commission by
+claiming a reduction in the fees award.  16                              
+A policy choice was made by the legislature to allow the parties to
+avoid the hurdles of evidence on rate of return.  In addition to enhancing
+trial efficiency and saving valuable court time, it is likely that the
+important concerns of consistency in compensation awards and fairness to
+victims also motivated the imposition of a deemed rate. The Court must respect
+this policy choice and refrain from mixing deemed return with potential return
+achieved.  Therefore, not only is the appellants’ argument lacking an
+evidentiary basis as found by the Court of Appeal, but it is also unfounded in
+law.  I now turn to the second question.  II.    Basis for Calculation of the Management
+Fees and Tax Gross-up  17                              
+The appellants argue that the amount on which tax gross-up and
+management fees should be calculated is the amount that is closest to the
+actual amount the victim will eventually invest.  As a consequence, deduction
+should be made for known expenses in order to identify the income-producing
+fund actually available.  18                              
+In fixing the award of damages in a tort action, courts rely on many
+principles. Three of them are of particular relevance to this case. First,
+there is the principle that damages are assessed and not calculated. The second
+principle is finality, according to which courts award a one-time lump sum of
+damages. Finally, the third principle is that the plaintiff has property over
+the award.  I will examine each of these principles and explain how they affect
+the disposition of this case.   20                              
+Secondly, damages are awarded in a lump sum in order to respect the
+principle of finality: Andrews, supra, at p. 236.  According to
+this principle, there has to be a clean break between the parties.  It would be
+inconsistent with the principle of finality to authorize repeatedly revisiting
+the amount assessed as full and fair compensation at trial whenever new
+evidence became available.  During the prospective period for which damages are
+awarded, the hypothesis may prove overly pessimistic for a period but
+overstated for another period.  The award should not be reassessed every time
+reality reveals a discrepancy with the forecast.  Therefore, monitoring the
+respondent’s use of the award or adjusting it with her changing circumstances
+would create more uncertainty than the present rule, would undermine the
+purpose of the statutory discount rate, and would improperly interfere with the
+third principle of damages relevant to this case.   It is not for the Court to conjecture upon how a plaintiff will spend
+the amount awarded to him. There is always the possibility that the victim will
+not invest his award wisely but will dissipate it. That is not something which
+ought to be allowed to affect a consideration of the proper basis of
+compensation within a fault-based system. The plaintiff is free to do with that
+sum of money as he likes.   In my respectful view, how the plaintiff may choose
+to spend the amounts recovered on her claim for damages is not relevant to the
+assessment of damages for management fees and tax gross-up. . . .  . . . How or when the plaintiff may choose to spend
+her damages after judgment has been given has never been a concern the courts
+would consider in making damage awards. The awards for management fees and tax
+gross-up are designed to ensure that the damages assessed for future losses are
+adequate. The actual expenditure of damages after recovery is not relevant to
+that assessment.  23                              
+In the case at bar, the victim chose to pay her legal fees and buy a
+house.  There is no principled reason why these expenses should be deducted
+from the award for costs of future care rather than assuming that other sources
+can bear the cost. This is particularly important in the case of damages
+awarded for costs of future care. This head of damages is aimed at ensuring an
+adequate level of care to a person injured as a result of tortious conduct.  To
+reduce those damages would defeat the very purpose of ensuring decent care and
+full compensation to a victim.  Even if it was demonstrated that legal
+fees were paid with the future costs award because no other funds were
+available, such a deduction would be irrelevant and inadmissible.  The goal of
+compensation is to provide the plaintiff with the means to be placed in the
+position she would have been in had the defendant not committed a tort against
+her.  The plaintiff’s future actions do not alter the court’s duty to meet this
+objective.  24                              
+Moreover, an impecunious person should not be penalized for using part
+of the damages to accord with his or her priorities.  On the reasoning advanced
+by the appellants, a victim in a position to pay his or her legal fees with
+personal money would always receive the amount required for tax gross-up and
+management fees whereas an impecunious person would always receive a reduced
+amount.  This distinction is repugnant to the law. The damages are part of the
+plaintiff’s assets as much as any other sum of money.  As a matter of fairness,
+every victim must be compensated on the same basis and no distinction should be
+made between a plaintiff who can pay out of savings and a plaintiff who has to
+resort to the damages awarded to pay legal fees.  25                              
+In light of the above, the appellants’ arguments cannot be accepted.  No
+reduction of the management fees is allowed and the amounts spent by the
+respondent on her legal fees and for the purchase of a house should not be
+deducted from the amount upon which management fees and tax gross-up are
+calculated.  III.    Conclusion  26                              
+Accordingly, as was decided from the bench on December 2, 2003, the
+appeal is dismissed.  In accordance with rule 37(23) of the Rules of Court,
+B.C. Reg. 221/90, as amended, the respondent is awarded costs up until the date
+of the formal offer in 1994 and double costs from that date.  Appeal dismissed with costs.  Solicitors for the appellants:  Borden Ladner Gervais,
+Vancouver.  Solicitors for the respondent:  Gordon & Velletta,
+Victoria.  

@@ -1,0 +1,1481 @@
+ter Neuzen v. Korn, [1995] 3
+S.C.R. 674  Kobe ter Neuzen          Appellant  v.  Dr. Gerald Korn          Respondent  and  Association of Transfused Hepatitis C
+Survivors, the Canadian Hospital Association and the Canadian Red Cross Society                                                      Interveners  Indexed as:  ter Neuzen v.
+Korn  File No.:  23773.  1995:  February 2;
+1995:  October 19.   on appeal from the court of appeal for
+british columbia                         Held:  The appeal should be dismissed.                     Per La Forest, Sopinka, Gonthier, Cory,
+McLachlin and Iacobucci JJ.:  It is well settled that physicians have a
+duty to conduct their practice in accordance with the conduct of a prudent and
+diligent doctor in the same circumstances.  In the case of a specialist, such
+as a gynaecologist and obstetrician, the doctor's behaviour must be assessed in
+light of the conduct of other ordinary specialists, who possess a reasonable
+level of knowledge, competence and skill expected of professionals in Canada, in
+that field.  The conduct of physicians must be judged in the light of the
+knowledge that ought to have been reasonably possessed at the time of the
+alleged act of negligence.  It was not possible for a jury acting judicially to
+have found that, in 1985, the respondent ought to have known of the risk of HIV
+by AI.  While conformity with common practice will generally exonerate
+physicians of any complaint of negligence, there are certain situations where
+the standard practice itself may be found to be negligent.  However, this will
+only be where the standard practice is fraught with obvious risks such that
+anyone is capable of finding it negligent, without the necessity of judging
+matters requiring diagnostic or clinical expertise.  The question as to whether
+the trier of fact can find that a standard practice is itself negligent is a
+question of law to be determined by the trial judge irrespective of the mode of
+trial.  The first aspect of the negligence claim was not one that the jury
+could decide without the aid of expert evidence.  Accordingly, the trial judge
+erred in inviting them to do so.                      The Information
+Sheet provided by the respondent did not amount to a warranty that the donor
+would not be homosexual or a drug abuser.  There is no indication that there
+was any intention on the part of either party that there should be contractual
+liability in respect of the statement in the Information Sheet.  Moreover, it
+appears that the appellant did not raise this issue in either court below.                     In order for the Sale
+of Goods Act to apply, a contract must be primarily for the purpose of
+selling goods.  If the sale of a good is merely incidental to what is primarily
+a contract for services, then the statute will not imply a warranty.  Assuming
+that there was in fact a sale of semen between the appellant and respondent, it
+cannot be contended that the contract was one primarily for the sale of semen
+such as to attract the application of the Sale of Goods Act.  Apart from
+the Act, a court must consider whether a common law warranty of fitness and
+merchantability should be implied into the contract which includes services as
+well as the provision of materials.  However, such a warranty will not be implied
+in all circumstances.  The court must examine the specific nature of the
+contract and the relationship between the parties in order to assess whether it
+was the intention of the parties that such a warranty be implied.  Courts must
+be very cautious in their approach to implying contractual terms.  A rationale
+for implying warranties in contracts of goods and services is that a supplier
+of goods generally has recourse against the manufacturer under the Sale of
+Goods Act as a result of the statutory conditions imposed.  While it is
+true that the primary purpose of the implied warranty is to hold the supplier
+of goods liable notwithstanding the absence of negligence, different
+considerations apply in the context of the medical profession than in the ordinary
+commercial context.  The doctor cannot trace the liability back to the initial
+manufacturer.  Moreover, it must be recognized that biological products such as
+blood and semen, unlike manufactured products, carry certain inherent risks. 
+It would be inappropriate to imply a warranty of fitness and merchantability in
+the circumstances of this case.  Moreover, any warranty would simply be to take
+reasonable care.    Cases Cited  By Sopinka J.                       Referred to:  Gray v. Alanco Developments Ltd.
+(1967), 61 D.L.R. (2d) 652; Hill v. Church of Scientology of Toronto,
+[1995] 2 S.C.R. 1130; Andrews v. Grand & Toy Alberta Ltd., [1978] 2
+S.C.R. 229; Thornton v. Board of School Trustees of School District
+No. 57 (Prince George), [1978] 2 S.C.R. 267; Arnold v. Teno,
+[1978] 2 S.C.R. 287.  Statutes and
+Regulations Cited  Negligence Act, R.S.B.C. 1979, c. 298, s. 6.  Sale
+of Goods Act,
+R.S.B.C. 1979, c. 370, ss. 17, 18.  Authors Cited   Charles, W. H. R. 
+Charles Handbook on Assessment of Damages in Personal Injury Cases, 2nd
+ed.  Toronto:  Carswell, 1990.  Fleming,
+John G.  The Law of Torts, 7th ed.  Sydney:  Law Book Co., 1987.  Fridman, G. H. L. 
+Sale of Goods in Canada, 2nd ed.  Toronto:  Carswell, 1979.                     APPEAL from a
+judgment of the British Columbia Court of Appeal (1993), 81 B.C.L.R. (2d) 39,
+103 D.L.R. (4th) 473, [1993] 6 W.W.R. 647, 29 B.C.A.C. 1, 48 W.A.C. 1, 16
+C.C.L.T. (2d) 65, setting aside the jury's verdict, which found the respondent
+negligent and awarded damages to the appellant, and ordering a new trial. 
+Appeal dismissed.                     Sandra J.
+Harper and Kathleen
+Birney, for the appellant.                     Christopher E.
+Hinkson, Q.C.,
+and M. Lynn McBride, for the respondent.                      Written submissions
+only by Daniel A. Webster, Q.C., for the intervener the
+Canadian Hospital Association.                     Written submissions
+only by Peter K. Boeckle and Anil Varma, for the intervener
+the Canadian Red Cross Society.  //Sopinka J.//                     The judgment of La
+Forest, Sopinka, Gonthier, Cory, McLachlin and Iacobucci JJ. was delivered by  1                 Sopinka
+J. -- This appeal raises issues concerning the liability of the
+respondent physician for conducting an artificial insemination ("AI")
+procedure which resulted in his patient, the appellant, contracting the Human
+Immunodeficiency Virus ("HIV") through the infected semen of the
+donor.  Specifically, this Court must address whether the respondent physician
+could be found negligent, notwithstanding conformity with standard medical
+practice, and whether the trial judge erred in instructing the jury that the
+prevailing standard of practice could itself be found to be negligent.  2                 As well, this appeal also raises
+for consideration the issue of whether the implied conditions under the Sale
+of Goods Act, R.S.B.C. 1979, c. 370, are applicable in the present
+circumstances or whether there exists an implied warranty at common law that
+the semen would be of merchantable quality and fit for its purpose.  3                 Finally, this appeal requires
+the Court to consider whether the rough upper limit for non-pecuniary damages,
+established by this Court in Andrews v. Grand & Toy Alberta Ltd.,
+[1978] 2 S.C.R. 229, ought to have been applied by the jury in the present
+case.  First, it must be decided whether the trial judge erred in failing to
+charge the jury on the rough upper limit.  If the trial judge was not in error,
+this Court must decide whether the damages awarded for non-pecuniary loss,
+which far exceeded the upper limit established in Andrews, ought
+nonetheless to be adjusted in accordance with those principles.  4                 I should note that the
+interveners HIV-T Group (Blood Transfused) and Canadian Association of
+Transfused Hepatitis C Survivors also raised the issue of whether the medical
+profession ought to be held liable for the distribution of defective products,
+such as semen, based on a theory of strict liability in tort.  This approach
+has been used in some American cases.  However, I am in agreement with the
+respondent that this is not the appropriate case to address this important
+issue which could have far-reaching implications for the medical profession and
+the Canadian system of public health insurance in general.  The appellant did not
+raise this issue in her pleadings at trial, nor at the Court of Appeal.  Thus,
+the issue has been raised for the first time at this Court by the interveners. 
+In these circumstances, the applicability of strict liability in tort is best
+left for another day.  I.  Facts  5                 The facts and the evidence of
+the expert witnesses at trial were thoroughly summarized in the reasons of the
+Court of Appeal.  I do not intend to review the evidence of each expert
+individually again in these reasons.  However, in order to resolve this appeal,
+it is necessary to review the relevant facts in some detail and highlight some
+of the key aspects which emerge from the evidence.  6                 The respondent is an
+obstetrician and gynaecologist and has practised AI since 1974.  The appellant
+was a psychiatric nurse.  She participated in the respondent's AI program from
+1981 until January 21, 1985, during which time she underwent about 35 AI
+procedures.  It was agreed that the appellant became infected by HIV as a
+result of the AI procedure on January 21, 1985.  The respondent did not warn
+the appellant of the risk of HIV infection resulting from the AI procedure
+(also referred to as "the risk").  7                 The first report of HIV in
+female sex partners of men with AIDS appeared in early 1983.  At that time,
+heterosexual intercourse was seen as a potential source of infection.  However,
+there was no link between AI and HIV.  In December 1983, for the first time,
+the risk of contracting AIDS was related to blood transfusions.  In October
+1983, an important letter was published by Dr. Mascola in the New England
+Journal of Medicine suggesting that there was a risk of transmitting
+sexually transmitted diseases ("STDs") through AI.  However, this
+prestigious journal was not widely read by gynaecologists and the respondent
+did not read this letter.  It appears that Dr. Mascola was the first person in
+the world to express a concern about the possibility of transmitting HIV
+through AI.  The first documented case in the world of HIV transmission through
+AI was published in the lay media in July 1985 and in a medical journal in
+September 1985.  None of the obstetric literature mentioned AI as a mode of
+transmission of HIV and no article summarized the disease risks of AI before
+1986.  8                 The evidence reveals that the
+knowledge about HIV was rapidly growing in the period of 1984-85; however, it
+was still quite limited and confusing in the early days.  Generally, research
+scientists and health care officials in the AIDS field were expected to be more
+up to date on medical developments concerning HIV than clinical practitioners
+and the general medical community.  In 1984, the Elisa test was developed in
+the United States which enabled doctors to test for HIV in blood and tissues. 
+However, as of January 21, 1985, there was no test available for the detection
+of HIV in semen or blood in Canada.  The Elisa test did not become available in
+Canada until later in 1985.  Therefore, it was impossible to test the semen of
+donors for HIV at the time the appellant became infected.  9                 At this time, it was widely
+believed that HIV was an STD; however, it was hoped that the atraumatic AI
+procedure was free of risk.  It was believed that the small abrasions caused by
+intercourse were necessary in order for the virus to get into the bloodstream. 
+Thus, in late 1984, a possibility of the transmission of HIV through
+heterosexual intercourse was known, but AI was not seriously considered to put
+anyone at risk of being infected.  10               Some of the experts testified that
+an analogy could be drawn between Hepatitis B and HIV, since both were STDs. 
+It was not until late 1986 that it was recognized that Hepatitis B could be
+transmitted by AI and it was common ground that there were no published reports
+of Hepatitis B transmissions by AI until the fall of 1987.  11               In mid-1984, four babies in
+Australia were found to have acquired AIDS by blood transfusions.  Since it was
+known that the Elisa test would eventually be available for clinical use, this
+led to a ministerial decree to impose a moratorium on all body fluid and tissue
+transfers.  As a result, all AI clinics were closed at this time, although this
+was not supported by the whole medical profession in Australia.  This event was
+not widely publicized in North America and the respondent, as well as the
+general medical community in North America, were unaware of the closures in
+Australia until later in 1985.  Apparently, there was little exchange of
+medical information on the subject of HIV between Australia and North America. 
+In September 1985, an article in the British medical journal Lancet
+revealed that four Australian women had contracted HIV from AI.  When the
+respondent learned of this he immediately discontinued his AI program and
+recommended that his donors and the appellant be tested.  12               The American Fertility Society
+published guidelines for the use of semen donor insemination for the first time
+in 1986 and these guidelines were revised in 1988.  The new guidelines
+recommended the use of frozen semen only, which is stored for at least six
+months.  Blood samples for HIV antibodies are taken at the time of semen
+donation and six months later.  The semen is only to be used if both samples are
+HIV negative.  These guidelines were not published by the American Center for
+Disease Control until February 1988.  The respondent did not start testing for
+Hepatitis B until sometime in 1987-88, when the guidelines were issued.  13               Although the respondent knew that
+HIV could be transmitted by heterosexual sex, as well as through blood
+transfusions, he was not aware that HIV could be transmitted by AI until July
+1985, when he heard about the experience in Australia.  None of the medical
+publications he read prior to January 1985 nor any of the medical meetings he
+attended suggested that there was a risk of contracting HIV through AI.  The
+respondent did not read Dr. Mascola's letter which appeared in the New
+England Journal of Medicine.  He did not make any connection between the
+fact HIV was an STD and the possibility that it could be passed on through AI
+since there was nothing recorded to this effect.  14               There was expert evidence that the
+respondent's AI practice was in keeping with general practices across Canada. 
+Specifically, his AI practice of recruitment and screening of donors and semen
+accorded with standard practice across Canada.  The respondent used only fresh
+semen prior to January 1985.  He personally interviewed all his donors instead
+of using a questionnaire.  In the interview, the respondent obtained a complete
+medical history of the prospective donor including whether the donor was heterosexual
+or homosexual.  The respondent rejected homosexuals because he considered that
+they had practices that could potentially transmit certain diseases to
+recipients.  The respondent also inquired into the levels of sexual activity
+since active donors were more likely to be exposed to STDs.  15               The respondent also conducted a
+general physical examination.  He tested for gonorrhoea, syphilis and other
+bacteria and conducted blood and semen tests for Rh blood factor.  Other than
+on a random basis, there was no repeat testing of semen nor re-interviewing of
+donors.  Of the 28 active donors used by the respondent in his AI practice,
+only the donor whose semen was administered to the appellant was infected by
+HIV.  That donor had been asked whether he was heterosexual or homosexual and
+he replied that he was heterosexual.  After the donor tested HIV positive, he
+told the respondent that he was bisexual.  16               At trial, the trial judge
+instructed the jury that it was open to find the respondent negligent on the
+basis that he failed to comply with the standard medical practice at that
+time.  Alternatively, the trial judge stated that the jury could find that the
+approved practice itself was negligent.  17               With respect to the sale of goods
+issue, the trial judge instructed the jury to first determine whether the
+contract between the parties was primarily one for goods or primarily for
+services.  If it was primarily for goods, then the Sale of Goods Act
+applied.  However, the jury held that the contract was primarily one for
+services and therefore the Act did not apply.  The trial judge also instructed
+the jury that aside from the Act, they had to consider whether there was a
+warranty at common law.  However, in this context, the trial judge stated that
+any common law warranty would simply amount to the same thing as negligence. 
+In other words, under the common law warranty in a contract for medical
+services, the respondent undertakes to meet the standards of a reasonably
+competent person practising in his field.  The doctor does not warrant that the
+services will be effective.  18               In the result, the jury found the
+respondent negligent.  However, it is unknown on what basis the jurors reached
+their decision.  The damages awarded by the jury totalled $883,800, including
+$460,000 for non-pecuniary damages.  On appeal, however, the verdict of the
+jury was set aside and the Court of Appeal ordered a new trial on the issue of
+liability as well as damages: (1993), 81 B.C.L.R. (2d) 39, 103 D.L.R. (4th)
+473, [1993] 6 W.W.R. 647, 29 B.C.A.C. 1, 48 W.A.C. 1, 16 C.C.L.T. (2d) 65.  II.  Relevant Statutory Provisions  Sale
+of Goods Act,
+R.S.B.C. 1979, c. 370:                     17.  Where there is a contract for the
+sale of goods by description, there is an implied condition that the goods
+shall correspond with the description.  If the sale be by sample, as well as by
+description, it is not sufficient that the bulk of the goods correspond with
+the sample if the goods do not also correspond with the description.                     18.  Subject to this Act and any statute
+in that behalf, there is no implied warranty or condition as to the quality or
+fitness for any particular purpose of goods supplied under a contract of sale,
+except as follows:  (a)where
+the buyer, expressly or by implication, makes known to the seller the
+particular purpose for which the goods are required, so as to show that the
+buyer relies on the seller's skill or judgment, and the goods are of a
+description which it is in the course of the seller's business to supply,
+whether he is the manufacturer or not, there is an implied condition that the
+goods are reasonably fit for such purpose; except that in the case of a
+contract for the sale of a specified article under its patent or other trade
+name, there is no implied condition as to its fitness for any particular
+purpose;  (b)where
+goods are bought by description from a seller who deals in goods of that
+description, whether he is the manufacturer or not, there is an implied
+condition that the goods shall be of merchantable quality; but if the buyer has
+examined the goods there is no implied condition as regards defects which such
+examination ought to have revealed;  (c)an
+implied warranty or condition as to quality or fitness for a particular purpose
+may be annexed by the usage of trade; and  (d)an
+express warranty or condition does not negative a warranty or condition implied
+by this Act unless inconsistent with it.  III.  Judgment of Court of Appeal
+(1993), 81 B.C.L.R. (2d) 39  19               After a review of the evidence,
+including an exhaustive review of the evidence of standard practice, the court
+noted that the law was well established that "physicians are required to
+conduct themselves at least in accordance with the standard of their
+professional peers, but they are not expected to guarantee the success of their
+procedures or the perfect safety of their patients" (p. 61).  20               With respect to the negligence
+claim, the Court of Appeal distinguished between two aspects of the defendant's
+practice:  (1)the
+conduct of the AI procedure which reflected the current state of knowledge as
+to the risk of transmission of HIV involved in the use of that procedure;  (2)               the screening and
+follow-up of donors.  21               With respect to the first aspect
+of the case, the court stated (at p. 67):                     Thus,
+it is apparent that for the Defendant to be found liable on this part of the
+case, it would be necessary for the jury to be satisfied that the Defendant
+failed to have the knowledge and understanding expected in accordance with the
+standards of his profession.  That, of course, was a question for the jury,
+and it was essential that the jury be carefully instructed upon the standard
+they should apply in deciding whether the Defendant was guilty of negligence. 
+[Emphasis added.]  22               The court doubted that it could
+reasonably be found that the defendant was negligent in using fresh semen.  It
+found, however, that the instructions to the jury were deficient in that the
+trial judge instructed the jury that it was open for them to find the general
+practice itself was negligent.  In this regard, the court stated (at
+p. 73):  The
+only proper instruction to be given on at least a part of the case was that the
+jury should decide whether the Defendant conducted himself as a reasonable
+physician would in similar circumstances.  In our judgment, that required the
+jury to confine itself to prevailing standards of practice.  The Court of Appeal also stated (at p.
+74):                     It
+was not possible on the evidence for the jury to find that it was negligent of
+the Defendant not to have known of the risk of HIV by AI and that he should
+have ceased performing AI.  That was the principal argument of the Plaintiff
+and it may be the ground upon which the jury based its finding of negligence. 
+If that is the case the verdict cannot stand.  23               With respect to the second aspect
+of the defendant's practice relating to the screening and follow-up of donors,
+the Court of Appeal stated (at p. 69):                     What
+is more significant is that the Defendant made specific enquiries about
+homosexuality, not out of concern about HIV or AIDS, but because he regarded
+such persons as higher risks for the more common STDs.  As a result of his
+initial enquiry, he felt confident in assuring the Plaintiff that her donor was
+not a homosexual person.  A follow-up interview, or closer questioning, may
+or may not have disclosed that the donor was bisexual.                                                                      ...                     Keeping
+in mind that infection in a donor could be a "day-to-day" thing as
+described by Dr. Mascola, and that lifestyle changes can occur quickly, it
+was necessary for the jury to consider whether the Defendant's screening
+procedures were deficient.  Again, of course, it was essential that the
+jury be given a proper instruction on the principles governing such matters. 
+[Emphasis added.]  24               With respect to the instructions
+on this aspect, the Court of Appeal stated (at p. 73):                     On
+the other part of the case, relating to the screening of donors, and follow-up
+interviews, the case is not so clear because less scientific questions are
+involved.  In addition, we have identified some overlap between the two parts
+of the case.  Screening homosexual persons out of an AI program because of
+their believed greater risk of infection was recognized by the Defendant as a
+desirable aim.  The elimination of this particular donor for any reason would
+have protected the Plaintiff from HIV.  It must be remembered, however, that it
+was impossible to guarantee safety because an inaccurate answer or a changed
+lifestyle after one or more follow-up interviews could have left the Plaintiff
+exposed to infection.  There is no evidence suggesting that donors should be
+interviewed by the responsible physician before every donation.                     On
+the other hand, if the jury found that the Defendant breached this duty of care
+to the Plaintiff then she may have an actionable claim against the Defendant
+because a defendant cannot always escape liability even though he does not
+foresee all the specific harm his patient may suffer from such a breach.  25               The court concluded that it was
+impossible to determine whether the jury found the respondent negligent on the
+first or second aspects of the defendant's practice.  On the evidence, it was
+not available to the jury to find that the respondent ought to have known of
+the risk of HIV by AI.  However, the trial judge charged the jury in this
+manner and it may have been the basis upon which the jury found negligence. 
+Therefore, the verdict could not stand.  A new trial was ordered on the issues
+other than those based on the first aspect of the case.  26               With respect to the sale of goods
+issue, the court assumed without deciding that there was a sale of semen.  The
+trial judge instructed the jury to decide whether the contract between the
+parties was primarily for the sale of a good or whether it was a contract for
+services.  Since the jury decided that it was not a sale of goods, the Sale
+of Goods Act did not apply.  The court held that there was evidence upon
+which a jury could conclude that the arrangement was primarily one for
+professional services.  27               However, that did not resolve the
+issue of whether there should be an implied warranty at common law for the
+provision of medical services which included a good.  The jury did not decide
+this issue because the trial judge instructed the jury that the warranty
+essentially amounted to the same thing as negligence.  The court did not wish
+to go as far as to say that a physician would only be liable in warranty at
+common law if there was negligence in failing to detect or remove a defect in
+the good.  Instead, the court was of the view that this was not a proper case
+for the implication of a warranty.  In its opinion, it is a question of fact in
+each case whether the circumstances are sufficient to exclude common law
+warranties.  It therefore dismissed this claim.  28               The court next considered the
+respondent's argument that the award of $460,000 for non-pecuniary damages, in
+excess of the rough upper limit prescribed by the Supreme Court of Canada, was
+inordinately high.  It held that it was reasonable for the trial judge not to
+have instructed the jury on a rough upper limit when neither counsel had asked
+for such a charge.  However, this did not mean that the appellant's damages
+should not be properly assessed in light of the jurisprudence.  Relying on Lindal
+v. Lindal, [1981] 2 S.C.R. 629, the court concluded (at p. 87):                     While
+recognizing that the [appellant's] injuries are markedly different in kind from
+those under consideration in the trilogy, we cannot conclude that the principle
+adopted by the Supreme Court of Canada, aimed at controlling the social burden
+of damage awards, should not be applied in this case.  It follows, in our view,
+that the [appellant's] non-pecuniary damages cannot exceed the adjusted rough
+upper limit.  29               It was held that, although the
+trial judge did not err in his instruction to the jury, if the damages exceed
+the rough upper limit, the Court of Appeal must correct the award in conformity
+with the governing principles.  Since there was to be a new trial on liability,
+the court was of the view that there should also be a new trial ordered on the
+question of damages generally.  IV.  Issues  1.Did
+the Court of Appeal err in holding that the trial judge ought not to have
+charged the jury that, even if the respondent conformed to standard medical
+practice, it was open to the jury to find that the prevailing medical practice
+with respect to the AI procedure was negligent?  2.Did
+the Court of Appeal err in rejecting the appellant's claim based on a warranty
+under the Sale of Goods Act?  3.Did
+the Court of Appeal err in holding that a warranty of quality or fitness should
+not be implied under the common law, in the circumstances of this case?  4.Did
+the Court of Appeal err in holding that the rough upper limit on non-pecuniary
+damages applies in the present case?  5.If
+the rough upper limit of non-pecuniary damages applies in the present case,
+must the jury be instructed accordingly or should it be left to the Court of
+Appeal to adjust a jury award which exceeds the limit?  V.  Analysis  A.  Professional Negligence  30               I agree with the Court of Appeal
+that there are two aspects to the claim of professional negligence:  (1)breach
+of duty arising from the failure to be aware of the risk of HIV infection
+through the use of AI; and  (2)breach
+of duty with respect to the screening and follow-up of donors.  31               The alleged departures from the
+applicable standard of care were:  (1)in
+respect of the first aspect, failure to discontinue the practice of AI or, in
+the alternative, to warn the patients of the risk;  (2)in
+respect of the second aspect, the failure to adequately screen donors so as to
+eliminate those in a high risk category with relation to the transmission of
+STDs and to re-interview donors periodically to detect changes in lifestyle. 
+There is also the claim that frozen semen rather than fresh semen should have
+been used.  32               In order to properly address the
+issues relating to professional negligence, it is useful to consider what were
+the matters which the jury was obliged to decide.  In each aspect of the claim
+the jury was bound to consider whether the evidence established that a standard
+of practice existed.  If the answer was in the affirmative, the next question
+was whether the defendant conformed to that practice.  An affirmative answer to
+this question would result in a finding of no negligence in favour of the
+respondent unless the jury was entitled to consider and hold that the standard
+practice was itself below the required legal standard and that conduct below
+that standard constituted negligence.  Similarly, if the jury found that no
+standard practice was established by the evidence, the appellant would have
+failed to prove her case unless the jury was entitled to fix the standard
+without the necessity of expert evidence.  Finally, if the respondent failed to
+comply with the standard of care established by the evidence or by the jury, in
+the absence of or insufficiency of evidence, then the respondent would be found
+to be negligent.                     (1)  Standard of
+Care and Evidence of Standard Practice  33               It is well settled that physicians
+have a duty to conduct their practice in accordance with the conduct of a
+prudent and diligent doctor in the same circumstances.  In the case of a
+specialist, such as a gynaecologist and obstetrician, the doctor's behaviour
+must be assessed in light of the conduct of other ordinary specialists, who
+possess a reasonable level of knowledge, competence and skill expected of
+professionals in Canada, in that field.  A specialist, such as the respondent,
+who holds himself out as possessing a special degree of skill and knowledge,
+must exercise the degree of skill of an average specialist in his field:  see Wilson
+v. Swanson, [1956] S.C.R. 804, at p. 817, Lapointe v. Hôpital Le Gardeur,
+[1992] 1 S.C.R. 351, at p. 361, and McCormick v. Marcotte, [1972] S.C.R.
+18.  34               It is also particularly important
+to emphasize, in the context of this case, that the conduct of physicians must
+be judged in the light of the knowledge that ought to have been reasonably
+possessed at the time of the alleged act of negligence.  As Denning L.J.
+eloquently stated in Roe v. Ministry of Health, [1954] 2 All E.R. 131
+(C.A.), at p. 137, "[w]e must not look at the 1947 accident with 1954
+spectacles".  That is, courts must not, with the benefit of hindsight,
+judge too harshly doctors who act in accordance with prevailing standards of
+professional knowledge.  This point was also emphasized by this Court in Lapointe,
+supra, at pp. 362-63:  ...
+courts should be careful not to rely upon the perfect vision afforded by
+hindsight.  In order to evaluate a particular exercise of judgment fairly, the
+doctor's limited ability to foresee future events when determining a course of
+conduct must be borne in mind.  Otherwise, the doctor will not be assessed
+according to the norms of the average doctor of reasonable ability in the same
+circumstances, but rather will be held accountable for mistakes that are
+apparent only after the fact.  No issue is taken with this
+proposition which was applied both in the trial judge's charge to the jury and
+by the Court of Appeal.  35               The Court of Appeal, after a
+thorough review of the evidence, held that it was not possible for a jury
+acting judicially to have found that, in 1985, the respondent ought to have
+known of the risk.  This is a power to review a jury verdict which a court of
+appeal clearly possesses.  See Vancouver-Fraser Park District v. Olmstead,
+[1975] 2 S.C.R. 831.  I agree with this finding and can find no basis upon
+which it can be questioned.  Indeed my review of the evidence leads to the same
+conclusion.  The evidence of standard practice on the first aspect of the case
+was based entirely on the state of knowledge required of the reasonable
+practitioner in 1985 and it would have been equally impossible for a jury
+acting judicially to have found that, given the state of knowledge, the
+reasonable practitioner ought to either have discontinued AI or warned the
+patients of the risk.  It having been admitted that the respondent continued AI
+and did not warn his patients, there was no issue concerning his conformity
+with the standard practice.  36               The appellant, therefore, can only
+support a favourable finding on this aspect of the case on the basis that the
+jury was entitled to find that the standard established by the evidence itself
+departed from that of a prudent and diligent physician and that the respondent,
+in failing to conform with a higher standard, was guilty of negligence.  This
+raises the issue as to the correctness of the trial judge's charge to the jury to
+the effect that the jury was so entitled.  37               With respect to the second aspect
+of the claim in professional negligence, the Court of Appeal considered that a
+verdict for the appellant was open to the jury.  It is, however, by no means
+clear that the evidence establishes a standard practice with respect to the
+screening and follow-up of donors.  This was a matter for the jury to
+determine.  If the jury found that the evidence fell short of establishing the
+existence of a standard practice, the question arises as to whether the jury
+could determine the applicable standard without the aid of expert evidence. 
+This is a legal issue upon which the Court of Appeal did not pronounce but
+which is closely related to the issue raised by the trial judge's instruction
+referred to above.  38               It is generally accepted that when
+a doctor acts in accordance with a recognized and respectable practice of the
+profession, he or she will not be found to be negligent.  This is because
+courts do not ordinarily have the expertise to tell professionals that they are
+not behaving appropriately in their field.  In a sense, the medical profession
+as a whole is assumed to have adopted procedures which are in the best
+interests of patients and are not inherently negligent.  As L'Heureux-Dubé J.
+stated in Lapointe, in the context of the Quebec Civil Code (at
+pp. 363-64):                     Given
+the number of available methods of treatment from which medical professionals
+must at times choose, and the distinction between error and fault, a doctor
+will not be found liable if the diagnosis and treatment given to a patient
+correspond to those recognized by medical science at the time, even in the face
+of competing theories.  As expressed more eloquently by André Nadeau in
+"La responsabilité médicale" (1946), 6 R. du B. 153, at p.
+155:  [TRANSLATION] The courts do not have
+jurisdiction to settle scientific disputes or to choose among divergent
+opinions of physicians on certain subjects.  They may only make a finding of
+fault where a violation of universally accepted rules of medicine has
+occurred.  The courts should not involve themselves in controversial questions
+of assessment having to do with diagnosis or the treatment of preference. 
+[Emphasis added.]  39               In The Law of Torts (7th
+ed. 1987), Professor Fleming observed the following with respect to the role of
+standard practice, at p. 109:                     Conformity with general practice, on the other
+hand, usually dispels a charge of negligence.  It tends to show what others in
+the same "business" considered sufficient, that the defendant could
+not have learnt how to avoid the accident by the example of others, that most
+probably no other practical precautions could have been taken, and that the
+impact of an adverse judgment (especially in cases involving industry or a
+profession) will be industry-wide and thus assume the function of a "test
+case".  Finally, it underlines the need for caution against passing too
+cavalierly upon the conduct and decision of experts.                     All
+the same, even a common practice may itself be condemned as negligent if
+fraught with obvious risks.  [Emphasis added.]  40               With respect to the medical
+profession in particular, Professor Fleming noted, at p. 110:                     Common
+practice plays its most conspicuous role in medical negligence actions. 
+Conscious at once of the layman's ignorance of medical science and apprehensive
+of the impact of jury bias on a peculiarly vulnerable profession, courts have
+resorted to the safeguard of insisting that negligence in diagnosis and
+treatment (including disclosure of risks) cannot ordinarily be established
+without the aid of expert testimony or in the teeth of conformity with accepted
+medical practice.  However there is no categorical rule.  Thus an accepted
+practice is open to censure by a jury (nor expert testimony required) at any
+rate in matters not involving diagnostic or clinical skills, on which an
+ordinary person may presume to pass judgment sensibly, like omission to inform
+the patient of risks, failure to remove a sponge, an explosion set-off by an
+admixture of ether vapour and oxygen or injury to a patient's body outside the
+area of treatment.  [Emphasis added.  Footnotes omitted.]  41               It is evident from the foregoing
+passage that while conformity with common practice will generally exonerate
+physicians of any complaint of negligence, there are certain situations where
+the standard practice itself may be found to be negligent.  However, this will
+only be where the standard practice is "fraught with obvious risks"
+such that anyone is capable of finding it negligent, without the necessity of
+judging matters requiring diagnostic or clinical expertise.  42               In Roberge v. Bolduc,
+[1991] 1 S.C.R. 374, this Court had the opportunity to address this issue in
+the context of the civil responsibility of a notary under the Quebec Civil
+Code.  In that case, it was recognized that where a custom of a profession
+ignores the elementary dictates of caution, it is open to a court to
+find the professional person negligent.  Thus, even if a doctor practises in
+accordance with common professional practice, he will be liable if that
+practice is wanting.  As L'Heureux-Dubé J. stated at pp. 436-37:                     This
+brief overview of both doctrine and jurisprudence indicates that courts have
+discretion to assess liability despite uncontradicted evidence of common
+professional practice at the relevant time.  The standard, in regard to the
+particular facts of each case, must still be that of a reasonable professional
+in such circumstances.                     It
+may very well be that the professional practice reflects prudent and diligent
+conduct.  One would hope that if a certain practice has developed amongst professionals
+in regard to a particular professional act, such practice is in accordance with
+a prudent course of action.  The fact that a professional has followed the
+practice of his or her peers may be strong evidence of reasonable and diligent
+conduct, but it is not determinative.  If the practice is not in
+accordance with the general standards of liability, i.e., that one must act in
+a reasonable manner, then the professional who adheres to such a practice can
+be found liable, depending on the facts of each case.  [Emphasis in original.]  43               The foregoing principles were also
+endorsed by this Court in Waldick v. Malcolm, [1991] 2 S.C.R. 456. 
+Thus, it is apparent that conformity with standard practice in a profession
+does not necessarily insulate a doctor from negligence where the standard
+practice itself is negligent.  The question that remains is under what
+circumstances will a professional standard practice be judged negligent?  It
+seems that it is only where the practice does not conform with basic care which
+is easily understood by the ordinary person who has no particular expertise in
+the practices of the profession.  That is, as Professor Fleming suggests, where
+the common practice is fraught with danger, a judge or a jury may find that the
+practice is itself negligent.  44               As was observed in Lapointe,
+courts should not involve themselves in resolving scientific disputes which
+require the expertise of the profession.  Courts and juries do not have the
+necessary expertise to assess technical matters relating to the diagnosis or
+treatment of patients.  Where a common and accepted course of conduct is
+adopted based on the specialized and technical expertise of professionals, it
+is unsatisfactory for a finder of fact to conclude that such a standard was
+inherently negligent.  On the other hand, matters falling within the ordinary
+common sense of juries can be judged to be negligent.  For example, where there
+are obvious existing alternatives which any reasonable person would utilize in
+order to avoid a risk, one could conclude that the failure to adopt such
+measures is negligent notwithstanding that it is the prevailing practice among
+practitioners in that area.  45               Such a case arose in Anderson
+v. Chasney, [1949] 4 D.L.R. 71 (Man. C.A.), aff'd [1950] 4 D.L.R. 223
+(S.C.C.).  There, a doctor performed surgery on a child's throat.  During the
+course of the surgery, sponges were used without any tape or strings attached
+to ensure that none was left in the throat.  Nor was a nurse present to count
+the number of sponges used.  One of the sponges was inadvertently left in the
+throat and after the operation, the child died of suffocation.  The surgeon
+gave evidence that it was not his practice to use sponges with strings, nor to
+have anyone count the sponges used.  This appeared to be standard practice in
+the hospital, notwithstanding that there were sponges available with strings
+and nurses could be made available for counting sponges.  The Court of Appeal
+held that the surgeon acted negligently.  46               The principal reasons, written by
+McPherson C.J.M., did not specifically deal with the issue with respect to
+standard practice.  However, McPherson C.J.M. did observe that the fact a
+sponge was left in a potentially dangerous position is one which "the
+ordinary man is competent to consider in arriving at a decision as to whether
+or not there was negligence" (p. 74).  By failing to take either of
+the precautions which were readily available, the majority held that the
+surgeon was negligent.  47               In separate concurring reasons,
+Coyne J.A. discussed the issue of customary practice among surgeons.  He noted
+that whether or not it is negligent to omit to use sponges with ties or fail to
+keep count of the sponges is not a matter requiring expert knowledge.  Coyne
+J.A. observed that general practice is not a complete defence to negligence.  I
+find it useful to quote fairly extensively from his reasons as I believe that
+they are directly pertinent to the issues in this case.  At pages 81-82, he
+stated:                     Dr.
+Chasney defends on the ground that it has not been his practice, and that it is
+not the usual practice of operators in the hospital in question and of some
+operators elsewhere, to take these precautions.  But he took a chance in
+neglecting them.  Whether to adopt them or not, he says, is a matter of
+surgical skill and experience and the general practice of practitioners is
+conclusive.  This, however, was not peculiarly a matter of such skill and
+experience.  His counsel argued that if a general practice of surgeons is
+followed, negligence cannot be attributed, and that expert evidence is
+conclusive.  But if that were correct the expert witnesses would, in effect, be
+the jury to try the question of negligence.  That question, however, must
+continue to be one for the petit jury empanelled to try the case, if it is a
+jury case, and for the Court where it is not.  The experts remain witnesses
+to give their expert opinions in assistance of the jury or the Court to
+determine whether there was negligence or not.  The opinions of the experts are
+not conclusive.  But when an operation itself is a complicated and critical
+one, and acquaintance with anatomy, physiology or other subjects of expert
+medical knowledge, skill and experience are essential, jury or Court may not be
+justified in disregarding such opinions and reaching conclusions based on views
+contrary to those of the experts.  That is not the case here.   Effective
+antecedent precautions were not taken and ordinary experience of jurymen or
+Court is sufficient to enable them to pass upon the question whether such
+conduct constituted negligence.  In my opinion it is clearly so in this case. 
+[Emphasis added.]  48               Coyne J.A. then adds the following
+at pp. 85-86:                     Whether
+or not it is negligence to omit to use sponges with ties or to have a count
+kept is not a matter which requires an expert to decide; it is not special
+surgical skill that is in question.  Such skill is not necessary to answer the
+question.  The point involved is negligence or no negligence.  It is not a
+matter here which requires an expert to decide.  General practice of the
+defendant and some others does not constitute a complete defence.  It is some
+evidence to be taken into consideration on the question of negligence but it is
+not conclusive on Court or jury.  If it were a defence conclusive on jury or
+Court, a group of operators by adopting some practice could legislate
+themselves out of liability for negligence to the public by adopting or continuing
+what was an obviously negligent practice, even though a simple precaution,
+plainly capable of obviating danger which sometimes might result in death, was
+well known.... If a practitioner refuses to take an obvious precaution, he
+cannot  exonerate himself by showing that others also neglect to take it. 
+[Emphasis added.]  49               As well, Coyne J.A. emphasized
+that the case involved no difficult or uncertain questions of medical or
+surgical treatment nor any matters of a scientific or highly technical
+character.  It was simply a matter of whether obvious and simple precautions,
+easily understood by ordinary individuals, were required to be taken.  Coyne
+J.A. remarked (at pp. 86-87):                     Ordinary
+common sense dictates that when simple methods to avoid danger have been
+devised, are known, and are available, non-user, with fatal results, cannot be
+justified by saying that others also have been following the same old,
+less-careful practice; and that when such methods are readily comprehensible by
+the ordinary person, by whom, also, the need to use them or not is easily
+apprehended, it is quite within the competence of Court or jury, quite as much
+as of experts to deal with the issues; and that the existence of a practice
+which neglects them, even if the practice were general, cannot protect the
+defendant surgeon.  [Emphasis added.]  50               In brief reasons, the Supreme
+Court of Canada affirmed the reasons of McPherson C.J.M.  The Court left open
+the issue of when it is appropriate for a judge or jury to find a standard
+medical practice to be unacceptable in terms of taking reasonable care.  51               I conclude from the foregoing
+that, as a general rule, where a procedure involves difficult or uncertain
+questions of medical treatment or complex, scientific or highly technical
+matters that are beyond the ordinary experience and understanding of a judge or
+jury, it will not be open to find a standard medical practice negligent.  On
+the other hand, as an exception to the general rule, if a standard practice
+fails to adopt obvious and reasonable precautions which are readily apparent to
+the ordinary finder of fact, then it is no excuse for a practitioner to claim
+that he or she was merely conforming to such a negligent common practice.  52               The question as to whether the
+trier of fact can find that a standard practice is itself negligent is a
+question of law to be determined by the trial judge irrespective of the mode of
+trial.  It is, of course, for the jury to determine on the evidence what the
+standard practice is.  If the evidence is conflicting on this issue, the jury
+will have to resolve the conflict.  If, as in this case, the evidence is
+virtually conclusive, the trial judge should instruct the jury that failure to
+accept the evidence may very well result in an unreasonable verdict which will
+be set aside.  Moreover, unless the nature of the issue is of a kind to bring
+it within the exception to the general rule, the jury should be instructed that
+once they have determined on the evidence what the standard is, the only
+remaining issue is whether the defendant conformed to the standard.  On the
+other hand, if the case is one coming within the exception so that the jury can
+fix the standard on the basis of common sense and the ordinary understanding of
+the jury without the assistance of expert testimony, the trial judge must
+instruct the jury accordingly.  53               To avoid the problem encountered
+in this case due to the inscrutability of the jury's response to the question
+relating to negligence, and as a precaution to test the jury's understanding of
+the instruction, the question to the jury with respect to negligence should
+require that the jury specify in what respects the defendant was negligent.  In
+a case in which the general rule applies, the answer will reveal whether the
+jury has understood and applied the judge's instruction that it must accept the
+standard practice as the legal standard against which the defendant's conduct
+must be measured.  Additionally, in a case which falls within the exception to
+the general rule and where the jury can fix the standard irrespective of the
+expert evidence, the answer to the question will ensure that the standard which
+the jury has adopted is not unreasonable or unknown in law.  54               In this regard, it is noteworthy
+that the respondent's counsel suggested that the jury be asked to particularize
+the acts of negligence.  This was not done, with the result that the Court of
+Appeal observed that it is not possible to decide whether the jury did decide
+the issue of negligence on the ground that the standard practice was itself
+deficient.  55               A related legal issue arises with
+respect to the second aspect of this case.  If the jury finds that the evidence
+of standard practice does not establish that there indeed exist a standard
+practice, can the jury fix the standard without reliance on expert testimony? 
+In my opinion, the answer to this question is the same as the answer previously
+given.  If the alleged act or acts of negligence are such that the jury could
+reject expert evidence as to standard practice and set the appropriate standard
+without reliance on expert evidence, then it can do precisely that where the
+expert evidence fails to establish a standard practice.  In either case, the
+basic question is whether the nature of the issue can be decided on the basis
+of the ordinary knowledge possessed by the jury or, on the contrary, the matter
+requires expert evidence because it is beyond the ken of the average juror. 
+Finally, although this is not a matter which arises in this case, I do not
+foreclose the possibility that exceptionally a jury might find negligence in
+respect of an issue beyond its ordinary understanding based on expert evidence
+which it accepts which falls short of establishing a standard practice.  (2) Conclusion
+on Professional Negligence  56               After correctly charging the jury
+with respect to the general standard of care relating to physicians, the trial
+judge commented on the role of evidence of standard practice as follows:                     In
+deciding what risks should have been known to Dr. Korn, evidence of medical
+experts of custom or general practice is one factor to be considered, but it is
+not conclusive.  It is open to you as triers of fact to find the custom or
+general practice negligent.  [Emphasis added.]   57               I agree with the following
+characterization by the Court of Appeal of the issue relating to the standard
+of care which the jury was called upon to decide in this case (at pp. 72-73):  In
+this case there were difficult, uncertain, highly technical scientific
+questions requiring information not ordinarily expected of a practising
+gynaecologist or obstetrician.  No jury is capable of deciding on its own what
+understanding of recent developments the Defendant should bring to his
+practice.  As already described, both Dr. Stewart and Dr. Mascola partially
+exonerated the Defendant....                     Moreover,
+the evidence established that the state of medical knowledge about AIDS and HIV
+was highly variable even between highly qualified scientists.  There were
+differences of opinion between public health authorities and practitioners in
+different medical communities.  In our judgment, this was not the  kind of case
+where a judge could properly instruct the jury that it could decide that a
+practice that conformed to what other practitioners similarly situated were
+following was negligent.  The only proper instruction to be given on at least a
+part of the case was that the jury should decide whether the Defendant conducted
+himself as a reasonable physician would in similar circumstances.  In our
+judgment, that required the jury to confine itself to prevailing standards of
+practice.  58               In light of this characterization,
+I agree with the conclusion reached by the Court of Appeal that with respect to
+the first aspect of the case the question of the standard of care was not one
+which the jury could decide without the aid of expert evidence. The Court of
+Appeal went on to hold that, since it was impossible to tell from the answer
+given by the jury whether or not it found that the standard practice followed
+by the respondent and other AI practitioners in Canada was negligent, a new
+trial was necessary on this basis alone.   In my opinion, however, this is not
+the reason why a new trial is required in this case.  If the claim had been
+restricted to the first aspect of the case in negligence, a new trial would not
+have been necessary notwithstanding the misdirection with respect to the
+standard of care.  A new trial would only have been necessary if a finding of
+negligence, supportable on the evidence, was open to the jury.  As I have
+pointed out above, the Court of Appeal correctly held that a finding of
+negligence on this branch of the case would not be supportable in that it was
+not a finding which a jury acting judicially could make.  There was no reason
+to direct a new trial on this aspect of the case and the Court of Appeal, in
+fact, did not do so.  On this aspect the appellant's claim simply fails.  The
+reason that a new trial is necessary is because the jury may have found
+negligence on the second aspect of the case, namely the failure to adequately
+screen and follow-up donors.  59               The main contention with respect
+to this aspect of the claim was that closer questioning and follow-up
+interviews with donors might have revealed that the donor who infected the
+appellant was in a high risk category relating to the transmission of STDs. 
+With respect to the foundation in law of this claim the Court of Appeal stated
+(at pp. 74-75):                     HIV
+is one of a number of sexually transmitted diseases.  It was the duty of the
+Defendant to take reasonable steps to protect his patients against sexually
+transmitted diseases.  If he failed to do so he would be liable even if the
+specific disease was one which he did not actually foresee.                     As
+we are not able to know upon what ground the jury's verdict rests, there must
+be a new trial on the issues raised in the pleadings other than those based upon
+the Defendant's lack of knowledge of the risk of HIV by AI.  60               I agree that infection with HIV is
+within the same class of injury as other STDs and that the respondent could be
+liable for the damage caused notwithstanding that he did not foresee that a
+failure to take reasonable steps to protect his patients could result in HIV
+infection.  It would be sufficient to found liability if it is established that
+the respondent ought to have foreseen the class of injury.  See R. v. Côté,
+[1976] 1 S.C.R. 595, at p. 604.  61               The evidence as to standard
+practice with respect to this aspect of the claim was sketchy and it would be
+open to the jury to find that there was at the relevant time no standard
+practice.  On the other hand, the jury could also find that the standard
+practice was not to screen donors or carry out follow-up interviews beyond what
+the respondent did.  In either case, this is an issue that is quite different
+from that involved in the first aspect of the case.  In my opinion, the jury
+could determine the appropriate standard without reliance on expert evidence. 
+Accordingly, if they decide that no standard practice existed, they can fix the
+appropriate standard based on their view as to what a prudent and diligent
+practitioner ought to have done if he or she foresaw or ought to have foreseen
+that failure to carry out reasonable measures to screen and follow-up donors
+could result in infection with an STD other than HIV.  As well, if the jury
+finds that the evidence does establish a standard practice, it is entitled to
+consider whether that practice is itself consistent with the measures which the
+hypothetical reasonable prudent practitioner would take in the same
+circumstances.  62               There is one other aspect to the
+claim in negligence which does not fit neatly into either of the two aspects to
+which I have had reference.  I refer to the allegation that the respondent
+should have used frozen rather than fresh semen.  The Court of Appeal doubted
+that a jury could find for the appellant on this ground but did not exclude
+this issue from the matters to be dealt with at the new trial.  It appears that
+this allegation was entirely dependent on the Elisa test being available which
+did not occur until after January of 1985.  I find nothing else in the evidence
+to support a finding of negligence based on this ground.  Accordingly, I would
+not have included this allegation in the matters to be dealt with at the new trial
+were it not for the fact that it appears to be included in the order in appeal
+against which the respondent did not cross-appeal.  I would, therefore, simply
+affirm the order of the Court of Appeal in respect to the negligence claim.  B.  Warranty Issues  63               As an alternative ground of
+appeal, the appellant contends that the respondent breached a warranty that the
+semen provided by the donor would be of merchantable quality and fit for its
+purpose.  In other words, she claims that the respondent warranted that the
+semen would not be contaminated with any STDs, including HIV, such that it
+would injure the appellant.  Under this theory, even absent any negligence, the
+respondent would be held strictly liable under contract for failing to provide
+uncontaminated sperm.  The appellant puts forward three bases for the existence
+of a warranty.  First, she claims that there was an express contractual
+warranty found in the Information Sheet provided to the appellant where the
+respondent promised that no donor was a homosexual or drug abuser.  Secondly,
+the appellant relies on the Sale of Goods Act, s. 18, which imposes
+liability on a seller of a good if the good is not fit for its purpose.  This
+warranty is statutorily implied into contracts of sale.  Finally, the appellant
+argues that there was an implied warranty at common law that the good provided
+in a contract for goods and services would not be defective.  I will deal with
+each ground in turn.  (1) 
+Express warranty in the Information Sheet  64               The appellant asserts that, in the
+Information Sheet provided, the respondent promised that the donor would not be
+homosexual or a drug abuser and that these statements were made to assure her
+that the respondent had taken precautions to ensure that the semen would be
+free from contamination.  The appellant claims that the doctor breached this
+express warranty.  65               In my view, this ground of appeal
+must fail.  There is no indication that there was any intention on the part of
+either of the parties that there should be contractual liability in respect of
+the statement in the Information Sheet.  In fact, it appears that the appellant
+did not have any recollection of receiving any written information from the
+respondent regarding the AI procedure.  It is apparent that the purpose of the
+Information Sheet was precisely what the name suggests.  That is, to provide
+general information to the patient.  There was no intention that the statements
+contained therein constitute an express warranty that the donor would not be a
+homosexual.  66               Moreover, I note that, at trial,
+the appellant did not rely on the existence of an express warranty in the
+Information Sheet and the issue was not raised in the trial judge's charge to
+the jury.  Nor did the appellant argue this issue at the Court of Appeal. 
+Therefore, it appears that the appellant is relying on the express warranty in
+the Information Sheet for the first time in this Court.  In any event, as I
+have stated, I do not believe there is any merit to this argument.  (2) 
+Warranty under the Sale of Goods Act  67               In order for the Sale of Goods
+Act to apply, a contract must primarily be for the purpose of selling
+goods.  If the sale of a good is merely incidental to what is primarily a
+contract for services, then the statute will not imply a warranty.  As Legg J.
+observed in Gee v. White Spot Ltd. (1986), 7 B.C.L.R. (2d) 235 (S.C.),
+in order to come within the Sale of Goods Act, a contract need not be
+one exclusively for the sale of goods.  However, the sale of a good must be the
+primary purpose of the contract.  Whether a contract is primarily one for the
+sale of goods or primarily one for services depends upon the essential
+character of the agreement.  As G. H. L. Fridman wrote at p. 25 of Sale of
+Goods in Canada (2nd ed. 1979):  ...
+if the primary object of the contract is the transference of property in
+something which was not originally the property of the "buyer", the
+contract will be one of sale of goods: but if the primary purpose of the
+parties is the performance of certain work, or the provision of services,
+incidentally to which property in goods is to pass from one party to the other,
+the contract will not be one of sale of goods.  68               Thus, the preliminary question
+that arises is whether the AI procedure performed by the respondent primarily
+involved a contract for the sale of semen, or was it primarily a contract for
+medical services.  If the procedure is properly characterized as the latter,
+then the appellant's argument under the Sale of Goods Act must fail.  As
+the Court of Appeal did, I intend to address this issue assuming that there was
+in fact a sale of semen between the appellant and respondent.  However, I note
+that it is not entirely clear that this was the case.  69               At trial, the appellant submitted
+that the question of whether a contract is characterized as a sale of goods or
+one primarily for services is a question of fact which should be left to the
+jury.  The trial judge instructed the jury that there was a contract for
+medical services as well as for goods.  The jury was then charged that they
+must determine, as a question of fact, whether the contract was "primarily
+formulated to offer a sale of services, or primarily formulated to offer the
+sale of a good or goods".  The jury was told that the Sale of Goods Act
+only applied if the contract was primarily for the sale of semen.  70               At the outset, I find it somewhat
+problematic that the characterization of the contract was a matter left to the
+jury to decide.  It seems that determining whether a particular statute has
+application in a given case is a question of law which ought to be resolved by
+the trial judge.  Although not a pure question of law, the characterization of
+the contract as one primarily for the sale of goods is certainly one of mixed
+law and fact.  Only once it is determined that the Sale of Goods Act has
+any application in the circumstances should the jury be instructed to determine
+whether the statutory warranty was breached on the facts.  In any event, I need
+not determinatively settle the issue of whether this preliminary matter ought
+to have been left to the jury, as I am of the view that the jury correctly
+resolved the issue.  71               The jury correctly concluded that
+the contract to perform the AI procedure on the appellant was primarily a
+contract for medical services and not a sale of semen.  To hold otherwise would
+be to distort the true nature of the whole agreement between the parties.  The
+provision of the semen was obviously an important component to the AI
+procedure; however the primary reason the appellant went to a gynaecologist was
+for professional medical services and expertise.  As the respondent argues, he
+provided medical services to the appellant in order to assist her to become
+pregnant by way of AI.  Although donor semen was a necessary component of this
+process, the contract was not primarily for a sale of semen.  72               It is not relevant that the actual
+AI procedure was relatively simple and quick.  The appellant still relied on
+the respondent's expertise in the screening process for donors, the collection
+of the semen, the insemination procedure itself, and the provision of medical
+advice and information concerning any risks and the possibility of success of
+the AI procedure.  It cannot be contended that the contract was one primarily
+for the sale of semen such as to attract the application of the Sale of
+Goods Act.  (3) 
+Warranty implied by the common law  73               The fact that the contract was
+primarily one for services does not end the possibility that there was an
+implied warranty that the semen would not be contaminated with HIV.  The
+appellant also bases her claim under the common law by virtue of which a
+warranty may be implied in a contract for goods and services.  74               In the charge to the jury, the
+trial judge instructed that under the common law, where a contract is primarily
+for medical services, the doctor simply warrants to meet the standards of a
+reasonably competent person practising in the field.  The trial charge explained
+to the jury that the warranty under common law required the jury to determine
+whether the respondent was negligent in failing to detect or remove the defect
+from the semen.  In other words, the charge to the jury was to the effect that
+the implied warranty under common law was the same as the test for negligence
+in these circumstances.  75               In order to determine whether a
+common law warranty ought to be implied in the circumstances of this case and
+if so, whether the trial judge erred by equating the content of that warranty
+to negligence, it is necessary to review the authorities in this area in some
+detail.  76               In England, strict liability is
+imposed for implied warranties of fitness for defective products supplied under
+contracts for work and materials as well as under contracts for sale.  The
+purchaser has a remedy against the business seller, even absent negligence. 
+The seller can always recover, up the chain of production, from the
+manufacturer.  77               A leading English case in this
+area is G. H. Myers and Co. v. Brent Cross Service Co., [1934] 1 K.B.
+46.  That case involved the installation of faulty connecting rods in an
+automobile.  One of the rods had a latent defect that the repair dealer could
+not have detected by reasonable care. Du Parcq J. held that, at common law, the
+dealer was liable under an implied warranty that in a contract for work done
+and material supplied, the material would be fit for its purpose.  It was held
+that there should not be any distinction between a contract where goods are
+supplied only and a contract where goods are supplied in the course of a
+contract to perform services as this would be an arbitrary distinction.  At
+pages 53-54, du Parcq J. held:  The
+view to which I have come is that the liability of the person supplying goods
+in the course of doing work and labour is certainly not less than the liability
+of the person selling goods ....  78               Thus, the court held that an
+individual who agrees to do work and provide goods has no lesser obligation
+than an individual who simply contracts to provide the goods.  However, it was
+recognized that not all contracts for goods and services will contain an
+implied warranty that the materials will not be defective.  At page 55, du
+Parcq J. noted the following:  That
+depends upon the terms of the contract, and I think that the true view is
+that a person contracting to do work and supply materials warrants that the
+materials which he uses will be of good quality and reasonably fit for the
+purpose for which he is using them, unless the circumstances of the contract
+are such as to exclude any such warranty.  [Emphasis added.]  The foregoing passage contemplates
+that there may be certain circumstances such that a contract to supply goods
+and services will not contain an implied warranty that, regardless of any
+negligence, the goods will not be defective.  79               The decision in G. H. Myers
+was cited with approval by the House of Lords in Young & Marten Ltd. v.
+McManus Childs Ltd., [1969] 1 A.C. 454 (H.L.).  That case dealt with contractors
+who were building a house and subcontracted the roofing work.  The roofing
+tiles which were used contained a latent defect which was not apparent upon
+inspection.  As a result, the contractor suffered damages and claimed that
+there was an implied warranty of quality or fitness.  Lord Reid observed that,
+in such cases where there is no evidence of negligence by the manufacturer,
+unless the owners of the house could recover from the subcontractor, they would
+be without a remedy.  However, if the subcontractors were held liable, they
+could generally recover from the manufacturer under the Sale of Goods
+legislation.  The court adopted the general rule which was laid down by du
+Parcq J. in G. H. Myers.  Lord Reid also made the following relevant
+observation (at p. 468):  It
+appears to me that less cogent circumstances may be sufficient to exclude an
+implied warranty of quality where the use of spare parts is only incidental to
+what is in essence a repairing operation where the customer's main reliance is
+on the skill of the tradesman, than in a case where the main element is the
+supply of an article, the installation being merely incidental.  80               In the result, the court affirmed
+that, in the circumstances of that case, the common law implied a warranty and
+the subcontractor was liable for the defective tiles.  It was not conclusive
+that there was an element of services along with the supply of goods.  81               The principles espoused in the
+English case law have also been adopted in Canada.  A leading case is G.
+Ford Homes Ltd. v. Draft Masonry (York) Co. (1983), 43 O.R. (2d) 401
+(C.A.).  In that case, the plaintiff supplied and installed staircases in two
+houses being constructed by the defendant.  It turned out that the staircases
+contravened the Ontario Building Code and had to be replaced.  The issue
+was whether there was an implied term in the contract that the staircases would
+conform to the Building Code.  Cory J.A., as he then was, delivered the
+decision for the court.  At page 403, he remarked:                     When
+may a term be implied in a contract?  A court faced with that question must
+first take cognizance of some important and time-honoured cautions.  For
+example, the courts will be cautious in their approach to implying terms to
+contracts.  Certainly a court will not rewrite a contract for the parties.  As
+well, no term will be implied that is inconsistent with the contract.  Implied
+terms are as a rule based upon the presumed intention of the parties and should
+be founded upon reason.  The circumstances and background of the contract,
+together with its precise terms, should all be carefully regarded before a term
+is implied.  As a result, it is clear that every case must be determined on its
+own particular facts.  [Emphasis added.]  82               Cory J.A. reviewed the decisions
+in Young & Marten Ltd. and G. H. Myers and noted
+that the warranties implied at common law apply to contracts for goods and
+services.  Thus, unlike the Sale of Goods Act, such warranties are
+equally applicable to contracts for the provision of work and materials. 
+Secondly, unless the circumstances of the case are sufficient to exclude the warranty,
+there will be an implied term "that the materials used will be of
+merchantable quality and that those materials will be reasonably fit for the
+purposes for which they were intended" (p. 404).  83               Accordingly, it is apparent that
+apart from the Sale of Goods Act, a court must consider whether a common
+law warranty of fitness and merchantability should be implied into the contract
+which includes services as well as the provision of materials.  However, such a
+warranty will not be implied in all circumstances.  The court must examine the
+specific nature of the contract and the relationship between the parties in
+order to assess whether it was the intention of the parties that such a
+warranty be implied.  As Cory J.A. observed, courts must be very cautious in
+their approach to implying contractual terms.  84               It is important to note that a
+rationale for implying warranties in contracts of goods and services is that a
+supplier of goods generally has recourse against the manufacturer under the Sale
+of Goods Act as a result of the statutory conditions imposed.  Thus, one
+can always proceed up the chain of production and ultimately recover from the
+one who should bear responsibility for the production of faulty goods.  From
+time to time, the supplier will be unable to recover from the manufacturer, for
+example, owing to insolvency or limitation periods.  However, arguably it is
+better that the purchaser be compensated and the supplier occasionally bear the
+cost of defects than leaving the consumer without a remedy.  It is important to
+keep this policy rationale in mind when considering whether such a warranty
+should be implied in the context of this case, which deals with biological
+substances.  85               Thus, the question that must be
+addressed in this appeal is whether, in the circumstances of this case, where
+there is a contract to conduct a medical procedure involving the use of
+biological material (semen), it is appropriate to imply a term that the semen
+was warranted to be without any defects (HIV contamination).  Secondly, if it
+is appropriate to imply a term into the contract for medical services was the
+trial judge correct in holding that the respondent only warranted to take reasonable
+care to ensure that semen would not be used if it were contaminated with any
+STDs.  In this regard, one must consider whether the nature of the contract at
+issue in this appeal is analogous to the commercial contracts which were dealt
+with in the English and Canadian cases discussed above.  It is important to
+address any policy considerations and the implications of imposing warranties
+in these circumstances.  86               In answering these difficult
+questions, it is useful to survey some of the American jurisprudence which has
+dealt with this issue more frequently, in the context of warranties for the
+supply of blood.  In my view, these cases are directly analogous to the supply
+of semen in an AI practice.  87               The leading American authority on
+this issue, which has been followed many times subsequently, is Perlmutter
+v. Beth David Hospital, 123 N.E.2d 792 (N.Y. 1954).  In that case, a
+patient received a blood transfusion during the course of a medical procedure
+performed at the hospital.  The blood contained jaundice viruses and as a
+result the plaintiff became infected.  There was no question of any negligence
+on the part of the hospital as there were no means available for detecting the
+contamination in the blood.  The plaintiff sought recovery under the Sales
+Act arguing that there was an implied warranty that the blood would be fit
+for its purpose and of merchantable quality.  The issue turned on whether the
+transaction constituted a sale under the legislation.  It must be observed at
+this point that the plaintiff did not argue that there was an implied warranty
+under the common law for material supplied under a contract for service and
+material.  Nonetheless, much of the discussion on the Sales Act is relevant
+to the case at bar.  88               The majority of the court examined
+the nature of the contract between the hospital and held (at p. 794):  The
+essence of the contractual relationship between hospital and patient is readily
+apparent; the patient bargains for, and the hospital agrees to make available,
+the human skill and physical materiel of medical science to the end that the
+patient's health be restored.                     Such
+a contract is clearly one for services, and, just as clearly, it is not
+divisible.  Concepts of purchase and sale cannot separately be attached to the
+healing materials - such as medicines, drugs or, indeed, blood - supplied by
+the hospital for a price as part of the medical services it offers.  That the
+property or title to certain items of medical material may be transferred, so
+to speak, from the hospital to the patient during the course of medical
+treatment does not serve to make each such transaction a sale.  "`Sale'
+and `transfer' are not synonymous", and not every transfer of personal
+property constitutes a sale.... It has long been recognized that, when service
+predominates, and transfer of personal property is but an incidental feature of
+the transaction, the transaction is not deemed a sale within the Sales Act.  89               It should be observed that the
+majority focused on the sharp distinction between a contract of sale and one
+for services that exists in this context.  While this is important for
+determining whether sale of goods legislation is applicable, it is not as
+crucial in the context of implied warranties under the common law which are
+also available for contracts of service where a good is furnished. 
+Nonetheless, the remarks in Perlmutter are highly relevant since, as was
+noted by Lord Reid in Young & Marten Ltd., it will be less likely
+that such a warranty will be implied in a contract which is primarily for
+services where the transfer of the good is merely incidental.  90               In Perlmutter, it was held
+that the supplying of blood was entirely subordinate to the main purpose of the
+hospital, which was providing trained professionals and specialized facilities
+to care for the patient's health.  The patient does not bargain for blood. 
+Rather, it is the skill of the medical staff and the facilities which is
+sought.  Fuld J. concluded that supplying the blood was entirely incidental to
+the services performed.  In my view, the same can be said of the semen in the
+present case, as I discussed earlier in respect of the Sale of Goods Act.  91               In examining the nature of the
+contract at issue, Fuld J. noted some of the policy considerations which are
+relevant in this context.  At page 795, the following was observed:                     If,
+however, the court were to stamp as a sale the supplying of blood - or the
+furnishing of other medical aid - it would mean that the hospital, no matter
+how careful, no matter that the disease-producing potential in the blood could
+not possibly be discovered, would be held responsible, virtually as an insurer,
+if anything were to happen to the patient as a result of "bad" blood....
+[Emphasis added].  92               Although these comments were made
+in the context of sale of goods legislation, they apply equally to the
+situation of an implied warranty under common law.  In either situation, a
+medical practitioner would be held strictly liable for the biological products
+employed in the medical procedures, notwithstanding that it may be impossible
+for the doctor to detect any risks.  This would have the effect of making
+physicians insurers of the biological substances that are used in medical
+procedures.  93               While it is true that the primary
+purpose of the implied warranty is to hold the supplier of goods liable
+notwithstanding the absence of negligence, different considerations apply in
+the context of the medical profession than in the ordinary commercial context. 
+As Fuld J. observed (at p. 795):  The
+art of healing frequently calls for a balancing of risks and dangers to a
+patient.  Consequently, if injury results from the course adopted, where no
+negligence or fault is present, liability should not be imposed upon the
+institution or agency actually seeking to save or otherwise assist the patient.  94               Furthermore, it should be noted
+that unlike in the ordinary commercial context, the doctor cannot trace the
+liability back to the initial manufacturer.  Biological products are not
+manufactured goods in the same sense as commercial goods.  The underlying
+rationale for the strict liability imposed under the Sale of Goods Act
+or by virtue of an implied warranty at common law does not apply to goods which
+are not manufactured in the ordinary sense.  Absent negligence on the part of
+the donor (for example, if he knew he had AIDS), one would hardly expect that
+the respondent, in the present case, could recover from the donor for the semen
+contaminated with HIV, either under the Sale of Goods Act or under an
+implied warranty at common law.  This is unlike a commercial contract where it
+would be open to a supplier to sue the manufacturer, even absent negligence on
+its part.  95               Moreover, it must be recognized
+that biological products such as blood and semen, unlike manufactured products,
+carry certain inherent risks.  In some ways, these substances are inherently
+dangerous, although they are essential to medical procedures.  Whether a doctor
+is trying to save a patient's life via a blood transfusion, or is simply
+attempting to assist a patient to become pregnant by AI, the physician cannot
+control the safety of these products beyond exhibiting the reasonable care
+expected of a professional to ensure that the biological substance is free from
+harmful viruses.  By contrast, in the commercial world, the manufacturer has
+control over the goods.  If they cannot be manufactured to be safe, then the
+products ought to be removed from the market.  In medicine blood is essential
+to a variety of procedures in order to save lives.  While arguably, AI is not
+in the same category as other life saving techniques, it is nonetheless a very
+important medical procedure.  As long as the entire procedure does not amount
+to an unreasonable risk such that it ought not to be offered at all, the
+patient is entitled to weigh those risks and elect to proceed.  96               In Fisher v. Sibley Memorial
+Hospital, 403 A.2d 1130 (D.C. 1979), an action was commenced for injury
+suffered when a patient contracted hepatitis after a blood transfusion supplied
+by the hospital.  It was not possible to detect the virus in the blood.  The
+Court of Appeal held that the theories of implied warranty and merchantability
+and strict liability in tort had no place in the context of a hospital
+furnishing blood.  At pages 1132-33, Gallagher J. held as follows:  "The
+activities involved in the transfusion of whole blood, a component of the
+living body, from one human being to another may be characterized as sui
+generis in that the sequence of events involve acts common to legal concepts of
+both a sale and a service.  Moreover, it seems to us that under the facts in
+the case before us it would be unrealistic to hold that there is an implied
+warranty as to qualities of fitness of human blood on which no medical or
+scientific information can be acquired and in respect to which plaintiff's
+physician has the same information, knowledge, and experience as the supplier."
+(Balkowitsch v. Minneapolis War Memorial Blood Bank, Inc., 270 Minn.
+151, 132 N.W.2d 805, 811 (1965).)                     We
+agree with those courts which hold that the furnishing of blood is more in the
+nature of a service than of a sale of goods.  Treating blood transfusions as an
+incidental service performed by hospitals comports with reality, and with the
+policies underlying merchantability liability.  Although theoretically a
+seller's inability to discover defects in the goods he sells is not relevant to
+a warranty cause of action, we cannot ignore the difficulty of detecting
+hepatitis in blood given the current state of medical knowledge.  To
+characterize as a sale the supplying of blood would mean that the hospital, no
+matter how careful, would be held responsible, virtually as an insurer, if the
+patient were harmed as a result of impure blood.  After balancing the safety
+of the individual with the interests of the hospital (in light of the absence
+of an adequate test to determine the presence of hepatitis in the blood) and
+the public interest in assuring the ready availability of blood for medical
+treatments, we are reluctant to extend ... merchantability liability to a
+nonsale transaction by analogy or by characterizing the transaction as a sale. 
+[Emphasis added.]  97               The court was of the view that it
+was unnatural to force a blood transfusion into the commercial sales mould
+since the main object of the hospital is health care and treatment.  It was
+also noted that blood products are "unavoidably dangerous" (p. 1134)
+and the patient relies on the doctor's skill rather than any warranties of
+fitness.  98               I also find the case of St.
+Luke's Hospital v. Schmaltz, 534 P.2d 781 (Colo. 1975) to be persuasive. 
+That case also involved a blood transfusion resulting in the patient contracting
+hepatitis.  The court followed the reasoning in Perlmutter and rejected
+the imposition of strict liability in tort or on the basis of a warranty due to
+policy considerations.  It was held that a realistic view of the relationship
+between a hospital and a patient is not that of a commercial transaction where
+a good is sold for a price.  Rather, the patient bargains for the skill and
+materials of medical science in order to care for the patient's health.  It is
+simply not realistic to view the furnishing of blood as a sale of a product.  99               Although the majority of American
+cases have followed Perlmutter, a few have criticized the policy
+analysis conducted.  For example, in Cunningham v. MacNeal Memorial Hospital,
+266 N.E.2d 897 (Ill. 1970), the court again considered the situation of a
+patient who contracted hepatitis through a blood transfusion.  The court
+rejected the idea that an implied warranty did not arise because no
+"sale" was involved.  Notwithstanding that blood is not a
+manufactured article of commerce, the court considered it a product which is
+distributed for consumption.  The blood was sold in a container and the court
+felt it was unreasonable not to conclude that there was a sale of goods which
+was divisible from the contract for services.  100             However, the vast majority of
+American cases have agreed that the policy considerations dictate that, in the
+context of the provision of medical services, medical professionals should not
+be held strictly liable under warranty for goods used in the provision of those
+services.  In my view, the reasoning of the majority in Perlmutter, and
+the line of cases which follow it, is more apt in the Canadian context with
+respect to implied warranties at common law.  Although, the American decisions
+did not deal with exactly this issue, the remarks made with respect to
+warranties under sale of goods legislation provide support for the view that it
+is inappropriate to imply a warranty in these circumstances under the common
+law.  101             I am, therefore, in agreement with
+the Court of Appeal's conclusion in the present case that it would be
+inappropriate to imply a warranty of fitness and merchantability in the
+circumstances of this case.  As Cory J.A. observed in G. Ford Homes,
+courts should be very wary about implying terms of contracts and there may be
+circumstances which ought to exclude such a warranty.  In the present case, the
+action against the respondent for injury resulting from the AI procedure should
+be confined to negligence.  I would adopt the following conclusion of the Court
+of Appeal at p. 85:  In
+the face of the American experience, we are unable to identify any policy
+reason why a physician should face stricter liability for "goods"
+which are furnished to a patient in the course of medical service than he or
+she would be for any lack of professional care and skill which must be brought
+to every healing or treating engagement.  102             I note that even if I am wrong in my
+conclusion that a warranty should not be implied in the circumstances of this
+case, I would hold, as the trial judge did, that any warranty would simply be
+to take reasonable care.  In other words, if the parties intended that there be
+any contractual warranty, the nature of the warranty in this case would simply
+be to the effect that the respondent exercise diligence and care in performing
+the AI and selecting the donors.  The contract was primarily one for medical
+services and parties would not have contemplated that the respondent would warrant
+the success of the procedure nor that the semen would not be contaminated with
+an STD.  As the trial judge stated, the respondent "undertakes to meet the
+standards of a reasonably competent person practicing in his field".  It
+would be unreasonable to hold the respondent to any higher standard.  103             In the result, the appellant's
+argument that there was an implied warranty at common law that the donor's
+semen would not be infected with HIV must also fail.  C.  The Rough Upper Limit on
+Non-Pecuniary Damages  104             In Andrews v. Grand & Toy
+Alberta Ltd., supra, this Court established a rough upper limit for
+non-pecuniary damages of $100,000.  In Lindal, supra, it was
+recognized that it was appropriate to take into account the effect of inflation
+and thus, the upper limit could vary with changing economic conditions,
+including the decrease in purchasing power caused by inflation.  Thus, at the
+time of the present case, the rough upper limit was approximately $240,000. 
+However, the jury awarded non-pecuniary damages of $460,000.  The Court of
+Appeal held that the non-pecuniary damages could not exceed the rough upper
+limit and a new trial was ordered to assess damages in general.  The Court of
+Appeal did not hold that the trial judge was necessarily in error for failing
+to charge the jury on the upper limit, in light of the views expressed by
+counsel.  However, if a jury is not given such an instruction, the damages
+award must be corrected in order to conform with the jurisprudence.  105             There are two issues which must be
+addressed.  First, whether this was one of those exceptional cases referred to
+in Andrews such that the rough upper limit ought not to have been
+applied.  Secondly, whether the trial judge ought to have charged the jury to
+consider the upper limit when assessing non-pecuniary damages.  The appellant
+submits that this case is unique and that the non-pecuniary damages should be
+permitted to exceed the limit.  106             In Andrews, this Court set
+out the rationale for the upper limit placed on the assessment of non-pecuniary
+damages for pain and suffering.  It is simply impossible to put a money value
+on the non-pecuniary losses which have been suffered by the plaintiff. 
+Therefore, the award of non-pecuniary damages "is a philosophical and
+policy exercise more than a legal or logical one" (p. 261).  This Court
+has adopted the "functional" approach to assessing such damages.  That
+is, rather than attempting to evaluate the loss of happiness, non-pecuniary
+damages seek to provide the plaintiff with reasonable solace for the misfortune
+suffered.  Money acts as a substitute for the pleasure and enjoyment which has
+been lost and endeavours to alleviate, as far as possible, the pain and
+suffering that the plaintiff has endured and will have to endure in the future.  107             The amount of the award depends on
+the ability of money to ameliorate the condition of the victim in his or her
+particular situation.  Non-pecuniary damages should only be awarded to the
+extent that they can serve a useful purpose by providing an alternative source
+of satisfaction.  108             However, as Dickson J. observed in Andrews,
+once non-pecuniary damages are viewed from a functional perspective,
+excessively large amounts should not be awarded once an individual is fully
+compensated in terms of future care and other pecuniary losses.  Awards for
+non-pecuniary loss are inherently arbitrary or conventional.  Therefore, once
+the future care of the plaintiff is adequately addressed, it is more
+appropriate to consider policy issues in limiting damage awards.  In
+particular, the social burdens of excessive awards must be considered, as
+extravagant claims can pose a significant burden on society.  In fact, in Arnold
+v. Teno, [1978] 2 S.C.R. 287, it was observed that the real social cost of
+exorbitant damage awards had been particularly evident in the United States
+with respect to medical malpractice cases.  In Lindal, this Court
+reiterated the sentiments expressed in the Andrews trilogy, recognizing
+that the claim for non-pecuniary damages in the case of a severely injured
+plaintiff can potentially be limitless.  109             In Lindal, the Court refused
+to exceed the upper limit for non-pecuniary damages even though the injuries
+were arguably even more severe than those suffered in Andrews.  Given
+that the upper limit is merely a rough and somewhat arbitrary cap on
+non-pecuniary damages, an award exceeding the limit is not justified simply
+because an injury is more serious that those in the trilogy of cases.  As
+Dickson J. stated in Lindal (at pp. 642-43):                     It
+is true that the Court in Andrews spoke of exceeding the limit of
+$100,000 in "exceptional circumstances".  The variety of possible
+fact situations is limitless, and it would be unwise to foreclose the
+possibility of ever exceeding the guideline of $100,000.  But, if the purpose
+of the guideline is properly understood, it will be seen that the circumstances
+in which it should be exceeded will be rare indeed.  We award non-pecuniary
+damages because the money can be used to make the victim's life more bearable. 
+The limit of $100,000 was not selected because the plaintiff could only make
+use of $100,000 and no more.  Quite the opposite.  It was selected because
+without it, there would be no limit to the various uses to which a plaintiff
+could put a fund of money.  The defendant, and ultimately, society at large,
+would be in the position of satisfying extravagant claims by severely injured
+plaintiffs.  110             In my view, the above passage
+adequately addresses the arguments of the appellant in the present case. 
+Essentially, she contends that the evidence demonstrated the uses to which the
+money could be put.  However, this is not a proper rationale supporting an
+award of non-pecuniary damages in excess of the limit.  There is no doubt that
+the appellant has suffered immensely as a result of this tragedy.  It is also
+apparent that AIDS is a dreadful disease which will eventually take the life of
+the appellant prematurely.  However, with respect to non-pecuniary losses, I do
+not believe that the present case is any different than other tragedies, such
+as those which befell the plaintiffs in the Andrews trilogy.  I agree
+with the following comments of the Court of Appeal (at p. 87):                     While
+recognizing that the Plaintiff's injuries are markedly different in kind from
+those under consideration in the trilogy, we cannot conclude that the principle
+adopted by the Supreme Court of Canada, aimed at controlling the social burden
+of damage awards, should not be applied in this case.  It follows, in our view,
+that the Plaintiff's non-pecuniary damages cannot exceed the adjusted rough
+upper limit.  111             The second question which arises
+with respect to non-pecuniary damages is whether the trial judge ought to have
+charged the jury on the upper limit.  This is a difficult question because, on
+the one hand, in a case in which a jury would not have awarded damages in the
+range of the upper limit, the jury will be unduly influenced by an instruction
+that refers to a higher figure.  On the other hand, it seems wrong not to
+advise the jury in an appropriate case that as a matter of law and policy,
+there is a limit.  The jury may struggle for nought with the assessment only to
+learn later that their labours were in vain.  Moreover, judges are permitted,
+and indeed required, to give the jury guidance as to the proper conventional
+figure.  In Crosby v. O'Reilly, [1975] 2 S.C.R. 381, Laskin C.J., for
+the Court, stated, at pp. 386-87:                     I
+cannot agree with the Alberta Appellate Division that where a survival action
+for the benefit of a deceased's estate is tried by judge and jury the jury
+should be instructed as a matter of law that $10,000 is the present upper limit
+of an award.  I do not think that damages can be so exactly defined by putting
+them on the basis of a legal limitation.  At the same time, it is only common
+sense, where an appellate court is to have the final say on what is a proper
+conventional figure, that the jury be given careful guidance lest the result
+be, as here, an extravagant figure leading to successive appeals at a risk of
+costs that will eat up the ultimate award.  Rather than fix the direction as
+one of law governing the upper limit of an award, the trial judge should direct
+the jury, in the light of the evidence respecting the deceased in all of his or
+her qualities, mode of life and prospects, in the light of age and physical
+condition, that a figure beyond a particular sum, which may be less than
+$10,000, may be regarded as excessive.  It would be impossible for a trial
+judge to comply with this instruction with any degree of intellectual honesty
+and not mention that there is an upper limit.  Indeed, the statement by Laskin
+C.J. clearly implies that if an upper limit had existed, the jury should be
+told about it.  112             Accordingly, in my view, the trial
+judge should instruct the jury as to an upper limit, if, after considering the
+submissions of counsel, he or she is of the opinion that the damages by reason
+of the type of injury sustained might very well be assessed in the range of or
+exceeding the upper limit.  The instructions may include an explanation of the
+reason for the cap.  113             On the other hand, if the trial
+judge is of the view that the injuries involved will not likely produce an
+award approaching the rough upper limit, it is best that the trial judge not
+charge the jury on the matter.  The upper limit, like any other matter of law,
+need not be placed before the jury where the issue does not reasonably arise on
+the facts of the case.  114             Whether the jury is or is not
+advised of the upper limit, if the award exceeds the limit, the trial judge
+should reduce the award to conform with the "cap" set out in the
+trilogy and adjusted for inflation.  While a trial judge does not sit in appeal
+of a jury award, the trilogy has imposed as a rule of law a legal limit to
+non-pecuniary damages in these cases.  It would be wrong for the trial judge to
+enter judgment for an amount that as a matter of law is excessive.  While it is
+true that the matter can be corrected on appeal, an appeal may be unnecessary
+if the correct amount is fixed at trial.  115             In the present case, counsel for the
+respondent submitted that this was not a case which would approach the upper
+limit.  However, it was submitted that the jury should be instructed on the
+limit if the appellant's counsel or the trial judge felt otherwise.  Counsel
+for the appellant did not request that the trial judge charge the jury on the
+upper limit.  In these circumstances, I agree with the Court of Appeal that it
+was reasonable for the trial judge not to give an instruction on the upper limit. 
+However, since the damages awarded for non-pecuniary losses far exceeded the
+upper limit, the trial judge ought to have reassessed the award in accordance
+with the Andrews trilogy.  116             In light of the fact that a new
+trial will be ordered with respect to the issues surrounding liability, I agree
+that the issue of non-pecuniary damages should also be dealt with by the jury. 
+Given that the jury at the first trial assessed the damages in excess of the
+limit, it will be appropriate for the trial judge to charge the jury with
+respect to the upper limit at the new trial.  117             The Court of Appeal also ordered a
+new trial on the issue of damages generally.  The Court merely stated that it
+was not satisfied that the damages for the past and future income losses and
+the future care costs were properly assessed.  The Court of Appeal did not
+explain on what basis it found the assessment to be lacking.  However, the
+appellant did not argue that the Court of Appeal was in error with respect to
+ordering a new trial on these pecuniary damages.  In her factum, however, the
+appellant does seek an order that the jury's awards for non-pecuniary damages
+and for past and future wage loss be confirmed.  118             Given that the appellant has not
+demonstrated any error with respect to the Court of Appeal's conclusions on
+damages, I am not inclined to interfere with the Court of Appeal's holding that
+there should be a new trial on the issue of damages in general.  VI.  Disposition  119             In the result, the appeal is
+dismissed with costs and the judgment of the Court of Appeal is affirmed.  The
+new trial will be limited to:  (1) a determination of the issue of negligence
+other than the allegation relating to the first aspect of the claim based on
+the defendant's lack of knowledge of the risk of HIV infection by A1, and (2)
+an assessment of damages in general in respect of the claim in negligence. 
+With respect to non-pecuniary general damages, the trial judge should instruct
+the jury on the upper limit in accordance with the principles in the Andrews
+trilogy and Lindal.  120             It will also not be open to the
+appellant to raise the issues relating to warranties under the Sale of Goods
+Act, at common law or by virtue of the Information Sheet.  These issues
+have been resolved in this appeal.  //L'Heureux-Dubé J.//                     The following are
+the reasons delivered by   I.                L'Heureux-Dubé
+J. -- I have read the reasons of my colleague Justice Sopinka and, save
+for one point, I generally agree with them as well as with his disposition of
+the appeal.  The issue on which I part ways with my colleague concerns the
+trial judge's instruction to the jury on the upper limit of non-pecuniary
+damages.  II.                According to my colleague, the
+trial judge should instruct the jury on such upper limit if he or she believes
+that the damages "might very well be assessed in the range of or exceeding
+the upper limit", as opposed to that not being "likely" (paras.
+112-113).  Two arguments are relied on to support this position: first, the
+possibility of wasting the jury's time absent such instruction, and second, the
+impossibility for the trial judge to guide the jury, in light of the evidence,
+as to a proper conventional figure of damages, without mentioning the upper
+limit.  In my view, these arguments are not persuasive.  III.               It has always been held improper
+for the trial judge or counsel to express any views as to the quantum of
+damages.  This is echoed by the well- established principle that the amount of
+damages is a question of fact for the jury to determine, and not a question of
+law for the judge: Negligence Act, R.S.B.C. 1979, c. 298, s. 6.  By
+holding that the judge should instruct the jury as to the upper limit of
+non-pecuniary damages, my colleague is indirectly making their assessment a
+question of law.  In my view, it is impossible to reconcile this approach with
+the separate functions performed by judge and jury.  For instance, as my
+colleague puts it, "in a case in which a jury would not have awarded
+damages in the range of the upper limit, the jury will be unduly influenced by
+an instruction that refers to a higher figure" (para. 111).  Moreover, as
+a result, the benefit of the trial by jury is lost, namely the value of the
+independent judgment of lay people.  In that light, economic considerations,
+such as the time and the cost involved in the jury's determination of the
+quantum of damages, are irrelevant.  As well, as the Ontario Court of Appeal
+stated in Gray v. Alanco Developments Ltd. (1967), 61 D.L.R. (2d) 652,
+at p. 656:  To
+permit the trial Judge to express such an opinion would be to sanction the
+admission of opinion evidence unsupported by qualified evidence but based
+solely upon the Judge's personal experience derived from the evidence or
+verdicts in other cases.  This would be tantamount to countenancing his
+usurpation of functions committed exclusively to the jury.  IV.              These considerations have not been
+challenged by the Andrews trilogy (Andrews v. Grand & Toy Alberta
+Ltd., [1978] 2 S.C.R. 229, Thornton v. Board of School Trustees of
+School District No. 57 (Prince George), [1978] 2 S.C.R. 267, and Arnold
+v. Teno, [1978] 2 S.C.R. 287).  The establishment of an upper limit for
+non-pecuniary damages only affects the quantum of the awards, not the way in
+which they are determined.  Nowhere was it mentioned that it is incumbent on
+the trial judge to instruct the jury as to such upper limit.  Therefore, the
+existence of an upper limit as a matter of law remains consistent with not
+instructing the jury as to such upper limit.  V.                Moreover, in light of my
+colleague's arguments, I am unable to see why the jury should be charged on the
+upper limit in this case, but not in Hill v. Church of Scientology of
+Toronto, [1995] 2 S.C.R. 1130.  In Hill, this Court decided that
+there would not be a cap on damages for defamation.  Particular emphasis was
+placed on the fact that the injury suffered by a plaintiff as a result of
+libellous statements is markedly different from the kind of injury the Court
+was concerned with in Andrews, supra, namely severe physical
+injuries resulting from a motor vehicle accident.  In my opinion, the same
+reasoning must prevail in cases involving other types of injuries, including
+HIV contamination during an artificial insemination procedure, as in this
+case.  By suggesting that the jury be instructed on the upper limit of
+non-pecuniary damages, my colleague is in fact muzzling the jury, and, in so
+doing, institutionalizing the status quo in that novel area of the law,
+independently of evolving economics and other considerations.  VI.              Indeed, when it comes to damages,
+no figure will ever be "right": the trial judge is not in a better
+position than the jury to determine the quantum of damages, nor the range in
+which they might be assessed.  It is not to say that jury awards are entitled
+to complete deference.  If an award is excessive, I share my colleague's
+opinion that the judge should reduce it to an amount that he or she believes is
+appropriate on the facts of the case in order to avoid an otherwise unnecessary
+appeal.  The jury's discretion in reaching that award, however, must be left
+unfettered.  In my view, this system deals adequately with the guidelines
+established by the trilogy.  VII.             In the present case, there is not an
+iota of evidence before the trial judge, the Court of Appeal, or this Court as
+to the inadequacy of this system.  Before this Court, only a brief mention was
+made by the respondent in his factum, as an alternative argument, as to the
+desirability of adopting the system my colleague Sopinka J. suggests.  At the
+hearing, the issue was not discussed.  In his reasons, my colleague does not
+bring forward any data to demonstrate that there is a crisis in Canada with
+respect to extravagant jury awards for non-pecuniary damages, which would
+encourage this Court to modify the law.  Nevertheless, on this fragile basis,
+he advocates a profound change of the law.  VIII.            It is important to recall the context
+in which this issue must be resolved.  While it is true that the upper limit
+was designed, in part, to avoid extravagant non-pecuniary awards, this justification
+is not restricted to jury awards, but also applies to trials before judge
+alone.  Furthermore, the accuracy of this assumption has been challenged in the
+Law Reform Commission of British Columbia's Report on Compensation for
+Non-Pecuniary Loss (1984), at p. 13.  In addition to statistics indicating
+that only a small number of cases are still tried by jury today, I find
+apposite the following passage by W. H. R. Charles, Charles Handbook on
+Assessment of Damages in Personal Injury Cases (2nd ed. 1990), at p. 75:  ...in
+Ontario it is defence counsel who tend to request a jury trial for personal
+injury cases.  Whether this is because the unpredictability of their awards,
+both as to liability and measure of damages, encourages a settlement or whether
+experience suggests that jury damage awards are less generous than those given
+by judges sitting without a jury, is difficult to say.  If the unpredictable
+nature of jury verdicts is a major factor in inducing settlement, it seems an
+ironic justification for their continued existence.  Obviously there are other
+reasons for retaining the jury in civil cases generally, not the least of which
+is the fact that the jury reflects public opinion.  IX.              Finally, from a pragmatic
+standpoint, to require the trial judge to charge the jury on the upper limit of
+non-pecuniary damages may be inviting unmeritorious appeals on that part of the
+judge's instructions to the jury.  X.                In conclusion, there is no
+evidence that the law as it stands is incapable of dealing with the upper limit
+of non-pecuniary damages, the assessment of which has always been the province
+of the jury.  For the reasons previously set forth, I would leave to the jury
+the determination of the quantum of damages without instructions as to the
+upper limit, subject to the judge's power to reduce excessive awards.  XI.              In the result, I would dispose of
+this appeal as suggested by my colleague Sopinka J.                     Appeal dismissed
+with costs.                     Solicitors for the
+appellant:  McConnan, Bion, O'Connor & Peterson, Victoria.                     Solicitors for the
+respondent:  Harper Grey Easton, Vancouver.                      Solicitors for the
+intervener the Canadian Hospital Association:  Bull, Housser &
+Tupper, Vancouver.                     Solicitors for the
+intervener the Canadian Red Cross Society:  MacMillan, Rooke &
+Boeckle, Toronto.  

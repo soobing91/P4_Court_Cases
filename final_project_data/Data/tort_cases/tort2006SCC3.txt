@@ -1,0 +1,723 @@
+                                                   SUPREME
+COURT OF CANADA   Citation:  Young v. Bella, [2006] 1 S.C.R. 108, 2006 SCC 3  Date:  20060127 Docket:  30670  Between: Wanda Young Appellant v. Leslie Bella,
+William S. Rowe and Memorial University of Newfoundland Respondents Child Welfare
+League of Canada Intervener  Coram:
+McLachlin C.J. and Bastarache, Binnie, LeBel, Fish, Abella and Charron JJ.   Reasons for
+  Judgment: (paras. 1 to 67)   McLachlin C.J. and Binnie J.
+  (Bastarache, LeBel, Fish Abella and Charron JJ. concurring)  ______________________________ Young v.
+Bella, [2006] 1 S.C.R. 108, 2006 SCC 3  Wanda Young                                                                                                   Appellant  v.  Leslie
+Bella, William S. Rowe and Memorial University of
+Newfoundland                                                                                          Respondents  and  Child
+Welfare League of Canada                                                                   Intervener  Indexed
+as:  Young v. Bella  Neutral
+citation:  2006 SCC 3.  File
+No.:  30670.  2005:  October 20;
+2006:  January 27.  Present:  McLachlin C.J.
+and Bastarache, Binnie, LeBel, Fish, Abella and Charron JJ.  on appeal from
+the court of appeal for newfoundland and labrador   Damages — Jury award — Whether evidence at trial supported jury’s
+award of damages.     Held:  The appeal should be allowed and the trial judgment
+should be restored.    Section 38(6) does not bar the appellant’s action.  Under
+s. 38(1), information that a child “may be” in danger or in need of
+protection suffices to trigger the duty to report.  The respondents were not
+obliged to conduct their own investigation of the suspected abuse, nor were
+they required to have reasonable cause to believe abuse had in fact occurred
+before making a report.  They were, however, obliged to have reasonable cause
+to make a report to CPS, i.e. to possess information that CPS reasonably
+ought to be asked to look into, even if it turned out to be misinformation.  It
+is the absence of reasonable cause even to make a report that lay at the heart
+of the appellant’s allegation of negligence. [34] [49]  Section 38(6) offers no protection to the respondents because the
+case study contained in the appendix was not information that a child was in
+danger or in need of protection from the appellant.  So far as the respondents
+were concerned, its date and authorship were simply unknown.  There was nothing
+that tied the experiences it related to the appellant. R acted on nothing more
+than speculation and conjecture.  It appears the jury concluded that he must
+have known that simply making a report would have serious consequences,
+especially for someone in the appellant’s position, and in particular that a
+report by a prominent individual such as the Director of the School of Social
+Work would likely cause the appellant’s name to be placed on the Child Abuse
+Registry. [42] [51]    Cases Cited  Applied:  Hill v. Church of Scientology of Toronto,
+[1995] 2 S.C.R. 1130; distinguished:  Andrews v. Grand & Toy
+Alberta Ltd., [1978] 2 S.C.R. 229; Thornton v. School District No. 57
+(Prince George), [1978] 2 S.C.R. 267; Arnold v. Teno, [1978] 2
+S.C.R. 287; referred to:  Housen v. Nikolaisen, [2002] 2 S.C.R.
+235, 2002 SCC 33; H.L. v. Canada (Attorney General), [2005] 1 S.C.R.
+401, 2005 SCC 25; Cooper v. Hobart, [2001] 3 S.C.R. 537, 2001 SCC 79; Martel
+Building Ltd. v. Canada, [2000] 2 S.C.R. 860, 2000 SCC 60; Central Trust
+Co. v. Rafuse, [1986] 2 S.C.R. 147; Fulton v. Globe and Mail (1996),
+194 A.R. 254, aff’d (1997), 53 Alta. L.R. (3d) 212; Elliott v. Canadian
+Broadcasting Corp. (1993), 16 O.R. (3d) 677, aff’d (1995), 25 O.R.
+(3d) 302; Spring v. Guardian Assurance plc, [1994] 3 All E.R. 129; Nance
+v. British Columbia Electric Railway Co., [1951] A.C. 601; S.Y. v.
+F.G.C. (1996), 78 B.C.A.C. 209.  Statutes and Regulations Cited   APPEAL from a judgment of the Newfoundland and Labrador Court of Appeal
+(Roberts, Welsh and Rowe JJ.A.) (2004), 241 Nfld. & P.E.I.R. 35, 716
+A.P.R. 35, 8 C.P.C. (6th) 131, [2004] N.J. No. 338 (QL), 2004 NLCA 60,
+setting aside a jury award.  Appeal allowed.  Gillian D. Butler, Q.C., and Kimberley M.
+McLennan, for the appellant.  R. Wayne Bruce and Susan E. Norman, for the
+respondents.  Michael E. Barrack and Christopher A. Wayland, for
+the intervener.  The judgment of the Court was delivered by  The Chief Justice and Binnie J. —  I.     Introduction  1                                  
+The appellant, Wanda Young, was a student at Memorial University of
+Newfoundland in 1994, taking courses toward her goal of being admitted to the
+School of Social Work and becoming  a social worker.  Because
+of a bizarre misunderstanding between her and one of her professors over a
+missing footnote to a term paper, a misunderstanding that was not brought to
+the appellant’s attention until more than two years after her paper was
+submitted, she was reported in May 1994 by the respondent William Rowe, the then
+Director of the School of Social Work, to the provincial Child Protection
+Services (“CPS”) as a potential child abuser.  When the report was belatedly
+“investigated” by CPS in 1996, the misunderstanding was cleared up within 24
+hours.  The suspicion of child abuse was found by CPS to be without a shred of
+reality.  As a result of the Director’s report, however, the appellant
+(unbeknownst to her) had been placed on the provincial Child Abuse Registry and
+her name was “red flagged” in the police and social work communities in
+Newfoundland and Labrador where, as an aspiring social worker, she might have
+hoped to obtain employment.  A Newfoundland jury found the University’s
+treatment of her to be negligent, and further found (more controversially) that
+as a result of this negligence, her chosen career prospects had been
+destroyed.  The jury awarded her damages of $839,400.  2                                  
+It is important that suspected child abuse be promptly reported.  But,
+as this case illustrates, it is also important that persons in positions of
+authority (such as university professors in relation to their students) act
+responsibly and avoid unfounded and damaging reports of suspicion.  Section
+38(6) of the Child Welfare Act, R.S.N. 1990, c. C-12, requires there to
+be “reasonable cause” to make the report, thus striking an appropriate balance
+between the protection of children, the protection of third parties against
+unfounded allegations, and the protection of informants.  3                                  
+A majority of the Newfoundland Court of Appeal overturned the jury award
+because it considered the appellant’s action to be barred by s. 38(6),
+which protects individuals from legal action who report “information that a
+child has been, is or may be in danger” of abuse.  We agree, of course, that those
+who are subject to a duty to report information must be protected from any
+adverse legal consequences flowing from compliance with that duty, but here the
+university professors acted on conjecture and speculation which fell far short
+of the required “reasonable cause” to make a report to CPS required by
+s. 38(6).  They did not even have misinformation (for which protection
+will be available unless reported maliciously or without reasonable cause). 
+They acted in a way the jury found to be without any reasonable cause to make a
+report.  In our view, s. 38(6) does not bar relief to the appellant in
+these circumstances.  The cause of the action of negligence was properly put to
+the jury.  The defence’s evidence, as well as the plaintiff’s evidence, was clearly
+laid out by the trial judge. It was open to the jury, as the finder of facts,
+to reach the conclusions it did on the evidence put before it.  We would allow
+the appeal, set aside the decision of the Court of Appeal, and restore the
+jury’s verdict.  II.      The Facts  4                                  
+In 1994, the appellant, then 23 years old, lived in Spaniard’s Bay, a
+community about a hundred kilometres from St. John’s.  Although a full-time
+fee-paying student, she subscribed to “distance courses” taught largely by
+conference calls and correspondence.  Her interaction with her professors in
+St. John’s was limited.  Her grades were marginal, and in 1993, her application
+to pursue a specialized course of study at the School of Social Work was
+rejected.  Nevertheless, she soldiered on and took what courses in social work
+she was eligible to take.  5                                  
+In April 1994, the appellant submitted her final assignment in Social
+Work 5614, entitled “Social Work in Rural Newfoundland and Northern Labrador”. 
+The appellant said she met with her professor, the respondent Professor Leslie
+Bella, only once during the term.  She said she obtained prior approval of the
+topic for her paper entitled “Juvenile Sex Offenders — Treatment and
+Counselling Techniques”.  The paper was eventually submitted over two weeks
+late.  6                                  
+Her term paper included the uncontroversial observation that abused
+children may themselves go on to become abusers.  To illustrate this
+observation, the appellant  attached as Appendix A a case study copied from a
+textbook. The case study was a woman’s “first person” account of being sexually
+abused as a child, then sexually abusing children in her care as an adult
+babysitter.  The textbook from which the case study was taken was listed in the
+appellant’s bibliography.  However, the Appendix was not footnoted in the body
+of the text in accordance with proper practice, a requirement of which the
+appellant was apparently oblivious.  In light of subsequent events, it is
+convenient to reproduce the portion of her term paper that referred to Appendix
+A:  From an early age, generally around the ages of eleven or twelve, many
+sex offenders develop specific interest in various sexual behaviours.  Many
+agree that these behaviours are learned primarily through observation and by
+direct experience.  These experiences are often the result of sexual abuse.  In
+the majority of cases, juvenile sex offenders are themselves victims of sexual
+abuse (See appendix A).  Sexual abuse occurs in a cycle that is repeated
+over and over, so if we could get to these offenders at an early age we would
+prevent a lot of this abuse. [Emphasis added.]   Appendix A
+itself did not contain any identifying details of dates, places or the names of
+people implicated in the confession.  In particular, there was nothing to link
+the experiences it related to the appellant herself.  7                                  
+Professor Bella testified that she was taken aback to read a case study
+written in a confessional style by a woman, which in those days she considered
+unusual.  Instead of accepting Appendix A as illustrative of the point being
+made in the term paper, Professor Bella speculated that perhaps it was
+autobiographical, a personal confession by the appellant of having sexually
+abused children she babysat, or as Professor Bella put it, a “cry for help”. 
+Professor Bella also suspected the term paper was plagiarized.  8                                  
+On April 26, 1994, Professor Bella shared her concerns with the Acting
+Director of the School of Social Work and Chair of the School’s Admissions
+Committee,  Professor Jane Dempster.  Professor Bella showed Professor Dempster
+Appendix A of the term paper, without the paper itself, and did not mention
+that the appendix had been attached to a paper on juvenile sex offenders.  Based
+on what she was told, Professor Dempster (who did not read the term paper)
+testified that she suggested Professor Bella meet with the appellant to discuss
+the appendix, and, if the meeting did not resolve her concerns, to call CPS. 
+In the meantime, Professor Dempster undertook to consult the appellant’s
+personal file to see if perhaps a letter of reference or other document
+disclosed the name of a child or children babysat by the appellant that could
+lead to further inquiries.  The search apparently yielded nothing of interest.  9                                  
+Instead of meeting with the appellant and asking her to explain where
+Appendix A came from, Professor Bella decided her plagiarism inquiry should
+proceed entirely separately from the abuse inquiry which she thought should go
+directly to CPS.  Accordingly, her letter of April 28, 1994 to the appellant
+said nothing about Appendix A, the “footnote issue” or Professor Bella’s
+speculation about its autobiographical nature.  After stating that the topic of
+juvenile sex offenders was not appropriate for the course (although as stated
+the appellant testified the topic had been approved in advance), Professor
+Bella’s letter went on to suggest the appellant’s paper might have been written
+for another course (“self-plagiarism”) or by somebody else (“[t]he style of
+presentation in your paper is very different from the work in your
+examination”).  Professor Bella then wrote:  Please consider my comments, and decide if you can give me evidence
+that the paper was (i) written for this course, (ii) was your own
+work (iii) and that its submission was delayed for reasons that are not
+your own fault. . . .  Please note that if I do proceed to mark this paper I will also check
+your references and other related sources, to confirm that you have not
+plagiarised sections of the paper.  10                              
+Without waiting to hear back from the appellant, Professor Bella placed
+an informal telephone call on April 28, 1994 to CPS for advice.  She was told
+that as she was unable to provide any information about a specific child at
+risk, there was nothing for CPS to inquire into.  CPS also advised Professor
+Bella to speak to the appellant to obtain some clarification.  Professor Bella
+did not accept this advice.  Nothing was ever said by any of
+the professors to the appellant about the footnote issue or their suspicions
+that Appendix A was autobiographical.  11                              
+Professor Bella’s notes confirmed that she heard from the appellant
+shortly after dispatch of the letter, and the appellant testified that she
+provided Professor Bella with all the documents requested to rebut the
+suspicion of plagiarism.  In the end, Professor Bella declined to mark the
+paper (ostensibly because of its lateness) and gave the appellant a zero.  12                              
+Although Professor Bella did not raise the issue of the case study and
+possible child abuse with the appellant (as she considered that it was not her
+proper role to “investigate”),  she did not let the matter rest.  She took her
+concerns to the Director of the School of Social Work, Dr. William Rowe.  She
+told Dr. Rowe the appendix “was neither referenced nor had any explanation in
+terms of paper”.  Dr. Rowe, making no other inquiries, then attached
+Appendix A to a report he sent to Paula Burt of CPS dated May 25, 1994, which
+read in its entirety as follows:  Further to our conversation, please find enclosed an item submitted by
+Wanda Young [address omitted] who was a student in one of our distance
+education courses this past term.  The paper, while competently written, had little, if anything, to do
+with the assignment and the case study was attached without explanation. 
+The material in the case study is alarming and it maybe [sic]
+appropriate for someone from your office or from the RCMP detachment
+responsible for Spaniard’s Bay to follow up.  Please inform me of your decision.  If I can be of any assistance,
+please do not hesitate to call me.  [Emphasis added.]  The community
+of social workers in Newfoundland is very small.  There is only one School of
+Social Work. For example Paula Burt, while working at CPS, was also continuing
+courses at the school, and was therefore a fellow student of the appellant. 
+Dr. Rowe did not disclose to Paula Burt that the case study was provided in the
+context of a paper on juvenile sex offenders.  Dr. Rowe knew, as a specialist
+in the field of child abuse, it was quite foreseeable that his report would
+result in the appellant’s name being placed on the  Child Abuse Registry. 
+Dr. Rowe testified:  Q. Okay.  You mentioned a Child Abuse Registry. 
+What Child Abuse Registry?  A. When someone has been, when a complaint has been
+sent to Social Services, or to Child Protection, their, if it’s found out to be
+a reasonable complaint, even if it isn’t a situation where someone has been
+found guilty, their name is placed on the Registry.  Officials from
+CPS testified that Dr. Rowe’s stature in the field of child abuse lent
+significant credibility to his report.  13                              
+Dr. Rowe rejected any suggestion that he ought to have raised his
+concern with the appellant before sending the letter.  That, he told the jury,
+was a job best left to CPS.  He also said he had copyright concerns about
+sharing the appellant’s paper with CPS.  14                              
+In the meantime, the University had written to the appellant on May 11,
+1994, rejecting her request for reconsideration of her application to pursue a
+degree in social work.  Saying she was disheartened, the appellant approached
+Professor Jane Dempster (whose roles at the School of Social Work included
+guidance counselling) to see how she might improve her chances of acceptance. 
+Professor Bella had already shared with Professor Dempster her concerns about
+suspected child abuse but the appellant was not told about this or the reason
+why the School had decided she was irredeemably unfit for social work. 
+Professor Dempster was “cold” (according to the appellant) and flatly advised
+her that the faculty did not think she had what it took to be a social worker
+and that she should look elsewhere for a career.  15                              
+Professor Dempster said she had no recollection of such a meeting, and
+that the  remarks attributed to her sounded unlike the things she would
+normally say to a student in such circumstances.  16                              
+The evidence for the respondents was that there were numerous reasons
+why the appellant was rejected quite apart from suspicions about child abuse. 
+Admission to the course, they told the jury, was highly competitive (three
+applicants for each acceptance) and the appellant’s grades were low.  (The fact
+that Professor Bella gave her zero on her final assignment on juvenile sex
+offenders did not help matters.)  The evidence also suggested, however, that
+some students with low marks were counselled to take further courses.  The
+advice to the appellant, on the contrary, was to leave the field.  17                              
+Saying that she was demoralized by the peremptory tone of Professor
+Dempster’s message, the appellant took a summer job in Quebec and did not
+return to Memorial University in September.  Instead, she sought and accepted
+whatever casual employment she could obtain as a youth care worker at various
+facilities. Unbeknownst to her, the suggestion that she was a potential child
+sex abuser had been discussed amongst three university professors, communicated
+to the RCMP, and disclosed to a minimum of ten social workers in several
+communities, many of whom knew the appellant through her summer employment and
+one of whom was her boyfriend’s sister.  18                              
+More than two years after the initial referral to CPS, a staff worker
+sought a meeting with the appellant, which belatedly took place on September 9,
+1996.  There, for the first time, the appellant learned of the long-standing
+“report”.  The appellant responded by delivering the relevant textbook to CPS
+the next day.  It was immediately obvious to CPS that Appendix A had been
+copied from the textbook and was not in the least autobiographical.  By letter
+of September 13, 1996, CPS sent the following acknowledgment:  Dear Ms. Young:  As per your request, this is to confirm that the
+Department of Social Services was made aware of information which it was
+advised related to you and we felt required further clarification.  When
+explored it was immediately clear that the information did not relate to you. 
+Rather, the information provided was an excerpt from a book.  Thank you for your understanding and complete
+cooperation in this process. [Emphasis added.]  No explanation
+was offered as to why it had taken CPS more than two years to “investigate” a
+matter which, on being looked into, was shown to be completely baseless within
+24 hours.  19                              
+The University and its staff, however, refused to apologize, suggesting
+that because of the missing footnote, the appellant was the author of her own
+misfortune.  20                              
+Concerns about whether the appellant was safe to hire continued to dog
+her in the years that followed.  Evidence of her difficulty in finding work and
+attempts to mitigate it were put before the jury.  As late as January 2001,
+seven years after the baseless report, the witness Andrew Caddigan told the
+jury that the appellant’s application for a temporary job was openly questioned
+in his presence by others in the field on the mistaken belief that the
+appellant was “red-flagged” as a potential child abuser as a result of Dr.
+Rowe’s “report”.  III.    The Legal Proceedings  21                              
+The appellant’s trial was heard before a civil jury.  Counsel for the
+University made essentially the same submissions on the facts at trial as he
+made before us.  He obtained a ruling from the trial judge that as a matter of
+law the words in Dr. Rowe’s letter to CPS were not capable of being
+defamatory.  The remaining claim, in negligence, proceeded.  The jury found
+that Professor Bella and Dr. Rowe had breached the duty of care owed to the
+appellant as a student of the University both before and after reporting; that
+the report to CPS was made without reasonable cause; that the professors failed
+to meet the required standard of care; that the injury and loss the appellant suffered
+was a foreseeable consequence of their acts and omissions; and that the
+appellant had not contributed to her damages.  22                              
+The jury heard medical and psychological evidence that the appellant had
+suffered  anxiety, embarrassment, insomnia, paranoia and depression as a result
+of the allegations against her (both before and after the report) and their
+repercussions.  It also received evidence of economic loss flowing from the
+University’s termination of her hope of becoming a social worker.  The jury went
+on to award damages as follows:  General non-pecuniary                                          $430,000  Past loss of income                                                 
+$47,000  Future loss of income                                            $314,000  Past loss of sick leave                                             
+$13,000  Future loss of sick leave                             
+$28,000  Cost of future care                                                  
+$7,400   Total                                                                     $839,400  23                              
+The Court of Appeal overturned the jury award, Roberts J.A. dissenting
+((2004), 241 Nfld. & P.E.I.R. 35, 2004 NLCA 60).  Writing for the majority,
+Welsh J.A. was of the view that s. 38(6) provided a complete defence to
+the entire claim.  Roberts J.A., on the other hand, found no error by the trial
+judge, and concluded that there was ample evidence on which a jury, properly
+instructed, could reach the conclusions it did. Although strongly contested by
+the University, he thought the damages were not beyond the scope of what was
+reasonable, based on the evidence.  Roberts J.A. would have dismissed the
+appeal and cross-appeal.  Rowe J.A., while agreeing with Welsh J.A. that
+s. 38(6) of the Child Welfare Act shielded the University from
+liability relating to the report made to CPS, differed from Welsh J.A. on its
+scope.  In his view, s. 38(6) provided no defence to Ms. Young’s
+claim that the University, by its internal failures, had negligently and
+wrongfully denied her a career in social work.  Concerns about what damages
+possibly flowed from these dealings led him to conclude that a new trial was
+necessary.  The formal order of the Court of Appeal however simply allowed the
+appeal and dismissed the plaintiff’s action, Roberts J.A. dissenting.  24                              
+Ms. Young now appeals to this Court.  IV.    Analysis  25                              
+The issues raised in the appeal fall under the following main headings:  (1)     The nature of the cause of action;  (2)     The duty and protection accorded by s. 38 of the Child
+Welfare Act; and  (3)     Whether the law and evidence support the jury’s award of
+damages.  26                              
+In approaching these questions, we must bear in mind the principle that
+appellate courts should not overturn the verdict of a jury unless it is one
+that no reasonable jury, properly instructed, could reach: Housen v.
+Nikolaisen, [2002] 2 S.C.R. 235, 2002 SCC 33; H.L. v. Canada (Attorney
+General), [2005] 1 S.C.R. 401, 2005 SCC 25.  A.     The Nature of the Cause of Action  27                              
+The jury was asked whether Leslie Bella or William Rowe, by their acts
+or omissions, had breached the duty of care they owed to the appellant.  This
+is the classic formulation of the cause of action in negligence.  It is
+premised on a relationship between the plaintiff and the defendant, which in
+turn gives rise to a duty of care on the defendant toward the plaintiff. 
+Breach of the standard of care imposed by that duty creates legal liability for
+damages caused by the breach.  There was evidence before the jury capable of
+establishing all the elements of the tort of negligence.  (1)     Existence of a Duty of Care  28                              
+The Court recently affirmed in Cooper v. Hobart, [2001] 3 S.C.R.
+537, 2001 SCC 79, at para. 24, and Martel Building Ltd. v. Canada,
+[2000] 2 S.C.R. 860, 2000 SCC 60, at para. 46, that the “duty” analysis
+proceeds in two stages:  (a)            Is there a sufficiently close
+relationship of proximity between the parties such that, in the reasonable
+contemplation of the defendant, carelessness on its part might cause damage to
+the plaintiff?  (b)            If so, are there any considerations
+which ought to negative or limit: (a) the scope of the duty; (b) the
+class of persons to whom it is owed; or (c) the damages to which a breach
+of it may give rise?  29                              
+The respondents assert that the duty of care in this case is negated for
+policy reasons under the second branch of the test.  They argue that s. 38
+of the Child Welfare Act establishes the policy that in the interests of
+protecting children, people should be encouraged to report suspicions of child
+abuse, free from fear of reprisal.  The duty imposed by s. 38(1), they
+argue, should as a matter of policy negate any duty of care which might
+otherwise arise at common law.  30                              
+We discuss the Act in greater detail below.  At this point, however, it
+suffices to note that the respondents’ argument overlooks the fact that the
+appellant’s claim in negligence was a broad one, encompassing not only the
+report made to CPS, but the University’s dealings with the appellant
+generally.  Paragraph 15(a) of her Amended Statement of Claim reads:  The Plaintiff states that the actions of Dr. Bella, Dr. Rowe and other
+officials at Memorial University of Newfoundland combined to put in motion a
+series of events that would forever shape the course of the Plaintiff’s future
+by affecting her reputation in the community, her ability to complete her
+education and by reducing her income-earning capacity.  In support of
+this broader claim the appellant led evidence of failure to mentor, failure to
+properly advise her on her future and negligent publication within the faculty,
+through means other than the report to CPS, of the suggestion that the
+appellant may have abused children.  31                              
+In short, in the present case, proximity was not simply grounded in a
+misguided report to CPS, but was rooted in the broader relationship between the
+professors at Memorial University and their students.  The appellant, even as a
+“distant” student, was a fee-paying member of the university community, and
+this fact created mutual rights and responsibilities.  The relationship between
+the appellant and the University had a contractual foundation, giving rise to
+duties that sound in both contract and tort:  Central Trust Co. v. Rafuse,
+[1986] 2 S.C.R. 147.  32                              
+Whether or not a duty of care will be negatived where the parties are
+strangers linked only by the events surrounding a “report” is a question that
+should only be decided when it arises.  Assuming that the policy expressed in
+the Act could countermand potential liability for a negligent report in such
+circumstances, as discussed below, it does not provide any policy reason to
+negative liability that would otherwise arise on the facts of this case.  The
+scope of the s. 38(6) defence is restricted to the making of the CPS
+report and would not excuse the University and its employees from failure to
+live up to their broader responsibilities to the appellant as a member of the
+university community.  The facts in this case do not trigger the protection of
+the Act because, quite simply, the respondent Dr. Rowe acted on nothing more
+than speculation and conjecture in making his report which, as Director of the
+School of Social Work, he must have known would have serious consequences
+within the small community of social workers in Newfoundland, including the
+likely posting of the appellant’s name on the provincial Child Abuse Registry.  (2)     The Standard of Care  33                              
+The standard of care that ought to be exercised by professors towards
+their students was emphasized in the testimony of Dr. Wayne Ludlow who, during
+the relevant 1994-1996 period, was the Dean of Student Affairs at Memorial
+University.  Dr. Ludlow testified:  The relationship between the professor and the student is a special
+relationship . . . [I]t is an imbalanced relationship because
+professor is all knowing, and I can see now the fear and trembling of the young
+first-year students when they went to classes, someone in a flowing black robe. 
+So the power balance was evident . . . .  34                              
+Those whose professional responsibilities include the exercise of such
+power over the careers and future lives of fee-paying students are required to
+take the necessary care to get their facts straight before taking a potential
+career-ending action in relation to a student.  While legislative and judicial
+policy mandates the quick reporting of information of suspected child abuse, it
+does not do so to the exclusion of consideration of the legitimate interests of
+the person named in the report, or the interests of informants.  This  is not
+at all to say that the respondents were obliged to conduct their own
+investigation of the suspected abuse.  Informants are not required to
+have reasonable cause to believe abuse has in fact occurred before making a
+report.  They are, however, obliged to have reasonable cause to make a
+report to CPS, i.e. to possess information that CPS reasonably ought
+to be asked to look into, even if it turns out to be misinformation.  It is the
+absence of reasonable cause even to make a report that lies at the heart
+of the appellant’s allegation of negligence.  (3)     Breach of the Duty  35                              
+There was evidence that the University had breached these duties through
+the negligence of its employees.  The task of the reviewing court is not to
+agree or disagree with the jury’s conclusions, but just to satisfy itself that
+there was evidence on which the jury, properly instructed, could reasonably
+conclude as it did.  The issue for the jury was the failure of her professors
+even to seek from the appellant an explanation of a missing footnote
+before embarking on a course of action fraught with danger for her
+hoped-for-career.  36                              
+As might be expected, the recollections of events of the various
+participants differed.  There was no suggestion that any of the respondents had
+acted in bad faith.  37                              
+The jury clearly concluded that Professor Bella should have done what
+both Professor Dempster and officials at CPS recommended, namely check out the
+“footnote issue” with the appellant before proceeding on a course of action, in
+concert with Dr. Rowe, based on nothing more than speculation.  Professor
+Karen Mitchell (who, as sessional lecturer, also taught the appellant) told the
+jury it was not uncommon for students to make errors in footnoting.  Professor
+Dempster testified that in Professor Bella’s position, in writing to the
+appellant, she “would have made reference to appendix A, a clear reference”.  38                              
+Looking at the broader duty, the jury heard that Professor Dempster told
+the appellant, in effect, that she was unfit to be a social worker.  The jury
+must have concluded that Professor Dempster knew of Professor Bella’s
+speculation that Appendix A was autobiographical, but failed to check the facts
+before delivering a judgment on the appellant’s career prospects.  39                              
+The jury heard from the University’s Dean of Student Affairs, Dr. Wayne
+Ludlow, that  professors are mentors, that part of their whole philosophy for what
+they teach and what they espouse is to be able to allow young people to avail
+of their expertise and to learn and grow. [A.R., at p. 413]  40                              
+The jury heard evidence that Dr. Rowe’s report of speculation to CPS was
+itself negligent.  Dr. Rowe, without looking at the term paper, assured CPS in
+his letter that the case study had been attached “without explanation”.  At
+trial, when confronted with the term paper itself, which clearly indicated the
+relevance of the case study, he retreated to the view that “it didn’t seem like
+much of an explanation” (emphasis added).  However, Elizabeth Crawford,
+the Director of CPS, testified that had she been given the full term paper she
+would have understood the context and looked at the situation differently. 
+Paula Burt, the CPS official to whom Dr. Rowe sent the May 25 report, testified
+that when she eventually saw the term paper the Appendix seemed to her to have
+“some relevance” to the appellant’s topic.  41                              
+At trial, Dr. Rowe testified that he was reluctant to send the term
+paper to CPS because it might infringe the appellant’s intellectual property
+rights but the jury appeared to conclude that it was unlikely someone reported
+for suspected sexual abuse would take a copyright objection to the handing over
+of exculpatory material that would show the suspicion to be unfounded.  42                              
+Dr. Rowe also took the view that it was up to CPS, not him, to determine
+whether an investigation was appropriate, but the jury must have concluded that
+he failed to provide CPS with the proper information (e.g., the term paper
+as well as the Appendix) on which such an informed decision could properly be
+made.  It appears the jury concluded that Dr. Rowe must have known that simply
+making a report would have serious consequences, especially for someone in the
+appellant’s position, and in particular that a report by a prominent individual
+such as the Director of the School of Social Work would likely cause the
+appellant’s name to be placed on the Child Abuse Registry.  43                              
+It was open to the jury to accept the respondents’ evidence if it found
+the professors to be persuasive, but it was equally open to the jury to
+conclude that the professors’ behaviour fell markedly short of the standard of
+care professors should exercise towards their students.  It was for the jury to
+make that determination.  The jury concluded that the University and its employees
+did not do so and there is no basis for an appellate court to intervene with
+the jury’s findings in that respect.  B.      The Duty and Protection under Section 38
+of the Child Welfare Act  44                              
+The University and its employees argue that if they owed a duty of care
+to the appellant, this was negated by s. 38(6) of the Child Welfare Act. 
+In their view, s. 38(6) bars any cause of action on the facts of this
+case.  Section 38 provided:  38. (1) Where a person has information that a
+child has been, is or may be in danger of abandonment, desertion, neglect,
+physical, sexual or emotional ill-treatment or has been, is or may be otherwise
+in need of protection, the person shall immediately report the matter to the
+director, a social worker or a peace officer.  .
+. .  (6)   This section applies notwithstanding that the
+information is confidential or privileged, and an action does not lie against
+the informant unless the making of the report is done maliciously or without
+reasonable cause.  45                              
+The appellant argues that even if s. 38(6) applied, it would not
+furnish a complete defence, since her claim goes beyond the mere reporting of
+suspected abuse as required by the Act.  The respondents contend that this
+broader context makes no difference.  So strong is the policy of the Act that
+it overrides all other considerations. 46                              
+The respondents’ argument was accepted in the majority judgment of the
+Newfoundland Court of Appeal.  Welsh J.A., speaking for herself and Rowe J.A.,
+declined to interpret as disjunctive the test “unless the making of the report
+is done maliciously or without reasonable cause”.  In her view the
+phrase “without reasonable cause”, while ambiguous, means in context “the
+absence of good faith” (para. 44).  In other words s. 38(6), as
+interpreted, should read “maliciously or in the absence of good faith”.  In the
+result she found, “a report made in good faith, even if negligently made, is
+protected by subsection (6), precluding legal action against the reporter”
+(para. 53).  47                              
+In our view, such an interpretation does not give effect to the
+legislator’s specification of both a subjective element (“maliciously”) and an
+objective element (“reasonable cause”) to determine whether the report of
+“information” is to be protected from all legal consequences.  The respondents
+and the intervener say that anything potentially relevant to child abuse that
+comes from an external source (i.e. eliminating only the product of the
+reporter’s unaided imagination) should be reported.  However, to construe
+s. 38(6) so broadly reads the words “reasonable cause” out of the section
+and fundamentally changes the legislative scheme.  48                              
+We agree with Welsh J.A. that the duty to report “information” imposed
+by s. 38(1) and the protection against suits accorded by s. 38(6) are
+co-extensive and must be read together.  The legislature cannot have intended
+to impose a duty to report and leave the informant exposed to legal liability
+for complying with the statutory duty.  49                              
+We also agree with Welsh J.A. that the duty to report under
+s. 38(1) should not be narrowly construed. The language of the section
+suggests as much.  Information that a child “may be” in danger or in need of
+protection suffices to trigger the obligation.  Moreover, the obligation is to
+report “immediately”.  This language suggests that there is no duty to
+investigate the information (where information exists) to ensure that it is
+accurate before reporting.  The Act distinguishes between the stage of
+receiving information suggesting danger or need of protection, which is for the
+informant, and investigating the truthfulness of the information, which is for
+CPS.  A broad duty to report information of possible abuse is consistent with
+the Act’s goal of protecting children.  50                              
+Where we disagree with Welsh J.A., however, is in our view that her
+interpretation of s. 38 evinces too little concern for third parties who
+may be adversely affected by irresponsible reports.  Here Dr. Rowe had no
+data that, interpreted by a reasonable person, would suggest that a child has
+been, was, or may be in need of protection from Wanda Young.  Foreseeable
+consequences such as placement on the Child Abuse Registry are serious
+matters.  While the primary objective of the Act is to protect children, it
+seeks to do so in a way that also takes into account the interests of the
+persons under suspicion and the interests of informants.  The interest of the
+person suspected of abuse is protected by the inclusion of an objective
+“reasonable cause” standard in s. 38(6).  These two components must be
+read together and the words used — “information” and “reasonable cause” — must
+together be given a purposive interpretation.  “Information” in s. 38(1)
+is the partner of “reasonable cause” in s. 38(6).  “Reasonable cause” does
+not mean reasonable grounds to believe that abuse has occurred, or is
+occurring, or will occur (which in certain legal contexts implies belief in the
+truthfulness of the information).  Section 38(6) sets a lower threshold.  The
+informant need only have “reasonable cause” to ask CPS to consider looking into
+the matter.  51                              
+Section 38(6) offers no protection to the respondents here because,
+however it is viewed, the case study contained in Appendix A to the appellant’s
+paper was not information that a child was in danger or in need of protection
+from Wanda Young.  So far as the respondents are concerned, its date and
+authorship were simply unknown (and not asked about).  There was nothing that
+tied the experiences it related to the appellant.  If there was a “cry for
+help”, there was nothing to indicate it originated with the appellant.  The
+respondents’ problem is that the jury, having heard conflicting versions of
+events, apparently concluded that the professors acted on speculation arising
+from their failure to properly consider the material before them.  Had
+Professor Bella or Dr. Rowe come into possession of information that related to
+the appellant in a relevant way, their duty would have been to report
+immediately, without investigating its truth.  In this case, they had no such
+information.  C.     Whether the Law and the Evidence Support
+the Jury’s Award of Damages  52                              
+A number of issues arise relating to damages.  (1)     Proof of Damages  53                              
+The appellant called Cara Brown as an expert on damages.  She laid out
+the calculations for four different “scenarios”, the choice of which would
+depend on the version of the facts eventually accepted as correct by the jury. 
+The respondents called no counter evidence to refute the calculations, although
+in his jury address their counsel  urged the jury not to accept the factual
+assumptions that gave rise to the various calculations:  Don’t judge damages on the fuss that’s being made here, or the length
+of the trial, or the number of witnesses.  It’s very easy to claim huge losses,
+and it’s very easy to make a mountain out of a mole-hill.  54                              
+There were many contingencies built into the damage calculations, all of
+which were laid out before the jury by the contending parties.  The jury chose
+to resolve those contingencies in favour of the appellant.  It was within their
+province, as the triers of fact, to do so.  55                              
+The respondents, however, also take an objection in law to the award. 
+Starting from the fact, as stated, that the defamation issue was withdrawn from
+the jury by the trial judge because in his view the wording of Dr. Rowe’s
+letter dated May 25, 1994 to CPS was not capable of giving rise to a defamatory
+meaning, they argue that the appellant’s claim is really an action for
+defamation, dressed up as a negligence action.  They say that her action is
+essentially for loss of reputation, and that damages for loss of reputation can
+only be claimed in a defamation action to which the issues of malice and
+qualified privilege are relevant.  They say resort to negligence law interfered
+with the exercise of their freedom of expression of an opinion to CPS. 
+Negligence principles, they assert, do not strike the proper balance between
+free expression and the duty not to harm others.  56                              
+We cannot accept the respondents’ argument.  The possibility of suing in
+defamation does not negate the availability of a cause of action in negligence
+where the necessary elements are made out.  Freedom of expression and the
+policies underlying qualified privilege can be taken into account in
+determining the appropriate standard of care in negligence.  Counsel for the
+University referred to a number of cases in support of the assertion that this
+action lies only in defamation:  see, e.g., Fulton v. Globe and Mail
+(1996), 194 A.R. 254 (Q.B. (Master)), aff’d (1997), 53 Alta. L.R. (3d) 212 (Q.B.),
+and Elliott v. Canadian Broadcasting Corp. (1993), 16 O.R. (3d) 677
+(Gen. Div.), aff’d (1995), 25 O.R. (3d) 302 (C.A.).  In fact, these were cases
+where the defendants’ actions alleged to have caused the plaintiffs’ loss of
+reputation fell entirely within the law of defamation and the basic elements of
+a negligence action, such as a duty of care owed to the plaintiffs, had not
+been established.  There is no reason in principle why negligence actions
+should not be allowed to proceed where (a) proximity and foreseeability
+have been established, and (b) the damages cover more than just harm to
+the plaintiff’s reputation (i.e. where there are further damages arising
+from the defendant’s negligence): see Spring v. Guardian Assurance plc,
+[1994] 3 All E.R. 129 (H.L.).  In fact, all of the cases cited by the
+respondents as standing for the proposition that defamation had “cornered the
+market” on reputation damages were cases in which (unlike here) there was no
+pre-existing relationship between the parties that gave rise to a duty of care.  57                              
+In summary then, we conclude that the evidence at trial supported the
+jury’s finding of negligence and the factual underpinnings of the appellant’s
+claim to damages.  (2)     Causation  58                              
+The respondents argue that the failure of the appellant to be admitted
+to the School of Social Work cannot be attributed to their conduct.  They point
+out that the appellant’s average grades were below the cut-off for admission. 
+Better qualified candidates were being turned away.  On the other hand, the
+jury also heard that the appellant’s position was not hopeless.  It was, the
+appellant says, only Professor Dempster’s advice, apparently fuelled by the
+baseless suspicions arising out of a missing footnote, that caused her to
+abandon steps that might have led to her improving her academic standing and
+gaining admission.  The evidence was that some of the other students with low
+grades were counselled to take extra courses to improve their averages, and some
+succeeded.  As well, the jury may have concluded that complete rejection of the
+appellant’s assignment on juvenile sex offenders lowered her scores more for
+reasons (plagiarism and suspicion of abuse) that proved entirely groundless
+than for its lateness.  The jury heard that marks were not the only criteria
+for admission.   Professor Dempster said that a candidate’s volunteer work and
+job experience are also relevant, the very experience which placement on the
+Child Abuse Registry jeopardized.  59                              
+Whether we agree with all of the findings the jury was prepared to make
+in the appellant’s favour on the question of damages is irrelevant.  While the
+issue of causation was strongly contested, there was, in our view, sufficient
+evidence to permit the jury to find a causal connection between the
+University’s breach of duty and the damages suffered by the appellant.  (3)     Foreseeability of the Damage  60                              
+It was argued that it was not foreseeable that communications among
+university staff would result in such damages to the appellant.  Nor was it
+foreseeable, the respondents argue, that various officials at CPS would pass
+the file around from hand to hand and office to office for more than two years
+before actually picking up the phone to contact the appellant.  Nevertheless,
+there was evidence before the jury of the profound risk of damage posed by the
+fanciful speculations of the professors, which gave rise to their actions
+against the appellant internally as well as to their report to CPS.  The jury
+concluded that the professors’ collective negligence destroyed the career
+prospects of the appellant as a social worker.  The respondents strongly
+dispute such a conclusion and do so with some good reason, but it was open to
+the jury on the evidence to take that view, and to assess damages accordingly. 
+Their decision was not so aberrant that it could be said that no reasonable
+jury, properly instructed, could have made it.  Accordingly, we would not
+interfere.  (4)     Contributory Negligence  61                              
+The University argues that the appellant’s loss was in part caused by
+her failure to footnote the Appendix and her failure to address the source of
+the Appendix after receiving Professor Bella’s letter raising the issue of
+plagiarism.  However, the onus was on the respondents to prove on a balance of
+probabilities that the appellant failed to take reasonable care and the extent
+to which this contributed to her loss.  As earlier noted, Professor Bella’s
+letter to the appellant did not even raise an issue about Appendix A. 
+Moreover, the jury had Professor Mitchell’s evidence that footnoting mistakes
+were commonplace.  The jury must have found that contributory negligence on the
+part of the appellant had not been proved and that conclusion was open to it on
+the evidence.  The respondents’ argument on causation is little more than an
+invitation to this Court to retry the case.  We cannot accept this argument.  (5)     Quantification of Damages  62                              
+As discussed, there was evidence to support the claims for loss of
+income and cost of future care.  This leaves non-pecuniary damages and the
+issue of whether a judicially imposed cap on them is appropriate in this type
+of case.  63                              
+The respondents argue that the assessment of $430,000 for non-pecuniary
+damages must be set aside because the loss suffered by the appellant is not of
+such magnitude to justify “one of the largest non-pecuniary general damage
+awards . . . ever awarded in this country and it is therefore
+appropriate for this Court to exercise its discretion in adjusting same”.  64                              
+This is not the test for appellate interference with a jury award.  As
+mentioned earlier, the appellant called expert evidence (which was
+uncontradicted), laying out a number of scenarios based on different potential
+findings of fact for the jury’s consideration.  Damage assessments are
+questions of fact for the jury.  Jury awards of damages may only be set aside
+for palpable and overriding error.  It is a long-held principle that “when on a
+proper direction the quantum is ascertained by a jury, the disparity between
+the figure at which they have arrived and any figure at which they could
+properly have arrived must, to justify correction by a court of appeal, be even
+wider than when the figure has been assessed by a judge sitting alone”: Nance
+v. British Columbia Electric Railway Co., [1951] A.C. 601 (P.C.), at
+p. 614.  On this test, we cannot conclude that the award for non-pecuniary
+damages should be set aside.  In light of the evidence, the jury’s award cannot
+be said to be wholly disproportionate or shockingly unreasonable.  65                              
+The respondents also argue that the cap on non-pecuniary damages imposed
+in catastrophic personal injury cases should be imposed in cases such as this:
+see Andrews v. Grand & Toy Alberta Ltd., [1978] 2 S.C.R. 229, at
+p. 265; Thornton v. School District No. 57 (Prince George),
+[1978] 2 S.C.R. 267; and Arnold v. Teno, [1978] 2 S.C.R. 287.  The very
+different context of the “trilogy” is illustrated by the following passage from
+Andrews, at p. 262:  If damages for non-pecuniary loss are viewed from a
+functional perspective, it is reasonable that large amounts should not be
+awarded once a person is properly provided for in terms of future care for his
+injuries and disabilities.  The money for future care is to provide physical
+arrangements for assistance, equipment and facilities directly related to the
+injuries.  Additional money to make life more endurable should then be seen as
+providing more general physical arrangements above and beyond those relating
+directly to the injuries.  The result is a coordinated and interlocking basis
+for compensation, and a more rational justification for non-pecuniary loss
+compensation.   The
+respondents have not established why the policy considerations which arise from
+negligence causing catastrophic personal injuries, in the contexts of accident
+and medical malpractice, should be extended to cap a jury award in a case such
+as the present.  The argument was rejected in relation to damages for
+defamation in Hill v. Church of Scientology of Toronto, [1995] 2 S.C.R.
+1130, at paras. 170-76.  In our view, the case for imposing a cap in cases of
+negligence causing economic loss is not made out here either.  As
+Macfarlane J.A. commented in S.Y. v. F.G.C. (1996), 78 B.C.A.C.
+209:  There is no evidence before us that this type of case has any impact on
+the public purse, or that there is any crisis arising from the size and
+disparity of assessments.  A cap is not needed to protect the general public
+from a serious social burden, such as enormous insurance premiums.
+[para. 30]  66                              
+We leave open for consideration in another case (where the policy
+considerations supporting a cap are more fully developed in evidence and
+argument) the issue of whether and in what circumstances the cap applies to
+non-pecuniary damage awards outside the catastrophic personal injury context. 
+While the damages are higher than we would have awarded in the circumstances,
+the law assigns the task of that assessment to the jury.  Given our conclusion
+that the cap does not apply in this case, the principle enunciated in Hill that
+an appellate court should not interfere with a jury assessment of non-pecuniary
+damages unless it “shocks the conscience of the court” (para. 163) precludes
+reduction of the award for non-pecuniary damages in this case.  V.     Conclusion  67                              
+We find no basis upon which to interfere with the jury’s verdict, and
+accordingly we would set aside the judgment of the Court of Appeal and restore
+the trial judgment with costs to the appellant on a party-and-party basis here
+and in the courts below.  Appeal allowed with costs.  Solicitor for the appellant:  Gillian D. Butler,
+St. John’s.  Solicitors for the respondents:  Stewart McKelvey Stirling
+Scales, St. John’s.  Solicitors for the intervener:  McCarthy Tétrault,
+Toronto.   

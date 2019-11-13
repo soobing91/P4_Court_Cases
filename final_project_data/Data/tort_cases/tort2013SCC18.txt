@@ -1,0 +1,618 @@
+SCC Case Information: 34408   SUPREME
+COURT OF CANADA  Citation: Ediger v. Johnston, 2013 SCC 18, [2013] 2 S.C.R. 98 Date: 20130404 Docket: 34408  Between:  Cassidy
+Alexis Ediger, an infant by her Guardian Ad Litem, Carolyn Grace Ediger Appellant and William
+G. Johnston Respondent  Coram: McLachlin C.J. and LeBel, Rothstein, Cromwell, Moldaver,
+Karakatsanis and Wagner JJ.  Reasons
+  for Judgment: (paras. 1 to 62) Rothstein and Moldaver JJ. (McLachlin
+  C.J. and LeBel, Cromwell, Karakatsanis and Wagner JJ. concurring)      Ediger v. Johnston, 2013 SCC 18, [2013] 2 S.C.R. 98 Cassidy Alexis Ediger, an infant by her Guardian Ad Litem, Carolyn Grace Ediger                                                                   Appellant v. William G. Johnston                                                                                    Respondent Indexed as:  Ediger v.
+Johnston 2013 SCC 18 File No.:  34408. 2012:  December 4; 2013:  April 4. Present:  McLachlin C.J. and LeBel, Rothstein, Cromwell,
+Moldaver, Karakatsanis and Wagner JJ. on appeal from the court of appeal for british columbia                     Held:  The appeal should be allowed.                     The
+sole issue here is causation: Did the doctor’s breaches of the standard of care
+cause C’s injury?  Because causation is a factual inquiry, the standard of
+review for the trial judge’s causation findings is palpable and overriding
+error.  There was no such error
+here.                     Contrary
+to the Court of Appeal’s conclusion, the trial judge did not err by failing to
+account for the delay between the end of the forceps attempt and the onset of
+bradycardia.  The trial judge accepted expert testimony that the doctor’s
+attempt to position the forceps may have displaced the baby’s head such that
+her umbilical cord would become compressed upon a subsequent maternal
+contraction, leading to bradycardia.  It was open to the trial judge to do so. 
+This theory explained the delay between the failed forceps attempt and the
+onset of bradycardia. Cases Cited                     APPEAL
+from a judgment of the British Columbia Court of Appeal (Saunders, Smith and Groberman JJ.A.),
+2011 BCCA 253, 19 B.C.L.R. (5th) 60, 305 B.C.A.C. 271, 515 W.A.C. 271, 333
+D.L.R. (4th) 633, [2011] 8 W.W.R. 466, 82 C.C.L.T. (3d) 228, [2011] B.C.J.
+No. 974 (QL), 2011 CarswellBC 1279, setting aside a decision of
+Holmes J., 2009 BCSC 386, 65 C.C.L.T. (3d) 1, [2009] B.C.J. No. 564
+(QL), 2009 CarswellBC 773.  Appeal allowed.                     Vincent R. K. Orchard, Q.C., Steven Hoyer,
+Susanne Raab and Paul T. McGivern, for the appellant.                     James M. Lepp, Q.C., Michael G.
+Thomas and Daniel J. Reid, for the respondent.                     The
+judgment of the Court was delivered by [1]                             
+Rothstein and
+Moldaver JJ. — Cassidy Ediger,
+now 15 years old, suffered from persistent bradycardia during her birth that
+caused severe and permanent brain damage, leaving her with spastic quadriplegia
+and cerebral palsy.  Cassidy, by her guardian ad litem, sued Dr. William
+G. Johnston, the obstetrician who delivered her, alleging that her injury
+resulted from negligence associated with an attempt to deliver her using a
+mid-level forceps procedure.  The trial judge found that Dr. Johnston breached
+the standard of care expected of him in the circumstances by failing to ensure
+that back-up surgical staff would be immediately available to deliver Cassidy
+by Caesarean section (“C-section”) upon complications arising from the
+mid-level forceps delivery, and by failing to inform Cassidy’s mother about the
+material risks associated with the forceps procedure.  The only issue before us
+is whether the trial judge committed a palpable and overriding error in
+determining that Cassidy’s injury was caused by these breaches.  In our view,
+there was no such error. I.       Facts [2]                             
+Cassidy was born on January 24, 1998, to Carolyn
+and Scott Ediger.  Early in the course of Mrs. Ediger’s pregnancy, her family
+physician, Dr. Lisa LeGresley, referred her to Dr. Johnston based on a concern
+unrelated to the injury Cassidy ultimately sustained at birth. [3]                             
+Mrs. Ediger consulted Dr. Johnston throughout
+her pregnancy.  Based on a number of factors, Dr. Johnston considered her
+pregnancy to be high risk.  As a result, he decided to induce the pregnancy
+before term, at 38 weeks.  It is undisputed that the factors that made Mrs.
+Ediger’s pregnancy high risk are irrelevant to Cassidy’s subsequent injury. [4]                             
+On January 23, Mrs. Ediger was admitted to
+Chilliwack General Hospital and Dr. Johnston began the induction process.  The
+next day, Mrs. Ediger’s labour stalled, despite contractions that were strong
+in duration and intensity.  Dr. Johnston determined that the baby was in deep
+arrest with its head positioned sideways. He therefore elected to proceed with
+a mid-level forceps rotation to deliver the baby.  A forceps delivery involves
+positioning a forceps blade on each side of the baby’s head and assisting the
+baby through the birth canal.  A “mid-level” forceps delivery is the riskiest
+type of forceps delivery that obstetricians are permitted to attempt because it
+takes place when the baby is at the beginning of the birth canal.  In this
+case, the baby’s head had to be rotated before the baby could be assisted
+through the remainder of the birth canal. [5]                             
+Dr. Johnston did not anticipate that anything
+would go wrong with the mid-level forceps procedure and therefore did not
+inform Mrs. Ediger of the potential risks associated with it.  These risks
+included compression of the baby’s umbilical cord, leading to persistent fetal
+bradycardia (a sustained drop in the baby’s heart rate prior to delivery),
+which may in turn cause severe brain damage. [6]                             
+Dr. Johnston attempted the forceps procedure
+while Mrs. Ediger was in a regular labour room, located close to a high risk
+operating room that was used to perform C-sections.  Prior to initiating the
+forceps procedure, Dr. Johnston did not inquire into the availability of an
+anaesthetist or operating room staff to assist with an emergency C-section in
+the event that complications were to arise during the forceps attempt. [7]                             
+According to the evidence accepted by the trial
+judge, Dr. Johnston applied the first forceps blade and attempted to apply the
+second forceps blade.  Unhappy with the placement of the second blade, however,
+he elected to abandon the forceps procedure and proceed with a C-section. [8]                             
+At that point, Dr. Johnston left the labour room
+to make arrangements for a C-section.  He contacted the on-call anaesthetist,
+Dr. Charles Boldt, to assist. Dr. Boldt informed Dr. Johnston that he was
+occupied with an emergency life or death surgery in another operating room and
+anticipated that he would be unavailable for another hour.  Dr. Boldt suggested
+that Dr. Johnston contact the next on-call anaesthetist, who was off site but
+could arrive within 30 minutes. [9]                             
+While Dr. Johnston was attempting to make these
+arrangements, Dr. LeGresley, who remained in the labour room with Mrs. Ediger,
+saw the baby’s heart rate drop on the heart rate monitor.  Dr. LeGresley, over
+the course of 20 to 30 seconds, confirmed that the drop continued, indicating
+persistent fetal bradycardia.  She then called out to Dr. Johnston that Mrs.
+Ediger needed an emergency C-section. [10]                         
+When Dr. Johnston returned to the room, he
+attached a fetal scalp clip to the baby’s head to confirm that the heart
+monitor observed by Dr. LeGresley provided an accurate representation of the
+baby’s heart beat.  Within approximately two minutes, he was able to confirm
+persistent bradycardia.  It is undisputed in these proceedings that the
+persistent bradycardia resulted from an obstruction of the baby’s umbilical
+cord. [11]                         
+At this point, Dr. Johnston again contacted Dr.
+Boldt, who was still occupied in the other emergency surgery, and informed him
+that Mrs. Ediger needed an emergency C-section.  Mrs. Ediger was transferred to
+the high risk operating room, where she was prepped for surgery.  In the
+meantime, Dr. Boldt stabilized his patient and rushed over to anaesthetize Mrs.
+Ediger.  On arrival in the operating room, Dr. Boldt anaesthetized Mrs. Ediger
+and then Dr. Johnston delivered Cassidy by C-section. [12]                         
+In the end, Cassidy was delivered approximately
+20 minutes after Dr. Johnston’s failed forceps attempt (approximately 18
+minutes from the onset of bradycardia).  As a result of the sustained
+bradycardia, Cassidy suffered severe and permanent brain damage.  She lives her
+life with spastic quadriplegia and cerebral palsy.  She is non-verbal,
+tube-fed, confined to a wheel chair and totally dependent on others for all of
+her daily needs.  Her life expectancy is 38 years. II.     Procedural History A.     Supreme Court of British Columbia, 2009 BCSC 386, 65
+C.C.L.T. (3d) 1 [13]                         
+Cassidy filed a statement of claim in the
+Supreme Court of British Columbia alleging that Dr. Johnston was negligent in
+his attempt at a forceps delivery.  In particular, she alleged that the
+standard of care required Dr. Johnston to perform the forceps procedure with a
+“double setup”.  In the alternative, Dr. Johnston was required to arrange for
+back-up staff that would be immediately available to deliver Cassidy by
+C-section if the forceps procedure failed.  Cassidy also alleged that Dr.
+Johnston was negligent for failing to obtain Mrs. Ediger’s informed consent to
+the forceps procedure because he did not advise her of the material risks
+associated with the mid-level forceps procedure. [14]                         
+A great deal of the evidence at trial focused on
+whether a “double setup” was required by the standard of care for mid-level
+forceps deliveries.  Where a double setup is used, the forceps delivery is
+performed in an operating room with an anaesthetist and operating room staff
+standing by, and all of the materials for a C-section prepped.  If the forceps
+procedure fails, the mother’s legs are lowered, her abdomen is painted with an
+antiseptic and the baby is delivered by C-section.  The evidence at trial indicated
+that in a double setup situation, a baby could be delivered by C-section two to
+five minutes from the time a forceps procedure is abandoned. [15]                         
+In her reasons for judgment, Holmes J. rejected
+Cassidy’s claim that the standard of care at the time mandated a double setup. 
+Holmes J. acknowledged the testimony of some experts who stated that the
+well-recognized high risks associated with a mid-level forceps delivery
+required a double setup.  Although she agreed that the trend was to perform
+these procedures with a double setup, she accepted the testimony of Dr.
+Johnston and his experts that, at the time of Cassidy’s delivery, it was not
+uncommon to proceed without a double setup. [16]                         
+Holmes J. agreed with Cassidy, however, that the
+applicable standard of care incorporated the less stringent requirement that
+surgical back-up be “immediately available” to deliver the baby by C-section
+upon failure of the mid-level forceps attempt, consistent with the guidelines
+of the Society of Obstetricians and Gynaecologists of Canada.  She found that
+Dr. Johnston did not meet this standard of care.  According to Holmes J., when
+Dr. Johnston initiated his forceps attempt, he faced a non-urgent scenario and
+had time to assemble a surgical team.  Instead, however, he took “no steps” to
+ensure that surgical back-up would be immediately available (para. 94).  Holmes
+J. emphasized that Dr. Johnston had not even inquired as to whether the on-call
+anaesthetist was available prior to initiating the forceps procedure.  As a
+result,                            Dr. Boldt [the anaesthetist] and his
+nursing staff were “present” in the hospital only in the most literal sense,
+when Dr. Johnston attempted the mid-forceps delivery.  They were completely
+occupied with another very high-risk situation, and expected to remain so
+occupied for at least another hour.  No other anaesthetist was in the hospital
+or even formally on-call . . . . [para. 83] Holmes J. found that, by
+proceeding in the manner that he did, Dr. Johnston breached the standard of
+care expected of a physician in the circumstances. [17]                         
+Holmes J. also found that Cassidy had
+established causation.  In particular, she found that Dr. Johnston’s forceps
+attempt was a “but for” cause of the persistent bradycardia and that Dr.
+Johnston’s failure to have surgical back-up immediately available was a “but
+for” cause of Cassidy’s injury.  She concluded: In the result, back-up was provided
+and Cassidy was delivered within about eighteen minutes.  This was probably the
+best possible outcome in the circumstances Dr. Johnston had created when he
+proceeded with the attempt while Dr. Boldt was tied up with another life and
+death situation.  However, minutes mattered, and with the passage of time
+Cassidy’s bradycardia had done its damage.  Had back-up been available even
+five to ten minutes more quickly, most — possibly even all — of Cassidy’s
+injuries could have been avoided. [para. 138] These causation findings,
+which are a subject of this appeal, are examined in detail below. [18]                         
+Holmes J. also found that Dr. Johnston breached
+his duty to obtain informed consent before proceeding with the forceps delivery
+by failing to advise Mrs. Ediger of the material risks associated with the
+procedure.  Holmes J. found it unnecessary to determine whether Mrs. Ediger
+would have foregone the forceps procedure altogether if she were properly
+advised because she found that, at the very least, Mrs. Ediger, properly
+informed, would have delayed the forceps procedure until Dr. Johnston had
+arranged for immediately available surgical back-up.  Given Holmes J.’s earlier
+finding that Cassidy’s injury would have been avoided with surgical back-up, it
+followed that Dr. Johnston’s failure to advise Mrs. Ediger also caused
+Cassidy’s injury. [19]                         
+Holmes J. thus concluded that Cassidy had
+successfully established her negligence claim.  She awarded Cassidy $3,224,000
+in damages, which included non-pecuniary loss, special damages, future care and
+loss of earnings. B.     British Columbia Court of Appeal, 2011 BCCA 253, 19
+B.C.L.R. (5th) 60 [20]                         
+The Court of Appeal for British Columbia allowed
+Dr. Johnston’s appeal.  On appeal, Dr. Johnston did not dispute the trial
+judge’s articulation of the standard of care expected of him or the trial
+judge’s finding that his performance fell below that standard.  With respect to
+his liability for negligence, Dr. Johnston challenged only whether his breaches
+of the standard of care had in fact caused Cassidy’s injury.  The parties also
+cross-appealed on the damages award. [21]                         
+Writing for a unanimous court, Smith J.A. held
+that the trial judge erred in finding that Dr. Johnston’s breaches caused
+Cassidy’s injury for two reasons.  First, the evidence did not support the
+trial judge’s conclusion that Dr. Johnston’s forceps attempt caused the cord
+compression and the resulting bradycardia that led to Cassidy’s injury.
+According to Smith J.A., “[t]he undisputed evidence was that fetal bradycardia
+would occur within seconds of cord compression.  Therefore, if Dr. Johnston’s
+attempted forceps delivery had caused the cord compression, fetal bradycardia
+would have occurred almost contemporaneously with the forceps procedure” (para.
+86).  Because the trial judge found that the fetal bradycardia began
+“within at most one and two minutes” after the forceps attempt (para.
+124), the bradycardia could not have been caused by the forceps attempt. [22]                         
+Second, Smith J.A. held that the trial judge
+erred in finding that Dr. Johnston’s failure to have adequate back-up available
+caused Cassidy’s injury.  Although it was conceded that Cassidy probably would
+have been unharmed if she were delivered 10 minutes earlier, there was no
+evidence that having a back-up team present would have sped up her delivery. 
+Thus, it was not established that Cassidy’s injury would have been avoided if
+Dr. Johnston had arranged for immediately available surgical back-up or if Mrs.
+Ediger, properly informed, had delayed the forceps attempt until back-up was
+available. [23]                         
+Having found that Cassidy failed to establish
+causation, Smith J.A. allowed the appeal and dismissed the action without
+considering Dr. Johnston’s appeal and Cassidy’s cross-appeal as to the damages
+award.  Cassidy now appeals to this Court. III.    Analysis [24]                         
+An action for negligence requires proof of a
+duty of care, breach of the standard of care, compensable damage, and causation
+(Hill v. Hamilton-Wentworth Regional Police Services Board, 2007 SCC 41,
+[2007] 3 S.C.R. 129, at para. 96).  Here, Dr. Johnston does not dispute that
+the first three requirements are met.  He had a duty to meet the requisite
+standard of care by arranging for surgical back-up to be “immediately
+available” before attempting the mid-forceps procedure. And he had a duty to
+obtain Mrs. Ediger’s informed consent.  He breached both of these duties. 
+Furthermore, as described above, Cassidy suffered severe and permanent brain
+damage that leaves her completely dependent on her family and community for
+care, clearly compensable damage. [25]                         
+The sole issue here is causation: Did Dr.
+Johnston’s breaches of the standard of care cause Cassidy’s injury? [26]                         
+Dr. Johnston advances three arguments as to why
+the trial judge erred in concluding that his breaches were the cause.  The
+first argument relates to a threshold matter of whether Cassidy’s fetal
+bradycardia was caused by the forceps procedure or would have arisen
+independent of the procedure.  Dr. Johnston submits that the fetal bradycardia
+would have occurred independent of the procedure and thus his breaches of the
+standard of care leading up to the procedure were not “but for” causes of
+Cassidy’s injury.  Dr. Johnston’s second and third arguments accept the premise
+that the forceps procedure caused Cassidy’s bradycardia and argue that
+causation is not established because Cassidy’s injury would have occurred even
+if he had met the standard of care.  In particular, Dr. Johnston argues that
+even if he satisfied his duty to have an anaesthetist immediately available,
+Cassidy would not have been delivered sooner.  He also argues that even if Mrs.
+Ediger, properly advised of the material risks of proceeding without back-up,
+would have postponed the forceps procedure, there is no evidence that the
+result would have been different in the postponed forceps attempt. [27]                         
+In sum, the following three issues are raised
+with respect to causation: (1)        
+Did the trial judge err by concluding that Dr.
+Johnston’s attempted forceps delivery caused the persistent bradycardia? (2)        
+Did the trial judge err by concluding that Dr.
+Johnston’s failure to arrange for “immediately available” surgical back-up
+caused Cassidy’s injury? (3)        
+Did the trial judge err by concluding that Dr.
+Johnston’s failure to advise Mrs. Ediger of the material risks of a mid-level
+forceps procedure caused Cassidy’s injury? A.     The Legal Test for Causation [28]                         
+This Court recently summarized the legal test
+for causation in Clements v. Clements, 2012 SCC 32, [2012] 2 S.C.R.
+181.  Causation is assessed using the “but for” test (Clements, at
+paras. 8 and 13; Resurfice Corp. v. Hanke, 2007 SCC 7, [2007] 1 S.C.R.
+333, at paras. 21-22). That is, the plaintiff must show on a balance of probabilities
+that “but for” the defendant’s negligent act, the injury would not have
+occurred (Clements, at para. 8).  “Inherent in the phrase ‘but for’ is
+the requirement that the defendant’s negligence was necessary to bring about
+the injury — in other words that the injury would not have occurred without the
+defendant’s negligence”  (para. 8 (emphasis deleted)). [29]                         
+Causation is a factual inquiry (Clements,
+at paras. 8 and 13).  Accordingly, the trial judge’s causation finding is
+reviewed for palpable and overriding error (H.L. v. Canada (Attorney
+General), 2005 SCC 25, [2005] 1 S.C.R. 401, at paras. 53-56). B.     Did the Trial Judge Err by Concluding That Dr. Johnston’s
+Attempted Forceps Delivery Caused the Persistent Bradycardia? [30]                         
+It is undisputed that the persistent bradycardia
+that led to Cassidy’s injury was caused by an obstruction of Cassidy’s
+umbilical cord. The issue is whether the obstruction was caused by Dr.
+Johnston’s forceps attempt or whether it arose independently of the procedure.
+Dr. Johnston submits that the obstruction arose independently of the procedure
+and thus the trial judge erred when she concluded that Dr. Johnston’s failure
+to have back-up immediately available and failure to obtain informed consent
+were “but for” causes of Cassidy’s injury. [31]                         
+The trial judge concluded that it was more
+likely than not that Cassidy’s umbilical cord became obstructed when it was
+compressed as a result of the forceps procedure.  Dr. Johnston’s argument
+against this conclusion tracks the Court of Appeal’s reasons.  According to the
+Court of Appeal, the evidence showed that “if Dr. Johnston’s attempted forceps
+delivery had caused the cord compression, fetal bradycardia would have occurred
+almost contemporaneously with the forceps procedure” (para. 86).  This could
+not be reconciled with the trial judge’s finding that the bradycardia began
+“within at most one and two minutes” of the forceps attempt.  In the
+Court of Appeal’s view, “[t]his was a critical finding of fact that had to be
+addressed by the trial judge” (para. 87). [32]                         
+With respect, the trial judge did address the
+gap in time between the forceps attempt and the onset of the bradycardia.  In
+particular, she considered testimony by Drs. Neal Shone and Duncan Farquharson
+that a physician’s attempt to position the forceps blades may displace the
+baby’s head such that the baby’s umbilical cord would become compressed upon a
+subsequent maternal contraction. This sequence of events accounts for the delay
+between the end of the failed forceps procedure and the onset of bradycardia. 
+As the trial judge explained:         Dr. Shone explained the mechanics of potential cord
+compression in a rotational mid-forceps procedure. . . . [W]ith the second
+blade applied, the head must be manoeuvred, usually by twisting it out of the
+position in which it is lodged; that process creates space around the baby’s
+head, and the cord may become trapped around the side of the head or under the
+forceps blades.          Dr.
+Farquharson explained similarly that, for a rotational mid-forceps procedure, a
+minor elevation or displacement of the baby’s head from its position firmly
+fixed against the pelvis is necessary before the head can be rotated. He
+testified that if the umbilical cord is, for example, alongside the baby’s
+cheeks or neck at the time of the minor elevation or displacement of the head,
+the cord may slip down into the space created, and the next labour contraction
+will compress the cord against the pelvis, causing umbilical obstruction.
+[paras. 125-26] [33]                         
+Holmes J. expressly accepted this “displacement”
+theory as an explanation for how Cassidy’s cord became obstructed.  She
+recognized that this explanation was consistent with Dr. LeGresley’s account of
+what had happened.  Dr. LeGresley testified that Dr. Johnston applied both
+forceps blades, but abandoned the forceps procedure because he was unhappy with
+the placement of the second blade.  This sequence of actions, the trial judge
+concluded, would have created the space necessary for the umbilical cord to be
+trapped and compressed. [34]                         
+Furthermore, as Holmes J. observed, the
+“displacement” theory set forth by Drs. Shone and Farquharson, which is
+consistent with Dr. LeGresley’s account of the facts, explains the gap in time
+between the forceps attempt and the cord compression.  Holmes J. stated:                  . . . some
+of the medical experts discussed or mentioned the effect of labour
+contractions, which occur periodically and may cause adjustment of the relative
+positioning within the birth canal. Thus, a displacement may not cause cord
+compression at the time, but a labour contraction afterwards may cause further
+movement that forces the cord into the space created earlier. [para. 132] [35]                         
+Holmes J. thus addressed how the forceps attempt
+could have caused the umbilical cord obstruction notwithstanding the gap in
+time between the procedure and the onset of bradycardia.  With respect, the
+Court of Appeal was incorrect to find that Holmes J.’s findings were
+inconsistent. [36]                         
+The Court of Appeal’s reasons also suggest that
+it understood the trial judge to have improperly relied on Snell v. Farrell,
+[1990] 2 S.C.R. 311, in order to draw an “inference of causation” (paras.
+83-85).  Snell stands for the proposition that the plaintiff in medical
+malpractice cases — as in any other case — assumes the burden of proving
+causation on a balance of the probabilities (pp. 329-30).  Sopinka J. observed
+that this standard of proof does not require scientific certainty (Snell,
+at p. 328; Clements, at para. 9).   The trier of fact may, upon weighing
+the evidence, draw an inference against a defendant who does not introduce
+sufficient evidence contrary to that which supports the plaintiff’s theory of
+causation.  In determining whether the defendant has introduced sufficient evidence,
+the trier of fact should take into account the relative position of each party
+to adduce evidence (Snell, at p. 330). [37]                         
+In the present case, there is no reason to
+believe that the trial judge failed to follow the approach described above.  At
+trial, Dr. Johnston introduced some evidence contrary to the “displacement”
+theory of causation.  Dr. Johnston testified that he never applied the second
+forceps blade to the baby’s head.  This was inconsistent with Dr. Shone’s
+explanation of the “displacement” theory.  According to Dr. Shone, it is the
+application of the second forceps blade that requires the baby’s head to be
+manoeuvred, creating the space necessary for the umbilical cord to become
+trapped, such that it is later compressed by maternal contractions. Holmes J.
+acknowledged that Dr. Johnston’s testimony was inconsistent with the
+“displacement” theory.  She explained, however, that she rejected Dr.
+Johnston’s testimony because he had a weak recollection of the facts and
+instead accepted Dr. LeGresley’s recollection that Dr. Johnston had applied
+both forceps blades before abandoning the procedure. [38]                         
+Dr. Johnston also testified that, contrary to
+Drs. Shone and Farquharson’s “displacement” theory, applying both forceps
+blades would not create sufficient space for the umbilical cord to slip and
+become trapped. He also adduced evidence of other possible causes of
+umbilical cord obstruction, including a short, kinked or nuchal cord (where the
+umbilical cord is wrapped around the baby’s neck). [39]                         
+Faced with this conflicting expert testimony on
+the feasibility of the “displacement” theory and evidence of other potential
+causes, it was incumbent upon Holmes J. to weigh the evidence before her and
+determine whether Cassidy had proven causation on a balance of the probabilities. 
+Holmes J. ultimately concluded that Cassidy did satisfy this burden for three
+reasons.  First, as already described, Drs. Shone and Farquharson’s testimony
+regarding the physical effects and distortions of labour contractions, as well
+as the timing of the steps leading up to a cord compression, were consistent
+with what occurred here.  Second, multiple experts testified that mid-level
+forceps procedures are potentially dangerous and carry the risk of acute cord
+compression.  Third, the close proximity in time of the forceps attempt and the
+bradycardia supported the conclusion that the forceps attempt was connected to
+the cord compression.  As a result, Holmes J. concluded that, although she
+could not be certain of the precise mechanics leading to cord
+compression, “[t]he only reasonable inference from all the evidence is that the
+mid-forceps attempt likely caused the cord compression that in turn caused the
+bradycardia” (para. 135). [40]                         
+There was no palpable and overriding error in
+this conclusion.  It was open to Holmes J. to accept Drs. Shone and
+Farquharson’s testimony regarding the displacement theory over Dr. Johnston’s
+testimony.  It was also open to her to conclude that the close proximity in
+time between the forceps attempt and the bradycardia, combined with the
+well-recognized risk of bradycardia associated with mid-level forceps
+deliveries, supported a finding of causation in this case. C.     Did the Trial Judge Err by Concluding That Dr. Johnston’s
+Failure to Arrange for “Immediately Available” Surgical Back-up Caused
+Cassidy’s Injury? [41]                         
+As we have described, the trial judge found that
+Dr. Johnston failed to meet the standard of care applicable to mid-level
+forceps procedures because he failed to arrange for surgical back-up that would
+be immediately available to deliver Cassidy by C-section upon the onset of
+bradycardia.  Dr. Johnston does not dispute that he breached the standard of
+care.  He argues that the trial judge erred in finding causation because
+Cassidy failed to show that her injury would have been avoided if he had
+satisfied the standard of care.  As we explain below, the trial judge did not
+err.  She found that the standard of care required Dr. Johnston to take
+reasonable precautions that would have been responsive to the recognized risk
+of bradycardia and the severe damage to the baby that results when bradycardia
+persists.  The evidence shows that Dr. Johnston did not take such precautions
+and, in our view, the trial judge made no error in finding that Dr. Johnston’s
+failure to have back-up immediately available caused Cassidy’s injury. [42]                         
+Although the ultimate issue before us is
+causation, the dispute here turns on a proper understanding of the “immediately
+available” standard of care set forth by the trial judge.  Dr. Johnston’s argument
+is straightforward.  He argues that the standard of care contemplated by the
+trial judge required only that he ensure prior to the forceps procedure that
+the anaesthetist, Dr. Boldt, was not in another surgery and was instead
+standing by to assist in the event of bradycardia.  Dr. Johnston concedes that
+had he delivered Cassidy within approximately 10 minutes, her injury could have
+been completely avoided, but argues that Dr. Boldt’s presence alone would not
+have made a difference in the time it took to deliver Cassidy. The delivery
+still would have taken 18 minutes from the onset of bradycardia and, thus,
+Cassidy’s injury would not have been avoided.  He supports his argument by
+pointing to evidence in the record indicating that it took approximately 13
+minutes to confirm the drop in Cassidy’s fetal heart rate, move Mrs. Ediger to
+the operating room and get her ready for surgery.  At that point, just as Mrs.
+Ediger was ready for surgery, Dr. Boldt arrived to anaesthetize her and Cassidy
+was born five minutes later.  According to Dr. Johnston, there is no evidence
+that Cassidy would have been delivered faster if Dr. Boldt had arrived earlier
+and, thus, Cassidy failed to establish that the failure to have Dr. Boldt
+standing by caused her injury. [43]                         
+We accept Dr. Johnston’s submission that the
+record does not establish that Cassidy would have been delivered faster had Dr.
+Boldt arrived earlier than he did.  Accordingly, it would have been a palpable
+error for the trial judge to find that Dr. Boldt’s initial absence, on its own,
+caused Cassidy’s injury.  But we do not think that this accurately represents
+the trial judge’s finding. [44]                         
+  The problem with the standard of care, as
+interpreted by Dr. Johnston, is that it would be unresponsive to the risk in
+question and potential harm arising from it.  Dr. Johnston reads the trial
+judge’s reasons to say, in response to the risk of bradycardia, that he was
+required to have an anaesthetist standing by.  At the same time, he submits
+that having an anaesthetist standing by would make no material difference in
+the ability to respond to bradycardia.  As Dr. Johnston’s counsel conceded at
+oral argument, Dr. Johnston’s interpretation of the “immediately available”
+standard of care would mean that the attending physician would never be
+liable for breaching the standard where fetal bradycardia results and leads to
+debilitating injury. [45]                         
+We read the trial judge’s reasons differently. 
+Considering them in their context, and in light of the facts and evidence
+adduced in this case, we have no difficulty concluding that the trial judge
+contemplated a standard of care that would have been responsive to the
+recognized risk of fetal bradycardia associated with mid-level forceps
+deliveries.  That standard of care required Dr. Johnston to take reasonable
+precautions such that Cassidy could have been delivered without injury upon the
+occurrence of bradycardia.  It did not allow him to disregard that risk, as he
+did here. [46]                         
+The primary dispute at trial was whether the
+standard of care required a mid-level forceps attempt to be performed with a
+double setup.  As indicated, the expert testimony at trial established that,
+with a double setup, the forceps procedure is performed in an operating room
+with an anaesthetist and operating room staff standing by and all of the
+materials prepped for use.  If the forceps procedure fails, the mother’s legs
+are lowered, her abdomen is painted and the baby is delivered by C-section.  In
+such circumstances, full delivery takes two to five minutes upon a failed forceps
+attempt. [47]                         
+As Holmes J. recognized, the undisputed evidence
+at trial was that a baby begins to suffer injury approximately 10 minutes from
+the onset of bradycardia.  Dr. Alfonso Solimano, a specialist in neonatology,
+testified that if a baby is delivered before the 10-minute mark, the chances
+are very high that the baby will be born unharmed.  It follows that with a
+double setup delivery, damage should be avoided. [48]                         
+Despite the evidence presented at trial that all
+hospitals providing obstetrical care have the ability to provide double setups,
+and that such arrangements are commonplace for mid-level forceps deliveries,
+the trial judge rejected Cassidy’s argument that the standard of care
+necessarily required a double setup.  After giving consideration to the costs
+and risks involved, she found that the standard of care was more flexible,
+requiring only that surgical back-up be “immediately available”, consistent
+with the guidelines of the Society of Obstetricians and Gynaecologists of
+Canada. [49]                         
+Although it is more flexible in that it does not
+contemplate the two-to-five minute delay for delivery provided by a double
+setup, the “immediately available” standard of care endorsed by the trial judge
+nonetheless requires that the attending physician take precautions that are
+responsive to the risk of persistent fetal bradycardia resulting from the
+mid-level forceps procedure.  That the standard of care was tied to the risk
+and harm posed by the forceps procedure is evident from the trial judge’s
+reasons.  At the outset, for instance, the trial judge summarizes her reasons
+by stating: “Minutes mattered, and because of Dr. Johnston’s failure
+to ensure that surgical back-up was reasonably available, the damage was done
+before Cassidy could be delivered by Caesarean section and resuscitated.  
+Cassidy’s claim in negligence is proven” (para. 9 (emphasis added)).  Later, in
+assessing causation, the trial judge reiterated: .
+. . minutes mattered, and with the passage of time Cassidy’s bradycardia had
+done its damage.  Had back-up been available even five to ten minutes more
+quickly, most — possibly even all — of Cassidy’s injuries could have been
+avoided.  Dr. Alfonso Solimano, specialist in neonatology, testified that,
+according to undisputed clinical opinion, injury begins in most cases at ten
+minutes from the onset of bradycardia; with delivery within ten minutes,
+chances are very high that the baby will be uninjured. [para. 138] The trial judge also
+recognized that although she did not find that the standard of care mandated a
+double setup, the fact that “a sizable portion of the relevant medical
+community” concluded that the double setup was required underscored the
+expectation that the reasonable practitioner take precautions to protect against
+injury (para. 91). [50]                         
+We acknowledge that the trial judge at times
+referred to a duty to have surgical back-up immediately available and at other
+times referred to a duty to have inquired into the availability of the
+anaesthetist.  But we must read the trial judge’s reasons in their full
+context.  Doing so, we think the most logical reading of her reasons is that
+she considered the availability of an anaesthetist to be a component of the
+broader duty to have surgical back-up immediately available. [51]                         
+It is beyond dispute that Dr. Johnston did not
+take precautions to ensure that, in the event of bradycardia, Cassidy could
+have been delivered by C-section without injury.  As the trial judge observed,
+Dr. Johnston took “no steps” before beginning the mid-level forceps procedure
+to have surgical back-up immediately available even though there was no urgency
+that precluded him from doing so (para. 94).  He did not even inquire into the
+availability of an anaesthetist. Indeed, Dr. Johnston’s argument before this
+Court is centered on the premise that, given the arrangements in place at the
+time he undertook the mid-level forceps procedure, Cassidy could not have been
+delivered less than 18 minutes from the onset of bradycardia, long after severe
+injury would have been all but guaranteed.  That, as the trial judge found,
+fell below the standard of care. [52]                         
+We do not suggest that a standard of care must
+prevent injury in all circumstances, at all costs.  Here, we simply interpret
+and apply the standard of care determined by the trial judge, which was
+specific to the facts before the court. [53]                         
+In sum, although Holmes J. did not find that the
+standard of care at the time of Cassidy’s birth required Dr. Johnston to
+proceed with a double setup, she also did not find that the standard of care
+permitted Dr. Johnston to act in a manner that disregarded the recognized risk
+of bradycardia associated with a mid-level forceps rotation.  Dr. Johnston was
+required, before he initiated the forceps procedure, to take reasonable
+precautions that would have been responsive to the recognized risk of
+bradycardia and the injury that results if bradycardia persists for more than
+10 minutes.  Because it is undisputed that Dr. Johnston failed to take these
+precautions, which would have resulted in a faster delivery and likely
+prevented injury from bradycardia, the trial judge’s causation finding is
+sound. D.     Did the Trial Judge Err by Concluding That Dr. Johnston’s
+Failure to Advise Mrs. Ediger of the Material Risks of a Mid-level Forceps
+Procedure Caused Cassidy’s Injury? [54]                         
+Having upheld the trial judge’s finding that Dr.
+Johnston’s breach of the duty to have surgical back-up immediately available
+caused Cassidy’s injury, we need not consider whether Dr. Johnston’s breach of
+the duty to obtain Mrs. Ediger’s informed consent caused Cassidy’s injury.  As
+we will explain, however, the trial judge’s informed consent analysis further
+confirms the implausibility of the “immediately available” standard advanced by
+Dr. Johnston. [55]                         
+The trial judge concluded that Dr. Johnston had
+a duty to obtain Mrs. Ediger’s informed consent before proceeding with the
+forceps delivery.  As part of that duty, Dr. Johnston was required to inform
+Mrs. Ediger of the material risks associated with the procedure, including the
+risk of persistent bradycardia.  These conclusions are not challenged before
+this Court. [56]                         
+In analyzing whether the failure to obtain
+informed consent caused Cassidy’s injury, the trial judge did not make a
+finding as to whether Mrs. Ediger, properly advised of the risks, would have
+foregone the forceps delivery altogether in favour of a C-section.  She
+acknowledged that there was conflicting evidence on this point.  In particular,
+the evidence established that “Mrs. Ediger’s primary concerns throughout her
+pregnancy and delivery were for the health of her baby”, from which the trial
+judge had “no doubt” that “Mrs. Ediger would have undertaken a risk to
+herself in order to avoid a risk to the baby” (para. 166).  In addition,
+there was some expert testimony that a prospective mother, properly advised of
+the risks, would opt for a C-section.  However, Dr. Johnston testified that in
+his experience, patients advised of the risks would nevertheless opt for a
+forceps delivery. [57]                         
+The trial judge found it unnecessary to decide
+whether Mrs. Ediger would have completely foregone the forceps delivery because
+she found that, at the very least, Mrs. Ediger, properly informed that surgical
+back-up was not immediately available to deliver Cassidy in the event that
+complications arose, would have opted to wait until Dr. Johnston had arranged
+for such back-up. [58]                         
+The trial judge’s approach to the informed
+consent question is incompatible with Dr. Johnston’s submission that his duty
+to have back-up surgical staff “immediately available” required him only to
+confirm that an anaesthetist was present and unoccupied in the hospital, with
+no further precautions.  As we have explained, under Dr. Johnston’s version of
+the “immediately available” standard of care, it would not have been possible
+to deliver Cassidy in less than 18 to 20 minutes, thereby making severe brain
+damage a virtual certainty upon realization of the risk of bradycardia.  If
+such injury were a virtual certainty, Dr. Johnston’s duty to obtain informed
+consent would have included the duty to advise Mrs. Ediger that proceeding with
+the mid-level forceps delivery included the risk of bradycardia, and that in
+the event that that risk materialized, her baby would necessarily be born with
+severe and permanent brain damage because of the time required to arrange for
+surgical back-up.  Alternatively, she could proceed with a C-section, which
+primarily poses risks to the mother.  If Dr. Johnston were correct about the
+standard of care, we are confident that the trial judge — who recognized that
+Mrs. Ediger’s “primary concern” was the health of her baby and found “no doubt”
+that “Mrs. Ediger would have undertaken a risk to herself in order to
+avoid a risk to the baby” (para. 166) — would have concluded that Mrs. Ediger
+would have foregone the forceps delivery and opted instead for a C-section.  In
+that case, there would have been no mid-level forceps attempt, no resulting
+bradycardia, and no harm to Cassidy for that reason. [59]                         
+This rather obvious incompatibility between the
+“immediately available” standard of care advanced by Dr. Johnston and the trial
+judge’s actual reasons provides further support for rejecting Dr. Johnston’s
+conception of the “immediately available” standard. IV.    Conclusion [60]                         
+In sum, the trial judge did not err by finding
+that Dr. Johnston’s failure to have surgical back-up immediately available
+before attempting the mid-level forceps procedure caused Cassidy’s injury.  It
+follows that there is no basis for interfering with the finding of liability
+made by the trial judge. [61]                         
+Because the Court of Appeal did not consider the
+parties’ appeal and cross-appeal on the trial judge’s damages award, the matter
+is remitted to the Court of Appeal to consider that issue. [62]                         
+The appeal is allowed with costs to Cassidy
+throughout.                     Appeal
+allowed with costs throughout.                     Solicitors for the
+appellant:  Borden Ladner Gervais, Vancouver.                     Solicitors for the
+respondent:  Harper Grey, Vancouver.   

@@ -1,0 +1,1748 @@
+BG Checo International Ltd. v.
+British Columbia Hydro and Power Authority, [1993] 1 S.C.R. 12  British Columbia Hydro and Power Authority                                  Appellant  v.  BG Checo International Limited                                                       Respondent  and between  BG Checo International Limited                                                       Appellant  v.  British Columbia Hydro and Power Authority                                              Respondent  Indexed as:  BG Checo
+International Ltd. v. British Columbia Hydro and Power Authority  File Nos.:  21939, 21955.  1992:  January 28;
+1993:  January 21.   on appeal from the court of appeal for british
+columbia                        Checo sued Hydro seeking
+damages for negligent misrepresentation, or, in the alternative, for breach of
+contract.  The evidence at trial indicated that Hydro had contracted the
+clearing out to another company, and that, to Hydro's knowledge, the work was
+not done adequately.  There was no direct discussion between the
+representatives of Checo and Hydro concerning this issue.  During the trial
+Checo amended its statement of claim to include a claim in fraud.  The trial
+judge found that Hydro had acted fraudulently in its dealings with Checo and
+awarded damages to Checo.  Hydro appealed to the Court of Appeal, which
+rejected the finding of fraud, but found that there had been a negligent
+misrepresentation which induced Checo to enter into the contract.  The Court of
+Appeal awarded damages for the misrepresentation, but reduced the trial judge's
+damage award, and referred the question of breach of contract and damages
+flowing therefrom back to the trial court.                      Held (Sopinka and Iacobucci JJ. dissenting in
+part):  The appeal should be dismissed and the cross-appeal allowed
+in part.                      The contract does not preclude
+Checo from suing in tort.  The general rule emerging from this Court's decision
+in Central Trust Co. v. Rafuse is that where a given wrong prima
+facie supports an action in contract and in tort, the party may sue in
+either or both, subject to any limit the parties themselves have placed on that
+right by their contract.  This limitation on the general rule of concurrency
+arises because it is always open to parties to limit or waive the duties which
+the common law would impose on them for negligence.  The mere fact that the
+parties have dealt with a matter expressly in their contract does not mean that
+they intended to exclude the right to sue in tort.  It all depends on how they
+have dealt with it.  In so far as the tort duty is not contradicted by the
+contract, it remains intact and may be sued upon.                     This principle is illustrated
+by consideration of the three situations that may arise when contract and tort
+are applied to the same wrong.  The first class of case arises where the
+contract stipulates a more stringent obligation than the general law of tort
+would impose.  In that case, the parties are hardly likely to sue in tort,
+since they could not recover in tort for the higher contractual duty.  The vast
+majority of commercial transactions fall into this class.  The right to sue in
+tort is not extinguished, however, and may remain important, as where suit in
+contract is barred by expiry of a limitation period.  The second class of case
+arises where the contract stipulates a lower duty than that which would be
+presumed by the law of tort in similar circumstances.  This occurs when the
+parties by their contract indicate their intention that the usual liability
+imposed by the law of tort is not to bind them.  The most common means by which
+such an intention is indicated is the inclusion of a clause of exemption or
+exclusion of liability in the contract.  Generally, the duty imposed by the law
+of tort can be nullified only by clear terms.  The third class of case arises
+where the duty in contract and the common law duty in tort are co-extensive. 
+In this class of case, like the others, the plaintiff may seek to sue
+concurrently or alternatively in tort to secure some advantage peculiar to the
+law of tort, such as a more generous limitation period.  The case at bar falls
+into this third category.  Hydro's common law duty not to negligently
+misrepresent that it would have the right-of-way cleared by others is not
+excluded by the contract, which confirmed Hydro's obligation to clear the right-of-way.                     The availability of concurrent
+liability in contract and tort should not be predicated on whether the
+contractual term is express or implied.  Using the express-implied distinction
+as a basis for determining whether there is a right to sue in tort poses a
+number of problems.  The law has always treated express and implied terms as
+being equivalent in effect, and it is difficult to distinguish between them in
+some cases.  It is not evident that if parties to a contract choose to include
+an express term in the contract dealing with a particular duty relevant to the
+contract, they intended to oust the availability of tort remedies in respect of
+that duty.  Finally, the test will be difficult to apply in situations where
+the express contractual term does not exactly overlap the tort duty.  Neither
+principle, the authorities nor the needs of contracting parties support the
+conclusion that dealing with a matter by an express contract term will, in
+itself, categorically exclude the right to sue in tort.                     The contract did not limit the
+duty of care owed by Hydro to Checo, nor did Checo waive its common law right
+to bring such tort actions as might be open to it.  Checo is thus entitled to
+claim against Hydro in tort.                     In situations of concurrent
+liability in tort and contract it would seem anomalous to award a different
+level of damages for what is essentially the same wrong on the sole basis of
+the form of action chosen, though particular circumstances or policy may
+dictate such a course.                     Checo is entitled to be
+compensated for all reasonably foreseeable loss caused by the tort.  The Court
+of Appeal was justified in finding that had the misrepresentation not been
+made, Checo would have entered into the contract, but with a higher bid.  It
+was of the view that Checo would have increased its bid by an amount equal to
+the cost of the extra work made necessary by the improperly cleared work site
+plus profit and overhead.  To compensate only for the direct costs of clearing,
+however, is to suggest that the only tort was the failure to clear.  The real
+fault is that Hydro misrepresented the situation and Checo may have relied on
+that representation in performing its other obligations under the contract. 
+Having to devote its resources to that extra work might have prevented Checo
+from meeting its original schedule, thereby resulting in Checo incurring
+acceleration costs in order to meet the contract completion date.  Such costs
+would also arguably be reasonably foreseeable.  The matter should be referred back
+to the trial court for determination of whether any such indirect losses were
+the foreseeable result of the misrepresentation.                     The breach of contract claims
+should be referred to the trial court for determination.  Checo is to be put in
+the position it would be in had the work site been cleared properly, and is
+therefore to be reimbursed for all expenses incurred as a result of the breach
+of contract, whether expected or not, except to the extent that those expenses
+may have been so unexpected that they are too remote to be compensable for
+breach of contract.  The damages in contract would thus include not only the
+costs flowing directly from the improperly cleared work site, but also
+consequent indirect costs such as acceleration costs due to delays in construction.                     There was no evidence of an
+intention on the part of Hydro to deceive, and the Court of Appeal therefore
+correctly concluded that Hydro should not be liable for fraudulent
+misrepresentation.                     Per Sopinka and Iacobucci JJ. (dissenting in part):  In
+the circumstances of the case, Hydro may be liable in contract for the
+representations which Checo complains of, but it cannot be liable in tort. 
+While as a general rule, the existence of a contract between two parties does
+not preclude the existence of a common law duty of care, contractual exclusion
+or limitation clauses can operate either to exclude or limit liability, or to
+limit the duty owed by one party to the other, whether in contract or in tort. 
+In neither case will the plaintiff be permitted to use an action in tort to
+circumvent the limitation of liability or of duty in the contract.  The
+contractual relationship can bring the parties into sufficient proximity to
+give rise to a duty of care, but no duty of care in tort can be concurrent with
+a duty of care created by an express term of the contract.  If the duty is
+defined by an express term of the contract, the plaintiff will be confined to
+whatever remedies are available in the law of contract.  A claim in tort is not
+foreclosed in all circumstances, however.  A contextual approach should be
+adopted which takes into account the context in which the contract is made, and
+the position of the parties with respect to one another.  The policy reasons in
+favour of the rule are strongest where the contractual context is commercial
+and the parties are of equal bargaining power.  Here there is no question of
+unconscionability or inequality of bargaining power.  If such issues, or others
+analogous to them, were to arise, however, a court should be wary not to
+exclude too rapidly a duty of care in tort on the basis of an express term of
+the contract, especially if the end result for the plaintiff would be a wrong
+without a remedy.                       There was insufficient
+evidence to support a finding of deceit. The Court of Appeal properly concluded
+that Hydro should not be liable for fraudulent misrepresentation.  Cases Cited  By La Forest and McLachlin JJ.   By Iacobucci J. (dissenting in part)   Authors Cited  Baker,
+J. H.  An Introduction to English Legal History.  London: 
+Butterworths, 1979.  Blom, Joost. 
+"Remedies in Tort and Contract:  Where is the Difference?".  In
+Jeffrey Berryman, ed., Remedies:  Issues and Perspectives. 
+Scarborough, Ont.:  Carswell, 1991, 395.  Chitty on
+Contracts, vol. 1, 26th
+ed.  By A. G. Guest.  London:  Sweet & Maxwell, 1989.  Fifoot,
+C. H. S. History and Sources of the Common Law:  Tort and
+Contract.  London:  Stevens & Sons, 1949.  French,
+Christine.  "The Contract/Tort Dilemma" (1983), 5 Otago L. Rev.
+236.   Johnson,
+Howard.  "Contract and Tort:  Orthodoxy Reasserted!" (1990), 9 Int'l
+Banking L. 306.  Lewison, Kim.  The
+Interpretation of Contracts.  London:  Sweet & Maxwell, 1989.  McLachlin,
+Beverley M., and Wilfred J. Wallace.  The Canadian Law of
+Architecture and Engineering.  Toronto:  Butterworths, 1987.  McLauchlan,
+D. W.  "Assessment of Damages for Misrepresentations Inducing
+Contracts" (1987), 6 Otago L. Rev. 370.                       Glenn A. Urquhart, Arthur M. Grant and Gordon D.
+Phillips, for British Columbia Hydro and Power Authority.                     Donald J. Sorochan, Q.C., Meredith A. Quartermain
+and Mari A. Worfolk, for BG Checo International Ltd.  //La Forest and McLachlin JJ.//                         Hydro argues first that it
+carried out the clearing required by clause 6.01.03 of the contract, and
+second, that in any event it was up to Checo to satisfy itself that the site
+was adequately cleared before tendering.  In other words, if there was
+ambiguity as to what was meant by "cleared" Checo had assumed the
+risk of clearing which might not meet its expectations.                     The trial judge found Hydro
+liable for the tort of deceit.  The Court of Appeal found that the evidence
+fell short of supporting that finding, there being no evidence of intention to
+deceive.  That conclusion cannot seriously be contested and Checo's
+cross-appeal on the issue of fraudulent misrepresentation must accordingly be
+dismissed. The only issues therefore are whether claims lie in contract and
+tort and if so, what is the measure of damages.  The Claim in Contract                     The parties chose to set out
+their respective rights and obligations in the contract they signed.  They
+chose to incorporate the tender documents into the contract. Thus all rights
+and obligations flowing from the tender documents onward are set by the
+parties' own agreement.                     It follows that a court, in
+assessing the rights and obligations of the parties, must commence with the
+contract.  It must look to what the parties themselves had to say about those
+rights and obligations.                      It is a cardinal rule of the
+construction of contracts that the various parts of the contract are to be
+interpreted in the context of the intentions of the parties as evident from the
+contract as a whole:  K. Lewison, The Interpretation of Contracts
+(1989), at p. 124; Chitty on Contracts (26th ed. 1989), vol. 1, at p.
+520.  Where there are apparent inconsistencies between different terms of a
+contract, the court should attempt to find an interpretation which can
+reasonably give meaning to each of the terms in question.  Only if an interpretation
+giving reasonable consistency to the terms in question cannot be found will the
+court rule one clause or the other ineffective: Chitty on Contracts, supra,
+at p. 526; Lewison, supra, at p. 206; Git v. Forbes (1921), 62
+S.C.R. 1, per Duff J. (as he then was), dissenting, at p. 10, rev'd
+[1922] 1 A.C. 256; Hassard v. Peace River Co-operative Seed Growers
+Association Ltd., [1954] 2 D.L.R. 50 (S.C.C.), at p. 54.  In this process,
+the terms will, if reasonably possible, be reconciled by construing one term as
+a qualification of the other term: Forbes v. Git, [1922] 1 A.C. 256; Cotter
+v. General Petroleums Ltd., [1951] S.C.R. 154.   A frequent result of this
+kind of analysis will be that general terms of a contract will be seen to be
+qualified by specific terms -- or, to put it another way, where there is
+apparent conflict between a general term and a specific term, the terms may be
+reconciled by taking the parties to have intended the scope of the general term
+to not extend to the subject-matter of the specific term.                     Approaching the matter in this
+way, the provisions referred to above are capable of reconciliation.  The
+parties agreed that Hydro should bear the responsibility of clearing the
+right-of-way.  The only exception was as to the removal of trees and debris in
+certain valley and gully crossings.  The general obligation of Checo for
+misunderstandings and errors in the tender documents and for satisfying itself
+as to the site, the work and all contingencies must not have been intended to
+negate the specific obligation for clearing which the contract placed squarely
+on the shoulders of Hydro. The failure to discharge that responsibility was not
+a "misunderstanding" or "error" in the tender documents
+within clause 2.03.  Nor was it relevant to the tenderer's inspection of the
+site or responsibility for risks and contingencies that might affect the bid
+within clause 4.04.  Given the specific nature of Hydro's obligation to clear
+the right-of-way, the site inspection and contingencies referred to can reasonably
+be read as relating to matters other than clearing, which was a clearly
+assigned obligation and thus not a contingency. The same applies to the
+provision for preparation of the site (clause 7.01.02).  In this way, the
+clause placing on Hydro the obligation to clear the right-of-way can be
+reconciled with the clauses placing on Checo the consequences of errors and
+misunderstandings in the tender documents and the obligation to satisfy itself
+as to the site, the work and contingencies.                     We thus conclude that the
+contract required Hydro to clear the right-of-way as specified in clause
+6.01.03 of the contract and that duty was not negated by the more general
+clauses relating to errors and misunderstandings in tendering, site conditions
+and contingencies.  This was the view of the trial judge and the majority in
+the Court of Appeal. The trial judge, based on the evidence he heard, went on
+to define what "clearing" meant in the contract; it meant that
+"the right-of-way would be free of logs and debris."  The majority of
+the Court of Appeal accepted this conclusion.  So must we.  Since it is not
+seriously contended that Hydro cleared the right-of-way to this standard,
+Hydro's breach of contract is established.                     The plaintiff suing for breach
+of contract is to be put in the position it would have been in had the contract
+been performed as agreed.  The measure of damages is what is required to put
+Checo in the position it would have been in had the contract been performed as
+agreed.  If the contract had been performed as agreed, Hydro would have removed
+the logs and debris from the right-of-way.  Checo would not have been required
+to do the additional work that was necessitated by reason of the work site
+being improperly cleared.  It might also have avoided certain overhead.   The
+contract stipulated 15 percent for overhead and profit on extra work.  Checo
+may be entitled to a portion of this sum for overhead.  It would not be
+entitled to profit on the cost of clearing the right-of-way, since that would
+put Checo in a better position than it would have been had Hydro performed its
+contract; Checo never bargained for profit on this work, which was totally
+outside the parties' expectations.  As will be explained in greater detail
+later in these reasons, we share Iacobucci J.'s view that if damages are to be
+assessed for breach of contract regarding the improper clearing of the work
+site, the case should be returned to trial for that to be done.  The Claim in Tort  The Theory of Concurrency                     The first question is whether
+the contract precludes Checo from suing in tort.                     Iacobucci J. concludes that a
+contract between the parties may preclude the possibility of suing in tort for
+a given wrong where there is an express term in the contract dealing with the
+matter.  We would phrase the applicable principle somewhat more narrowly.  As
+we see it, the right to sue in tort is not taken away by the contract in such a
+case, although the contract, by limiting the scope of the tort duty or waiving
+the right to sue in tort, may limit or negate tort liability.                     In our view, the general rule
+emerging from this Court's decision in Central Trust Co. v. Rafuse,
+[1986] 2 S.C.R. 147, is that where a given wrong prima facie supports an
+action in contract and in tort, the party may sue in either or both, except
+where the contract indicates that the parties intended to limit or negative the
+right to sue in tort.  This limitation on the general rule of concurrency
+arises because it is always open to parties to limit or waive the duties which
+the common law would impose on them for negligence.  This principle is of great
+importance in preserving a sphere of individual liberty and commercial
+flexibility.  Thus if a person wishes to engage in a dangerous sport, the
+person may stipulate in advance that he or she waives any right of action
+against the person who operates the sport facility: Dyck v. Manitoba
+Snowmobile Association Inc., [1985] 1 S.C.R. 589.  Similarly, if two
+business firms agree that a particular risk should lie on a party who would not
+ordinarily bear that risk at common law, they may do so.  So a plaintiff may
+sue either in contract or in tort, subject to any limit the parties themselves
+have placed on that right by their contract. The mere fact that the parties
+have dealt with a matter expressly in their contract does not mean that they
+intended to exclude the right to sue in tort.  It all depends on how
+they have dealt with it.                     Viewed thus, the only limit on
+the right to choose one's action is the principle of primacy of private
+ordering -- the right of individuals to arrange their affairs and assume risks
+in a different way than would be done by the law of tort.  It is only to the
+extent that this private ordering contradicts the tort duty that the tort duty
+is diminished.  The rule is not that one cannot sue concurrently in contract
+and tort where the contract limits or contradicts the tort duty.  It is rather
+that the tort duty, a general duty imputed by the law in all the relevant
+circumstances, must yield to the parties' superior right to arrange their
+rights and duties in a different way.  In so far as the tort duty is not
+contradicted by the contract, it remains intact and may be sued upon. For
+example, where the contractual limitation on the tort duty is partial, a tort
+action founded on the modified duty might lie. The tort duty as modified by the
+contractual agreement between the parties might be raised in a case where the
+limitation period for an action for breach of contract has expired but the
+limitation period for a tort action has not.  If one says categorically, as we
+understand Iacobucci J. to say, that where the contract deals with a matter
+expressly, the right to sue in tort vanishes altogether, then the latter two possibilities
+vanish.                     This is illustrated by
+consideration of the three situations that may arise when contract and tort are
+applied to the same wrong. The first class of case arises where the contract
+stipulates a more stringent obligation than the general law of tort would
+impose.  In that case, the parties are hardly likely to sue in tort, since they
+could not recover in tort for the higher contractual duty.  The vast majority
+of commercial transactions fall into this class.  The right to sue in tort is not
+extinguished, however, and may remain important, as where suit in contract is
+barred by expiry of a limitation period.                     The second class of case
+arises where the contract stipulates a lower duty than that which would be
+presumed by the law of tort in similar circumstances.  This occurs when the
+parties by their contract indicate their intention that the usual liability
+imposed by the law of tort is not to bind them.  The most common means by which
+such an intention is indicated is the inclusion of a clause of exemption or
+exclusion of liability in the contract. Generally, the duty imposed by the law
+of tort can be nullified only by clear terms.  We do not rule out, however, the
+possibility that cases may arise in which merely inconsistent contract terms could
+negative or limit a duty in tort, an issue that may be left to a case in which
+it arises.  The issue raises difficult policy considerations, viz. an
+assessment of the circumstances in which contracting parties should be
+permitted to agree to contractual duties that would subtract from their general
+obligations under the law of tort.  These important questions are best left to
+a case in which the proper factual foundation is available, so as to provide an
+appropriate context for the decision.  In the second class of case, as in the
+first, there is usually little point in suing in tort since the duty in tort
+and consequently any tort liability is limited by the specific limitation to
+which the parties have agreed.  An exception might arise where the contract
+does not entirely negate tort liability (e.g., the exemption clause applies
+only above a certain amount) and the plaintiff wishes to sue in tort to avail
+itself of a more generous limitation period or some other procedural advantage
+offered by tort.                     The third class of case arises
+where the duty in contract and the common law duty in tort are co-extensive. 
+In this class of case, like the others, the plaintiff may seek to sue
+concurrently or alternatively in tort to secure some advantage peculiar to the
+law of tort, such as a more generous limitation period.  The contract may
+expressly provide for a duty that is the same as that imposed by the common
+law.  Or the contractual duty may be implied.  The common calling cases, which
+have long permitted concurrent actions in contract and tort, generally fall
+into this class.  There is a contract.  But the obligation under that contract
+is typically defined by implied terms, i.e., by the courts. Thus there is no
+issue of private ordering as opposed to publicly imposed liability.  Whether
+the action is styled in contract or tort, its source is an objective
+expectation, defined by the courts, of the appropriate obligation and the
+correlative right.                     The case at bar, as we see it,
+falls into this third category of case.  The contract, read as we have
+proposed, did not negate Hydro's common law duty not to negligently
+misrepresent that it would have the right-of-way cleared by others.  Had Checo
+known the truth, it would have bid for a higher amount.  That duty is not
+excluded by the contract, which confirmed Hydro's obligation to clear the
+right-of-way.  Accordingly, Checo may sue in tort.                     We conclude that actions in
+contract and tort may be concurrently pursued unless the parties by a valid
+contractual provision indicate that they intended otherwise.  This excludes, of
+course, cases where the contractual limitation is invalid, as by fraud, mistake
+or unconscionability.  Similarly, a contractual limitation may not apply where
+the tort is independent of the contract in the sense of falling outside the
+scope of the contract, as the example given in Elder, Dempster & Co. v.
+Paterson, Zochonis & Co., [1924] A.C. 522 (H.L.), of the captain of a
+vessel falling asleep and starting a fire in relation to a claim for cargo damage.  The Express-Implied Distinction                     Our colleague asserts that
+where the parties deal with a matter expressly in their contract, all right to
+sue in tort is lost.  We have suggested, with great respect, that this
+proposition is unnecessarily draconian.  The converse of this proposition is that
+implied terms of contracts do not oust tort liability.                     Although Iacobucci J. states
+at p. 000 of his reasons that he is leaving open the question of 
+"[w]hether or not an implied term of a contract can define a duty of care
+in such a way that a plaintiff is confined to a remedy in contract", the
+distinction between implied and express terms figures in his discussion of the
+effect of contract terms on tort liability.  For example, at p. 000 of his
+reasons, our colleague states:  The compromise
+position adopted by Le Dain J. was that any duty arising in tort will be
+concurrent with duties arising under the contract, unless the duty which the
+plaintiff seeks to rely on in tort is also a duty defined by an express term of
+the contract.  [The emphasis is Iacobucci J.'s.]  It would seem to follow from this statement that
+concurrent duties in contract and tort would lie where the contract duty is
+defined by an implied term of the contract, but not where the term is
+express.  In these circumstances, it is not amiss to consider the utility of
+the distinction between express and implied terms of the contract as a basis
+for determining when a contract term may affect tort liability.                     In our view, using the
+express-implied distinction as a basis for determining whether there is a right
+to sue in tort poses a number of problems.  The law has always treated express
+and implied contract terms as being equivalent in effect.  Breach of an implied
+term is just as serious as breach of an express term.  Moreover, it is difficult
+to distinguish between them in some cases.  Implied terms may arise from
+custom, for example, or from the conduct of the parties.  In some cases words
+and conduct intermingle.  Why should parties who were so certain in their
+obligations that they did not take the trouble to spell them out find
+themselves able to sue in tort, while parties who put the same matters in
+writing cannot?                     Nor is it evident to us that
+if parties to a contract choose to include an express term in the contract
+dealing with a particular duty relevant to the contract, they intended to oust
+the availability of tort remedies in respect of that duty.  In such cases, the
+intention may more likely be:  (a)  To
+make it clear that the parties understand particular contractual duties to exist
+as between them, rather than having the more uncertain situation of not knowing
+whether a court will imply a particular duty under the contract; and/or  (b)  To
+prevent litigation (for breach of contract) in the event of disputes arising --
+the more certain the parties' respective rights and obligations (as is usually
+the case when those rights and obligations are set out in express contractual
+terms), the more likely it will be that disputes between the parties can be
+settled.                     While the tort duty may be
+limited by the contractual terms so as to be no broader than the contract duty,
+there is no reason to suppose that merely by stipulating a duty in the
+contract, the parties intended to negate all possibility of suing in tort.                     Indeed, a little further on in
+his reasons, our colleague appears to concede that the ouster of recourse to
+tort law must depend on more than the fact the contract has expressly dealt
+with the matter.  He indicates at p. 000 of his reasons that whether the
+parties will be held to have intended to oust tort remedies in favour of
+contract remedies will depend on the context, including:  (a)  whether
+the contract is commercial or non-commercial;  (b)  whether
+the parties were of equal bargaining power;  (c)  whether
+the court is of the view that to find such an intention will lead to an unjust
+result in the court action.                     Thus the question of whether a
+concurrent action in tort lies would depend not only on whether the contract
+expressly deals with the matter, but also on the elastic distinctions between
+commercial and non-commercial contracts, the court's perception of relative
+bargaining power, and finally, whether the court sees the result as just or
+unjust.  We do not agree that parties contracting in a commercial context
+should be presumed to be more desirous of ousting the availability of tort
+remedies than parties contracting in a non-commercial context.  If there are
+particular commercial relationships in which the parties wish remedies for
+disputes between them to be in contract only, then they may be expected to
+indicate this intention by including an express clause in the contract waiving
+the right to sue in tort.  As for equality of bargaining power and the court's
+view of whether the result would be just or unjust, we fear they would
+introduce too great a measure of uncertainty.  Parties should be able to
+predict in advance whether their remedies are confined to contract or whether
+they can sue concurrently in tort and contract.  Finally, it seems to us that
+Iacobucci J.'s test for determining when concurrent liability is precluded will
+be difficult to apply in situations where the express contractual term does not
+exactly overlap a tort duty.  In the present case, the contractual term was
+identical to the negligent misrepresentation, but that is not often to be
+expected.  The Authorities                     The authorities, as we read
+them, do not support the conclusion that the express mention of a matter in the
+contract, and only its express mention in the contract, ousts any possibility
+of suing in tort.  The opposing schools of thought on the concurrent liability
+issue have not been divided along such lines.  Instead, the issue has been
+whether there should be concurrent liability where any term of a contract, either
+express or implied, deals with the same duty imposed by tort law.  For
+example, in Lister v. Romford Ice and Cold Storage Co., [1957] A.C. 555
+(H.L.), Viscount Simonds noted (at p. 573):  It is trite law
+that a single act of negligence may give rise to a claim either in tort or for
+breach of a term express or implied in a contract.  [Emphasis added.]                     Similarly, in Canadian
+Indemnity Co. v. Andrews & George Co., [1953] 1 S.C.R. 19, Rand J.
+stated (at p. 26):  Where a
+contract expressly or by implication of fact provides for a performance
+with care, as in the case of carriers, the general duty is clearly not
+displaced and the person injured or damaged in property may sue either in
+contract or tort.  [Emphasis added.]                     On the other side of the
+concurrent liability debate, Wilson J.A. (as she then was), arguing in favour
+of liability lying in contract only, stated at p. 408 in her dissenting opinion
+in the Ontario Court of Appeal decision of Dominion Chain Co. v. Eastern
+Construction Co. (1976), 68 D.L.R. (3d) 385, aff'd sub nom. Giffels
+Associates Ltd. v. Eastern Construction Co., [1978] 2 S.C.R. 1346:                     The
+borderline of contract and tort in my opinion exists where a contract either
+expressly or impliedly imposes on A a duty of care vis-à-vis B, the other
+party to the contract, to do the things undertaken by the contract without
+negligence and there is also coincidental with, but independent of, the
+contract a duty of care upon A in tort.... [W]here the person to whom the duty
+is owed, the scope of the duty and the standard of care have all been expressly
+or impliedly agreed upon by the parties, it appears to me somewhat
+artificial to rely upon Lord Atkin's "neighbour" test to determine
+whether or not the duty is owed to the particular plaintiff and as to the
+requisite standard of care the defendant must attain.  [Emphasis added.]                     It is perhaps a source of some
+confusion that in the course of his judgment in Central Trust Co. v. Rafuse,
+supra, Le Dain J. stated (at p. 205):  Where the common
+law duty of care is co-extensive with that which arises as an implied term of
+the contract it obviously does not depend on the terms of the contract, and
+there is nothing flowing from contractual intention which should preclude
+reliance on a concurrent or alternative liability in tort.                     In our view, this passage
+should not be read as predicating the availability of concurrent liability in
+contract and tort on whether the contractual term is express or implied.  Le
+Dain J. is simply stating that tort liability lies where the contractual term
+is implied.  He does not go on to state that tort liability is always excluded
+by an express contractual term.  This happens only when the express contractual
+term negates the tort duty.  Thus in his summary of the applicable rules, Le
+Dain J. refers to exclusion clauses -- express contract terms that negate
+general liability -- as the kind of contract clause that may oust tort
+liability.                     Our colleague relies on a
+second passage from Central Trust Co. v. Rafuse, supra, at p.
+205, for the proposition that an express contractual term always ousts tort
+liability:                     What
+is undertaken by the contract will indicate the nature of the relationship that
+gives rise to the common law duty of care, but the nature and scope of the duty
+of care that is asserted as the foundation of the tortious liability must not
+depend on specific obligations or duties created by the express terms of the
+contract.  It is in that sense that the common law duty of care must be
+independent of the contract.  . . .  A claim cannot be said to be in
+tort if it depends for the nature and scope of the asserted duty of care on the
+manner in which an obligation or duty has been expressly and specifically
+defined by a contract.  Again, with respect, our understanding of the
+passage is different.  In our view, Le Dain J.'s use of the words 
+"created" and "depends" indicates the meaning of this
+passage is simply that for concurrent tort liability to be available there must
+be a duty of care in tort that would exist even in the absence of the specific
+contractual term which created the corresponding contractual obligation.                     This interpretation of Rafuse
+accords with the view taken in other cases that concurrent liability in tort
+and contract is available where the contractual obligation in question arises
+from an express term of the contract.  For example, in Batty v. Metropolitan
+Property Realisations Ltd., [1978] Q.B. 554, the English Court of Appeal
+ruled that the plaintiffs were entitled to judgment against the defendant
+developers in either contract or tort where a house leased to the plaintiffs on
+a 999-year lease was gradually becoming uninhabitable due to instability of the
+land on which the house was built.  The contractual obligation owed to the
+plaintiffs by the developers arose from an express warranty in the contract
+between the plaintiffs and the developers that the house had been built
+"in an efficient and workmanlike manner and of proper materials and so as
+to be fit for habitation . . ." (p. 563).  This contractual
+obligation in effect corresponded with a tort duty "to examine with
+reasonable care the land, which in this case would include adjoining land, in
+order to see whether the site was one on which a house fit for habitation could
+safely be built" (p. 567).                     Nor do we see the reference by
+Le Dain J. in Rafuse to Jarvis v. Moy, Davies, Smith, Vandervell
+& Co., [1936] 1 K.B. 399 (C.A.), and other related English case law
+differentiating tort and contract, as supportive of a distinction between express
+and implied contractual terms.  The issue in those cases was one of classifying
+the causes of action as either tort or contract for procedural
+purposes under the successive County Courts Acts.  Indeed, they may be seen as
+resting on the assumption that, apart from statutory prescription, concurrent
+actions may lie.  Summary                     We conclude that neither
+principle, the authorities nor the needs of contracting parties support the
+conclusion that dealing with a matter by an express contract term will, in
+itself, categorically exclude the right to sue in tort.  The parties may by their
+contract limit the duty one owes to the other or waive the right to sue in
+tort.  But subject to this, the right to sue concurrently in tort and contract
+remains.                     In the case at bar, the
+contract did not limit the duty of care owed by Hydro to Checo.  Nor did Checo
+waive its common law right to bring such tort actions as might be open to it. 
+It follows that Checo was entitled to claim against Hydro in tort.  Damages in Tort and Contract in this Case                     The measure of damages in
+contract and for the tort of negligent misrepresentation are:  Contract:  the plaintiff is to be put in the position it
+would have been in had the contract been performed as agreed.  Tort:  the plaintiff is to be put in the position it
+would have been in had the misrepresentation not been made.                     At trial the plaintiff relied
+primarily on fraudulent misrepresentation, with its claim in contract being in
+the alternative to the claim in tort.  The apparent reason for this approach
+was that the plaintiff had calculated its damages in tort as exceeding the
+damages in contract.  In situations of concurrent liability in tort and
+contract, however, it would seem anomalous to award a different level of
+damages for what is essentially the same wrong on the sole basis of the form of
+action chosen, though, of course, particular circumstances or policy may
+dictate such a course.                     The trial judge found for the
+plaintiff in fraudulent misrepresentation, and seems at some points in his
+judgment to have accepted the argument of the plaintiff that but for the
+misrepresentation the plaintiff would not have entered into the contract with
+Hydro.  Accordingly, Checo's damages were calculated on the basis of what Checo
+lost overall on the contract.  The trial judge also awarded the plaintiff a 15
+percent markup for overhead and profit.  With respect, while including an
+amount for overhead is appropriate where the damages are assessed as equalling
+the costs to the plaintiff of entering a contract it would not otherwise have
+entered, including as well something for profit is not appropriate.  The trial
+judge's purported justification for this part of the damage award is not
+convincing.  To fit this part of the award within a tort analysis, one would
+have to assume that but for the misrepresentation the plaintiff would have
+increased its bid by exactly the amount of the loss, plus overhead and profit
+(and would have been awarded the contract).  This assumption contradicts the
+apparent assumption by the trial judge at other points of his judgment that
+Checo would not have entered the contract had it known the true state of
+affairs.                      The majority in the Court of
+Appeal not only substituted a finding of negligent misrepresentation for a
+finding of fraudulent misrepresentation, but also made an express finding
+regarding what the plaintiff would have done had the misrepresentation not been
+made; contrary to the trial judge's apparent assumption, the plaintiff would
+have entered the contract but at a higher price.  As Hinkson J.A., put it,
+writing for the majority:  The effect of
+[the] negligent misrepresentation was to induce the plaintiff to enter into a
+contract at a price less than it would have had it known the true facts.                     ((1990), 44 B.C.L.R. (2d) 145,
+at p. 158.)  Hinkson J.A. went on to find that the increase in
+Checo's bid had it known the true facts would have equalled the cost of the
+extra work made necessary by the improperly cleared work site, plus a 15
+percent margin for overhead and profit.                      In the situation of
+concurrency, the main reason to expect a difference between tort and contract
+damages is the exclusion of the bargain elements in standard tort
+compensation.  In the terminology of L. L. Fuller and W. R. Purdue,
+as set out in their article, "The Reliance Interest in Contract
+Damages" (1936-37), 46 Yale L.J. 52 and 373, contract is normally
+concerned with "expectation" damages while tort is concerned with
+"reliance" damages.  The denial of "expectation" or
+"loss of bargain" damages in a misrepresentation case like the
+present will occur when it is concluded, for example, that but for the
+misrepresentation, no contract would have been entered at all; this was the
+situation that the Court found in Rainbow Industrial Caterers Ltd. v.
+Canadian National Railway Co., [1991] 3 S.C.R. 3.  The Rainbow
+assessment of damages can obviously lead to a different quantum of damages
+because this method frees the parties from the burden or benefit of the rest of
+their bargain.  The assessment of damages in a Rainbow situation could
+be lower or higher than the contract damages depending on whether the contract
+was a good or bad bargain; see D. W. McLauchlan, "Assessment of
+Damages for Misrepresentations Inducing Contracts" (1987), 6 Otago L.
+Rev. 370, at pp. 375-78.  We note that a tendency towards similar damages
+in tort and contract can be identified even in Rainbow situations; see
+J. Blom, "Remedies in Tort and Contract:  Where is the Difference?"
+in J. Berryman, ed., Remedies: Issues and Perspectives (1991), 395, at
+pp. 401-2.                     This is not a case like Rainbow. 
+Here the evidence at trial concerning Checo's desire to break into the B.C.
+market already provides solid support for the conclusion reached by the Court
+of Appeal.  On the basis of that evidence, and in light of the absence in the
+trial judge's reasons of a clear conclusion as to what Checo would have done
+had the misrepresentation not been made, the Court of Appeal was in our view
+justified in making its own finding that Checo would have entered the contract
+in any event, albeit at a higher bid.  This conclusion having been reached, one
+would expect that the quantum of damages in tort and contract would be similar
+because the elements of the bargain unrelated to the misrepresentation are
+reintroduced.  This means not giving the plaintiff compensation for any losses
+not related to the misrepresentation, but resulting from such factors as the
+plaintiff's own poor performance, or market or other forces that are a normal
+part of business transactions.                     In tort, Checo is entitled to
+be compensated for all reasonably foreseeable loss caused by the tort.  The
+Court of Appeal was of the view that Checo, had it known the true facts (i.e.,
+had the tort not been committed) would have increased its bid by an amount
+equal to the cost of the extra work made necessary by the improperly cleared
+work site plus profit and overhead.  Such loss was not too remote, being
+reasonably foreseeable.  But to compensate only for the direct costs of
+clearing is to suggest that the only tort was the failure to clear.  The real
+fault is that Hydro misrepresented the situation and Checo may have
+relied on that representation in performing its other obligations under the
+contract.  For example, having to devote its resources to that extra work might
+have prevented Checo from meeting its original schedule, thereby resulting in
+Checo incurring acceleration costs in order to meet the contract completion
+date.  Such costs would also arguably be reasonably foreseeable.  In our view,
+the matter should be referred back to the trial division for determination of
+whether any such indirect losses were the foreseeable results of the
+misrepresentation.                     There remains the issue of
+assessment of damages for breach of contract.  As implied above, it appears
+that the majority of the Court of Appeal intended to remit all breach of
+contract claims to trial, including the breach of contract claim related to the
+obligation of Hydro to have the work site cleared by others.  We agree that
+this is the most appropriate disposition with respect to the breach of contract
+claims.  On the claim for breach of contract Checo is to be put in the position
+it would be in had the work site been cleared properly, and is therefore to be
+reimbursed for all expenses incurred as a result of the breach of contract,
+whether expected or not, except, of course, to the extent that those expenses
+may have been so unexpected that they are too remote to be compensable for
+breach of contract.  We note that in this respect the test for remoteness in
+contract may be of no practical difference from the test of reasonable
+foreseeability applicable in tort:  see Asamera Oil Corp. v. Sea Oil &
+General Corp., [1979] 1 S.C.R. 633, at p. 673, and B.D.C. Ltd. v.
+Hofstrand Farms Ltd., [1986] 1 S.C.R. 228, at pp. 243-44.  Viewed thus, the
+damages in contract would include not only the costs flowing directly from the
+improperly cleared work site, but also consequent indirect costs such as
+acceleration costs due to delays in construction.  Conclusion                     We would dismiss the appeal,
+allow the cross-appeal in part and refer the question of damages in tort and
+contract to the trial division to be reassessed in accordance with the
+principles set forth in these reasons.                     The reasons of Sopinka and
+Iacobucci JJ. were delivered by   I.  Facts                     The appellant and respondent
+on the cross-appeal, B.C. Hydro and Power Authority, is a British Columbia
+Crown corporation.  The respondent and appellant on the cross-appeal, BG Checo
+International Ltd., is a large corporation in the business of constructing
+electrical transmission lines and distribution systems.  I will refer to the
+parties as "Hydro" and "Checo", respectively.                     In November of 1982, Hydro
+called for tenders to erect transmission towers and to string transmission
+lines.  In December 1982, prior to submitting its tender for the contract,
+Checo's representative inspected the area by helicopter.  He noted that the
+right-of-way had been partially cleared, and also noted evidence of ongoing
+clearing activity.  The representative assumed that the right-of-way would be
+further cleared prior to the commencement of Checo's work.  On January 2, 1983,
+Checo submitted its tender, and on February 15, 1983, Hydro accepted Checo's
+tender and the parties entered into a written contract.  Checo contracted to
+construct 130 towers and install insulators, hardware and conductors over 42
+kilometres of right-of-way near Sechelt, British Columbia.                     In fact, no further clearing
+of the right-of-way ever took place.  The "dirty" condition of the
+right-of-way caused Checo a number of difficulties in completing its work. 
+Checo sued Hydro seeking damages for negligent misrepresentation, or, in the
+alternative, for breach of contract.                     The evidence at trial
+indicated that Hydro had contracted the clearing out to another company, and
+that, to Hydro's knowledge, the work was not done adequately.  There was no
+direct discussion between the representatives of Checo and Hydro concerning
+this issue.  There was evidence led at trial that the contract between the
+parties did not specify clearing standards with the same degree of detail as
+was present in similar contracts entered into by Hydro.                     During the trial, Hydro
+tendered documents in evidence which Checo had unsuccessfully attempted to
+discover.  These documents indicated that Hydro was aware of the problem with
+the clearing and of the impact that these problems would have on the successful
+tenderer.  As a result, Checo amended its statement of claim to include a claim
+in fraud.                     The trial judge found that
+Hydro had acted fraudulently in its dealings with Checo and awarded Checo
+$2,591,580.56, being "the total loss suffered by [Checo] as a result of
+being fraudulently induced to enter into this contract".  Hydro appealed
+to the Court of Appeal for British Columbia, which rejected the finding of
+fraud, but found that there had been a negligent misrepresentation which
+induced Checo to enter into the contract.  The Court of Appeal awarded the sum
+of $1,087,729.81, for the misrepresentation, and referred the question of
+breach of contract and damages flowing therefrom to the British Columbia
+Supreme Court.  Checo's cross-appeal for punitive damages and for a higher
+scale of costs was dismissed: (1990), 44 B.C.L.R. (2d) 145, 4 C.C.L.T. (2d)
+161, 41 C.L.R. 1, [1990] 3 W.W.R. 690.                     It will be helpful to set out
+the relevant provisions of the contract.  The terms of the contract, No.
+HA-8071, are identical to the tender documents.  The critical clauses are 2.03,
+4.04 and 6.01.03.  I have highlighted that portion of clause 6.01.03 which
+Checo alleges founds the misrepresentation by Hydro.  2.03TENDERER'S
+RESPONSIBILITY  It shall be the
+Tenderer's responsibility to inform himself of all aspects of the Work and no
+claim will be considered at any time for reimbursement for any expenses
+incurred as a result of any misunderstanding in regard to the conditions of the
+Work.  Should any details necessary for a clear and comprehensive understanding
+be omitted or any error appear in the Tender Documents or should the Tenderer
+note facts or conditions which in any way conflict with the letter or spirit of
+the Tender Documents, it shall be the responsibility of the Tenderer to obtain
+clarifications before submitting his Tender.  [There follows some technical
+details.]  Neither B.C.
+Hydro nor the Engineer shall be responsible for any instructions or information
+given to any Tenderer other than by the Purchasing Agent, in accordance with
+this Clause.  4.04INSPECTION
+OF SITE AND SUFFICIENCY OF TENDER  The Contractor
+shall inspect and examine the Site and its surroundings and shall satisfy
+himself before submitting his Tender as to the nature of the ground and
+sub-soil, the form and nature of the Site, the quantities and nature of work
+and materials necessary for completion of the Work, the means of access to the
+Site, the accommodation and facilities he may require, and in general shall
+himself obtain all necessary information as to risks, contingencies, and other
+circumstances which may influence or affect his Tender.  Without limiting the
+generality of the foregoing, the Contractor shall satisfy himself of any
+special risks, contingencies, regulations, safety requirements, and other
+circumstances which may be encountered.  The Contractor
+shall be deemed to have satisfied himself before tendering as to the
+correctness and sufficiency of his Tender for the Work and of the prices stated
+in the Schedule of Prices which prices shall (except insofar as it is otherwise
+provided in the Contract) cover all his obligations under the Contract and all
+matters and things necessary for the proper execution of the Work.  6.01.03WORK
+DONE BY OTHERS  Clearing of
+the right-of-way and foundation installation has been carried out by others and
+will not form part of this Contract.  Standing trees and
+brush have not been removed from the right-of-way in certain valley and gully
+crossings.  The Contractor shall be responsible for such further site
+preparation as required by Section 7.01. [Emphasis added.]  7.01.02PREPARATION
+OF THE SITE                     The
+Contractor shall carry out any preparation of the Site, including removal of
+logs, stumps and boulders,  as is necessary to perform his operations.                     The
+Contractor shall ensure that the transmission line is protected from possible
+slides, washouts or other hazards resulting from his road construction,
+grading, benching, and other site preparation work and operations.  Surface
+drainage shall be directed away from any structure foundations and guy anchors.                     Any
+condition resulting from the Contractor's work and which, in the opinion of the
+Engineer constitutes a hazard to the transmission line shall be corrected to
+the satisfaction of the Engineer.  II.  Judgments in the Courts Below  A.Supreme
+Court of British Columbia (Vancouver Reg. No. C864116, June 10, 1988)                     The trial began in November of
+1987 and ended in April of 1988, taking 28 days in total.  Cohen J. delivered
+his reasons on June 10, 1988.  Checo's original claim was for breach of
+contract or, in the alternative, negligent misrepresentation.  In the middle of
+the trial, Checo amended its statement of claim to advance a claim of
+fraudulent misrepresentation.                     The trial judge found that
+Hydro knew and failed to disclose to Checo the problems with the clearing
+contractors, that the right-of-way was improperly cleared, and that
+merchantable logs, which Hydro intended to salvage, remained on the
+right-of-way.  The trial judge also found that Hydro knew that the effect of the
+inadequate clearing would be to increase the costs of construction.  He then
+turned to a consideration of the issue of fraud.  Citing the principles set out
+in K.R.M. Construction Ltd. v. British Columbia Railway Co. (1981), 18
+C.L.R. 159 (B.C.S.C.), at p. 169; (1982), 18 C.L.R. 159 (B.C.C.A.), at p. 277,
+Cohen J. was satisfied that Hydro was guilty of fraudulent misrepresentation.                     It was significant to him
+that, in another contract for similar installations, Hydro included, in a
+paragraph "virtually identical" to s. 6.01.03, the words "logs
+and old logging slash will be on the right-of-way in some areas".  Cohen
+J. concluded (at pp. 61-62):  . . .
+the decision to remove any reference in clause 6.01.03 of [Checo's] contract to
+logs remaining on the right-of-way was deliberate.  Foxall [an employee of
+Hydro] insisted that it was not necessary to include any words of warning in
+[Checo's] contract because the existence of logs on the right-of-way would be
+obvious to a tenderer viewing the right-of-way.  However, when I consider that
+words warning of logs remaining on the right-of-way were excluded when
+[Hydro's] clearing standards allowed for logs to be left on the right-of-way, a
+fact not disclosed in the tender documents, [Hydro] knew merchantable logs were
+left on the right-of-way, knew of problems with clearing contractors not
+clearing to specifications, and knew of the delays and extra costs experienced
+by [another contractor] due to logs on the right-of-way obstructing
+construction activities, the deliberate omission of these words in the tender
+documents amounted, in my opinion, to a form of tender by ambush.                     The trial judge held that
+Hydro had a duty to be accurate in the information that it gave in its tender,
+and it was not open to it to say that Checo should not have assumed that the
+right-of-way would be cleared further, or that Checo should have made
+inquiries.  Here, the "ordinary meaning" of the words used in clause
+6.01.03 supported Checo's conclusion that the clearing was not yet complete. 
+This representation in clause 6.01.03 was a false one, and was a representation
+that Checo relied upon.  Cohen J. found that Checo would not have contracted on
+the basis that it did in the absence of the representation, and held Hydro
+liable for the "actual damages directly flowing from [its] fraud" (p.
+72).                     Cohen J. did not consider
+Checo's claim in breach of contract.  He declined to make an award of punitive
+damages.  B.  Court of Appeal of British Columbia
+(1990), 44 B.C.L.R. (2d) 145                     Hydro appealed from the
+judgment of Cohen J.  Checo cross-appealed seeking punitive damages and costs
+to be taxed on a higher scale.                     The Court of Appeal considered
+the issues of fraudulent misrepresentation, negligent misrepresentation and
+breach of contract.  Writing for the majority, Hinkson J.A. (Lambert, Toy and
+Cumming JJ.A. concurring) allowed Hydro's appeal on the issue of fraudulent
+misrepresentation.  However, Hinkson J.A. found Hydro liable for negligent
+misrepresentation (which had not been considered in the judgment at trial). 
+Hinkson J.A. remitted Checo's action for breach of contract back to the British
+Columbia Supreme Court.  Hinkson J.A. dismissed Checo's cross-appeal.  Southin
+J.A., writing for herself, dissented in the result.  While she agreed with Hinkson
+J.A. on the questions of fraudulent misrepresentation and breach of contract,
+she would have held that Hydro was not liable for negligent misrepresentation.                     In the result, Hydro's appeal
+was allowed in part, in that the Court of Appeal held unanimously that Hydro
+was not liable for fraudulent misrepresentation.  However, the Court of Appeal
+awarded damages against Hydro for negligent misrepresentation, but reduced the
+trial judge's damage award to $1,087,729.81.  Checo's cross-appeal was
+dismissed.                     (1)  Reasons of Hinkson
+J.A.                     Hinkson J.A. considered that
+the omission of the reference to logs and logging slash in clause 6.01.03 left
+"the meaning of `clearing' unqualified" (p. 153).  The majority of
+the Court held that the representation in clause 6.01.03 as to clearing
+"meant that logs and slash would be cleared from the right-of-way"
+(p. 155), and that the state of the right-of-way in November 1982 was not the
+state that the right-of-way would be in at the commencement of the contract. 
+The majority concluded that "on the date of the contract [Hydro], while
+having represented that the right-of-way would have been cleared, knew that it
+had not been done" (p. 156), and held that this was, therefore, a
+misrepresentation.                     Hinkson J.A. then turned to a
+consideration of the issue of negligent misrepresentation, which had not been
+considered by the trial judge.  Hydro had a duty to advise Checo about the
+amount of clearing which would in fact be carried out.  Hydro having failed to
+discharge this duty, it made a negligent misrepresentation, the effect of which
+"was to induce [Checo] to enter into a contract at a price less than it
+would have had it known the true facts" (p. 158).  Hinkson J.A. held that
+Checo had established a claim for negligent misrepresentation based on Donoghue
+v. Stevenson, [1932] A.C. 562 (H.L.), and Hedley Byrne & Co.  v.
+Heller & Partners Ltd., [1964] A.C. 465 (H.L.).                     In considering whether there
+was also liability for fraudulent misrepresentation, as the trial judge had
+found, Hinkson J.A. traced the development of the law of the tort of deceit. 
+He noted that although deceit, as it applies to corporations, is an evolving
+tort, fundamentally, "the plaintiff must establish an intention to deceive
+on the part of the defendant" (p. 161) and referred to the principles
+enunciated in Rainbow Industrial Caterers Ltd. v. Canadian National Railway
+Co. (1988), 30 B.C.L.R. (2d) 273 (C.A.).  On the facts of this case, the
+majority concluded that the "evidence fell short of establishing the
+necessary basis for a finding of fraud" because there was no evidence of a
+dishonest intention (at pp. 161-62):                     In
+the present case, a committee of 12 prepared the specifications.  The evidence
+does not reveal that any members of the committee were dishonest in the
+preparation of the specifications for this contract.  Rather, it is possible to
+conclude that they mistakenly and negligently believed that the requirement
+that a tenderer should take a view of the site would remedy any shortcomings in
+the specifications included in the terms of the contract.  Hydro's appeal was accordingly allowed on the
+issue of fraudulent misrepresentation.                     On the question of damages,
+the majority held that Checo was not entitled to recover the entire loss it
+suffered as a result of performing the contract.  The majority held that the
+decision of the Court of Appeal, affirming the trial judgment in Rainbow
+Industrial Caterers Ltd. v. Canadian National Railway Co. (1990), 43
+B.C.L.R. (2d) 1, affirmed on appeal to the Supreme Court of Canada, [1991] 3
+S.C.R. 3, could be distinguished from the case at bar, on the grounds that in
+the present case it was clear that Checo "would have entered into a
+contract if it had known the true state of affairs but would have adjusted the
+price of doing the work to reflect that state of affairs" (pp. 163-64). 
+The majority held that on the basis of the statement of claim and the evidence,
+the extra work attributable to an improperly cleared work-site cost Checo $945,852,01. 
+The majority allowed an additional 15 percent for overhead and profit, making a
+total damage award of $1,087,729.81.                     Hinkson J.A. ordered a new
+trial on the breach of contract issue (at p. 164):  . . .
+I would remit the action to the Supreme Court for determination as to whether
+or not a breach of contract occurred and, in the event that the defendant is
+found to have been in breach of contract, what damages flowed from such
+breach.  As the parties led evidence at trial in respect of this issue and with
+respect to the claim of the plaintiff for damages asserted to flow from breach
+of contract, the trial judge will be in a position on the basis of the record
+at trial to determine the issue of breach of contract and to assess damages if
+he finds a breach of contract occurred.  The question of whether further
+evidence should be permitted on this issue should be determined by the trial
+judge.                     Checo's cross-appeal was
+dismissed, punitive damages being inappropriate in view of the conclusion of
+the majority that the trial judge's finding of fraud was in error.                     (2)  Dissenting Reasons of
+Southin J.A.                     Southin J.A. was in agreement
+with the majority on the issue of fraud, and the disposition of the
+cross-appeal, but would not have awarded damages for negligent
+misrepresentation.                     With respect to the issue of
+fraudulent misstatement, Southin J.A. noted that, in her view, "[b]ecause
+a conscious intention to deceive, i.e., mens rea, is a necessary ingredient of
+the tort of deceit, it follows that a corporation cannot be liable for this
+tort except upon the principle respondeat superior" (p. 183).  In this
+context, Southin J.A. looked to evidence of the intent of Mr. Foxall, who was
+the Hydro employee in charge of the project.  For there to have been a fraudulent
+misrepresentation, Foxall would have to be shown to have consciously intended
+to deceive Checo.  Southin J.A. held that the trial judge had not asked himself
+the right questions and that there was no finding of the required fraudulent
+intent, and that therefore the claim in fraud could not stand.                     Southin J.A. then considered
+the issue of negligent misstatement.  After reviewing the case law, she
+concluded on the facts of this case that clause 6.01.03 did "not impart
+the information that between the date of the tender call and the date of commencement
+of work [Hydro would] clear the right of way to a standard thought suitable
+either by [Checo] or by a reasonable man" (pp. 200-1).  Further, clauses
+2.03 and 4.04 were evidence of Hydro's intention not to assume any duty to
+Checo (at p. 201):  "In my opinion, by cls. 2.03 and 4.04, [Hydro] was
+declaring that it was not assuming any duty of care to [Checo]."  Southin
+J.A. stated she was reinforced in her conclusion by the decision of the Alberta
+Court of Appeal in Catre Industries Ltd. v. Alberta (1989), 99 A.R. 321
+(C.A.), leave to appeal to the Supreme Court of Canada refused on March 8,
+1990, [1990] 1 S.C.R. vi.                     She did not agree with the
+majority that the measure of damages in this type of case is different
+depending on whether liability is founded in contract or in tort.                     As the trial judge had made no
+findings as to breach of contract, Southin J.A. agreed with Hinkson J.A. that
+there should be a new trial on the claim for breach of contract.  III.  Issues                     I would characterize the
+issues raised by Hydro's appeal as follows:  (1)  Can a
+pre-contractual representation which becomes a contractual term found liability
+in negligent misrepresentation?  (2)  If the
+answer to the first question is in the affirmative, did the terms of the
+contract nonetheless operate to exclude Hydro's potential liability for any
+misrepresentations?  (3)  If the
+terms of the contract did not exclude Hydro's potential liability for any
+misrepresentations, is Hydro liable for negligent misrepresentation?  (4)  Was there
+a breach of contract?                     I would characterize the
+issues raised by Checo's cross-appeal as follows:  (1)  Should
+Hydro be liable for fraudulent misrepresentation?  (2)  Did the
+Court of Appeal correctly assess Checo's damages for negligent
+misrepresentation?  IV.  Analysis                     In the interests of simplicity
+and brevity, I will deal with the issues raised by the appeal and cross-appeal
+somewhat out of order.  Because the issue of fraudulent misrepresentation can
+and should be resolved quickly, I will deal with it first.  Then I will
+examine, following Central Trust v. Rafuse, supra, the scope of
+the right of a party to a contract to sue the other party in tort (the
+tort-contract concurrency problem).  It will also be necessary for me to review
+the law of negligent misrepresentation (which was not at issue in Central
+Trust v. Rafuse), in order to determine the applicability of the principles
+in Central Trust v. Rafuse to pre-contractual representations.                     Because of my conclusions on
+these issues, it will not be necessary for me to decide whether there was a
+negligent misrepresentation, or whether the Court of Appeal's assessment of
+Checo's damages for negligent misrepresentation was correct.  It will, however,
+be necessary for me to consider the issue of breach of contract.  A.  Fraudulent Misrepresentation                     The trial judge found Hydro
+liable in deceit.  The Court of Appeal allowed Hydro's appeal on this issue. 
+In argument before us, Checo submitted that the trial judge's ruling on the
+question of deceit should be upheld.  At the hearing of the appeal, we
+indicated that we did not find it necessary to hear Hydro's response on the
+issue of deceit.                     In my view, there was
+insufficient evidence to support a finding of deceit (i.e. of fraudulent
+intention, as discussed further in these reasons) against Hydro, and the Court
+of Appeal correctly intervened to reverse the trial judge on this point.  As
+Hinkson J.A. noted (at pp. 161-62):  [A] committee
+of 12 prepared the specifications.  The evidence does not reveal that any members
+of the committee were dishonest in the preparation of the specifications for
+this contract.  Rather, it is possible to conclude that they mistakenly and
+negligently believed that the requirement that a tenderer should take a view of
+the site would remedy any shortcomings in the specifications included in the
+terms of the contract.  Consequently, Checo's cross-appeal on this point
+should be dismissed.  B.  Concurrent Liability in Tort and Contract                     (1)  Introduction                     It was Hydro's submission on
+this appeal that it ought to be liable, if at all, in contract and not in
+tort.  For the reasons which I will set out, I agree that in the circumstances
+of the case, while Hydro may be liable in contract for the representations
+which Checo complains of, Hydro cannot be liable in tort.  Given the importance
+of the general issue of tort-contract concurrency, I propose to explore it in
+some detail.                     As a general rule, the
+existence of a contract between two parties does not preclude the existence of a
+common law duty of care.  Subject to the substantive and procedural differences
+that exist between an action in contract and an action in tort,  both the duty
+of care and the liability may be concurrent in contract and tort.  In such
+circumstances, it is for the plaintiff to select the cause of action most
+advantageous to him or her.  That was the position adopted by Le Dain J. in Central
+Trust v. Rafuse, supra.  At pages 204-5, Le Dain J. said the
+following:                     The
+common law duty of care that is created by a relationship of sufficient
+proximity, in accordance with the general principle affirmed by Lord
+Wilberforce in Anns v. Merton London Borough Council, is not confined to
+relationships that arise apart from contract.  Although the relationships in Donoghue
+v. Stevenson, Hedley Byrne and Anns were all of a
+non-contractual nature and there was necessarily reference in the judgments to
+a duty of care that exists apart from or independently of contract, I find
+nothing in the statements of general principle in those cases to suggest that
+the principle was intended to be confined to relationships that arise apart
+from contract.  . . .  [T]he question is whether there is a relationship of
+sufficient proximity, not how it arose.  The principle of tortious liability is
+for reasons of public policy a general one.                     Le Dain J.'s conclusion that a
+plaintiff is generally entitled to choose, as between contract and tort, the
+cause of action most favourable to him or her was supported by a long line of
+Canadian and English authority, some of which I will consider below.  Central
+Trust v. Rafuse, supra, has since met with wide acceptance, and has
+been applied by a number of provincial Courts of Appeal.  See University of
+Regina v. Pettick (1991), 90 Sask. R. 241 (C.A.); Fletcher v. Manitoba
+Public Insurance Co. (1989), 68 O.R. (2d) 193 (C.A.); Pittman v.
+Manufacturers Life Insurance Co. (1990), 76 D.L.R. (4th) 320 (Nfld. C.A.); Clark
+v. Naqvi (1989), 99 N.B.R. (2d) 271 (C.A.), and Catre Industries Ltd. v.
+Alberta, supra.                     In Central Trust v. Rafuse,
+supra, Le Dain J. recognized two situations in which, notwithstanding
+what would otherwise be a breach of the duty of care in tort, a plaintiff's
+ability to sue in tort will be limited by the terms of the contract.  In one
+situation it is the liability in tort which is avoided or modified; in
+the other it is the duty in tort which is affected.                     Le Dain J. recognized that
+liability in tort can be limited or excluded by the terms of a contract.  A
+plaintiff will not be permitted to plead in tort in order to circumvent a
+contractual clause which excludes or limits the defendant's liability (at p.
+206):                     A
+concurrent or alternative liability in tort will not be admitted if its effect
+would be to permit the plaintiff to circumvent or escape a contractual
+exclusion or limitation of liability for the act or omission that would
+constitute the tort.  In this case, Hydro argues that the terms of the
+contract operated to exclude its liability for the conduct of which Checo
+complains.  If Hydro were correct, then Checo would no more be able to recover
+in tort than in contract.  As I will discuss below, I am of the opinion that
+the contract does not exclude Hydro's liability.                     As mentioned, Le Dain J. also
+recognized that the defendant's duty in tort could be affected by the terms of
+the contract.  If the duty of care alleged in tort is also defined by a
+specific term of the contract, then the plaintiff will be entitled only to
+those remedies which may be available pursuant to the contract.  The
+contractual relationship can bring the parties into sufficient proximity to
+give rise to a duty of care.  However, no duty of care in tort can be
+concurrent with a duty of care created by an express term of the contract.  In
+the words of Le Dain J. (at p. 205):                     What
+is undertaken by the contract will indicate the nature of the relationship that
+gives rise to the common law duty of care, but the nature and scope of the duty
+of care that is asserted as the foundation of the tortious liability must not depend
+on specific obligations or duties created by the express terms of the
+contract.  It is in that sense that the common law duty of care must be
+independent of the contract.  . . .  A claim cannot be said to be in tort if it
+depends for the nature and scope of the asserted duty of care on the manner in
+which an obligation or duty has been expressly and specifically defined by a
+contract.                     On the facts of Central
+Trust v. Rafuse, supra, Le Dain J. concluded that the defendant
+solicitors had concurrent duties of care in contract and in tort.  The contract
+between the parties was a general retainer.  Le Dain J. held that it was an
+implied term of the contract between solicitor and client that the solicitor
+perform his or her professional duties with "reasonable care, skill and
+knowledge" (p. 208).  The duty of care imposed on a solicitor at common
+law was the same as, and concurrent with, that imposed as an implied term of
+the contract (at p. 210):                     While
+the solicitor's duty of care has generally been stated . . . as
+arising as an implied term of the contract or retainer, the same duty arises as
+a matter of common law from the relationship of proximity created by the
+retainer.  In the absence of special terms in the contract determining the
+nature and scope of the duty of care in a particular case, the duties of care
+in contract and tort are the same.                     Given the nature of a
+solicitor's duties in contract and in tort, and given the particular contractual
+relationship between the parties, Le Dain J. concluded that the duty of care of
+the solicitors ran concurrently in tort and contract.  Moreover, there was no
+clause in the contract excluding or limiting the solicitors' liability which
+could affect the solicitors' liability in tort.                     In Central Trust v. Rafuse,
+supra, it was not necessary for Le Dain J. to test the boundaries
+of the situations he described in which a plaintiff's right to recover in tort
+would be limited.  As I mentioned, the contract before him had no clauses
+excluding or limiting the liability of the solicitors.  Moreover, the contract
+contained no express terms creating specific obligations or duties which might
+have excluded the solicitors' duty of care in tort.                     The facts of this case require
+me to do what it was not necessary for Le Dain J. to do in Central Trust v.
+Rafuse, supra: I must interpret and apply the principles to a
+contractual relationship in which there are exclusion or limitation of
+liability clauses which may exclude or limit liability in tort, as well as in
+contract, and in which there are clauses which may operate to exclude some
+parts of the duty of care in tort entirely.  To interpret and apply the
+principles in Central Trust v. Rafuse in the circumstances of this case,
+it will be necessary for me to review the authorities governing concurrency of
+obligations in tort and contract.  It will also be necessary for me to review
+the law governing clauses which exclude or limit liability.                     (2)  Concurrency of Tort
+and Contract                     The recent history of
+concurrency in tort and contract can be characterized as the development of a
+single regime of concurrency from two sets of rules governing concurrency in
+distinct circumstances.  Until Esso Petroleum Co. v. Mardon, [1976] 2 All
+E.R. 5 (C.A.), there was one set of rules governing obligations in tort and
+contract for the so-called "status relationships" and another set of
+rules governing obligations in tort and contract for all other relationships. 
+Since Esso Petroleum, supra, these two sets of rules have been
+assimilated into a single regime governing obligations in tort and contract for
+all relationships.  The principles set out by Le Dain J. in Central Trust v.
+Rafuse, supra, are representative of that single regime.  To understand
+better the principles articulated by Le Dain J. in Central Trust v. Rafuse,
+it will be helpful to review the process of development which preceded and
+informed the judgment of Le Dain J.                     (a)  The Two Strands of
+Concurrent Liability in Tort and Contract                     The modern conception of a
+distinct tort of negligence is relatively recent.  It has been argued that the
+genesis of negligence is to be found in the long series of "running
+down" cases in the eighteenth and nineteenth centuries, as ever increasing
+numbers of horses, carts and ships meant increasing numbers of accidents.  See
+J. H. Baker, An Introduction to English Legal History (1979), at
+pp. 342-45.  But it was not until the famous case of Donoghue v. Stevenson,
+supra, that a general tort of negligence was finally recognized.                     Negligence was not, however,
+unknown to the law before Donoghue v. Stevenson, or even before such
+running down cases as Leame v. Bray (1803), 3 East 593 (K.B.), 102 E.R.
+724.  Beginning in a much earlier time, negligence was actionable if the
+defendant's status imposed upon him or her a duty to take care in the exercise
+of his or her profession.  Persons with such status included bailees and those
+who practised a "common calling", including those of innkeeper and
+common carrier.  The liability of such persons arose independently of
+contract.  To quote Baker, supra, at pp. 277-78:  Many callings
+were, in any case, controlled by the common law or custom independently of
+contract; an innkeeper, for instance, was liable under the `custom of the
+realm' for his failure to look after a guest's goods or for refusing to
+accommodate a traveller.  . . .  [S]imilar duties could be imposed on
+professional men.  . . .  Another kind of status was that of bailee or
+custodian of property; it was held in 1487 that a shepherd having the custody
+of sheep was liable in assumpsit for failing to look after them, so that
+they were killed.                     That a defendant who owed a
+duty to take care because of his or her status was liable in negligence even if
+there also existed a contract between the parties is confirmed by the judgment
+of Dallas C.J. in Bretherton v. Wood (1821), 3 Brod. & B. 54 (Ex.
+Ch.), 129 E.R. 1203, at p. 1206 E.R.:                     This
+action is on the case [i.e. in negligence] against a common carrier, upon whom
+a duty is imposed by the custom of the realm, or in other words, by the common
+law, to carry and convey their goods or passengers safely and securely, so
+that, by their negligence or default, no injury or damage happen.  A breach of
+this duty is a breach of the law, and for this breach an action lies, founded
+on the common law, which action wants not the aid of a contract to support it.                                                                      ...                     Nor
+is it material, whether redress might or might not have been had in an action
+of assumpsit [i.e. in contract]; that must depend on circumstances of which
+this Court has no knowledge; but, whether an action of assumpsit might or might
+not have been maintained, still this action on the case may be maintained. 
+The action of assumpsit, as applied to cases of this kind, is of modern use. 
+The action on the case is as early as the existence of the custom or common law
+as to common carriers.  [Emphasis added.]                     There has been some debate as
+to the extent of these status relationships.  See Central Trust v. Rafuse,
+supra, at pp. 176-78; C. French, "The Contract/Tort Dilemma"
+(1983), 5 Otago L. Rev. 236, at pp. 273-78; and C. H. S.
+Fifoot, History and Sources of the Common Law:  Tort and Contract
+(1949), at pp. 157-59.  On what French calls the "traditional view",
+status relationships included carriers, innkeepers, surgeons, apothecaries,
+attorneys, veterinary surgeons, smiths, and barbers, together with the
+relationships of bailor/bailee and master/servant (at pp. 274-78).  Whatever
+the proper scope of the status relationships might have been, it is clear that
+they attracted concurrent liability in contract and in tort.  As Tindal C.J.
+expressed it in Boorman v. Brown (1842), 3 Q.B. 511 (Ex. Ch.), 114 E.R.
+603, at pp. 608-9 E.R., aff'd sub nom. Brown v. Boorman (1844),
+11 Cl. & Fin. 1 (H.L.), 8 E.R. 1003:                     That
+there is a large class of cases in which the foundation of the action springs
+out of privity of contract between the parties, but in which, nevertheless, the
+remedy for the breach, or non-performance, is indifferently either assumpsit or
+case upon tort, is not disputed.  Such are actions against attorneys, surgeons,
+and other professional men, for want of competent skill or proper care in the
+service they undertake to render:  actions against common carriers, against
+ship owners on bills of lading, against bailees of different descriptions:  and
+numerous other instances occur in which the action is brought in tort or
+contract at the election of the plaintiff.                                                                      ...                     The
+principle in all these cases would seem to be that the contract creates a duty,
+and the neglect to perform that duty, or the nonfeasance, is a ground of action
+upon a tort.                     As the judgment of Tindal C.J.
+in Boorman, supra, indicates, the range of status relationships
+was seen in the nineteenth century as extensive (the profession at issue in Boorman
+was that of commodities broker).  In fact, in the judgment of the House of
+Lords upholding the judgment of Tindal C.J., concurrency of tort and contract
+is stated as a general principle, without reference to status relationships at
+all (at pp. 1018-19 E.R., per Lord Campbell):  . . .
+wherever there is a contract, and something to be done in the course of the
+employment which is the subject of that contract, if there is a breach of a
+duty in the course of that employment, the plaintiff may either recover in tort
+or in contract.                     However, in the twentieth
+century, there was a noticeable trend towards limiting the range of the status
+relationships.  In Jarvis v. Moy, Davies, Smith, Vandervell & Co.,
+[1936] 1 K.B. 399 (C.A.), Slesser L.J. found that a broker did not exercise a
+"common calling" (at pp. 406-7):                     In
+reference to the suggestion that a broker might be regarded as exercising a
+common calling in the same way as, for example, a carrier, in respect of whom
+it has been held that his duties to the public are imported so that a breach of
+these is necessarily a tort, I desire to add that no authority was cited to
+establish that a stockbroker is in such a position.  . . .  In my
+opinion a stockbroker does not exercise a "public calling" in the
+sense in which that term is used as applied to carriers and certain other
+occupations.  In this case a personal relationship existed between the parties,
+and in my view the breach complained of was a breach of contract.  In Groom v. Crocker, [1939] 1 K.B. 194,
+the Court of Appeal held that the profession of solicitor was not among the
+status relationships, as those of doctor, architect and stockbroker also were
+not (at p. 222 per Scott L.J.):  A solicitor, as
+a professional man, is employed by a client just as much as a doctor, an
+architect, or a stockbroker, and the mutual rights and duties of the two are
+regulated entirely by the contract of employment.  . . .  The retainer when
+given puts into operation the normal terms of the contractual relationship,
+including in particular the duty of the solicitor to protect the client's
+interest and carry out his instructions in the matters in which the retainer
+relates, by all proper means.  . . .  But in all these aspects the tie between
+the two is contractual.  There is to-day no common-law duty similar to that
+which survives in the case of a bailee or carrier, and no action lies in tort
+for the breach of the above duties.  . . .  The judgment of Diplock L.J. in Bagot v.
+Stevens Scanlan & Co., [1966] 1 Q.B. 197, was to a similar effect. 
+Diplock L.J. held that the relationship of architect and client was not a
+"status relationship" (at p. 206):  . . .
+I can see nothing in the relationship of architect and client which can be said
+to give rise to the kind of status obligation which arises from the origins of
+the common law in the case of master and servant, common carrier, innkeeper,
+bailor and bailee.                     For those who were not
+in one of the status relationships, on the other hand, a different regime
+governed the tort liabilities of parties to a contract.  For all those who were
+not in status relationships, an action in negligence lay only if the duty
+relied upon in negligence was "independent" of the duty imposed by
+contract.  Before the causes of action were abolished by the Judicature Act,
+the principle was stated to be that if no cause of action remained if the
+allegation of a contract were struck out, then the action was founded on
+contract alone: Williamson v. Allison (1802), 2 East. 446 (K.B.), 102
+E.R. 439.  In Legge v. Tucker (1856), H. & N. 500 (Ex.), 156 E.R.
+1298, all the judges were unanimously of the opinion that an action in tort
+would lie only if there was a duty existing apart from the contract.  In the
+words of Pollock C.B. (at p. 1299 E.R.):  "Where the foundation of the
+action is a contract, in whatever way the declaration is framed, it is an
+action of assumpsit; but where there is a duty ultra the contract, the
+plaintiff may declare in case."  In the words of Watson B. (at p. 1299
+E.R.): "[T]he true question is, whether, if [the allegation of a contract]
+were struck out, any ground of action would remain.  . . .  There is no duty
+independently of the contract, and therefore it is an action of
+assumpsit."  The judgment of Smith L.J. in Turner v. Stallibrass,
+[1898] 1 Q.B. 56 (C.A.), is to the same effect (at p. 58):  The rule of law
+on the subject, as I understand it, is that, if in order to make out a cause of
+action it is not necessary for the plaintiff to rely on a contract, the action
+is one founded on tort; but, on the other hand, if, in order successfully to
+maintain his action, it is necessary for him to rely upon and prove a contract,
+the action is one founded upon contract.  See also Edwards v. Mallan, [1908] 1 K.B.
+1002 (C.A.), per Vaughan Williams L.J.                     The "independent
+tort" requirement was applied and refined in more modern cases.  In Elder,
+Dempster & Co. v. Paterson, Zochonis & Co., [1924] A.C. 522 (H.L.),
+Viscount Finlay stated, at p. 548, that for an action in tort to lie in a
+contractual setting, there must be "an independent tort unconnected with
+the performance of the contract".  In this Court, Pigeon J. said in J.
+Nunes Diamonds Ltd. v. Dominion Electric Protection Co., [1972] S.C.R. 769,
+at pp. 777-78, relying on Elder, Dempster & Co., supra, that
+no action for negligent misrepresentation would lie in "any case where the
+relationship between the parties is governed by a contract, unless the
+negligence relied on can properly be considered as `an independent tort'
+unconnected with the performance of that contract. . .".  In Dominion
+Chain Co. v. Eastern Construction Co. (1976), 68 D.L.R. (3d) 385 (Ont.
+C.A.), Wilson J.A. (as she then was), dissenting in part, held that no action
+in tort would lie where the acts complained of by the plaintiff were in
+relation to the "very matters covered by the contract" (at p. 408):  . . .
+where the person to whom the duty is owed, the scope of the duty and the
+standard of care have all been expressly or impliedly agreed upon by the
+parties, it appears to me somewhat artificial to rely upon Lord Atkin's
+"neighbour" test [as set out in Donoghue v. Stevenson, supra]
+to determine whether or not the duty is owed to the particular plaintiff and as
+to the requisite standard of care the defendant must attain.  In other words,
+it would appear that if the acts or omissions complained of by the plaintiff
+are in relation to the very matters covered by the contract, the essence of the
+plaintiff's action is breach of the contractual duty of care rather than breach
+of the general duty of care owed to one's "neighbour" in tort.                     (b)  The Emergence of a
+Single Theory of Concurrent Liability                     Since Esso Petroleum, supra,
+the law in England and in Canada has ceased to apply a rule of concurrency for
+status relationships different from that in other relationships, although in Esso
+Petroleum it was not clear that this was the case.  In finding that an
+architect was concurrently liable in contract and in tort, Lord Denning M.R.
+relied on the decision of Tindal C.J. in Boorman v. Brown, supra,
+a case based on status.  However, any ambiguity was resolved by the judgment of
+Megaw L.J. in Batty v. Metropolitan Property Realisations Ltd., [1978]
+Q.B. 554 (C.A.).  Megaw L.J. held that the rule in Esso Petroleum was
+not limited to "common callings", but was a rule of general
+application (at p. 566):                     The
+distinction to which I have referred which Mr. Brown seeks to make is this:  that
+the right of a plaintiff who sues in contract, where the facts giving rise to
+the breach of contract would also constitute a breach of common law duty apart
+from contract, to have the judgment entered on both heads is limited to cases
+where the common law duty is owed by one who conducts a common calling and thus
+is under a special type of legal liability, and to cases where the duty is owed
+by a professional man in respect of his professional skill.  Mr. Brown contends
+that, though there is no affirmative authority for limiting the right in that
+way, it ought to be treated as being so limited because there is no case in the
+English books, going back over many years, which shows that the right has been
+allowed, or possibly even claimed, in cases other than the special types of
+case to which he referred, and in particular the professional skill types of
+case.  In Esso Petroleum Co. Ltd. v. Mardon [1976] Q.B. 801 the right
+was held to arise in a case where the breach of duty was a breach of an expert
+in siting filling stations involving his professional skill.  I see no reason,
+in logic or on practical grounds, for putting any such limitation on the scope
+of the right.  It would, I think, be an undesirable development in the law if
+such an artificial distinction, for which no sound reason can be put forward,
+were to be held to exist.                     More generally, in Anns v.
+London Borough of Merton, [1977] 2 All E.R. 492 (H.L.), Lord Wilberforce
+acknowledged that the duty of care in tort is now a general one, arising as a
+result of proximity, and not of the particular class of relationship between
+the parties (at p. 498):                     Through
+the trilogy of cases in this House, Donoghue v Stevenson, Hedley Byrne &
+Co Ltd v Heller & Partners Ltd and Home Office v Dorset Yacht Co Ltd,
+the position has now been reached that in order to establish that a duty of
+care arises in a particular situation, it is not necessary to bring the facts
+of that situation within those of previous situations in which a duty of care
+has been held to exist.  Rather the question has to be approached in two
+stages.  First one has to ask whether, as between the alleged wrongdoer and the
+person who has suffered damage there is a sufficient relationship of proximity
+or neighbourhood such that, in the reasonable contemplation of the former,
+carelessness on his part may be likely to cause damage to the latter, in which
+case a prima facie duty of care arises.  Secondly, if the first question is
+answered affirmatively, it is necessary to consider whether there are any considerations
+which ought to negative, or to reduce or limit the scope of the duty or the
+class of person to whom it is owed or the damages to which a breach of it may
+give rise. . . .                     This trend towards a single
+theory of concurrent liability in tort and contract was recognized in Canada by
+La Forest J.A. (as he then was) in New Brunswick Telephone Co. v. John
+Maryon International Ltd. (1982), 43 N.B.R. (2d) 469 (C.A.).  After an
+extensive review of the case law, La Forest J.A. concluded that an architect
+was concurrently liable in contract and in tort.  La Forest J.A. based his
+conclusion on the concept of a general tort of negligence (at p. 520): 
+"[W]hile I could dispose of this case by simply adding the profession of
+structural engineer to the list of common callings and skilled professions, I
+prefer to base my judgment on the generalized tort of negligence".                     In Central Trust v. Rafuse,
+supra, Le Dain J. also rejected any distinction between status
+relationships and other relationships in determining whether parties to a
+contract can also recover in tort.  Instead, Le Dain J. found that a single
+rule applied to all relationships (at p. 205): "[T]he question is whether
+there is a relationship of sufficient proximity, not how it arose."  The
+rule of concurrency which Le Dain J. adopted was a compromise between two
+strands of authority.                     In one strand of authority,
+that governing the status relationships, any duty arising in tort had always
+been concurrent with duties arising under the contract:  Brown v. Boorman,
+supra.  In the other strand of authority, the duty in tort was only
+concurrent with the duty in contract if the negligence complained of was
+unconnected with the performance of the contract:  J. Nunes Diamonds, supra. 
+The compromise position adopted by Le Dain J. was that any duty arising in tort
+will be concurrent with duties arising under the contract, unless the duty
+which the plaintiff seeks to rely on in tort is also a duty defined by an
+express term of the contract.  If the duty is defined by an express term of
+the contract, the plaintiff will be confined to whatever remedies are available
+in the law of contract (at p. 205):  . . .
+the nature and scope of the duty of care that is asserted as the foundation of
+the tortious liability must not depend on specific obligations or duties
+created by express terms of the contract.  . . .  Where the common
+law duty of care is co-extensive with that which arises as an implied term of
+the contract it obviously does not depend on the terms of the contract. 
+. . .  The same is also true ofreliance on a common law duty of care
+that falls short of a specific obligation or duty imposed by the express terms
+of a contract.                     In my opinion, the compromise
+struck by Le Dain J. is an appropriate one.  If the parties to a contract
+choose to define a specific duty as an express term of the contract, then the
+consequences of a breach of that duty ought to be determined by the law of
+contract, not by tort law.  Whether or not an implied term of a contract can
+define a duty of care in such a way that a plaintiff is confined to a remedy in
+contract is not at issue in this case.  I leave that determination to another
+day.  While the rule articulated by Le Dain J. is a rule of law which does
+not depend on the presumed or actual intention of the parties, the intention
+which can be inferred from the fact that the parties have made the duty an
+express term of the contract provides policy support for the rule.  If a duty
+is an express term of the contract, it can be inferred that the parties wish
+the law of the contract to govern with respect to that duty.  This is of
+particular significance given that the result of a breach of a contractual duty
+may be different from that of a breach of a duty in tort.  As Wilson J.A. noted
+in Dominion Chain Co., supra, a plaintiff's substantive rights
+may be different in contract and in tort (at p. 409):  His cause of
+action may arise later in tort resulting in a later expiry of the limitation
+period.  His damage may be greater in quantum and different in kind if he sues
+in tort.  On the other hand his action in contract may survive him or be the
+subject of a set-off or counterclaim, neither of which would be so if his
+action were framed in tort.  The fact that damages may be assessed differently
+in contract from in tort was recently affirmed by this Court in Rainbow
+Industrial Caterers Ltd. v. Canadian National Railway Co., [1991] 3 S.C.R.
+3.                     A further policy rationale for
+the rule advanced by Le Dain J. is that contracts have become, particularly in
+commercial contexts, increasingly complex.  Commercial contracts allocate risks
+and fix the mutual duties and obligations of the parties.  Where there is an
+express term creating a contractual duty, it is appropriate that the parties be
+held to the bargain which they have made.  Tort duties are of "uncertain
+definition and scope": H. Johnson, "Contract and Tort: Orthodoxy
+Reasserted!" (1990), 9 Int'l Banking L. 306.  Commercial parties
+ought to be able to fix their respective rights and obligations in a particular
+transaction with certainty.  Contractual certainty is a sine qua non
+without which reliance and the execution of obligations are seriously
+impaired.  Moreover, without certainty, the transaction costs associated with a
+given commercial arrangement would most likely increase, perhaps drastically. 
+In V.K. Mason Construction Ltd. v. Bank of Nova Scotia, [1985] 1 S.C.R.
+271, Wilson J. alluded to these considerations stating, at p. 282, that
+"much of the value of commercial contracts lies in their ability to
+produce certainty.  Parties are enabled to regulate their relationship by means
+of words rather than by means of their understanding of what each other's
+actions are intended to imply."                     However, I do not believe that
+the rule advanced by Le Dain J. that forecloses a claim in tort is absolute in
+all circumstances.  In this respect, I would favour a contextual approach which
+takes into account the context in which the contract is made, and the position
+of the parties with respect to one another, in assessing whether a claim in
+tort is foreclosed by the terms of a contract.  The policy reasons in favour of
+the rule advanced by Le Dain J. are strongest where the contractual context is
+commercial and the parties are of equal bargaining power.  There was no
+question of unconscionability or inequality of bargaining power in Central
+Trust v. Rafuse, supra, as there is no such question in this case. 
+If such issues, or others analogous to them, were to arise, however, a court
+should be wary not to exclude too rapidly a duty of care in tort on the basis
+of an express term of the contract, especially if the end result for the
+plaintiff would be a wrong without a remedy.                     (3)  Contractual Terms
+Excluding or Limiting Liability or Duty                     As noted above, contractual
+exclusion or limitation clauses can operate either to exclude or limit
+liability, or to limit the duty owed by one party to the other.  In neither
+case will the plaintiff be permitted to use an action in tort to circumvent the
+limitation of liability or of duty in the contract.  Terms going to duty are of
+particular importance where one party is alleging negligent misrepresentation,
+as Checo is in this case.                     It is well-settled that a
+clause limiting liability in contract can, in appropriate circumstances, also
+have the effect of limiting liability in tort: see, for example, ITO--International
+Terminal Operators Ltd. v. Miida Electronics Inc., [1986] 1 S.C.R. 752, and
+London Drugs Ltd. v. Kuehne & Nagel International Ltd., [1992] 3
+S.C.R. 299.  In the words of Scrutton L.J. in Hall v. Brooklands Auto Racing
+Club, [1933] 1 K.B. 205 (C.A.), at p. 213:  . . .
+where the defendant has protection under a contract, it is not permissible to
+disregard the contract and allege a wider liability in tort: Elder, Dempster
+& Co. v. Paterson, Zochonis & Co., per Lord Cave, Lord
+Finlay and Lord Sumner.                     The rule that liability in
+tort cannot be used to circumvent a contractual limitation of liability is
+supported by recent Canadian authority, including Central Trust v. Rafuse,
+supra, itself.  In New Brunswick Telephone Co. v. John Maryon
+International Ltd., supra, La Forest J.A. stated that (at p. 506):  . . .
+the law of negligence will not be used to give a remedy to a person for a
+breach of contract for which he is absolved under the contract.  . . .  Parties
+are free to contract out of liabilities, tortious or otherwise, and the courts
+should not interfere with their agreements.  The point was reiterated by Le Dain J. in Central
+Trust v. Rafuse (at p. 206):                     A
+concurrent or alternative liability in tort will not be admitted if its effect
+would be to permit the plaintiff to circumvent or escape a contractual
+exclusion or limitation of liability for the act or omission that would
+constitute the tort.  See, on this question, London Drugs Ltd., supra,
+where I deduce from this principle one of many reasons for permitting
+employees, in certain circumstances, to obtain directly the benefit of their
+employer's contractual limitation of liability clause so as to limit their
+liability for the breach of a common law duty of care.  See also Peters v.
+Parkway Mercury Sales Ltd. (1975), 10 N.B.R. (2d) 703 (C.A.).                     Contractual terms may also
+operate to limit the duty (as distinct from the liability ensuing from a breach
+of duty), tortious or otherwise, owed by one party to the other.  To quote
+B. M. McLachlin and W. J. Wallace, The Canadian Law of
+Architecture and Engineering (1987), at p. 134:  . . .
+it may now be said that courts have come to accept the concurrency of
+obligations imposed by tort law and obligations imposed by contract.  However,
+this is subject to an important limitation.  Where the parties have defined
+their duties by contract, the court will not impose contrary obligations on
+them.  A contract defining the parties' rights and responsibilities will be a
+factor limiting the scope of the duty in tort.                     Clauses limiting the duty owed
+by one party to the other are often important in cases where negligent
+misrepresentation is alleged.  Such disclaimers or "non-reliance
+clauses", as they are sometimes described, may be contractual or
+extra-contractual.  It should not be forgotten that in the leading case, Hedley
+Byrne, supra, the defendant bank was found not liable because the
+representation had been accompanied by the following disclaimer: "Confidential.  For your private use and
+without responsibility on the part of this bank or its officials."  There
+was no contract between the parties.  Lord Morris found that the effect of the
+disclaimer was to negate any duty of care which would otherwise have been owed
+by the defendant (at p. 504):  . . .
+in my judgment, the bank in the present case, by the words which they employed,
+effectively disclaimed any assumption of a duty of care.  They stated that they
+only responded to the inquiry on the basis that their reply was without
+responsibility.  If the inquirers chose to receive and act upon the reply they
+cannot disregard the definite terms upon which it was given.                     Disclaimers or
+"non-reliance clauses" may also be contractual.  In Carman
+Construction Ltd. v. Canadian Pacific Railway Co., [1982] 1 S.C.R. 958, the
+defendant successfully raised a contractual disclaimer clause as a defence to
+an action for negligent misrepresentation.  The relevant clause of the contract
+was in the following terms (at p. 961):  3.1.It is
+hereby declared and agreed by the Contractor that this Agreement has been
+entered into by him on his own knowledge respecting the nature and conformation
+of the ground upon which the work is to be done, the location, character,
+quality and quantities of the material to be removed, the character of the
+equipment and facilities needed, the general and local conditions and all other
+matters which can in any way affect the work under this Agreement, and the
+Contractor does not rely upon any information given or statement made to him in
+relation to the work by the Company.  [Emphasis added.]  Martland J. was careful to characterize the
+clause as a "non-reliance provision" negating the existence of a duty
+of care, as distinct from a clause limiting liability for the breach of a duty
+(at p. 973):  . . .
+I do not regard s. 3.1 as being a clause exempting from liability.  It is what
+the Court of Appeal described as a non-reliance provision, the effect of which
+was to prevent liability arising on the part of C.P.R. in respect of statements
+made or information given by its employees.                     To summarize, if the liability
+of a party to a contract is limited or excluded by a term of the contract, or
+if a contractual term limits or negates the duty owed by one party to the other
+(whether in contract or in tort), the other party to the contract may not use
+an action in tort to impose a wider liability on the first party than would be
+available under the contract.  C.  Negligent Misrepresentation                     Checo alleges that Hydro
+negligently misrepresented the state of the right-of-way.  The majority of the
+British Columbia Court of Appeal agreed.  In Queen v. Cognos Inc.,
+[1993] 1 S.C.R. 000, a case involving issues somewhat similar to those in the
+present appeal, I reviewed many aspects of the tort of negligent
+misrepresentation including the required elements for such an action.  The
+specific question I should like to address in this case is: if the parties are
+in a contractual relationship, under what circumstances will it be open to one
+of the parties to allege that the other was guilty of negligent
+misrepresentation?  In other words, when will the existence of a contract preclude
+a tort action for negligent misrepresentation?                     The action for negligent
+misrepresentation was first recognized by the decision of the House of Lords in
+Hedley Byrne, supra.  The ingredients of a negligent
+misrepresentation set out in that case remain good law today.  To quote from
+the speech of Lord Morris (at pp. 502-3):                     My
+Lords, I consider that it follows and that it should now be regarded as settled
+that if someone possessed of a special skill undertakes, quite irrespective of
+contract, to apply that skill for the assistance of another person who relies
+upon such skill, a duty of care will arise.  The fact that the service is to be
+given by means of or by the instrumentality of words can make no difference. 
+Furthermore, if in a sphere in which a person is so placed that others could
+reasonably rely upon his judgment or his skill or upon his ability to make
+careful inquiry, a person takes it upon himself to give information or advice
+to, or allows his information or advice to be passed on to, another person who,
+as he knows or should know, will place reliance upon it, then a duty of care
+will arise.                     The rule in Hedley Byrne,
+supra, has been adopted in numerous Canadian cases, some of which will
+be discussed below.  Although Hedley Byrne was considered revolutionary
+when it was decided, the case was in fact the culmination of a series of
+majority and dissenting judgments extending back into the last century.  Like Donoghue
+v. Stevenson, supra, Hedley Byrne needs to be understood in
+its context.  An understanding of this context is particularly important to
+assessing the role of negligent misrepresentation where the parties are in a
+contractual relationship.                     Before Hedley Byrne, supra,
+it was settled law that a misrepresentation could give rise to damages only if
+it was fraudulent, or if the representation was a collateral warranty to a
+contract.  An "innocent" misrepresentation (which included what would
+now, since Hedley Byrne, be characterized as a negligent
+misrepresentation) was not actionable in itself, but only if it formed part of
+a valid contract.                     The leading case in fraudulent
+misrepresentation was Derry v. Peek (1889), 14 App. Cas. 337 (H.L.).  In
+Derry v. Peek, the Court of Appeal held that a negligent
+misrepresentation -- one made without due care as to its truth or falsehood --
+gave rise to an action in damages for deceit for anyone to whom the statement
+was directed and who relied on the statement to his or her detriment.  The
+House of Lords rejected the suggestion that a false statement made negligently
+was actionable.  In the words of Lord Herschell, "making a false statement
+through want of care falls far short of, and is a very different thing from,
+fraud, and the same may be said of a false representation honestly believed
+though on insufficient grounds" (p. 375).  The House held that for an
+action in deceit or fraud to lie, the person making the statement must either
+know the statement to be false, or be reckless as to its truth or falsehood. 
+This principle was reaffirmed by the House in Nocton v. Lord Ashburton,
+[1914] A.C. 932, where Viscount Haldane L.C. said this (at pp. 953-54):
+"It must now be taken to be settled that nothing short of proof of a
+fraudulent intention in the strict sense will suffice for an action of
+deceit."                     Although actions on warranties
+were originally actions in tort, actions for breach of warranty had become, by
+the nineteenth century, actions in contract.  See Baker, supra, at pp.
+293-95.  The leading case of Heilbut, Symons & Co. v. Buckleton,
+[1913] A.C. 30 (H.L.), settled the rule that for a representation to be
+actionable as a warranty, it must have been made with promissory intent.                     The appellants in Heilbut,
+Symons were rubber merchants, who were promoting shares in what they
+represented was a rubber company.  The respondent bought a large number of
+shares.  The company turned out to be other than as it had been described, and
+the respondent brought an action in fraud and for breach of warranty.  At
+trial, the jury found that the company had not been correctly represented by
+the appellants, but that the misrepresentation was not fraudulent.  The jury
+did, however, find that the appellants had warranted that the company was a
+rubber company.  The House of Lords allowed the appeal.  In his speech, Lord
+Moulton held that no liability can flow from a representation which is not
+fraudulent, unless it is made with promissory intent (at p. 51):                     It
+is, my Lords, of the greatest importance, in my opinion, that this House should
+maintain in its full integrity the principle that a person is not liable in
+damages for an innocent misrepresentation, no matter in what way or under what
+form the attack is made.  In the present case the statement was made in answer
+to an inquiry for information.  There is nothing which can by any possibility
+be taken as evidence of an intention on the part of either or both of the
+parties that there should be a contractual liability in respect of the accuracy
+of the statement.  It is a representation as to a specific thing and nothing
+more.                     Between Derry v. Peek
+and Heilbut, Symons, supra, it was settled that a negligent
+misrepresentation which was not made with promissory intent was not actionable,
+as it fell between deceit and warranty.  To succeed, a plaintiff was required
+to prove fraud or a collateral warranty.  As Lord Denning M.R. observed in Esso
+Petroleum, supra, at p. 13:                     Ever
+since Heilbut Symons & Co v Buckleton we have had to contend with
+the law as laid down by the House of Lords that an innocent misrepresentation
+gives no right to damages.  In order to escape from that rule, the pleader used
+to allege -- I often did it myself -- that the misrepresentation was fraudulent,
+or alternatively a collateral warranty.                      It was against this backdrop
+that the House of Lords decided Hedley Byrne, supra.  Through
+their bank, the appellants had obtained the opinion of the respondent merchant
+bankers as to the creditworthiness of E. Ltd.  There was no contract
+between the appellants and the respondent.  E. Ltd. subsequently went bankrupt,
+and it was found at trial that the respondent had been negligent in giving the
+opinion.  Their Lordships, expressly distinguishing Derry v. Peek, supra,
+and implicitly distinguishing Heilbut, Symons, supra, held that a
+negligent misrepresentation may, even if not made with promissory intent, give
+rise to liability for damages.  Lord Reid described those relationships in
+which a duty to take care in the making of representations will arise as
+follows (at p. 486):  . . .
+all those relationships where it is plain that the party seeking information or
+advice was trusting the other to exercise such a degree of care as the
+circumstances required, where it was reasonable for him to do that, and where
+the other gave the information or advice when he knew or ought to have known
+that the inquirer was relying on him.  I say "ought to have known"
+because in questions of negligence we now apply the objective standard of what
+the reasonable man would have done.                     In reaching this result, their
+Lordships relied on an alternate line of authority reaching back through the
+dissenting judgment of Denning L.J. in Candler v. Crane Christmas & Co.,
+[1951] 1 All E.R. 426 (C.A.), and the decisions of the House of Lords in Donoghue
+v. Stevenson, supra, and Nocton v. Lord Ashburton, supra,
+to the nineteenth century decisions of Cann v. Willson (1888), 39 Ch. D.
+39; Heaven v. Pender (1883), 11 Q.B.D. 503 (C.A.); and George v.
+Skivington (1869), L.R. 5 Ex. 1.                     With the exception of Nocton
+v. Lord Ashburton, supra, the cases relied upon by their Lordships
+were all cases in which the relationship between the plaintiff and the
+defendant was not contractual, but the court (or the dissenting judge)
+nonetheless held that the defendant owed a duty of care to the plaintiff.  That
+is, in each case, no contractual remedy was available to the plaintiff, but the
+action was allowed in tort.  Nocton v. Lord Ashburton is the exception: 
+in that case there was a contract between the plaintiff and the defendant (who
+was his solicitor).  However, Nocton v. Lord Ashburton is readily
+distinguishable.  In that case, an action for breach of contract was barred by
+the Statute of Limitation.  Moreover, the plaintiff succeeded not in
+tort but for breach of fiduciary duty.                     It was not clear from Hedley
+Byrne, supra, that an action for negligent misrepresentation would
+lie where the parties subsequently entered into a contract.  In Hedley Byrne
+and in the cases upon which it relied (with the exception of Nocton v. Lord
+Ashburton, supra) there was no contract between the parties.  A
+dictum of Lord Reid in Hedley Byrne hinted that if the parties were in a
+contractual relationship, the proper remedy was an action for breach of
+warranty (at p. 483): "Where there is a contract there is no difficulty as
+regards the contracting parties: the question is whether there is a
+warranty."  The cases decided immediately after Hedley Byrne held
+that an action for negligent misrepresentation was barred if the parties were
+in a contractual relationship:  Bagot v. Stevens Scanlan & Co., supra,
+and Clark v. Kirby-Smith, [1964] 2 All E.R. 835 (Ch. D.).  See also
+D. W. McLauchlan, "Pre-Contract Negligent Misrepresentation"
+(1977), 4 Otago L. Rev. 23.                     However, it was settled by Esso
+Petroleum, supra, that the existence of a contract is not a bar to a
+remedy for negligent misrepresentation.  In the words of Shaw L.J. (at p. 26):                     It
+is difficult to see why, in principle, a right to claim damages for negligent
+misrepresentation which has arisen in favour of a party to a negotiation should
+not survive the event of the making of a contract as the outcome of that
+negotiation.  It may, of course, be that the contract ultimately made either
+expressly or by implication shows that, once it has been entered into, the
+rights and liabilities of the parties are to be those and only those which have
+their origin in the contract itself.  For a list of Canadian cases applying Esso
+Petroleum, see Kingu v. Walmar Ventures Ltd. (1986), 38 C.C.L.T. 51
+(B.C.C.A.), at p. 59.                     The principle that an action
+for negligent misrepresentation will survive the making of a contract between
+the parties was affirmed in this Court in Carman Construction, supra. 
+Martland J., writing for the Court, held that the respondent was not liable on
+the basis of negligent misrepresentation because the contract that was made
+between the parties contained a "non-reliance provision" or
+disclaimer which had the effect that the respondent did not assume any duty of
+care.  It is clear from Martland J.'s reasons that the fact that the alleged
+negligent misrepresentation had induced the contract would not have been a
+reason for disallowing the claim in negligence.  The same proposition can be
+deduced from the recent decision of this Court in Rainbow Industrial
+Caterers Ltd., supra.  Although the narrow issue was the appropriate
+measure of damages where a plaintiff is induced to enter into a contract with
+the defendant by the defendant's negligent misrepresentation, both Sopinka J.
+(for the majority) and McLachlin J. (dissenting), agreed that damages for
+negligent misrepresentation could be awarded where the misrepresentation
+induces a contract.                     It is clear that the fact that
+the parties are in a contractual relationship is not in itself a bar to an
+action in tort for negligent misrepresentation.  As in other areas of
+negligence, the plaintiff may have the option of concurrent actions in tort and
+contract.  However, concurrency must be viewed in light of the principles
+articulated above.  Where a duty arising in tort is co-extensive with a duty
+created by an express term of the contract, the plaintiff will be limited to
+whatever remedies are available under the contract.  Moreover, if the liability
+or duty of the defendant is excluded or limited by the terms of the contract,
+the plaintiff may not allege a wider liability in tort in order to circumvent
+the terms of the contract.  D.  Application of the Law to the Facts of
+this Case                     Checo alleges that Hydro
+negligently misrepresented the state of the right-of-way, and that Checo
+suffered damages as a result of this misrepresentation.  In the alternative,
+Checo has alleged that Hydro was in breach of its contractual duties.                     (1)  The Claim for
+Negligent Misrepresentation                     I will assess Checo's claim in
+tort for negligent misrepresentation first.  Because Checo and Hydro are in a
+contractual relationship, Checo's claim in tort immediately raises two issues. 
+First, is there a specific contractual duty created by an express term of the
+contract which is co-extensive with the common law duty of care which Checo
+alleges Hydro has breached?  If there is such a contractual duty, then Checo is
+precluded from bringing an action in tort against Hydro for breach of the
+common law duty of care.  In such a case, Checo would be confined to whatever
+remedies are available under the law of contract.  Second, if the answer to the
+first question is negative, is Hydro's liability or duty in tort limited or
+excluded by the terms of the contract?                     (a)  Is there a Contractual
+Duty Excluding a Common Law Duty of Care?                     The question whether there is
+a contractual duty defined by an express term of the contract which would operate
+to exclude the common law duty of care upon which Checo relies in its action
+for negligent misrepresentation is shortly answered: there is such a duty. 
+Checo bases its claim for negligent misrepresentation on the alleged
+representation made in clause 6.01.03 of the tender documents.  Clause 6.01.03
+of the tender documents was incorporated verbatim as an express term (also
+numbered 6.01.03) of the contract between Hydro and Checo after Hydro accepted
+Checo's tender.  On Checo's interpretation of clause 6.01.03 of the tender
+documents, it is a representation as to the state of the right-of-way.  If
+clause 6.01.03 of the tender documents is such a representation (and I am of
+the opinion that it is, as I will discuss below), then clause 6.01.03 of the contract
+is an express warranty as to the state of the right-of-way.  Whatever duty is
+imposed in tort on Hydro by the clause in the tender documents is co-extensive
+with the duty imposed in contract by the express clause in the contract.  In
+consequence, subject to any overriding considerations arising from the context
+in which the transaction occurred, Checo is limited to whatever remedies may be
+available to it in contract for Hydro's breach of clause 6.01.03 of the
+contract.  Checo cannot rely on a breach by  Hydro of any duty created by
+clause 6.01.03 of the tender documents to found an action in tort.                     As I indicated, context is
+important in assessing whether a claim in tort is foreclosed by the terms of
+the contract.  This transaction occurred in a commercial context.  The parties
+are both large corporations, and there is no allegation or indication of any
+inequality of bargaining power or unconscionability.  I would also note that
+the contract which was concluded by the parties was included as part of the
+tender documents.  That is, Checo knew when it was preparing its bid that if
+its bid were accepted, the representation as to the condition of the
+right-of-way would be a term of the contract.  Checo knew, or ought to have
+known, that disputes as to the condition of the right-of-way would potentially
+be governed by the contract.  Knowing this, Checo decided to make a bid, hoping
+that its bid would be accepted.  I would conclude that an assessment of the
+context strengthens my initial conclusion that Checo should be limited to any
+remedies which might be available to it under the contract.                     (b)  Is Hydro's Liability
+or Duty Limited or Excluded?                     In light of my answer to the
+first question, it is unnecessary for the purposes of this appeal to consider
+whether Hydro's liability or duty in tort is limited or excluded by a term of
+the contract.  Simply put, Checo's claim in tort is barred by the contract. 
+However, I shall proceed at this stage to consider the effect of clauses 2.03
+and 4.04 of the tender documents, which were incorporated into the contract, on
+Checo's rights under the contract.                     In argument before this Court,
+Hydro submitted that clauses 2.03 and 4.04 operated to exempt Hydro from
+contractual liability for its representations.  The representation relied upon
+by Checo is contained in clause 6.01.03, which is in the following language:  6.01.03WORK
+DONE BY OTHERS  Clearing of the
+right-of-way and foundation installation has been carried out by others and
+will not form part of this Contract.                     The two clauses which Hydro
+argues exclude its liability are as follows:  2.03TENDERER'S
+RESPONSIBILITY  It shall be the
+Tenderer's responsibility to inform himself of all aspects of the Work and no
+claim will be considered at any time for reimbursement for any expenses
+incurred as a result of any misunderstanding in regard to the conditions of the
+Work.  Should any details necessary for a clear and comprehensive understanding
+be omitted or any error appear in the Tender Documents or should the Tenderer note
+facts or conditions which in any way conflict with the letter or spirit of the
+Tender Documents, it shall be the responsibility of the Tenderer to obtain
+clarifications before submitting his Tender.  . . .  Neither B.C.
+Hydro nor the Engineer shall be responsible for any instructions or information
+given to any Tenderer other than by the Purchasing Agent, in accordance with
+this Clause.  4.04INSPECTION
+OF SITE AND SUFFICIENCY OF TENDER  The Contractor
+shall inspect and examine the Site and its surroundings and shall satisfy
+himself before submitting his Tender as to the nature of the ground and
+sub-soil, the form and nature of the Site, the quantities and nature of work
+and materials necessary for completion of the Work, the means of access to the
+Site, the accommodation and facilities he may require, and in general shall
+himself obtain all necessary information as to risks, contingencies, and other
+circumstances which may influence or affect his Tender.  Without limiting the
+generality of the foregoing, the Contractor shall satisfy himself of any
+special risks, contingencies, regulations, safety requirements, and other
+circumstances which may be encountered.  The Contractor
+shall be deemed to have satisfied himself before tendering as to the
+correctness and sufficiency of his Tender for the Work and of the prices stated
+in the Schedule of Prices which prices shall (except insofar as it is otherwise
+provided in the Contract) cover all his obligations under the Contract and all
+matters and things necessary for the proper execution of the Work.                      Kosty
+acknowledged that tenderers rely on information contained in the tender
+documents and the defendant intended that the plaintiff would prepare its bid
+based on the representations contained in the tender documents.  Clause 6.01.03
+does not define the word "clearing" and the tender documents do not
+contain the defendant's clearing standards or clearing contracts.  In my
+opinion, based on what they observed and their past experience, the natural and
+ordinary meaning to be given to the word "clearing" in clause 6.01.03
+was the one understood by Lemieux and Campeau, that the right-of-way would be
+free of logs and debris.  I accept the evidence of Lemieux and Campeau, who I
+found to be honest and forthright, that they formed an honest belief in
+December 1982, after reading the tender documents and viewing the right-of-way,
+that clearing was not yet complete.  The trial judge also found as a fact that the
+right-of-way was incompletely and improperly cleared as of the date of the
+contract.  In my opinion, clauses 4.04 and 2.03 do not limit or exclude Hydro's
+liability flowing from clause 6.01.03 of the contract and of the tender
+documents.  Clause 6.01.03 is a specific provision which is not displaced by
+clauses 4.04 and 2.03.                     Clauses 2.03 and 4.04 do not
+operate to limit Hydro's liability in contract for the representation relied
+on.  Clause 4.04 required Checo to inspect the contract "Site", and
+specified that the contract price would cover all Checo's obligations under the
+contract.  "Site" is defined by clause 4.01 of the contract as
+"the land upon which the Work is to be done [by the Contractor
+-- Checo] and any area or areas adjacent thereto used in connection with
+the Work and, unless the context otherwise requires, shall include all
+materials, supplies, tools, equipment and structures thereon" (emphasis
+added).  The representation relied on by Checo, however, is that clearing of
+the right-of-way "has been carried out by others and will not form
+part of this Contract" (emphasis added).  The ordinary meaning of the
+emphasized words suggests that the "Site" referred to in clause 4.04
+of the contract does not encompass the right-of-way, which is the subject
+matter of the representation at issue.  Thus, clause 4.04 is not relevant to
+Checo's action in tort or to its action for breach of contract.                     The key phrase in clause 2.03
+is, "should the Tenderer note facts or conditions which in any way
+conflict with the letter or spirit of the Tender Documents, it shall be the
+responsibility of the Tenderer to obtain clarifications before submitting his
+Tender."  The representation made in clause 6.01.03 was that the
+right-of-way would be cleared as of the date of the contract.  Accordingly,
+although Checo did note the "dirty" condition of the right-of-way at
+the time it was carrying out the inspection mandated by clause 2.03, the
+condition of the "Site" was not in conflict with the representation
+that the right-of-way would be cleared as of the date of the contract, and
+Checo's obligation under clause 2.03 to obtain clarification from Hydro on this
+point was not triggered.  Moreover, the well-known principles governing the
+interpretation of contractual exclusion and limitation of liability clauses
+suggest that neither clause 2.03 nor clause 4.04 is sufficiently clear to limit
+or exclude Hydro's liability in contract for the representation relied on.                     I would accordingly conclude
+that there is no clause in the contract or in the tender documents which serves
+either to limit or exclude Hydro's liability for the representation contained
+in clause 6.01.03.                     (2)  The Claim for Breach
+of Contract                     I have found that it was an
+express term of the contract that the right-of-way would be cleared.  As found
+by the trial judge, the right-of-way was not cleared.  Therefore, Hydro
+breached the contract.  I have also found that there is no exclusion or
+limitation clause that would affect Hydro's liability in contract.  Given that
+he found Hydro liable for fraudulent misrepresentation, the trial judge did not
+consider the question of damages for breach of contract.  I would return the
+matter to trial on the question of damages for the breach of contract.                     At the original trial, Checo
+also claimed damages for breach of contract for items which would appear to be
+unconnected with the failure to clear the right-of-way.  As the trial judge did
+not consider the issue of breach of contract, there are no findings of fact
+with respect to these items.  Accordingly, if Checo establishes at the new
+trial that Hydro breached its contract in any other respect, unconnected with
+the failure to clear the right-of-way, and that Checo suffered damages
+therefrom, Checo is entitled to recover damages for these items in accordance
+with the applicable law of damages.  V.  Disposition                     I would accordingly allow
+Hydro's appeal in part and dismiss Checo's cross-appeal.  I would order a new
+trial on the issue of breach of contract.  I have found that Hydro breached the
+contract in that the right-of-way was not properly cleared.  Damages for this
+breach should be assessed at the new trial.  In addition, Checo is entitled to
+recover for any breaches of the contract unconnected with the condition of the
+right-of-way which it may establish at the new trial.                     Under the circumstances, each
+party should bear its own costs, here and in the courts below.                     Appeal dismissed and
+cross-appeal allowed in part, Sopinka and Iacobucci JJ. dissenting in
+part.                     Solicitors for British
+Columbia Hydro and Power Authority:  Singleton, Urquhart, MacDonald,
+Vancouver.                     Solicitors for BG Checo
+International Ltd.:  Swinton & Company, Vancouver.     
+*      Stevenson J. took no part in the judgment.  

@@ -1,0 +1,2178 @@
+  SUPREME
+COURT OF CANADA  Citation:
+   Sharbern Holding Inc. v. Vancouver
+  Airport Centre Ltd., 2011
+  SCC 23, [2011] 2 S.C.R. 175 Date: 20110511 Docket: 33280  Between: Sharbern
+Holding Inc. Appellant and Vancouver
+Airport Centre Ltd., Larco Hospitality Management Inc., MM&R
+Valuation Services Inc. doing business as HVS International — Canada and
+HVS International — Canada Respondents   Coram: McLachlin C.J. and Binnie, LeBel, Deschamps, Fish, Abella, Charron,
+Rothstein and Cromwell JJ.  Reasons
+  for Judgment: (paras. 1 to 178) Rothstein J. (McLachlin C.J. and Binnie,
+  LeBel, Deschamps, Fish, Abella, Charron and Cromwell JJ. concurring)     Sharbern Holding Inc. v. Vancouver
+Airport Centre Ltd., 2011 SCC 23, [2011] 2 S.C.R. 175 Sharbern Holding Inc.                                                                                     Appellant v. Vancouver Airport Centre Ltd., Larco Hospitality Management Inc., MM&R Valuation Services Inc. doing business as HVS International — Canada and HVS
+International — Canada      Respondents Indexed as:  Sharbern
+Holding Inc. v. Vancouver
+Airport Centre Ltd. 2011 SCC 23 File No.:  33280. 2010:  October 6; 2011:  May 11. Present:  McLachlin C.J. and Binnie, LeBel, Deschamps, Fish,
+Abella, Charron, Rothstein and Cromwell JJ. on appeal from the court of appeal for british columbia             Commercial law — Property
+— Disclosure statements — Company developing and marketing two hotels on same
+property — Purchasers of strata units in each hotel entering into differing
+agreements with developer — Purchasers of Hilton units not informed of
+different financial arrangements offered to purchasers of Marriott units — Hilton
+not performing as expected and owners of Hilton units incurring losses — Whether
+developer liable for misrepresentation under B.C. Real Estate Act for material
+false statements — Whether developer able to avail itself of statutory defence —
+Whether deemed reliance under Real Estate Act was rebuttable — Real Estate Act,
+R.S.B.C. 1996, c. 397, s. 75.             Torts — Negligent
+misrepresentation — Disclosure statements — Company developing and marketing
+two hotels on same property — Purchasers of strata units in each hotel entering
+into differing agreements with developer — Purchasers of Hilton units not
+informed of different financial arrangements offered to purchasers of Marriott
+units — Hilton not performing as expected and owners of Hilton units incurring
+losses — Whether developer liable for negligent misrepresentation under common
+law.             The
+respondent developer Vancouver Airport Centre Ltd. (“VAC”)
+was incorporated for the purpose of developing and marketing two hotels on the
+same property:  a Marriott hotel and a Hilton hotel.  The two hotels were
+essentially identical and were joined by a concourse of shops and other
+amenities.  Purchasers of strata lots in each hotel entered into separate Hotel
+Asset Management Agreements with VAC.  The two hotels were marketed and
+developed at different times, resulting in differences in the financial
+arrangements offered to the purchasers of each hotel.  VAC offered purchasers
+in the Marriott hotel a guarantee and VAC was entitled to a monthly management fee
+of a percentage of the gross rental revenue as well as an incentive management
+fee.  VAC did not offer purchasers in the Hilton hotel a guarantee, and VAC’s
+monthly management fee for the Hilton was lower than for the Marriott.  The
+Hilton Disclosure Statement did not disclose the differences in financial
+arrangements as between the Hilton Owners and the Marriott Owners.  The Hilton
+Owners incurred losses.             S
+represents a class of investors who purchased strata
+lots in the Hilton hotel from VAC.  S claimed that VAC was liable for failing
+to disclose details about differences in the financial arrangements given to
+the Hilton Owners and those given to the Marriott Owners.  S alleged that the
+differences resulted in an undisclosed conflict of interest in that they
+created an incentive for VAC to favour the Marriott over the Hilton in its
+operation and management of the two hotels.             The
+trial judge concluded that the undisclosed differences
+in financial arrangements gave rise to at least a potential conflict of
+interest, particularly in view of the potential for common management of the
+two hotels.  She then concluded that VAC negligently misrepresented both the
+absence of an actual or potential conflict of interest and the nature of the
+agreements between VAC and the Marriott Owners and found both
+misrepresentations material.  While her reasons were not entirely clear,
+it appears she found VAC liable both under common law and under the Real
+Estate Act. The trial judge concluded that under the Real Estate Act
+the investors were deemed to rely on material misrepresentations by VAC and
+that such deemed reliance was a non-rebuttable presumption.  The trial judge
+also found that in its capacity as manager, VAC was a fiduciary of the Hilton Owners,
+that a conflict existed with respect to VAC’s interests as between the Hilton
+and the Marriott, and that VAC was liable for breach of fiduciary duty because
+it did not disclose that conflict.  She also found that VAC was liable for
+breach of fiduciary duty as manager.             The
+Court of Appeal allowed VAC’s appeal. The
+appellate court found that the details of the financial arrangements between
+the two hotels were not material.  As to breach of fiduciary duty, the
+Court of Appeal determined that there was no breach by VAC.             Held:  The appeal should be dismissed.             Both
+the Securities Act and
+the Real Estate Act governed VAC’s disclosure obligations.  VAC’s
+disclosure obligations were limited to disclosing specific prescribed matters.  VAC
+issued one document that combined the two Acts’ requirements:  the Hilton
+Disclosure Statement.             Under
+the Real Estate Act, a material false statement in a disclosure
+statement will result in the developer being liable to investors for any
+resulting loss they may have sustained.  However, s. 75 also contains a
+defence which provides that if the developer had reasonable grounds to believe
+and did believe that the material false statement was true, it would not be
+liable.             A
+materiality standard is a legislated and regulatory balancing between too much
+and too little disclosure.  The jurisprudence has recognized that it is not in
+the interests of investors to be buried in trivial information that will impair
+decision making.  The Real Estate Act does not define what is meant by
+the term “material” when it is used in the context of the “material false
+statement” required for liability under s. 75.  Information is material if
+there is a substantial likelihood that it would have been considered important
+by a reasonable investor in making his or her decision to invest.  In other words,
+information is material if there is a substantial likelihood that its
+disclosure would have been viewed by the reasonable investor as having
+significantly altered the total mix of information made available.  Materiality
+is a question of mixed law and fact, and except in those cases where common
+sense inferences are sufficient, the party alleging materiality must provide
+evidence in support of that contention.  In carrying out a materiality
+assessment, a court must first look at the information disclosed to investors
+at the time they made their investment decision.  The next step is to consider
+the omitted information against the backdrop of what was disclosed.  As part of
+this second step, a court may consider contextual evidence which helps to
+explain, interpret, or place the omitted information in a broader factual
+setting, provided it is viewed in the context of the disclosed information.  Investors’
+behaviour evidence is relevant to the materiality assessment.  Evidence of
+common knowledge or, depending upon the circumstances, knowledge specific to
+particular investors would also be admissible.  Nonetheless, in considering the
+question of materiality, the predominant focus is on the disclosed and omitted
+information.             The
+trial judge erred in law with respect to assessing the materiality of the
+alleged false statements in three ways.  First, once she had determined that
+the differences in financial arrangements created a potential or actual
+conflict of interest, she found that there was an obligation to disclose them
+as if they were inherently material.  This approach misinterprets the statutory
+requirement as well as the test for materiality.  While it is true that in
+certain situations, common sense inferences will be sufficient to establish
+materiality, in this case, there was evidence to support the opposite inference
+that the omitted information was not material in the context of what had
+already been disclosed.  Therefore, a more detailed analysis of the evidence
+constituting the total mix of information was required in order to make a
+determination about what a reasonable investor would have considered
+significant.             Second,
+the trial judge erred by reversing the burden of proof of materiality from the
+plaintiff to the defendant.  Once the trial judge was satisfied that S had
+proven the existence of a conflict of interest, she turned to VAC to show why
+it was not material.  The result was that she made the determination that the
+conflict of interest was material without requiring S to satisfy its burden, as
+plaintiff, of proving materiality.             Third,
+the trial judge erred when she failed to consider all of the evidence relevant
+to the determination of materiality.  Relevant evidence was available concerning
+the general economic climate at the time the strata lots were sold, the
+financial arrangements offered to Hilton Owners, the disclosure made by VAC of
+common management and risk factors, and the limited extent of VAC’s ability to
+act upon the differences in financial arrangements in its own interests.  There
+was also evidence of the conduct of fully informed investors, either prior to
+making their investment decisions or subsequent to their investment, when they
+had learned of the guarantee given to the Marriott Owners.  This evidence was
+relevant to the trial judge’s materiality assessment.             While
+S was not required to prove that investors would not have purchased the Hilton
+strata lots had they known about the differences in financial arrangements, it
+did have the burden of proving materiality, on a balance of probabilities.  S
+failed to adduce evidence to prove the materiality of the differences in
+financial arrangements.             Even
+if VAC were shown to have made a material false statement, the statutory defence
+contained in s. 75(2)(b)(viii) of the Real Estate Act would
+preclude VAC from being found liable under s. 75(2).  To rely on the
+defence, VAC had to show that it subjectively believed the representations it
+made were true and that it objectively had reasonable grounds for such a
+belief.  The statutory defence does not appear to have been considered by the
+trial judge.  Evidence of common industry practices and of VAC’s limited
+practical means and incentives to prefer the Marriott hotel over the Hilton
+hotel indicates that VAC subjectively believed, and objectively had reasonable
+grounds to believe, that it was making true statements when it did not disclose
+the details of the differences in financial arrangements and represented in the
+Hilton Disclosure Statement that it had entered into agreements with the
+Marriott that were similar in form and substance to those governing the Hilton
+and that it was not aware of any existing or potential conflicts of interest.             VAC
+is also not liable for the tort of negligent misrepresentation.  The trial
+judge did not consider whether VAC breached the standard of care.  S’s failure
+to demonstrate how VAC breached the standard of care is fatal to its common law
+claim.             Although
+VAC, as manager of the Hilton, had fiduciary obligations to S, S did not
+discharge its onus of proving a breach of fiduciary duty.  The nature and scope
+of the fiduciary duty owed by VAC must be assessed in the context of the
+contract giving rise to those duties.  When VAC was acting as an issuer, its
+relationship with S was not fiduciary in nature.  However, when VAC began
+acting as S’s agent under the Hotel Asset Management Agreement, a fiduciary
+relationship arose.  VAC’s position of conflict in managing both the Hilton and
+the Marriott hotels had already been disclosed to S.             The
+disclosure obligations with respect to VAC’s fiduciary duty are different from
+the disclosure obligations under the Real Estate Act.  As a fiduciary,
+VAC was obligated to disclose any material facts or information, such as if
+there was a substantial risk that VAC’s fiduciary relationship with the Hilton
+Owners would be materially and adversely affected by VAC’s own interests or by
+VAC’s duties to another.  VAC’s statutory duty was simply to disclose to
+investors certain prescribed information, without making material false
+statements.  It is also necessary to inquire whether circumstances changed
+during the course of the fiduciary relationship such as to require VAC to make
+additional disclosure and obtain renewed consent. Cases Cited Statutes and Regulations Cited Class Proceedings Act, R.S.B.C. 1996, c. 50,
+s. 37. Real Estate Act, R.S.B.C. 1996, c. 397
+[rep. 2004, c. 42, s. 146], ss. 66, 75. Real Estate Development Marketing Act,
+S.B.C. 2004, c. 41, ss. 22(3), (5). Securities Act, R.S.B.C. 1996, c. 418,
+ss. 45(2)(5), 74(2)(4), 131. Authors Cited British Columbia.  Securities Commission.  Notice and Interpretation
+Note No. 96/36.  “Real Estate Securities”, October 10, 1996 (online:
+www.bcsc.bc.ca/print.asp?id=3727). Ng, Michael.  Fiduciary Duties:  Obligations of Loyalty and
+Faithfulness.  Aurora, Ont.:  Canada Law Book, 2003 (loose-leaf updated
+May 2007). Reynolds, F. M. B.  Bowstead and Reynolds on Agency,
+17th ed. London:  Sweet & Maxwell, 2001. United States.  Securities and Exchange Commission.  SEC Staff
+Accounting Bulletin:  No. 99 — “Materiality”, August 12, 1999 (online:
+ www.sec.gov/interps/account/sab99.htm). Waters’ Law of Trusts in Canada, 3rd
+ed. by Donovan W. M. Waters, Mark R. Gillen and Lionel D.
+Smith.  Toronto:  Thomson Carswell, 2005.             APPEAL
+from a judgment of the British Columbia Court of Appeal (Ryan, Chiasson and D. Smith
+JJ.A.), 2009 BCCA 224, 57 B.L.R. (4th) 1, 93 B.C.L.R. (4th) 256, 271 B.C.A.C.
+116, 458 W.A.C. 116, [2009] B.C.J. No. 1007 (QL), 2009 CarswellBC 1337, reversing
+a decision of Wedge J., 2007 BCSC 1262, 38 B.L.R. (4th) 171, [2007] B.C.J.
+No. 1845 (QL), 2007 CarswellBC 1948, with supplementary reasons, 2008 BCSC
+245 (CanLII).  Appeal dismissed.             Stephen R. Schachter, Q.C., and Geoffrey B.
+Gomery, for
+the appellant.             Peter A. Gall, Q.C., Donald R.
+Munroe, Q.C., M. Ali
+Lakhani and Edward Iacobucci, for the respondents.             The
+judgment of the Court was delivered by             Rothstein J. —                                                 TABLE
+  OF CONTENTS                                                                                                                               Paragraph  I.           Introduction.................................................................................................... 1 II.         Facts................................................................................................................ 9 A.         The Hilton and
+  Marriott Hotels....................................................................... 9 B.         Procedural
+  Background................................................................................ 17 III.       Lower Court Decisions................................................................................. 19 A.         British Columbia
+  Supreme Court, 2007 BCSC 1262, 38 B.L.R. (4th) 171... 19 B.         British Columbia
+  Court of Appeal, 2009 BCCA 224, 57 B.L.R. (4th) 1....... 23 IV.       Issues............................................................................................................ 26 V.         Analysis........................................................................................................ 27 A.         Misrepresentation
+  Under the Real Estate Act............................................... 27 (1)        VAC’s Statutory
+  Disclosure Obligations..................................................... 27 (2)        Liability Under the Real
+  Estate Act.............................................................. 37 (3)        Materiality..................................................................................................... 40 (4)        The Test for
+  Materiality................................................................................ 44 (5)        Analysis of the Trial
+  Judge’s Materiality Assessment.................................. 62 (a)        The Economic
+  Environment.......................................................................... 74 (b)        Financial Benefits
+  to Hilton Owners............................................................. 75 (c)        Disclosure of Common
+  Ownership and/or Management and Risk Factors.. 76 (d)        VAC Had No Practical
+  Means or Incentive to Favour the Marriott............. 78 (e)        Evidence of Conduct
+  of Fully Informed Investor........................................... 81 (f)         Evidence of the
+  Investor Committee Meetings............................................... 82 (6)        Sharbern’s Burden of
+  Proof.......................................................................... 86 (7)        Conclusions on
+  Materiality........................................................................... 91 B.         The Statutory
+  Defence................................................................................... 92 (1)        The Legal Test.............................................................................................. 92 (2)        Common Industry
+  Practice Evidence........................................................... 97 (3)        Evidence of Limited
+  Practical Means and Incentives to Prefer................. 102 (4)        No Evidence to Negate
+  the Defence.......................................................... 109 C.         Deemed Reliance........................................................................................ 112 D.         Common Law
+  Negligent Misrepresentation................................................ 120 E.         Breach of Fiduciary
+  Duty........................................................................... 131 (1)        Lower Court Treatment of
+  the Fiduciary Duty Issues............................... 132 (2)        A Fiduciary
+  Relationship Existed............................................................... 138 (3)        Distinguishing the
+  Misrepresentation and Fiduciary Duty Claims............. 144 (4)        Disclosing the
+  Compensation Differences.................................................. 147 (5)        The Non-Competition
+  Agreement.............................................................. 161 VI.       Summary and Conclusions......................................................................... 168                                    [1] I.       Introduction [1]                             
+When securities are offered to the general
+public, the rule of caveat emptor no longer applies.  Securities
+legislation imposes on issuers a statutory duty of disclosure.  That duty may
+vary in detail from one Act to another or from one jurisdiction to another. 
+However, the common theme is that issuers must disclose to potential investors
+information affecting their investment decision.  Even so, issuers are not
+subject to an indeterminate obligation, such that an unhappy investor may seize
+on any trivial or unimportant fact that was not disclosed to render an issuer
+liable for the investor’s losses.  Rather than issuers being required to
+provide unlimited disclosure, disclosure obligations have been enacted to
+provide a balance between too much and too little disclosure. [2]                             
+The appeal arises from a class action lawsuit in
+which the appellant, Sharbern Holding Inc. (“Sharbern”), represents a class of
+investors who purchased strata lots in a Hilton hotel (the “Hilton Owners”) from
+the respondent developer, Vancouver Airport Centre Ltd. (“VAC”).  Sharbern
+claimed that VAC was liable for failing to disclose details about differences
+in the financial arrangements given to the Hilton Owners, and those given to
+purchasers of strata lots in the adjacent Marriott hotel (the “Marriott
+Owners”) that VAC was developing on the same property. Sharbern alleged that
+the differences resulted in an undisclosed conflict of interest in that they
+created an incentive for VAC to favour the Marriott over the Hilton in its
+operation and management of the two hotels. [3]                             
+Two main questions are raised on appeal.  The first
+is whether VAC is liable for alleged misrepresentations contained in the
+offering memorandum and disclosure statement (the “Hilton Disclosure Statement”)
+that VAC used to sell the Hilton strata lots.  The second is whether VAC is
+liable for breach of fiduciary duty when it acted as manager of the Hilton
+under an agreement (the “Hotel Asset Management Agreement”) entered into
+between VAC and the Hilton Owners, including Sharbern.  In the reasons that
+follow, I conclude that Sharbern’s claims fail on both grounds, and I would
+dismiss the appeal. [4]                             
+As to the first question, I am of the opinion
+that the trial judge erred in law in concluding that VAC
+is liable for misrepresentation, either under the statutory cause of
+action found in the Real Estate Act, R.S.B.C. 1996, c. 397, or under the
+common law of negligent misrepresentation. [5]                             
+Under s. 75 of the Real Estate Act, VAC could
+only be liable if it is found to have made material false statements to
+Sharbern, and cannot rely on the defence contained in the section.  I am of the
+respectful view that the trial judge erred in law with respect to the
+materiality of the alleged false statements.  The legal errors were:  treating
+the conflict of interest as inherently material; reversing the burden of proof
+of materiality from the plaintiff to the defendant; and failing to consider all
+of the evidence relevant to the determination of materiality.  She further erred
+in not considering the statutory defence which would avail to the benefit of
+VAC. [6]                             
+Although this Court has previously dealt with
+the issues of materiality and disclosure obligations in the context of
+securities law, this case represents the first time that the Court has
+considered the common law test for materiality.  Even though the test is not
+new in Canadian law, this case represents an opportunity to clarify important
+aspects of the test. [7]                             
+Under the common law of negligent
+misrepresentation, the trial judge erred by not considering whether VAC
+breached the standard of care.  As there is no evidence capable of supporting a
+finding of breach of standard of care, her finding under the common law of
+negligent misrepresentation cannot stand. [8]                             
+As to the second question, although VAC, as
+manager of the Hilton, had fiduciary obligations to Sharbern, Sharbern did not
+discharge its onus of proving a breach of fiduciary duty.  A fiduciary is
+required to disclose material facts and information, and conflicts of interest. 
+VAC’s position of conflict in managing both the Hilton and the Marriott hotels
+had already been disclosed to Sharbern.  The trial judge again failed to
+consider all the relevant evidence on the issue of materiality that was before
+her, and Sharbern did not adduce evidence to support a finding that the
+different financial arrangements constituted material facts or information
+beyond what had already been disclosed by VAC. II.     Facts A.     The
+Hilton and Marriott Hotels [9]                             
+VAC is owned by Larco Investments Ltd. (“Larco
+Investments”), a company involved in real estate and hotel development.  By the
+mid 1990s, there was an extraordinary boom in the Richmond hotel market.  Larco
+Investments already owned the Best Western Richmond Inn in that market, and decided
+to develop and market two additional hotels on the same property.  It
+incorporated VAC for that purpose.  The Marriott hotel, a strata-titled hotel
+tower marketed through an offering memorandum and disclosure statement issued
+September 11, 1996, opened for business in June 1998. A second, identical
+strata-titled hotel tower was built and marketed through the Hilton Disclosure
+Statement issued February 3, 1998. It opened as a Hilton hotel in June 1999. 
+The two hotels were essentially identical and were joined by a concourse of
+shops and other amenities. [10]                         
+Purchasers of strata lots in each hotel entered
+into separate Hotel Asset Management Agreements with VAC, whereby VAC was given
+exclusive management of the hotel for 20 years, with an option to renew.  In
+return, VAC contracted to, among other things, use commercially reasonable
+efforts to rent out the strata units, maximize each owner’s proportionate share
+of monies available for distribution, and faithfully perform its duties and
+responsibilities and supervise and direct hotel operations. [11]                         
+The two strata unit hotels were marketed and
+developed at different times, resulting in differences in the financial
+arrangements offered to the purchasers of each hotel.  Since the popularity of
+marketing a strata unit hotel in an urban area solely for the income stream was
+unknown, VAC offered purchasers in the Marriott hotel a gross operating
+guarantee.  For the first five years of the hotel’s operation, VAC guaranteed a
+gross return of 12% of the purchase price of the owner’s unit, so that each
+strata lot owner’s annual proportionate share of funds available for
+distribution after projected operating expenses and other deductions was a projected
+net return of 8.29%. [12]                         
+Under the Hotel Asset Management Agreement
+entered into between the Marriott Owners and VAC, VAC was entitled to a monthly
+management fee of 5% of the gross rental revenue, and an incentive management
+fee equal to 25% of the amount by which the owners’ net annual return on
+investment exceeded 8%. [13]                         
+VAC’s evidence was that it intended to market
+the Hilton with a guaranteed rate of return, but was advised by Larco
+Investments’ securities solicitor that changes to securities regulations
+precluded making reference to a guarantee in the Hilton Disclosure Statement. 
+Instead, VAC marketed the Hilton on the basis of projections.  In an effort to
+increase the projected return for potential investors of the Hilton strata units,
+VAC increased the revenue available to them by including food and beverage
+revenues (which were retained by VAC for the Marriott hotel), decreasing the
+management fee charged by VAC under the Hotel Asset Management Agreement to 3%,
+and removing the hotel lobby lease expense. [14]                         
+The guaranteed gross return offered to Marriott
+Owners, and the 5% gross rental revenue and added incentive provided to VAC as
+its fee for managing the Marriott versus the 3% management fee provided to VAC
+for managing the Hilton (collectively the “Compensation Differences”), are the
+differences in the financial arrangements made with purchasers of the two
+hotels that are the essential focus of Sharbern’s claims on appeal. [15]                         
+While the Hilton Disclosure Statement disclosed
+that VAC owned the Best Western Richmond Inn and that VAC was currently
+developing the adjacent Marriott hotel, it did not disclose the Compensation
+Differences as between the Hilton and Marriott Owners. [16]                         
+The marketing of the Hilton strata units was not
+as successful as that of the Marriott, in which all of the units were sold
+within a few hours.  At some point, VAC decided to retain the last 24 Hilton units
+rather than continue to incur significant marketing costs.  Ultimately, neither
+hotel achieved their anticipated financial performances. By 2001, the Richmond
+hotel market was one of the weakest hotel markets in Canada.  The hotel market
+was further weakened by the events of September 11, 2001.  The Marriott did not
+achieve a 12% gross return on investment for any of the years covered by the 5-year
+guarantee. As a result, VAC sustained liability of over $13 million under the
+guarantee, which was ultimately paid by Larco Investments.  The Hilton Owners incurred
+losses instead of obtaining the projected 16.6% returns. The Hilton did not
+perform as well as the Marriott. B.     Procedural
+Background [17]                         
+On June 16, 2003, Sharbern brought an action against
+VAC, HVS International — Canada (“HVS”) and Larco Hospitality Management Inc.
+(formerly known as HMS Hospitality Management Services Ltd. (“HMS”)).  HVS was
+the company that prepared the financial projections for the Hilton hotel that
+were included in the Hilton Disclosure Statement.  HMS was an affiliate of VAC
+that carried out the day-to-day management of the Hilton hotel, the Marriott
+hotel and the Best Western Richmond Inn. [18]                         
+Sharbern obtained certification of the action as
+a class proceeding under the Class Proceedings Act, R.S.B.C. 1996, c.
+50, on behalf of approximately 200 unit owners (Sharbern Holding Inc. v.
+Vancouver Airport Centre Ltd., 2005 BCSC 232 (CanLII), aff’d 2006 BCCA 96,
+223 B.C.A.C. 80).  Twenty-four common issues on liability were certified.  The
+trial judge summarized what she called the “central contentious” common
+liability issues (2007 BCSC 1262, 38 B.L.R. (4th) 171, at para. 10 and Appendix
+A), which I paraphrase as: 1.      Whether the financial projections made by HVS were negligent
+misrepresentations, and whether the investment returns projected by VAC in the
+Hilton Disclosure Statement constituted fraudulent or negligent
+misrepresentations. 2.      Whether VAC’s representations about conflicts of interest
+and the nature of the financial arrangements as between the Hilton and Marriott
+hotels were fraudulent or negligent. 3.      Whether the members of the Hilton class could be deemed to
+have relied on any of the impugned representations pursuant to s. 75(2) of the Real
+Estate Act and the effect of the repeal of the Real Estate Act. 4.      Whether VAC and HMS owed fiduciary and/or trust duties to
+the members of the Hilton class, and if so, whether they breached those duties. III.    Lower
+Court Decisions A.     British
+Columbia Supreme Court, 2007 BCSC 1262, 38 B.L.R. (4th) 171 [19]                         
+Madam Justice Wedge made a number of findings
+that are not at issue in this appeal.  She determined that neither VAC nor HVS
+were liable for negligent misrepresentation concerning the financial
+projections.  She observed that the allegation of fraud against VAC with
+respect to the projected investment returns had been withdrawn by Sharbern. 
+She found that HMS did not owe fiduciary duties to Sharbern.  In supplemental
+reasons, she also clarified that VAC was not liable for fraudulent
+misrepresentation with respect to its conflict of interest representations
+because Sharbern did not “prove that VAC did not have an honest belief in the
+representation and either intended to deceive investors or was reckless as to
+whether it did so” (2008 BCSC 245 (CanLII), at para. 12). [20]                         
+With respect to her findings that are at issue
+in this appeal, Wedge J. concluded that the undisclosed Compensation
+Differences gave rise to at least a potential conflict of interest,
+particularly in view of the potential for common management of the two hotels.
+She then concluded that VAC negligently misrepresented both the absence of an
+actual or potential conflict of interest and the nature of the agreements
+between VAC and the Marriott Owners. She found both misrepresentations
+material.   It is not entirely clear from Wedge J.’s reasons whether she found
+VAC liable under the common law or under the Real Estate Act, although I
+proceed on the basis that she found VAC liable under both. [21]                         
+Wedge J. concluded that under the Real Estate
+Act, the investors were deemed to rely on material misrepresentations by
+VAC.  She determined that such deemed reliance was not a rebuttable presumption,
+irrespective of the actual knowledge of the investors. [22]                         
+She also found that in its capacity as manager, VAC
+was a fiduciary of the Hilton Owners, that a conflict existed with respect to
+VAC’s interests as between the Hilton and the Marriott, and that VAC was liable
+for breach of fiduciary duty because it did not disclose that conflict.  Finally,
+she found that VAC was also liable for breach of fiduciary duty as manager, because
+of a non-competition arrangement that it put in place between the Marriott and
+the Hilton, preventing each hotel from competing for certain customers with the
+other or with the Richmond Inn. B.     British
+Columbia Court of Appeal, 2009 BCCA 224, 57 B.L.R. (4th) 1 [23]                         
+VAC appealed and Sharbern cross-appealed aspects
+of the trial decision.  The Court of Appeal allowed VAC’s appeal, overturning
+Wedge J.’s findings with respect to misrepresentation, deemed reliance and
+breach of fiduciary duty. Sharbern’s cross-appeal was dismissed. [24]                         
+On the issue of misrepresentation, Chiasson J.A.
+found that the details of the financial arrangements between the two hotels
+were not material.  He observed that at trial “VAC relied on the extensive
+factual and expert evidence it adduced concerning actual and industry practice
+in the management of multiple hotels by a single entity” and that “[t]here was
+no evidence to the contrary and no evidence objectively to support the
+conclusion a reasonable investor would be concerned about the details of the
+financial arrangements” (para. 76).  He found that                     [h]aving
+made the disclosure [VAC] did, recognizing industry and actual practice and
+considering the subjective belie[f] of [VAC’s officers and employees], VAC did
+not misrepresent that it was unaware of any conflict that reasonably could
+affect materially the investment decisions of the Hilton Hotel investors.
+[para. 84] He therefore ruled that
+the trial judge had erred in concluding VAC materially misrepresented its
+conflict of interest and its agreements with the Marriott Owners. [25]                         
+As to breach of fiduciary duty, Chiasson J.A. determined
+that there was no breach by VAC.  He observed that the answer to whether VAC
+was “obliged to tell the Hilton Hotel unit owners the details of its financial
+arrangements with the Marriott Hotel unit owners . . .
+depends on whether that information was material” (para. 98). He went on to
+conclude that “in the circumstances of this case, the information objectively
+was not material” (para. 99).  In his view, “the consent given to VAC to act
+for competing hotels is an answer to any contention the implementation of the
+price competition policy was per se a breach of fiduciary duty” (para.
+104).  The issue was again reduced to the question of whether VAC was required
+to disclose the details of its financial arrangements with the Marriott. Chiasson
+J.A. concluded it was not. IV.    Issues [26]                         
+This appeal raises five issues, which I will
+address in turn: 1.      Did the trial judge err in finding that VAC was liable under
+s. 75 of the Real Estate Act for material false statements?  2.      Did the trial judge err in not considering the statutory
+defence available to a developer under s. 75(2)(b)(viii) of the Real Estate
+Act, and whether VAC could avail itself of that defence?  3.      Did the trial judge err in finding that the deemed reliance
+under s. 75(2)(a) of the Real Estate Act was non-rebuttable?  4.      Did the trial judge err in finding that VAC was liable for
+negligent misrepresentation under the common law?  5.      Did the trial judge err in finding VAC liable for breach of
+fiduciary duty? V.     Analysis A.     Misrepresentation
+Under the Real Estate Act          (1)           VAC’s
+Statutory Disclosure Obligations [27]                         
+I commence with a summary of the statutory
+disclosure requirements that were applicable in the context of this case. [28]                         
+The Hilton hotel strata lots were a
+combination of an interest in real estate and an interest in a rental pool,
+governed by the Securities Act, R.S.B.C. 1996, c. 418, and the Real
+Estate Act.  Both statutes governed VAC’s disclosure obligations.  Pursuant
+to those obligations, VAC marketed the strata lots using a document that was a
+combination of both a Securities Act “offering memorandum” and a Real
+Estate Act “disclosure statement”. [29]                         
+As to VAC’s disclosure obligations under the Securities
+Act, the strata lots were marketed on the basis of exemptions then found in
+ss. 45(2)(5) and 74(2)(4) of that Act.  Section 45(2)(5)
+provided that VAC did not have to register with the British Columbia Securities
+Commission to trade in the strata lots.  Section 74(2)(4) provided that
+VAC did not have to provide a Securities Act prospectus for the strata
+lots.  Both exemptions applied to trades — such as those involving the strata
+lots — in which a person purchased the security as a principal and the security
+had an aggregate acquisition cost of not less than a prescribed amount, in this
+case $97,000. [30]                         
+The minimum acquisition cost and the requirement
+that the purchaser be acting as principal imply that these
+conditions serve as a proxy for a degree of sophistication on the part of the
+investor, justifying a more defined disclosure obligation than that found under
+the prospectus requirements. Because the strata lots fell under these Securities
+Act exemptions, VAC was only required to submit an offering
+memorandum (British Columbia Securities Commission, Notice and Interpretation
+Note No. 96/36, “Real Estate Securities” (online)). VAC’s disclosure
+obligations under an offering memorandum were limited to disclosing specific
+matters that were prescribed by the B.C. Securities Commission in a document referred
+to as Form 43B. [31]                         
+As to VAC’s disclosure obligations under the Real
+Estate Act, s. 66(1) of that Act provided that the Superintendent of Real
+Estate could permit VAC to issue a disclosure statement as opposed to a
+prospectus.  The Superintendent of Real Estate appears to have exercised that
+discretion in this case.  VAC’s disclosure obligations in a disclosure
+statement were limited to specific matters that were prescribed by the Superintendent
+of Real Estate (pursuant to Real Estate Act, ss. 66(3)(a) and (c)). [32]                         
+Rather than issuing a separate offering
+memorandum and a separate disclosure statement, the Superintendent of Real
+Estate and the Securities Commission appear to have allowed developers to issue
+one document that combined the two.  The Hilton Disclosure Statement was such a
+document. In that document, as I have just explained, VAC was only required to
+disclose certain prescribed matters.  Of those prescribed matters, the only two
+of relevance to this appeal are Items 9 and 13 of Form 43B. [33]                         
+Item 9 of Form 43B required VAC to include a
+statement drawing attention to the speculative nature and inherent risks of a
+real estate investment and to disclose specific factors that “make the offering
+a risk or speculation”:                     ITEM 9 Risk Factors                     (1)   State:                     A real estate investment is, by its nature,
+speculative. If a purchaser is purchasing the real estate as an investment, the
+purchaser should be aware that this investment has not only the usual risks
+when purchasing real estate, but also those risks that are inherent to the
+nature of real estate securities.                     (2)   Disclose the risk factors that make the
+offering a risk or speculation.                     Instructions:
+Risk factors may include but are not limited to such matters as risks
+associated with real estate investments generally, reliance on the
+developer/managers efforts, ability and experience, inexperience of management,
+lack of financial expertise, reliance on the financial strength of the person
+offering the guarantee or financial commitment, cash flow and liquidity risks,
+financing risk, potential liability to make additional contributions beyond
+initial investments, restricted rights of a holder in the management and
+control of the strata corporation or business, inability to change the manager,
+restrictions on resale of the real estate securities, developer/manager
+conflicts of interests, and where the offering provides holders with a means to
+participate financially in a business such as a hotel, motel, resort or
+apartment hotel or other commercial enterprise, the general risks of the
+business, absence of an operating history of the business, and competition.                     (3)   If the real estate securities include a
+rental pool, state:                     The success or failure of the rental pool will
+depend in part on the abilities of the manager of the rental pool.                     (4)   If the owner will be responsible for
+paying a portion of the costs of the operation of the rental pool, state:                     If the revenue generated from the rental pool is
+less than the costs of operating the rental pool, then the purchaser must make
+additional contributions over and above the purchasers initial investment and
+financing costs.                     (5)   If the real estate securities include a
+guarantee or other financial commitment, state:                     The
+ability of [the person providing the guarantee] to perform under the [guarantee
+or other financial commitment] will depend on the financial strength of [the
+person]. See [the persons] financial statements on page [*]. There is no
+assurance that [the person] will have the financial ability to be able to
+satisfy its obligations under the [guarantee or other financial commitment] and
+therefore you may not receive any return from your investment. [Text in brackets in original.] [34]                         
+Item 13 of Form 43B required VAC to include a
+statement describing conflicts of interest and provided:                     ITEM 13 Conflicts of Interest                     Describe
+any existing or potential conflicts of interest among the developer, manager,
+promoter . . . in connection with the real estate securities which could
+reasonably be expected to affect the purchaser’s investment decision. [35]                         
+Article 4.9(i) of the Hilton Disclosure
+Statement is related to the Item 9 obligation to disclose risk factors:                     4.9      Risk Factors . . . (i)    Liabilities
+and Obligations of the Developer.  The Developer is currently developing
+the Vancouver Airport Marriott, a 237 room full service hotel, on the Parent
+Property.  The Vancouver Airport Marriott is scheduled for completion in or about
+June of 1998.  In this regard, the Developer has entered into purchase
+agreements, ancillary documents similar in form and substance to the
+Agreements, and certain additional agreements with purchasers of strata lots
+comprising the Vancouver Airport Marriott, all of which give rise to certain
+liabilities and obligations of the Developer which could impact upon its
+ability to perform its obligations under the Agreements.                     (A.R.,
+vol. II, at p. 164) Article 4.1 of the Hilton
+Disclosure Statement provided that “Agreements” meant “the Bylaws, the Hotel
+Asset Management Agreement, the Hotel Use Covenant, the Joinder in Covenant
+Agreement and the Purchase Agreement”. [36]                         
+Article 4.11 is related to the Item 13
+obligation to disclose conflicts of interest:                     4.11    Conflicts of Interest                     The
+Developer is not aware of any existing or potential conflicts of interest .  .  .
+that could reasonably be expected to materially affect the purchaser’s
+investment decision. . . .          (2)           Liability
+Under the Real Estate Act [37]                         
+Sharbern claims that VAC is liable for
+misrepresentations contained in arts. 4.9(i) and 4.11 of the Hilton Disclosure
+Statement in that they resulted in the “non-disclosure of a material conflict
+of interest” (A.F., at para. 1).  There are two potential causes of action
+here:  one under s. 75 of the Real Estate Act, and the other at common
+law under the tort of negligent misrepresentation.  I will first deal with the
+cause of action under the Real Estate Act. [38]                         
+Section 75 of the Real Estate Act
+provides the statutory mechanism pursuant to which an investor can hold a
+developer liable with respect to the representations found in a disclosure statement. 
+Under the Real Estate Act, if a “material false statement” is contained
+in a disclosure statement, the developer will be liable to investors for any
+resulting loss they may have sustained, and investors are deemed to have relied
+upon the representations made in the disclosure statement.  However, s. 75 also
+contains a defence which provides that if the developer had reasonable grounds
+to believe and did believe that the material false statement was true, it would
+not be liable.  (Although s. 75 uses the term “prospectus”, a disclosure
+statement is deemed under s. 66(2) of the Real Estate Act to be a
+prospectus for the purposes of the section.) The relevant parts of s. 75 of the
+Real Estate Act provide:                     75    (1)     In
+this section, “prospectus” includes every statement and report and
+summary of report required to be filed with the prospectus under this Part.                            (2)     If
+a prospectus has been accepted for filing by the superintendent under this
+Part,                                     (a)     every
+purchaser of any part of the subdivided land, shared interests in land or
+time share interests to which the prospectus relates is deemed to have
+relied on the representations made in the prospectus whether the purchaser
+has received the prospectus or not, and                                     (b)     if
+any material false statement is contained in the prospectus,                                              (i)      every
+person who is a director of the developer at the time of the issue of the
+prospectus,                                              (ii)     every
+person who, having authorized the naming, is named in the prospectus as a
+director of the developer,                                              (iii)    every
+person who is a developer, and                                              (iv)    every
+person who has authorized the issue of the prospectus                                              is
+liable to compensate all persons who have purchased the subdivided land,
+shared interests in land or time share interests for any loss or damage
+those persons may have sustained, unless it is proved . . .                                              (viii)  that, with
+respect to every untrue statement not purporting to be made on the
+authority of an expert, or of a public official document or statement, the
+person had reasonable grounds to believe and did, up to the time of the sale
+of the subdivided land, shared interests in land or time share interests believe
+that the statement was true . . . . [39]                         
+Under s. 75(2)(b) of the Real Estate Act,
+Sharbern has the onus to demonstrate that either or both of arts. 4.9(i) and
+4.11 contained a “material false statement”.  As the plaintiff, Sharbern bears
+this onus under the principle that the party who alleges a fact has the burden
+of proving it.  Nothing in the language of s. 75 suggests that a plaintiff
+advancing a statutory cause of action under the Real Estate Act does not
+bear this onus.  In order for art. 4.9(i) to contain a material false
+statement, the representation that VAC made indicating that it had entered into
+agreements with the Marriott that were “similar in form and substance” to those
+governing the Hilton must be shown to be a material false statement.  For art.
+4.11 to contain a material false statement, VAC’s representation that it was “not
+aware of any existing or potential conflicts of interest . . .
+that could reasonably be expected to materially affect the purchaser’s
+investment decision” must be found to be a material false statement.  If
+Sharbern satisfies that onus, VAC must then demonstrate that it had reasonable
+grounds to believe and did believe that the material false statements were
+true, in order to rely on the defence.          (3)           Materiality [40]                         
+In Kerr v. Danier Leather Inc., 2007 SCC
+44, [2007] 3 S.C.R. 331, Binnie J. wrote that “disclosure lies at the heart of
+an effective securities regime” and that the extent of disclosure is a matter
+of legislative policy that involves “[b]alancing the needs of the investor
+community against the burden imposed on issuers” (para. 5).  The materiality
+standard for disclosure “supplants the ‘buyer beware’ mind set of the common
+law with compelled disclosure of relevant information” while “recogniz[ing] the
+burden” that is placed on issuers to provide such disclosure (para. 32). [41]                         
+A materiality standard is a legislated and
+regulatory balancing between too much and too little disclosure.  As the
+Supreme Court of the United States cautioned in TSC Industries, Inc. v.
+Northway, Inc., 426 U.S. 438 (1976), at pp. 448-49:                     . . . if the standard of materiality
+is unnecessarily low, not only may the corporation and its management be
+subjected to liability for insignificant omissions or misstatements, but also
+management’s fear of exposing itself to substantial liability may cause it
+simply to bury the shareholders in an avalanche of trivial information — a
+result that is hardly conducive to informed decisionmaking. [42]                         
+Sharbern argues that in a prospectus context
+under the Real Estate Act, “asymmetries in knowledge and vulnerability”
+exist which would suggest that the materiality standard of disclosure should be
+high (A.F., at para. 32).  I infer that it is Sharbern’s position that when
+balancing the requirement to disclose in a prospectus context, the emphasis
+should be on more disclosure.  Although Sharbern does not suggest that VAC, in
+its capacity as developer, was acting as a fiduciary, Sharbern does say that
+VAC’s disclosure obligations should be the same as that of a fiduciary. [43]                         
+Potential investors are indeed vulnerable to the
+superior knowledge of an issuer as to what need and need not be disclosed. 
+That is the reason for legislated disclosure obligations in a securities context. 
+However, the jurisprudence has recognized that it is not in the interests of
+investors to be buried “in an avalanche of trivial information” that will
+impair decision making (TSC Industries, at p. 448).  As I will explain,
+the materiality standard calls for the disclosure of information that a
+reasonable investor would consider important in making an investment decision.          (4)           The
+Test for Materiality [44]                         
+The Real Estate Act does not define what
+is meant by the term “material” when it is used in the context of the “material
+false statement” required for liability under s. 75.  The parties submit that
+in interpreting materiality under s. 75, the Court should adopt the approach
+set out by the Supreme Court of the United States in TSC Industries.  In
+that case, the materiality of an omitted fact in a proxy solicitation context
+was determined based on whether there was a substantial likelihood that the
+disclosure of the omitted fact would have assumed actual significance in the
+deliberations of a reasonable investor. [45]                         
+The materiality test was described by the U.S.
+Supreme Court in TSC Industries:                                      .
+. . An omitted fact is material if there is a substantial likelihood that a
+reasonable shareholder would consider it important in deciding how to vote. 
+This standard is fully consistent with Mills’ general description of
+materiality as a requirement that “the defect have a significant propensity
+to affect the voting process.”  It does not require proof of a substantial
+likelihood that disclosure of the omitted fact would have caused the reasonable
+investor to change his vote.  What the standard does contemplate is a showing
+of a substantial likelihood that, under all the circumstances, the omitted fact
+would have assumed actual significance in the deliberations of the reasonable
+shareholder.  Put another way, there must be a substantial likelihood that the
+disclosure of the omitted fact would have been viewed by the reasonable
+investor as having significantly altered the “total mix” of information made available. 
+[Emphasis in original; p. 449.] The U.S. Supreme Court
+characterized materiality “as a mixed question of law and fact, involving as it
+does the application of a legal standard to a particular set of facts” (p.
+450). [46]                         
+The TSC Industries test is not a new
+concept in Canadian securities law.    The test has been adopted by a number of
+Canadian appellate courts: see Sparling v. Royal Trustco Ltd. (1984), 6
+D.L.R. (4th) 682 (Ont. C.A.), aff’d [1986] 2 S.C.R. 537; Harris v. Universal
+Explorations Ltd. (1982), 17 B.L.R. 135 (Alta. C.A.); and Inmet Mining
+Corp. v. Homestake Canada Inc., 2003 BCCA 610, 189 B.C.A.C. 251. [47]                         
+A disclosure statement under the Real Estate
+Act is analogous to the proxy solicitation in TSC Industries.  The
+analogy exists because the two documents share similar characteristics.  That
+is, both are (i) prepared unilaterally by management or a developer, (ii)
+prepared pursuant to statutory and/or regulatory obligations, (iii) used to
+provide information to investors (current or potential) to allow them to make
+informed choices, and (iv) used by investors in making decisions (either
+deciding how to vote or whether to invest).  Both are used by investors to make
+informed investment decisions based on information provided to them by a party that
+unilaterally controls what specific information to disclose, pursuant to
+statutory obligations. Therefore, it is appropriate to consider the TSC
+Industries test to determine the materiality of the representations under
+the Real Estate Act. [48]                         
+The U.S. Supreme Court indicated that it was
+“universally agreed” that the question of materiality is objective (TSC
+Industries, at p. 445). Materiality is based on an examination of how the
+information would have been viewed by a “reasonable investor”.  The U.S. Supreme
+Court concluded that the objective standard formulated in TSC Industries
+“best comports with the policies” (p. 449) of the proxy disclosure rules — the purposes of which were “not merely to
+ensure by judicial means that the transaction, when judged by its real terms,
+is fair and otherwise adequate, but to ensure disclosures by corporate
+management in order to enable the shareholders to make an informed choice” (p.
+448). [49]                         
+In order to define the appropriate threshold as
+to “just how significant a fact must be” (TSC Industries, at p. 445) to
+a reasonable investor before it becomes material, the court imposed a standard
+that requires that there must be a “substantial likelihood” that an omitted
+fact “would” be considered important.  This standard was imposed rather than
+the lesser standard which would require disclosure if an omitted fact “might”
+have been considered important.  In adopting the “would” standard, the U.S.
+Supreme Court approved of the words of Chief Judge Friendly of the U.S. Second
+Circuit Court of Appeals in Gerstle v. Gamble-Skogmo, Inc., 478 F.2d
+1281 (1973), where he wrote:                                      We
+think that, in a context such as this, the “might have been” standard . . .
+sets somewhat too low a threshold; the very fact that negligence suffices to
+invoke liability argues for a realistic standard of materiality. . . . 
+While the difference between “might” and “would” may seem gossamer, the former
+is too suggestive of mere possibility, however unlikely.  When account is taken
+of the heavy damages that may be imposed, a standard tending toward probability
+rather than toward mere possibility is more appropriate. [p. 1302] [50]                         
+At the same time, the U.S. Supreme Court
+clarified that a shareholder is not required to prove that the omitted fact
+would have caused a reasonable investor to change his or her vote.  What is
+required is proof of a substantial likelihood that the omitted fact would have
+assumed actual significance in the deliberations of a reasonable shareholder. 
+The standard was seen as consistent with the court’s description of materiality
+in its earlier decision in Mills v. Electric Auto-Lite Co., 396 U.S. 375
+(1970), that the defect or omission “have a significant propensity to
+affect the voting process” (p. 384 (emphasis in original)). [51]                         
+Given that materiality is determined
+objectively, from the perspective of a reasonable investor, I would add that
+the subjective views of the issuer do not come into play when assessing
+materiality.  As I will discuss later, with respect to VAC’s liability under
+the Real Estate Act, VAC’s subjective views only are taken into account when
+considering the defence under s. 75(2)(b)(viii), not when considering whether a
+false statement was material.  I make this observation because in art. 4.11 of
+the Hilton Disclosure Statement VAC represented that it was “not aware of any
+existing or potential conflicts of interest”.  The Court of Appeal appears to
+have treated this language as importing a subjective element into the analysis
+of VAC’s conflict representation, rather than treating it as an element of the
+statutory defence. [52]                         
+Finally, the U.S. Supreme Court indicated that
+the importance of an omitted fact must be considered in the light of whether it
+would be viewed by a reasonable investor as having “significantly altered the
+‘total mix’ of information made available”.  In certain situations, evidence of
+the information made available may be such that common sense inferences will be
+sufficient to establish materiality.  In other cases, where there is evidence
+that supports competing inferences, a court may be required to carry out a more
+complex analysis to determine what the reasonable investor would have
+considered important.   For the majority of cases, materiality is a contextual
+matter, involving the application of a legal standard to specific facts, that must
+be determined in light of all of the information that was made available to an
+investor.  Canadian and American authorities and commentary on materiality
+indicate that assessing materiality is a “fact-specific inquiry” (Basic Inc.
+v. Levinson, 485 U.S. 224 (1988), at p. 240).  Materiality is “to be
+determined on a case-by-case basis” (p. 250) in light of all of the relevant
+circumstances. [53]                         
+The United States Securities and Exchange
+Commission (“SEC”), in SEC Staff Accounting Bulletin: No. 99 — “Materiality”
+(August 12, 1999 (online)), says that quantitative and qualitative factors
+should be considered in assessing materiality and that this requires “a full
+analysis of all relevant considerations” (pp. 2-3).  The SEC wrote that “an
+assessment of materiality requires that one views the facts in the context of
+the ‘surrounding circumstances,’ as the accounting literature puts it, or the ‘total
+mix’ of information, in the words of the [U.S.] Supreme Court” (p. 3).  A
+fact-driven, contextual approach to determine materiality is also recommended
+in the Canadian Securities Administrators National Policy 51-201 Disclosure
+Standards (July 12, 2002). [54]                         
+Despite materiality being a question of mixed
+law and fact,  Sharbern asserts that “there is no need for a plaintiff to
+tender industry or expert evidence as to what would influence a reasonable
+investor because the question of materiality of conflicts of interest in a
+prospectus is uniquely for the court, involving a question of construction”
+(A.F., at para. 40).  To support this assertion, Sharbern refers to the words
+of Binnie J. in Kerr where he wrote that “disclosure is a matter of
+legal obligation” (para. 54).  In Kerr, Binnie J. was writing in the
+context of explaining that the business judgment rule “should not be used to
+qualify or undermine the duty of disclosure” (ibid.). [55]                         
+The business judgment rule is applied by courts
+when they are asked to resolve disputes involving business decisions made by
+managers (Kerr, at para. 54).  In Kerr, Binnie J. adopted Weiler
+J.A.’s description of the business judgment rule at p. 192 in Maple Leaf
+Foods Inc. v. Schneider Corp. (1998), 42 O.R. (3d) 177 (C.A.) as follows:                     The
+court looks to see that the directors made a reasonable decision not a perfect
+decision.  Provided the decision taken is within a range of reasonableness, the
+court ought not to substitute its opinion for that of the board even though
+subsequent events may have cast doubt on the board’s determination.  As long as
+the directors have selected one of several reasonable alternatives, deference
+is accorded to the board’s decision . . . .
+[Emphasis deleted . . . .] [Text in brackets in original; para.
+54.] [56]                         
+Binnie J. explained that the business judgment
+rule has been traditionally justified with respect to business decisions
+because (i) “judges are less expert than managers in making business
+decisions”, and (ii) “[i]n order to maximize returns for shareholders, managers
+should be free to take reasonable risks without having to worry that their
+business choices will later be second-guessed by judges” (Kerr, at para.
+58).  These traditional justifications for the rule “do not apply to disclosure
+decisions” (ibid.). [57]                         
+As I have explained, the question of materiality
+involves the application of a legal standard to a given set of facts.  Judges
+are not less expert than business managers when it comes to the application of
+a legal standard to a given set of facts; neither do managers’ assessments of
+risk have anything to do with meeting their disclosure obligations.  As Binnie
+J. observed, “[i]t is for the legislature and the courts, not business
+management, to set the legal disclosure requirements” (Kerr, at para.
+55). [58]                         
+Nothing in these reasons departs from the law as
+set out in Kerr.  VAC’s statutory obligation in this case was to
+disclose certain prescribed matters and, in doing so, to not make material
+false statements.  While VAC made its own assessment of what information it was
+required to include in the Hilton Disclosure Statement, it is the court that
+determines whether the disclosure made meets VAC’s legal obligations.  The
+court must therefore inquire into what the reasonable investor would consider
+as significantly altering the total mix of information made available.  This is
+a fact-specific inquiry, and except in those cases where common sense
+inferences are sufficient, the party alleging materiality must provide evidence
+in support of that contention. [59]                         
+In carrying out a materiality assessment, a
+court must first look at the information disclosed to investors at the time
+they made their investment decision.  In the present case, what I will refer to
+as “disclosed information” was the information contained in the Hilton
+Disclosure Statement.  The next step in determining whether an omitted fact or
+information (“omitted information”) would be considered as significantly
+altering the total mix of information made available is to consider the omitted
+information against the backdrop of what was disclosed.  In the present case,
+the significance of the Compensation Differences must be ascertained by
+comparing the omitted information (the guaranteed rate of return to Marriott Owners
+and the 5% management fee and added incentive payable to VAC by the Marriott
+Owners) to the disclosed information.  As part of this second step, a court may
+consider contextual evidence which helps to explain, interpret, or place the
+omitted information in a broader factual setting, provided it is viewed in the
+context of the disclosed information.  In this case, for example, evidence
+about the strong economic environment at the time investors made their
+investment decisions would help to evaluate whether the guaranteed rate of
+return given to Marriott Owners would have been significant in the context of
+the projections for high occupancy rates for the Hilton hotel that were
+disclosed in the Hilton Disclosure Statement. [60]                         
+Another type of evidence relevant to the
+materiality assessment is evidence of concurrent or subsequent conduct or
+events that would shed light on potential or actual behaviour of persons in the
+same or similar situations (“behaviour evidence”).  For example, a plaintiff
+would not be precluded from introducing evidence, if available, that the
+defendant acted on a conflict of interest even though that evidence pertained
+to events arising subsequent to the investors making their investment
+decisions.  Similarly, a defendant would not be precluded from bringing
+evidence that investors had information not included in the disclosure
+documents at the time they were making their investment decisions, or that
+investors who had the information acted in a certain way.  Beyond this
+behaviour evidence, evidence of common knowledge or, depending upon the
+circumstances, knowledge specific to particular investors would also be
+admissible.  Nonetheless, in considering the question of materiality, the
+predominant focus is on the disclosed and omitted information. [61]                         
+In sum, the important aspects of the test for
+materiality are as follows: i.       Materiality is a question of mixed law and fact, determined
+objectively, from the perspective of a reasonable investor; ii.      An omitted fact is material if there is a substantial
+likelihood that it would have been considered important by a reasonable
+investor in making his or her decision, rather than if the fact merely might
+have been considered important.  In other words, an omitted fact is material if
+there is a substantial likelihood that its disclosure would have been viewed by
+the reasonable investor as having significantly altered the total mix of
+information made available; iii.     The proof required is not that the material fact would have
+changed the decision, but that there was a substantial likelihood it would have
+assumed actual significance in a reasonable investor’s deliberations; iv.     Materiality involves the application of a legal standard to
+particular facts.  It is a fact-specific inquiry, to be determined on a
+case-by-case basis in light of all of the relevant considerations and from the
+surrounding circumstances forming the total mix of information made available
+to investors; and v.      The materiality of a fact, statement or omission must be
+proven through evidence by the party alleging materiality, except in those
+cases where common sense inferences are sufficient.  A court must first look at
+the disclosed information and the omitted information.  A court may also
+consider contextual evidence which helps to explain, interpret, or place the
+omitted information in a broader factual setting, provided it is viewed in the
+context of the disclosed information.  As well, evidence of concurrent or
+subsequent conduct or events that would shed light on potential or actual
+behaviour of persons in the same or similar situations is relevant to the
+materiality assessment.  However, the predominant focus must be on a contextual
+consideration of what information was  disclosed, and what facts or information
+were omitted from the disclosure documents provided by the issuer.          (5)           Analysis
+of the Trial Judge’s Materiality Assessment [62]                         
+I now turn to the trial judge’s materiality
+assessment.  In my respectful view, the trial judge made three interrelated errors
+of law in her treatment of the materiality of VAC’s alleged conflict of
+interest stemming from the Compensation Differences, which impact upon her
+assessment of whether the Hilton Disclosure Statement contained a material
+false statement.  First, she equated the existence of a potential or actual
+conflict of interest with materiality, essentially treating a conflict of
+interest as inherently material.  Second, she reversed the onus on Sharbern as
+plaintiff to prove materiality and placed an onus on VAC to disprove
+materiality.  Third, she failed to consider all of the evidence available to
+her on the issue of materiality. I will deal with these errors in turn. [63]                         
+Although much time was dedicated to the question
+in her analysis, the key issue before the trial judge was not whether a
+potential or actual conflict of interest existed. The existence of non-material
+conflicts of interest had been acknowledged by VAC in arts. 4.9(i) and 4.11 of
+the Hilton Disclosure Statement.  Rather, the key issue was whether the
+Compensation Differences and the potential or actual conflict of interest they
+created were material, thereby rendering VAC’s failure to disclose  them
+“material false statements” attracting liability under the statute. [64]                         
+A careful review of Wedge J.’s reasons shows
+that once she had determined that there was a potential or actual conflict of
+interest, she found that there was an obligation to disclose the conflict as if
+the existence of the conflict itself was inherently material.  For example,
+before she had even considered the issue of materiality, Wedge J. states, at
+para. 310, that “[g]iven the existence of the conflict described above, VAC was
+required to disclose the nature of those agreements” evidencing the
+Compensation Differences.  Similarly, when speaking about the evidence led by
+VAC concerning the benefits to the hotels of sharing resources and expenses,
+she determined that “[i]t is for the investor to decide whether the benefits of
+cost and resource sharing outweigh the detriment of the conflict. An investor
+cannot engage in that weighing process unless the conflict is disclosed” (para.
+304).  Again, this is before the trial judge had made any determinations with
+respect to the materiality of the conflict of interest. [65]                         
+Treating a conflict of interest as inherently
+material led the trial judge to other manifestations of the same error of law. 
+One is that she misinterpreted the statutory disclosure requirement.  She said
+that the conflict of interest must be disclosed so that investors can weigh its
+costs and benefits against those of other factors.  However, the statutory
+requirement does not impose on issuers an obligation to disclose all facts that
+would permit an investor to sort out what was material and what was not. This
+approach would not only result in excessive disclosure, regardless of
+materiality, it would overwhelm investors with information and impair, rather
+than enhance, their ability to make decisions. [66]                         
+Further, by holding that the failure to disclose
+the existence of conflict of interest is sufficient to attract liability for a
+material false statement, the trial judge misinterpreted the test for
+materiality.   If the mere existence of a potential or actual conflict of
+interest creates an obligation to disclose it, without a proper inquiry into
+the materiality of the conflict, this approaches the standard of material fact
+used by the Court of Appeals in TSC Industries of “all facts which a
+reasonable stockholder might consider important” (sub nom. Northway, Inc. v.
+TSC Industries, Inc., 512 F.2d 324 (7th Cir. 1975), at para. 3).  That
+standard has been rejected by the U.S. Supreme Court and now by this Court in
+these reasons. [67]                         
+In assessing materiality, the trial judge
+pointed to the test set out in TSC Industries and concluded:                                      I
+am satisfied that VAC’s ability to make more money under the Marriott guarantee
+when a potential customer chose the Marriott over the Hilton would have assumed
+actual significance in the deliberations of a reasonable investor, as would the
+fact that VAC made more money in management fees if the Marriott revenue was
+relatively higher than the Hilton revenue. [para. 321] However, she does not
+address how or why there is a substantial likelihood that the Compensation
+Differences would be viewed by reasonable investors in the Hilton strata lots
+as significantly altering the total mix of the information made available.  She
+appears to make a common sense inference that the Compensation Differences
+would have been material, without offering any analysis of how the conflict
+created by the Compensation Differences would fit into the mix of all other
+relevant information, nor does she take notice of what the total mix of
+information would be. [68]                         
+There was evidence, which I will discuss more
+fully below, which could have supported the opposite inference, that the
+Compensation Differences or the omitted information were not material in the
+context of what had already been disclosed to investors.  For example, the
+disclosed  information included information about the economic environment at
+the time of the sale of the strata lots; the financial benefits offered to the
+Hilton Owners, such as the management fee payable to VAC; information about
+common management by VAC and resulting risk factors; and information relevant to
+VAC’s limited ability to prefer its own interests.  The trial judge also had
+behaviour evidence led by VAC about what the conduct of fully informed
+investors had been.  In my view, this evidence demonstrated that competing
+inferences could be drawn in this case and added a layer of complexity to the
+materiality analysis that took it outside the realm of drawing a simple, common
+sense inference.  A more detailed analysis of the evidence constituting the
+“total mix” of information was required in order to make a determination about
+what a reasonable investor would have considered significant. [69]                         
+Wedge J.’s error in treating a conflict of
+interest as inherently material is interrelated with her second error, which
+was to reverse the onus of proof.  Once she was satisfied that Sharbern had
+proven the existence of a conflict of interest, she turned to VAC to show why
+it was not material. The result was that she made the determination that the
+conflict of interest was material without requiring Sharbern to satisfy its
+burden, as plaintiff, of proving materiality. [70]                         
+Having found a conflict of interest to be
+inherently material, the trial judge looked to VAC to show proof that it was
+not.  She considered VAC’s submissions that the Compensation Differences would
+not have been material in light of all the disclosed information about common
+management in the Hilton Disclosure Statement.  She then stated:  “I cannot
+agree with VAC’s submission concerning materiality” (para. 320) and concluded
+that “the presence of an actual or potential conflict of interest on the part
+of [VAC] would concern any reasonable person contemplating investing more than
+$100,000 in a strata unit” (para. 321).  While observing that “no expert
+evidence was advanced with respect to the knowledge of the reasonable investor”
+(para. 317), she neither proceeded with an analysis of other evidence of
+materiality adduced by Sharbern, nor commented upon the absence of any such
+evidence.  As stated above, the onus of proving the materiality of a fact,
+statement or omission rests with the person alleging materiality.  Sharbern did
+not adduce any evidence supporting the materiality of the Compensation
+Differences (other than the Hilton Disclosure Statement and the omitted
+information).  It did not provide evidence to explain or place the omitted
+information into the context of the disclosed information in a way that would
+show its materiality.  There is nothing in the trial judge’s analysis to
+indicate that Sharbern satisfied its burden. [71]                         
+The third error evident from the decision of
+Wedge J. is that she failed to consider all the evidence available to her on
+the issue of materiality.  I am not unmindful that “[i]n reviewing the
+decisions of trial judges in all cases . . .
+it is important that the appellate court remind itself of the narrow scope of
+appellate review” with respect to factual matters (Van de Perre v. Edwards,
+2001 SCC 60, [2001] 2 S.C.R. 1014, at para. 11; see also Housen v.
+Nikolaisen, 2002 SCC 33, [2002] 2 S.C.R. 235, at para. 46).  When a
+question of mixed fact and law is at issue, the findings of a trial judge
+should be deferred to unless it is possible to extricate a legal error (Housen,
+at para. 37).  Within this narrow scope of review, an appellate court may
+“reconsider the evidence” proffered at trial when there is a “reasoned belief
+that the trial judge must have forgotten, ignored or misconceived the evidence
+in a way that affected his [or her] conclusion” and thereby erred in law (Van
+de Perre, at para. 15).  As I will now explain, Wedge J. ignored and
+misconceived evidence relevant to the question of materiality in a way that
+affected her conclusions. [72]                         
+The statutory disclosure requirements only
+oblige issuers to disclose certain prescribed information.  Where the issuer’s
+disclosure is challenged, the court must determine whether the omitted
+information was material in the context of the “total mix” of information made
+available to the investor.  While Wedge J. considered some evidence in relation
+to materiality (i.e. the language and general circumstances surrounding the
+Hilton Disclosure Statement), she failed to consider other relevant evidence. 
+For example, she rejected much of the evidence adduced by VAC as being
+irrelevant to the issue of the existence of a conflict of interest. There is no
+indication that she considered that evidence, as she was required to do, in
+assessing the materiality of the Compensation Differences. [73]                         
+As I will detail below, evidence of factors such
+as the general economic climate at the time the strata lots were sold, the
+financial arrangements offered to Hilton Owners, the disclosure made by VAC of
+common management and risk factors, and the limited extent of VAC’s ability to
+act upon the Compensation Differences in its own interests may be of little
+weight in determining whether a potential or actual conflict of interest
+existed as a result of the Compensation Differences.  However, as mentioned
+above, those factors constituted disclosed information that would come into
+play as relevant to the issue of whether reasonable investors would have
+considered the omitted information important to their investment decision.          (a)      The Economic Environment [74]                         
+The Hilton Disclosure Statement warned that “[t]o
+the extent that there are more hotel rooms available in a particular market than
+there is demand for those rooms, then both occupancy and room rental rates may
+be adversely effected [sic]. There are other hotels which are planned
+for the Richmond and Vancouver markets” (art. 4.9(b)).  However, it also stated
+that “Richmond is ranked as having the highest hotel occupancy of any market in
+Canada and the United States for the full year 1996” and was showing similar
+promise for 1997 (point 5 of the executive summary).  The information about the
+high hotel occupancy rates in Richmond, coupled with the optimistic projections
+made in the Hilton Disclosure Statement, are relevant considerations the trial
+judge should have taken into account and suggested that the Hilton would not
+have a problem with occupancy rates, or need to worry about competition from
+the Marriott.  This information about the economic environment was disclosed
+information forming part of the total mix of information made available to
+investors, against which they would have weighed the importance of the omitted
+information.          (b)      Financial Benefits to
+Hilton Owners [75]                         
+The omitted information about VAC’s agreements
+with the Marriott Owners would have been assessed by a reasonable investor in
+comparison to the disclosed information about the financial arrangements given
+to Hilton Owners. Although they did not receive a guarantee, the lower
+management fee of 3% instead of 5% and an added incentive had been given to
+Hilton Owners to increase their projected rate of return.  The advantage of
+paying a low percentage management fee could have supported an inference that
+there were financial arrangements to counterbalance the omitted information
+about financial arrangements for the Marriott Owners even if they left the
+alleged incentive for favouritism unchanged.          (c)      Disclosure of Common
+Ownership and/or Management and Risk Factors [76]                         
+The Hilton Disclosure Statement disclosed that
+the developer of the Hilton was also developing the Marriott, and was the owner
+of the Richmond Inn.  In the risk factors, VAC disclosed that its agreements
+with the Marriott “give rise to certain liabilities and obligations of the
+Developer which could impact upon its ability to perform its obligations under
+the Agreements” with the Hilton strata lot owners (art. 4.9(i)).  VAC also
+disclosed that the Asset Manager would be the same for the Hilton and the
+Marriott, and that the day-to-day management of the Hilton would be
+subcontracted to the manager of the Richmond Inn.  The Hilton Disclosure
+Statement states that “[t]he success of the Hotel will depend in large measure
+on the ability of the Developer as Asset Manager” and that “the success or
+failure of the Rental Pool will depend in part on the managerial abilities of
+the Asset Manager” (art. 4.9(e) (emphasis deleted)). [77]                         
+Although the trial judge rejected VAC’s submission
+that its disclosure of potential conflicts had been sufficient, she noted in
+her reasons that because the two hotels were in direct competition for
+clientele, “the interests of their owners were not congruent” (para. 299).  Nonetheless,
+she acknowledged that “Hilton Owners consented to VAC acting for other
+principals competing in the same market” (para. 425). While all of this
+evidence was reviewed by the trial judge in other contexts, in my respectful
+opinion, she failed to assess whether there was a substantial likelihood that a
+reasonable investor in a Hilton strata lot would have viewed the Compensation
+Differences and their potential for creating a conflict of interest as
+significantly altering the information already possessed about the potential
+risk factors.          (d)      VAC Had No Practical Means
+or Incentive to Favour the Marriott [78]                         
+VAC led evidence at trial in an attempt to show
+why it would not have preferred the Marriott and that it did not do so.  VAC
+submits that this evidence shows that the conflict of interest did not manifest
+itself in practice, and that VAC had no practical means or the incentive to
+favour the Marriott over the Hilton.  VAC argues that this evidence “support[s]
+VAC’s conclusion that the potential conflict of interest was not material at
+the time of disclosure” (R.F., at para. 91).  The trial judge considered this
+evidence in the conflict of interest stage of her analysis.  There, she found
+that it did “not go to the issue of the existence of conflict” but rather “goes
+only to whether VAC would have acted on the opportunities raised by the
+conflict” (para. 306).  She does not appear to have considered it with respect
+to whether it would be relevant to the question of materiality. [79]                         
+The evidence adduced by VAC that would show it had
+limited practical means and limited incentives to favour the Marriott over the
+Hilton includes evidence that VAC had a limited ability to market the hotels in
+a manner that favoured one hotel over the other.  Evidence led at trial and
+discussed by the trial judge in her fiduciary duty analysis suggested about
+half of the hotels’ traffic was generated by marketing at the
+international/national level by the Hilton and Marriott chains.  While we
+should avoid considering this percentage, which did not constitute disclosed
+information, the Hilton Disclosure Statement did disclose that investors could
+expect to “benefit from [the] strength of Hilton’s worldwide reservations
+system and the worldwide recognition provided by [the Hilton chains]” (point 3
+of the executive summary). [80]                         
+The Hotel Asset Management Agreement under which
+VAC managed the Hilton hotel was disclosed information.  That agreement required
+VAC to manage the Hilton hotel in a commercially reasonable manner and
+contained a number of obligations to use reasonable efforts.   Even if the
+Hilton Owners had been aware of the omitted information, their concerns about
+any potential favouritism of the Marriott hotel would have been displaced by
+this contractual obligation imposed on VAC.  The requirement to operate the
+hotel in a commercially reasonable manner would be inconsistent with VAC
+favouring one hotel to the detriment of the other, and served as a means to
+contractually preclude VAC from doing so.          (e)      Evidence of Conduct of Fully
+Informed Investor [81]                         
+Another piece of evidence that should have been
+included in the trial judge’s materiality assessment was that Tevan Trading
+Ltd. (“Tevan”) (the largest investor in the Hilton strata lots other than VAC’s
+parent company) owned units in both the Hilton and the Marriott.  Tevan
+purchased six Hilton units on March 17, 1998, and then additional Hilton units
+on March 23, 1998, along with four Marriott units on the same day.  The
+Marriott units became available to Tevan because certain buyers in the Marriott
+had cancelled their purchases.  While the details of the Compensation
+Differences would have been known to Tevan when it invested in the Hilton on
+March 23, 1998, they did not appear to affect Tevan’s decision to invest in the
+Hilton as well as the Marriott.  It is true that Tevan is only one investor,
+and there is no evidence about Tevan’s intentions in buying strata units in the
+Hilton and Marriott.  Thus, one cannot jump to the conclusion that Tevan alone
+represents the “reasonable investor”.  Nonetheless, the trial judge was
+required to consider this behaviour evidence as part of her determination of
+the substantial likelihood that a reasonable investor would have seen any
+conflict created by the Compensation Differences as significantly altering the
+total mix of information he or she had available.          (f)       Evidence of the
+Investor Committee Meetings [82]                         
+Finally, there was also relevant behaviour
+evidence concerning the Hilton Owners’ investor committee meetings.  Minutes of
+those meetings record questions raised by the Hilton Owners over concerns they
+had with the hotel.  There is no indication in these Minutes that the Hilton
+Owners were concerned about the Compensation Differences prior to the filing of
+their statement of claim in June 2003.  This lack of concern would suggest that
+the Compensation Differences were not material. [83]                         
+In particular, VAC disclosed the existence of
+the guarantee in favour of the Marriott Owners at an investors committee
+meeting with the Hilton Owners on June 14, 2000.  The timing of the disclosure
+of the differential management fee is not clear.  While numerous concerns were
+raised by the investors during these meetings — ranging from concerns over pastry
+contracts to concerns over strata fees, advertising and the franchise agreement
+— none of the Minutes of any of the investor committee meetings subsequent to
+the June 14, 2000 disclosure record any questions that would evidence a concern
+over the guarantee. [84]                         
+Under the guarantee, VAC sustained a liability
+of over $13 million.  The financial impact or incentive for VAC from the
+management fee differentials would have been considerably less.  While the
+differential in management fees might be thought to support Sharbern’s argument
+that it created an incentive for VAC to favour the Marriott, from the
+perspective of the Hilton Owners, the lower management fee payable would also
+have appeared favourable to them.  Further, VAC manager Timothy Mashford, who
+was present during many of the investor committee meetings, testified that at
+no time did any of the investors express any concern that the Hilton, Marriott
+and Richmond Inn were being commonly managed by VAC. [85]                         
+In sum, the evidence summarized in the preceding
+paragraphs should have been considered by the trial judge in applying the
+materiality standard to the facts of this case.   Some of the evidence referred
+to above helps to place the omitted information in the factual context of the
+total mix of disclosed information, in order to evaluate whether the omitted
+information would have been considered important by reasonable investors in
+making their investment decisions.  While not part of the total mix, the
+behaviour evidence of fully informed investors, either prior to making their
+investment decisions (e.g. the Tevan evidence) or subsequent to their
+investment (e.g. the investor committee meetings evidence), when they learned
+of the guarantee, was also relevant to the trial judge’s determination of
+whether the reasonable investor would have considered the Compensation
+Differences material.          (6)           Sharbern’s
+Burden of Proof [86]                         
+For its part, Sharbern was not required to prove
+that investors would not have purchased the Hilton strata lots had they known
+about the Compensation Differences. However, Sharbern did have the burden of
+proving, on a balance of probabilities, the substantial likelihood that
+disclosure of the omitted information would have significantly altered the
+total mix of information made available to reasonable investors in the Hilton
+strata lots. [87]                         
+To the extent it existed, in cases where common
+sense inferences are not sufficient, a plaintiff could lead the following types
+of evidence in the discharge of that burden: i.       that potential investors who knew of the Compensation
+Differences declined to invest in Hilton strata lots or exhibited concern and
+doubts about the investment because of them; ii.      that potential investors declined to invest in the Hilton
+strata lots because they found there was insufficient disclosure about the
+common management of the Hilton and Marriott hotels and the conflict of
+interest; iii.     that once the Hilton Owners became aware of the
+Compensation Differences, they expressed significant concerns about them and
+challenged VAC’s ability to properly manage the Hilton hotel in accordance with
+its contractual obligations; iv.     that VAC’s marketing efforts and management of the hotel were
+not carried out diligently in good faith; and v.      that VAC acted on the conflict of interest to the detriment
+of Hilton Owners. Some of this evidence
+might have required expert evidence.  However, if it existed, evidence could
+have been obtained through the pre-trial discovery process, including
+production of documents, or demonstrated at trial through the cross-examination
+of VAC’s employees.  The above list is not exhaustive, nor is a plaintiff
+required to lead all of the evidence on that list in order to prove
+materiality.  Because the materiality determination is case-specific, the
+evidence that is required in any given case will vary with the circumstances. [88]                         
+The only evidence adduced by Sharbern in
+relation to these types of considerations was evidence of a non-competition
+policy implemented by VAC in 2002 that provided that the Hilton, the Marriott
+and the Richmond Inn would not engage in price competition with respect to each
+other’s top ten clients by undercutting room rates. Without deciding upon the
+merits or actual effect of the policy, the trial judge commented that because
+the Marriott had been in operation one year longer than the Hilton, it had a
+competitive advantage over the Hilton such that any agreement favouring the status
+quo was to the benefit of the Marriott.  Sharbern alleged that the policy
+was detrimental to the Hilton hotel and therefore proved that VAC had used its
+position as a common manager to favour the Marriott hotel and, consequently,
+its own interests. [89]                         
+As the non-competition policy was developed long
+after the time period of VAC’s statutory disclosure obligations, I will
+concentrate my analysis of it on the alleged breaches of fiduciary duty.  As
+discussed more fully below, in my view the materiality of the non-competition
+agreement was not established on the evidence.  The evidence was that the
+Marriott would match the Hilton’s pricing in order to retain customers.  It is
+indeed dubious that any hotel would sit idly by and watch its competitor take
+its customers through lower pricing in a poor market environment without taking
+steps to retain those customers.  It is apparent that VAC saw price competition
+as merely resulting in an attrition of revenue for all three hotels and sought
+to prevent such a result.  That could hardly be seen as prejudicial to the Hilton. 
+Moreover, whether or not it could be viewed as material or as having an effect
+on the Hilton occupancy rates would have depended upon an assessment of how it
+compared with the other arrangements that existed between the hotels, such as
+evidence about the sharing or referral of Marriott customers to the Hilton and
+Richmond Inn.  We do not have the benefit of such an assessment. [90]                         
+Sharbern failed to adduce any other evidence to
+prove there was a substantial likelihood that disclosure of the Compensation
+Differences would have significantly altered the total mix of information that
+was made available to reasonable investors in the Hilton strata lots.          (7)           Conclusions
+on Materiality [91]                         
+In sum, the trial judge erred in law by treating
+this conflict of interest as inherently material, reversing the onus of proof
+of materiality, and failing to consider all of the evidence relevant to the
+determination of materiality.  It also appears from the record before the trial
+court that no evidence was adduced by Sharbern which could reasonably have
+supported a finding that the Compensation Differences and any conflict of
+interest they created were material. Separating materiality from the conflict
+of interest analysis, applying the burden of proof appropriately and taking
+account of all relevant evidence, I am of the opinion that it has not been
+demonstrated that there was a substantial likelihood that disclosure of the
+Compensation Differences would have assumed actual significance in a reasonable
+investor’s investment decision. B.     The
+Statutory Defence          (1)      The
+Legal Test [92]                         
+Even if VAC were found to have made a “material
+false statement”, s. 75(2)(b)(viii) of the Real Estate Act provides VAC
+with a defence if it can prove that it “had reasonable grounds to believe and
+did, up to the time of the sale . . . believe that the statement was true”.  To
+rely on the defence, VAC had to show (1) that it subjectively believed the
+representations it made were true, and (2) that it objectively had “reasonable
+grounds” for such a belief.  In considering the defence, the question is not
+whether VAC’s conclusion itself was reasonable.  Rather it is whether VAC
+subjectively believed its representations, and whether that belief had an
+objective basis in the sense that there were reasonable grounds for the belief. [93]                         
+The statutory defence found in s. 75(2)(b)(viii)
+of the Real Estate Act does not appear to have been considered by the
+trial judge.  It is not mentioned by her at any point.  At para. 323, Wedge J.
+reproduced portions of s. 75 of the Real Estate Act; however, she did
+not go so far as to reproduce the portion of s. 75 that contained the statutory
+defence.  In addition, the common liability questions made no mention of the
+statutory defence. [94]                         
+When a trial judge does not consider a statutory
+defence, an appellate court may do so or remit the defence to the trial court
+for its consideration (Hollis v. Dow Corning Corp., [1995] 4 S.C.R. 634,
+at para. 33).   In this case, it is both feasible on a practical level and in
+the interests of justice for this Court to make a fresh assessment of the
+evidence on the record with respect to the defence. [95]                         
+In my opinion, even if VAC were shown to have
+made a material false statement, the statutory defence contained in s.
+75(2)(b)(viii) of the Real Estate Act would preclude VAC from being
+found liable under s. 75(2).  As I will shortly explain, the evidence indicates
+that VAC subjectively believed, and objectively had reasonable grounds to
+believe, that it was making true statements when it did not disclose the
+details of the Compensation Differences and represented in the Hilton
+Disclosure Statement: (i)  that it had entered into agreements with the
+Marriott that were “similar in form and substance” to those governing the
+Hilton (art. 4.9(i)); and (ii) that it was “not aware of any existing or
+potential conflicts of interest . . . that could reasonably be
+expected to materially affect the purchaser’s investment decision” (art. 4.11). [96]                         
+The evidence establishing the subjective and
+objective components of the defence is evidence of (i) common industry
+practices and (ii) VAC’s limited practical means and incentives to prefer the
+Marriott.  Significantly, Sharbern did not draw this Court’s attention to any
+evidence that would negate the defence.          (2)      Common
+Industry Practice Evidence [97]                         
+The Hilton Disclosure Statement disclosed that
+VAC’s parent company, Larco Investments, itself or through its subsidiaries,
+concurrently owned or managed a Delta and a Ramada hotel in Vancouver, a
+Holiday Inn at Whistler, a Delta and a Radisson hotel in Toronto and other
+hotels across Canada.  As noted by the Court of Appeal, “VAC relied on the
+extensive factual and expert evidence it adduced concerning actual and industry
+practice in the management of multiple hotels by a single entity.  There was no
+evidence to the contrary and no evidence objectively to support the conclusion
+a reasonable investor would be concerned about the details of the financial
+arrangements” (para. 76). [98]                         
+Wedge J. rejected VAC’s industry practice
+evidence finding it of “little probative value” in relation to whether it
+proved that a conflict of interest existed in the common management of the
+Hilton and the Marriott (para. 296).  This finding was based on her view that                     there
+was no evidence offered by VAC (or its experts) as to whether those properties
+were in the same competitive set, whether the management fee or other financial
+arrangements governing the properties were the same, whether those details were
+disclosed to the owners, or, most importantly, whether there were
+representations to investors concerning potential or actual conflicts of
+interest as a result of common management. [ibid.] However, as I will now
+explain, I am of the opinion that Wedge J. erred in law when she said that
+there was “no evidence”, as there was evidence.  Further, while proving the
+lack of a material conflict of interest in one common management scenario may
+be of little help in proving or disproving the existence of a material conflict
+of interest in another, evidence that hotel managers routinely act for
+competing hotels would be relevant to the question of whether resulting
+conflicts of interest are generally seen as material. [99]                         
+VAC adduced evidence that it was a common
+industry practice for different hotels to be commonly managed in the same
+market, with different management contracts and financial arrangements for each
+hotel, and with different owners who were not aware of the terms of the
+contract with the other hotels.  VAC’s witnesses, including Joann Pfeifer,
+testified that they believed that common management would be an advantage
+allowing the participating hotels to maximize profits.  Joel Rosen, who was
+qualified as an expert in the hotel consulting field, testified that it was a
+common practice in the hotel industry for the same manager to commonly manage
+competing hotels in the same market and that this practice had “been the case
+for many years” (R.R., vol. 6, at p. 1159).  In his expert report, Mr. Rosen
+opined that “a hotel management company operating multiple competing properties
+in a market is not uncommon” (R.R., vol. 30, at p. 6006).  By way of example he
+discussed certain luxury hotels in various cities in the United States,
+remarking that                             the management contracts may be the same
+or different in each city, depending on the negotiations at the time the
+contracts were determined.  The fees may differ, the calculation of the
+incentive fee may differ, the termination clause may differ, etc.  The
+contracts do not mirror each other at all in each city and in fact the owner of
+one hotel would not know the terms of the contract at the other hotel in their
+city.                     (Ibid.
+(emphasis added)) [100]                     
+VAC also adduced evidence of the perspective and
+experience of its principals and senior managers.  VAC’s sole director and
+officer, Amin Lalji, when asked about separately owned, commonly managed
+hotels, testified that “there were plenty of examples prevailing in the market
+where this is a common practice of most hotel companies, where they would be
+managing hotels for different ownership structures”  (R.R., vol. 8, at p.
+1478).  Lalji then cited examples in the B.C. market in which there was common
+management of competing hotels.  Similarly, a senior manager hired by Lalji,
+Joann Pfeifer, testified that some of the Delta hotels in Vancouver were
+managed by the same company, with different owners, and with different
+compensation structures in place for the manager. [101]                     
+The evidence is that it was a common industry
+practice for different competing hotels to be commonly managed with the
+different owners not being aware of the terms of the contracts at each hotel. 
+From this evidence, it can be inferred that VAC had both a subjective and objective
+basis for concluding that a reference to the Compensation Differences in the
+Hilton Disclosure Statement was neither expected nor required.          (3)      Evidence
+of Limited Practical Means and Incentives to Prefer [102]                     
+The evidence of VAC’s limited practical means
+and incentives to prefer the Marriott over the Hilton (which I summarized
+above) is also relevant to determining whether the subjective and objective
+components of the statutory defence have been established.  For example,
+evidence, provided on the details of industry and client practices that would
+have affected comparative occupancy rates and limited VAC’s ability to induce
+Hilton clients to switch to the Marriott, is relevant to whether there was an
+objective basis for VAC’s belief that the Compensation Differences were not
+material.  Evidence was adduced that relative hotel occupancy was affected to a
+large degree by independent factors such as international or national
+marketing. [103]                     
+With respect to the hotel business that was
+generated locally, the trial judge observed that much was won through a formal
+request-for-proposal process from corporate clients.  The manner in which VAC
+participated in this formal request-for-proposal process would have been
+subject to VAC’s contractual obligations under the Hotel Asset Management
+Agreement to manage the Hilton in a commercially reasonable manner.  To avoid
+liability for breach of contract, VAC would have no room under the formal
+request-for-proposal process to market the hotels in a manner that favoured the
+Marriott over the Hilton.  Thus, there was an objective basis for VAC believing
+that, even if the Compensation Differences created an incentive to favour the
+Marriott, it could not have materially affected the relative occupancy rates of
+the Hilton or the Marriott had it tried to do so. [104]                     
+Evidence of VAC’s knowledge and motivations
+would also be relevant to the inquiry.  Such evidence included testimony
+provided by VAC’s senior manager that she could not have retained managers for
+the Hilton and the Marriott if these managers had been directed to favour one
+hotel over the other. One of VAC’s principals also testified that neither Larco
+Investments nor VAC would have risked their reputations by engaging in
+preferential conduct. [105]                     
+Further, evidence about the sharing of common
+resources and expenses between the Marriott, the Richmond Inn and the Hilton,
+such as joint contracts for airport shuttle bus service, airline crew
+transportation, dry cleaning, hotel laundry and armoured car pickup, and shared
+personnel such as a chief engineer, executive housekeeper and payroll
+assistant, substantiates VAC’s belief that the Hilton would derive benefits
+from the common management arrangement.  In my opinion, the efficiencies of
+shared services and the potential for business referrals could reasonably have
+factored into VAC’s assessment of whether the Compensation Differences were
+material. [106]                     
+According to s. 75(2)(b)(viii) of the Real
+Estate Act, the relevant time period to assess VAC’s beliefs is “up to the
+time of the sale”. When the lots were being marketed, occupancy rates were
+expected to remain high.  The evidence was that VAC would not have been
+concerned at that stage about liability from the guarantee of gross revenues
+given to Marriott Owners, especially given that, on the evidence, it had
+intended to make the same offer to Hilton Owners until dissuaded by legal
+advisors.  Similarly, it had reduced the management fee payable by Hilton
+Owners, not to provide a benefit to itself or an advantage to Marriott Owners,
+but in order to give increased revenues to Hilton Owners. [107]                     
+In my view, the evidence supports the claim that
+VAC subjectively believed and had a reasonable basis for believing that the
+financial arrangements for the two developments were similar, despite the
+differences in detail.  It is no coincidence that Sharbern’s action against VAC
+focussed mainly on the claims of negligent misrepresentation and fraud in
+relation to the financial projections.  Occupancy rates and how they might be
+influenced by the Compensation Differences only seemed important in hindsight,
+with the change in economic conditions, 9/11, the SARS crisis, and the
+increased supply of hotel rooms in Richmond. [108]                     
+The evidence adduced by VAC proves, on a balance
+of probabilities, that VAC subjectively believed and had reasonable grounds for
+believing that the Compensation Differences would not materially affect a
+purchaser’s investment decision, that its agreements with the Marriott Owners
+were similar to its agreements with the Hilton Owners, and that the
+representations it made in the Hilton Disclosure Statement were true.          (4)      No
+Evidence to Negate the Defence [109]                     
+Sharbern did not direct this Court to any
+evidence to the contrary or to specific passages in the reasons of the trial
+judge that would have negated the defence established by VAC’s evidence. 
+During oral argument, when asked if there was a specific passage in the trial
+judge’s reasoning that negated the defence, Sharbern’s counsel observed that
+there was “not a specific passage” but rather that “the burden of [the trial
+judge’s] reasoning as a whole” was responsive to the question of the defence (transcript,
+at p. 9).  Counsel also asserted that “it would be obvious in the
+circumstances” (ibid., at pp. 8-9).  With respect, it is not obvious,
+particularly in light of the evidence led by VAC showing that the subjective
+and objective components of the defence had been established. [110]                     
+A finding of fraud at trial would have contradicted
+the conclusion drawn from the evidence that VAC subjectively believed the truth
+of its representations.  There was no such finding.  Similarly, a finding that
+VAC negligently misrepresented the absence of a potential or actual conflict of
+interest in the Hilton Disclosure Statement could preclude VAC from proving
+that there were reasonable grounds for its belief in the truth of its
+representations, and prevent it from establishing the objective basis of its
+statutory defence.  However, as I will set out more fully below, in my view the
+trial judge did not consider all of the elements necessary to establish
+negligent misrepresentation. [111]                     
+As a result, even if VAC were found to have made
+material false statements, VAC cannot be held liable under s. 75 of the Real
+Estate Act  because the evidence establishes that the statutory defence
+found in s. 75(2)(b)(viii) applies. C.     Deemed
+Reliance [112]                     
+A final issue with respect to VAC’s potential
+liability under the Real Estate Act is whether the deemed reliance provided
+for under the statute is rebuttable when the contrary is proved, with evidence,
+on a balance of probabilities.  Section 75(2)(a) of the Real Estate Act
+provides that every purchaser of any part of land to which a prospectus relates
+“is deemed to have relied on the representations made in the prospectus whether
+the purchaser has received the prospectus or not”.  Given my conclusion that
+VAC cannot be held liable for making material false statements under the Real
+Estate Act, it is not strictly necessary to consider whether the deemed
+reliance provided under that Act is rebuttable.  The issue is even less germane
+given the subsequent repeal of the Real Estate Act.  Nevertheless, as
+both parties argued the issue on appeal, I will briefly comment on the matter. [113]                     
+The trial judge found that deemed reliance is
+not rebuttable.  She concluded that the purpose of the Real Estate Act
+was to “protect the investing public” (para. 333).  She wrote that it would
+“undermine the purpose of the legislation” to allow a developer to attempt to
+rebut the presumption and “direct the focus of the inquiry to what the investor
+knew rather than what the developer failed to disclose” (ibid.).  The
+Court of Appeal came to the opposite conclusion.  It found that deemed reliance
+is rebuttable because the language used in s. 75 did not expressly create a
+non-rebuttable presumption. [114]                     
+The Real Estate Act used the words “deemed
+to have relied”.  In St. Peter’s Evangelical Lutheran Church v. Ottawa,
+[1982] 2 S.C.R. 616, at p. 629, the majority of this Court wrote that “the
+words ‘deemed’ or ‘deeming’ do not always import a conclusive deeming into a
+statutory scheme” and that “[t]he word must be construed in the entire context
+of the statute concerned.” [115]                     
+Sharbern submits that the broad purpose of the Real
+Estate Act is to protect investors, and that investors are best protected
+when they do not have to prove reliance.  It argues that conclusive deeming
+strengthens an investor’s civil right of action, particularly when a class
+action is involved, and makes it more likely that a wronged investor will
+prosecute his or her claim without having to focus on what was read or
+understood by the investor or what motivated the investor to invest.  Sharbern
+also contends that textual considerations, like the structure of s. 75, suggest
+the deemed reliance is not rebuttable. [116]                     
+I do not accept Sharbern’s argument that the
+purpose of the Real Estate Act would be undermined by allowing deemed
+reliance to be rebutted.  The successor legislation to the Real Estate Act,
+the Real Estate Development Marketing Act, S.B.C. 2004, c. 41, allows
+for the deemed reliance provided in s. 22(3) of that Act to be rebutted under
+s. 22(5) when it can be proven that “the purchaser had knowledge of the misrepresentation
+at the time at which the purchaser received the disclosure statement”.  The
+related Securities Act also provides at s. 131 for rebuttable deemed
+reliance on misrepresentations in a prospectus.  The existence of rebuttable
+presumptions under this successor and related legislation suggests that such
+presumptions accord with the investor protection purposes of those Acts. [117]                     
+I acknowledge that the Real Estate Act,
+unlike the successor and related legislation, did not expressly provide for a
+rebuttable presumption.  Nonetheless, as St. Peter’s indicates, the use
+of the word “deemed” does not always result in a conclusive, non-rebuttable
+presumption.  It is the purpose of the statute that must be examined in order
+to determine if the presumption is rebuttable.  The successor and related
+legislation in this case can assist with interpreting the purpose of deemed
+reliance in the Real Estate Act.  Lord Mansfield explained this
+principle in R. v. Loxdale (1758), 1 Burr. 445, 97 E.R. 394, observing
+that “[w]here there are different statutes in pari materia though made at different
+times, or even expired, . . . they shall be taken and construed
+together . . . and as explanatory of each other” (p. 395).  Estey J.
+provided a more modern explanation of this principle, and explained how
+“sometimes assistance in determining the meaning of [a] statute can be drawn
+from similar or comparable legislation within the jurisdiction or elsewhere” (Nova,
+an Alberta Corp. v. Amoco Canada Petroleum Co., [1981] 2 S.C.R. 437,
+at p. 448). [118]                     
+As I have discussed above, disclosure is a
+matter of legislative policy that involves “[b]alancing the needs of the
+investor community against the burden imposed on issuers” (Kerr, at
+para. 5).  A non-rebuttable presumption could interfere with this balancing and
+would not serve the statutory purpose behind legislated disclosure
+obligations.  For example, a non-rebuttable presumption would allow an investor
+to claim reliance on a misrepresentation, even if the investor was fully
+informed and had complete knowledge of all the facts.  In doing so, the issuer
+would be held liable for a misrepresentation of which the investor was fully
+aware.  This would be an absurd and unjust result, which would place issuers
+into the position of having to guarantee the losses of fully informed
+investors.  The purpose of the disclosure obligation is to balance the amount
+of disclosure made, not to place VAC into the role of insurer for Sharbern and
+the other Hilton Owners. [119]                     
+Given that similar statutes expressly allow
+deemed reliance to be rebutted, the legislature does not view rebuttable
+presumptions to be contrary to investor protection.  Further, a non-rebuttable
+presumption could be contrary to the legislative balancing that underlies the
+disclosure requirements in the Real Estate Act and would result in
+absurd and unjust results.  I would therefore conclude that the presumption of
+deemed reliance under the Real Estate Act was rebuttable when it could
+be proven, on a balance of probabilities, that the investor had knowledge of
+the misrepresented or omitted facts or information at the time the investor
+made the purchase. D.     Common
+Law Negligent Misrepresentation [120]                     
+In addition to its claim under s. 75 of the Real
+Estate Act, Sharbern alleges that VAC is liable for the tort of negligent
+misrepresentation.  The trial judge did not distinguish between the common law
+and statutory causes of action in her reasons, and they were not distinguished
+in the list of common issues on liability.  Nonetheless, I proceed on the basis
+that when the trial judge found that “VAC negligently misrepresented” (paras.
+322 and 473) the Compensation Differences, this finding applied to both the
+statutory and common law causes of action. [121]                     
+I am of the opinion that the trial judge’s
+findings pertaining to the common law of negligent misrepresentation cannot
+stand because she did not consider all of the elements necessary to establish
+the tort.  As set out in Queen v. Cognos Inc., [1993] 1 S.C.R. 87: The decisions of this Court cited above
+suggest five general requirements: (1) there must be a duty of care based on a
+“special relationship” between the representor and the representee; (2) the
+representation in question must be untrue, inaccurate, or misleading; (3) the
+representor must have acted negligently in making said misrepresentation; (4)
+the representee must have relied, in a reasonable manner, on said negligent
+misrepresentation; and (5) the reliance must have been detrimental to the
+representee in the sense that damages resulted. [p. 110] [122]                     
+The requirements set out in Cognos were
+not included in the list of common liability issues.  Nor was the framework
+discussed or utilized by the trial judge in her reasons.  While she clearly
+dealt with the duty of care, and it might be inferred that her misrepresentation
+analysis dealt with whether the Compensation Differences were untrue,
+inaccurate or misleading (though this was not done so expressly), the trial
+judge did not consider the third Cognos requirement.  She also did not
+consider the fourth requirement of reasonable reliance and fifth requirement of
+resulting damages. However, reasonable reliance and damages would likely be
+dealt with in the class action proceeding through future common or individual
+trials. [123]                     
+The third Cognos requirement obligated Sharbern
+to prove that VAC had “acted negligently in making [the] misrepresentation”. 
+This requirement is concerned with the standard of care, and was described by
+Iacobucci J. in Cognos:                                      The
+applicable standard of care should be the one used in every negligence case,
+namely the universally accepted, albeit hypothetical, “reasonable person”.  The
+standard of care required by a person making representations is an objective
+one.  It is a duty to exercise such reasonable care as the circumstances
+require to ensure that representations made are accurate and not misleading
+. . . . [Emphasis added; p. 121.] [124]                     
+In considering the standard of care, the trial
+judge would have had to address whether, on an objective basis, VAC had taken
+such reasonable care as the circumstances required to ensure that the
+representations made in the Hilton Disclosure Statement were accurate and not
+misleading.  She made no such finding.  Instead, she summarily concluded that
+VAC “negligently misrepresented” the Compensation Differences, without having
+addressed the standard of care. [125]                     
+Sharbern submits that the trial judge’s
+conclusion that VAC’s representations were negligent is “sound” (A.F., at para.
+47).  In oral argument, counsel for Sharbern conceded that the trial judge’s
+“reasoning is sparse on her conclusion as to negligence” but insisted that her
+conclusion was “obvious in the circumstances” (transcript, at pp. 8-9). [126]                     
+I am unable to agree.  I do not think it
+appropriate to collapse the Cognos requirement into a bare assertion of
+obviousness.  Failure to demonstrate how VAC breached the standard of care is
+fatal to Sharbern’s common law claim.  Sharbern, as plaintiff, bears the burden
+of proving its allegations.  Sharbern does not point to evidence that could
+support a finding that the standard of care was breached.  Nor does it explain
+how such a conclusion could have been reached based on the trial judge’s
+“sparse” reasoning. [127]                     
+Rather, Sharbern asserts that it was not
+required to adduce expert evidence as to what a developer ought to disclose. 
+It argues that the case is about an experienced businessman (Mr. Lalji) who,
+while aware of the undisclosed incentive, defends his failure to disclose it by
+assuring us he would not put his own interests first.  Sharbern contends that
+VAC’s evidence of its reliance upon industry and expert evidence and upon the
+advice of its solicitors in respect of its disclosure obligations did not
+establish that VAC did not breach the standard of care. [128]                     
+Nonetheless, in the circumstances of this case,
+a bare assertion that something is obvious, without more, cannot establish the
+applicable standard of care.  In the face of considerable evidence before the
+trial court as to why the Compensation Differences or the potential conflict of
+interest they created would not have been material to the decision of
+investors, Sharbern did not provide the court with any evidence to counter
+VAC’s position.  For this reason, Sharbern’s common law claim of negligent
+misrepresentation must fail. [129]                     
+I would add one observation on the fourth Cognos
+requirement — reasonable reliance.  In this case, Sharbern did not adduce
+evidence of actual reliance.  Instead it relied upon the statutory deeming
+provision in the Real Estate Act.  While the trial judge appears to have
+contemplated the necessity of individual trials on the issue of reliance at the
+outset of this litigation, her failure to differentiate between the common law
+and statutory claims in her reasons conveys the impression that the statutory
+deeming provision can establish common law reliance, removing the need for
+further trials.  This approach would be problematic.  I do not think a
+plaintiff may dip into a statutory cause of action for a helpful element in
+order to establish the “actual reliance” required to maintain a common law
+claim for negligent misrepresentation. [130]                     
+For these reasons I conclude that VAC cannot be
+held liable for negligent misrepresentation at common law. E.      Breach
+of Fiduciary Duty [131]                     
+The final issues to be determined in this appeal
+are whether a fiduciary duty existed between VAC and Sharbern and, if so,
+whether VAC breached that fiduciary duty.  The breach issue can be broken down
+into two aspects: (i) whether VAC breached its fiduciary duty to Sharbern by
+failing to disclose the alleged conflict of interest created by the
+Compensation Differences; and (ii) whether VAC breached its fiduciary duty to
+Sharbern when it implemented the non-competition policy between the Hilton, the
+Richmond Inn and the Marriott.  I will deal with these issues and sub-issues in
+turn.          (1)     Lower
+Court Treatment of the Fiduciary Duty Issues [132]                     
+Wedge J. described the content of VAC’s
+fiduciary duties to Sharbern and other Hilton Owners in the following terms:                             . . . I find that VAC did not owe a
+fiduciary duty to not work for other principals competing in the same hotel
+market as the Hilton. I also find that VAC did not owe a duty to the Hilton
+Owners to disclose information that it had received from its other principals.
+Rather, the Hilton Owners consented to VAC acting for other principals
+competing in the same market, and could expect VAC to keep all information it
+received from each of its principals confidential. . . .                                      I find that VAC owes the
+following fiduciary duties to the Hilton Owners:                     1.     A fiduciary duty to not act for other
+principals competing in the same market and with respect to whom VAC has a
+personal interest in favouring.                     2.     A
+fiduciary duty to not act as agent for the Hilton Owners and any third party
+contracting with them without first making complete disclosure to them and
+obtaining their consent. [paras. 425 and 429] [133]                     
+The trial judge went on to find that, as a
+result of the Compensation Differences, VAC had a personal interest in
+favouring the Marriott over the Hilton.  She concluded that                     VAC’s
+personal interest in favouring the Marriott over the Hilton conflicts with its
+fiduciary duty to the Hilton Owners.  Unless VAC disclosed this conflict of
+interest, and obtained fully informed consent from the Hilton Owners to act in
+those circumstances, it would be in breach of its fiduciary duty by continuing
+to act. [para. 439] [134]                     
+Wedge J. then confirmed that whether the common
+management of the Hilton and the Marriott had affected the operation of the
+Hilton to its detriment had not been quantified on the evidence, and did not
+need to be quantified at that stage in the proceedings. However, she found that
+there was some evidence “that the Hilton has been disadvantaged by the common
+management” (para. 447).  By this she was referring to a non-competition policy
+VAC implemented between the Hilton, the Richmond Inn and the Marriott.  Since
+the Hilton brand was proving weaker than the Marriott, senior management at the
+Hilton tried to lure away corporate clients from the Marriott by undercutting
+the Marriott’s room rates.  When the Marriott complained that this was eroding
+business and causing both hotels to lose money, sales staff proposed that the
+Hilton, Marriott and Richmond Inn agree not to pursue the top ten corporate
+preferred accounts of each by offering lower rates.  However, other forms of
+inducement were permitted.  The non-competition policy was implemented in 2002. [135]                     
+Wedge J. considered this arrangement to be an
+agreement between the Hilton and the Marriott with VAC acting as agent for
+both.  Irrespective of the merits of the contract, she found it to be a breach
+of VAC’s equitable obligation to the Hilton Owners to commit them to a contract
+with another party for whom VAC was also acting as agent, without obtaining the
+Hilton Owners’ informed consent. [136]                     
+The Court of Appeal found that there was no
+breach of fiduciary duty.  Chiasson J.A. interpreted the trial judge’s
+reasoning to mean that VAC was in breach of its fiduciary duty as soon as it
+contracted with the Hilton Owners because of its agreement with the Marriott Owners.
+However, having previously concluded that VAC did not misrepresent its
+arrangements with the Marriott Owners, he found that VAC was not in breach of
+fiduciary duty on entering into the contract with the Hilton Owners.  In his
+view, the issues were interrelated.  He reconfirmed that “in this case, the
+relationship between VAC and the Marriott Hotel unit owners was disclosed” and
+that the question of whether VAC was in breach of its fiduciary duty because of
+its failure to disclose the Compensation Differences “depends on whether that
+information was material” (para. 98).  Chiasson J.A. concluded that “in the
+circumstances of this case, the information objectively was not material”
+(para. 99). [137]                     
+Chiasson J.A. also held that “the consent given
+to VAC to act for competing hotels is an answer to any contention the
+implementation of the price competition policy was per se a breach of
+fiduciary duty” (para. 104).  The issue again turned on whether VAC had been
+required to disclose the Compensation Differences, and in his view, it was not.          (2)     A
+Fiduciary Relationship Existed [138]                     
+VAC argues that the trial judge erred in finding
+that VAC’s relationship with Sharbern was fiduciary in nature.  VAC says that
+the trial judge’s “decision to characterize VAC as a fiduciary was not based on
+a careful consideration of the individual relationship between the parties” but
+was instead based on a “simplistic categorical analysis” in which “[s]he held
+that VAC was in some respects [Sharbern’s] agent, and that the principal-agent
+relationship was a classic fiduciary relationship” (R.F., at para. 112).  VAC
+submits that the parties were simply dealing in an arm’s-length commercial relationship
+characterized by self interest. [139]                     
+I cannot agree with VAC’s position.  In my
+opinion, the trial judge did not conduct a “simplistic categorical analysis”. 
+She made a comprehensive review of the jurisprudence and observed that
+“[f]iduciary duties will not necessarily exist in all agency relationships”
+(para. 398). She then carefully considered the relationship that existed under
+the Hotel Asset Management Agreement before concluding that the relationship
+was fiduciary.  She noted that VAC was given discretion as a manager, that it
+had the ability to unilaterally affect the hotel owners’ legal or practical
+interests, and that the hotel owners were especially vulnerable in that
+regard.  It is clear that she evaluated the relationship created under the
+Hotel Asset Management Agreement in light of the typical characteristics of
+fiduciary relationships set out by Wilson J. in her well-known dissent in Frame
+v. Smith, [1987] 2 S.C.R. 99, at p. 136. [140]                     
+In my opinion, there is no basis upon which to
+differ with the conclusion of the trial judge that while acting as manager of
+the Hilton, VAC owed fiduciary obligations to the Hilton Owners, including
+Sharbern. [141]                     
+That said, the nature and scope of the fiduciary
+duty owed by VAC must be assessed in the context of the contract giving rise to
+those duties.  As noted by Cromwell J., for a unanimous Court, in Galambos
+v. Perez, 2009 SCC 48, [2009] 3 S.C.R. 247, at para. 75: “. . .
+what is required in all cases is an undertaking by the fiduciary, express or
+implied, to act in accordance with the duty of loyalty reposed on him or her”. 
+He also stated that “[i]n cases of per se fiduciary relationships, this
+undertaking will be found in the nature of the category of relationship in
+issue” and that “[t]he fiduciary’s undertaking may be the result of
+. . . the express or implied terms of an agreement” (para. 77). 
+While an express undertaking can be found in the terms of a contract for an
+agency relationship, an implied undertaking can be found with regard to “the
+particular circumstances of the parties’ relationship” which could include
+“professional norms, industry or other common practices and whether the alleged
+fiduciary induced the other party into relying on the fiduciary’s loyalty”
+(para. 79). [142]                     
+In this case, purchasers in the Hilton strata
+lots knew that they would be entering into the Hotel Asset Management Agreement
+giving VAC exclusive management of the hotel for at least 20 years.  In
+exchange, VAC contracted to, among other things, use commercially reasonable
+efforts to rent out the strata units, maximize each owner’s proportionate share
+of monies available for distribution, and faithfully perform its duties and
+responsibilities and supervise and direct hotel operations.  The Hilton
+Disclosure Statement explained to investors that the success or failure of the
+rental pool would depend in part on the managerial abilities of the manager. 
+It also contained the reassurance that VAC’s related companies had experience
+in concurrently owning or managing competing hotels.  Investors undoubtedly
+counted on VAC to provide managerial experience and expertise.  However, they
+did so understanding and consenting to VAC receiving a management fee, and acting
+as the manager of the competing Marriott hotel.  Disclosure of that conflict
+position was coupled with the warning that this “could impact upon its ability
+to perform its obligations under the [Hotel Asset Management Agreement]” (art. 4.9(i)). [143]                     
+While Sharbern was in a fiduciary relationship
+with VAC, and VAC owed a duty to use its discretionary powers as manager to act
+in the interests of Sharbern, this relationship was entered into with the
+knowledge that there would be common management of the Hilton and Marriott, and
+that VAC’s related companies had a history of concurrent ownership or
+management of competing hotels.  The fiduciary relationship in this case must
+therefore be circumscribed by the contractual bargain and the knowledge that
+VAC would be simultaneously balancing fiduciary obligations owed to the Hilton
+Owners and owners of a competitor: Galambos, at para. 79.          (3)     Distinguishing
+the Misrepresentation and Fiduciary Duty Claims [144]                     
+When VAC issued the Hilton Disclosure Statement,
+it was acting in its role as a developer/issuer, and was not an agent of
+Sharbern.  As issuer, its relationship with Sharbern was not fiduciary in
+nature.  An issuer and investor in these circumstances deal with each other in
+an arm’s-length commercial relationship characterized by self interest. [145]                     
+However, when VAC began acting as Sharbern’s
+agent under the Hotel Asset Management Agreement, a fiduciary relationship
+arose. [146]                     
+It is important to recognize that these are two
+distinct relationships that happen to be between the same parties: a
+non-fiduciary issuer-investor relationship, and a fiduciary principal-agent
+relationship.  Therefore, although the underlying factual basis of the
+issuer-investor misrepresentation issue and the principal-agent fiduciary duty
+issue are largely the same, the two issues constitute distinct causes of action
+arising at different times.  The misrepresentation claim is related to
+VAC’s disclosures made when it was the developer of the Hilton hotel and issuer
+of the Hilton Disclosure Statement.  The breach of fiduciary duty claim is
+related to VAC’s activities when it began acting as an agent and managed the
+Hilton hotel.          (4)     Disclosing
+the Compensation Differences [147]                     
+The question to be answered here is whether VAC
+breached its fiduciary duty to Sharbern and the other Hilton Owners while
+acting as their hotel asset manager, by failing to disclose the Compensation
+Differences and obtaining the informed consent of the Hilton Owners. [148]                     
+A breach of fiduciary duty would occur if the
+undisclosed Compensation Differences were material or placed VAC into a
+conflict of interest to which Sharbern had not consented.  This is because
+equity “forbids trustees and other fiduciaries from allowing themselves to be
+placed in ambiguous situations. . . . [T]hat is, in a situation where a
+conflict of interest and duty might occur” (D. W. M. Waters, M. R. Gillen and
+L. D. Smith, eds., Waters’ Law of Trusts in Canada (3rd ed. 2005), at p.
+914).  As M. Ng writes, in Fiduciary Duties: Obligations of Loyalty and
+Faithfulness (loose-leaf), at p. 2-10:                     Where
+fiduciaries put themselves in a position where their own interests or those of
+others may conflict with their duty to their principal, they will be required
+to disclose all material information regarding the transaction in order to
+obtain their principal’s informed consent as to their acting despite the
+conflict. [149]                     
+Sharbern submits that the question of whether
+VAC breached its fiduciary duty to avoid undisclosed conflicts of interest was
+“one of consent” (A.F., at para. 54).  That is, Sharbern argues that the Court
+must ask whether VAC “made sufficient disclosure, in the [Hilton Disclosure
+Statement], of the facts pertaining to its conflict of interest that investors
+purchasing under the [Hilton Disclosure Statement] must be taken to have
+consented to the conflict” (ibid.).  Sharbern’s position is premised
+upon the assumption that the Compensation Differences constituted a material
+fact or information beyond what had already been disclosed.  If that were true,
+then the onus would fall on VAC, as fiduciary, to prove that it had received
+the informed consent of the Hilton Owners with respect to the Compensation
+Differences: McGuire v. Graham (1908), 11 O.W.R. 999 (C.A.), at pp.
+999-1000. [150]                     
+However, the materiality of the Compensation
+Differences must first be established.  This is because “[n]ot every
+self-interested act by a fiduciary conflicts with his fiduciary duties;
+otherwise, he could never do anything for his own benefit” (Waters’, at p.
+914).  As stated by F. M. B. Reynolds in Bowstead and Reynolds on
+Agency (17th ed. 2001), at para. 6-057, “[t]he duty does not completely
+prohibit the adoption of a position or the entering into of transactions in
+which such a conflict might occur; it rather prohibits doing so without
+disclosure of all material facts to the principal so as to obtain his
+consent” (emphasis added).  Here, the principal had consented to the agent’s
+conflict of interest — to act for other principals competing in the same market
+— and knew that the agent would be simultaneously acting in the interests of
+the principal and competitors.  The first question that Wedge J. ought to have
+asked, therefore, was whether the Compensation Differences constituted a
+material fact or information beyond what had already been disclosed, such as to
+impose a fiduciary duty upon VAC to disclose their particulars. [151]                     
+The standard for identifying when a conflict of
+interest exists in a fiduciary context was discussed by this Court in R. v.
+Neil, 2002 SCC 70, [2002] 3 S.C.R. 631.  There, Binnie J. dealt with
+conflicts of interest arising out of the solicitor-client fiduciary
+relationship.  He set out the following standard for identifying when a lawyer
+is in a position of conflict of interest:                     I
+adopt, in this respect, the notion of a “conflict” in § 121 of the Restatement
+Third, The Law Governing Lawyers (2000), vol. 2, at pp. 244-45, as a “substantial
+risk that the lawyer’s representation of the client would be materially
+and adversely affected by the lawyer’s own interests or by the lawyer’s
+duties to another current client, a former client, or a third person”.
+[Emphasis added; para. 31.] [152]                     
+The essential first step was for the court to
+determine if the Compensation Differences constituted material facts or
+information beyond what had already been disclosed, thereby giving rise to a
+fiduciary duty for VAC to disclose them and obtain consent.  In this regard,
+VAC submits that “[a]ll of the evidence on the issue of materiality that [it]
+adduced, and that the trial judge disregarded, was therefore as relevant to
+determining the existence of a conflict of interest as it was to determining
+whether [it] had made a misrepresentation in the [Hilton Disclosure Statement]”
+(R.F., at para. 106). [153]                     
+This is essentially correct, except for one
+qualification.  It must be remembered that the fiduciary duty issue is distinct
+from the misrepresentation issue. The materiality evidence and analysis carried
+out with respect to Sharbern’s claim that VAC made material false statements
+attracting statutory liability under the Real Estate Act related to the
+time period during which the Hilton strata units were marketed and sold. VAC’s
+disclosure obligations under its fiduciary duty related to matters existing or
+arising during its role as manager of the Hilton hotel.  This requires a
+consideration of the time period following the Hilton Disclosure Statement and
+also the time period covering the later stages of the fiduciary relationship. [154]                     
+The Hilton Disclosure Statement was issued in
+February 1998, and the hotel opened for business in June 1999.  VAC had
+disclosed in the Hilton Disclosure Statement its management of the Marriott
+hotel and the similar and additional agreements it had with that hotel, “all of
+which give rise to certain liabilities and obligations of the Developer which
+could impact upon its ability to perform its obligations under the Agreements”
+(art. 4.9(i)).  I place no significance on VAC’s description of itself as
+“Developer” instead of “manager” in this context, as the former would have been
+the term by which it was defined in the Hilton Disclosure Statement.  As found
+by the trial judge, “the Hilton Owners consented to VAC acting for other
+principals competing in the same market” (para. 425).  I agree with Chiasson
+J.A.’s observation that the question is invariably reduced to whether the
+Compensation Differences were material, thereby obliging VAC to disclose them
+and obtain the Hilton Owners’ consent to those details. It is also necessary to
+inquire whether circumstances changed during the course of the fiduciary
+relationship such as to require VAC to make additional disclosures and obtain
+renewed consent. [155]                     
+The materiality of the Compensation Differences
+when the investors were making their decision to invest has been dealt with in
+detail in the discussion of VAC’s alleged statutory liability under the Real
+Estate Act.  However, I would add that the disclosure obligations with
+respect to VAC’s fiduciary duty are different from the disclosure obligations
+under the Real Estate Act.  As a fiduciary, VAC was obligated to
+disclose any material facts or information, such as if there was a substantial
+risk that VAC’s fiduciary relationship with the Hilton Owners would be
+materially and adversely affected by VAC’s own interests or by VAC’s duties to
+another (Neil, at para. 31).  VAC’s statutory duty was simply to
+disclose to investors certain prescribed information, without making material
+false statements.  Nonetheless, in that regard, much of the evidence about the
+materiality of the Compensation Differences as it related to VAC’s alleged
+statutory liability under the Real Estate Act would also have been
+relevant to the question of materiality under the fiduciary duty analysis. [156]                     
+VAC submitted extensive evidence in support of
+its position that its lack of disclosure of the Compensation Differences in the
+Hilton Disclosure Statement did not constitute a material false statement under
+the legislation.  There is no need to repeat that evidence here, which has been
+discussed in detail above.  However, I would add that, in the context of
+proving or disproving the alleged breach of fiduciary duty, the parties are not
+precluded from bringing evidence that did not form part of the total mix of
+information available to investors at the time of their investment decisions,
+or evidence that would not have been available through the Hilton Disclosure
+Statement. [157]                     
+For example, the evidence with respect to an
+industry practice of common management of competing hotels that was considered
+in relation to VAC’s statutory defence is, in my view, also relevant to the
+question of whether the Compensation Differences were material in the context
+of the claim of breach of fiduciary duty.  After all, the fiduciary
+relationship arose in the context of a disclosed conflict of interest of common
+management, and a reported practice of common management of competing hotels by
+VAC’s related companies.  Beyond the testimony of VAC’s witnesses that common
+management of competing hotels took place without disclosure of the contractual
+terms to the different owners, it seems highly unlikely that management
+agreements negotiated between different parties at different times would have
+identical terms.  This case yields one example, where the guaranteed rate of
+return offered to Marriott Owners apparently could not be offered in the Hilton
+Disclosure Statement a year later because of changes in securities laws.  The
+fact that common management was nonetheless an accepted industry practice for
+different hotel chains in the same market suggests that industry players did
+not treat differing management compensation arrangements as material to the
+efficient operation or profitability of the hotels.  Such evidence would have
+been relevant to the trial judge’s consideration of the materiality of the
+Compensation Differences. [158]                     
+In contrast to the evidence adduced by VAC,
+Sharbern did not provide any evidence as to the materiality of the Compensation
+Differences in this context.  Nor did the trial judge consider all the evidence
+submitted by VAC in her assessment of the materiality of the financial
+incentives.  Although the misrepresentation issue is distinct, the error seen
+in relation to that analysis applies equally to the analysis of the issue of
+whether VAC was liable for breach of fiduciary duty.  The party seeking to
+establish the materiality of the undisclosed facts or information did not
+provide evidence upon which a finding of materiality could reasonably have been
+made. [159]                     
+The fiduciary relationship also existed during
+the later period of time, during which VAC was managing the Hilton hotel.   The
+Hilton hotel opened in June 1999.  VAC disclosed the existence of the guarantee
+in favour of Marriott Owners in a meeting with Hilton Owners on June 14, 2000. 
+The timing of the disclosure of the differential in management fee is not
+clear.  At some point, when the economy deteriorated and occupancy rates
+plummeted, the Compensation Differences potentially became more germane.  So
+too would VAC’s retention of the 24 strata lots in the Hilton hotel, at least
+in the eyes of Marriott Owners.  VAC could then have had a renewed obligation
+to disclose what had arguably developed into a material conflict of interest,
+assuming a rejection of VAC’s arguments that it lacked the practical means and
+incentive to act upon the Compensation Differences.  How did the timing of
+these events compare to the timing of the June 2000 disclosure of the
+guaranteed rate of return to Marriott Owners?  Did the conduct of the Hilton
+Owners subsequent to disclosure constitute consent, at least until the filing
+of the plaintiff’s statement of claim in June 2003 or perhaps when they sought
+legal advice in the fall of 2002?  Evidence on these considerations is not
+before us, and did not form part of the record before the trial judge. [160]                     
+In sum, not only did the trial judge not
+consider all the evidence relevant to the issue of materiality, there was a
+failure on the part of the plaintiff to adduce evidence on the issue of the
+materiality of the Compensation Differences, either at the time of the Hilton
+Disclosure Statement or during the later stages of the fiduciary relationship. I
+am of the opinion that Sharbern failed to demonstrate that the Compensation
+Differences constituted a material fact or information beyond what had already
+been disclosed by VAC.  Also, as found in the analysis of the misrepresentation
+issue, the trial judge’s conclusions on the issue of breach of fiduciary duty
+were tainted by an expectation that VAC must disprove, rather than Sharbern
+satisfy its onus of proving, the materiality of the Compensation Differences. 
+These problems loom large over the consideration of whether to remit the matter
+to the trial judge for a determination on the issue of the materiality of the
+Compensation Differences for the purpose of assessing VAC’s liability for
+breach of fiduciary duty.          (5)     The
+Non-Competition Agreement [161]                     
+Apart from the non-disclosure of the
+Compensation Differences, Sharbern submits that it was a breach of VAC’s
+fiduciary duty for VAC to direct its staff at the Hilton not to engage in price
+competition with the Marriott. [162]                     
+The trial judge observed that VAC implemented a
+“non-competitive pricing policy which prevented the [Hilton, Marriott and
+Richmond Inn] from undercutting each other’s room rates” with respect to the
+top ten corporate preferred accounts of each hotel (para. 161).  The policy was
+implemented shortly after the Hilton’s 2002 budget was put in place.  She found
+that “[u]nder the policy, both the Hilton and the Marriott were constrained,
+but the status quo favoured the Marriott” as the Hilton was “trying to
+close the gap” (para. 454) that the Marriott had obtained because of a “year’s
+head start by the time the Hilton opened” (para. 448). [163]                     
+Irrespective of the merits of the contract, the
+trial judge held that it was a breach of fiduciary duty for VAC to commit the
+Hilton Owners to a price competition agreement with the Marriott Owners in the
+absence of the former’s consent. [164]                     
+VAC argues that the evidence at trial
+established that the price competition policy was not a manifestation of a
+conflict of interest as a matter of fiduciary law.  It says that the policy was
+in the best interests of both the Hilton and the Marriott Owners.  For example,
+the general manager of the Marriott hotel, James Nesbitt, testified that the
+Marriott would have matched prices with the Hilton if necessary to retain any
+business that the Hilton hotel might have attempted to poach by underbidding. 
+He observed that undercutting on price was “not a strategy that works at all”
+(R.R., vol. 11, at p. 2102).  When asked about his experience with customers
+threatening to move hotels because of lower rates, Nesbitt testified that “in
+all cases - - because it’s much easier to retain an existing customer, than
+spend a lot to go out and find a new customer, in every case you would match
+that rate to make sure you kept the business” (ibid., at p. 2104). [165]                     
+First, I cannot agree with the trial judge’s
+conclusion that it was a breach of fiduciary duty for VAC to enter into
+agreements with the Marriott Owners on behalf of the Hilton Owners without
+prior consent.  With three hotels located on the same property, connected by a
+shopping concourse, and managed through common management, agreements entered
+into by VAC on behalf of and between Hilton Owners and Marriott Owners would
+have been part of the ordinary course of business, as day-to-day matters that
+could not feasibly require prior consent of all Hilton Owners. Agreements to
+effect the sharing of common resources and expenses mentioned earlier would be
+one example.  Significantly, the Hilton Disclosure Statement provided that VAC
+had the right to enter into such agreements.  As stated at art. 4.4(b):                     . . .
+the Asset Manager shall have the right to enter into such agreements and
+contracts, and to do such acts and things, as the Asset Manager, in its
+discretion, considers necessary or desirable, including without limitation
+entering into affiliation, management, reservation, marketing agreements or
+licensing or franchise agreements with a hotel chain. [166]                     
+Second, the trial judge erred by failing to
+consider evidence which was relevant to the materiality of the non-competition
+agreement, such as evidence of other effects of common management and their
+impact on the Hilton Owners.  Wedge J. simply saw the non-competition agreement
+as proof of the potential conflict of interest created by common management,
+commenting that “[t]he highly competitive hotel industry does not embrace the
+notion of even-handedness” (para. 303).  She ignored other evidence to the
+effect that the three hotels also shared business with each other.  VAC’s
+evidence indicated that the Marriott referred business to the Hilton or the
+Richmond Inn when it did not have the capacity or did not wish to accommodate
+the lower room rate requested by the client.  When the Marriott did not have
+the capacity to accommodate all the Cathay Pacific air crews, it negotiated a
+contract which gave a portion of the Cathay Pacific business to the Hilton.  In
+my view, the trial judge erred in assessing the materiality of the
+non-competition agreement to Hilton Owners without determining, on the totality
+of evidence, whether it was part of an overall practice of cooperation that was
+to the ultimate benefit of the three hotels. [167]                     
+In sum, without proof that the non-competition
+agreement constituted a material fact or information beyond what had already
+been disclosed by VAC, I cannot accept that the non-competition agreement
+constituted a breach of fiduciary duty. VI.    Summary
+and Conclusions [168]                     
+In view of the length of these reasons, it will
+be useful to summarize my conclusions at this point. [169]                     
+As to VAC’s liability for material false
+statements under the Real Estate Act: 1.      The key question for liability under s. 75(2) of the Real
+Estate Act was to determine if the Compensation Differences were material. 
+Except in cases where materiality can reasonably be established through common
+sense inferences, materiality must be proven through evidence, and is a
+fact-specific inquiry, determined on a case-by-case basis.  Investors do not
+have to prove that the undisclosed information would have changed their
+decision to invest.  However, they must prove a substantial likelihood that it
+would be considered important by a reasonable investor in making an investment
+decision.  That is, there must be a substantial likelihood that a reasonable
+investor would consider the fact as having significantly altered the total mix
+of available information. 2.      The trial judge made three errors in her materiality
+assessment.  First, she treated the conflict of interest as inherently
+material; second, she reversed the onus of proof of materiality; and, third,
+she did not consider all of the evidence available to her on the issue of
+materiality. 3.      The onus was on Sharbern to prove that the Compensation
+Differences were material.  It did not adduce any evidence which could
+reasonably do so. 4.      Even if VAC were found to have made a “material false
+statement”, the statutory defence found in s. 75(2)(b)(viii) of the Real
+Estate Act would have availed to its benefit.  The trial judge erred by not
+considering this defence.  The statutory defence was established.  VAC led
+evidence to show that it subjectively believed and had reasonable grounds for
+believing that the Compensation Differences were not material.  Sharbern did
+not direct this Court to any evidence to the contrary. 5.      The presumption of deemed reliance under the Real Estate
+Act was rebuttable when it could be proven, on a balance of probabilities,
+that the investor had knowledge of the misrepresented or omitted facts or
+information at the time the investor made the purchase. [170]                     
+As to VAC’s liability for negligent
+misrepresentation, the trial judge erred by not considering whether VAC
+breached the standard of care.  As there was no evidence capable of supporting
+a finding of breach of standard of care, VAC cannot be held liable for
+negligent misrepresentation. [171]                     
+As to VAC’s liability for breach of fiduciary
+duties: 1.      When VAC began acting as manager under the Hotel Asset
+Management Agreement, a fiduciary relationship arose between VAC and Sharbern
+(and the other Hilton Owners). 2.      VAC had already disclosed, and the Hilton Owners had
+consented to, VAC’s common management of the Hilton and the Marriott hotels.  Therefore,
+that conflict of interest was not a breach of VAC’s fiduciary duty.  VAC was
+only obliged to disclose the Compensation Differences if they constituted
+material facts or information beyond what had already been disclosed.  Sharbern
+did not adduce evidence to establish the materiality of the Compensation
+Differences.  Additionally, the trial judge erred by reversing the onus of
+proof of materiality and by not considering all the evidence adduced by VAC
+relevant to the issue of materiality. 3.      The trial judge erred by not assessing the materiality of
+the non-competition agreement, and Sharbern did not adduce evidence to
+establish its materiality. [172]                     
+I am mindful of the time and resources expended
+by the parties in the eight years since this litigation commenced.  It cannot
+be in the interests of justice or the parties to prolong the matter further
+than necessary. [173]                     
+Had I not found that Sharbern had failed to
+adduce any evidence to establish the materiality of the Compensation
+Differences or that VAC could claim the benefit of the statutory defence under
+s. 75(2)(b)(viii) of the Real Estate Act, I would have considered
+remitting the matter to Wedge J. for a determination of the issues in
+consideration of all the relevant evidence and in accordance with these
+reasons.  However, she would be placed in the position of reassessing the
+issues upon a consideration of a wider swath of evidence, all in support of
+only VAC, without any evidence to support the position of Sharbern.  The same
+dilemma arises if she is directed to reconsider whether VAC breached its
+fiduciary duty to the Hilton Owners by failing to disclose the Compensation
+Differences during the course of its management of the Hilton hotel. [174]                     
+Cases such as Hollis v. Dow Corning Corp.
+have discussed the circumstances under which it is appropriate for an appellate
+court to make a fresh assessment of the evidence on the record.  Whether the
+appellate court should do so will depend upon what is in the interests of
+justice, and whether a fresh assessment is feasible on a practical level. 
+Feasibility often depends upon the extent to which the credibility of witnesses
+is at issue as opposed to a consideration of documentary evidence.  I am
+mindful that this case involved a two-month trial, which included much viva
+voce evidence.  However, none of the findings of fact by the trial judge
+appear to be predicated upon her assessment of the credibility of witnesses. [175]                     
+It has been a recurring finding throughout my
+consideration of the issues in this case that Sharbern failed to adduce
+evidence to support key aspects of its claims.  As plaintiff, Sharbern had the
+burden of proving all the necessary elements of its claims, on a balance of
+probabilities.  Sharbern was given the opportunity of a two-month trial to
+produce such evidence.  Nonetheless, it failed to lead sufficient evidence to
+discharge its onus with respect to establishing the requisite breach of the
+standard of care necessary to its claim of negligent misrepresentation. [176]                     
+It also failed to produce evidence in support of
+the materiality of the Compensation Differences, both with respect to whether a
+failure to disclose them resulted in (i) a material false statement attracting
+liability under the Real Estate Act, or (ii) a breach of its fiduciary
+duty to the Hilton Owners as the manager of the Hilton hotel.  The first may
+have been due to its position argued in this Court that “there is no need for a
+plaintiff to tender industry or expert evidence as to what would influence a
+reasonable investor because the question of materiality of conflicts of
+interest in a prospectus is uniquely for the court” (A.F., at para. 40).  As I
+said previously, this position misapprehended the fact-based inquiry that is
+required in order to establish materiality, as well as the onus on a plaintiff
+to adduce evidence in support of materiality.  Sharbern’s failure to adduce
+evidence of materiality in the context of the claim of breach of fiduciary duty
+may similarly stem from a misapprehension of the principle that there is only a
+duty to disclose material facts or information. [177]                     
+This Court is in the same position as was the
+Court of Appeal, which signalled throughout its reasons for judgment that the
+plaintiff had failed to adduce objective evidence to support its claims.  In my
+opinion, the evidence before the trial court could not support a finding that
+VAC was liable under the Real Estate Act, for negligent
+misrepresentation or for a breach of fiduciary duty either for failing to
+disclose the Compensation Differences or in implementing the non-competition
+policy. [178]                     
+I would dismiss the appeal.  Leave to appeal in
+this matter was granted with costs in the cause.  Section 37 of the British
+Columbia Class Proceedings Act establishes a no costs regime in the trial
+court and the Court of Appeal.  However, that statute does not apply to this
+Court.  The respondents are entitled to their costs in this Court.             Appeal
+dismissed with costs.             Solicitors
+for the appellant:  Nathanson, Schachter & Thompson, Vancouver.             Solicitors for the respondents:  Heenan
+Blaikie, Vancouver; Lakhani & Company, Vancouver.  

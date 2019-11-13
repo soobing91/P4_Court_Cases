@@ -1,0 +1,431 @@
+Edgeworth Construction Ltd. v.
+N. D. Lea & Associates Ltd., [1993] 3 S.C.R. 206  Edgeworth Construction Ltd.                                                            Appellant  v.  N. D. Lea & Associates Ltd.                                                             Respondent  and  Pacific Coast Energy Corp., Westcoast
+Energy Inc. and Intec Engineering Inc.                                                                Interveners  and between  Edgeworth Construction Ltd.                                                            Appellant  v.  N. N. Walji, Graham A. Fary,
+Warren Reid and persons whose names are unknown to
+the Plaintiff                  Respondents   Indexed as:  Edgeworth
+Construction Ltd. v. N. D. Lea & Associates Ltd.  File No.:  22429.  1993:  June 14;
+1993:  September 30.  Present:  La Forest,
+Sopinka, Gonthier, Cory, McLachlin, Iacobucci and Major JJ.  on appeal from the court of appeal for
+british columbia                      Appellant
+successfully bid on a road building contract and entered into a contract with
+the province for the work.  It alleged that it lost money on the project due to
+errors in the specifications and construction drawings and commenced
+proceedings for negligent misrepresentation against both respondent engineering
+firm which prepared those drawings and the individual engineers who affixed
+their seals to the drawings.                      Held:  The appeal should be
+allowed against N. D. Lea & Associates Ltd. and should be
+dismissed against the individual engineers.                     Per Sopinka, Gonthier, Cory, McLachlin,
+Iacobucci and Major JJ.:  Liability for negligent misrepresentation arises
+where a person makes a representation knowing that another may rely on it, and
+the plaintiff in fact relies on the representation to its detriment.  The facts
+here established a prima facie cause of action against the engineering
+firm and the contract between the contractor and the province did not negate
+the duty of care.                     The province did
+not assume the risks said to be previously held by the engineers.  The
+engineers' work did not cease to be representations of the engineers even
+though it became a representation of the province when it was incorporated in
+the tender package and the contract.  The contractor was relying on the
+accuracy of the engineers' design just as much after it entered into the
+contract as before.  Neither the Ministry nor the contractor ever assumed the
+risk of errors in the engineer's work.                     The contract
+stipulated that any representations in the tender documents were for the
+general information of bidders and were not in anyway warranted or guaranteed
+by or on behalf of the Minister.  This absolved the province from any liability
+for the plans.  The exemption expressly extended only to warranties by or on
+behalf of the Minister.  It did not purport to protect the engineers against
+liability for their representations.                     The engineers, who
+were not parties to the contract, could not claim the benefit of the contract's
+exclusion of liability for the representations in the tender documents.  While
+the doctrine of privity of contract does not preclude contractual exclusions
+for negligence being extended to provide protection for the employees actually
+charged with doing the work, the contract clause, which provides protection
+expressly or by implication, must be established to be for the benefit of the
+persons who claim its protection.  This was not done here and the facts did not
+give rise to an inference that the exemption was intended to include the
+engineers.  The exemption clause was entirely consistent with the conclusion
+that the protection was intended for the benefit of the province alone. 
+Moreover, the engineering firm could have taken measures to protect itself from
+the liability in question by placing a disclaimer on the design, by requiring a
+supervisory role for itself or by acquiring insurance.                     The presence of a
+contract does not bar the right to sue except where the parties to the contract
+have themselves defined their obligations by contract so that the contract must
+prevail over a different duty which tort law might impose.  People are free to
+determine their own civil rights and responsibilities.  In this case, the
+contract was not between the plaintiff and the defendant and did not purport to
+limit the tort duty which is owed by the defendant engineering firm to the
+contractor.                     The claim at bar
+was for negligent misrepresentation and did not import considerations of
+sufficient proximity and economic loss.  Claims for pure economic loss may be
+brought for negligent misrepresentation.                     Policy
+considerations did not negate the imposition of tort liability.  If the
+conditions for liability stipulated in Hedley Byrne are met, it is
+difficult to conceive a valid policy reason why a duty of care should not be
+held to arise.  Permitting the engineering firm to be sued in tort does not
+circumvent any contractual promise.  The responsibility of the engineering firm
+arises from its own misrepresentation, coupled with the knowledge that
+contractors will be relying on it and acting on it without practical
+opportunity for independent inquiry, in the absence of any disclaimer of
+responsibility.                     Plaintiffs may sue
+concurrently in tort and in contract, provided the contract does not negate the
+imposition of the duty of care.  Here, if the only recourse for a claim for
+design defects were a suit against the owner in contract, no claim for design
+defects would be possible because of the clause excluding responsibility for
+design defects.                     The short tendering
+term indicated that the contractor was expected to rely on the design and
+documents prepared by the engineering firm.  There was no time for a contractor
+to conduct a thorough professional review of the accuracy of the engineering
+firm's work and the duplication of this work would be costly.  As a matter of
+policy, good practical and economic sense required that the responsibility for
+the adequacy of the design be placed on the shoulders of the designing
+engineering firm, assuming reasonable reliance and barring disclaimers.  The
+risk of liability to compensate third parties for design error will be
+reflected in the cost of the engineers' services to the owner inviting tenders.                     The position of the
+individual engineers was different.  The only basis upon which they were sued
+was the fact that each of them affixed his seal to the design documents.  This
+was insufficient to establish a duty of care between the individual engineers
+and appellant.  The seal attests that a qualified engineer prepared the
+drawing.  It is not a guarantee of accuracy.                     Per La Forest J.:  While general
+agreement was expressed with McLachlin J.'s reasons and her disposition of the
+appeal, some comments about the claim against the individual engineers as it
+related to London Drugs Ltd. v. Kuehne & Nagel International Ltd.
+were added.  The difference between the professional engineers here and the
+ordinary workers who were not absolved from liability flowing from their
+negligence in the course of their employment was not apparent at the level of
+principle and the fact that one case dealt with economic loss and the other
+with physical damage was irrelevant absent an issue of indeterminacy.  Several
+technical distinctions exist between the ordinary tort of negligence and
+negligent misrepresentation.  In particular, under negligent misrepresentation
+the representee must have relied, in a reasonable manner, on the negligent
+representation.  The individual engineers can be absolved from liability on
+this basis because, on balance, there are sound policy reasons why they should
+not be subjected to a duty to the appellant.  The appellant here was quite
+reasonably relying on the skills of the engineering firm and the firm in turn
+must be taken to have recognized that persons in the respondents' position
+would rely on their work and act accordingly.  The relationship can be
+described both in terms of reliance and of voluntary assumption of risk.  The
+individual engineers, however,  notwithstanding appellant's reliance on their
+work, would expect that the appellant would place reliance on their firm's
+pocketbook and not theirs for indemnification.  The appellant could not
+reasonably rely for indemnification on the individual engineers because it
+would have to show that it was relying on the particular expertise of an
+individual engineer without regard to the corporate character of the
+engineering firm.  The mere presence of an individual engineer's seal was not
+sufficient indication of personal reliance or voluntary assumption of risk.  Cases Cited  By McLachlin J.                     Considered:  London Drugs Ltd. v. Kuehne
+& Nagel International Ltd., [1992] 3  S.C.R. 299; referred to:  Hedley
+Byrne & Co v. Heller & Partners Ltd., [1964] A.C. 465; Haig v.
+Bamford, [1977] 1 S.C.R. 466;  BG Checo International Ltd. v.
+British Columbia Hydro and Power Authority, [1993] 1 S.C.R. 12; Canadian
+National Railway Co. v. Norsk Pacific Steamship Co., [1992] 1 S.C.R. 1021; Anns
+v. Merton London Borough Council, [1978] A.C. 728; Central Trust Co. v.
+Rafuse, [1986] 2 S.C.R. 147.  By La Forest J.                     Distinguished:  London Drugs Ltd. v. Kuehne
+& Nagel International Ltd., [1992] 3 S.C.R. 299.    Authors Cited  Fleming, John G.  The Law of Torts,
+8th ed.  Sydney:  Law Book Co., 1992.                     APPEAL from a
+judgment of the British Columbia Court of Appeal (1991), 53 B.C.L.R. (2d) 180,
+[1991] 4 W.W.R. 251, 7 C.C.L.T. (2d) 177, 44 C.L.R. 88, 1 B.L.R. (2d) 188,
+dismissing an appeal from a judgment of Meredith J. (1989), 37 C.L.R. 152,
+dismissing the action.  Appeal allowed against N. D. Lea &
+Associates Ltd. and dismissed against the individual engineers.                     James P. Taylor, Q.C., and Joanne R.
+Lysyk, for the appellant.                     Glenn A.
+Urquhart and Nathan H.
+Smith, for the respondent N. D. Lea & Associates Ltd.                     G. K. MacIntosh, Q.C., and J. Kenneth
+McEwan, for the interveners.                     The following are
+the reasons delivered by                     La
+Forest J. -- I have had
+the advantage of reading the reasons of my colleague, Justice McLachlin.  I am
+in general agreement with her and would dispose of the appeal as she proposes. 
+However, I wish to add some comments about the claim against the individual
+engineers.                     This case comes hot
+on the heels of London Drugs Ltd. v. Kuehne & Nagel International Ltd.,
+[1992] 3 S.C.R. 299, where the majority was unwilling to absolve ordinary
+workers from liability flowing from their negligence in the course of their
+employment except to the extent that a contractual exemption from liability had
+been entered into by their employer, whereas in this case the professional
+employees who, one would have thought, were in a better position to take steps
+to protect themselves, are absolved from liability resulting from their
+negligence in the absence of any exonerating contract.  It will be evident from
+my dissent in London Drugs that such a distinction, in so far as it
+favours professional employees, is, at the level of principle, lost on me.  And
+it does not matter that in one case one is dealing with economic loss and in
+the other with physical damage; as my colleague notes, no issue of
+indeterminacy arises here.                     There are, however,
+technical distinctions between the ordinary tort of negligence and negligent
+misrepresentation, in particular that under the latter the representee must
+have relied, in a reasonable manner, on the negligent representation.  I am
+quite happy to rely on this technical distinction to absolve the individual
+engineers from liability because, on balance, it seems to me, there are sound
+reasons of policy why they should not be subjected to a duty to the appellant. 
+The appellant here was quite reasonably relying on the skills of the
+engineering firm and the firm in turn must be taken to have recognized that
+persons in the position of the respondents would rely on their work and act
+accordingly.  I have cast the relationship in terms of reliance but it may also
+be seen as a matter of voluntary assumption of risk.  As Professor Fleming put
+it in The Law of Torts (8th ed. 1992), at p. 641, "the recipient
+must have had reasonable grounds for believing that the speaker expected to be
+trusted".                     The situation of
+the individual engineers is quite different.  While they may, in one sense,
+have expected that persons in the position of the appellant would rely on their
+work, they would expect that the appellant would place reliance on their firm's
+pocketbook and not theirs for indemnification; see London Drugs, supra,
+at pp. 386-87.  Looked at the other way, the appellant could not reasonably
+rely for indemnification on the individual engineers.  It would have to show
+that it was relying on the particular expertise of an individual engineer
+without regard to the corporate character of the engineering firm.  It would
+seem quite unrealistic, as my colleague observes, to hold that the mere presence
+of an individual engineer's seal was sufficient indication of personal reliance
+(or for that matter voluntary assumption of risk).  In considering the matter,
+other more general policy issues should be considered.  As I noted in London
+Drugs, supra, at p. 387, the case raises "with particular
+acuity the question of whether in effect requiring double insurance by both the
+firm and the employee makes sense in that context".                     The judgment of
+Sopinka, Gonthier, Cory, McLachlin, Iacobucci and Major JJ. was delivered by                     McLachlin
+J. -- The appellant,
+Edgeworth Construction Ltd. (hereinafter Edgeworth), is engaged in the business
+of building roads in the Province of British Columbia.  In 1977, it bid on a
+contract to build a section of highway in the Revelstoke area.  Its bid was
+successful, and Edgeworth entered into a contract with the province for the
+work.  Edgeworth alleges that it lost money on the project due to errors in the
+specifications and construction drawings.  It commenced proceedings for negligent
+misrepresentation against the engineering firm which prepared those drawings,
+N. D. Lea & Associates Ltd. (hereinafter N. D. Lea) as well as the
+individual engineers who affixed their seals to the drawings.  Reasons Below                     On a pre-trial
+motion, the chambers judge ruled that Edgeworth was not entitled to pursue its
+action against the engineers.  In his view, Edgeworth's only recourse was
+against the province under its contract with the province.  The Court of Appeal
+((1991), 53 B.C.L.R. (2d) 180) upheld this decision, holding that the engineers
+did not owe a duty of care to Edgeworth.  Lambert J.A., speaking for the court,
+stated at p. 187:                     In
+this case Edgeworth Construction made a construction contract with the Crown,
+represented by the Ministry of Highways.  The design of the project and the
+plans and specifications prepared by N.D. Lea were incorporated in the
+contract.  They were adopted by the Ministry of Highways as the design, plans
+and specifications of the Ministry of Highways.  They became representations of
+the Ministry of Highways to prospective bidders.  When they were adopted an
+promulgated by the Ministry of Highways as the Ministry of Highways'
+representations they ceased to be the representations of N.D. Lea, at least
+insofar as proximity for the purposes of a duty of care with respect to
+economic loss is concerned.  Proximity for the purposes of personal safety is a
+different matter, governed by different considerations.  It is not in issue in
+this appeal.  And, in my opinion, the individual seals of individual engineers
+make no difference in the context of this case to the question of proximity for
+the purposes of economic loss.  Points in Issue  [1.]  Whether
+the British Columbia Court of Appeal erred in holding that the Respondent N.D.
+Lea owed no duty of care in law to the Appellant, and, in particular, whether
+the British Columbia Court of Appeal erred in finding that there was not a
+sufficient degree of proximity existing between the Appellant and N.D. Lea in
+order to found a duty of care.  [2.]  Whether
+the Individual Respondents owed a duty of care in law to the Appellant.  Analysis                     Liability for
+negligent misrepresentation arises where a person makes a representation
+knowing that another may rely on it, and the plaintiff in fact relies on the
+representation to its detriment:  Hedley Byrne & Co. v. Heller &
+Partners Ltd., [1964] A.C. 465 and Haig v. Bamford, [1977] 1 S.C.R.
+466.                     The facts alleged
+in this case meet this test, leaving the contract between the contractor and
+the province to one side. The engineers undertook to provide information (the
+tender package) for use by a definable group of persons with whom it did not
+have any contractual relationship.  The purpose of supplying the information
+was to allow tenderers to prepare a price to be submitted.  The engineers knew
+this.  The plaintiff contractor was one of the tenderers.  It relied on the
+information prepared by the engineers in preparing its bid.  Its reliance upon
+the engineers' work was reasonable.  It alleges it suffered loss as a
+consequence.  These facts establish a prima facie cause of action
+against the engineering firm.                     The only question
+which remains is whether the contract between the contractor and the province
+negated the duty of care which would otherwise have arisen on the facts
+pleaded.                     The argument that
+the contract between Edgeworth and the province negated or subsumed the duty of
+care owed by the engineers to Edgeworth is put in a number of ways.  It is said
+that the contract converted the representation from one made by the engineering
+firm to one made by the province.  It is argued that the contract destroyed the
+proximity which would otherwise have lain between the contractor and the
+engineers.  And it is said that the proper course of the law and policy
+precludes reliance on tort principles when a contract such as this has been
+made.                     The essence of the
+position adopted below is that the Ministry assumed all risks previously held
+by the engineers.  The material provided to prospective bidders, which
+incorporated the impugned work of the engineers, was "adopted and
+promulgated by [the Ministry] as [the Ministry's] representations."  Thus,
+it is argued, the Ministry assumed all risks, and the duty between the
+engineers and contractor is negated.                     I cannot accede to
+this argument.  It is true that the engineers' work was incorporated in the
+tender package and thereafter in the contract.  This establishes that the
+representations in the design became the representations of the province.  But
+it does not, without more, and with great respect to the differing views below,
+establish the further proposition that when the representations became the
+representations of the province they ceased to be the representations of the
+engineers.  The contractor was relying on the accuracy of the engineers' design
+just as much after it entered into the contract as before.  Neither the
+Ministry nor the contractor ever assumed the risk of errors in the engineers'
+work.  Throughout, Edgeworth, if its contentions are born out at trial, was
+relying on the expertise of the engineers and not of the province with respect
+to the accuracy of the design.                     The contract, by
+clause 42, stipulated that any representations in the tender documents were
+"furnished merely for the general information of bidders and [were] not in
+anywise warranted or guaranteed by or on behalf of the Minister . . . ." 
+This arguably absolved the province from any liability for the plans.  The
+exemption extends, on its express words, only to warranties "by or on behalf
+of the Minister".  It does not purport to protect the engineers against
+liability for their representations.                     There is a further
+problem of whether the engineers, not parties to the contract, could claim the
+benefit of its exclusion of liability for the representations in the tender
+documents.  This Court in London Drugs Ltd. v. Kuehne & Nagel
+International Ltd., [1992] 3 S.C.R. 299, held that the doctrine of privity
+of contract did not preclude contractual exclusions for negligence being
+extended to provide protection for the employees actually charged with doing
+the work.  But before such an argument can succeed, it must be established that
+the contract clause provides protection, or should by implication be held to
+provide protection, for the persons who, although not parties to the contract,
+are claiming the benefit of the exclusion.  In the case at bar this has not
+been done.  In London Drugs the fact that the work for which the
+exemption was given could only be done by the employees, taken together with
+other circumstances including the powerlessness of the employees to protect
+themselves otherwise, suggested that a term should be implied that the clause
+was intended to benefit them, or alternatively, that the intention of the
+parties manifested in the contract must be taken to limit the duty of care owed
+in tort.  The facts in this case do not give rise to such an inference; rather,
+clause 42 is entirely consistent with the conclusion that the protection was
+intended for the benefit of the province alone.  Moreover, the engineering
+firm, unlike the employees in London Drugs, could have taken measures to
+protect itself from the liability in question.  It could have placed a
+disclaimer of responsibility on the design documents.  Alternatively, it could
+have refused to agree to provide the design without ongoing supervision duties
+which would have permitted it to make alterations as the contract was being
+performed; I raise this point in the context of the engineers' argument that
+much of the loss might have been avoided had it had ongoing supervisory
+duties.  Finally, the engineering firm might have decided to accept the risk
+that tenderers would rely on its design to their detriment, and have insured
+itself accordingly.  In short, the circumstances of the case, combined with the
+wording of the exclusion clause, negate any inference that the contractor
+should be taken as having excluded its right to sue the engineers for design
+deficiencies by its contract with the province.  For these reasons, I conclude
+that clause 42 of the contract between the contractor and the province does not
+assist the engineering firm.                     Another way of
+putting the argument that the contract terminates the duty of care between the
+contractor and the engineers, is to say that once the contractor enters into a
+contract with the Province which deals with the matter of design, the contract
+ousts all tort duties.  Where the parties to the contract have themselves
+defined their obligations by contract, it may be argued that the contract must
+prevail over a different duty which tort law might impose, on the principle
+that people are free to determine their own civil rights and responsibilities. 
+Subject to this limitation, however, the presence of a contract does not bar
+the right to sue in tort:  BG Checo International Ltd. v. British Columbia
+Hydro and Power Authority, [1993] 1 S.C.R. 12.  In this case, the contract
+is not between the plaintiff and the defendant.  Moreover, for the reasons
+given above, it does not purport to limit the tort duty which is owed by the
+defendant engineering firm to the contractor.  Accordingly, the argument that
+the parties have defined their obligations by the contract, thereby ousting
+tort obligations, cannot succeed.                     In support of its
+contention that the factual matrix alleged on the pleadings does not support a
+relationship of sufficient proximity to found a duty of care, the engineering
+firm emphasizes that the loss claimed is purely economic, a fact also noted by
+the Court of Appeal.  This argument seems, in my opinion, to overlook the fact
+that this is a claim for negligent misrepresentation under Hedley Byrne,
+supra.  It has long been settled that claims for pure economic loss may
+be brought for negligent misrepresentation.  The case at bar accordingly does
+not raise the issue discussed in Canadian National Railway Co. v. Norsk
+Pacific Steamship Co., [1992] 1 S.C.R. 1021, of when new categories of pure
+economic loss may be recoverable in tort.                     Finally, it is
+suggested that policy considerations negate the imposition of tort liability. 
+The engineering firm urges that the applicable test for a duty of care in tort
+is that set out in Anns v. Merton London Borough Council, [1978] A.C.
+728, which is said to permit a court to deny on grounds of policy a duty of
+care which might otherwise arise.  There is a preliminary question whether the
+conditions specified in Hedley Byrne for the imposition of liability for
+negligent misrepresentation leave much scope for further policy assessment
+under the second branch of Anns.  To put it another way, it can be
+argued that if the conditions for liability stipulated in Hedley Byrne
+are met, it is difficult to conceive a valid policy reason why a duty of care
+should not be held to arise.                     Leaving that
+question aside, however, I am not persuaded that good policy reasons exist for
+denying a duty of care owed by the engineering firm to the contractor in this
+case.  The engineers argue that to allow the claim in tort to proceed would be
+to permit the contractor to circumvent its contractual promise not to rely on
+the tender documents by claiming from a third party.  This, it says, would
+negate contractual limitations on liability.  It would allow the contracting
+parties to foist their responsibilities on a third party, the engineering
+firm.  And it would prevent or inhibit engineers and other design professionals
+from accepting limited retainers.  The proper approach for compensation for
+design error, according to the engineers, is for the contractor to sue the
+owner, in this case the province, on the contract.  If the owner is found
+liable, the owner may then claim over against the design professional which it
+employed to prepare the tender documents.                     I cannot see how
+permitting the engineering firm to be sued in tort circumvents any contractual
+promise.  As discussed above, there is no contractual promise which says the
+firm is not responsible for its negligent misrepresentations in the design.  So
+nothing is circumvented.  For the same reason, no contractual limitations are negated. 
+The contracting parties cannot be said to be foisting their responsibilities on
+a design professional. They determine their own rights and responsibilities. 
+The responsibility of the engineering firm arises from its own
+misrepresentation, coupled with the knowledge that contractors will be relying
+on it and acting on it without practical opportunity for independent inquiry,
+in  the absence of any disclaimer of responsibility.  While the possibility of
+being sued in tort may inhibit the willingness of design professionals to enter
+into limited retainers, it does not follow that by assuming duties toward third
+parties the engineering firm would be performing work for which it is not
+paid.  Many professionals in a wide variety of callings and circumstances
+assume duties toward persons other than those with whom they have contracted,
+and are held liable in tort for their proper discharge:  see, for example, Haig
+v. Bamford, supra.  Typically, the additional risks are reflected in the
+price of the contract.  Alternatively, disclaimers of responsibility to third
+parties may be issued.                     The proposition
+that the only correct way to bring a claim for design defects is by suing the
+owner in contract, who then may claim over against the design professional, is
+similarly suspect.  The result, in a case such as this, would be that the
+contractor would not be able to claim against anyone for design defects.  Since
+the province as owner has excluded its responsibility for design defects under
+the contract, the contractor could not recover against it.  So there would be
+no claim over.  Moreover, the notion that there is only one right way to
+proceed -- in contract -- undercuts the philosophy expressed by this Court in
+cases such as Central Trust Co. v. Rafuse, [1986] 2 S.C.R. 147, and BG
+Checo International Ltd. v. British Columbia Hydro and Power Authority, supra,
+that plaintiffs may sue concurrently in contract and tort, provided the
+contract does not negate the imposition of a duty of care in tort.                     One important policy
+consideration weighs against the engineering firm.  If the engineering firm is
+correct, then contractors bidding on construction contracts will be obliged to
+do their own engineering.  In the typically short period allowed for the filing
+of tenders -- in this case about two weeks -- the contractor would be obliged,
+at the very least, to conduct a thorough professional review of the accuracy of
+the engineering design and information, work which in this case took over two
+years.  The task would be difficult, if not impossible.  Moreover, each
+tendering contractor would be obliged to hire its own engineers and repeat a
+process already undertaken by the owner.  The result would be that the
+engineering for the job would be done not just once, by the engineers hired by
+the owner, but a number of times.  This duplication of effort would doubtless
+be reflected in higher bid prices, and ultimately, a greater cost to the public
+which ultimately bears the cost of road construction.  From an economic point
+of view, it makes more sense for one engineering firm to do the engineering
+work, which the contractors in turn are entitled to rely on, absent disclaimers
+or limitations on the part of the firm.  In fact, the short tender period
+suggests that in reality this is the way the process works; contractors who
+wish to bid have no choice but to rely on the design and documents prepared by
+the engineering firm.  It is on this basis that they submit their bids and on
+this basis that the successful bidder enters into the contract.  The fact that
+the contractor may agree to exempt the party inviting tenders from liability
+for the design process does not suggest that it thereby should be taken to have
+exempted the engineering firm.  In the scheme of things, it makes good practical
+and economic sense to place the responsibility for the adequacy of the design
+on the shoulders of the designing engineering firm, assuming reasonable
+reliance and barring disclaimers.  The risk of liability to compensate third
+parties for design error will be reflected in the cost of the engineers'
+services to the owner inviting tenders.  But that is a much better result than
+requiring the owner to pay not only the engineering firm which it retains, but
+indirectly, the additional engineers which all tendering parties would
+otherwise be required to retain.                     For these reasons,
+I conclude that the courts below erred in holding that the facts pleaded by
+Edgeworth do not disclose a cause of action against the engineering firm, 
+N. D. Lea.                     The position of the
+individual engineers is different.  The only basis upon which they are sued is
+the fact that each of them affixed his seal to the design documents.  In my
+view, this is insufficient to establish a duty of care between the individual
+engineers and Edgeworth.  The seal attests that a qualified engineer prepared
+the drawing.  It is not a guarantee of accuracy.  The affixation of a seal,
+without more, is insufficient to found liability for negligent
+misrepresentation.  I agree with the courts below that the action against the
+individual defendants should be struck.  Conclusion                     I would allow the
+appeal against N. D. Lea & Associates Ltd.  I would dismiss the appeal
+against the individual engineers.  Costs will follow the event, here and below.                     Appeal allowed with
+costs against N. D. Lea & Associates Ltd. and appeal dismissed
+against the individual engineers.                     Solicitors for the
+appellant:  Blake, Cassels & Graydon, Toronto.                     Solicitors for the
+respondent N. D. Lea & Associates Ltd.:  Singleton, Urquhart,
+MacDonald, Vancouver.                     Solicitors for the
+interveners:  Farris, Vaughan, Wills & Murphy, Vancouver.  

@@ -1,0 +1,1269 @@
+Martel Building Ltd. v. Canada, [2000] 2 S.C.R. 860  Her Majesty The Queen                                                                   Appellant  v.  The Martel Building Ltd.                                                                  Respondent  Indexed as:  Martel Building Ltd. v. Canada  Neutral citation:  2000 SCC 60.  File No.:  26893.  2000:  February 17;  2000:  November 30.  Present:  McLachlin C.J. and Gonthier, Iacobucci, Major,
+Bastarache, Binnie and Arbour JJ.  on appeal from the federal court of appeal  Torts — Negligence — Economic loss — Whether
+Canadian law recognizes duty of care on parties in commercial negotiations —
+Whether tort of negligence extends to damages for pure economic loss arising
+out of conduct of pre-contractual negotiations.  Torts — Negligence — Economic loss — Whether
+tender-calling authority  owed duty of care to bidders in drafting tender
+specifications — Whether sphere of recovery for pure economic loss should be
+extended to cover circumstances surrounding preparation of tender
+specifications.  Contracts — Tenders
+— Obligation to treat all bidders fairly — Whether  tender-calling authority
+breached its implied contractual duty to treat all bidders fairly and equally —
+If so, whether bidder’s loss caused by contractual breach.  The respondent leased most of a building to the
+appellant.  Prior to the end of the lease, the respondent’s CEO met a
+subordinate of the appellant’s Chief of Leasing to discuss renewing the lease. 
+The appellant instructed its Chief of Leasing to obtain a proposed rental rate
+even though it intended to commence a tender process but  no action was taken. 
+The Chief of Leasing did not contact the respondent when directed to report on
+the status of negotiations and, at monthly meetings, led the appellant to
+believe that a proposed lease rate was forthcoming but nobody informed the
+respondent of this expectation.  The respondent’s CEO twice contacted the
+appellant,  resulting in a meeting which the CEO believed was to commence
+negotiations but in which the appellant maintains that it told the CEO that it
+would proceed to tender unless it received a very attractive offer. The CEO
+presented proposed rental rates that fell outside a range suggested by an
+appraisal commissioned by the appellant. The appellant set a date to complete
+negotiations and, when that date passed, began steps to approve a tender by
+preparing a report. The report first recommended a lease renewal but no final
+decision was made before a revised report recommended proceeding to tender due
+to declining market rental rates.  Approval for a tender was obtained.  The CEO
+heard rumours that a tender was to begin and telephoned the Chief of Leasing. 
+The parties met the same day an expression of interest was advertised to
+solicit interest in the tender.  The CEO said he left the meeting with an
+understanding that the appellant would recommend a lease renewal if he offered
+a rate of $220 per square metre.  Two days after the meeting, he advised the
+Chief of Leasing that he could offer that rate; however, the appellant decided
+that remaining terms would have to be settled that day. The respondent could
+not respond that quickly.  Its offer was rejected and tender documents were
+issued.  Under the terms of the call for tenders the appellant was not
+obligated to accept the lowest bid. The respondent submitted the lowest of four
+bids. The appellant conducted a financial analysis of the bids to consider the
+total costs that would be incurred as a result of accepting any one tender and
+added to the respondent’s bid approximately $1,000,000 for fit-up costs and
+$60,000 to cover the installation of a secured card access system.  The tender
+was awarded to a competitor.  The Federal Court, Trial Division found that the
+appellant owed and breached a duty of care in its conduct of the negotiations
+but that the respondent had failed to prove that the appellant’s negligence
+caused the respondent to lose the lease renewal. The Federal Court of Appeal
+acceded to the respondent’s tort claim. The court held that a duty of care had
+been breached not only in the context of the negotiations, depriving the
+respondent of the opportunity to negotiate a renewal of the lease, but also in
+the context of the tender, depriving the respondent of both the opportunity to
+participate fairly in the tender process and of a reasonable expectation of
+being awarded the contract. The court concluded that a causal link clearly
+existed between the respondent’s loss and the appellant’s negligence.  Held:  The appeal
+should be allowed.  Although the common law traditionally did not allow
+recovery of economic loss where a plaintiff had suffered neither physical harm
+nor property damage, the law now recognizes five categories of compensable
+economic loss. The respondent’s allegation of negligence in the conduct of commercial
+negotiations does not fall within these categories. That by itself, however,
+does not preclude the claim since the categories of economic loss are not
+closed.  To enlarge the categories or identify a new head of economic loss it
+is useful to set out a framework that emphasizes policy considerations in any
+case.  In determining whether to extend a duty of care in an area not
+previously categorized, the flexible two-stage analysis set out in Anns
+should be applied.  Here,  the relationship between the parties gave rise to a prima
+facie duty of care. Proximity is indicated by the pre-existing lease
+arrangement, the parties’ communications, and evidence of genuine and mutual
+contracting intent.  Even in the absence of any serious potential for
+indeterminate liability, however, there are a number of ancillary policy
+considerations that necessitate precluding the extension of the tort of
+negligence into commercial negotiations.  First, the goal of commercial
+negotiations is often to realize a financial gain at the expense of the other
+party.  Second, socially and economically useful conduct could be deterred by
+depriving a party of any advantageous bargaining position.  It would defeat the
+essence of negotiation and hobble the marketplace to label a party’s failure to
+disclose its bottom line, its motives or its final position as negligent. 
+Third, tort law could become after-the-fact insurance against failures to act
+with due diligence or to hedge risk of failed negotiations through the pursuit
+of alternative strategies or opportunities.  Fourth, the courts would assume a
+significant regulatory function — scrutinizing the minutia of pre-contractual
+conduct — when other causes of action provide alternative remedies.   Fifth,
+needless litigation should be discouraged.  In the circumstances of this case,
+any prima facie duty of care is outweighed by the deleterious effects
+that would be occasioned through an extension of a duty of care into the
+conduct of negotiations.  With respect to the tendering process, the preparation
+of tender documents and the subsequent evaluation of bids involve different
+considerations, and each event must, to a certain extent, be analysed
+separately.  A call to tender is an offer to contract whereas a binding
+contract may arise once a responsive bid is submitted for evaluation.  Express
+obligations based on terms in tender documents and implied obligations based on
+custom, usage or the presumed intention of the parties may arise once a bid is
+submitted.  The parties in this case intended to initiate contractual relations
+by the call for and submission of the tender and to include an implied term to
+treat all bids fairly and equally.  A privilege clause reserving the right not
+to accept the lowest or any bids does not exclude the obligation to treat all
+bidders fairly. The tender documents must be examined to determine the extent
+of this obligation. Here, these documents conferred upon the appellant
+significant latitude in evaluating the tenders.  No contractual breach can be found
+in relation to the addition of fit-up costs to the respondent’s bid since the
+appellant was expressly entitled to add fit-up costs which it deemed
+necessary.  Furthermore, fit-up costs were added to all bids, using the same
+standard or method of calculation.  In this regard, the appellant complied with
+its implied contractual obligation to treat all bidders fairly and equally. 
+There is no evidence of any colourable attempt to use fit-ups to achieve a
+desired result. The appellant could also add costs to the respondent’s bid for
+a contiguous space specification because this was an express requirement in the
+tender document to which all bidders had to comply.  The appellant did breach
+its duty to treat all bids fairly by adding the cost of a secured card system
+solely to the respondent’s bid.  Damages for this breach, however, are
+precluded for want of causation because this did not cause the respondent to
+lose a reasonable expectation of winning the tender.  Even without this cost
+addition, the respondent’s bid was significantly greater than the winning bid.  A tendering relationship is defined by contract and in
+this case the contract analysis subsumes any duty of care the respondent seeks
+to have recognized under tort law.  While an action in tort may lie
+notwithstanding the existence of a contract, in assessing whether a tortious
+duty should be recognized where a contract defines the rights and obligations
+of the parties, courts will look to the contract as informing any duty in tort
+law. Here, the tort claim by the respondent cannot succeed for the same reasons
+that the contractual claim failed.   Nor did the appellant breach a duty of
+care in drafting the tender specifications by including a contiguous space
+requirement.  The trial judge’s findings do not support the respondent’s claim
+that this requirement had been mistakenly added to the specifications. The
+respondent also conceded that the requirement was one with which all other
+bidders needed to comply.  Further, absent the contiguous space requirement,
+the respondent’s bid would still have been more expensive than the successful
+bid. Costs not attributable to this requirement made the respondent’s bid
+uncompetitive.  In any event, the appellant did not owe the respondent a duty
+of care in drafting the tender specifications. The respondent’s claim that the
+tender specifications were prepared negligently alleges a duty in an area not
+previously recognized and  the Anns two-step analysis indicates that the
+sphere of recovery for pure economic loss should  not be extended to cover the
+circumstances surrounding the preparation of the tender specifications in this
+case.   Assuming without deciding that sufficient proximity existed between the
+parties, any prima facie duty of care is negated by policy
+considerations.  In particular, the integrity of the tender process would
+become questionable if, by reason of a past relationship with, or special
+knowledge of, a potential bidder, there could be an enforceable obligation to
+take the interests of that particular bidder into account.  It is imperative
+that all bidders be treated on an equal footing.  Cases Cited  Applied: Anns v.
+Merton London Borough Council, [1978] A.C. 728; referred to:  D’Amato
+v. Badger, [1996] 2 S.C.R. 1071; Rivtow Marine Ltd. v. Washington Iron
+Works, [1974] S.C.R. 1189; Canadian National Railway Co. v. Norsk
+Pacific Steamship Co., [1992] 1 S.C.R. 1021;  Cattle v. Stockton
+Waterworks Co. (1875), L.R. 10 Q.B. 453; Winnipeg Condominium
+Corporation No. 36 v. Bird Construction Co., [1995] 1 S.C.R. 85; Kamloops
+(City of) v. Nielsen, [1984] 2 S.C.R. 2; Bow Valley Husky (Bermuda) Ltd.
+v. Saint John Shipbuilding Ltd., [1997] 3 S.C.R. 1210; Hercules
+Managements Ltd. v. Ernst & Young, [1997] 2 S.C.R. 165; B.D.C. Ltd.
+v. Hofstrand Farms Ltd., [1986] 1 S.C.R. 228; Just v. British Columbia,
+[1989] 2 S.C.R. 1228; The Queen in Right of Ontario v. Ron Engineering &
+Construction (Eastern) Ltd., [1981] 1 S.C.R. 111; M.J.B. Enterprises
+Ltd. v. Defence Construction (1951) Ltd., [1999] 1 S.C.R. 619; Canadian
+Pacific Hotels Ltd. v. Bank of Montreal, [1987] 1 S.C.R. 711; Best
+Cleaners and Contractors Ltd. v. The Queen, [1985] 2 F.C. 293; Chinook
+Aggregates Ltd. v. Abbotsford (Municipal District) (1989), 35 C.L.R. 241; Martselos
+Services Ltd. v. Arctic College (1994), 111 D.L.R. (4th) 65, leave to
+appeal refused, [1994] 3 S.C.R. viii; Northeast Marine Services Ltd. v.
+Atlantic Pilotage Authority, [1995] 2 F.C. 132; Tarmac Canada Inc. v.
+Hamilton-Wentworth (Regional Municipality) (1999), 48 C.L.R. (2d) 236; Vachon
+Construction Ltd. v. Cariboo (Regional District) (1996), 136 D.L.R. (4th)
+307; Health Care Developers Inc. v. Newfoundland (1996), 136 D.L.R.
+(4th) 609; Murphy v. Alberton (Town) (1993), 114 Nfld. & P.E.I.R.
+34; Kencor Holdings Ltd. v. Saskatchewan, [1991] 6 W.W.R. 717; Colautti
+Brothers Marble Tile & Carpet (1985) Inc. v. Windsor (City) (1996), 36
+M.P.L.R. (2d) 258; Yorkton Flying Services Ltd. v. Saskatchewan (Minister of
+Natural Resources), [1995] 9 W.W.R. 184; Central Trust Co. v. Rafuse,
+[1986] 2 S.C.R. 147; Queen v. Cognos Inc., [1993] 1 S.C.R. 87; BC
+Checo International Ltd. v. British Columbia Hydro and Power Authority,
+[1993] 1 S.C.R. 12; Twin City Mechanical v. Bradsil (1967) Ltd. (1996),
+31 C.L.R. (2d) 210, rev’d (1999), 43 C.L.R. (2d) 275; Ken Toby Ltd. v.
+British Columbia Buildings Corp. (1997), 34 B.C.L.R. (3d) 263, rev’d
+(1999), 62 B.C.L.R. (3d) 308.  Authors Cited  Cherniak, Earl A., and Elissa How.
+“Policy and Predictability:  Pure Economic Loss in the Supreme Court of Canada”
+(1999), 31 Can. Bus. L.J. 209.  Feldthusen, Bruce.  “Economic Loss
+in the Supreme Court of Canada:  Yesterday and Tomorrow” (1990-91), 17 Can.
+Bus. L.J. 356.  Feldthusen, Bruce.  Economic
+Negligence:  The Recovery of Pure Economic Loss, 4th ed.  Toronto: 
+Carswell, 2000.  Feldthusen, Bruce. “Liability for
+Pure Economic Loss:  Yes, But Why?” (1999), 28 U. W. Austl. L. Rev. 84.  Linden, Allen M.  Canadian Tort
+Law, 6th ed.  Toronto:  Butterworths, 1997.  Wallace, I. N. Duncan. 
+“Contractual Relational Loss in Canada” (1998), 114 L.Q.R. 370.  APPEAL from a judgment of the Federal Court of Appeal,
+[1998] 4 F.C. 300, 229 N.R. 187, 163 D.L.R. (4th) 504, [1998] F.C.J. No. 1031
+(QL), setting aside a judgment of the Trial Division (1997), 129 F.T.R. 249,
+[1997] F.C.J. No. 483 (QL), dismissing the plaintiff’s action. Appeal allowed.  David Sgayias, Q.C.,
+and F. B. Woyiwada, for the appellant.  James H. Smellie and M.
+Lynn Starchuk, for the respondent.  The judgment of the Court was delivered by  1                                  
+Iacobucci and Major JJ. —
+This appeal calls for an extension of the tort of negligence to include a duty
+of care on parties during negotiations, during the preparation of calls for
+tender and during the evaluation of bids submitted in response to such calls. 
+In each instance the respondent sought damages for pure economic loss.  I.  Factual
+Background 2                                  
+The respondent, The Martel Building Limited (“Martel”), is the owner of
+a building at 270 Albert Street in the City of Ottawa (“Martel Building”). The
+National Capital Region Division of the Department of Public Works
+(“Department”) leased most of the rentable space in the Martel Building under a
+10-year lease with an expiration date of August 31, 1993.  The lease contained
+an option for renewal.  3                                  
+The Department was responsible for contracting for space on behalf of
+government agencies such as the Atomic Energy Control Board (“AECB”), the
+principal physical tenant in this case.  4                                  
+The Department is divided into a number of branches with varying roles
+in the administration of its Public Works function.  Here, two branches of the
+Department were involved:  the Realty Services Branch and the Accommodation
+Branch.  Two sections of the Accommodation Branch played a role.  The Asset
+Management Section ascertained space requirements.  The Investment Management
+Section (“Accommodation (IM)”) evaluated the options available to the Crown. 
+The Realty Services Branch included a “Leasing” department that negotiated with
+landlords for the acquisition of space on behalf of the Crown and informed the
+Accommodation Branch of the conditions of the relevant rental market, in this
+case Ottawa.  5                                  
+For ease of reference, nothing will be lost in these reasons by
+referring to all the government divisions as the Department.  6                                  
+Prior to the expiration of the lease, Martel’s President and Chief
+Executive Officer, Mr. McMurray, arranged to meet with Mr. Séguin, the Chief of
+Leasing for the Department, to negotiate a renewal.  In March of 1991, Mr.
+McMurray met with Mr. Bray, a subordinate of Mr. Séguin.  He informed him of
+Martel’s desire to negotiate a renewal of the lease and provided him with a
+copy of Martel’s proposed “retrofit” of the Martel Building, which it hoped to
+complete in conjunction with a renewal of the lease to complement recent
+“fit-ups” completed by the tenant AECB.  A “retrofit” is a renovation of the
+common areas of a building generally undertaken by the landlord.  In contrast,
+a “fit-up” represents leasehold improvements undertaken by a tenant with
+respect to the space it usually occupies exclusively.  7                                  
+In May 1991, Mr. McMurray wrote to Mr. Séguin, reiterating the contents
+of the prior meeting with Mr. Bray.  In June, Mr. Séguin reported to Mr.
+Ratcliffe, the Acting Director of Accommodation (IM), that Martel was
+interested in renegotiating its lease and inquired whether the Department would
+be interested in a renewal.  Mr. Ratcliffe told him the Department intended to
+proceed with calling for tenders but at the same time requested Mr. Séguin to
+obtain a proposed rental rate from Martel.  8                                  
+Mr. Séguin delegated to Mr. Bray the responsibility of contacting Mr.
+McMurray.  No action was taken.  Nor did Mr. Séguin contact Mr. McMurray
+despite being directed by Department officials in October of 1991 to report on
+the status of negotiations with Martel.  9                                  
+In February of 1992,  Mr. Séguin was to obtain a proposal from Martel
+based upon a defined lease term.  Moreover, at the monthly meetings of the
+Department held between October of 1991 and April of 1992, Mr. Séguin led the
+Department to believe that a proposed rental rate was forthcoming from Martel. 
+Neither Mr. Séguin nor anyone else from the Department informed Mr. McMurray of
+this expectation.  In fact, the only step taken by Mr. Séguin during this
+period was to arrange that an appraisal report be prepared on the Martel
+Building by a private contractor.  10                              
+Mr. McMurray made two attempts to contact the Department between May of
+1991 and April of 1992 for the purpose of arranging a meeting to discuss a
+renewal.  The first attempt on December 17, 1991, was fruitless, but a second
+attempt in the spring of 1992 resulted in a meeting being scheduled for April
+15, 1992.  11                              
+Different accounts were given at the trial on what happened at the April
+15 meeting.  The Department maintained that it informed Mr. McMurray that a
+decision had been made to proceed with the tender process unless Martel made a
+particularly attractive offer to the Department.  Mr. McMurray’s version, which
+the trial judge accepted, was that while he always understood tendering to be a
+possibility, he was told the meeting was the commencement of negotiations for a
+renewal of the lease.  Consistent with his version of the meeting, Mr. McMurray
+presented the Department officials present, Messrs. Séguin and Mahar, with
+proposed rental rates.  Mr. Séguin then informed Mr. McMurray that a private
+appraisal had been commissioned and that he would inform Martel when it had
+been completed.  12                              
+As considerable lead time would be required to relocate the tenant AECB
+prior to the August 1993 expiry of the Martel lease, the Department set June
+30, 1992 as the “drop-dead date” by which time negotiations with Martel would
+have to be completed, or the tendering process would start.  The drop-dead date
+was extended later to October 2, 1992.  13                              
+Between June and September of 1992, Mr. McMurray met with Mr. Mahar on
+several occasions to present proposed rental rates.  These proposals did not
+fall within the market range suggested by the appraisal commissioned by the
+Department,  which it was agreed did not include the costs of the proposed
+retrofit.  The parties did not have contact again until October 14, 1992, when
+Mr. McMurray, having heard that the tendering for space was to begin,
+telephoned Mr. Séguin.  14                              
+It turned out that after the initial June 30, 1992 drop-dead date had
+passed, the Department began the initial steps required to proceed to tender
+for the AECB space.  The Department required two approvals to tender and
+eventually to lease the space.  The first, preliminary project approval
+(“PPA”), had to be obtained before the tender process began.  The second,
+effective project approval (“EPA”), was sought after tenders had been received
+and evaluated.  The authority to grant these approvals varies with the amount
+of space to be acquired and the value of the lease.  In the AECB’s case, the
+authority to grant PPA rested with the Assistant Deputy Minister -
+Accommodation (“ADM”) and the authority to grant EPA rested with the Treasury
+Board.  15                              
+The Department had an internal advisory structure geared toward
+preparing a recommendation for approval by the ADM.  It was a time-consuming process.
+An Investment Analysis Report (“IAR”) analysed the various options for
+obtaining rental space and made a recommendation.  The report then proceeded
+through a bureaucratic chain ultimately resulting in the Investment Management
+Board (“IMB”) of the Department making a recommendation to the ADM.  16                              
+The IAR recommended renegotiating the Martel lease.  It was considered
+by the Department in late September, but no decision was made.  The Department
+considered a revised report on October 9 but, due to declining rental rates in
+Ottawa  recommended that the matter proceed to tender.  Within the Department,
+the IMB was not involved in the tender proposal.  Approval for tendering was
+obtained from the ADM although the evidence did not establish on what date that
+occurred.  17                              
+Amid rumours that the AECB space was proceeding to tender, Mr. McMurray
+telephoned Messrs. Mahar and Séguin again on October 14 and 15. As a result of
+these calls Mr. McMurray received a letter confirming that the tendering
+process was proceeding and stipulating that the Department would not accept any
+proposal from Martel subsequent to October 22.  18                              
+The October 22 deadline was subsequently extended to October 27.  The
+parties held a meeting on October 27, the same day on which an expression of
+interest advertisement for tender of the AECB space appeared in the Ottawa
+Citizen newspaper.  Mr. McMurray said he left the meeting with the
+understanding that if he met a $220/m2 rental rate, the Department
+would recommend to the Treasury Board that the Martel lease be renewed.  19                              
+Mr. McMurray advised Mr. Séguin by telephone on October 29 that Martel
+could meet the $220/m2 rental rate.  On October 30 Martel submitted
+a written offer of a rate of $249/m2 plus an allowance, calculated
+by the Department to be an effective rate of $219.39/m2.  On the
+same day the Department decided that the remaining terms of the Martel lease,
+including the full details of the proposed retrofit, would have to be settled
+that day otherwise tendering would proceed.  Martel was unable to provide
+finalized retrofit plans by that afternoon.  On November 26 a letter was sent
+advising Mr. McMurray that Martel’s October 30 offer was rejected.  Tender
+documents were issued the same day with a deadline for submitting bids of
+December 3, 1992.  20                              
+Martel bid on the project.  When the bids were opened, Martel’s bid was
+the lowest of the tenders.  Martel was not awarded the contract.  21                              
+Under the terms of the call for tenders the Department was not obligated
+to accept the lowest or any bid.  Moreover, the Department conducted a
+financial analysis of the bids to consider the total costs that would be
+incurred as a result of accepting any one tender.  These costs included fit-up
+costs, contiguous space requirements, and a secured card access system.  The
+Martel Building’s fit-up costs were calculated to be approximately one million
+dollars.  As well, the Department added $60,000 to Martel’s bid to cover the
+installation of a secured card access system.  Based upon a net present value
+calculation, Martel’s bid was higher than the second lowest initial bid of
+Standard Life.  The tender was awarded to Standard Life.  II.  Judicial
+History  1.  Federal
+Court, Trial Division (1997), 129 F.T.R. 249  22                              
+Martel sued in contract and in tort.  In contract, Martel claimed the
+appellant had breached an implied term to renew the lease arising out of either
+the lease itself or an agreement reached between the parties on or about
+October 30, 1992.  Martel’s claim in tort rested on the Department’s alleged
+breach of a duty to negotiate in good faith and on its alleged negligent
+conduct of the negotiation and tender processes.  23                              
+The trial judge dismissed the contract claim.  She also declined to
+consider liability based on a duty to negotiate in good faith when she was
+sceptical that such a duty existed under Canadian law.  She did not address
+negligence in the tendering process, but noted that “a somewhat arbitrary
+assessment of fit-up costs appears to have been added to the financial analysis
+of the plaintiff’s bid” (para. 76).  24                              
+In the context of negotiations, the trial judge concluded that the
+relationship between the parties was sufficiently proximate to give rise to a
+duty of care in negligence.  She held it was reasonably foreseeable the
+Department’s carelessness might cause damage to Martel.  She further concluded
+that the Department was negligent in its conduct of the negotiations.  25                              
+However, she concluded that Martel had not established causation as it
+failed to prove that the Department’s negligence caused Martel to lose the
+10-year renewal.  She dismissed the plaintiff’s action.  2.  Federal
+Court of Appeal, [1998] 4 F.C. 300  26                              
+The Federal Court of Appeal held that the trial judge was correct that a
+duty of care arose from the conduct of the negotiations and that it had been
+breached. It too declined to consider whether a duty to negotiate in good faith
+had emerged in Canadian law.  27                              
+The Federal Court of Appeal also addressed negligence in the tendering
+process.  It held that “[n]egligence in the tendering process was a matter
+before the Trial Judge which she failed to address” (para. 31).  In this
+respect, it found that the call for tenders gave rise to an implied contractual
+obligation to treat all bidders fairly.  In turn, this obligation placed the
+parties in sufficient proximity to give rise to a duty of care.  It concluded
+that the Department had breached this duty through evaluating the bids
+according to undisclosed conditions which included the addition of fit-up
+costs, secured card access system costs and contiguous space requirements.  28                              
+The court held that in the context of the negotiations, the Department’s
+negligence deprived Martel of the opportunity to negotiate a renewal of the
+lease.  In the context of the tender, the Department’s negligence deprived
+Martel of both the opportunity to participate fairly in the tender process and
+a reasonable expectation of being awarded the contract.  29                              
+The court disagreed with the trial judge on causation.  It concluded
+that the Department’s conduct was the principal, if not the only cause, of
+Martel losing the opportunity to negotiate and losing its reasonable
+expectation of being awarded the contract under a fair and proper tendering
+process.  30                              
+The Federal Court of Appeal allowed the appeal with costs.  It found the
+Department liable in negligence and ordered a continuance of the trial on the
+issue of damages.  III.  Issues  31                              
+This appeal raises two issues:  1.                                
+Given that one owes a duty of care not to harm those who might
+foreseeably suffer damage, does a duty of care exist to that same group with
+respect to negotiations?  Does the tort of negligence extend to damages for
+pure economic loss arising out of the conduct of pre-contractual negotiations?  2.                                
+Did the Court of Appeal err in finding that the Department owed Martel a
+duty of care in the tendering process and that this duty was breached?   IV.  Analysis   1.                Given that one owes a duty of
+care not to harm those who might foreseeably suffer damage, does a duty of care
+exist to that same group with respect to negotiations?  Does the tort of
+negligence extend to damages for pure economic loss arising out of the conduct
+of pre-contractual negotiations?  32                              
+A central issue in this appeal is the extent to which Canadian
+jurisprudence recognizes a duty of care on parties in negotiations.  If a cause
+of action exists in this context, it is apparent that the damages claimed would
+be a purely economic loss.  33                              
+The appellant submitted that to extend the tort of negligence into the
+conduct of commercial negotiations would be an unnecessary and unsound invasion
+of the marketplace.  It argued that this case involves business risks inherent
+in commercial negotiation, risks which should be borne by parties and not be
+re-allocated through the imposition of a duty of care.  34                              
+A breach of a duty of care in negotiations would, in this case, result
+in the loss of an opportunity to negotiate a lease renewal.  This is a claim
+for damages not accompanied by physical injury or property damage.  What is
+left is a claim for pure economic loss.  See D’Amato v. Badger, [1996] 2
+S.C.R. 1071, at para. 13.  35                              
+As a cause of action, claims concerning the recovery of economic loss
+are identical to any other claim in negligence in that the plaintiff must
+establish a duty, a breach, damage and causation.  Nevertheless, as a result of
+the common law’s historical treatment of economic loss, the threshold question
+of whether or not to recognize a duty of care receives added scrutiny relative
+to other claims in negligence.  36                              
+An historical review of the common law treatment of recovery for 
+economic loss has been undertaken by this Court on several occasions.  See Rivtow
+Marine Ltd. v. Washington Iron Works, [1974] S.C.R. 1189; Canadian
+National Railway Co. v. Norsk Pacific Steamship Co., [1992] 1 S.C.R. 1021;
+and D’Amato, supra. Rather than re-canvassing the jurisprudential
+genealogy reviewed in these cases, it is enough to say that the common law
+traditionally did not allow recovery of economic loss where a plaintiff had
+suffered neither physical harm nor property damage.  See Cattle v. Stockton
+Waterworks Co. (1875), L.R. 10 Q.B. 453.  37                              
+Over time, the traditional rule was reconsidered.  In Rivtow and
+subsequent cases it has been recognized that in limited circumstances damages
+for economic loss absent physical or proprietary harm may be recovered.  The
+circumstances in which such damages have been awarded to date are few.  To a
+large extent, this caution derives from the same policy rationale that
+supported the traditional approach not to recognize the claim at all.  First,
+economic interests are viewed as less compelling of protection than bodily
+security or proprietary interests.  Second, an unbridled recognition of
+economic loss raises the spectre of indeterminate liability. Third, economic losses
+often arise in a commercial context, where they are often an inherent business
+risk best guarded against by the party on whom they fall through such means as
+insurance.  Finally, allowing the recovery of economic loss through tort has
+been seen to encourage a multiplicity of inappropriate lawsuits.  See D’Amato,
+supra, at para. 20, and A. M. Linden, Canadian Tort Law (6th ed.
+1997), at pp. 405-6.  38                              
+In an effort to identify and separate the types of cases that give rise
+to potentially compensable economic loss, La Forest J., in Norsk, supra,
+endorsed the following categories (at p. 1049):  1.    The Independent Liability of Statutory
+Public Authorities;  2.    Negligent Misrepresentation;  3.    Negligent Performance of a Service;  4.    Negligent Supply of Shoddy Goods or
+Structures; 5.    Relational Economic Loss.  See B.
+Feldthusen, “Economic Loss in the Supreme Court of Canada: Yesterday and
+Tomorrow” (1990-91), 17 Can. Bus. L.J. 356, at pp. 357-58; Winnipeg
+Condominium Corporation No. 36 v. Bird Construction Co., [1995] 1 S.C.R.
+85, at para. 12; and D’Amato, supra, at para. 30.  39                              
+The allegation of negligence in the conduct of negotiations does not
+fall within any of these classifications.  Thus, Martel’s claim is novel when
+weighed against the prior jurisprudence of this Court.  That by itself should
+not preclude the claim.  The question is whether the numbered categories ought
+to be enlarged or some other method identified to include a new head of
+economic loss.  To answer this question it is useful to set out a framework for
+the recognition of new categories such as that advanced by Martel.  40                              
+In attempting to mould such a framework, it is noteworthy that this
+Court has looked beyond the traditional bar against recovery of pure economic
+loss in favour of a case-specific analysis that seeks to weigh the unique
+policy considerations which arise.  See Rivtow, supra, at pp.
+1211-12; Kamloops (City of) v. Nielsen, [1984] 2 S.C.R. 2, at p. 33; Norsk,
+supra, at p. 1054, per La Forest J., and at p. 1155, per
+McLachlin J.; Winnipeg Condominium, supra, at para. 32; and D’Amato,
+supra, at paras. 31-34.  41                              
+A presumptive exclusionary rule exists only within the narrow realm of
+contractual relational economic loss.  This phrase is intended to define an
+economic loss suffered via a plaintiff’s contractual relationship with a third
+party to whom the defendant is already liable for property damage.  Prior to Bow
+Valley Husky (Bermuda) Ltd. v. Saint John Shipbuilding Ltd., [1997] 3
+S.C.R. 1210, it was undetermined whether the recognition of contractual
+relational economic loss was to be approached incrementally on a case-by-case
+basis, as with the other categories of economic loss, or through recognized
+categorical exceptions to a narrow exclusionary rule.  This debate arose out of
+the differing approaches expressed by McLachlin J. (as she then was) and La
+Forest J. in Norsk.  The substance of these positions was reviewed in D’Amato
+and need not be repeated for the purpose of this appeal.  42                              
+In Bow Valley, at para. 48, McLachlin J. resolved this debate,
+affirming that recovery for contractual relational economic loss is
+presumptively excluded, subject to categorical exceptions.  However, the
+categories of recoverable loss are not closed and new ones may emerge as
+different cases arise.  The majority in Bow Valley approved her
+reasons.  See Iacobucci J. at para. 113:  I understand my colleague’s discussion of this
+matter to mean that she has adopted the general exclusionary rule and
+categorical exceptions approach set forth by La Forest J. in Norsk. . .
+.  She points out that both her reasons and those of La Forest J. in Norsk
+recognize that the categories of recoverable contractual relational economic
+loss are not closed.  43                              
+It is important to distinguish between the Bow Valley majority’s
+reference to the categories of contractual relational economic loss, which
+falls within the fifth category, and the other four categories of economic loss
+listed above.  This distinction is relevant because contractual relational
+economic loss receives unique treatment within the broader scope of economic
+loss in general.  In this connection, we reject the  assertions of certain
+commentators who have suggested that the same approach applies to all five
+categories of economic loss following the Bow Valley decision: see E. A.
+Cherniak and E. How, “Policy and Predictability: Pure Economic Loss in the
+Supreme Court of Canada” (1999), 31 Can. Bus. L.J. 209, at p. 232, and
+I. N. D. Wallace, “Contractual Relational Loss in Canada” (1998), 114 L.Q.R.
+370, at pp. 374-77.  44                              
+Unlike the other areas of economic loss, contractual relational economic
+loss continues to operate under a presumption against recovery.  The following
+categories of contractual relational economic loss are, to date, the sole
+exceptions to this presumption:  1.    Where the claimant has a possessory or
+proprietary interest in the damaged property;  2.    General average cases; and  3.    Where the relationship between the claimant
+and the property owner constitutes a joint venture.  45                              
+However, as noted above, these three categorical exceptions within
+contractual relational economic loss categories are not closed.  The same is
+true for the five broader categories of economic loss: see Norsk, supra,
+at pp. 1150-53, per McLachlin J.  As Professor Linden, supra,
+states, “further categories of economic loss cases will have to be identified
+beyond the five general ones of Professor Feldthusen” (p. 421).  The reason for
+the broader five categories is merely to provide greater structure to a diverse
+range of factual situations by grouping together cases that raise similar
+policy concerns.  These categories are merely analytical tools.  46                              
+Canadian jurisprudence has consistently applied the flexible two-stage
+analysis of Anns v. Merton London Borough Council, [1978] A.C. 728
+(H.L.), originally adopted in Kamloops, supra,  in determining
+whether to extend a duty of care in a given case.  The Anns approach has
+been applied in this manner to each of the first four categories of economic
+loss.  See, for example, Hercules Managements Ltd. v. Ernst & Young,
+[1997] 2 S.C.R. 165, at para. 19 (negligent misrepresentation); Winnipeg
+Condominium, supra, at para. 32 (negligent supply of shoddy goods or
+structures); and B.D.C. Ltd. v. Hofstrand Farms Ltd., [1986] 1 S.C.R.
+228 (negligent performance of a service).  It is likely that any extension to
+the categorical exceptions of contractual relational economic loss also would
+be considered under the same analysis. See Bow Valley, supra, at
+paras. 52-56, per McLachlin J., and para. 113, per Iacobucci J.  47                              
+The Anns  approach is equally applicable when, as in this appeal,
+the claim alleges a duty of care in an area not previously categorized.  The
+respondent’s submission has to be considered within that framework.  48                              
+This analysis begins with the oft-repeated question:  Was there a sufficiently close relationship between Martel and the
+Department so that, in the reasonable contemplation of the Department,
+carelessness on its part might cause damage to a party such as Martel with whom
+it negotiated?  49                              
+See Hercules Managements, supra, at paras. 23-24, per
+La Forest J.:  ... the term “proximity” itself is nothing more than a label expressing
+a result, judgment or conclusion; it does not, in and of itself, provide a
+principled basis on which to make a legal determination.  .
+. .  The label “proximity”, as it was used by Lord Wilberforce in Anns,
+supra, was clearly intended to connote that the circumstances of the
+relationship inhering between the plaintiff and the defendant are of such a
+nature that the defendant may be said to be under an obligation to be mindful
+of the plaintiff’s legitimate interests in conducting his or her affairs.  50                              
+So as to infuse the term “proximity” with greater meaning, the courts
+take into account a variety of factors in ascertaining whether the relationship
+between two parties gives rise to a prima facie duty of care.  See
+McLachlin J. in Norsk, supra, at p. 1153:  In determining whether liability should be extended to a new situation,
+courts will have regard to the factors traditionally relevant to proximity such
+as the relationship between the parties, physical propinquity, assumed or
+imposed obligations and close causal connection.  And they will insist on
+sufficient special factors to avoid the imposition of indeterminate and
+unreasonable liability.  51                              
+It may be foreseeable that carelessness on the part of one negotiating
+party  may cause an opposite negotiating party economic loss.  Generally,
+negotiation is undertaken with a view to obtaining mutual economic gain.  Given
+the bilateral nature of most negotiations, such gains are sometimes obtained at
+the other party’s expense.  Although negotiations often provide synergistic
+effects for all concerned, the prospect of causing deprivation by economic loss
+is implicit in the negotiating environment.  The causal relationship in
+contractual negotiations is usually significant for a finding of proximity.  In
+the circumstances of this appeal, the appellant’s pre-existing contractual
+arrangement with Martel is an impressive indicator of proximity.  52                              
+Both the pre-existing lease arrangement and the communications between
+the appellant and respondent here are indicators of proximity.  That does not
+mean that any exchange loosely viewed as a negotiation will necessarily give
+rise to a proximate relationship.  The expression of interest does not
+automatically create proximity absent some evidence of genuine and mutual
+contracting intent.  We are satisfied that the parties in this appeal evidenced
+such an intent.  The communications between the appellant and Martel disclose a
+readiness to arrive at an agreement despite the fact one was never reached.  53                              
+We conclude that the circumstances of this case satisfy the first stage
+of Anns and raise a prima facie duty of care. Although the
+Department is a government actor, in its negotiations with Martel, it was
+exercising an operational rather than a policy function.  As such, this finding
+of a prima facie duty of care is not precluded by the appellant claiming
+to have exercised a bona fide discretionary policy decision.  See Kamloops,
+supra,  at p. 35, and Just v. British Columbia, [1989] 2 S.C.R.
+1228.  54                              
+In the wake of a finding of proximity, the second question in Anns
+arises:  Are there any policy considerations that serve to negative or limit (a)
+the scope of the prima facie duty of care (b) the class of persons to
+whom it is owed or (c) the damages to which a breach of it may give rise?  55                              
+Notwithstanding our finding of proximity above, there are compelling
+policy reasons to conclude that one commercial party should not have to be
+mindful of another commercial party’s legitimate interests in an arm’s length
+negotiation.  56                              
+As noted by McLachlin J. in Norsk, supra, at pp. 1154-55:  While proximity is critical to establishing the
+right to recover pure economic loss in tort, it does not always indicate
+liability.  It is a necessary but not necessarily sufficient condition of
+liability.  Recognizing that proximity is itself concerned with policy, the
+approach adopted in Kamloops (paralleled by the second branch of Anns)
+requires the Court to consider the purposes served by permitting recovery as
+well as whether there are any residual policy considerations which call for a
+limitation on liability.  This permits courts to reject liability for pure
+economic loss where indicated by policy reasons not taken into account in the
+proximity analysis.  57                              
+The scope of indeterminate liability remains a significant concern
+underlying any analysis of whether to extend the sphere of recovery for
+economic loss.  In this appeal, however, the inherent nature of negotiations in
+this case place definable limits on the ultimate extent of liability so that
+concerns of indeterminacy are not determinative in this appeal.  58                              
+Here, the class of potential claimants is limited to those persons that
+the  Department directly negotiated with.  Although both La Forest and
+McLachlin JJ. rejected the “knowledge of the plaintiff” test in Norsk as
+noted in Hercules Managements, supra, at para. 37, knowledge of
+the plaintiff remains a policy factor that may militate against indeterminacy.  59                              
+In addition, although the quantum of damages arising out of failed
+negotiations may be quite high, it is limited by the nature of the transaction
+being negotiated.  As noted by the court below, Martel’s claim is clearly
+restricted to the loss of an opportunity to conclude a 10-year lease renewal. 
+While there are serious difficulties in valuing a lost opportunity, the extent
+of the loss has definable limits.  60                              
+However, simply addressing indeterminacy does not represent the sole
+hurdle to extending a duty of care.  This conclusion has caused concern and has
+been commented on.  See Norsk, supra, at pp. 1067-68, per
+La Forest J.; Bow Valley, supra,  at para. 55, per
+McLachlin J., and B. Feldthusen, “Liability for Pure Economic Loss: Yes, But
+Why?” (1999), 28 U. W. Austl. L. Rev. 84, at p. 87.  61                              
+In light of the diverse array of factual circumstances that can fall
+under the moniker of pure economic loss, unique policy considerations may
+infuse the analysis of any given case.  Indeed, notwithstanding the fact that
+indeterminacy does not rear its head sufficiently in this appeal, there are a
+number of ancillary policy considerations that necessitate precluding the
+extension of the tort of negligence into commercial negotiations.  Even in the
+absence of any serious potential for indeterminate liability, these factors are
+sufficient to deny recovery notwithstanding the finding of proximity.  What we
+have identified as ancillary policy considerations weighing against recovery
+are defined by the following five illustrations.  62                              
+First, the very object of negotiation works against recovery.  The
+primary goal of any economically rational actor engaged in commercial
+negotiation is to achieve the most advantageous financial bargain.  As noted
+above, in the context of bilateral negotiation, such gains are realized at the
+expense of the other negotiating party.  From an economic perspective, some
+authors describe negotiation as a zero-sum game involving a transference rather
+than loss of wealth: see Cherniak and How, supra, at p. 231; and B.
+Feldthusen, Economic Negligence: The Recovery of Pure Economic Loss (4th
+ed. 2000), at p. 14.  63                              
+Perhaps following the traditional view that, at least in some
+circumstances, economic losses are less worthy of protection than physical or
+proprietary harm, it has been noted that the absence of net harm on a social
+scale is a factor weighing against the extension of liability for pure economic
+loss.  That is to say, negotiation merely transfers wealth between parties. 
+Although one party may suffer, another often gains.  Thus, as an economic
+whole, society is not worse off:  see Feldthusen, “Liability for Pure Economic
+Loss: Yes, But Why?”, supra, at p. 102:  ...many pure economic losses are qualitatively different from physical
+damage.  They represent not social loss, as occurs when property is damaged or
+destroyed, but private loss when wealth is transferred from one party to
+another with nothing being lost overall.  The plaintiff’s loss will often be a
+competitor’s gain.  To hold the defendant liable for transfer losses as if they
+were true losses will over-deter useful conduct.  64                              
+Second, as Feldhusen notes in the above passage, to extend a duty of
+care to pre-contractual commercial negotiations could deter socially and
+economically useful conduct.  The encouragement of economically efficient
+conduct can be a valid concern in favour of the extension of liability for pure
+economic loss.  See Winnipeg Condominium, supra, at para.
+37.  Equally,  in other circumstances, this goal may be a valid rationale
+against extending liability.  65                              
+In essence, Martel claims that the appellant was negligent in not
+providing it with adequate information concerning the appellant’s bargaining
+position or its readiness to conclude a renewal.  The appellant’s conduct in
+negotiating with Martel  might be construed as “hard bargaining”.  The
+Department’s agents displayed casual contempt towards Martel and its personnel
+as illustrated by broken appointments and general disregard of the minimal
+courtesy Martel could have reasonably expected.  However indifferent the agents
+of the Department appear from the record, that by itself does not create a
+cause of action.  Doubtless, the appellant’s ability to assume such a position
+in relation to Martel was due to its dominant position in the Ottawa leasing
+market.  The foregoing all point to the advantages enjoyed by the Crown, but do
+not point to liability.  66                              
+In many if not most commercial negotiations, an advantageous bargaining
+position is derived from the industrious generation of information not
+possessed by the opposite party as opposed to its market position as here. 
+Helpful information is often a by-product of one party expending resources on
+due diligence, research or other information gathering activities.  It is
+apparent that successful negotiating is the product of that kind of industry.  67                              
+It would defeat the essence of negotiation and hobble the marketplace to
+extend a duty of care to the conduct of negotiations, and to label a party’s
+failure to disclose its bottom line, its motives or its final position as
+negligent.  Such a conclusion would of necessity force the disclosure of
+privately acquired information and the dissipation of any competitive advantage
+derived from it, all of which is incompatible with the activity of negotiating
+and bargaining.  68                              
+Third, to impose a duty in the circumstances of this appeal could
+interject tort law as after-the-fact insurance against failures to act with due
+diligence or to hedge the risk of failed negotiations through the pursuit of
+alternative strategies or opportunities.  This Court has previously expressed a
+reluctance to extend pure economic loss in this manner.  See D’Amato, supra,
+at para. 51.  69                              
+Notwithstanding Martel’s hope that the negotiations would produce a
+favourable outcome, it could at any point have concluded that the Department
+was not serious or interested in concluding a renewal of the Martel Building
+lease, but simply delaying for an undisclosed reason and seeking other
+potential landlords. While Martel may have suffered from its innocence and
+optimism, at least some of the responsibility for the delays in communication
+evident in this appeal can be attributed to it.  The retention of
+self-vigilance is a necessary ingredient of commerce.  70                              
+Fourth, to extend the tort of negligence into the conduct of commercial
+negotiations would introduce the courts to a significant regulatory function,
+scrutinizing the minutiae of pre-contractual conduct.  It is undesirable to
+place further scrutiny upon commercial parties when other causes of action
+already provide remedies for many forms of conduct.  Notably, the doctrines of
+undue influence, economic duress and unconscionability provide redress against
+bargains obtained as a result of improper negotiation.  As well, negligent
+misrepresentation, fraud and the tort of deceit cover many aspects of
+negotiation which do not culminate in an agreement.  71                              
+A concluding but not conclusive fifth consideration is the extent to
+which needless litigation should be discouraged.  To extend negligence into the
+conduct of negotiations could encourage a multiplicity of lawsuits.  Given the
+number of negotiations that do not culminate in agreement, the potential for
+increased litigation in place of allowing market forces to operate seems
+obvious.  72                              
+For these reasons we are of the opinion that, in the circumstances of
+this case, any prima facie duty is significantly outweighed by the
+deleterious effects that would be occasioned through an extension of a duty of
+care into the conduct of negotiations.  We conclude then that, as a general
+proposition, no duty of care arises in conducting negotiations.  While there
+may well be a set of circumstances in which a duty of care may be found, it has
+not yet arisen.  73                              
+As a final note, we recognize that Martel’s claim resembles the
+assertion of a duty to bargain in good faith.  The breach of such a duty was
+alleged in the Federal Court, but not before this Court.  As noted by the
+courts below, a duty to bargain in good faith has not been recognized to date
+in Canadian law.  These reasons are restricted to whether or not the tort of
+negligence should be extended to include negotiation.  Whether or not
+negotiations are to be governed by a duty of good faith is a question for
+another time.  2.                Did the Court of Appeal err in
+finding that the Department owed Martel a duty of care in the tendering process
+and that this duty was breached?  (a)  Introduction  74                              
+The second branch of this case deals with the tendering process which
+followed the unfruitful negotiations.  Martel alleged that the Department was
+negligent in failing to exercise due care in preparing the tender documents,
+and in evaluating Martel’s bid made in response to the call for tenders.  As
+mentioned above, the trial judge did not address the Department’s liability, if
+any, arising from the tendering process.  However, Desjardins J.A., in the
+Federal Court of Appeal, addressed this issue and found that the Department
+owed Martel a duty of care in the tender process under tort principles.  This
+duty imposed upon the Department the “obligation to ensure fair treatment in
+the tenders by avoiding such factors as undisclosed preferences and awards of
+contracts to non-conforming bidders” (para. 37).  Desjardins J.A. explained
+that this duty arose out of an implied contractual obligation to treat all
+bidders fairly.  75                              
+The Court of Appeal held that the Department had breached its duty to
+treat Martel’s bid fairly.  Desjardins J.A. based this conclusion on the trial
+judge’s following  findings: (1) that the contiguous space requirement had not
+been required initially by the AECB and had been negligently added to the
+tender specifications; (2) that “a somewhat arbitrary assessment of fit-up
+costs appear[ed] to have been added to the financial analysis of the
+plaintiff’s bid” (paras. 37 F.C. and 76 F.T.R.); (3) that some of the costs
+arbitrarily assessed to Martel’s tender were attributable to the contiguous
+space requirements; (4) that there had not been any mention of fit-up costs
+being required if the tenant stayed in the Martel building; and (5) that the
+costs of a secured card access system had been added to Martel’s bid, and not
+to the Standard Life bid.  Upon closer examination, it can be seen that the
+above findings related to both the preparation of the tender documents and the
+evaluation of the bid.  Findings (1) and (4) related to the preparation of the
+tender documents, while findings (2), (3) and (5) related to the subsequent evaluation
+of the bid.  76                              
+With respect, we believe that the Court of Appeal erred by conflating
+the drafting (or preparation) of the tender documents and the tender evaluation
+issues.  The preparation of tender documents and the subsequent evaluation of
+bids involve different considerations, and each event must, to a certain
+extent, be analysed separately.  As will be explained below, once the bids were
+submitted in response to the invitation to tender, the so-called Contract A was
+formed which imposed contractual obligations, both express and implied, on the
+parties involved in the tender process.  While the evaluation of bids directly
+relates to the performance of this contract, the preparation of the tender
+documents on the other hand involves events which occurred before this contract
+was formed.  Thus, we believe that the Department’s liability with respect to
+the manner in which the tender documents were drafted, and the way in which the
+bids were subsequently evaluated, must be addressed separately.  77                              
+In this connection, we note that counsel for Martel argued before our
+Court that the Department’s duty in tort did not relate to its ability to
+estimate fit-up costs or evaluate the bids, but rather to its alleged failure
+to use reasonable care and diligence in drafting the tender specifications. 
+More specifically, Martel contends that the Department was negligent in
+including the contiguous space as a requirement in the tender documents.  In
+this Court, Martel took a narrower approach on the evaluation issue than did
+the Court of Appeal.  However, we have reviewed the evaluation issue as dealt
+with in the Court of Appeal.  78                              
+But before doing so, we should briefly recall the general principles of
+the law of tenders to set the stage for discussing the alleged negligence in
+the preparation of the tender documents and any liability arising in the
+evaluation of the bids.  We will also review how the law of contract applies to
+the tender process in this case, as we find it important to discuss the nature
+of the tender process and the duties which generally flow from it.  A
+discussion of Martel’s negligence claim will then follow.   (b)  The Tendering Process  (i)  General Principles of the Law of Tenders  79                              
+Any discussion of the duties or obligations arising from the tender
+process must begin with reference to The Queen in Right of Ontario v. Ron
+Engineering & Construction (Eastern) Ltd., [1981] 1 S.C.R. 111.  This
+case established that an invitation to tender may constitute an offer to
+contract which, upon the submission of a bid in response to the call for
+tenders, may become a binding contract.  Estey J. explained that this contract,
+which he labelled “Contract A”, imposed certain obligations upon the contractor
+who had submitted a tender.  He differentiated this contract from “Contract B”,
+the ultimate construction contract resulting from the award of one of the
+tenders.  80                              
+In M.J.B. Enterprises Ltd. v. Defence Construction (1951) Ltd.,
+[1999] 1 S.C.R. 619, this Court confirmed that Contract A also imposes
+obligations on the owner.  It further explained that Ron Engineering
+does not stand for the proposition that Contract A will always be formed, nor
+that the irrevocability of the tender will always be a term of such contract. 
+Whether the tendering process creates a preliminary contract is dependant upon
+the terms and conditions of the tender call.  This Court stated as follows, at
+para. 19:  What is important, therefore, is that the
+submission of a tender in response to an invitation to tender may give rise to
+contractual obligations, quite apart from the obligations associated with the
+construction contract to be entered into upon the acceptance of a tender,
+depending upon whether the parties intend to initiate contractual relations by
+the submission of a bid.  If such a contract arises, its terms are governed by
+the terms and conditions of the tender call.  81                              
+The Court also held that, while the terms stipulated in tender documents
+created express obligations in the context of Contract A, this contract, like
+all contracts, could also include implied obligations.  The inclusion of
+implied terms may be based on custom or usage, as the legal incidents of a
+particular class or kind of contract, or based on the presumed intention of the
+parties where it is necessary to give a contract business efficacy or where it
+meets the “officious bystander” test: Canadian Pacific Hotels Ltd. v. Bank
+of Montreal, [1987] 1 S.C.R. 711, at p. 775; M.J.B. Enterprises, supra,
+at para. 27.  82                              
+The tender documents involved in M.J.B. Enterprises included, as 
+in the case at bar, a privilege clause stating that the lowest or any tender
+would not necessarily be accepted.  The Court noted that in determining the
+intention of the parties, attention must be paid to the express terms of the
+contract.  In light of the privilege clause, the Court rejected the proposition
+that the party who had instigated the tender call was required to accept the lowest
+compliant tender.  The express language of the tender documents, which
+manifested a contrary intention, governed.  However, an obligation to accept
+only compliant bids could be implied based on the presumed intention of the
+parties.  This obligation was not incompatible with the privilege clause.  83                              
+It is now well established that parties to a tender process may have
+reciprocal obligations arising from Contract A either expressly or impliedly. 
+In the case at bar, Desjardins J.A. held that the appellant owed the respondent
+a duty of care in tort to treat all bidders fairly and equally.  However, she
+explained that such duty arose out of a coextensive implied contractual
+obligation.  84                              
+Various appellate courts have found the need to imply a contractual term
+into Contract A to treat all bidders fairly and equally.  Best Cleaners and
+Contractors Ltd. v. The Queen, [1985] 2 F.C. 293 (C.A.), is often referred
+to as one of the earlier cases suggesting such a duty.  Also, in Chinook
+Aggregates Ltd. v. Abbotsford (Municipal District) (1989), 35 C.L.R. 241,
+the British Columbia Court of Appeal unanimously held at p. 248 that the party
+calling for tenders was under a duty to “treat all bidders fairly and not to
+give any of them an unfair advantage over the others”.  Legg J.A., speaking for
+the Court, concluded that the owner had breached this implied contractual
+obligation by adopting a policy of preferring local contractors whose bids were
+within 10 percent of the lowest bid in awarding the contract, when that
+preference was not revealed by, nor stated in, the tender documents.  The
+tenderers were not notified of this policy to avoid alerting local contractors
+to the fact that they were afforded a preference.  It was held that the
+privilege clause did not give the owner the right to attach an undisclosed
+condition to its offer.  85                              
+The implied contractual duty of fair and equal treatment was also
+discussed in Martselos Services Ltd. v. Arctic College (1994), 111 D.L.R.
+(4th) 65 (N.W.T.C.A.), leave to appeal refused, [1994] 3 S.C.R. viii.  The
+majority held that in order to protect the integrity of the bidding system,
+there should be “a duty to treat all bidders equally but still with due regard
+to the contractual terms incorporated into the tender call” (p. 71).  See also:
+Northeast Marine Services Ltd. v. Atlantic Pilotage Authority, [1995] 2
+F.C. 132 (C.A.);  Tarmac Canada Inc. v. Hamilton-Wentworth
+(Regional Municipality) (1999), 48 C.L.R. (2d) 236 (Ont. C.A.); Vachon
+Construction Ltd. v. Cariboo (Reginal District) (1996), 136 D.L.R. (4th)
+307 (B.C.C.A.); Health Care Developers Inc. v. Newfoundland (1996), 136
+D.L.R. (4th) 609 (Nfld. C.A.).  Many other lower courts have also recognized an
+implied contractual duty to treat all bidders fairly and equally:  Murphy v.
+Alberton (Town) (1993), 114 Nfld. & P.E.I.R. 34 (P.E.I.S.C.T.D.); Kencor
+Holdings Ltd. v. Saskatchewan, [1991] 6 W.W.R. 717 (Sask. Q.B.); Colautti
+Brothers Marble Tile & Carpet (1985) Inc. v. Windsor (City) (1996), 36
+M.P.L.R. (2d) 258 (Ont. Ct. (Gen. Div.)); Yorkton Flying Services Ltd. v.
+Saskatchewan (Minister of Natural Resources), [1995] 9 W.W.R. 184 (Sask.
+Q.B.).  It should be noted that to the extent that any of the foregoing cases
+may be interpreted as suggesting that the lowest bid must be accepted despite
+the presence of a privilege clause, or that the irrevocability of the tender
+must form part of Contract A, we reiterate that such approach has clearly been
+rejected by this Court: M.J.B. Enterprises, supra.  (ii)  Application of the Law of Tenders  86                              
+Pursuant to the foregoing, we are of the view that the parties in the
+case at bar intended to initiate contractual relations by the call for and
+submission of the tender.   The Department offered to consider bids for the
+lease of the AECB space through a two-stage tender process.  An expression of
+interest first appeared in the Ottawa Citizen newspaper on October 27, 1992. 
+Then, on November 26, the Department couriered to four  parties, including
+Martel, a formal invitation to submit a tender for the AECB space requirement,
+together with the Lease Tender Document package.  87                              
+While the tender documents contained detailed terms and conditions
+pertaining to the ultimate leasing contract to be entered into, they also
+included terms and conditions governing the relations of the parties under
+Contract A (see especially the Instructions to Offerors, the Statement of
+Requirements, and the Offer Form).  The bidders were required to comply with
+the provisions, requirements and standards of the Lease Tender Document, as
+established by the Department (see clause 3.2 of the Instructions to Offerors). 
+Tenderers were also instructed to include a security deposit with their sealed
+tender.  In submitting a tender in response to the formal invitation, Martel
+accepted the Department’s offer and agreed to comply with its requirements (see
+clauses 2.1 and 2.2.1 of the Offer Form).  Following the analysis in Ron
+Engineering and M.J.B. Enterprises, Contract A clearly came into
+being in the circumstances of this case.  Significantly, counsel do not dispute
+the emergence of Contract A.  88                              
+In the circumstances of this case, we believe that implying a term to be
+fair and consistent in the assessment of the tender bids is justified based on
+the presumed intentions of the parties.  Such implication is necessary to give
+business efficacy to the tendering process.  As discussed above, this Court
+agreed to imply a term in M.J.B. Enterprises that only compliant bids
+would be accepted since it believed that it would make little sense to expose
+oneself to the risks associated with the tendering process if the tender
+calling authority was “allowed, in effect, to circumscribe this process and
+accept a non-compliant bid” (para. 41).  Similarly, in light of the costs and
+effort associated with preparing and submitting a bid, we find it difficult to
+believe that the respondent in this case, or any of the other three tenderers,
+would have submitted a bid unless it was understood by those involved that all
+bidders would be treated fairly and equally.  This implication has a certain
+degree of obviousness to it to the extent that the parties, if questioned,
+would clearly agree that this obligation had been assumed.  Implying an
+obligation to treat all bidders fairly and equally is consistent with the goal
+of protecting and promoting the integrity of the bidding process, and benefits
+all participants involved.  Without this implied term, tenderers, whose fate
+could be  predetermined by some undisclosed standards, would either incur
+significant expenses in preparing futile bids or ultimately avoid participating
+in the tender process.  89                              
+A privilege clause reserving the right not to accept the lowest or any
+bids does not exclude the obligation to treat all bidders fairly. 
+Nevertheless, the tender documents must be examined closely to determine the
+full extent of the obligation of fair and equal treatment.  In order to respect
+the parties’ intentions and reasonable expectations, such a duty must be
+defined with due consideration to the express contractual terms of the tender. 
+A tendering authority has “the right to include stipulations and restrictions
+and to reserve privileges to itself in the tender documents” (Colautti
+Brothers, supra, at para. 6).  90                              
+For ease of reference, we reproduce below the relevant clauses of the
+tender documents.                                                        Instructions
+to Offerors                                                                      ...  3.  EVALUATION PROCESS  3.1       The evaluation of Offers received is an
+on-going process and the Lessee reserves the right to terminate any further
+consideration of any Offer at any time during the Acceptance Period. ...  3.4       In undertaking the financial analysis,
+the Lessee will discount all cash flows, including front-end costs, and
+incentives, as they happen over the original term of the Lease, (extensions are
+excluded).  All cash flows are then depicted as a net present value cost to the
+Crown fixed as of the commencement date of the Lease.  (a)       In completing the financial analysis,
+the Lessee will make certain estimates for this project, including, but not
+limited to, the following:  .1 fit-up costs (including but not limited to, all or part of the
+Unit Costs supplied for estimated quantities deemed necessary in                                        the
+Lessee’s opinion to fulfil the fit-up requirements);  .2 moving costs;  .3 signage;  .4 screens; and,  .5 consultants.  (b)       In addition to the above, in cases where
+the premises offered are currently under lease by the Lessee and it is
+estimated by the Lessee, in its sole opinion, that a temporary relocation of
+the occupants and/or furniture could become necessary to allow for the
+completion of all or any portion of the improvements to be made to the premises
+(this includes the improvements to be completed by both the Offeror and the
+Lessee), the Lessee may also make certain estimates of the additional costs
+expected to be incurred by the Lessee including, but not limited to, the
+following:  (aa) moving of furniture and equipment;  (bb) fit-up costs of temporary accommodation;  (cc) all rental costs of suitable temporary accommodation; and,  (dd) installation of telecommunications equipment.  (c)       For the purpose of the financial
+analysis, the following provisions will apply:  (i)    all costs estimated by the Lessee shall be
+final;  (ii)   the measurements quoted in the Offer will be
+utilized;  (iii) with respect to any allowance which is unclear, the Lessee’s decision on how to apply the allowance in the analysis shall be final.  3.5  Notwithstanding 3.3 above, the Lessee
+reserves the unqualified right to do a comparative evaluation of all Offers
+received and evaluate them based on considerations which in the sole opinion of
+the Lessee would yield to the Lessee the best value.  This evaluation may be on
+such matters as, but not limited to, quality of space offered, the efficiency
+of the space offered, building design and access, and the level at which all
+requirements are met or achieved in comparison to the rental rate being
+requested.  4.  ACCEPTANCE                     4.1.      The Lessee may
+accept any Offer whether it is the lowest or not or may reject any or all
+Offers. [Emphasis added.]   Moreover, the
+document referred to as “Statement of Requirements” outlined the type of space
+required:  5.    SPACE  5.1  Category and amount of space required:  (a)       Basic office space: approximately but
+not less than 7,420 contiguous square metres.  [Emphasis added.]   91                              
+The express terms of the tender call clearly conferred upon the
+Department significant latitude in evaluating the tenders.  Not only did the
+Lease Tender Document include the standard privilege clause, but it also
+outlined factors which could be considered by the Department in evaluating the
+tenders.  Notably, the provisions of the Lease Tender Document explicitly left
+it up to the lessee to determine which fit-up costs were necessary (see clause
+3.4(a).1), and indicated that the Department’s cost estimates would be final
+(see clause 3.4(c)(i)).  The breadth of the Department’s discretion in
+analysing the bids is further highlighted by clause 3.5 of the Instructions to
+Offerors.  This language is clear and unequivocal, and was included in the
+specifications which were sent to Martel.  92                              
+While the Lease Tender Document affords the Department wide discretion,
+this discretion must nevertheless be qualified to the extent that all bidders
+must be treated equally and fairly.  Neither the privilege clause nor the other
+terms of Contract A nullify this duty.  As explained above, such an implied
+contractual duty is necessary to promote and protect the integrity of the
+tender system.  93                              
+In assessing the competing bids, the Department engaged in a financial
+analysis.  In the courts below, questions were raised with respect to the costs
+added to the respondent’s bid relating to fit-ups, the contiguous space
+requirement, and a secured card access system.  94                              
+Admittedly, $812,736 was added to the Martel bid for fit-up costs. 
+However, as the Department pointed out, the Court of Appeal appears to have
+ignored that fit-up costs were also added to the other three bidders.  In fact,
+$2,362,231.20 was added to the Commonwealth Building bid, $2,951,750.20 to the
+Constitution Square Tower II bid, and $1,808,179.80 to the Standard Life bid. 
+These figures were derived from the Unit Price Tables submitted by each
+tenderer as part of their bid, using a general scenario to fit-up a 900 square
+metre area.  This resulted in an average cost per square metre of fitted-up
+space.  A certain percentage was then added uniformly to the four rates to
+account for increased costs that the Department had experienced in the past
+when using this computation.  95                              
+We cannot find any breach of Contract A related to the addition of
+fit-up costs.  The Department was expressly entitled to add fit-up costs which
+it deemed necessary.  Furthermore, fit-up costs were added to all bids,
+using the same standard or method of calculation.  In this regard, the
+Department complied with its implied contractual obligation to treat all
+bidders fairly and equally.  A duty to treat all bidders fairly in this context
+means treating all bids consistently, applying assumptions evenly.  There is no
+evidence of any colourable attempt to use fit-ups to achieve a desired result. 
+In light of the trial judge’s finding that “it was fit-up costs . . . that made
+the plaintiff’s bid the second lowest rather than the lowest bid” (para. 57),
+the respondent’s claim is considerably weakened.  96                              
+Martel also argued that, in evaluating its bid, the Department should
+have taken into account its recent expenditure of $1.4 million to improve the
+AECB’s premises in the Martel Building.  With respect, we disagree.  Martel is
+essentially asking to be given special treatment based on its previous
+relationship with the Department.  However, this would clearly give Martel an
+unfair advantage over the other bidders.  It must be remembered that upon
+submitting a tender in response to the invitation to tender, the other three
+bidders also entered into Contracts A with the Department.  Therefore, pursuant
+to the implied obligation of fair and equal treatment, the Department acted
+properly in disregarding any past or planned improvements of the Martel
+Building by not accounting for them in Martel’s bid.  97                              
+With respect to the costs related to the contiguous space specification,
+it cannot be maintained that these costs should not have been added to Martel’s
+bid where such requirement was an express term of Contract A: Statement
+of Requirements, clause 5.1(a).  In assessing Martel’s bid, the Department
+prepared two “scenarios” which illustrated the costs involved should the AECB
+remain in the Martel Building.  The first scenario detailed the costs to be
+incurred should AECB be reorganized onto contiguous floors (Scenario A), while
+the second provided the figures to be added for non-contiguous space should the
+tenant remain in situ (Scenario B).  At trial, when asked why Scenario A
+was ultimately chosen for the purpose of the calculation, Mr. Mahar explained
+that “Scenario A is what was required in the tender”.  Mr. Mahar also testified
+that “Scenario A follows the letter of the tender document.  We had asked for
+7,420 usable square metres of contiguous space”.  98                              
+Consistent with the principles canvassed above, we find that not only
+was the Department entitled to apply the contiguous space requirement to
+Martel’s bid, but the Department was also in fact required to adopt that
+scenario consistent with the Lease Tender Document.  The contiguous space
+requirement was an express term of Contract A.  To ignore that requirement
+would have resulted in a violation of that provision.  Moreover, as all other
+bidders were expected to take into account and to comply with the contiguous
+space requirement in responding to the tender, the Department was bound, under
+its implied contractual duty to treat all bidders fairly and equally, to apply
+this specification to Martel.  Martel could not be given any unfair advantage
+based on its previous relationship with the Department.  Thus, in subjecting
+Martel to the explicit words of the tender document, the Department fulfilled
+its obligation to all parties.  99                              
+As discussed above, we believe that in conducting its financial
+analysis, the Department did not breach any duty by adding costs for fit-ups
+and contiguous space to Martel’s bid.  However, the addition of $60,000 solely
+to Martel’s bid to account for a secured card system is problematic.  At trial,
+Mr. Mahar explained that the costs for this option had been added to Martel’s
+figures because the “other three buildings that [they] were looking at had that
+capability”.  However, the trial judge noted that “[t]his was not entirely
+true” since the Department “subsequently had to install systems in two of the
+Standard Life building elevators” (para. 60).  100                          
+Given the clear provision included in the tender document which
+specified that the Department reserved to itself broad rights in evaluating the
+bids based on its own considerations, we do not find that the addition of such
+costs was problematic per se.  However, the Department failed to add the
+secured card costs consistently to all bids.  Consequently, the appellant
+breached its implied contractual duty to treat all bidders fairly and equally
+in this respect only.  101                          
+However, counsel for the Department argued before our Court that the
+addition of the secured card system of $60,000 is a non-issue since the
+difference between the successful bid and Martel’s bid was over $500,000.  This
+leads us to the question of causation.  102                          
+To be recoverable, a loss must be caused by the contractual breach in
+question.   As noted above, the only breach of Contract A is limited to the
+addition of the security system costs to Martel’s bid.   However, we conclude
+that damages for this breach of Contract A are precluded for want of
+causation.  We also find that the Department’s breach did not cause Martel to
+lose a reasonable expectation of receiving Contract B.  Even if the costs for a
+security system were deducted from Martel’s bid (or also added to the Standard
+Life bid), the difference between the two bids would remain significant.  While
+the trial judge noted that “it was fit-up costs . . . that made the
+plaintiff’s bid the second lowest rather than the lowest” (para. 57 (emphasis
+added)), the fit-up costs, as explained above, were added fairly and
+consistently to all bidders.  At the end of the day, we also believe that
+Martel lost Contract B because Standard Life made a better offer.  In this
+respect, we note that Standard Life included compelling inducements in its bid
+which the Department discounted in evaluating that bid, as clause 3.4 of the
+Instructions to Offerors enabled the Department to do.  In effect, Standard
+Life submitted a significant leasehold improvement allowance plus 18 months of
+free rent which considerably lowered its bid.  While the tender document
+included a clause that the lowest or any bid would not necessarily be accepted,
+the Department properly exercised its discretion in awarding Contract B to
+Standard Life, whose bid  in its opinion yielded the best value.  103                          
+We conclude that Martel did not suffer any loss as a result of the
+conduct of the Department in the evaluation of the bids.  The addition of the
+secured card access system costs by the Department to Martel’s bid did not
+deprive Martel of an opportunity of being selected as the successful bidder.  104                          
+In passing, we note that Desjardins J.A. also framed the loss in
+question as “the loss of opportunity to fairly participate in the tender”
+(para. 40).  Assuming without deciding that the loss of opportunity to
+participate fairly is analytically different from, and independent of, the loss
+of a reasonable expectation of receiving the contract, it is arguable that the
+addition of the costs for the  secured card system caused Martel to lose the
+opportunity to participate fairly (i.e., subject to equal treatment) in the
+tender.  However, in the circumstances of this case, the addition of $60,000 to
+Martel’s bid is of such negligible significance that damages would be nominal
+and judgement on this limited item is not warranted.  Accordingly, we would not
+make any finding of recovery on this point.  (c)   General Negligence Claims                     (i)    Evaluation of Tenders  105                          
+While the tendering relationship is one which is defined by contract,
+Martel bases its cause of action on tort law.  As discussed above with respect
+to negotiations, recognizing a duty of care in the tendering process would
+represent an extension of the categories under which recovery for pure economic
+loss has been granted.  As noted above, the Federal Court of Appeal acceded to
+Martel’s tort claim and accepted that the Department owed Martel a tortious
+duty of care arising out of the implied contractual obligation to treat all
+bidders fairly.  In relation to the evaluation of the tenders, Desjardins J.A.
+held at para. 37 that the Department had breached its duty of care in tort to
+act fairly toward Martel based on the trial judge’s findings of fact that “a
+somewhat arbitrary assessment of fit-up costs appear[ed] to have been added to
+the financial analysis of the plaintiff’s bid”; that some of the costs
+arbitrarily assessed to Martel’s tender were attributable to the contiguous
+space requirements; and that the cost of a secured card access system had been
+added to the Martel bid, and not to the Standard Life bid.  106                          
+In our view, the enumeration of the alleged foregoing breaches clearly
+reveals that the contract analysis, as canvassed above, subsumes any duty of
+care that Martel seeks to have recognized under tort.  In this connection, we
+acknowledge that it is well established that an action in tort may lie
+notwithstanding the existence of a contract.  However, it is equally clear that
+in assessing whether a tortious duty should be recognized where a contract
+already defines the rights and obligations of the parties in a chosen
+relationship, courts will look to the contract as informing that duty.  Nothing
+prevents reliance on a concurrent or alternative liability in tort if the
+contract does not limit or negative the right to sue in tort.  Where concurrent
+liability in tort and contract exists a party may elect to bring an action in
+tort in place of an action for breach of contract: see Central Trust Co. v.
+Rafuse, [1986] 2 S.C.R. 147; Queen v. Cognos Inc., [1993] 1 S.C.R.
+87; BG Checo International Ltd. v. British Columbia Hydro and Power
+Authority, [1993] 1 S.C.R. 12.  107                          
+However, in the circumstances of this case, regardless of whether there
+exists a coextensive duty in tort to treat tenderers fairly and equally in
+evaluating the bids, Martel’s tort claim cannot succeed for the same reasons
+that a contractual claim would fail.  The duty of care alleged in tort in the
+case at bar is the same as the duty which is implied as a term of Contract A;
+this is not a case where Martel is suing in tort to avail itself of a more
+generous limitation period, or some other advantage offered only by tort law.  108                          
+Finally, we note that Desjardins J.A. relied on two cases to support the
+view that a duty to treat all bidders fairly and equally has been recognized in
+the context of tort claims.  However, we note that both cases have subsequently
+been reversed by appellate courts: Twin City Mechanical v. Bradsil (1967)
+Ltd. (1996), 31 C.L.R. (2d) 210 (Ont. Ct. (Gen. Div.)), rev’d (1999), 43
+C.L.R. (2d) 275 (Ont. C.A.); Ken Toby Ltd. v. British Columbia Buildings
+Corp. (1997), 34 B.C.L.R. (3d) 263 (S.C.), rev’d (1999), 62 B.C.L.R. (3d)
+308 (C.A.).  In addition, reliance in tort was necessary because both cases
+involved situations where a subcontractor sought redress against the
+tender calling authority who had received bids from the general contractor. 
+Since there was no privity of contract between the subcontractor and the owner,
+liability could only be founded in tort.  In both cases, the appellate courts
+refrained from deciding whether or not a duty of care was owed in such
+situations, and preferred to limit their decisions to the fact that a breach
+could not be established.  We believe that the issue of whether a duty of care
+can arise between a subcontractor and an owner must be left to a case in which
+it arises.                     (ii)  Drafting of Tender
+Documents  109                          
+We now turn to the Department’s alleged negligence in drafting the
+tender documents.  Counsel for Martel focussed on this issue and argued that
+the requirement for contiguous space had been carelessly inserted into the
+tender specifications.  Martel submitted that without this carelessly added
+term,  no further fit-up assessment would have been necessary.  110                          
+In the Court of Appeal, Desjardins J.A. found that the Department had
+been negligent in failing to exercise due care in preparing the tender
+documents.  She stated, at para. 37, that:  [The trial judge] also found that some of the costs arbitrarily
+assessed to the [respondent]’s bid were attributable to the tender’s contiguous
+space requirements, which had not been required initially by AECB and which,
+obviously, had been negligently added to the tender specifications by Mr.
+Mahar, resulting in a higher bid for the [respondent]. [Emphasis added.] In Desjardins
+J.A.’s view, this further supported the conclusion that the Department had
+breached its duty to act fairly towards Martel.  Our response is two-fold.  111                          
+First, while Desjardins J.A.’s foregoing passage appears to suggest
+otherwise, the trial judge did not find that the contiguous space requirements
+had been negligently added to the tender specifications.  This conclusion was
+reached only in the Federal Court of Appeal.  That is not to say that the trial
+judge did not comment on the preparation of the tender documents.  On the
+contrary, she noted that in the past, Mr. Mahar had only prepared one or two other
+expression of interest advertisements and that he had been working from a
+precedent which called for tenders on contiguous space.   Reed J. added at
+para. 36: “if one were seeking new space for the AECB, it would only
+make sense to require that the space be contiguous” (emphasis in original).  We
+question whether Martel’s submission that the contiguous space requirement had
+been mistakenly added to the specifications can be supported by the
+trial judge’s findings.  Martel conceded that contiguous space was a
+requirement with which all other bidders needed to comply.  Therefore, it would
+be difficult to accept (though we make no finding on this issue) that this
+requirement was carelessly added in the tender specifications.  112                          
+Second, contrary to Desjardins J.A.’s conclusion, the costs attributable
+to the contiguous space requirements did not “resul[t] in a higher bid for
+[Martel]” (para. 37).  On the contrary, as we noted above, the trial judge
+explicitly concluded that “it was fit-up costs over and above these
+[costs attributable to the tender’s contiguous space requirements] that made
+the plaintiff’s bid the second lowest rather than the lowest” (para. 57). 
+Thus, as the Department points out, the short answer to this debate is that the
+inclusion of the contiguous space requirements and the fit-up costs associated
+thereto did not, at the end of the day, make Martel’s bid more expensive than
+the Standard Life bid.  As mentioned above, in conducting its evaluation, the
+Department calculated fit-ups, both on the basis of contiguous space in the
+Martel Building, and on the basis of the AECB remaining in situ. 
+Scenario B illustrates that the Department concluded that fit-up costs would
+still have been required even if the tenant remained in situ in the
+Martel Building.  Absent the contiguous space requirement, Martel’s bid would
+still have been approximately $300,000 more expensive than the successful bid.  113                          
+In any event, we conclude that the Department did not owe Martel a duty
+of care in drafting the tender specifications.  Martel’s claim that the tender
+specifications were prepared negligently alleges a duty in an area not
+previously recognized.  To determine whether the sphere of recovery for pure
+economic loss should be extended to cover the circumstances surrounding the
+preparation of the tender specifications in this case, the Anns two-step
+analysis must be applied.  114                          
+Assuming without deciding that sufficient proximity existed between the
+parties, any prima facie duty of care would be negated by policy
+considerations.  Indeed, considerations unique to the tendering process nullify
+any duty of care sought by Martel.  First and foremost, we agree with the
+Department that it would call into question the integrity of the tender process
+if, by reason of a past relationship with, or special knowledge of, a potential
+bidder, there could be an enforceable obligation to take the interests of that
+particular bidder into account.  While Martel argues that a duty of care would not
+entail taking into account the interests of a particular bidder, we note that
+all of its arguments relate to factors that are specific to its previous
+relationship with the Department.  115                          
+In effect, all of Martel’s submissions on this point pertain to information
+it obtained during the course of its previous negotiations with the
+Department.  During the course of its negotiations with the Department, there
+was no suggestion that further fit-ups would be required in the Martel building
+or that the AECB, as tenant, desired contiguous space.  Therefore, Martel
+alleges that the tender specifications “did not reflect the reality of the
+situation”.  While Martel concedes that once the bids were opened the
+Department could not hold private conversations with any bidder, it
+nevertheless maintains that the Department should have advised it beforehand of
+the requirements that would be considered.  116                          
+With respect, we do not find this line of argument very persuasive. 
+Once the Department decided to proceed by way of tender, it was not required to
+take into account its past relationship with Martel.  To recognize that the
+Department owed a duty to Martel would be inconsistent with the basic rationale
+of tendering.  As explained in M.J.B. Enterprises, supra, this
+rationale seeks to replace negotiation with competition.  In this respect, it
+is imperative that all bidders be treated on an equal footing, and that no
+bidder be provided differential treatment on the basis of some previous
+relationship with the party making the call for tenders.  It would defeat the
+purpose of fair competition to allow one bidder to be given some advantage from
+its previous dealings. The submission of a tender bid requires a great deal of
+effort and expense.  Parties should at the very least be confident that their
+initial bids will not be skewed by some underlying advantage in the drafting of
+the call for tenders conferred upon only one potential bidder.  117                          
+A party calling for tenders has the discretion to set out its own
+specifications and requirements. This includes the discretion to change its
+mind with respect to the terms or preferences that were discussed in the course
+of non-committal negotiations.  Tender requirements are not negotiable.  To
+decide otherwise would in fact force the party making the call for tenders to
+continue in its negotiations with one potential bidder even after those
+negotiations have proven unfruitful.  118                          
+ The terms of the call may grant a great deal of discretion upon the
+tender calling authority in evaluating the bid, and tenderers must make various
+assumptions and estimations in submitting a tender.  As such, inherent risks
+are involved in submitting a tender bid, risks of which Martel was aware. 
+Martel cannot by reason of its previous relationship with the Department expect
+or require under general principles of negligence some special position when it
+comes to tendering.  Absent negligent misrepresentation upon which Martel would
+have relied to its detriment in entering into Contract A, we believe that it would
+be contrary to the underlying principles of the tender regime to accept that
+the Department owed it a duty of care in drafting the tender documents.  119                          
+Finally, recognizing a duty of care in such a context could have
+significant repercussions on the tendering process and create many
+uncertainties.  In this case, contiguous space was explicitly required in the
+tender specifications.  Martel is essentially asking this Court to import a
+common law duty of care in the drafting of the call for the express purpose of
+avoiding this contractual provision.  Accepting Martel’s argument would have
+the effect of providing an out for those people who do not submit compliant
+bids.  Indeed, other unsuccessful, non-compliant bidders could attempt to sue in
+negligence and argue that various terms of Contract A “did not reflect the
+reality of the situation”.  We believe that this further consideration clearly
+illustrates why a duty of care should not be imposed on the tender calling
+authority in drafting the tender documents.  V.  Disposition  120                          
+In our view, the Federal Court of Appeal erred in allowing the
+respondent’s claim.  Accordingly, the appeal is allowed, the judgment of the
+Court of Appeal is set aside with costs in this Court and the courts below, and
+the judgment of the Federal Court, Trial Division, is restored.   Appeal allowed with costs.  Solicitor for the appellant:  The Deputy Attorney General of Canada,
+Ottawa.  Solicitors for the respondent:  Osler, Hoskin & Harcourt,
+Ottawa.   

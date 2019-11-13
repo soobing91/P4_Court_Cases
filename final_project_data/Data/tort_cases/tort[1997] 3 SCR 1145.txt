@@ -1,0 +1,596 @@
+Lewis (Guardian ad litem of) v. British Columbia,
+[1997] 3 S.C.R. 1145  Paula Leeann Lewis and Shannon Lee Lewis, Infants by their Guardian ad litem, Diana Holt, and Shayne Calvert Holt, Infants by their Guardian ad litem, Gail Nachbar, and the said Diana Holt and Jeffrey David Holt                              Appellants  v.  Her Majesty The Queen in Right of the Province of British Columbia                                                            Respondent  Indexed as:  Lewis (Guardian ad litem of) v.
+British Columbia  File No.:  24999.  1997:  October 7; 1997:  December 11.  Present:  Sopinka,* Cory, McLachlin, Iacobucci
+and Major JJ.  on appeal from the court of appeal for british columbia  Rocks fell from the cliff face at the side of a
+highway in British Columbia, and one crashed through the windshield of a car,
+fatally injuring the driver.  The provincial Ministry of Transportation and
+Highways was aware that the cliff face required scaling to prevent rocks
+falling on the highway and engaged a contractor to perform the work.  The work
+was done negligently and rocks which should have been removed remained on the
+cliff face.  The trial judge found that the contractor was negligent in failing
+to remove the protruding rocks, and that its failure to maintain the highway
+pursuant to its contractual duties gave rise to liability on the part of the
+respondent provincial Crown for a corresponding breach of its own duty to
+maintain the highway reasonably.  He concluded as a result that the respondent
+was liable for the contractor’s negligence and rejected its submissions that
+either s. 3 of the Crown Proceeding Act or s. 8(2) of the Occupiers
+Liability Act limited the Crown’s liability.   The Court of Appeal reversed
+this decision and directed a new trial.  Held:  The appeal
+should be allowed and the trial judgment restored.  Per Cory, Iacobucci and
+Major JJ.:  The British Columbia Highway Act and Ministry of
+Transportation and Highways Act explicitly grant the Minister of
+Transportation and Highways a measure of discretion over the maintenance of the
+highways.  The private law duty of care established by the Anns test
+therefore stands alongside this statutory authority and is applicable once the
+Ministry makes a policy decision to undertake maintenance work on the highways,
+as it clearly did here.   Pursuant to the Anns test, the duty to use
+reasonable care was owed to the driver if there was a sufficient relationship
+of proximity between the Ministry and him “such that, in the reasonable
+contemplation of the former, carelessness on his part may be likely to cause damage
+to the latter”.  That was clearly the case here.  When the Ministry undertook
+these operations, it knew or ought to have known that failure to perform the
+stabilization work with due care would result in harm to the users of the
+highway.   There are further policy factors which support the
+finding that the Ministry should be responsible for the negligence of its
+independent contractor.  The particular vulnerability of the travelling public
+should be a significant factor in reaching that conclusion.  The vast majority
+of highway travellers are in no position to assess the extent or nature of the construction
+and maintenance work which should be done, the competence of those undertaking
+the work or the financial responsibility of any independent contractor
+performing the work.  They should be entitled to look to the respondent as the
+entity responsible for taking reasonable care in carrying out the repairs and
+maintenance of the roads.  Other practical considerations favour imposing
+liability on the respondent for the negligence of its independent contractors. 
+A person injured on the road as a result of the negligence of an independent
+contractor should not have to seek out the identity of the contractor
+responsible in order to bring an action and trust to luck that that contractor
+is financially responsible.  Moreover, the Crown can always stipulate whatever
+form of indemnification for negligently performed work that it requires from an
+independent contractor as a condition of entering into the contract for repair
+or maintenance.  As well, the pertinent statutes may always be amended so as to
+absolve the respondent from any liability in the performance of construction,
+repairs or maintenance of highways.  Sections 3(2)(b) and 3(2)(f) of the Crown
+Proceeding Act do not restrict the scope of the Crown’s liability in this
+case.  Nor does s. 8 of the Occupiers Liability Act reduce the
+Crown’s liability as an occupier of the highway.   Cases Cited  By Cory J.   By McLachlin J.  Applied:  Kondis v.
+State Transport Authority (1984), 154 C.L.R. 672; referred to:  Pickard
+v. Smith (1861), 10 C.B. (N.S.) 470, 142 E.R. 535; Dalton v. Angus
+(1881), 6 App. Cas. 740.  Statutes and Regulations Cited  Crown
+Proceeding Act, R.S.B.C. 1979, c. 86, ss. 2,
+3.  Highway Act, R.S.B.C. 1979, c. 167, ss. 8(1) [am. 1990, c. 58, s.
+10], 28(1) “maintenance”, 33(1).  Ministry of Transportation and
+Highways Act, R.S.B.C. 1979, c. 280,
+ss. 14, 48.  Occupiers Liability Act, R.S.B.C. 1979, c. 303, s. 8.  Authors Cited  Atiyah, P. S.  Vicarious
+Liability in the Law of Torts.  London:  Butterworths, 1967.  Restatement (Second) of Torts § 418 (1965).   Williams, Glanville.  “Liability
+for Independent Contractors”, [1956] Cambridge L.J. 180.  APPEAL from a judgment of the British Columbia Court
+of Appeal (1995), 12 B.C.L.R. (3d) 1, [1996] 1 W.W.R. 489, 63 B.C.A.C. 241, 104
+W.A.C. 241, 16 M.V.R. (3d) 161, [1995] B.C.J. No. 1962 (QL), reversing a
+decision of the British Columbia Supreme Court (1994), 91 B.C.L.R. (2d) 365,
+[1994] 6 W.W.R. 737, [1994] B.C.J. No. 274 (QL), allowing the plaintiffs’
+action against the provincial Crown.  Appeal allowed. John N. Laxton, Q.C.,
+and Robert D. Gibbens, for the appellants.  Willliam A. Pearce, Q.C.,
+and J. Douglas Eastwood, for the respondent.  The judgment of Cory, Iacobucci and Major JJ. was
+delivered by  1                                  
+Cory J. -- The respondent
+was aware that the rock face bordering Highway 99 in the Province of British
+Columbia required scaling to prevent rocks falling on the highway.  The
+Ministry of Transportation and Highways engaged a contractor (Cerka Contract
+Management Ltd. (“Cerka”)) to perform the work.  The work was done negligently
+and rocks which should have been scaled or removed remained on the cliff face. 
+Unfortunately one of those rocks fell and killed Robert Holt as he was driving
+north on the highway.  If the work had been done by employees of the respondent
+there is no doubt that it would be liable for the damages resulting from the
+demise of Mr. Holt.  The sole issue to be resolved is whether by engaging an
+independent contractor to do the work, the respondent is absolved from
+liability.  Factual Background  2                                  
+This is one of those rare tort cases where little needs to be said about
+the facts.  Rocks fell from the cliff face at the side of the highway, and one
+crashed through the windshield of the car driven by Mr. Holt and fatally
+injured him.  The respondent was aware of the potential dangers presented by
+the condition of the rock face.  It contracted with Cerka to scale, that is to
+say, to remove dangerous rocks from that rock face.  When Cerka completed its
+work in 1988, two rocks protruded dangerously from the cliff face.  In the
+words of a former employee of Cerka, they “stuck out like a sore thumb”.  It
+was apparent from photographs of the rock face taken before and after Mr.
+Holt’s injury that one of those rocks fell and struck Mr. Holt.  3                                  
+The trial judge found Cerka was negligent in failing to remove the
+protruding rocks.  There is ample evidence to support that finding and indeed
+it is not contested.  This action was brought against the respondent, who
+contends that it was absolved from liability as a result of retaining the
+independent contractor Cerka to do the work.  Although there might be some
+doubt as to whether or not the respondent adequately supervised the work of
+Cerka, issue was joined only on the question as to whether the Crown was exempt
+from liability as a result of engaging the independent contractor.  Decisions Below  The Supreme Court of British Columbia (1994), 91 B.C.L.R. (2d)
+365  4                                  
+The trial judge relied upon the principle put forward in Tucker
+(Public Trustee of) v. Asleson (1993), 78 B.C.L.R. (2d) 173 (C.A.), that “a
+failure by an independent contractor to maintain the highway reasonably may
+give rise to an original liability on the part of the Crown if it amounts to a
+breach of the Crown’s duty” (p. 378).  Accordingly, the trial judge
+determined that Cerka’s failure to maintain the highway pursuant to its
+contractual duties gave rise to liability on the part of the respondent for a
+corresponding breach of its own duty to maintain the highway reasonably.  He
+concluded as a result that the respondent was liable for Cerka’s negligence and
+rejected its submissions that either s. 3 of the Crown Proceeding Act,
+R.S.B.C. 1979, c. 86, or s. 8(2) of the Occupiers Liability Act,
+R.S.B.C. 1979, c. 303, limited the Crown’s liability.  The Court
+of Appeal of British Columbia (1995), 12 B.C.L.R. (3d) 1   6                                  
+The majority went further and found that even though the Crown could not
+delegate its duty to reasonably maintain its highways, it should not be held
+automatically liable for every failure of maintenance causing injury on the
+highway since “[s]uch a conclusion would constitute the Province an insurer”
+(p. 16).  The view was expressed that “notwithstanding the failure to
+scale the rock, the evidence must be examined ‘in its entirety’ to determine
+whether the Province discharged its duty to reasonably maintain the highway”
+(p. 15).  7                                  
+In separate concurring reasons, the minority of the court held that the
+Crown had a duty to take reasonable care to maintain and repair its highways. 
+It was held that in order to decide whether the Crown had fulfilled its duties,
+it was necessary to determine whether the Crown took reasonable care when it
+selected Cerka as its independent contractor and whether it appropriately
+supervised Cerka’s work.  Like the majority, the minority concluded that a new
+trial must be directed in order to determine whether the Crown had fulfilled
+its obligations of selection and supervision.  Statutory Provisions  8                                  
+The following is the legislation which must be considered in this case. 
+The Highway Act, R.S.B.C. 1979, c. 167, s. 8 provides for the
+construction and maintenance of highways in these words:  8. (1)  The minister may construct, keep
+open and maintain a highway across any land taken under the powers conferred by
+this Act and no person shall, on any pretext or claim, hinder, delay or
+obstruct the construction, keeping open and maintenance of a highway.  Section 33(1)
+of the same Act reads:  33. (1)  The control of the construction and
+maintenance of every arterial highway is vested in the ministry.  Section 28(1)
+of the Highway Act defines maintenance to mean “the work, subsequent to
+the construction of a highway, of preserving and keeping it in repair,
+including . . . other works necessary to keep open and maintain the
+highway for the use by the traffic for which it is required”.  9                                  
+The Ministry of Transportation and Highways Act, R.S.B.C. 1979,
+c. 280, s. 14 provides:  14.  The minister has the management, charge
+and direction of all matters relating to the acquisition, construction, repair,
+maintenance, alteration, improvement and operation of government buildings,
+highways and public works, except as provided by law or by order of the
+Lieutenant Governor in Council.  Section 48
+of that same Act provides  48.  The minister shall direct the
+construction, maintenance and repair of all . . . highways . . . .  10                              
+The liability of the Crown in relation to the exercise of these powers
+is qualified by ss. 2 and 3 of the Crown Proceeding Act in this
+manner:  2.  Subject to this Act,                                                                     . . .  (c)   the Crown is subject to all those
+liabilities to which it would be liable if it were a person; . . .  3.  . . .  (2)  Nothing in section 2                                                                     . . .  (f)    subjects the Crown, in its capacity as a
+highway authority, to any greater liability than that to which a municipal
+corporation is subject in that capacity.  The Occupiers
+Liability Act, s. 8 provides:  8. (1) Except as otherwise provided in
+subsection (2), the Crown and its agencies are bound by this Act.  (2)  Notwithstanding subsection (1), this
+Act does not apply to the Crown in right of the Province or in right of Canada
+or to a municipality where the Crown or the municipality is the occupier of a
+public highway or public road or a road under the Forest Act or the Private
+Roads Act, 1963, or to an industrial road as defined in the Highway
+(Industrial) Act.  Analysis  Duty of Care  11                              
+The question of the Crown’s duty to users of its highways has been
+considered in three recent cases.  See Just v. British Columbia, [1989]
+2 S.C.R. 1228, Brown v. British Columbia (Minister of Transportation and
+Highways), [1994] 1 S.C.R. 420, and Swinamer v. Nova Scotia (Attorney
+General), [1994] 1 S.C.R. 445.  12                              
+In Just, the applicable principles and the manner in which they
+should be applied were set out in this way (at pp. 1244-45):  It may be convenient at this stage to summarize
+what I consider to be the principles applicable and the manner of proceeding in
+cases of this kind.  As a general rule, the traditional tort law duty of care
+will apply to a government agency in the same way that it will apply to an
+individual.  In determining whether a duty of care exists the first question to
+be resolved is whether the parties are in a relationship of sufficient
+proximity to warrant the imposition of such a duty.  In the case of a
+government agency, exemption from this imposition of duty may occur as a result
+of an explicit statutory exemption.  Alternatively, the exemption may arise as
+a result of the nature of the decision made by the government agency.  That is,
+a government agency will be exempt from the imposition of a duty of care in
+situations which arise from its pure policy decisions.   13                              
+In each of these appeals, the test set out by Lord Wilberforce in Anns
+v. Merton London Borough Council, [1978] A.C. 728 (H.L.), at pp. 751-52,
+was utilized to determine whether the Crown owed a duty to users of the highway
+in the particular circumstances of each appeal.  It is described in this way:    (1)   statutes conferring powers to interfere with
+the rights of individuals in which case an action in respect of damage caused
+by the exercise of such powers will generally not lie except in the case where
+the local authority has done what the legislature authorized but has done it
+negligently;  (2)   statutes conferring powers but leaving the
+scale on which they are to be exercised to the discretion of the local
+authority.  Here there will be an option to the local authority whether or not
+to do the thing authorized but, if it elects to do it and does it negligently,
+then the policy decision having been made, there is a duty at the operational
+level to use due care in giving effect to it.  15                              
+This case falls within the second category.  The enabling statutes
+explicitly grant the Minister of Transportation and Highways a measure of
+discretion over the maintenance of the highways.  The Highway Act states
+that:  8. (1)  The minister may construct,
+keep open and maintain a highway across any land taken under the powers
+conferred by this Act and no person shall, on any pretext or claim, hinder,
+delay or obstruct the construction, keeping open and maintenance of a highway.  33. (1) The control of the construction and
+maintenance of every arterial highway is vested in the ministry.  The Ministry
+of Transportation and Highways Act also provides that:  14. The minister has the management, charge
+and direction of all matters relating to the acquisition, construction, repair,
+maintenance, alteration, improvement and operation of government buildings,
+highways and public works, except as provided by law or by order of the
+Lieutenant Governor in Council.  The private
+law duty established by the Anns test therefore “stands alongside” this
+statutory authority and is applicable once the Ministry makes a policy decision
+to undertake maintenance work on the highways.  The Ministry clearly made the
+requisite policy decision when it decided to stabilize the rock slope adjacent
+to the highway.  The Crown conceded at trial that the maintenance work undertaken
+by Cerka involved only operational activities capable of attracting liability
+in negligence.  This exercise of statutory discretion thus gave rise to a duty
+on the Ministry to use due care at the “operational level” in performing this
+stabilization work.  16                              
+Pursuant to the Anns test, the duty to use reasonable care was
+owed to the appellant if there was a sufficient relationship of proximity
+between the Ministry and Mr. Holt “such that, in the reasonable contemplation
+of the former, carelessness on his part may be likely to cause damage to the
+latter”.  There could not be a clearer case of proximity.  When the Ministry
+undertook these operations, it knew or ought to have known that failure to
+perform the stabilization work with due care would result in harm to the users
+of the highway.  In fact, the very basis of the Ministry’s duty to use due care
+at the operational level is to ensure the safety of users of the highway.  The
+trial judge found that the Ministry’s duty to the users of the highway was
+breached when Cerka, the Ministry’s independent contractor, negligently failed
+to scale the rock that struck Mr. Holt.  The question that remains to be
+resolved is whether the Ministry is liable for Cerka’s negligence.  In my
+opinion, it is.  Delegation of Duties  17                              
+Whether the duty of care owed by a defendant may be discharged by
+exercising reasonable care in the selection of an independent contractor will
+depend upon the nature and the extent of the duty owed by the defendant to the
+plaintiff.  Therefore, the extent and nature of the duty owed by the respondent
+Ministry of Transportation and Highways to members of the travelling public
+must be considered.  It is clear that a party upon whom the law has imposed a
+strict statutory duty to do a positive act cannot escape liability simply by
+delegating the work to an independent contractor.  Rather a defendant subject
+to such a duty will always remain personally liable for the acts or omissions
+of the contractor to whom it assigned the work.  See for example Hole v.
+Sittingbourne and Sheerness Railway Co. (1861), 6 H. & N. 488, 158 E.R.
+201.  See also Kitchener (City of) v. Robe and Clothing Co., [1925]
+S.C.R. 106.  This must follow because an absolute statutory duty requires the
+performance of a positive obligation that is imposed on a particular entity
+which will always remain responsible for the performance of that duty.    20                              
+The strict duty to perform a particular act imposed by statute and the
+common law duty to take reasonable care if an act is undertaken reflect two
+divergent positions on a spectrum of liability.  Within that spectrum there are
+a variety of legal obligations which may, depending on the circumstances, lead
+to a principal’s liability for the negligence of an independent contractor. 
+Whether or not there will be liability for the negligence of the acts of the
+independent contractor will depend to a large extent upon the statutory
+provisions involved and the circumstances presented by each case.  Where then
+does the duty of the respondent to users of the provincial highways fall within
+this spectrum?  Respondent’s Liability for the Negligence of its Contractor   (i)  Statutory Provisions  22                              
+It will be recalled that pursuant to s. 33(1) of the Highway Act,
+the Ministry is vested with the “control of the construction and maintenance of
+every arterial highway”.  Section 48 of the Ministry of Transportation
+and Highways Act provides that the Minister “shall direct the
+construction, maintenance and repair” of all highways (emphasis added).  Section
+14 of the same Act provides that the Minister has the “management, charge and
+direction of all matters relating to the acquisition, construction, repair,
+maintenance, alteration, improvement and operation” of highways.  These
+sections clearly indicate that the Ministry has the management and direction of
+all matters relating to construction, repair and maintenance of the highways
+and must direct those operations.  23                              
+The paramount authority and direction for repairs and maintenance thus
+lies with the Ministry.  That statutory authority, when exercised, gives rise
+to a duty to perform that work with reasonable care.  In the absence of a
+specific statutory exclusion from that duty, it must arise from, and proceed in
+tandem with, the authority to manage, control and direct the repair and
+maintenance of the highways.  That duty to reasonably perform the maintenance
+work would of course require the employees of the Ministry who undertook the
+work to perform it with reasonable care.  The same responsibility to exercise
+reasonable care in performing the authorized work that is applicable to the
+Ministry extends to independent contractors engaged by the Ministry to perform
+the work.  This is the appropriate interpretation and application of the authorizing
+statutory provisions.  24                              
+It is but fair that when a public authority exercises the statutory
+authority and power granted to it in circumstances which may have serious
+consequences for the public interest that it be held liable for a breach of
+duty occasioned by the negligent acts of its contractor.  In those
+circumstances, it is both appropriate and just to hold a public body ultimately
+responsible for ensuring that reasonable care is taken in the work necessary to
+carry out its authority.  This was the view expressed by Finch J., as he then
+was, in Tucker v. Asleson, B.C.S.C., Vancouver Reg. No. B871616,
+April 25, 1991, [1991] B.C.J. No. 954 (QL), Crown appeal dismissed,
+(1993), 78 B.C.L.R. (2d) 173 (C.A.).  This too was a case involving the
+Ministry of Transportation and Highways.  Finch J. set out the applicable
+principle in this way:  In cases where the legislature has entrusted a
+certain body with the power to do something, and that body delegates
+performance of the work to a third party, the law requires the body entrusted
+by the legislature with the power to discharge the duty of seeing that the work
+is performed with reasonable care. The arm of government owes the duty of care
+in exercising its powers, whether it does so by means of servants or contractors.  On that view of the law, it is clear that in this
+case the Crown cannot escape liability for the negligence of its contractor’s
+employee. It is the Minister who is authorized and empowered by statute to
+maintain highways. The Minister may delegate the work involved in doing so, but
+he may not delegate the duty. That duty accompanies the power, and not the
+doing of the work.  That I think
+is the appropriate approach to statutes which authorize governmental
+authorities to perform certain work.  25                              
+The validity of this approach is confirmed by the provisions of the
+applicable legislation.  Here the legislature, in conferring control over the
+highways on the Minister, imposed certain express obligations on the Ministry. 
+Significantly, it was careful to ensure that the Ministry should remain very
+closely involved in all aspects of highway maintenance.  Section 48 of the
+Ministry of Transportation and Highways Act provides that:  48.  The minister shall direct the
+construction, maintenance and repair of all government buildings, highways and
+public works in progress, or constructed or maintained at the expense of the
+Province, and which are under his control.  [Emphasis added.]   26                              
+Nevertheless, s. 48 of the Ministry of Transportation and
+Highways Act clearly demonstrates that the legislature intended to
+foreclose any possibility of the Ministry delegating work to a contractor and
+thereafter abandoning any responsibility for the execution of the work.  The
+imposition of personal liability on the Ministry for its contractor’s failure
+to discharge the duty to take due care ancillary to the Ministry’s statutory
+power flows from this section and the overall general scheme of the applicable
+statutes, particularly the Highway Act and the Ministry of Transportation
+and Highways Act.   28                              
+In Vancouver Power, the entity exercising the statutory authority
+did so for its own benefit.  As a result, it was found that it should accept
+and be personally responsible for the burdens associated with the statutory
+authority granted to it.  It is true that in the case at bar, the Ministry has
+no personal stake and can achieve no personal benefit from its statutory
+authority to perform work on the highways.  Nevertheless, the powers conferred
+on the Ministry are correlative to the duty resting on the Ministry to take
+reasonable care in the exercise of those powers.  The sole beneficiary of the
+Ministry’s statutory power to construct and maintain the roads are those
+members of the public who travel upon them.  The basic reason for the Ministry
+exercising its statutory authority over highway maintenance must be to provide
+the travelling public with increased highway safety.  If a private entity is
+found to be liable for its contractor’s negligence as a result of the benefit
+derived from the statutory authority, then in the situation presented in this
+case where the public entity’s statutory authority and its ancillary duty to
+take reasonable care in carrying out maintenance and repairs are specifically
+designed to benefit the safety of the public, the basis for the imposition of
+liability for an independent contractor’s negligence is even stronger.  It
+follows that Duff J.’s reasoning should be, and I believe must be, applicable
+to this case.    If . . . the legislature authorises the construction and
+maintenance of a work which will be safe or dangerous to the public according
+as reasonable care is or is not taken in its construction or maintenance, as
+the case may be, the fact that no duty to take such care is expressly imposed
+by the statute cannot be relied on as showing that no such duty exists.  It is
+not to be expected that the legislature will go out of its way to impose
+express obligations or restrictions in respect of matters which every
+reasonably minded citizen would take for granted.  31                              
+Thus the applicable statutes and authorities indicate that the
+respondent’s duty to take reasonable care cannot be satisfied by delegating the
+work to an independent contractor.  This conclusion would be sufficient to
+resolve the appeal.  Yet there are further policy factors which support the
+finding that the Ministry should be responsible for the negligence of its
+independent contractor.  (ii)  The Policy Aspect  (a)  Reasonable Expectations of
+Users of the Highway  32                              
+To begin with, it seems both logical and reasonable to assume that
+members of the travelling public would look to the respondent to take
+reasonable care in the construction and maintenance of the provincial highways. 
+It can be reasonably assumed that those who travel provincial highways have a
+reasonable expectation that the province will be responsible for the negligent
+acts of its employees or independent contractors which occur in the course of
+repairing and maintaining those highways.  This, in my view, is a further
+factor which indicates that liability for the negligence of its independent
+contractors should rest with the respondent.  This approach has been considered
+with approval in two decisions of the Australian High Court.  In Kondis v.
+State Transport Authority (1984), 154 C.L.R. 672, Mason J. stated (at p.
+687):  [I]t appears that there is some element in the relationship between the
+parties that makes it appropriate to impose on the defendant a duty to ensure
+that reasonable care and skill is taken for the safety of the persons to whom
+the duty is owed. . . .  In these situations the special duty arises because the person on whom
+it is imposed has undertaken the care, supervision or control of the person
+or property of another or is so placed in relation to that person or his
+property as to assume a particular responsibility for his or its safety, in
+circumstances where the person affected might reasonably expect that due
+care will be exercised.  [Emphasis added.]    If a statute confers a power on a government department, or a local
+authority, e.g., to enter private land or premises, for their own
+purposes, and the authority chooses to exercise that power by delegating the
+work to a contractor, it is not unreasonable that the landowner should be
+entitled to look to the person authorised by statute to do the work, rather
+than to the contractor who does it, in the case of negligence or the like.  The
+statute is unlikely to confer such powers on bodies which are financially
+incapable of meeting any liability for negligence, but a local authority or a
+government department may well employ a small contractor who is incapable of
+doing so.  (b)  General Policy Considerations  35                              
+There are other practical policy reasons that favour imposing liability
+on the respondent for the negligence of its independent contractors.  On
+occasion, a number of contractors may be employed to work on different sections
+of a road or highway.  Why should a person, injured on the road as a result of
+the negligence of an independent contractor, have to seek out the identity of
+the contractor responsible in order to bring an action and trust to luck that
+that contractor is financially responsible?  The matter could be complicated
+still further if an accident occurred right at the border of the area to be
+worked upon by two different contractors.  36                              
+Further, it cannot be forgotten that the Ministry is in complete control
+of this work.  It is the Ministry that lets contracts for the work to be
+performed.  For those in the business of road construction and maintenance, the
+Ministry is the only customer.  It would be easy for the respondent to require
+as a term of the contract the provision of adequate insurance to provide
+compensation for injuries occasioned to the travelling public as a result of
+negligently performed work by an independent contractor.  37                              
+The majority of the Court of Appeal expressed the concern that if the
+Crown is found liable in this case, the result will be to constitute the Crown
+as an insurer for every failure of maintenance on the highways.  This concern
+cannot be sustained.  It cannot be forgotten that before the Crown can be found
+liable for the actions either of its own employees or of an independent
+contractor, a court must determine that there has been negligence.  In those
+circumstances, the Crown is certainly not an insurer.  Nor is it unreasonable
+to expect that the Crown will take appropriate care in the performance of its
+work and will be responsible for the damages flowing from negligently performed
+work, whether undertaken by its employees or its contractor.  The Crown can
+always stipulate whatever form of indemnification for negligently performed
+work that it requires from an independent contractor as a condition of entering
+into the contract for repair or maintenance.  Indeed, the pertinent statutes
+may always be amended so as to absolve the respondent from any liability in the
+performance of construction, repairs or maintenance of highways.  For all these
+policy reasons, the Crown should be responsible for the negligent acts of its
+independent contractors.  38                              
+In summary, in light of the statutory provisions applicable in this
+case, for the policy reasons set out, and because of the reasonable
+expectations of those using the highways, the respondent cannot escape
+liability for negligence in maintaining and repairing roads by delegating that
+work to independent contractors.  Are There Any Statutory Limitations on the Crown’s Liability?  39                              
+Finally, in accordance with the second part of the Anns test, it
+is necessary to consider whether any limits have been placed on the liability
+of the Ministry.  The respondent has argued that there are statutory provisions
+which restrict its liability.  40                              
+First, the respondent relies upon ss. 2 and 3 of the Crown
+Proceeding Act, which provide as follows:  2.  Subject to this Act,                                                                     . . .  (c)   the Crown is subject to all those
+liabilities to which it would be liable if it were a person; . . .  3. . . .  (2)  Nothing in section 2                                                                     . . .  (b)   subjects the Crown to greater liability for
+the acts or omissions of an independent contractor employed by the Crown than
+that to which the Crown would be subject for those acts or omissions if it were
+a person;                                                                     . . . (f)    subjects the Crown, in its capacity as a
+highway authority, to any greater liability than that to which a municipal
+corporation is subject in that capacity.  41                              
+Section 3(2)(b) of the Crown Proceeding Act is of no avail to the
+respondent.  This Court’s decision in Vancouver Power, supra,
+determined that even a private entity exercising a statutory authority may be
+held liable for the negligence of independent contractors hired to perform the
+authorized work.  It follows that the Crown’s liability for Cerka’s negligence
+in this case should be no different than would be the liability of any other
+person exercising a similar statutory power.  42                              
+The applicability of s. 3(2)(f) of the Crown Proceeding Act
+was considered in Just, supra.  There it was held that this section
+and s. 2, when read in conjunction with s. 8 of the Highway Act
+and s. 14 of the Ministry of Transportation and Highways Act, “do
+not appear to absolve the respondent from its duty of care to maintain the
+highways reasonably.  Rather, by inference they appear to place an obligation
+on the province to maintain its highways at least to the same extent that a
+municipality is obligated to repair its roads” (p. 1237).  In my view,
+these provisions do not restrict the scope of the Crown’s liability in this case.  43                              
+Finally, the respondent submits that s. 8 of the Occupiers
+Liability Act may limit the scope of its liability in this case. 
+Section 8 provides:  8. (1)  Except as otherwise
+provided in subsection (2), the Crown and its agencies are bound by this Act.  (2)  Notwithstanding subsection (1), this Act
+does not apply to the Crown in right of the Province or in right of Canada or
+to a municipality where the Crown or the municipality is the occupier of a
+public highway or public road or a road under the Forest Act or the Private
+Roads Act, 1963, or to an industrial road as defined in the Highway
+(Industrial) Act. 44                              
+There is no basis for invoking the provisions of the Occupiers
+Liability Act to exempt the Crown from liability.  In Brown, supra,
+at p. 440, this argument was rejected.  There this Court did not accept
+that the Occupiers Liability Act “was passed with a view to exempting
+the Department of Highways from liability for its negligent acts. . .
+.  To achieve that result a clear exemption would have to be found in the Highway
+Act.  There is no such exemption here.”  It was found that “the Occupiers
+Liability Act simply has no place in a consideration of the obligations of
+the Department of Highways for the repair and maintenance of its highways”.   46                              
+I cannot accept that s. 8 of the British Columbia Occupiers
+Liability Act somehow reduces the Crown’s liability as an occupier of the
+highway.  To do so would be to give it an interpretation or meaning that goes
+far beyond the plain meaning of the words of the section.  In the absence of a
+clear provision the Occupiers Liability Act should not and cannot be
+reasonably expected to determine the extent of the liability of the Ministry of
+Transportation and Highways in repairing and maintaining highways.  Disposition  47                              
+In the result, the appeal is allowed, the order of the Court of Appeal
+is set aside, the judgment at trial is restored and the appellants will have
+their costs throughout.  The following are the reasons delivered by  48                              
+McLachlin J. -- I have
+read the reasons of my colleague Justice Cory.  I agree with his conclusion and
+substantially with his reasons.  I wish only to add the following comments.  49                              
+The issue is whether the Crown’s duty to users of its highways is
+non-delegable.  The phrase “non-delegable” refers to the inability of the
+employer of an independent contractor to escape liability for the negligence of
+the contractor.  The general rule at common law is that a person who employs an
+independent contractor will not be liable for loss flowing from the
+contractor’s negligence.  This rule for a long time admitted only three
+exceptions:  (1) where the employer was negligent in hiring the contractor; (2)
+where the employer was negligent in supervising the contractor; and (3) where the
+employer hired the independent contractor to do something unlawful.  A fourth
+exception crystallized in Pickard v. Smith (1861), 10 C.B. (N.S.) 470,
+142 E.R. 535.  Lord Blackburn stated the rule as: “a person causing something
+to be done, the doing of which casts on him a duty, cannot escape from the
+responsibility attaching on him of seeing that duty performed by delegating it
+to a contractor” (Dalton v. Angus (1881), 6 App. Cas. 740 (H.L.), at p.
+829).  This exception is referred to as the “non-delegable duty” rule.  50                              
+In essence, a non-delegable duty is a duty not only to take care, but to
+ensure that care is taken.  It is not strict liability, since it requires
+someone (the independent contractor) to have been negligent.  But if it
+applies, it is no answer for the employer to say, “I was not negligent in
+hiring or supervising the independent contractor.”  The employer is liable for
+the contractor’s negligence.  The employer already has a personal duty at
+common law or by statute to take reasonable care.  The non-delegable duty
+doctrine adds another obligation -- the duty to ensure that the independent
+contractor also takes reasonable care.  51                              
+While the nature of the exception is clear, when it applies is not. 
+Some courts have held that it applies only in certain categories of cases, such
+as harm done by inherently dangerous objects or activities, harm done in the
+course of the exercise of statutory powers and duties, or in the United States,
+harm caused by failure to maintain highways and other public places in a
+reasonably safe condition:  see the Restatement (Second) of Torts § 418
+(1965).  The problem with the category approach is that the existing categories
+have evolved for reasons that may not be acceptable under modern theories of
+tort liability:  J. P. Swanton, “Non-delegable Duties:  Liability for the
+Negligence of Independent Contractors (Part I)” (1991), 4 J. Contract L.
+183, at pp. 192 and 201-2.  Thus Glanville Williams writes that “the courts
+have extended, seemingly without any reference to considerations of policy, the
+liability for independent contractors” (“Liability for Independent
+Contractors”, [1956] Cambridge L.J. 180, at p. 180).  52                              
+       Rather than confirm or add to a hodgepodge of categories, we
+should seek the underlying principles that justify the imposition of a
+non-delegable duty on a person who hires an independent contractor to have work
+done.  This is the approach that Cory J. takes.  Whether a non-delegable duty
+arises “will depend upon the nature and the extent of the duty owed by the
+defendant to the plaintiff” (para. 17).  “In some circumstances, the duty to
+take reasonable care may well be discharged by hiring and, if required,
+supervising a competent contractor to perform the particular work” (para. 19).  There
+is no categorical rule that common law duties arising from the exercise of a
+statutory power are never non-delegable.  Rather, “[w]hether or not there will
+be liability for the negligence of the acts of the independent contractor will
+depend to a large extent upon the statutory provisions involved and the
+circumstances presented by each case” (para. 20).  Cory J. goes on to conclude
+that in this particular case, the wording of the statute, combined with policy
+considerations, imposes on the Crown, not only a duty to be careful in hiring
+or supervising independent contractors, but an additional non-delegable duty to
+ensure that the work of its contractors is done without negligence.  53                              
+I agree with this analysis.  I am not so sure as my colleague that s. 48
+of the Ministry of Transportation and Highways Act, R.S.B.C. 1979, c.
+280, which provides that the Ministry “shall direct the construction,
+maintenance and repair” of all highways, demonstrates clearly that the Ministry
+must “personally direct” and supervise these works in all their aspects (para.
+26).  It seems to me that those words are also consistent with a basic
+direction that works be undertaken.  Yet I am satisfied in this case that the
+circumstances, taken together with the statutory provisions, suffice to
+establish a non-delegable duty of care on the Ministry with respect to highway
+maintenance.  To determine whether a non-delegable duty should be imposed, the
+Court should examine the relationship between the parties and ask whether that
+relationship possesses elements that make it appropriate to hold the defendant
+liable for the negligence of its independent contractor.  In the case at bar,
+the fact that road maintenance is entirely within the power of the Ministry is
+an important element to consider.  So is the correlative fact that this renders
+the public, who often have no choice but to use the highway, totally vulnerable
+as to how, and by whom, road maintenance is performed.  Finally, the fact that
+safety and lives are at issue is of critical importance.  Cory J. correctly
+stresses these factors in concluding that the Ministry cannot discharge its
+duty in this case merely by proving that it exercised reasonable care in hiring
+and supervising the contractor.  The Ministry must go further and ensure that
+the contractor’s work was carried out without negligence.  54                              
+The facts of this case, in my respectful view, fall within the test set
+out by Mason J. (as he then was) in Kondis v. State Transport Authority
+(1984), 154 C.L.R. 672 (Aust. H.C.).  Like the Court in this case, in Kondis,
+Mason J. (for the majority) adopted a principled approach dependent on the
+circumstances of the case at hand, to determine when a non-delegable duty should
+be imposed.  After surveying the range of cases and categories in which such a
+duty had been found, Mason J. summed up the underlying principles in the
+following passage, with which I agree (at p. 687):  ... when we look to the classes of case in which the existence of a
+non-delegable duty has been recognized, it appears that there is some element
+in the relationship between the parties that makes it appropriate to impose on
+the defendant a duty to ensure that reasonable care and skill is taken for the
+safety of the persons to whom the duty is owed.  As I said in Introvigne
+“the law has, for various reasons imposed a special duty on persons in certain
+situations to take particular precautions for the safety of others”.  That
+statement should be expanded by adding a reference to safeguarding or
+protecting the property of other persons, a matter which did not present itself
+for consideration in Introvigne.  The element in the relationship between the parties
+which generates a special responsibility or duty to see that care is taken may
+be found in one or more of several circumstances.  The hospital undertakes the
+care, supervision and control of patients who are in special need of care.  The
+school authority undertakes like special responsibilities in relation to the
+children whom it accepts into its care.  If the invitor be subject to a special
+duty, it is because he assumes a particular responsibility in relation to the
+safety of his premises and the safety of his invitee by inviting him to enter
+them.  And in Meyers v. Easton the undertaking of the landlord to renew
+the roof of the house was seen as impliedly carrying with it an undertaking to
+exercise reasonable care to prevent damage to the tenant’s property.  In
+these situations the special duty arises because the person on whom it is
+imposed has undertaken the care, supervision or control of the person or
+property of another or is so placed in relation to that person or his property
+as to assume a particular responsibility for his or its safety, in
+circumstances where the person affected might reasonably expect that due care
+will be exercised.  [Emphasis added.]   55                              
+I would dispose of the appeal as proposed by Cory J.  Appeal allowed with costs.  Solicitors for the appellants:  Laxton & Company,
+Vancouver.  Solicitor for the respondent:  The Ministry of the
+Attorney General, Victoria.   * Sopinka J. took no part in the judgment.  

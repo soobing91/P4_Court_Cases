@@ -1,0 +1,224 @@
+Edwards v. Law Society of Upper Canada, [2001] 3 S.C.R. 562,
+2001 SCC 80  John Edwards and Nancy Edwards on behalf of themselves and with leave of the court on behalf of the Class herein described                                                                         Appellants  v.  The Law Society of Upper Canada                                                               Respondent  and  The Attorney General for Ontario and the Ontario Securities Commission                                                              Interveners  and  Palmer Mills, Beverly Hoover and James Thomas Leslie Mills, Executors of the Estate of John T. Murray Mills, Deceased, Sisto Consultants Inc., Maurice Carr, Jasper Naude, John Davison, Marilyn Davison, Arlene Woolcox, Jasbir Gill, Sisto Finance Inc., Camm-Tex International Inc. and Sisto Finance N.V.                              (Defendants)  Indexed as:  Edwards v. Law Society of Upper Canada  Neutral citation:  2001 SCC 80.  File No.:  28108.  2001:  June 20; 2001:  November 16.  Present:  McLachlin C.J. and Gonthier, Major,
+Bastarache, Binnie, Arbour and LeBel JJ.  on appeal from the court of appeal for ontario  Torts -- Negligence -- Duty of care -- Statutory regulators
+-- Law Society -- Misuse of solicitor’s trust account -- Funds in gold delivery
+fraud being paid into law firm’s trust account -- Law Society starting
+investigation after being informed by solicitor that his trust account was used
+in unorthodox manner -- Whether Law Society owes duty of care to persons who
+deposit money into a solicitor’s trust account in respect of losses resulting
+from misuse of account.  The appellants represent a class of individuals who
+were allegedly victimized by a gold delivery fraud.  A selling agent encouraged
+the appellants to purchase gold and, pursuant to a “Gold Delivery Contract”, to
+pay the funds to a solicitor’s trust account.  The appellants later learned
+that although over US$9 million had been given in trust to the solicitor for
+the delivery of the gold, no mines existed and no gold was ever produced.  The
+respondent Law Society commenced an investigation after receiving a letter from
+the solicitor regarding the unorthodox use of his trust account.  The
+appellants claimed that once the respondent knew that the account was being
+used improperly, it had a duty to ensure that the solicitor operated his trust
+account according to the regulations or alternatively to warn them that it had
+chosen to abandon its supervisory jurisdiction.  The motions judge allowed the
+respondent’s motion to strike for failure to disclose a cause of action.  The
+Court of Appeal upheld that judgment.  Held:  The appeal
+should be dismissed.  The companion case of Cooper outlines the
+approach in assessing whether a duty of care will be recognized in a given
+case.  When this test is applied, no prima facie duty of care arose
+between the respondent and the appellants, who deposited money into a
+solicitor’s trust account as participants in a third-party business promotion. 
+This case does not fall within, nor is it analogous to, any category of cases
+in which a duty of care has previously been recognized.  Furthermore, this is
+not a case in which a new duty of care should be recognized.  The Law
+Society Act does not impose a private law duty of care on the respondent on
+the facts of this case.  While  the Act ensures the protection and compensation
+of clients as members of the public,  the appellants, or the members of the
+Class they represent, were not “clients” of the solicitor in the traditional
+sense.  Finally, the immunity given to benchers or officials by s. 9 of
+the Act precludes any inference of an intention to provide compensation in
+circumstances that fall outside the lawyers’ professional indemnity insurance
+and the lawyers’ fund for client compensation.  In any event, even if there
+were a prima facie duty of care on the part of the respondent to the
+appellants, that duty of care would have been negated by residual policy
+considerations outside the relationship of the parties.  Cases Cited  Followed:  Cooper v.
+Hobart, [2001] 3 S.C.R. 537, 2001 SCC 79; referred
+to:  Anns v. Merton London Borough Council, [1978] A.C. 728; Kamloops
+(City of) v. Nielsen, [1984] 2 S.C.R. 2; French v. Law Society of Upper
+Canada (1975), 61 D.L.R. (3d) 28; Voratovic v. Law Society of Upper
+Canada (1978), 20 O.R. (2d) 214; Calvert v. Law Society of Upper Canada
+(1981), 32 O.R. (2d) 176; Lee v. Law Society of Upper Canada, [1994]
+O.J. No. 1468 (QL); Carnegie v. Rasmussen Starr Ruddy (1994), 19 O.R.
+(3d) 272; R.D. Belanger & Associates Ltd. v. Stadium Corp. of Ontario
+Ltd. (1991), 5 O.R.  (3d) 778; Hunt v. Carey Canada Inc., [1990] 2
+S.C.R. 959; Hercules Managements Ltd. v. Ernst & Young, [1997] 2
+S.C.R. 165.  Statutes and Regulations Cited  Law Society Act, R.S.O. 1990, c. L.8, ss. 9, 27, 33, 51, 60, 61.  APPEAL from a judgment of the Court of Appeal for
+Ontario (2000), 48 O.R. (3d) 329, 188 D.L.R. (4th) 613, 133 O.A.C. 286, 1
+C.C.L.T. (3d) 193, 46 C.P.C. (4th) 30, [2000] O.J. No. 2085 (QL), dismissing
+the appellants’ appeal from a decision of the Ontario Court (General Division)
+(1998), 37 O.R. (3d) 279, 156 D.L.R. (4th) 348, 19 C.P.C. (4th) 43, 41 C.C.L.T.
+(2d) 241, [1998] O.J. No. 132 (QL).  Appeal dismissed.  David E. Wires, Karen E.
+Jolley and Lisa D. La Horey, for the appellants.  W. Ross Murray,
+Q.C., and M. Christine Fotopoulos, for the respondent.  Sara Blake, for the
+intervener the Attorney General for Ontario.  Neil Finkelstein and Johanna M.
+Superina, for the intervener the Ontario Securities Commission.  The judgment of the Court was delivered by   I.  Facts  2         
+The appellants, John and Nancy Edwards, represent a class of individuals
+who were allegedly victimized by a gold delivery fraud.  In 1989 the appellants
+met Arlene Woolcox, who encouraged them to purchase gold from Sisto Consultants
+Inc.  Pursuant to a “Gold Delivery Contract”, Woolcox and other selling agents
+advised the appellants that their funds were to be paid to the Palmer Mills
+client trust account and would be held in trust by Mills.  The appellants paid
+over US$300,000 in bank drafts to the trust account, which they financed by the
+sale of a portion of their business and a second mortgage on their home.  The
+bank drafts were to be held for 90 days, at the end of which the plaintiffs
+would receive the gold for which they had contracted.  Despite repeated
+requests, the gold did not materialize.  The plaintiffs later learned that
+although US$9,074,061.70 had been given in trust to Mills for the delivery of
+the gold, no mine existed and no gold was ever produced to satisfy the delivery
+requirements of the Gold Delivery Contracts.  By May 15, 1990, only
+US$109,247.39  remained in the trust account.  This amount was seized by the
+Ontario Securities Commission.  3         
+As in Cooper, supra, the particulars of the alleged fraud
+are not at issue in this appeal; what is at issue is the role of the Law
+Society in allegedly failing “to take any effective steps to ensure that Mills
+was operating his trust account in the prescribed manner”.  The Law Society
+entered the fray when, in 1989, Mills wrote them a letter regarding the
+unorthodox use of his own trust account.  Based on this disclosure, the Law
+Society commenced an investigation.  The appellants claim that once the Law
+Society knew the account was being used improperly, the “Law Society had a duty
+to ensure that Mills operated his trust account according to regulations or
+alternatively to warn the plaintiffs and the Class that it had chosen to
+abandon its supervisory jurisdiction”.  4                                  
+In the appellants’ view, the Law Society breached its duty of care by failing
+“to take any effective steps to ensure that Mills was operating his trust
+account in the prescribed manner”.  The appellants allege, in particular, that
+the Law Society:  (a)  made a decision to investigate allegations of irregularities in
+the trust account of Palmer Mills but failed to contact Mills to ask for an
+opportunity to review his books of account, compare the accounts with the
+Society’s trust accounting regulations or the Public Trustee and freeze the
+trust account pending notification of the beneficiaries of the account;  (b)  failed to properly investigate facts which, if true, appeared to
+establish Mills’ breach of the Law Society trust accounting regulations when it
+knew or ought to have known that Mills had been reported to the Law Society
+approximately 12 months earlier for alleged breach of trust accounting
+regulations;  (c)  failed to require Mills to present his trust accounting records
+for examination and review;  (d)  failed to warn beneficiaries of the trusts of which Mills was
+trustee that there were grounds for investigating the books of account of the
+Palmer Mills trust account;  (e)  failed to make a determination that there was reasonable cause to
+believe that Mills was or may be guilty of misconduct in connection with the
+trust funds in his possession or under his control and that his trust accounts
+were being used to facilitate a fraud on the plaintiffs and Class members;  (f)  having failed to make the determination that there was reasonable
+cause to believe that Mills was or may be guilty of misconduct in connection
+with the trust funds in his possession or under his control, failed to take the
+necessary steps to ensure that the trust funds were not paid out or dealt with
+by Mills without leave of a judge of the Ontario Court (General Division);  (g)  failed to take any other interim measures pending completion of
+its investigation to ensure that Mills did not dissipate the trust funds of the
+plaintiffs and the Class before completion of the investigation;   (i)  failed to warn the beneficiaries that Mills had a conflict of
+interest in representing their interests and that their interests were not
+represented notwithstanding Mills’ undertaking.  The appellants
+also named selling agents, Mills (who has since died) and other defendants in
+their statement of claim.  II.  Judgments  A.  Ontario
+Court (General Division) (1998), 37 O.R. (3d) 279   B.  Ontario
+Court of Appeal (2000), 48 O.R. (3d) 329    For
+substantially similar reasons as the British Columbia Court of Appeal in Cooper,
+therefore, Finlayson J.A. dismissed the appeal.  III.  Issues  7                                  
+1.    Does the Law Society of Upper Canada owe a duty of care to persons
+who deposit money into a solicitor’s trust account in respect of losses
+resulting from misuse of the account?  2.                If there is such a duty, are
+there grounds rooted in policy which would limit or negate the finding of a
+duty?  IV.  Analysis  8         
+The companion case of Cooper outlines the approach in assessing
+whether a duty of care will be recognized in a given case.  Specifically, Cooper
+revisits the Anns test and clarifies the express policy components to be
+considered at each stage.  9         
+At the first stage of the Anns test, the question is whether the
+circumstances disclose reasonably foreseeable harm and proximity sufficient to
+establish a prima facie duty of care.  The focus at this stage is on
+factors arising from the relationship between the plaintiff and the defendant,
+including broad considerations of policy.  The starting point for this analysis
+is to determine whether there are analogous categories of cases in which
+proximity has previously been recognized.  If no such cases exist, the question
+then becomes whether a new duty of care should be recognized in the
+circumstances.  Mere foreseeability is not enough to establish a prima facie
+duty of care.  The plaintiff must also show proximity — that the defendant was
+in a close and direct relationship to him or her such that it is just to impose
+a duty of care in the circumstances.  Factors giving rise to proximity must be grounded
+in the governing statute when there is one, as in the present case.  10     
+If the plaintiff is successful at the first stage of Anns such
+that a prima facie duty of care has been established (despite the fact
+that the proposed duty does not fall within an already recognized category of
+recovery), the second stage of the Anns test must be addressed.  That
+question is whether there exist residual policy considerations which justify
+denying liability.  Residual policy considerations include, among other things,
+the effect of recognizing that duty of care on other legal obligations, its
+impact on the legal system and, in a less precise but important consideration,
+the effect of imposing liability on society in general.  V.  Application
+of the Test  11     
+The appellants submitted that the Law Society of Upper Canada, as the
+governing body of the self-regulated legal profession in Ontario, owed a duty
+of care to persons who deposited money into a solicitor’s trust account in
+respect of losses resulting from misuse of that account.  Applying the test
+expressed in the companion appeal of Cooper, we disagree.  For
+substantially the reasons advanced by the Court of Appeal, per Finlayson
+J.A., we find that this is not a proper case in which to find a duty of care.  12     
+Examining the first branch of the Anns test, whether there
+presently exists a duty of care, we conclude that this case does not fall
+within nor is it analogous to any category of cases in which a duty of care has
+previously been recognized.  13     
+The next question is whether this is a situation in which a new duty of
+care should be recognized.  In order to satisfy this requirement, the plaintiff
+must show foreseeability and proximity.  An examination of the governing
+statute, the Law Society Act, does not reveal any legislative intent to
+expressly or by implication impose a private law duty on the Law Society in the
+facts of this case.  It is noteworthy that, as Finlayson J.A. observed, it was
+not expressly alleged that the appellants, or any members of the class that
+they propose to represent, were “clients” of Mills in the traditional sense. 
+Instead, the appellants alleged that the duty of the Law Society went beyond a
+concern for the protection of clients in the traditional sense and extended to
+the public in general.  14     
+With reference to the Act, it is apparent that the Law Society regulates
+the legal profession.  Specifically, its responsibilities include the admission
+standards of the profession (beginning at s. 27), the continuing education of
+its members (s. 60) and the formulation and enforcement of a code of
+professional ethics.  The appellants argued that a private law duty of care to
+persons who deposit moneys into a solicitor’s trust account, as members of the
+public, can be inferred from the Law Society’s statutory public interest
+mandate.  In particular, it is alleged that the Law Society’s investigative and
+disciplinary powers over its members (beginning at s. 33), ground this duty to
+persons such as the appellants in the present case.  We disagree.  The Law
+Society Act is geared for the protection of clients and thereby the public
+as a whole, it does not mean that the Law Society owes a private law duty of
+care to a member of the public who deposits money into a solicitor’s trust
+account.  Decisions made by the Law Society require the exercise of
+legislatively delegated discretion and involve pursuing a myriad of objectives
+consistent with public rather than private law duties.  15     
+Safeguards, in addition to a private law duty of care, exist to ensure
+the protection and compensation of clients as members of the public.  These
+safeguards are expressly provided by the Legislature as a means to compensate
+for economic loss.  Examples include a public insurance and/or compensation
+scheme funded by the profession itself.  In this case, the Law Society
+maintains a Compensation Fund (see s. 51) to compensate for losses sustained as
+a result of dishonesty by lawyers.  The Lawyers’ Professional Indemnity Company
+provides insurance for claims by clients against their lawyers for negligence
+(see s. 61).  16     
+Finally, and perhaps most indicative of the Legislature’s intent, the
+Act provides statutory immunity in s. 9 of the Act which read:  9.  No action or other proceedings for
+damages shall be instituted against the Treasurer or any bencher, official of
+the Society or person appointed in Convocation for any act done in good faith
+in the performance or intended performance of any duty or in the exercise or in
+the intended exercise of any power under this Act, a regulation or a rule, or for
+any neglect or default in the performance or exercise in good faith of any such
+duty or power.  17     
+Section 9 precludes any inference of an intention to provide
+compensation in circumstances that fall outside the lawyers’ professional
+indemnity insurance and the lawyers’ fund for client compensation.  18     
+We conclude that no prima facie duty of care arose between the
+Law Society and the appellants who deposited money into a solicitor’s trust
+account, not as clients but as participants in a third person business promotion.  19     
+In light of this conclusion, it is unnecessary to examine the second
+stage of the Anns test.  However, had we found the existence of a prima
+facie duty of care at stage one, such duty of care would have been negated
+by residual policy considerations outside the relationship of the parties. 
+This was the conclusion in Cooper and this case is indistinguishable.  20     
+In the result the judgment of the Ontario Court of Appeal is affirmed
+and the appeal is dismissed with costs.  Appeal dismissed with costs.  Solicitors for the appellants:  McCague, Wires, Peacock,
+Borlack, McInnis & Lloyd, Toronto.  Solicitors for the respondent:  Borden Ladner Gervais,
+Toronto.  Solicitor for the intervener the Attorney General for
+Ontario:  The Attorney General for Ontario, Toronto.  Solicitor for the intervener the Ontario Securities
+Commission:  Blake, Cassels & Graydon, Toronto.   

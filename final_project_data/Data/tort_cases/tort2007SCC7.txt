@@ -1,0 +1,274 @@
+                                                   SUPREME
+COURT OF CANADA   Citation:  Resurfice
+  Corp. v. Hanke, [2007] 1 S.C.R. 333, 2007 SCC 7   Date:  20070208 Docket:  31271  Between: Resurfice Corp. Appellant and Ralph Robert Hanke Respondent And between: LeClair Equipment
+Ltd. Appellant and Ralph Robert Hanke Respondent  Coram:
+McLachlin C.J. and Bastarache, Binnie, LeBel, Deschamps, Fish, Abella, Charron
+and Rothstein JJ.   Reasons for
+  Judgment: (paras. 1 to 30)   McLachlin C.J. (Bastarache,
+  Binnie, LeBel, Deschamps, Fish, Abella, Charron and Rothstein JJ. concurring) ______________________________ Resurfice Corp. v. Hanke, [2007] 1 S.C.R. 333, 2007 SCC
+7  Resurfice Corp.                                                                                                Appellant  v.  Ralph Robert Hanke                                                                                     Respondent  and  LeClair Equipment Ltd.                                                                                   Appellant  v.  Ralph Robert Hanke                                                                                     Respondent  Indexed as:  Resurfice Corp. v. Hanke  Neutral citation:  2007 SCC 7.  File No.:  31271.  2006:  December 12; 2007:  February 8.  Present:  McLachlin C.J. and Bastarache, Binnie,
+LeBel, Deschamps, Fish, Abella, Charron and Rothstein JJ.  on appeal from the court of appeal for alberta    Held:  The appeal
+should be allowed and the trial judgment restored.    Cases Cited  Referred to:  Jordan
+House Ltd. v. Menow, [1974] S.C.R. 239; Stewart v. Pettie,
+[1995] 1 S.C.R. 131; R. v. Mohan, [1994] 2 S.C.R. 9;
+Housen v. Nikolaisen, [2002] 2 S.C.R. 235,
+2002 SCC 33; Haida Nation v. British Columbia (Minister of
+Forests), [2004] 3 S.C.R. 511, 2004 SCC 73; Athey v.
+Leonati, [1996] 3 S.C.R. 458; Snell v. Farrell, [1990]
+2 S.C.R. 311; Walker Estate v. York Finch General Hospital,
+[2001] 1 S.C.R. 647, 2001 SCC 23; Blackwater v. Plint,
+[2005] 3 S.C.R. 3, 2005 SCC 58; Cook v. Lewis,
+[1951] S.C.R. 830.  Authors Cited  Klar, Lewis.  “Downsizing
+Torts”.  In Nicholas J. Mullany and Allen M. Linden, eds.,
+Torts Tomorrow:  A Tribute to John Fleming.  Sydney,
+N.S.W.:  LBC Information Services, 1998, 305.  APPEAL from a judgment of the Alberta Court of Appeal
+(McFadyen, Berger and Ritter JJ.A.) (2005), 53 Alta. L.R.
+(4th) 219, 380 A.R. 216, 363 W.A.C. 216, [2005] A.J.
+No. 1480 (QL), 2005 ABCA 383, reversing a decision of
+Wilson J. (2003), 333 A.R. 371, [2003] A.J. No. 946 (QL),
+2003 ABQB 616.  Appeal allowed.  Daniel W. Hagg, Q.C., and Jeffrey R. Sermet, for the
+appellant Resurfice Corp.  David J. Cichy, Q.C.,
+and E. Jane  Sidnell, for the appellant LeClair Equipment Ltd. Jonathan P. Rossall, Q.C., and David D. Risling, for the
+respondent.  The judgment of the Court was delivered by  1                                  
+The Chief Justice — This
+case involves a tragic injury that befell a young man, Mr. Hanke, when a water
+hose was placed into the gasoline tank of an ice-resurfacing machine rather
+than the water tank. When hot water overfilled the gasoline tank, vapourized
+gasoline was released into the air. It was ignited by an overhead heater,
+causing an explosion and fire.  Mr. Hanke, who was employed by the City of
+Edmonton to run the ice-resurfacing machine and look after the ice-rink, was
+badly burned.  2                                  
+Mr. Hanke sued the manufacturer and distributor of the ice-resurfacing
+machine for damages, alleging design defects.  He contended that the gasoline
+tank and the water tank were similar in appearance and placed close together on
+the machine, making it easy to confuse the two.  3                                  
+After a lengthy trial, the trial judge dismissed Mr. Hanke’s action
+((2003), 333 A.R. 371, 2003 ABQB 616).  He found that Mr. Hanke had not
+discharged the plaintiff’s burden of establishing that the accident was caused
+by the negligence of the manufacturer or distributor.  First, he had not
+established that it was reasonably foreseeable that an operator of the
+ice-resurfacing machine would mistake the gas tank and the hot water tank. 
+Second, he had not shown that the defendants caused the accident.  The trial
+judge concluded that the accident had been caused by Mr. Hanke’s decision to
+turn the water on when he knew, or should have known, that the water hose was
+in the gasoline tank, knowing full well, by his own admission, the difference
+between the two tanks.  He found as a fact that Mr. Hanke was not confused by
+the placement and character of the tanks, and consequently that this had not
+caused the accident.  4                                  
+On appeal, the judgment was set aside and a new trial ordered ((2005),
+53 Alta. L.R. (4th) 219, 2005 ABCA 383).  The Court of Appeal concluded that
+the trial judge had erred in both his foreseeability and causation analyses. 
+The trial judge’s conclusion on foreseeability, the court found, was vitiated
+by a number of errors, namely:  failure to give “adequate analytical emphasis”
+to certain evidence concerning the placement and marking of the tanks and other
+workers who had made the same mistake (para. 20); and failure to consider
+policy factors in determining foreseeability (para. 21).  On causation, the
+Court of Appeal held that the trial judge had erred by failing to consider the
+“comparative blameworthiness” of the plaintiff and the defendants (paras.
+15-16), and in applying a “but for” test instead of a material contribution
+test (paras. 12-14).  5                                  
+The two issues that divided the Alberta courts — foreseeability and
+causation — dominate the appeal before us.  I will deal with each in turn.  A.     Foreseeability  6                                  
+Liability for negligence requires breach of a duty of care arising from
+a reasonably foreseeable risk of harm to one person, created by the act or
+omission of another: Jordan House Ltd. v. Menow, [1974] S.C.R. 239, at
+p. 247, per Laskin J. (as he then was).  By enforcing reasonable
+standards of conduct, so as to prevent the creation of  reasonably foreseeable
+risks of harm, tort law serves as a disincentive to risk-creating behaviour: Stewart
+v. Pettie, [1995] 1 S.C.R. 131, at para. 50, per Major J. The
+major elements of a tort action — duty, breach causing injury and cause —
+reflect “the principle of moral wrongdoing which is the basis of the negligence
+law”:  L. Klar, “Downsizing Torts”, in N. J. Mullany and A. M.
+Linden, eds., Torts Tomorrow: A Tribute to John Fleming (1998), 305, at
+p. 307.  7                                  
+The trial judge found that it was not reasonably foreseeable that an
+operator of the ice-resurfacing machine at issue would mistake the gas tank and
+the hot water tank, and thus place (or allow to remain) a water hose in the gas
+tank, thereby generating vapourized gasoline that might be ignited by an open
+flame, leading to an explosion and fire.  The trial judge based this conclusion
+on the evidence, including the different size of the two tanks (one was much
+taller than the other), and on the fact (as found by him) that the gas tank had
+a label on it that said “Gasoline Only”. He emphasized Mr. Hanke’s admission
+that he knew the difference between the two tanks,  and found that he was not
+confused between them.  8                                  
+The Court of Appeal’s first criticism on the foreseeability issue was
+that the trial judge failed to give sufficient “analytical emphasis” to various
+aspects of the plaintiff’s evidence.  It is true that, having found that the
+accident was due to operator error, the trial judge stated, “[t]hus, in this
+case I do not get to the point of reviewing alleged design error or failure to
+warn” (para. 65).  However, he went on immediately to review all the design
+errors alleged by the plaintiff and to state why he rejected the allegations
+(para. 65).  He dealt with the allegation of the similar caps, the location of
+the hot water tank adjacent to the gas tank, the alleged similarity between the
+two tanks and the issue of warning signs, disposing of each one in turn.  9                                  
+The plaintiff submits that the trial judge discounted the evidence of
+expert witnesses called by the plaintiff on the design of gas delivery systems
+and the behaviour of workers.  It is true that the trial judge placed no
+reliance on these witnesses.  However, a trial judge is not obliged to consider
+the opinions of expert witnesses if he can arrive at the necessary conclusions
+on issues of fact and responsibility without doing so: R. v. Mohan,
+[1994] 2 S.C.R. 9, at pp. 23-24.  10                              
+The plaintiff also submits that the trial judge should have placed more
+weight on the evidence of two other workers who said they had made similar
+mistakes in the past, while operating similarly configured machines.  The trial
+judge discounted this evidence on the basis of his finding that in this case
+there had been no confusion.  It is said that this was wrong because the
+evidence on the absence of confusion was far from conclusive.  However, a trial
+judge is not obliged to accept all of the evidence.  What is essential is that
+there be evidence to support the findings of fact he or she makes.  The Court
+of Appeal can interfere with findings of fact only if the trial judge has made
+a palpable and overriding error with respect to them:  Housen v. Nikolaisen,
+[2002] 2 S.C.R. 235, 2002 SCC 33, at para. 10.  There was evidence that
+supported the trial judge’s finding that Mr. Hanke was not confused, notably
+his own admission.  The trial judge’s finding of no confusion therefore cannot
+be displaced.  11                              
+The Court of Appeal’s second criticism of the trial judge’s rejection of
+reasonable foreseeability was that the trial judge failed to consider policy
+matters, namely the seriousness of the injury and the relative financial
+positions of the parties. The Court of Appeal erred in suggesting that these matters
+are relevant to foreseeability.  Foreseeability depends on what a reasonable
+person would anticipate, not on the seriousness of the plaintiff’s injuries (as
+in this case) or the depth of the defendant’s pockets: Haida Nation v.
+British Columbia (Minister of Forests), [2004] 3 S.C.R. 511, 2004 SCC 73,
+at para. 55.  12                              
+I conclude that, while the Court of Appeal would have preferred a
+different approach to foreseeability, no error of law or palpable and
+overriding error of fact or mixed fact and law has been established in the
+trial judge’s approach or conclusion.  The Court of Appeal erred in interfering
+on this ground.  B.      Causation  13                              
+The trial judge stated that “[t]he onus is on the Plaintiff to establish
+that the damage was caused by the negligence of one or both of the Defendants
+to some degree” (para. 10).  He also said: “I must find causation against these
+defendants before considering contribution” (para. 46).  He went on to
+conclude: “The Plaintiff has failed to establish that the injuries were caused
+by negligent design. . . . That being the case, it is not necessary for this
+Court to consider the apportionment of fault under the rules of contribution .
+. .” (para. 58).  14                              
+The trial judge based these conclusions on the evidence.  He emphasized
+Mr. Hanke’s admission that “when he looked at the unit from behind he knew
+precisely which was the water tank and which was the gasoline tank” (para. 41),
+as well as his admission that “he was fully familiar with the fact that hot
+water should not be introduced into the gasoline tank” (para. 42).  He noted
+that the caps on the two tanks as designed and delivered had been different,
+and had been replaced by similar caps by the City.  He also noted the absence
+of evidence from Mr. Binette, who had prepped the machine before Mr. Hanke’s
+arrival.  Although he stated that he did not get to the point of “reviewing
+alleged design error or failure to warn”, as noted above (para. 8), he also
+went on to consider the alleged design errors, disposing of each in turn (para.
+65).  He concluded that “there is no evidence that would show to the balance of
+probabilities that this event was caused by the defendants” (para. 54).  15                              
+The Court of Appeal stated that the trial judge had erred in failing to
+conduct a proper contributory negligence analysis and thus in not considering
+the comparative blameworthiness of the plaintiff and the defendants (paras.
+15-16).  The Court of Appeal also found that the trial judge erred in applying
+a “but for” test for causation instead of a material contribution test (paras.
+12-14).  1.      Comparative Blameworthiness  16                              
+The appellants argue that the Court of Appeal erred in suggesting
+that “comparative blameworthiness” is a necessary component of the causation
+analysis.  The suggestion attributed to the Court of Appeal is that a court
+must approach causation not simply by asking whether the defendant’s negligent
+act caused the loss, but by looking globally at all possible causes.  17                              
+It is true that the trial judgment contains some passages that suggest
+that the carelessness of Mr. Hanke automatically absolves the respondent
+manufacturer and distributor of liability.  That is not the case.  An example,
+put to us in oral argument, illustrates the point.  If it is industry standard
+to design an iron with an automatic shut-off switch, and an iron is
+manufactured without such a switch, the manufacturer of the iron is not
+absolved of liability merely because the plaintiff was careless in leaving the
+iron on, resulting in a fire and injuries to the plaintiff.  However, I am
+satisfied that the trial judge found not only that Mr. Hanke’s carelessness was
+responsible for his injuries, but also that the alleged design defects were not
+responsible for Mr. Hanke’s injuries.  For example, the trial judge noted that
+“the accident was caused by operator error and had nothing to do with the
+design or manufacture of the machine” (para. 56).  In light of this finding
+there was no need for the trial judge to engage in a contributory negligence analysis.  2.      The Test for Causation  18                              
+The Court of Appeal found, correctly, that the trial judge had applied a
+“but for” test in determining causation, stating, “[t]he thrust of the
+reasoning is that ‘but for’ the Appellant putting or leaving the hose in the
+gasoline tank, the explosion would not have occurred” (para. 12).  Referring to
+the observation in Athey v. Leonati, [1996] 3 S.C.R. 458, at para. 15,
+that the “but for” test “is unworkable in some circumstances”, the Court of
+Appeal concluded that this was such a case and that the trial judge should have
+used a “material contribution” test instead of the “but for” test (para. 14).  19                              
+The Court of Appeal erred in suggesting that, where there is more
+than one potential cause of an injury, the “material contribution” test must be
+used.  To accept this conclusion is to do away with the “but for” test
+altogether, given that there is more than one potential cause in virtually all
+litigated cases of negligence.  If the Court of Appeal’s reasons in this regard
+are endorsed, the only conclusion that could be drawn is that the default test
+for cause-in-fact is now the material contribution test.  This is inconsistent
+with this Court’s judgments in Snell v. Farrell, [1990] 2 S.C.R. 311; Athey
+v. Leonati, at para. 14; Walker Estate v. York Finch General Hospital,
+[2001] 1 S.C.R. 647, 2001 SCC 23, at paras. 87-88, and Blackwater v. Plint,
+[2005] 3 S.C.R. 3, 2005 SCC 58, at para. 78.  20                              
+Much judicial and academic ink has been spilled over the proper test for
+causation in cases of negligence.  It is neither necessary nor helpful to
+catalogue the various debates.  It suffices at this juncture to simply assert
+the general principles that emerge from the cases.  21                              
+First, the basic test for determining causation remains the “but
+for” test.  This applies to multi-cause injuries.  The plaintiff bears the
+burden of showing that “but for” the negligent act or omission of each
+defendant, the injury would not have occurred.  Having done this, contributory
+negligence may be apportioned, as permitted by statute.  22                              
+This fundamental rule has never been displaced and remains the primary
+test for causation in negligence actions.  As stated in Athey v. Leonati,
+at para. 14, per Major J.,  “[t]he general, but not conclusive, test for
+causation is the ‘but for’ test, which requires the plaintiff to show that the
+injury would not have occurred but for the negligence of the defendant”. 
+Similarly, as I noted in Blackwater v. Plint, at para. 78,  “[t]he rules
+of causation consider generally whether ‘but for’ the defendant’s acts, the
+plaintiff’s damages would have been incurred on a balance of probabilities.”  23                              
+The “but for” test recognizes that compensation for negligent conduct
+should only be made “where a substantial connection between the injury and the
+defendant’s conduct” is present.  It ensures that a defendant will not be held
+liable for the plaintiff’s injuries where they “may very well be due to factors
+unconnected to the defendant and not the fault of anyone”: Snell v. Farrell,
+at p. 327, per Sopinka J.  24                              
+However, in special circumstances, the law has recognized exceptions to
+the basic “but for” test, and applied a “material contribution” test.  Broadly
+speaking, the cases in which the “material contribution” test is properly
+applied involve two requirements.  25                              
+First, it must be impossible for the plaintiff to prove that the
+defendant’s negligence caused the plaintiff’s injury using the “but for” test. 
+The impossibility must be due to factors that are outside of the plaintiff’s
+control; for example, current limits of scientific knowledge.  Second, it must
+be clear that the defendant breached a duty of care owed to the plaintiff,
+thereby exposing the plaintiff to an unreasonable risk of injury, and the
+plaintiff must have suffered  that form of injury.  In other words, the
+plaintiff’s injury must fall within the ambit of the risk created by the
+defendant’s breach.  In those exceptional cases where these two requirements
+are satisfied, liability may be imposed, even though the “but for” test is not
+satisfied, because it would offend basic notions of fairness and justice to
+deny liability by applying a “but for” approach.  26                              
+These two requirements are helpful in defining the situations in which an
+exception to the “but for” approach ought to be permitted.  Without dealing
+exhaustively with the jurisprudence, a few examples may assist in demonstrating
+the twin principles just asserted.  27                              
+One situation requiring an exception to the “but for” test is the
+situation where it is impossible to say which of two tortious sources caused
+the injury, as where two shots are carelessly fired at the victim, but it is
+impossible to say which shot injured him: Cook v. Lewis, [1951] S.C.R.
+830.  Provided that it is established that each of the defendants carelessly or
+negligently created an unreasonable risk of that type of injury that the
+plaintiff in fact suffered (i.e. carelessly or negligently fired a shot that
+could have caused the injury), a material contribution test may be
+appropriately applied.  28                              
+A second situation requiring an exception to the “but for” test may be
+where it is impossible to prove what a particular person in the causal chain
+would have done had the defendant not committed a negligent act or omission,
+thus breaking the “but for” chain of causation.  For example, although there
+was no need to rely on the “material contribution” test in Walker Estate v.
+York Finch General Hospital, this Court indicated that it could be used
+where it was impossible to prove that the donor whose tainted blood infected
+the plaintiff would not have given blood if the defendant had properly warned
+him against donating blood.  Once again, the impossibility of establishing
+causation and the element of injury-related risk created by the defendant are
+central.  29                              
+In this case, the Court of Appeal erred in failing to recognize that the
+basic test for causation remains the “but for” test.  It further erred in
+applying the material contribution test in circumstances where its use was
+neither necessary nor justified.  C.     Conclusion  30                              
+I would allow the appeal, set aside the order of the Court of Appeal and
+restore the trial judgment, with costs throughout.  Appeal allowed with costs.  Solicitors for the appellant Resurfice Corp.:  Bryan &
+Company, Edmonton.  Solicitors for the appellant LeClair Equipment
+Ltd.:  Miller Thomson, Calgary.  Solicitors for the respondent:  McLennan Ross, Edmonton.   

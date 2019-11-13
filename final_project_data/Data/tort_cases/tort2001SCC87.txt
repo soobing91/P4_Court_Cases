@@ -1,0 +1,197 @@
+ legal representative of the late Henri Masson                                               Appellant  v.  General Trust of Canada, in its capacity as legal representative of the late Joseph Avila Perras                                  Respondent  and  Mark Weinberg and Lucien Roy                                                      (Respondents/ Defendants before the Superior Court)   Neutral citation:  2001 SCC 87.  File No.:  27623.  2001:  May 16; 2001:  December  7.   on appeal from the court of appeal for quebec  Civil liability – Professional liability –
+Chartered accountant – Whether constituent elements of civil liability
+established – Whether creditor must exhaust remedies against debtors before
+bringing action in professional liability.  Civil law – Obligations – Obligations in solidum –
+Sum of money owed by two different debtors as debt for contractual liability
+and as balance of selling price – Whether obligations must be regarded as in
+solidum.  In 1988, P sold a number of lots to a company and two
+shareholders assumed joint and several liability for the selling price.  The
+company later sold the lots to 2639-1565 Québec inc. and in the deed of sale
+2639-1565 Québec inc. assumed joint and several liability to P for the balance
+of the selling price.  When the term for payment of the balance of the selling
+price was up, P instructed M, his chartered accountant and professional
+adviser, to prepare a statement of account for the balance owing by 2639-1565
+Québec inc.  In preparing that statement, M committed an error which reduced
+the liability by $170,000.  A notary prepared the discharges and received the
+payments on the basis of those figures, which 2639-1565 Québec inc. did not
+attempt to correct.  In the months that followed, M realized his error and
+prepared a revised statement of account but 2639-1565 Québec inc. refused to
+pay.  P then brought action against M and all of the debtors.  The Superior
+Court nullified the discharge and found M professionally liable, and found all
+the debtors, including M, jointly and severally liable to pay P the sum of
+$206,000 with interest.  The Court of Appeal varied the trial judgment.  The
+court nullified the discharge in part, set aside the joint and several award
+and declared the debt to be indivisible within the meaning of art. 1124 C.C.L.C. 
+It ordered M to pay P the sum of $206,000 with interest and ordered the other
+debtors to pay the same amount.  Since the two debts were indivisible, the
+court declared that each of the debtors and M were liable to pay the total
+amount of the debt to P.  Held:  The appeal
+should be allowed in part.  The law of delictual or contractual civil liability
+does not require merely a finding of fault.  Damage and causality must also be
+proved.  In this case, the professional liability of M has been established. 
+The discharge extinguished the sureties that secured not only the payment of
+the debt but also the debt itself.  On the date when the discharge was signed,
+P's legal status in relation to M crystallized.  As a result of the fault
+committed by M, P lost his right to claim and the sureties associated with it. 
+Since his damage was present and actual, he was not required to exhaust his
+remedies against the debtors before commencing his action in professional
+liability.  In relation to M, P had a right of claim for $182,476 in damages
+based on his adviser's professional liability.  At the same time, 2639-1565
+Québec inc. and other parties were indebted for the unpaid balance of the
+hypothecary debt, $206,000 plus interest.  The $182,476 was therefore part of a
+larger amount owed by 2639-1565 Québec inc., which could have been claimed both
+from it and from M.  Since the same sum of money was owed by two different
+debtors as a debt for contractual liability and as the balance of the selling
+price, the relationship among the co-debtors must be organized in a manner that
+reflects the principles of the law of obligations and concern for a fair
+apportionment of the legal responsibilities of each party in the situation
+created by the conflict.  To achieve those objectives, indivisibility is an
+approach that is not legally available.  The debts involve a sum of money owing
+by two different debtors and arising from separate sources.  By its nature, the
+obligation to pay a sum of money is susceptible of division.  Furthermore, the
+concept of passive joint and several liability, in the strict sense of that
+term, does not apply.  The situation that the parties are in does not fall
+within the express terms of the instances of joint and several liability set
+out in the Civil Code of Lower Canada.  The only concept that accurately
+reflects the parties' situation is obligation in solidum.  That concept
+allows for the legal problems arising from the relationship among the
+co-debtors to be solved in accordance with the general principles of joint and
+several liability and the objectives of the law of obligations.  M is therefore
+liable in solidum with 2639-1565 Québec inc. for a maximum of $182,476
+with interest at the legal rate and the additional indemnity under art. 1078.1 C.C.L.C. 
+Upon payment of that amount, M will be subrogated for an equivalent amount in
+the rights of P and may demand an equivalent contribution from 2639-1565 Québec
+inc.  Cases Cited   Statutes and Regulations Cited  Civil
+Code of Lower Canada, arts. 1023, 1078,
+1078.1, 1105, 1106, 1124.  Authors Cited    Chabas, François.  L’influence
+de la pluralité de causes sur le droit à réparation.  Paris:  Librairie
+générale de droit et de jurisprudence, 1967.  Malaurie, Philippe, et Laurent
+Aynès.  Cours de droit civil, t. VI, Les obligations, 9e
+éd. par Laurent Aynès.  Paris:  Cujas, 1998.   Mazeaud, Henri, Léon et Jean, et
+François Chabas, Leçons de droit civil, t. 2, vol. 1, Obligations:
+théorie générale, 9e éd. par François Chabas.  Paris: 
+Montchrestien, 1998.   Pineau, Jean, Danielle Burman et
+Serge Gaudet.  Théorie des obligations, 4e éd.  par Jean
+Pineau et Serge Gaudet.  Montréal:  Thémis, 2001.  Starck, Boris, Henri Roland et
+Laurent Boyer.  Droit civil:  Les obligations, t. 3, Régime
+général, 6e éd. par Henri Roland.  Paris:  Litec, 1998.  Tancelin, Maurice.  Des
+obligations: actes et responsabilités, 6e éd.  Montréal: Wilson
+& Lafleur, 1997.  APPEAL from a judgment of the Quebec Court of Appeal,
+[1999] R.R.A. 817, [1999] Q.J. No. 4446 (QL), reversing in part a judgment
+of the Superior Court, [1994] R.R.A. 125.  Appeal allowed in part.   G. George Sand and
+Olivier Tergny, for the respondent.  English version of the judgment of the Court delivered
+by   I.  Introduction   II.  Origin of the Case    III.  Judicial History  A.  Quebec Superior Court, [1994] R.R.A. 125     B.  Quebec Court of Appeal, [1999] R.R.A. 817     IV.  Legislation  10                              
+Civil Code of Lower Canada  1023.  Contracts have effect only
+between the contracting parties; they cannot affect third persons, except in
+the cases provided in the articles of the fifth section of this chapter.  1078.  Interest accrued from
+capital sums also bears interest: 1.    When there is a special agreement to that
+effect;  2.  When in any action brought such new interest is
+specially demanded;  3.  When an administrator of the property of others
+has received or ought to have received interest on the moneys of the minor, the
+protected person of full age or the beneficiary of the administration and has
+failed in his obligation to invest it within a reasonable time or within the
+term prescribed by law.  1078.1  The amount awarded by
+judgment for the inexecution of an obligation, except that contemplated in
+article 1077, bears interest at the legal rate, or, where such is the
+case, at the rate lawfully agreed between the parties, from the date of the
+institution of the action.   1105.  An obligation is not presumed to be
+joint and several; it must be expressly declared to be so.  This rule does not prevail in cases where a joint
+and several obligation arises of right by virtue of some provision of law.  Nor is it applicable to commercial transactions, in
+which the obligation is presumed to be joint and several, except in cases
+otherwise regulated by special laws.   1124.  An obligation is indivisible:  1.  When it has for its object something which by
+its nature is not susceptible of division, either materially or intellectually;  2.  When although the object of the obligation is
+divisible by its nature, yet from the character given to it by the contract,
+this object becomes insusceptible not only of performance in parts but also of
+division.  V.  Analysis
+of Issues  11                              
+The issues before this Court were narrowly framed.  Essentially, the
+issue is whether damage was done and whether there was a causal connection. 
+The professional fault committed by the accountant, Masson, is no longer in
+question. Although the appellant did not formally admit that fault, she denied
+Masson’s liability on the basis that the other constituent elements of civil
+liability are not present.     A.  Causality and Damage  15                              
+The appellant correctly pointed out that the law of delictual or
+contractual civil liability does not require merely a finding of fault.  Damage
+and causality must also be proved.  The appellant argued that although the
+accountant’s fault was established, the other constituent elements of civil
+liability were not.  In substance, she argued that the damage had not occurred
+at the time the proceedings were commenced.  She added that it was impossible
+to prove the existence and quantum of the damage before establishing that the
+parties could not be restored to their original condition because the debt
+could not be recovered.  Whether there was damage, and the evidence of that
+damage, depended on the steps that the Perras estate should have taken to
+recover after the discharge was nullified.  It was only after that stage that
+the conditions on which an action against the accountant could be commenced
+would have been met.  16                              
+This argument is based on an erroneous analysis of the legal situation
+created by the discharge signed on December 21, 1990.  That discharge
+extinguished not only the sureties that secured the payment of the debt, but
+also the debt itself.  The terms of the discharge are clear on that point:   THE within Discharge revokes and nullifies
+all receipts previously given.  17                              
+On December 21, 1990, Perras' legal status in relation to Masson
+crystallized.  As a result of the fault committed by Masson, Perras lost his
+right to claim and the sureties associated with it.  Since his damage was
+present and actual, he was not required to exhaust his remedies against the
+debtors before commencing his action in professional liability.  In relation to
+Masson, Perras had a right of claim based on his adviser’s professional
+liability.  The claim was equivalent to the loss incurred, which was
+established as $182,476.88 in principal and interest as at December 21,
+1990.  The conditions on which a civil liability action against Masson could be
+commenced had then been met.  A fault had been committed, and damage resulting
+from that fault had been established.  Contrary to the appellant’s argument,
+the damage was not purely contingent in nature.  The existence and
+determination of that damage did not depend on the recovery proceedings that
+Perras could have commenced against his debtors having been exhausted.     B.  The Problem of Indivisibility and Joint and Several
+Liability   22                              
+With respect, the Civil Code of Lower Canada does not provide for
+indivisibility in such a case.  Article 1124 C.C.L.C. provides:  1124.  An obligation is indivisible:  1.  When it has for its object something
+which by its nature is not susceptible of division, either materially or
+intellectually;  2.  When although the object of the
+obligation is divisible by its nature, yet from the character given to it by
+the contract, this object becomes insusceptible not only of performance in
+parts but also of division.  23                              
+This is certainly not a case in which the object of the obligation is
+insusceptible of division, since it consists of a sum of money.  We are not
+concerned, for example, with the delivery of a certain and determinate physical
+object, such as a vehicle.     (H., L. and J. Mazeaud and F. Chabas, Leçons de droit civil,
+t. 2, vol. 1, Obligations: théorie générale (9th ed. 1998), at
+p. 1124)  26                              
+Passive joint and several liability is one of the principal mechanisms
+created by the law of obligations to facilitate execution of an obligation
+against more than one debtor and to organize the legal relationship among
+them.  As Chabas points out, it is based on a concept of mutual
+representation.  (See also Baudouin and Jobin, supra.)  In the event
+that a debt is susceptible of division, passive joint and several liability
+enables the creditor to look to any one of the debtors, leaving them to debate
+the appropriate apportionment of the payment among themselves.  What
+art. 468 C.C.P. does is to create a convenient procedural vehicle
+for resolving a debate of that kind.   28                              
+This concept, which has been criticized frequently in French law and on
+which opinion is not unanimous among the authors in Quebec, is derived from the
+general concept of joint and several liability and is consistent with the
+general policy of that part of the law of obligations, which is to protect the
+creditor while allowing for a fair apportionment of obligations among the
+debtors.  The incorporation of that concept in Quebec civil law as art. 1106 C.C.L.C.,
+which allowed a victim of damage that was caused by several separate delictual
+faults to look to any one of the debtors for compensation, was consistent with
+that legal policy.   30                              
+Baudouin and Jobin, supra, at p. 478, expressed the effects
+of an obligation in solidum as follows:  [translation]  In effect,
+insofar as it is agreed that since (perfect) joint and several liability is an
+exceptional regime, (perfect) joint and several liability will exist only where
+the legislature has expressly prescribed it, or where the parties have clearly
+agreed to it, and that, in addition, the secondary effects of joint and several
+liability do not arise in imperfect joint and several liability, the purpose of
+the category is apparently to clarify the law in certain circumstances where
+debtors are liable for an identical object but are not subject to the secondary
+effects of joint and several liability.  Thus, the category of obligations in
+solidum allows for expeditious determination of how two debtors for the
+same amount of money, arising under separate legal instruments not resulting in
+perfect joint and several liability, are each liable for the full amount and
+not for a share pro rata, and how full payment by one results in extinction of
+the debt and entitles that debtor to an equivalent contribution from the other
+debtor.  (See Proulx v. Leblanc, [1969] B.R. 461, aff’d [1969] S.C.R.
+765.)     For these reasons, I would find Dostie to be
+contractually liable and order him on that basis to pay $65,000 as a
+comminatory penalty and to pay $25,000 as a compensatory penalty in solidum
+with Fortier and Charland, both of whom of are delictually liable.    VI.  Conclusion   Appeal allowed in part with costs.  Solicitors for the appellant:  Ogilvy Renault, Montréal.  Solicitor for the respondent:  G. George Sand, Montréal.   
