@@ -1,31 +1,52 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
+<!DOCTYPE html>
+<html>
+
+<head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>20191113 draft</title>
+    <link rel="stylesheet" href="../static/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cookie">
+    <link rel="stylesheet" href="../static/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="../static/css/Article-List.css">
+    <link rel="stylesheet" href="../static/css/Circle-Nav.css">
+    <link rel="stylesheet" href="../static/css/Dark-NavBar.css">
+    <link rel="stylesheet" href="../static/css/Pretty-Footer.css">
+    <link rel="stylesheet" href="../static/css/styles.css">
+</head>
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-    <title>Hello, world!</title>
-  </head>
-  <body>
-    <div class="jumbotron jumbotron-fluid">
-        <div class="container">
-            <h1 class="display-4">Hello, world!</h1>
-            <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-            <hr class="my-4">
-            <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-            <form class="form-inline">
-                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" id="searchTerm">
-                <button class="btn btn-primary my-2 my-sm-0" type="button" id="searchBtn">Search</button>
-                <input class="btn btn-secondary mx-1 my-2 my-sm-0" type="reset" value="Reset" id="resetBtn">
-            </form>
+<body>
+    <div>
+        <nav class="navbar navbar-light navbar-expand-md sticky-top navigation-clean-button" style="height: 80px;background-color: #0b1622;color: #ffffff;">
+            <div class="container-fluid"><a class="navbar-brand" href="#"><i class="fa fa-institution"></i>&nbsp;Supreme Court Cases</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+                <div
+                    class="collapse navbar-collapse" id="navcol-1">
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item" role="presentation"><a class="nav-link active" style="color:#ffffff;" href="https://supreme-pjs.appspot.com/"><i class="fa fa-home"></i>&nbsp;Home</a></li>
+                        <li class="nav-item" role="presentation"><a class="nav-link" style="color:#ffffff;" href="#"><i class="fa fa-wpexplorer"></i>&nbsp;Word Clouds</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div id="promo" style="height: 800px;">
+        <div id="image" style="height: 700px;">
+            <div class="jumbotron" style="opacity: 0.80;background-color: rgb(255,255,255);padding: 40px 0px 40px;height: 350px;margin: 10px 100px 10px;">
+                <h1 style="margin: 0px 0px 10px;">Intelligent Court Case Finder!</h1>
+                <p style="margin: 10px 0px 20px;"><strong>We are building an intelligent classifier of the court cases for the past 30 years. </strong><br><strong>&nbsp;&nbsp;&nbsp;&nbsp;Currently, it has 200 criminal and tax cases of the Supereme Court of Canada. </strong><br><strong>&nbsp;&nbsp;&nbsp;&nbsp;If you have any keyword to search for relevant court cases, it can immediately find them! </strong><br><br><strong>&nbsp; &nbsp; TRY IT NOW!&nbsp;</strong><br><br></p>         
+                <div class="d-flex justify-content-center">
+                    <form class="form-inline text-align">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" id="searchTerm">
+                        <button class="btn btn-primary my-2 my-sm-0" type="button" id="searchBtn">Search</button>
+                        <input class="btn btn-secondary mx-2 my-2 my-sm-0" type="reset" value="Reset" id="resetBtn">
+                    </form>
+                </div>
+            </div> 
         </div>
     </div>
-    <div class="container table table-responsive table-striped" style="overflow-y:auto; max-height:450px;">
-        <table id="search-area">
+        
+    <div class="field">
+        <table class="table table-area table-responsive table-striped custom-table">
             <thead>
                 <tr>
                     <th>Case Code</th>
@@ -36,18 +57,28 @@
                 </tr>
             </thead>
             <tbody>
-
+    
             </tbody>
         </table>
     </div>
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <div class="footer-clean"></div>
+    <footer style="height: 150px;">
+        <div class="clearfix"></div>
+        <div class="row">
+            <div class="col-sm-6 col-md-4 col-xl-8 offset-xl-2 footer-navigation" style="height: 110px;padding: 0px 0px;">
+                <h3><a href="#">Team Supreme</a><i class="fa fa-star"></i></h3>
+                <p class="links"><a href="#">Paul Dean</a><strong> · </strong><a href="#">Soobin Hwang</a><strong> · </strong><a href="#">Seunghwa Jun</a><strong>&nbsp;</strong></p>
+                <p class="company-name">Data Analytics Boot Camp 2019</p>
+            </div>
+        </div>
+    </footer>
+    <script src="../static/js/jquery.min.js"></script>
+    <script src="../static/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../static/js/Circle-Nav.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
     <script src="../static/js/data.js"></script>
     <script src="../static/js/app.js"></script>
 </body>
+
 </html>
