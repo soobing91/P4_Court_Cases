@@ -1,0 +1,41 @@
+#promo {
+  text-align: center;
+  padding: 20px 100px 20px;
+  background-color: #05264a;
+  background-size: cover;
+}
+
+#promo.jumbotron {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgba(255,255,255, 0.75);
+  max-width: 800px;
+  margin: auto;
+}
+
+.table-area th {
+  background-color: rgba(13,22,33);
+  border-color: rgba(13,22,33);
+  color: white;
+}
+
+.table-area {
+  background-color: gainsboro;
+  border-radius: 5px;
+}
+
+a {
+  color: black;
+}
+
+.field {
+  background-color: #05264a;
+  padding: 0px 100px 150px;
+}
+
+@media (min-width: 922px) {
+  promo.jumbotron {
+    padding: 20px;
+  }
+}
+
