@@ -13,13 +13,13 @@
   margin: auto;
 }
 
-.custom-table th {
+.table-area th {
   background-color: rgba(13,22,33);
   border-color: rgba(13,22,33);
   color: white;
 }
 
-.custom-table {
+.table-area {
   background-color: gainsboro;
   border-radius: 5px;
 }
@@ -30,7 +30,7 @@ a {
 
 .field {
   background-color: #05264a;
-  padding: 0px 100px 50px;
+  padding: 0px 100px 150px;
 }
 
 @media (min-width: 922px) {

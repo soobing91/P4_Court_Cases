@@ -22,7 +22,7 @@
 }
 
 .navigation-clean-button .navbar-brand:hover {
-  color: #222;
+  color: white;
 }
 
 .navigation-clean-button .navbar-toggler {
@@ -74,6 +74,9 @@
   background-size: cover;
 }
 
-#search-table {
+#image2 {
+  text-align: center;
+  padding: 40px;
+  background: url(../img/court2.jpg);
+  background-size: cover;
 }
-

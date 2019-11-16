@@ -7,8 +7,12 @@ footer {
   font: bold 16px sans-serif;
   padding: 10px 50px;
   margin-top: 20px;
+  border-top-style: solid;
+  border-top-width: 10px;
+  border-top-color: #05264a;
   bottom: 0;
   color: #fff;
+  position: fixed;
 }
 
 .footer-navigation h3 {

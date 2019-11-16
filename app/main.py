@@ -26,6 +26,9 @@ def home():
     """Return a friendly HTTP greeting."""
     return render_template('index.html')
 
+@app.route('/wordclouds/')
+def wordclouds():
+    return render_template('wordclouds.html')
 
 if __name__ == '__main__':
     # This is used when running locally only. When deploying to Google App
